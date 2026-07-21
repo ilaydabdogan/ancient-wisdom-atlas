@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.vietnamese-annam-legends-chivas-baron-archive-l2697-l2726
+source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+passage_locator:
+  label: SONGS    OF    BLIND    MEN / THE    MARKET    OF    PHU-CAM / THE    CROW    AND    THE    PEACOCK
+    / THE   DAUGHTER    OF    KING   MINH-TONG; lines 2697-2726
+  start: '2697'
+  end: '2726'
+  translation: Stories and Legends of Annam
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker addresses dwellers in Phu-Cam and begins the tale of King Minh-Tong’s
+    daughter, describing her beauty, jewels, silks, rings, diamond-studded nail-cases,
+    golden bead necklaces, public prostration by Annamites, and musical accompaniment
+    by royal musicians. A note states that ancient Annamite law forbade subjects,
+    on pain of death, to lift their eyes to the king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a speaker addressing dwellers in Phu-Cam and announcing
+    a tale about a pretty princess.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The princess is identified as a king’s daughter.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The princess is described as decorated with gems, soft silks, rings, diamond-studded
+    nail-cases, and long necklaces of more than one hundred golden beads.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Annamites bow down at the princess’s passing, with their foreheads in the
+    dust.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Royal musicians accompany the princess with flutes and guitars.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A footnote states that ancient Annamite law forbade subjects, under penalty
+    of death, to lift their eyes to the king.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: daughter of King Minh-Tong
+  description: A pretty princess and king’s daughter adorned with gems, silks, rings,
+    nail-cases, diamonds, and golden bead necklaces.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Annamites
+  description: People who bow with foreheads in the dust at the princess’s passing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: royal musicians
+  description: Musicians who accompany the princess with flutes and guitars.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: dwellers in Phu-Cam
+  description: The addressed audience of the speaker’s tale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: princess
+  assigned_to:
+  - fig:1
+  basis: The speaker says the tale concerns a pretty princess.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: king’s daughter
+  assigned_to:
+  - fig:1
+  basis: The passage identifies her as a king’s daughter.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: prostrating subjects or people
+  assigned_to:
+  - fig:2
+  basis: They bow down with foreheads in the dust at the princess’s passing.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: musical attendants
+  assigned_to:
+  - fig:3
+  basis: They accompany the princess with flutes and guitars.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: addressed audience
+  assigned_to:
+  - fig:4
+  basis: The speaker addresses them before telling the tale.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: royal jewels and ornaments
+  literal_form: gems, rings, diamond-studded nail-cases, and golden bead necklaces
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: soft silks
+  literal_form: the softest silks caressed by the princess’s fingers
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: prostration in dust
+  literal_form: Annamites bowing with foreheads in the dust
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: royal music
+  literal_form: flutes and guitars played by royal musicians
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Address to Phu-Cam
+  summary: A speaker addresses the dwellers in Phu-Cam and announces a tale about
+    a pretty princess.
+  figure_refs:
+  - fig:4
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Adornment of the princess
+  summary: The king’s daughter is described through her gems, silks, rings, diamond-studded
+    nail-cases, and golden bead necklaces.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Public homage and musical accompaniment
+  summary: At the princess’s passing, Annamites bow with foreheads in the dust while
+    royal musicians accompany her with flutes and guitars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal status displayed through adornment and public homage
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The princess’s royal identity is emphasized through costly adornment, prostration
+    by the people, and musical attendance.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is descriptive and does not narrate succession, rule, or explicit
+    legitimation; the taxonomy match is based on royal display and public deference
+    only.
+- id: motif:2
+  label: princess as idealized noble woman
+  taxonomy_refs: []
+  basis: The speaker frames the figure as a pretty princess and describes her luxurious
+    clothing, ornaments, and happiness as a king’s daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a literary descriptive pattern rather than a developed mythic
+    action motif in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2697-2702
+  quote_or_summary: The speaker addresses dwellers in Phu-Cam and says he will tell
+    the tale of a pretty princess.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2703-2706
+  quote_or_summary: The princess is a king’s daughter, decked with very lovely gems.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 2707-2717
+  quote_or_summary: Her fingers are associated with soft silks and are covered with
+    rings and diamond-studded nail-cases; her throat bears long necklaces of more
+    than one hundred golden beads.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2718-2722
+  quote_or_summary: At her passing, Annamites bow down with their foreheads in the
+    dust.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2723-2726
+  quote_or_summary: Royal musicians accompany her with flutes and guitars, followed
+    by the exclamation that daughters of kings are happy.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: footnote to line 2722
+  quote_or_summary: The note says ancient Annamite law forbade subjects, under pain
+    of death, to lift their eyes to the king.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif assignment is cautious because
+    the passage is an introductory descriptive stanza rather than a complete narrative
+    episode. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:vietnamese-annam-legends-chivas-baron-archive__l2697-l2726
+  passage_sha256=19ee89d8e89605bb4e479e781a409f8ec5c1eec63c19aea3f08bf2c42369fca0
+

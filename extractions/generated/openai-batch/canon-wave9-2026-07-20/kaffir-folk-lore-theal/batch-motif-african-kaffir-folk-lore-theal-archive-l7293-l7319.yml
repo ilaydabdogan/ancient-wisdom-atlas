@@ -1,0 +1,418 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l7293-l7319
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: STORY  OF  THE   WONDERFUL  HORNS,      171 / THE  STORY  OF  THE  GLUTTON.
+    / THE  STORY  OF  THE  GLUTTON,  173 / STORY  OF  THE  GLUTTON,  175; lines 7293-7319
+  start: '7293'
+  end: '7319'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A warning is given that the glutton will swallow the boys. The boys go
+    to the monster while it sleeps, shoot both of its eyes with arrows, later find
+    it dead, and report to their mother. Hearing voices inside the glutton, the mother
+    cuts it open with a knife; people, cattle, and dogs emerge. The released people
+    learn who killed the glutton and reward the boys with cattle.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The boys are warned that the glutton will swallow them.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The boys leave home and go toward the place where the monster lives.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boys find the monster asleep and shoot it with arrows in both eyes.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The boys return home and tell their mother what happened.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The next day the boys find the glutton dead.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The boys hear people talking inside the glutton and tell their mother.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The mother takes a knife and cuts the glutton open.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: People, cattle, and dogs come out of the opened glutton.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The people ask who killed the glutton.
+  category: speech
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The mother of the twins tells the people, and they reward the boys with many
+    cattle.
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the boys / twins
+  description: Two boys, later identified through the phrase "mother of the twins,"
+    who go to the monster, shoot its eyes, and are rewarded.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+- id: fig:2
+  name_or_label: mother of the twins
+  description: The boys' mother; she is told what happened, cuts open the dead glutton,
+    and tells the released people who killed it.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:10
+- id: fig:3
+  name_or_label: the glutton / monster
+  description: A swallowing monster that lives in a particular direction from the
+    home, is found asleep, is shot in both eyes, dies, and contains people, cattle,
+    and dogs inside it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+- id: fig:4
+  name_or_label: people inside the glutton
+  description: People heard talking inside the glutton; they come out after it is
+    cut open and ask who killed it.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:5
+  name_or_label: cattle inside the glutton
+  description: Cattle come out of the glutton after it is cut open.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: dogs inside the glutton
+  description: Dogs come out of the glutton after it is cut open.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: paired monster-slayers
+  assigned_to:
+  - fig:1
+  basis: The boys act together, go to the monster, and shoot both of its eyes; the
+    glutton is later found dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: mother and helper
+  assigned_to:
+  - fig:2
+  basis: She receives the boys' report and later cuts open the glutton with a knife.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:3
+  label: devouring monster
+  assigned_to:
+  - fig:3
+  basis: The glutton is described as a monster that will swallow the boys and contains
+    people, cattle, and dogs inside it.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:4
+  label: opener of the monster body
+  assigned_to:
+  - fig:2
+  basis: She takes a knife and cuts the glutton open.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: reward recipients
+  assigned_to:
+  - fig:1
+  basis: The boys are rewarded with a large number of cattle.
+  evidence_refs:
+  - ev:10
+- id: role:6
+  label: released beings
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: People, cattle, and dogs come out when the glutton is opened.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: reward-givers
+  assigned_to:
+  - fig:4
+  basis: After learning who killed the glutton, the people reward the boys with cattle.
+  evidence_refs:
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: glutton body containing living beings and animals
+  literal_form: the glutton / monster containing people, cattle, and dogs
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: arrows into both eyes
+  literal_form: arrows shot into the monster's two eyes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: knife opening the monster
+  literal_form: knife used by the mother to cut open the glutton
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: cattle reward
+  literal_form: large number of cattle given to the boys
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: warning and departure
+  summary: The boys are warned that the glutton will swallow them, but they leave
+    home and go toward where the monster lives.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: blinding and death of the glutton
+  summary: The boys find the monster asleep, shoot both eyes with arrows, return home,
+    and later find the glutton dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: opening the glutton and release
+  summary: The boys hear people inside the glutton and tell their mother; she cuts
+    it open with a knife, and people, cattle, and dogs come out.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: identification of killers and reward
+  summary: The released people ask who killed the glutton; the mother identifies the
+    boys, and the people reward them with many cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: devouring monster slain and opened to release swallowed beings
+  taxonomy_refs: []
+  basis: The glutton is a swallowing monster; after the boys kill it, their mother
+    cuts it open and people, cattle, and dogs emerge.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not state whether the beings inside had died, so this
+    should not be coded as resurrection without further context.
+- id: motif:2
+  label: twin or sibling pair defeats a monster
+  taxonomy_refs:
+  - sibling_pair
+  basis: The boys act together against the monster and are later identified by the
+    phrase "mother of the twins."
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+  confidence: medium
+  cautions: The passage identifies them as twins only near the end; it does not elaborate
+    on twin symbolism.
+- id: motif:3
+  label: reward for freeing captives from a monster
+  taxonomy_refs: []
+  basis: After the released people are told who killed the glutton, they reward the
+    boys with a large number of cattle.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage gives the reward but does not describe a formal exchange or
+    prior promise.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7293-7295
+  quote_or_summary: '"The glutton will swallow you."'
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7296-7298
+  quote_or_summary: The boys leave home and go in the direction where the monster
+    lives.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 7298-7300
+  quote_or_summary: They find the monster asleep and shoot it "with their arrows in
+    both eyes."
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 7300-7302
+  quote_or_summary: The boys return home and tell their mother.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7302-7304
+  quote_or_summary: The next day the boys go back to the place and find the glutton
+    dead.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 7305-7307
+  quote_or_summary: The boys hear people talking inside the glutton and tell their
+    mother.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 7307-7309
+  quote_or_summary: The mother takes a knife and cuts the glutton open.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary of supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 7309-7311
+  quote_or_summary: '"people came out, and cattle, and dogs."'
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:9
+  type: quote
+  locator: lines 7311-7312
+  quote_or_summary: '"Who killed the glutton?"'
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:10
+  type: summary
+  locator: lines 7314-7317
+  quote_or_summary: The mother of the twins tells the people, and they reward the
+    boys with a large number of cattle.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary of supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate-level and require human review, especially the use of the sibling_pair
+    taxonomy reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode with another text or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l7293-l7319
+  passage_sha256=ad7f38d7967d8367b5826e52c03c91e769abe8d4e515fbae996131f0f60739f6
+

@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l3636-l3657
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: ABAN YAST. 65 / ABAN YA5T. 69 / XVII. / XVIII.; lines 3636-3657
+  start: '3636'
+  end: '3657'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Offer up a sacrifice, O Spitama Zarathujtra ! unto this spring of mine,
+    Ardvi Sura Anahita ...."'
+  summary: The passage commands Spitama Zarathushtra to offer a sacrifice to Ardvi
+    Sura Anahita's spring. The next verse begins with Ashavazdah, but the supplied
+    excerpt breaks off and shifts into a note about Gamaspa/Gamasp, his roles, and
+    a Shah Namah episode said to recall this one while differing in spirit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Spitama Zarathushtra is told to offer up a sacrifice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sacrifice is directed unto a spring associated with Ardvi Sura Anahita.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The next verse begins with Ashavazdah, described as the son of Pouru-, but
+    the supplied passage does not complete the action.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A note says Gamaspa/Gamasp appears here as a warrior, although he is generally
+    described as a sage and prophet.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'A note says the Shah Namah contains an episode recalling this one, though
+    different in spirit: when two armies meet, Gushtasp asks Gamasp to reveal the
+    encounter''s outcome, and Gamasp reluctantly obeys because the issue will be fatal
+    to the Iranians.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note says Gamasp belonged to the Hvova family.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Spitama Zarathujtra
+  description: Person addressed by the command to offer a sacrifice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Ardvi Sura Anahita
+  description: Named in connection with the spring to which a sacrifice is to be offered.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Ashavazdah
+  description: Named at the start of verse 72 as the son of Pouru-, with the action
+    incomplete in the supplied excerpt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Gamaspa / Gamasp
+  description: A figure discussed in the note as prime minister of Vutaspa, appearing
+    here as a warrior though generally described as a sage and prophet; also the figure
+    who reveals the battle outcome in the Shah Namah episode summarized by the note.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Vutaspa / Kai Gmtasp / Gushtasp
+  description: Named in the note in relation to Gamaspa/Gamasp; in the Shah Namah
+    summary, Gushtasp asks Gamasp to reveal the outcome of the encounter.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: addressed sacrificer
+  assigned_to:
+  - fig:1
+  basis: Spitama Zarathushtra is addressed with the imperative to offer up a sacrifice.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sacred spring associated with sacrifice
+  assigned_to:
+  - fig:2
+  basis: Ardvi Sura Anahita is named with the spring unto which the sacrifice is to
+    be offered.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: named actor in interrupted verse
+  assigned_to:
+  - fig:3
+  basis: The verse begins 'To her did Ashavazdah...' but the action is not supplied
+    in the excerpt.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: warrior in this episode
+  assigned_to:
+  - fig:4
+  basis: The note says Gamaspa/Gamasp appears here in the character of a warrior.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: sage and prophet in general description
+  assigned_to:
+  - fig:4
+  basis: The note contrasts the warrior role with the general description of Gamaspa/Gamasp
+    as sage and prophet.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: prime minister of Vutaspa
+  assigned_to:
+  - fig:4
+  basis: The note identifies Gamaspa/Gamasp as prime minister of Vutaspa.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: reluctant revealer of battle outcome
+  assigned_to:
+  - fig:4
+  basis: In the Shah Namah episode summarized by the note, Gamasp reveals the outcome
+    of the encounter reluctantly.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: royal requester of battle knowledge
+  assigned_to:
+  - fig:5
+  basis: In the Shah Namah episode summarized by the note, Gushtasp asks Gamasp to
+    reveal the issue of the encounter.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sacred spring
+  literal_form: spring
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Command to sacrifice at the spring
+  summary: Spitama Zarathushtra is instructed to offer a sacrifice unto the spring
+    of Ardvi Sura Anahita.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Interrupted opening about Ashavazdah
+  summary: A new verse begins with Ashavazdah, son of Pouru-, acting toward 'her,'
+    but the supplied passage does not complete the action.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Note on Gamaspa and Shah Namah parallel
+  summary: The note characterizes Gamaspa/Gamasp as a warrior here but generally as
+    sage and prophet, then summarizes a Shah Namah episode in which Gushtasp asks
+    him to reveal a battle outcome.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to sacred water or spring
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly commands an offering of sacrifice unto Ardvi Sura
+    Anahita's spring.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The excerpt does not include the purpose, expected result, or completed
+    ritual details of the sacrifice.
+- id: motif:2
+  label: royal request for prophetic battle knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The note summarizes a Shah Namah episode in which Gushtasp asks Gamasp to
+    reveal the outcome of a military encounter, and Gamasp reluctantly gives the fatal
+    prediction.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This motif is present in the translator's comparative note, not in the
+    preserved main verse of the supplied excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The note makes a cautious nearby-corpus comparison, saying that a Shah Namah
+    episode recalls this one while being very different in spirit.
+  claim_level: same_function
+  target: Shah Namah episode in which Gushtasp asks Gamasp to reveal the outcome as
+    two armies meet
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The claim is based only on the translator's note. The note itself qualifies
+    the parallel as different in spirit, and the main Avesta narrative is incomplete
+    in the supplied excerpt; no historical-contact claim is supported.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3638-3640
+  quote_or_summary: '"Offer up a sacrifice, O Spitama Zarathujtra ! unto this spring
+    of mine, Ardvi Sura Anahita ...."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3642-3643
+  quote_or_summary: '"To her did Ashavazdah, the son of Pouru-"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 3645-3649
+  quote_or_summary: A note says Gamaspa/Gamasp, prime minister of Vutaspa, appears
+    here as a warrior, though generally described as a sage and prophet.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3650-3655
+  quote_or_summary: 'A note says the Shah Namah has an episode recalling this one,
+    though different in spirit: when two armies meet, Gushtasp asks Gamasp to reveal
+    the issue of the encounter; Gamasp reluctantly obeys because the outcome is fatal
+    to the Iranians.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: quote
+  locator: line 3655
+  quote_or_summary: '"G''amasp belonged to the Hvova family."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The sacrifice-to-spring motif is explicit. Confidence is reduced by OCR/transliteration
+    noise, the fragmentary verse 72, and the fact that the Shah Namah comparison comes
+    from a note rather than the main narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs directly supported by the excerpt.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l3636-l3657
+  passage_sha256=6645c637ce6abb68fbb9567353c485b5ea0bb1918b90e7a2ba43dbdae1a66113
+

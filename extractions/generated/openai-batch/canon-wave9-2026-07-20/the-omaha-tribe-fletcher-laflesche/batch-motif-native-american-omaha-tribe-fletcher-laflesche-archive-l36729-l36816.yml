@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36729-l36816
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: ANOTHER / THE    OMAHA   TRIBE / TECOS'S    SONG    OF   REVENGE / SOCIETIES;
+    lines 36729-36816
+  start: '36729'
+  end: '36816'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“shall I bite him”"
+  summary: 'The excerpt gives a song text with a literal translation about asking
+    what part of the body to bite. An explanatory note connects the song to a story
+    of two Shell society members who intended to kill each other by magic: one man
+    went to a known place to dig wild potatoes, and his opponent used magic to place
+    a rattlesnake in the grass there; the man was bitten and died, with the death
+    attributed to the magic rather than the bite itself. The excerpt then introduces
+    a separate slow song sung when thunder is first heard in spring.'
+  language: English with Omaha song transcription
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song’s literal translation concerns asking in what part of the body someone
+    should be bitten.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song is explained as relating to two members of the Shell society who
+    were determined to kill each other by the power of their magic.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One of the two men liked wild potatoes and seasonally went to a particular
+    spot to gather them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The opponent knew the man’s habit and used magic so that a rattlesnake was
+    hidden in the grass near the gathering place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When the man went to dig potatoes, the rattlesnake bit him and he died.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The account states that the death was claimed to result from the magic that
+    placed the snake there, not from the bite itself.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A following section introduces a slow song sung when thunder is first heard
+    in spring.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Shell society member who gathered wild potatoes
+  description: A man, one of two Shell society members, who was fond of wild potatoes
+    and went to gather them at a certain place.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Opposing Shell society member
+  description: The opponent who knew the potato-gathering habit and used magic to
+    have a rattlesnake hidden near the place.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Rattlesnake
+  description: A rattlesnake hidden in the grass near the potato-gathering place;
+    it bit the man who came to dig potatoes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: magical rivals
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says two Shell society members were determined to kill each other
+    by magic.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: victim of the attack
+  assigned_to:
+  - fig:1
+  basis: The man who gathered potatoes was bitten by the snake and died.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: magic-using opponent
+  assigned_to:
+  - fig:2
+  basis: The opponent used magic to have the rattlesnake hidden near the gathering
+    place.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal intermediary in the killing
+  assigned_to:
+  - fig:3
+  basis: The rattlesnake was placed by magic and delivered the bite, while the death
+    was attributed to the magic.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: rattlesnake
+  literal_form: rattlesnake hidden in the grass
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: wild potatoes
+  literal_form: wild potatoes gathered at the proper season
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: body as bite target
+  literal_form: part of the body named in the song’s literal translation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: grass hiding place
+  literal_form: grass near the potato-gathering place where the rattlesnake was hidden
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song text about the bite
+  summary: The song text is glossed as asking what part of the body should be bitten.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Magical rivalry and setup
+  summary: Two Shell society members are said to be enemies seeking to kill each other
+    by magic; the opponent uses knowledge of the man’s potato-gathering habit to arrange
+    a hidden rattlesnake near the place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Bite and attributed cause of death
+  summary: The man comes to dig potatoes, is bitten by the rattlesnake, and dies;
+    the explanation attributes the death to the magic that placed the snake rather
+    than to the bite alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: First thunder in spring song introduction
+  summary: The passage then introduces a separate slow song sung when thunder is first
+    heard in spring.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: magical killing through a serpent intermediary
+  taxonomy_refs:
+  - serpent
+  basis: The opponent uses magic to place a rattlesnake at the victim’s known gathering
+    place; the snake bites him, and the death is attributed to the magic.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage frames the event as a story explaining a song, not as a fully
+    developed mythic narrative.
+- id: motif:2
+  label: revenge or rivalry enacted by magic
+  taxonomy_refs: []
+  basis: Two Shell society members are described as determined to kill each other
+    by the power of their magic.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader comparative taxonomy reference for revenge magic is supplied
+    in the available list.
+- id: motif:3
+  label: seasonal song for first spring thunder
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage introduces a slow song sung when thunder is first heard in spring.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only the heading and song opening are present; no explanatory narrative
+    is included in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 36729-36750
+  quote_or_summary: 'Literal translation: “Agudi, in what part of the body; wathaxta,
+    shall I bite him; zhugadi, in the body.”'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 36751-36756
+  quote_or_summary: The song is said to relate to a story of two Shell society members
+    who were determined to kill each other by the power of their magic.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 36756-36761
+  quote_or_summary: One man liked wild potatoes and went at the proper season to a
+    certain place to gather them; his opponent knew this habit.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 36761-36766
+  quote_or_summary: The opponent used magic to have a rattlesnake hidden in the grass
+    near the potato-gathering place.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 36766-36772
+  quote_or_summary: When the man went to dig potatoes, he was bitten by the snake
+    and died; the death was claimed to come from the magic that put the snake there,
+    not from the bite itself.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 36772-36773
+  quote_or_summary: The song is dated to the early part of the last century.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 36774-36816
+  quote_or_summary: The excerpt introduces an “Eighth Song—Slow Song,” sung when thunder
+    is first heard in spring, followed by song text transcription.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short title phrase quoted for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The revenge-magic and rattlesnake episode is explicit. The seasonal-cycle
+    motif is based only on a song heading. No comparison claims are made because the
+    passage itself does not compare this material to another corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The rattlesnake is mapped to the available serpent taxonomy reference; other labels remain descriptive.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36729-l36816
+  passage_sha256=bfc2f12ae09dd6e05571470d79e7e3694cb90646a89ffe0311488735f94e1f74
+

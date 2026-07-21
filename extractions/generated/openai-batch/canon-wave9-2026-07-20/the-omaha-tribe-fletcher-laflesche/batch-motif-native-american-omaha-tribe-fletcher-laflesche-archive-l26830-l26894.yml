@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l26830-l26894
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: MUSIC / THE   OMAHA   TRIBE / MUSIC / THE    OMAHA    TRIBE; lines 26830-26894
+  start: '26830'
+  end: '26894'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Having arrived at the door of the lodge, they paused and sang as follows.
+  summary: A Wa'wan party reaches a lodge, sings a song whose literal translation
+    includes coming and seeking a little child, then enters. The child and its parents
+    await them. The leader carries clothing and skin pouches containing red and black
+    paint. The child is clothed and painted by a designated member who has counted
+    defensive-war honors, while pipes are waved to another song.
+  language: English with Omaha song text and glosses
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A song is introduced as possibly having lost words before the party reaches
+    the lodge door.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The party arrives at the door of the lodge, pauses, and sings.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song text is glossed with phrases meaning coming, seeking, and addressing
+    a little child.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The party enters the lodge where the child and the child's parents are waiting.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The leader carries clothing for the child and skin pouches containing red
+    and black paint.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The child is first clothed.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A member of the Wa'wan party who can count honors won in defensive warfare
+    is designated to paint the child.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Pipes are waved to a song while the painting ceremony takes place.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wa'wan party
+  description: The party that arrives at the lodge, sings, enters, and participates
+    in the child ceremony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: little child
+  description: The child sought or addressed in the song, waiting in the lodge with
+    its parents, then clothed and painted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: parents of the child
+  description: The parents wait in the lodge with the child.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: leader
+  description: The leader carries clothing for the child and skin pouches containing
+    paint.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: designated painter
+  description: A member of the Wa'wan party able to count honors won in defensive
+    warfare, designated to paint the child.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: arriving singing party
+  assigned_to:
+  - fig:1
+  basis: The party arrives at the lodge door, pauses, sings, and then enters.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: child recipient of clothing and paint
+  assigned_to:
+  - fig:2
+  basis: The child is awaited in the lodge, clothed, and painted.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: waiting parents
+  assigned_to:
+  - fig:3
+  basis: The parents are present with the child in the lodge awaiting the party.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: bearer of clothing and paint pouches
+  assigned_to:
+  - fig:4
+  basis: The leader carries clothing for the child and skin pouches containing red
+    and black paint.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: honor-qualified ritual painter
+  assigned_to:
+  - fig:5
+  basis: The painter is selected from members able to count defensive-warfare honors.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lodge door
+  literal_form: door of the lodge
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lodge
+  literal_form: lodge where the child and parents wait
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: clothing for the child
+  literal_form: clothing carried by the leader and placed on the child
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: red and black paint
+  literal_form: red and black paint contained in skin pouches
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: skin pouches
+  literal_form: skin pouches containing the red and black paint
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: pipes
+  literal_form: pipes waved during the ceremony
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: ritual songs
+  literal_form: songs sung at the lodge door and during the ceremony
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: arrival and song at the lodge door
+  summary: The party reaches the lodge door, pauses, and sings a song whose gloss
+    includes coming and seeking the little child.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: entry into the lodge
+  summary: The party enters the lodge, where the child and parents are waiting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: clothing and painting of the child
+  summary: The leader brings clothing and paint pouches; the child is clothed, and
+    an honor-qualified Wa'wan member is designated to paint the child while pipes
+    are waved to song.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ceremonial seeking of a child
+  taxonomy_refs: []
+  basis: The sung words are glossed as 'I have come' and 'I seek you' in relation
+    to the 'little one, child,' followed by entry into the lodge where the child waits.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a ritual song and action but does not explain the larger
+    mythic or ceremonial meaning.
+- id: motif:2
+  label: ritual clothing and painting of a child
+  taxonomy_refs:
+  - initiation
+  basis: The child is clothed and painted in a formal sequence involving a leader,
+    skin pouches of red and black paint, pipes, song, and a designated honor-qualified
+    member.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The available taxonomy term 'initiation' is only a cautious fit; the passage
+    calls the event a ceremony but does not explicitly identify it as initiation.
+- id: motif:3
+  label: ritual qualification through counted defensive-war honors
+  taxonomy_refs: []
+  basis: The person designated to paint the child must be a Wa'wan party member who
+    can count honors won in defensive warfare.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the qualification but does not elaborate its symbolic
+    rationale.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 26830-26894
+  quote_or_summary: '"Having arrived at the door of the lodge, they paused and sang
+    as follows"; the passage also notes that if the song once had words, they are
+    lost.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 26830-26894
+  quote_or_summary: The literal translation glosses the song as including 'I have
+    come,' 'I seek you,' and terms for 'little one' and 'child.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 26830-26894
+  quote_or_summary: '"The party then entered the lodge where the little child, with
+    its parents, was awaiting them."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 26830-26894
+  quote_or_summary: The leader carries clothing for the child and skin pouches containing
+    red and black paint.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 26830-26894
+  quote_or_summary: The child is first clothed; then a Wa'wan member able to count
+    defensive-warfare honors is designated to paint the child.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 26830-26894
+  quote_or_summary: Pipes are waved to a song while the ceremony takes place.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual sequence is clear. Motif classification is cautious because
+    the passage does not explain the ceremony's broader meaning. No comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item directly matches the passage objects; symbol taxonomy refs are therefore empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l26830-l26894
+  passage_sha256=ea41b861efb5f654a6a537577b377322ffe8e037a6b9feed3e50d0ba4ecb13e7
+

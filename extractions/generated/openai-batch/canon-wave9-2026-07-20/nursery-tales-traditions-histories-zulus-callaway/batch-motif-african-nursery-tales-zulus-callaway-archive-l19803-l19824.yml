@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19803-l19824
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE MAN AND THE BREAD. / SPEAKING ANIMALS. / ENYE YEKWABABA FUTI. / SPEAKING
+    ANIMALS.; lines 19803-19824
+  start: '19803'
+  end: '19824'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A crow or speaking animal is described on a tree, crying out about a childless
+    woman. Those who hear it run away and report the incident. The people interpret
+    it as an omen. The childless woman is identified as the daughter of Usipongo,
+    and afterward her husband is very ill.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as another tale of a crow and as a speaking-animal
+    passage.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A being called Uluhoho Madonda is on a tree and is heard crying and speaking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speech laments a childless woman, calling her the child of the speaker's
+    sister.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Those who heard the voice start up, run away, and later tell the tale at home.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people say the incident was an omen.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The woman without a child is identified as the daughter of Usipongo of Idhlanimi
+    among the Amakuza.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the incident, the childless woman's husband is very ill.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Uluhoho Madonda / crow or speaking animal
+  description: A being associated by the passage heading with a crow and speaking
+    animals; it is on a tree and cries out in speech.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Listeners
+  description: Unspecified people who hear the speaking being, run away, and report
+    the event at home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Childless woman
+  description: A woman with no child, identified as the daughter of Usipongo of Idhlanimi
+    among the Amakuza.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Usipongo
+  description: Named as the father of the childless woman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Husband of the childless woman
+  description: The husband of the childless woman; he is said to be very ill afterward.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: The people
+  description: People who interpret the reported incident as an omen.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: speaking animal
+  assigned_to:
+  - fig:1
+  basis: The passage heading says speaking animals, and the being is heard crying
+    and saying words.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: omen-bearer
+  assigned_to:
+  - fig:1
+  basis: Its speech is followed by the people's interpretation that the event was
+    an omen.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: witnesses
+  assigned_to:
+  - fig:2
+  basis: They hear the speaking being, run away, and tell the tale at home.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: childless woman named in lament
+  assigned_to:
+  - fig:3
+  basis: The speech laments a childless woman, and the text identifies her as having
+    no child.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: father of the childless woman
+  assigned_to:
+  - fig:4
+  basis: The childless woman is called the daughter of Usipongo.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ill husband
+  assigned_to:
+  - fig:5
+  basis: After the omen, the woman's husband is said to be very ill.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: interpreters of omen
+  assigned_to:
+  - fig:6
+  basis: The people say the incident was an omen.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: speaking crow or animal
+  literal_form: crow or speaking animal crying from a tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: childlessness
+  literal_form: woman who has no children
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: omen
+  literal_form: reported event interpreted as an omen
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Speaking being on a tree
+  summary: A crow or speaking animal called Uluhoho Madonda is on a tree, crying out
+    about a childless woman.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Witnesses flee and report
+  summary: Those who hear the speech run away and tell the tale when they reach home.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Omen and illness
+  summary: The people call the event an omen; the childless woman is identified, and
+    afterward her husband is very ill.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: speaking animal as omen-bearer
+  taxonomy_refs: []
+  basis: The passage heading identifies speaking animals, and the animal's cry is
+    treated by the people as an omen.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is fragmentary, so the exact nature of the omen and its causal
+    relation to the later illness remain uncertain.
+- id: motif:2
+  label: ominous lament about childlessness
+  taxonomy_refs: []
+  basis: The animal's speech laments a childless woman and asks what she can do since
+    she is childless.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The surviving passage does not explain the wider narrative context of
+    the childlessness.
+- id: motif:3
+  label: portent followed by illness
+  taxonomy_refs: []
+  basis: After the incident is interpreted as an omen, the woman's husband is said
+    to be very ill.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text states sequence but does not explicitly state causation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19803-19809
+  quote_or_summary: "“ENYE YEKWABABA FUTI. (another tale of a crow.) ... SPEAKING
+    ANIMALS.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 19810-19816
+  quote_or_summary: "“Uluhoho Madonda. on a tree, and they heard it crying and saying,
+    ‘Woe, woe... who hast no children.’”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used as evidence.
+- id: ev:3
+  type: summary
+  locator: lines 19816-19820
+  quote_or_summary: The hearers run away, report the tale at home, and the people
+    say it was an omen.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 19820-19824
+  quote_or_summary: The childless woman is identified as the daughter of Usipongo
+    of Idhlanimi among the Amakuza, and afterward her husband is very ill.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage appears fragmentary, beginning in mid-sentence and including
+    footnote material. Literal extraction is limited to the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison claims were added because the passage itself does not support them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19803-l19824
+  passage_sha256=5a0f9a5336436e21902743d244f80b50bf352e92153a3522227c128de468a44e
+

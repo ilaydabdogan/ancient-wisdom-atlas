@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l13354-l13410
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter I. / CHAPTER I, 2. 241 / CHAPTER I, 3. 243 / VIII, 18.; lines 13354-13410
+  start: '13354'
+  end: '13410'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage consists mainly of editorial notes identifying Pahlavi commentators
+    and variant names or references. It includes a doctrinal statement that those
+    of the primitive faith rely on six teachings, with varying degrees of strength,
+    and a note discussing a manuscript reading of 'three' versus an inferred original
+    'six.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that all those of the primitive faith rely upon six teachings,
+    though some rely on certain teachings more weakly or more strongly.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An editorial note says both manuscripts read 'three,' although four teachings
+    and six commentators were mentioned in the previous section, and argues that the
+    original reading was more probably 'six.'
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One commentator’s name is given in variant forms and is said to be a namesake
+    of Zaratust's cousin and first disciple.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists many other commentators mentioned in Pahlavi books and gives
+    cross-references to works such as the Nirangistan, Pahlavi Vendidad, Pahlavi Yasna,
+    Shayast la-Shayast, and Bahman Yast.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A manuscript variant note states that the name appears as Gojasp in manuscript
+    M6.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Soshyans
+  description: Named in the fragment preceding the statement about six teachings.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Medyok-mah / Madyok-mah
+  description: A commentator whose name is said to be written in variant forms and
+    who is a namesake of Zaratust's cousin and first disciple.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Zaratust's cousin and first disciple
+  description: Mentioned only as the person whose name is shared by the commentator
+    Medyok-mah / Madyok-mah.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Other Pahlavi commentators
+  description: A collective list of commentators mentioned in Pahlavi books, including
+    names such as Ataro-pad son of Dad-farukh, Azad-mard, Dad Auharmazd, Neryosang,
+    Roshan, and others.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: commentator
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The passage explicitly identifies named persons as commentators or lists
+    them as commentators mentioned in Pahlavi books.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: first disciple
+  assigned_to:
+  - fig:3
+  basis: The passage describes this person as Zaratust's cousin and first disciple.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: six teachings
+  literal_form: six teachings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Reliance on six teachings
+  summary: Those of the primitive faith are described as relying on six teachings,
+    with varying degrees of strength in that reliance.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Editorial discussion of manuscript number
+  summary: An editor notes a manuscript reading of 'three' and argues that 'six' is
+    more likely original because of the surrounding references to teachings and commentators.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: authoritative teachings as doctrinal foundation
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents six teachings as the basis on which the primitive faith
+    relies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: This is a doctrinal and editorial passage rather than a mythic narrative;
+    the wisdom taxonomy reference is broad and should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13370-13374
+  quote_or_summary: The text says that all those of the primitive faith rely upon
+    six teachings, with some relying more weakly and some more strongly on some of
+    them.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13382-13389
+  quote_or_summary: An editorial note says both manuscripts have 'three,' although
+    surrounding context mentions four teachings and six commentators, and argues that
+    the original was probably 'six.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13356-13364
+  quote_or_summary: A commentator is referenced in several chapters and Pahlavi works;
+    his name appears in variant forms, and he is said to be a namesake of Zaratust's
+    cousin and first disciple.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13390-13410
+  quote_or_summary: The passage lists several other commentators and gives cross-references
+    to Pahlavi books and sections where they are mentioned.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 13365
+  quote_or_summary: "“Gojasp in M6.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is mostly editorial and bibliographic rather than mythic. Literal
+    extraction is moderate confidence; motif identification is weak and needs review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l13354-l13410
+  passage_sha256=7dd4be115ee9493f62bfbd913635cd7d1368dbd337de9cb9971894e12a708409
+

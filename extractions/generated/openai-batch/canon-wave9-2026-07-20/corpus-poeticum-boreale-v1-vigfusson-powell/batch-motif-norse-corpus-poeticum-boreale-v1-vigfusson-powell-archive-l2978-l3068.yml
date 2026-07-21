@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l2978-l3068
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: INTRODUCTION. / DANISH SCHOLARS. XXV / XXX INTRODUCTION. / XXXIV INTRODUCTION.;
+    lines 2978-3068
+  start: '2978'
+  end: '3068'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial introduction discussing methods for reconstructing
+    and criticizing Eddic poems, identifying interpolations, gaps, parallel texts,
+    lost poems, hypothesized collections, medieval witnesses, and paraphrases preserved
+    in sagas and related works.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editors describe their first task as clearing poems of extraneous matter,
+    separating parallel texts and verses, correcting line sequence, extracting older
+    fragments from newer poetry, and marking gaps.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editors state that these preliminary operations are necessary before textual
+    criticism and criticize treating poems merely as pages in a book rather than as
+    separate entities.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editors report efforts to restore poems within the Havamal mass, order
+    the Helgi Trilogy and Old Wolsung Play, and identify double texts in the Gudrun
+    and Hamtheow lays.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says some poems are corrupt from age, decay, reciters’ confusions,
+    and forgetfulness rather than scribal mistakes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage hypothesizes a collection that would have included the Mill Song,
+    Righ’s-mal, Hyndluliod, and Biarka-mal.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that collections of poems dealing with Danish tradition
+    were known to Saxo or his Icelanders and lists several associated lost or known
+    lays.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says some lays were separately preserved, and it gives Ari and
+    Snorri as examples of witnesses to different or separate textual forms.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage says Snorri had access to a lost mythic collection and cites or
+    paraphrases materials including Heimdal’s Charm, a song on Balder’s Funeral, lost
+    lays of Grow and Gua, and material concerning Hel and her abode.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The passage says Snorri used a different text of Wolospa from the editors’
+    text, while possibly also borrowing from their text for the Dwarf interpolation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The passage rejects reported discoveries of Odinic fragments in the Shetlands
+    as illusory and describes a fragmentary poem fading from tradition in the twelfth
+    century.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage lists further lost songs known through paraphrase in Ynglinga
+    Saga, Scioldunga Saga, and Hrolf Kraki’s Saga.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Editors of the edition
+  description: The narrating editors who describe their textual-critical program and
+    judgments about Eddic poems.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Ballad collectors of the editors’ own time
+  description: A contemporary group invoked as a methodological comparison for approaching
+    old poems.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Collector or collectors of A account
+  description: A collector or group of collectors whose account is said to explain
+    the existence of many poems.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Saxo or his Icelanders
+  description: Medieval witnesses said to have known collections of poems dealing
+    with Danish tradition.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Ari
+  description: A witness said to have known the Old Ritual poem in a text different
+    from the editors’ text.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Snorri
+  description: A witness and compiler said to have known separate or different texts
+    and to have used a lost mythic collection.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:7
+  name_or_label: Compiler of Scioldunga Saga
+  description: A compiler said to paraphrase several lost songs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: textual editor and critic
+  assigned_to:
+  - fig:1
+  basis: The speakers describe editorial tasks of clearing, separating, ordering,
+    restoring, and criticizing poems.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: methodological comparator
+  assigned_to:
+  - fig:2
+  basis: Ballad collectors are invoked as a source of comparison for handling old
+    poetic traditions.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: source collector
+  assigned_to:
+  - fig:3
+  basis: The passage refers to a collector or collectors whose account explains many
+    poems.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: medieval textual witness
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Saxo or his Icelanders, Ari, and Snorri are each described as knowing collections,
+    separate poems, or variant texts.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: compiler and paraphraser
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Snorri and the compiler of Scioldunga Saga are described as citing, using,
+    or paraphrasing older poetic material.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial reconstruction program
+  summary: The editors describe reconstructive work on Eddic poems and argue that
+    such work must precede textual criticism.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lost and variant collections inferred
+  summary: The passage discusses corrupt poems, a hypothesized collection, Danish-tradition
+    poem collections, and separately preserved lays known through medieval witnesses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Rejection of Shetland Odinic fragments
+  summary: The editors reject reported nineteenth-century Odinic fragments as illusory
+    and point to problems of corruption, tradition loss, and prior printed availability.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Lost songs known through saga paraphrase
+  summary: The passage lists lost songs or poetic materials known through paraphrase
+    in Ynglinga Saga, Scioldunga Saga, and Hrolf Kraki’s Saga.
+  figure_refs:
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Lost poetic tradition preserved through fragments, citations, and paraphrase
+  taxonomy_refs: []
+  basis: The passage repeatedly describes lost or corrupt poems being inferred from
+    fragments, variant texts, medieval citations, and saga paraphrases.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is a textual-transmission pattern in an editorial introduction, not
+    a narrative myth motif from a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The editors present modern ballad collecting as a useful comparison for understanding
+    old poems as orally transmitted poetic entities rather than merely as book pages.
+  claim_level: same_function
+  target: experience of Ballad collectors of the editors’ own time
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is methodological and about textual transmission; it
+    is not a claim of shared mythic content, historical contact, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2978-2993
+  quote_or_summary: The editors outline tasks of clearing extraneous matter, separating
+    texts, correcting sequence, extracting older fragments, marking gaps, and treating
+    poems as separate entities; they urge comparison with modern ballad collectors.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:2
+  type: summary
+  locator: lines 2994-3005
+  quote_or_summary: The editors describe work on Havamal, the Helgi Trilogy, the Old
+    Wolsung Play, Gudrun and Hamtheow lays, and discuss corrupt poems and a possible
+    collection containing Mill Song, Righ’s-mal, Hyndluliod, and Biarka-mal.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:3
+  type: summary
+  locator: lines 3006-3019
+  quote_or_summary: The passage says Saxo or his Icelanders knew collections of poems
+    on Danish tradition; it also says Ari knew a different Old Ritual poem text, Snorri
+    knew a short Sibyl Prophecy separately, and part of Hyndla was paraphrased.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:4
+  type: summary
+  locator: lines 3020-3032
+  quote_or_summary: Snorri is described as having access to a lost mythic collection
+    used in Gylva-ginning, including Heimdal’s Charm, Balder’s Funeral, lays of Grow
+    and Gua, and material on Hel; he also used a different Wolospa text.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:5
+  type: summary
+  locator: lines 3033-3042
+  quote_or_summary: A note rejects reported Shetland Odinic fragments as illusory,
+    describing the supposed fragment as corrupt, decomposed, fading from tradition,
+    and not yielding new material.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+- id: ev:6
+  type: summary
+  locator: lines 3043-3068
+  quote_or_summary: The passage lists evidence for other lost songs through paraphrases
+    in Ynglinga Saga, Scioldunga Saga, and Hrolf Kraki’s Saga, including songs of
+    Helgi-type, Iwar, Gorm, Hrolf, Starkad, Biarka-mal, Ragnar, Amloda, and Hagbard
+    and Signy.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; source metadata states full text use is allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly editorial discussion rather than a myth narrative.
+    Literal extraction of textual-transmission claims is strong; motif identification
+    is limited to a non-narrative transmission pattern and requires review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned; available symbols such as cave, fire, milk, mountain, serpent, tree, and water are not literally present as mythic symbols in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l2978-l3068
+  passage_sha256=f65280a7783e95dd97ac57865fe134c2efd4f659ca1275abf00624bbff1e357a
+

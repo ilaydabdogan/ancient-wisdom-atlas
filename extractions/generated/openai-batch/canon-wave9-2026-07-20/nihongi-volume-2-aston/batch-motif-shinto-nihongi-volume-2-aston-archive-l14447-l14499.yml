@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l14447-l14499
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: XXVI,7 / SAIMEI. 255 / XXVI. 9. / SAIMEI. 257; lines 14447-14499
+  start: '14447'
+  end: '14499'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Alternative chronicle accounts describe Imperial Prince Arima and associates
+    using divination for a treasonous conspiracy, planning to burn the palace and
+    ambush the Empress, receiving an objection based on the prince's youth, and ignoring
+    a spontaneous breakage of his arm-rest before his execution. The passage then
+    reports Hirafu's expedition against the Su-shen and his presentation of two live
+    white bears to the Emperor, with translator notes on the identification of the
+    animals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Imperial Prince Arima and several named associates divined the future of their
+    treasonous conspiracy by drawing slips of paper.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Imperial Prince Arima proposed first burning the Palace.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The proposed plan included five hundred men, a day and two nights, waylaying
+    the Empress at the harbour of Muro, and using a fleet to cut off the Land of Ahaji
+    as if making it a prison.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An unnamed person objected that the plan could not succeed because the prince
+    lacked the faculty for carrying it out and had not yet attained manhood.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Another account says that while the prince plotted treason with a judicial
+    officer, the leg of the prince's arm-rest broke by itself without cause; he continued
+    conspiring and was eventually executed.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Hirafu, Abe no Hikida no Omi, Warden of the Land of Koshi, went on an expedition
+    against the Su-shen.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Hirafu presented two live white bears to the Emperor.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A translator note discusses the bear term, saying it is read shiguma in Japanese
+    and may refer to the Polar Bear, while also allowing uncertainty about whether
+    the animal could instead be a large brown bear.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Imperial Prince Arima
+  description: An imperial prince who is described as divining and plotting a treasonous
+    conspiracy, proposing a plan against the Empress, being nineteen years old, experiencing
+    the unexplained breaking of his arm-rest, continuing the conspiracy, and being
+    executed.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Akaye, Soga no Omi
+  description: Named associate of Imperial Prince Arima in the divination of the treasonous
+    conspiracy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Konoshiro, Shihoya no Muraji
+  description: Named associate of Imperial Prince Arima in the divination of the treasonous
+    conspiracy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Oho-ishi, Mori no Kimi
+  description: Named associate of Imperial Prince Arima in the divination of the treasonous
+    conspiracy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Kusuri, Sakahibe no Muraji
+  description: Named associate of Imperial Prince Arima in the divination of the treasonous
+    conspiracy.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Unnamed objector
+  description: A person who objects that the conspiracy cannot be carried out because
+    the prince has not yet attained manhood and lacks the necessary faculty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Unnamed judicial officer
+  description: A judicial officer said in another account to have plotted treason
+    with Imperial Prince Arima.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: The Empress
+  description: The intended target of waylaying at the harbour of Muro in Arima's
+    proposed plan.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:9
+  name_or_label: Hirafu, Abe no Hikida no Omi
+  description: Warden of the Land of Koshi who went on an expedition against the Su-shen
+    and presented two live white bears to the Emperor.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:10
+  name_or_label: Su-shen
+  description: The people or group against whom Hirafu went on expedition.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:11
+  name_or_label: The Emperor
+  description: Recipient of the two live white bears presented by Hirafu.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: treasonous conspirator
+  assigned_to:
+  - fig:1
+  basis: The passage says the prince divined the future of a treasonous conspiracy
+    and continued conspiring before execution.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: named co-conspirator in divination
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: These named persons are listed with Imperial Prince Arima as divining the
+    future of the conspiracy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: speaker and planner of attack
+  assigned_to:
+  - fig:1
+  basis: The prince speaks the plan to burn the Palace, waylay the Empress, and cut
+    off Ahaji with a fleet.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: objector to the plan
+  assigned_to:
+  - fig:6
+  basis: An unnamed person objects that the plan cannot succeed because the prince
+    lacks the faculty and has not attained manhood.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: judicial officer co-conspirator
+  assigned_to:
+  - fig:7
+  basis: Another account says the prince plotted treason along with a judicial officer.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: targeted ruler
+  assigned_to:
+  - fig:8
+  basis: The prince's plan is to waylay the Empress at the harbour of Muro.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: expedition leader and presenter of animals
+  assigned_to:
+  - fig:9
+  basis: Hirafu is said to go on expedition against the Su-shen and present two live
+    white bears to the Emperor.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: expedition target
+  assigned_to:
+  - fig:10
+  basis: The Su-shen are named as the object of Hirafu's expedition.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: imperial recipient
+  assigned_to:
+  - fig:11
+  basis: The Emperor receives the two live white bears presented by Hirafu.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: divination slips
+  literal_form: slips of paper drawn to divine the future of the conspiracy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: planned palace fire
+  literal_form: burning the Palace as the first act in the plan
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: harbour ambush and fleet blockade
+  literal_form: harbour of Muro, fleet, and the Land of Ahaji made like a prison
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: broken arm-rest
+  literal_form: the leg of the Imperial Prince's arm-rest breaking by itself without
+    cause
+  associated_figures:
+  - fig:1
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: two live white bears
+  literal_form: two live white bears presented to the Emperor; translator note says
+    the animal identification is uncertain between polar bear and possibly brown bear
+  associated_figures:
+  - fig:9
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Divination for a treasonous conspiracy
+  summary: Imperial Prince Arima and named associates draw slips of paper to divine
+    the future of their conspiracy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Plan to burn the palace and ambush the Empress
+  summary: Arima proposes burning the Palace, using five hundred men, waylaying the
+    Empress at Muro, and cutting off Ahaji with a fleet; an objector says he lacks
+    the capacity because he has not attained manhood.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Unexplained breakage before execution
+  summary: In another account, while Arima plots with a judicial officer, his arm-rest
+    breaks by itself; he continues conspiring and is eventually executed.
+  figure_refs:
+  - fig:1
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Expedition against the Su-shen and bear presentation
+  summary: Hirafu leads an expedition against the Su-shen and presents two live white
+    bears to the Emperor.
+  figure_refs:
+  - fig:9
+  - fig:10
+  - fig:11
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Divination before a political conspiracy
+  taxonomy_refs: []
+  basis: The conspirators seek knowledge of the future of their treasonous plot by
+    drawing slips of paper.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage reports the act as chronicle narrative and does not elaborate
+    a ritual system beyond the drawing of slips.
+- id: motif:2
+  label: Imperial conspiracy against a reigning sovereign
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: An imperial prince and associates plot treason, including a plan to burn
+    the Palace and waylay the Empress, followed by the prince's execution in another
+    account.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage identifies treason against the Empress, but it does not explicitly
+    discuss legitimacy doctrine or succession ideology.
+- id: motif:3
+  label: Youth or lack of manhood as obstacle to effective action
+  taxonomy_refs: []
+  basis: The objector says the nineteen-year-old prince has not attained manhood and
+    lacks the faculty to carry out the plan.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No formal initiation or coming-of-age ritual is described.
+- id: motif:4
+  label: Unheeded ominous breakage before downfall
+  taxonomy_refs: []
+  basis: The prince's arm-rest breaks by itself without cause while he is plotting;
+    he continues conspiring and is eventually executed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly call the breakage an omen, so the motif
+    should be reviewed as an inferred narrative function from sequence and context.
+- id: motif:5
+  label: Military expedition followed by presentation of rare animals to the ruler
+  taxonomy_refs: []
+  basis: After Hirafu's expedition against the Su-shen, he presents two live white
+    bears to the Emperor.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage presents the bears as tribute or presentation, but does not
+    state a sacred or ritual function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14448-14452
+  quote_or_summary: One account says Imperial Prince Arima, Akaye, Konoshiro, Oho-ishi,
+    and Kusuri divined the future of their treasonous conspiracy by drawing slips
+    of paper.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 14452-14460
+  quote_or_summary: Another account has Arima say they will first burn the Palace,
+    then use five hundred men for a day and two nights to waylay the Empress at Muro
+    and cut off Ahaji with a fleet as if making it a prison.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 14460-14466
+  quote_or_summary: An unnamed person objects that the plan cannot be carried out
+    because Arima is only nineteen, has not attained manhood, and lacks the necessary
+    faculty.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 14466-14472
+  quote_or_summary: Another account says that while Arima plotted treason with a judicial
+    officer, the leg of his arm-rest broke of itself without cause; he did not cease
+    conspiring and was eventually executed.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 14472-14475
+  quote_or_summary: In the same year, Hirafu, Warden of Koshi, went on expedition
+    against the Su-shen and presented two live white bears to the Emperor.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 14486-14498
+  quote_or_summary: A translator note says the bear term is read shiguma and may refer
+    to the Polar Bear, while also questioning whether the animal might instead be
+    the large brown bear of northern regions.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    involving omen and royal legitimacy require human review because the passage does
+    not explicitly theorize them. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. Comparison claims left empty because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l14447-l14499
+  passage_sha256=f77695ffa3c77371a1ddff1d1800bbc83b20e292ce5d8a77ece2a76ab87909b7
+

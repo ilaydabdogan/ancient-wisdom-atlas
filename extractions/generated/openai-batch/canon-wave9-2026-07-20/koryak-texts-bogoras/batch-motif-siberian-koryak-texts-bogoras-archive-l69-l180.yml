@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l69-l180
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: Koryak Texts / INTRODUCTION.; lines 69-180
+  start: '69'
+  end: '180'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the use of r in the pronunciation of certain words is ascribed to evil spirits.
+  summary: The introduction describes the collection of Koryak texts during the Jesup
+    North Pacific Expedition, the collector’s travel and linguistic work, Koryak dialect
+    divisions, and a note that Penshina Koryak tales attribute use of the sound r
+    in certain words to evil spirits.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Koryak texts in the volume were collected as part of field-work for the
+    Jesup North Pacific Expedition and were collected between December 1900 and April
+    1901.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The collector traveled among Koryak and Kamchadal groups, using reindeer or
+    dog sledges and snowshoes, and passed through remote or uninhabited areas.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage divides Koryak dialects into western and eastern branches, with
+    the Ke'rek possibly forming a third dialect.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sound r is described as frequent in the eastern Koryak branch and in Chukchee,
+    but absent in the western branch, where it is replaced by other sounds.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that in Penshina Koryak tales, use of r in certain words
+    is attributed to evil spirits.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Some settled sea-hunting villagers between the Alutor Koryak and the Ke'rek
+    claimed Reindeer Koryak origin and cited their pronunciation as evidence.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Koryak language is described as divided into several local dialects, with
+    each bay and river having its own dialectal differences.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: collector-narrator
+  description: The authorial speaker who collected the texts and studied Koryak language
+    during the expedition.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mr. Waldemar Jochelson
+  description: The collector’s colleague who investigated the ethnology of the Koryak.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Koryak dialect communities
+  description: Koryak-speaking groups described through western, eastern, local, and
+    possibly Ke'rek dialect divisions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Penshina Koryak tale tradition
+  description: The tale context in which use of r in certain words is said to be attributed
+    to evil spirits.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: evil spirits
+  description: Supernatural beings in Penshina Koryak tales to whom the use of r in
+    certain words is ascribed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: inhabitants of villages on Vi'rnik, Poqa'c, and Opu'ka rivers
+  description: Settled sea-hunting villagers who state that they belong by origin
+    to the Reindeer Koryak and point to pronunciation as proof.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: field collector and linguistic investigator
+  assigned_to:
+  - fig:1
+  basis: The passage states that the texts were collected by the authorial speaker
+    and that available study time was devoted to language investigation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ethnological colleague
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Jochelson as the collector’s colleague in ethnological
+    work and says he investigated Koryak ethnology.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dialect-bearing communities
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The passage classifies Koryak groups by dialect branches and local pronunciations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:4
+  label: speakers or tradition bearers reporting linguistic distinctions
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The passage reports native awareness of pronunciation differences and records
+    a direct pronunciation comparison from villagers.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: supernatural speakers marked by pronunciation in tales
+  assigned_to:
+  - fig:5
+  basis: The passage says Penshina Koryak tales ascribe use of r in certain words
+    to evil spirits.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: r-pronunciation as marked speech
+  literal_form: the sound r in the pronunciation of certain words
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Expedition collection and travel context
+  summary: The passage situates the Koryak text collection within expedition field-work
+    and describes the collector’s travel among Koryak and Kamchadal groups.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dialect classification and pronunciation contrast
+  summary: The passage describes western and eastern Koryak dialect branches, the
+    differing treatment of the sound r, and local dialect variation.
+  figure_refs:
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Tale attribution of r-speech to evil spirits
+  summary: Within a discussion of pronunciation differences, the passage reports that
+    Penshina Koryak tales attribute use of r in certain words to evil spirits.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: marked pronunciation attributed to evil spirits
+  taxonomy_refs: []
+  basis: The passage explicitly states that in Penshina Koryak tales, use of r in
+    certain words is ascribed to evil spirits.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage is an introduction summarizing tale usage; it does not provide
+    a full tale episode, plot, or ritual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 69-86
+  quote_or_summary: The collection was made as Jesup North Pacific Expedition field-work;
+    the texts were collected by the author between December 1900 and April 1901, while
+    Jochelson investigated Koryak ethnology.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 87-122
+  quote_or_summary: The collector traveled to Kamenskoye, then among eastern Koryak
+    and Kamchadal groups, with long journeys by reindeer or dog sledge and snowshoes,
+    including uninhabited country without a guide.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 128-151
+  quote_or_summary: Koryak dialects are divided into western and eastern branches;
+    the Ke'rek are said to stand apart and perhaps form a third dialect.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 152-159
+  quote_or_summary: The sound r is described as frequent in the eastern Koryak branch
+    and Chukchee, but missing in the western branch and replaced by other sounds.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 160-164
+  quote_or_summary: '"the use of r in the pronunciation of certain words is ascribed
+    to evil spirits."'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:6
+  type: quote
+  locator: lines 165-171
+  quote_or_summary: '"We say yaya''na (HOUSE), and the Alutor people say rarana"'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 176-180
+  quote_or_summary: The Koryak language is described as having multiple local dialects,
+    with each bay and river differing in pronunciation and vocabulary.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is mainly ethnographic and linguistic introduction. The only
+    motif-like content is the explicit statement about Penshina Koryak tales attributing
+    r-pronunciation to evil spirits. No broader comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned, because the passage does not support a listed taxonomy match.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l69-l180
+  passage_sha256=db1fe32420a89c150e37816121ed14ca2469681e5199c44f4e05b22216bdaf73
+

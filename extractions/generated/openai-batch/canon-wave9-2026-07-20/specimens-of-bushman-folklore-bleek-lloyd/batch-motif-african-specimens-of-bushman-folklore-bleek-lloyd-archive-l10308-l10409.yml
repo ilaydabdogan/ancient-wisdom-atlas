@@ -1,0 +1,433 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l10308-l10409
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: HOW TTO IS OBTAINED. / DEATH. / DEATH. / THE DOINGS OF IXUE ARE MANY.; lines
+    10308-10409
+  start: '10308'
+  end: '10409'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A speaker describes seeing a child making fire with sticks, eating tshana,
+    seeing the speaker, and dying; the speaker fears the dead child, mentions wearing
+    wood pigeon feathers, and goes away to a distant mountain country named Wnqd.
+    Notes explain the fire sticks, grass, and tshana tree. A separate prayer addresses
+    the Young Moon, asking it to speak and tell something so that the speaker may
+    eat; a note adds that on seeing the moon people say a lunar name and sound a male
+    antelope horn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The child rubs fire with little sticks and makes fire.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: The child sees the speaker and dies.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The speaker says the child is dead and that the speaker is afraid of the child.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: The speaker says the speaker's country is far away and that going there takes
+    many moons.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The child eats tshana, rubs fire, hurts his hands, cries, sees the speaker,
+    and dies.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The speaker wears many wood pigeon feathers in the head, associated in the
+    text with two wood pigeons.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker goes to a country named Wnqd, described as a large mountain.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note describes one long hand-held fire stick and another fire stick laid
+    on grass; rubbed fire falls on the grass and is blown.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: A note identifies tshana as a tall fruit-bearing tree whose fruit is eaten
+    raw.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The prayer greets the Young Moon and asks it to speak and tell the speaker
+    something.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The prayer asks the Young Moon to speak when the sun rises so that the speaker
+    may eat something.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: A note says that when the moon is seen, people say a lunar name and sound
+    the male antelope's horn.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: speaker in the death narrative
+  description: The first-person speaker who sees the child, says the child is dead,
+    fears the child, wears wood pigeon feathers, and goes to a distant country.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the speaker's child
+  description: The speaker's child, described as making fire with little sticks, eating
+    tshana, hurting his hands, crying, seeing the speaker, and dying.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Young Moon
+  description: The addressed figure in the prayer, greeted and asked to speak and
+    tell something.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: fearful parent or kin-speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker calls the other figure "my child" and says, "I am afraid of my
+    child."
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: dead child and fire-maker
+  assigned_to:
+  - fig:2
+  basis: The child rubs fire and dies after seeing the speaker.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: traveler to distant mountain country
+  assigned_to:
+  - fig:1
+  basis: The speaker says the country is far away and then goes to Wnqd, described
+    as a large mountain.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: addressed lunar being
+  assigned_to:
+  - fig:3
+  basis: The prayer addresses the Young Moon directly and asks it to speak.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire made by rubbing little sticks; a note describes the fire falling
+    on grass and being blown.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: fire sticks
+  literal_form: Two fire sticks, including a long small hand-held stick like a reed
+    and another stick laid on grass.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: tshana tree and fruit
+  literal_form: A tall fruit-bearing tree whose fruit is eaten raw; the child eats
+    tshana.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: wood pigeon feathers
+  literal_form: Many wood pigeon feathers worn in the speaker's head, associated with
+    two wood pigeons.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Wnqd mountain country
+  literal_form: The speaker's own country, named Wnqd, described as a large mountain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Young Moon
+  literal_form: The young or small moon addressed in prayer and named in a note.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: sym:7
+  label: male antelope horn
+  literal_form: A horn sounded when the moon is seen, according to the note.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Child makes fire and dies after seeing the speaker
+  summary: The child rubs little sticks to make fire, eats tshana, hurts his hands,
+    cries, sees the speaker, and dies; the speaker says the child is dead and fears
+    the child.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:2
+  label: Speaker with wood pigeon feathers departs to Wnqd
+  summary: The speaker describes wearing many wood pigeon feathers, fearing the child,
+    and going to the speaker's own distant country, Wnqd, a large mountain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Prayer to the Young Moon
+  summary: The prayer greets the Young Moon and asks it to speak and tell something,
+    including speech at sunrise so that the speaker may eat.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Moon-sighting horn practice
+  summary: A note says that when the moon is seen, a lunar name is said and a male
+    antelope horn is sounded; it also distinguishes names used for the small moon.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: death following sight of a particular figure
+  taxonomy_refs: []
+  basis: The child sees the speaker and dies; the sequence is repeated in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage preserves specialized names or terms in transcription, but
+    their meanings are not fully explained in the supplied text.
+- id: motif:2
+  label: fear of the dead child
+  taxonomy_refs: []
+  basis: The speaker explicitly says the child is dead and that the speaker is afraid
+    of the child.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the reason for the fear beyond the child's
+    dead state and identity terms.
+- id: motif:3
+  label: friction fire-making with sticks and grass
+  taxonomy_refs: []
+  basis: The child makes fire by rubbing little sticks; the note explains the two
+    sticks, grass, falling fire, and blowing of the fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a material-action motif in the passage rather than a named taxonomy
+    motif family in the supplied list.
+- id: motif:4
+  label: departure to a distant own country after an encounter
+  taxonomy_refs:
+  - departure
+  basis: The speaker says the country is far away, involving many moons of travel,
+    and then goes away to Wnqd, a large mountain.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage states departure and destination, but does not frame it as
+    a quest or formal exile.
+- id: motif:5
+  label: lunar prayer for speech and food
+  taxonomy_refs: []
+  basis: The prayer addresses the Young Moon, asks it to speak and tell something,
+    and links its speech with the speaker eating something.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage does not specify whether the moon grants the request.
+- id: motif:6
+  label: ritual greeting of the newly seen moon with horn-sounding
+  taxonomy_refs: []
+  basis: A note says that when the moon is seen, people say a lunar name and sound
+    the male antelope's horn.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The note is brief and does not describe the full ritual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10308-10312; ms. 9412
+  quote_or_summary: The speaker says the child was rubbing little sticks' fire, saw
+    the speaker, and died; the speaker says the child is dead and is feared.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized with minimal quotation.
+- id: ev:2
+  type: summary
+  locator: lines 10313-10327; ms. 9413-9414
+  quote_or_summary: The speaker says the speaker's country is far away and reached
+    over many moons; the child makes fire, eats tshana, hurts his hands, cries, sees
+    the speaker, and dies; the speaker says the child sees the speaker and dies, and
+    the speaker goes away to the far country.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 10339-10345; note ms. 9412'
+  quote_or_summary: 'A note names the tree for the fire sticks and describes two sticks:
+    one long small hand-held stick and another laid on grass; rubbed fire falls on
+    the grass and is blown.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 10328-10337; ms. 9415-9416
+  quote_or_summary: The speaker says the child is another person, sees the child,
+    wears many wood pigeon feathers in the head, and is afraid of the child before
+    going to the speaker's own country.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 10336-10338
+  quote_or_summary: The speaker goes to the speaker's own country; its name is Wnqd,
+    and it is described as "a mountain, a large mountain."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 10347-10349; note ms. 9406'
+  quote_or_summary: A note says tshana is a tall fruit-bearing tree and that its fruit
+    is eaten raw.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 10369-10383; ms. 9436
+  quote_or_summary: The prayer greets the Young Moon and says, in part, "Young Moon
+    ! speak to me !" and "Tell me of something."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short quotation.
+- id: ev:8
+  type: summary
+  locator: lines 10386-10393; ms. 9436'
+  quote_or_summary: The prayer says that when the sun rises, the Young Moon must speak
+    to the speaker so that the speaker may eat something, including speaking about
+    a little thing so that the speaker may eat.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 10401-10406; note ms. 9450'
+  quote_or_summary: A note explains that when the moon is seen, people say a lunar
+    name and sound the male antelope's horn; it also distinguishes names used for
+    the small moon.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. Several original-language
+    terms and typographic transcriptions are unclear in the provided text, so interpretive
+    claims are kept cautious. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage includes two distinct units: a death/fire-making narrative and a prayer to the Young Moon with editorial notes. Candidate motifs are therefore separated by scene.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l10308-l10409
+  passage_sha256=d3d2da3f11d63596add9f4fe3254add985481df4ac1d7dec01225ee4919ca487
+

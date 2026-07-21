@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l7177-l7205
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: THE  STORY  OF  KENKEBE,  167 / STORY  OF  THE  WONDERFUL  HORNS. / STORY  OF  THE   WONDERFUL  HORNS,      171
+    / THE  STORY  OF  THE  GLUTTON.; lines 7177-7205
+  start: '7177'
+  end: '7205'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: all the people had been swallowed by a monster
+  summary: A woman leaves her husband after a quarrel and returns to her father’s
+    place. She finds the people gone, signs of animals and blood in the house, and
+    hides in the top of the hut. A monster arrives singing that it has eaten and still
+    lives. Later the house fills with animals, who make a fire, cook, eat, sleep,
+    and go out in the morning to seek more food.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A man quarrels with his wife, and she leaves him to go to her father’s place.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the woman arrives, nobody is present because the people have been swallowed
+    by a monster.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Inside her father’s former house, the woman sees animal footprints and spots
+    of blood on the floor.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The woman climbs into the top of the hut and hides.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The monster comes while saying that it has eaten and is still living.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The woman stays awake.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The house becomes filled with many kinds of animals.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The animals make a fire, cook food, eat it, and sleep.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: In the morning, the animals go out to search for something to eat.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: The woman’s husband, who quarrels with her before she leaves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the wife
+  description: A woman who leaves her husband, returns to her father’s place, finds
+    signs of danger, and hides in the hut.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: the monster
+  description: A monster that has swallowed all the people and comes saying it has
+    eaten and is still living.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: all the people
+  description: The people at the father’s place who have been swallowed by the monster
+    before the woman arrives.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: all kinds of animals
+  description: Animals that fill the house, make fire, cook, eat, sleep, and later
+    search for food.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: estranged husband
+  assigned_to:
+  - fig:1
+  basis: He quarrels with his wife, after which she leaves him.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: returning wife
+  assigned_to:
+  - fig:2
+  basis: She goes home to her father’s place after leaving her husband.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: hidden observer
+  assigned_to:
+  - fig:2
+  basis: She hides in the top of the hut and stays awake while dangerous beings arrive.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:4
+  label: devouring monster
+  assigned_to:
+  - fig:3
+  basis: The people have been swallowed by the monster, and it announces that it has
+    eaten.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:5
+  label: swallowed community
+  assigned_to:
+  - fig:4
+  basis: All the people at the place have been swallowed by the monster.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: animal food-seekers
+  assigned_to:
+  - fig:5
+  basis: The animals cook and eat in the house, then go out in the morning to search
+    for food.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: father’s house / hut
+  literal_form: The house that used to belong to the woman’s father, with a top space
+    where she hides.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: animal footprints
+  literal_form: Footprints of animals on the floor of the house.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spots of blood
+  literal_form: Spots of blood over the floor of the house.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fire
+  literal_form: A fire made by the animals inside the house.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Quarrel and departure
+  summary: A man quarrels with his wife, and she leaves for her father’s place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Empty father’s place
+  summary: The woman arrives and finds nobody there because the people have been swallowed
+    by a monster.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Blood and footprints in the house
+  summary: The woman enters her father’s former house and sees animal footprints and
+    blood on the floor.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Woman hides and hears the monster
+  summary: The woman hides in the top of the hut and hears the monster arrive with
+    a song about having eaten and still living.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Animals occupy the house
+  summary: The house fills with animals, who make fire, cook, eat, sleep, and later
+    go out to look for more food.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Devouring monster empties a community
+  taxonomy_refs: []
+  basis: The woman finds nobody at her father’s place because all the people have
+    been swallowed by a monster.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not yet describe rescue, disgorgement, or defeat of the
+    monster.
+- id: motif:2
+  label: Hidden survivor observes danger from above
+  taxonomy_refs: []
+  basis: The woman hides in the top of the hut and remains awake while the monster
+    and animals come to the house.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives only the initial concealment and observation; later
+    consequences are outside this excerpt.
+- id: motif:3
+  label: Animal intruders imitate household cooking
+  taxonomy_refs: []
+  basis: The house fills with animals who make a fire, cook their food, eat, and sleep.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explain whether the animals are servants of the monster,
+    transformed beings, or independent creatures.
+- id: motif:4
+  label: Insatiable eater’s boast
+  taxonomy_refs: []
+  basis: The monster comes saying that it has eaten and is still living, and the animals
+    later leave to search for more food.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The relation between the monster’s statement and the animals’ search for
+    food is not explicitly defined in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7179-7181
+  quote_or_summary: A man quarrels with his wife; she leaves him and goes home to
+    her father’s place.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 7182-7185
+  quote_or_summary: When she got home she found nobody, for all the people had been
+    swallowed by a monster.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 7185-7189
+  quote_or_summary: In the house that used to be her father’s, she notices animal
+    footprints and spots of blood across the floor.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 7189-7191
+  quote_or_summary: She gets into the top of the hut and hides herself, then hears
+    the monster coming.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 7193-7195
+  quote_or_summary: "“O man, O man, / I have eaten, / And I am still living.”"
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: line 7197
+  quote_or_summary: The woman keeps awake.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:7
+  type: summary
+  locator: lines 7197-7200
+  quote_or_summary: The house fills with all kinds of animals, who make a fire, cook
+    their food, eat it, and sleep.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+- id: ev:8
+  type: summary
+  locator: lines 7200-7202
+  quote_or_summary: The next morning the animals wake and go out to search for something
+    to eat.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward for this short excerpt. Motif labels
+    are descriptive rather than tied to a supplied taxonomy family. No comparison
+    claims were added because the passage itself supplies no explicit comparative
+    link beyond recurring narrative patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The final 'Digitized by Google' text is treated as scanning artifact and excluded from motif extraction.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l7177-l7205
+  passage_sha256=9ddf892f5a93c42d5669010c9ee1ea213575d5ea3a8155d647d860b4a8ba0942
+

@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l20343-l20362
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 409 / OF THE OLD NORTHMEN. 41 / OF THE OLD NORTHMEN.
+    413 / OF THE OLD NORTHMEN. 415; lines 20343-20362
+  start: '20343'
+  end: '20362'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes natural features and artificial family-howes, mounds,
+    barrows, and cairns as places associated with the dead, family worship, patriarchal
+    seating, and homestead-adjacent scenes in Old Norse poetic and saga examples.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A natural feature such as a rock, stone, or cave could be regarded as the
+    dwelling of the dead.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Artificial family-howes were set near the main door of the big house on an
+    estate.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage cites mounds near the east door of Walhall in Balder’s Doom and
+    mounds near a house in the Helgi Lay.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Helgi Lay example, a maid sees the dead riding by.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Gunnar’s cairn in Niala is described as not far from the house.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The barrow is described as both the place for the horg of family worship and
+    the seat of the patriarch.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Giant Thrym is described sitting on a howe by his hall while plaiting golden
+    leashes for greyhounds and trimming horses’ manes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Thorlaf is described as habitually sitting for long periods on a howe not
+    far from the homestead, where people seeking him could find him.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the dead
+  description: The dead are associated with dwellings in natural features and are
+    seen riding by in the Helgi Lay example.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: maid in the Helgi Lay
+  description: A maid who sees the dead riding by near the house in the Helgi Lay
+    example.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Gunnar
+  description: A named figure associated with a cairn in Niala that is not far from
+    the house.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Giant Thrym
+  description: The lord of the giants, sitting on the howe by his hall and tending
+    leashes and horses’ manes.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Thorlaf
+  description: A good yeoman in Hallfred’s Saga who habitually sat on the howe near
+    the homestead.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: the patriarch
+  description: A generic household or family head whose seat is identified with the
+    barrow.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: dead associated with dwelling-place
+  assigned_to:
+  - fig:1
+  basis: The passage says rocks, stones, caves, and howes may be looked on as dwellings
+    of the dead, and gives an example of the dead riding by.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: witness of the dead
+  assigned_to:
+  - fig:2
+  basis: The maid sees the dead riding by in the Helgi Lay example.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cairn-associated named figure
+  assigned_to:
+  - fig:3
+  basis: The passage names Gunnar’s cairn and locates it near the house.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: howe-sitter
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both Thrym and Thorlaf are described as sitting on a howe near a hall or
+    homestead.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: lord of the giants
+  assigned_to:
+  - fig:4
+  basis: The passage identifies Thrym as the lord of the giants.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: yeoman following old habit
+  assigned_to:
+  - fig:5
+  basis: Thorlaf is called a good yeoman and his sitting on the howe is described
+    as an old habit.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: patriarchal seat-holder
+  assigned_to:
+  - fig:6
+  basis: The barrow is described as the seat of the patriarch.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: natural dwelling of the dead
+  literal_form: rock, stone, or cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: burial mound or howe
+  literal_form: artificial howe, mound, barrow, or cairn
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: homestead threshold location
+  literal_form: main door, east door, house, hall, or homestead near the mound or
+    howe
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: family worship place
+  literal_form: horg of family worship at the barrow
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Dwellings of the dead in natural or artificial places
+  summary: The passage states that natural features and, where absent, artificial
+    family-howes could be treated as dwellings of the dead.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mounds and cairns near houses in cited Old Norse examples
+  summary: The passage cites mounds near Walhall, mounds near a house in the Helgi
+    Lay where a maid sees the dead riding by, and Gunnar’s cairn near a house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Barrow as family worship-place and patriarchal seat
+  summary: The barrow is identified as the site of family worship and as the seat
+    of the patriarch.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Thrym seated on the howe by his hall
+  summary: Giant Thrym sits on a howe by his hall, plaiting leashes for greyhounds
+    and trimming horses’ manes.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Thorlaf seated on the howe near the homestead
+  summary: Thorlaf habitually sits for long periods on the howe near the homestead
+    and is found there by those seeking him.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dwelling of the dead in natural features or mounds
+  taxonomy_refs: []
+  basis: The passage explicitly connects rocks, stones, caves, and artificial howes
+    with the dwelling of the dead.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage describes a location of the dead, not a full afterlife journey
+    narrative.
+- id: motif:2
+  label: burial mound beside the homestead
+  taxonomy_refs: []
+  basis: Family-howes, mounds, a cairn, Thrym’s howe, and Thorlaf’s howe are all located
+    near doors, houses, halls, or homesteads.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is antiquarian commentary citing examples rather than a single
+    continuous mythic episode.
+- id: motif:3
+  label: barrow as family cult site and patriarchal seat
+  taxonomy_refs: []
+  basis: The barrow is described as the place for the horg of family worship and the
+    seat of the patriarch.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The exact ritual actions of the family worship are not described in this
+    passage.
+- id: motif:4
+  label: dead riding past the homestead mound
+  taxonomy_refs: []
+  basis: The Helgi Lay example includes a maid who sees the dead riding by near mounds
+    by the house.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief reference to the episode, without fuller
+    narrative context.
+- id: motif:5
+  label: authority figure seated on the mound by the hall
+  taxonomy_refs: []
+  basis: The passage says the barrow was the patriarch’s seat and gives examples of
+    Thrym and Thorlaf sitting on howes near a hall or homestead.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The examples mix mythic and saga material and are presented through the
+    editor’s comparison.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats natural features and artificial family-howes as serving
+    a comparable function as places associated with the dead.
+  claim_level: same_function
+  target: natural rock/stone/cave and artificial family-howe as dwelling-places of
+    the dead
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to the functional grouping made in this passage;
+    it does not establish broader historical development.
+- id: claim:2
+  claim: The passage groups poetic and saga examples as a recurring Old Norse pattern
+    in which mounds, cairns, or howes stand near houses, halls, doors, or homesteads.
+  claim_level: same_function
+  target: Balder’s Doom, the Helgi Lay, Niala, Thrym example, and Hallfred’s Saga
+    examples cited in the passage
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists examples but does not provide full contexts for each
+    cited work.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20343-20347
+  quote_or_summary: Natural features such as rock, stone, or cave could be viewed
+    as dwellings of the dead; where absent, artificial family-howes were set near
+    the main door of the big house.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 20347-20350
+  quote_or_summary: The passage cites mounds near the east door of Walhall in Balder’s
+    Doom, mounds near a house in the Helgi Lay where a maid sees the dead riding by,
+    and Gunnar’s cairn in Niala not far from the house.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 20350-20352
+  quote_or_summary: "“the barrow, besides being the place for the ‘horg’ of family
+    worship, was also the seat of the patriarch.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 20352-20356
+  quote_or_summary: Giant Thrym is described as sitting on the howe by his hall, as
+    lord of the giants, plaiting golden leashes for greyhounds and trimming horses’
+    manes.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 20356-20362
+  quote_or_summary: In Hallfred’s Saga, Thorlaf is described as habitually sitting
+    for long periods on the howe not far from the homestead, where those who sought
+    him could find him; the following footnote begins to quote the Old Norse wording.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about mound, howe, barrow, cairn, dead, family worship,
+    and homestead proximity. Motif and comparison claims remain draft-level because
+    the text is editorial commentary with brief references to multiple works rather
+    than a full primary narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or taxonomy IDs beyond the supplied taxonomy list were used; available taxonomy symbol ref ‘cave’ was applied only to the explicit cave reference.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l20343-l20362
+  passage_sha256=079620168ac314aef29831433fc89a227882ac7f2d6a2e8191dbdf9a1d2883bf
+

@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l5340-l5367
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          12? / THE    MYSTERIES    OF    MITHRA
+    / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES  1 29 / THE    MYSTERIES    OF    MITHRA;
+    lines 5340-5367
+  start: '5340'
+  end: '5367'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: MITHRA BORN FROM THE ROCK.
+  summary: The passage discusses astronomical interpretations of the tauroctonous
+    group as preparatory diversions for neophytes before esoteric teaching about the
+    ancient Iranian legend of Mithra. A figure caption identifies a bas-relief from
+    St. Clement's in Rome showing Mithra born from a rock. The passage states that
+    the legend's story is lost, though bas-reliefs recount some episodes.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The tauroctonous group is said to have been variously explained with astronomical
+    symbolism.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The sidereal interpretations are described as intellectual diversions intended
+    to amuse neophytes before they received esoteric doctrine.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The esoteric doctrines are described as constituting the ancient Iranian legend
+    of Mithra.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The story of the legend is said to be lost, while bas-reliefs are said to
+    recount certain episodes of it.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A figure caption identifies Mithra as born from the rock and describes the
+    image as a bas-relief found in the crypt of St. Clement's at Rome.
+  category: object
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: Named in the passage as the subject of an ancient Iranian legend and
+    in the figure caption as born from the rock.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: neophytes
+  description: Recipients of preparatory sidereal interpretations before the revelation
+    of esoteric doctrines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: legendary figure born from rock
+  assigned_to:
+  - fig:1
+  basis: The passage names Mithra as the subject of the ancient Iranian legend and
+    captions an image as Mithra born from the rock.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: initiands awaiting esoteric revelation
+  assigned_to:
+  - fig:2
+  basis: The passage says neophytes were amused by sidereal interpretations prior
+    to receiving the revelation of esoteric doctrines.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rock birth source
+  literal_form: rock
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tauroctonous group
+  literal_form: iconographic group explained through astronomical symbolism
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sidereal symbolism
+  literal_form: astronomical symbolism used to explain the tauroctonous group
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Mithra born from the rock
+  summary: A bas-relief is identified as depicting Mithra born from a rock.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: neophytes before esoteric revelation
+  summary: Neophytes are presented with sidereal interpretations before receiving
+    esoteric doctrine connected with the ancient Iranian legend of Mithra.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: birth from rock
+  taxonomy_refs:
+  - sacred_birth
+  basis: The figure caption explicitly identifies Mithra as born from the rock.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt gives only a caption and does not narrate the birth episode
+    in detail.
+- id: motif:2
+  label: initiation into esoteric doctrine
+  taxonomy_refs:
+  - initiation
+  basis: The passage describes neophytes receiving preparatory explanations before
+    the revelation of esoteric doctrines.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a description of cultic instruction rather than a mythic narrative
+    episode.
+- id: motif:3
+  label: astronomical interpretation of sacred image
+  taxonomy_refs: []
+  basis: The tauroctonous group is said to have been explained by astronomical or
+    sidereal symbolism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage characterizes these interpretations as diversions and gives
+    no detailed astronomical schema.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Roman Mithraic esoteric doctrine as connected with an
+    ancient Iranian legend of Mithra.
+  claim_level: common_inheritance
+  target: ancient Iranian legend of Mithra
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:4
+  confidence: medium
+  limitations: The excerpt also states that the story of the legend is lost and only
+    some episodes are inferred from bas-reliefs.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5348-5353
+  quote_or_summary: "“MITHRA BORN FROM THE ROCK.” The caption identifies the object
+    as a bas-relief found in the crypt of St. Clement's at Rome."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5340-5346
+  quote_or_summary: The tauroctonous group is described as having been explained with
+    astronomical symbolism characterized as more ingenious than rational.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5344-5358
+  quote_or_summary: Sidereal interpretations are described as intellectual diversions
+    for neophytes before the revelation of esoteric doctrines identified with the
+    ancient Iranian legend of Mithra.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5358-5364
+  quote_or_summary: The story of the legend is said to be lost, though bas-reliefs
+    recount certain episodes and suggest its contents.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on a short excerpt with one figure caption and surrounding
+    scholarly discussion. Motif identification is limited because the narrative continues
+    beyond the supplied passage and the legend is explicitly described as lost.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol reference was assigned to the rock because the supplied symbol taxonomy does not include rock.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l5340-l5367
+  passage_sha256=98108e13cc0f58f40c2dd2c9a6fb00df7862e23af58764c1bcec7ce428d41856
+

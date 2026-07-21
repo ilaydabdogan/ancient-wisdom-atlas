@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19710-l19773
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IMPISI NENYANGA. / THE MAN AND THE BREAD. / FOR IT AGAIN, BUT NEVER FOUND
+    IT.) / THE MAN AND THE BREAD.; lines 19710-19773
+  start: '19710'
+  end: '19773'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Famine takes away wisdom.
+  summary: A hungry man searches for bread he had previously thrown away. He uses
+    memory, an ant-heap landmark, and an arm gesture to retrace the throw, but cannot
+    find the bread. He misses the time for digging roots, returns home empty and faint,
+    and later tells the story after the famine, saying that famine removes wisdom
+    and increased his want.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The man remembers the place where he threw away the bread and stoops down
+    to search for it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While searching, the man gains strength because he thinks his hunger may end
+    if he finds the bread.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man identifies an ant-heap as a landmark near the place where he threw
+    the bread.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The man imitates the throwing motion with his arm and runs in the direction
+    indicated by the arm.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man feels about at the place but does not find the bread, and says he
+    had thrown it there while alone and unseen.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The time for digging roots passes; the man goes home without anything and
+    becomes faint again.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the famine and a time of peace, the man tells the tale, and those who
+    hear it laugh at his conduct.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hearers ask whether bread thrown away one year could be found in another
+    year still good to eat.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The man says famine does not make a person clever, takes away wisdom, and
+    made him believe he would find the bread.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the hungry man
+  description: A man who had thrown away bread, searched for it during famine, failed
+    to find it, later lived by the sea, and told the tale after the famine ended.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: those who heard the tale
+  description: People who heard the man's account after the famine, laughed at his
+    conduct, and questioned the possibility of finding year-old discarded bread good
+    to eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: hungry seeker
+  assigned_to:
+  - fig:1
+  basis: He searches for bread he had thrown away because he believes finding it may
+    end his hunger.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: retrospective tale-teller
+  assigned_to:
+  - fig:1
+  basis: He tells the tale after peace returns and the famine ends.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: laughing audience
+  assigned_to:
+  - fig:2
+  basis: They hear the tale, laugh, and ask whether old discarded bread could still
+    be good to eat.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: discarded bread
+  literal_form: Bread that the man had thrown away and later tried to find again.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: ant-heap landmark
+  literal_form: An ant-heap marking the place where the man believed he had thrown
+    away the bread.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: throwing gesture
+  literal_form: The man imitates with his arm the direction in which he threw the
+    bread.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: roots not dug
+  literal_form: Roots that the man fails to dig because the time for digging roots
+    passes while he searches for the bread.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Search for the thrown-away bread
+  summary: The man remembers where he threw away the bread, stoops to search, and
+    gains strength from the belief that he may find it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Landmark and gesture guide the search
+  summary: The man uses an ant-heap and an imitated arm motion to determine the direction
+    of the throw, then runs to the place and searches unsuccessfully.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Return home empty
+  summary: The search consumes the time for digging roots; the man returns home with
+    nothing and becomes faint again.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Retelling after famine
+  summary: After peace and the end of famine, the man tells the story; the hearers
+    laugh, and he explains that famine took away wisdom and increased his want.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: famine removes judgment
+  taxonomy_refs:
+  - wisdom
+  basis: The man explicitly says famine does not make a person clever and that famine
+    takes away wisdom; his hunger made him believe he would find discarded bread from
+    an earlier time.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage frames the pattern as loss
+    of wisdom under hunger rather than a formal wisdom teaching with a named sage.
+- id: motif:2
+  label: futile search for discarded food
+  taxonomy_refs: []
+  basis: The man searches for bread he had thrown away, uses landmarks and memory
+    to retrace his action, fails to find it, and returns home worse off.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this literal pattern.
+- id: motif:3
+  label: need increased by misguided effort
+  taxonomy_refs: []
+  basis: The man spends the root-digging time searching for the bread, obtains nothing,
+    becomes faint again, and later says the search increased his want until he was
+    nearly dead.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is an inferred pattern from the sequence and the man's explanation,
+    not a named motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19710-19727
+  quote_or_summary: The man remembers the place where he threw away the bread, stoops
+    to search, and gains strength because he thinks his hunger may end if he finds
+    it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: lines 19728-19740
+  quote_or_summary: He returns to the path, recognizes an ant-heap, imitates with
+    his arm the direction in which he threw the bread, and runs in that direction.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: lines 19741-19750
+  quote_or_summary: At the place indicated by the gesture, he feels about but does
+    not find the bread; he says he threw it exactly there and that no one saw him
+    because he was alone.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: lines 19751-19756
+  quote_or_summary: The time for digging roots passes; he goes home without anything
+    and becomes faint again because he has not found the bread.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: lines 19757-19767
+  quote_or_summary: The man is said still to live by the sea; after peace returns
+    and the famine ends, he tells the tale, and hearers laugh and ask whether bread
+    thrown away one year could be found in another year still good to eat.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: quote
+  locator: lines 19768-19773
+  quote_or_summary: "“Famine takes away wisdom.” The man says hunger made him believe
+    he would find the bread, and that the search increased his want until he was nearly
+    dead."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate-level and
+    should be reviewed, especially the broad mapping to the supplied wisdom taxonomy
+    family. No cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The name-like line “Umpengula Mbanda.” appears in the supplied passage but is not treated as a narrative figure because its role is not clear from this passage alone.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19710-l19773
+  passage_sha256=7d9107d4311b996dc295959cd63c20138c3c493fd1251770c335db17e626b48c
+

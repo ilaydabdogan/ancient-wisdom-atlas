@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.native-american-traditions-caddo-dorsey-archive-l6093-l6107
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+passage_locator:
+  label: ABSTRACTS. I IQ / I20 TRADITIONS OP THE CADDO. / ABSTRACTS. 121 / ABSTRACTS.
+    123; lines 6093-6107
+  start: '6093'
+  end: '6107'
+  translation: Traditions of the Caddo
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A man has a wife and a talking dog. While the man hunts, the wife secretly
+    leaves. The dog follows her and sees her summon a large snake from a hole in a
+    tree by whistling three times; the snake coils around her. The man later imitates
+    the summons, kills the snake with arrows, cuts it like fish, cooks it, and serves
+    the snake flesh to his wife while he and the dog eat fish. The dog observes that
+    after eating the snake, the wife scratches herself, her skin changes to the color
+    of snake skin, and she becomes a snake.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that a man has a wife and a dog, and that animals can talk
+    at that time; the dog talks to the man and woman.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man goes hunting every day, and after he leaves the woman goes out and
+    returns in the evening.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The dog tells the husband about the woman's absence, and the husband instructs
+    the dog to follow her next time.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The dog sees the woman go to a large tree and whistle three times.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the third whistle, a big snake comes from a large hole in the tree,
+    goes to the woman, coils around her body, and finally returns to the hole.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After hearing the dog's report, the man makes many arrows and tells his wife
+    that he and the dog are going fishing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Instead of fishing, the man and dog go to the snake's place; the man whistles
+    three times, the snake emerges, and the man shoots and kills it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The man cuts the snake into small pieces to resemble fish pieces, catches
+    a few small fish at the river, cooks both fish and snake flesh, serves the snake
+    flesh to his wife, and he and the dog eat fish.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The dog sees the wife eating the snake flesh; later she scratches herself
+    all over, her skin turns the color of snake skin, and she finally turns into a
+    snake.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man / husband
+  description: A man with a wife and dog who hunts, instructs the dog to follow his
+    wife, kills the snake, and serves snake flesh to his wife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: woman / wife
+  description: The man's wife, who secretly goes to a tree, summons a snake, eats
+    snake flesh served by her husband, and turns into a snake.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: dog
+  description: A talking dog who informs the husband, follows the wife, accompanies
+    the man, and observes the wife's later actions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: big snake
+  description: A big snake that emerges from a large hole in a tree after three whistles,
+    coils around the woman, returns to the hole, and is later killed by the man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: hunter and snake-killer
+  assigned_to:
+  - fig:1
+  basis: The man goes hunting, makes arrows, summons the snake, shoots it, kills it,
+    and prepares its flesh.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: secret visitor to the tree and snake
+  assigned_to:
+  - fig:2
+  basis: The wife leaves while her husband is away, goes to the large tree, whistles
+    three times, and receives the snake that coils around her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: talking animal informant and watcher
+  assigned_to:
+  - fig:3
+  basis: The dog talks, reports the wife's actions to the man, follows her, and later
+    observes her eating and changing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: tree-hole snake summoned by whistle
+  assigned_to:
+  - fig:4
+  basis: The snake comes from the large hole in the tree after the third whistle,
+    coils around the woman, and returns to the hole.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: human transformed into snake
+  assigned_to:
+  - fig:2
+  basis: After eating snake flesh, the wife scratches, her skin turns the color of
+    snake skin, and she finally turns into a snake.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: large tree with hole
+  literal_form: A large tree containing a large hole from which the snake emerges.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: snake / serpent
+  literal_form: A big snake from the tree hole, and later the snake form into which
+    the wife changes.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: three whistles
+  literal_form: The woman whistles three times to summon the snake; later the man
+    also whistles three times to draw it out.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: snake flesh disguised as fish
+  literal_form: The snake is cut into very small pieces to look like pieces of fish,
+    cooked, and served to the wife.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: arrows
+  literal_form: Many arrows made by the man and used to shoot and kill the snake.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Talking dog and wife's daily absence
+  summary: The man has a wife and talking dog. While the man hunts, the wife leaves
+    and returns in the evening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dog witnesses the tree-hole snake encounter
+  summary: The dog follows the woman and sees her summon a big snake from a hole in
+    a large tree by whistling three times; the snake coils around her and returns
+    to the hole.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Man summons and kills the snake
+  summary: After the dog's report, the man makes arrows, pretends to go fishing, goes
+    to the snake's place, whistles three times, and kills the snake when it emerges.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Snake flesh served as fish
+  summary: The man cuts the snake into fish-like pieces, catches a few small fish,
+    cooks both, gives the snake flesh to his wife, and eats fish with the dog.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Wife transforms after eating snake
+  summary: The dog observes the wife eating the snake flesh; she scratches herself,
+    her skin changes to the color of snake skin, and she becomes a snake.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: human turns into snake after eating snake flesh
+  taxonomy_refs:
+  - shapeshifter
+  - serpent
+  basis: The wife eats the cooked snake flesh and then undergoes a bodily change into
+    a snake.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the transformation sequence but does not explain causality
+    beyond the immediate narrative sequence.
+- id: motif:2
+  label: talking animal exposes hidden behavior
+  taxonomy_refs: []
+  basis: The talking dog reports the wife's unexplained absences, follows her, and
+    later observes the effects of the meal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage presents the dog as an informant and observer; no broader
+    trickster or helper category is explicitly named.
+- id: motif:3
+  label: serpent summoned from a tree by repeated whistle
+  taxonomy_refs:
+  - serpent
+  basis: The woman whistles three times at a large tree, and after the third whistle
+    a big snake emerges from a hole in the tree; the man later repeats the action
+    to draw it out.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The meaning of the threefold action is not explained in the passage.
+- id: motif:4
+  label: slain being disguised as food and fed to associated person
+  taxonomy_refs: []
+  basis: The man kills the snake, cuts it into small fish-like pieces, cooks it, and
+    serves the snake flesh to his wife while he and the dog eat fish.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage supports the food-disguise sequence, but its ritual, punitive,
+    or moral function is not stated in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6093-6095
+  quote_or_summary: A man has a wife and dog; animals talk at that time, and the dog
+    talks to the man and woman. The man hunts daily, while the woman leaves after
+    he goes and returns in the evening.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 6095-6098
+  quote_or_summary: The dog reports to the husband and follows the woman; he sees
+    her go to a large tree, whistle three times, and receive a big snake from a large
+    hole in the tree, which coils around her and returns to the hole.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 6098-6101
+  quote_or_summary: The dog tells the man. The man makes many arrows, says he and
+    the dog are going fishing, instead goes to the snake's place, whistles three times,
+    and shoots and kills the emerging snake.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 6101-6104
+  quote_or_summary: The man cuts the snake into small pieces like fish, catches a
+    few small fish at the river, cooks fish and snake flesh, gives the snake flesh
+    to his wife, and eats fish with the dog.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 6104-6107
+  quote_or_summary: The dog sees the wife eating snake flesh. Later he sees her scratching
+    herself; as she scratches, her skin turns the color of snake skin, until she turns
+    into a snake.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative actions and figures are explicit in the provided passage. Motif
+    labels are candidate descriptors only. No comparison claims are made because the
+    passage does not itself compare this story to another tradition or motif family
+    beyond the supplied taxonomy candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage ends abruptly after the word 'She'; no events beyond the provided excerpt are inferred.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-caddo-dorsey-archive__l6093-l6107
+  passage_sha256=c78644831af3746e801f9ca5ee2c1def1d1061b0649b8df4a0623e7ca5448faa
+

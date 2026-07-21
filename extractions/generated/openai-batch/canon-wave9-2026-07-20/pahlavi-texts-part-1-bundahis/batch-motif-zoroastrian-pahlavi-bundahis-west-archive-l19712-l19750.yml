@@ -1,0 +1,254 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l19712-l19750
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER XVII, 7-9. 385 / CHAPTER XVII, I O -XVIII, 3. 387 / Chapter XVIII
+    3. / C C 2; lines 19712-19750
+  start: '19712'
+  end: '19750'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage names the sacred feast and next-of-kin marriage, then gives
+    an editorial explanation of the six Gahanbars or season-festivals of the Parsi
+    year. It reports a theory that medieval Zoroastrians first recognized a two-season
+    year and held festivals at seasonal ends and midpoints, later adapting this inherited
+    festival pattern to a four-season calendar. An alternative explanation treats
+    the six festivals as marking season beginnings and midpoints.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage names the sacred feast as myazd and next-of-kin marriage as khvetuk-das.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The six Gahanbars are described as season-festivals held on the 45th, 105th,
+    180th, 210th, 290th, and 365th days of the Parsi year.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The note attributes an explanation of the unequal festival intervals to Mr.
+    Khurshedji Rustamji Cama.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'In the reported explanation, medieval Zoroastrians began the year at the
+    vernal equinox and originally recognized two seasons: a seven-month summer and
+    a five-month winter.'
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the reported two-season model, festivals were held at the end and middle
+    of each season, corresponding to the 210th, 365th, 105th, and 290th days of the
+    year.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The note says the Avesta names Maidhyoshema and Maidhyairya are evidence for
+    mid-season festivals because they begin with maidhya, glossed as 'middle.'
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The note says Zoroastrians later divided the year into four equal seasons
+    and would have wished to celebrate the ends and middles of the new seasons without
+    disturbing older festivals.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An alternative view in the note says the six season-festivals celebrated midspring,
+    midsummer, the beginning of autumn, the beginning of winter, midwinter, and the
+    beginning of spring.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: medieval Zoroastrians / Zoroastrians
+  description: A religious community described as beginning the year at the vernal
+    equinox, recognizing seasonal divisions, and holding season-festivals.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Mr. Khurshedji Rustamji Cama
+  description: A named interpreter whose explanation of the unequal Gahanbar intervals
+    is reported in the note.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: festival-observing calendrical community
+  assigned_to:
+  - fig:1
+  basis: The passage describes Zoroastrians as organizing the year by seasons and
+    holding festivals at specified seasonal points.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: explanation proposer
+  assigned_to:
+  - fig:2
+  basis: The passage states that Cama proposed an explanation for the inequality of
+    the festival intervals.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Gahanbars / season-festivals
+  literal_form: 'Six festivals on specified days of the Parsi year: 45th, 105th, 180th,
+    210th, 290th, and 365th days.'
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: sacred feast
+  literal_form: myazd, identified in the passage as the sacred feast.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: next-of-kin marriage
+  literal_form: khvetuk-das, identified in the passage as next-of-kin marriage.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: seasonal midpoint
+  literal_form: The word maidhya, glossed as 'middle,' in Avesta festival names.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Named ritual categories
+  summary: The passage names the sacred feast and next-of-kin marriage with their
+    parenthetical terms.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of the Gahanbar calendar
+  summary: The note explains the six Gahanbars as a seasonal festival sequence tied
+    to the Parsi year, first in a two-season model and then in relation to a later
+    four-season model.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal festival cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly describes six season-festivals distributed through
+    the Parsi year and explains them by reference to seasonal middles, ends, or beginnings.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is an editorial calendrical explanation rather than a mythic
+    narrative scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19712-19713
+  quote_or_summary: Names 'the sacred feast (myazd)' and 'nextof-kin marriage (khvetuk-das).'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 19714-19717
+  quote_or_summary: The note states that the six Gahanbars or season-festivals are
+    held on the 45th, 105th, 180th, 210th, 290th, and 365th days of the Parsi year.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19717-19723
+  quote_or_summary: 'The note reports Cama''s explanation: medieval Zoroastrians began
+    the year at the vernal equinox and originally recognized two seasons, a seven-month
+    summer and a five-month winter.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19723-19730
+  quote_or_summary: In that explanation, festivals were held at the ends and middles
+    of the two seasons; the Avesta names Maidhyoshema and Maidhyairya are cited because
+    they begin with maidhya, 'middle.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19730-19744
+  quote_or_summary: The note says Zoroastrians later divided the year into four equal
+    seasons and, while preserving older festivals, would add only certain new observances
+    because other candidate dates lay too close to older festivals.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19744-19750
+  quote_or_summary: The note presents an alternative view that the six festivals marked
+    midspring, midsummer, the beginning of autumn, the beginning of winter, midwinter,
+    and the beginning of spring.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: The seasonal-cycle extraction is well supported by the passage. Confidence
+    is reduced because the supplied excerpt is mainly editorial commentary and ends
+    mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No cross-text comparison claims were added because the passage itself provides calendrical explanation but no explicit comparison to another mythic corpus or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l19712-l19750
+  passage_sha256=b05b5e25b80e4022f44698ce011a02f1013184735fb2cb978aeed3762e6381db
+

@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.native-american-traditions-arapaho-dorsey-kroeber-archive-l17327-l17372
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+passage_locator:
+  label: INTRODUCTION. / CONTENTS. / TRADITIONS  OF  THE  ARAPAHO. / I  12; lines
+    17327-17372
+  start: '17327'
+  end: '17372'
+  translation: Traditions of the Arapaho
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An old woman finds a starving boy, called Little-star or Star-child, beside
+    a woman and takes him to her tent. She feeds him berries and meat while checking
+    her trapping pits. Food repeatedly disappears from a bucket or bowl. The boy watches,
+    sees a large-eyed, long-toothed animal head eating the food, accuses it of theft,
+    and kills the monster with his bow by shooting a fatal soft spot near the collar
+    bone. When the grandmother returns and is shown the slain thief, she goes to the
+    back of the tent and mourns.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A woman is lying beside a child; the child cries because it wants milk and
+    is starving.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old woman identifies the boy as her grandson, Little-star, takes him to
+    her tent, crushes berries, and feeds him.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The old woman keeps trails with pits leading to her tent and goes out to see
+    whether she has caught elk, deer, or buffalo.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The old woman tells the boy to play near the tent and gives him a bow and
+    arrows.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Leftover berries disappear from the bucket; the old woman suggests that they
+    may have leaked out, and the boy believes her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Cooked elk meat is put away in a wooden bowl, but later only bones remain;
+    a similar disappearance happens a third time.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The boy suspects that someone is stealing the food and decides to watch for
+    the thief.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The boy sees the head of an animal with large eyes, a large mouth, and long
+    teeth eating the cooked food.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The boy accuses the animal of stealing their food, shoots it with his bow
+    in a soft spot next to the collar bone, and kills the monster.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: obs:10
+  text: After the boy tells his grandmother that he has killed the food thief, she
+    goes to the back of the tent and mourns.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Little-star / Star-child boy
+  description: A starving boy found beside a woman, called the old woman's grandson
+    and named Little-star; a footnote gives the alternative rendering Star-child.
+    He later watches for the food thief and kills the monster with his bow.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Old woman / grandmother
+  description: The woman who finds the boy, calls him her grandson, takes him to her
+    tent, feeds him, lives by trapping pits, brings back meat, and later mourns after
+    the monster is killed.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Woman lying beside the child
+  description: A woman lying where the crying, starving child is found; the passage
+    mentions her swollen breasts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Food-stealing animal / monster
+  description: An animal head with large eyes, a large mouth, and long teeth that
+    eats the cooked food; the boy kills it, and the passage then calls it a monster.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: starving rescued child
+  assigned_to:
+  - fig:1
+  basis: The child cries for want of milk, is starving, and is taken to the old woman's
+    tent and fed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: grandchild-grandmother relation
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The old woman calls the boy her grandson, and the boy addresses her as grandmother.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:3
+  label: watcher and monster-killer
+  assigned_to:
+  - fig:1
+  basis: The boy determines to see who steals the food, sees the animal, shoots it,
+    and kills the monster.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:4
+  label: provider and trapper
+  assigned_to:
+  - fig:2
+  basis: The old woman feeds the boy, checks trapping pits, and returns with meat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:5
+  label: woman found beside child
+  assigned_to:
+  - fig:3
+  basis: The passage states that a woman lay beside the crying child.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: food thief and slain monster
+  assigned_to:
+  - fig:4
+  basis: The animal is seen eating the cooked food, is accused of stealing it, and
+    is killed; the passage calls it a monster.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: milk wanted by starving child
+  literal_form: milk
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bow and arrows
+  literal_form: bow and arrows given to the boy and used to kill the animal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: trapping pits
+  literal_form: trails with pits leading to the tent from all sides
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: food vessels
+  literal_form: bucket of crushed berries and wooden bowl of cooked meat from which
+    food disappears
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: animal head with teeth
+  literal_form: head of an animal with large eyes, large mouth, and long teeth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Discovery and feeding of the child
+  summary: The old woman finds the starving boy beside a woman, calls him her grandson
+    Little-star, takes him to her tent, and feeds him crushed berries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Life at the tent and repeated food disappearance
+  summary: The old woman goes out to check her trapping pits and brings meat, while
+    food left in vessels at the tent repeatedly disappears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Watching the food thief
+  summary: The boy suspects theft, watches the food, and sees an animal head with
+    large eyes, mouth, and teeth eating the cooked food.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Killing of the monster and mourning
+  summary: The boy accuses the animal, shoots it in a fatal soft spot with his bow,
+    reports the killing to his grandmother, and the grandmother mourns at the back
+    of the tent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: rescued starving child
+  taxonomy_refs: []
+  basis: A starving child crying for milk is found and taken into the old woman's
+    tent, where she feeds him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the child's origin beyond the name Little-star
+    / Star-child.
+- id: motif:2
+  label: repeated disappearance of stored food
+  taxonomy_refs: []
+  basis: Food left in a bucket or bowl repeatedly disappears while the old woman is
+    away, leading the boy to suspect theft.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The food is ordinary berries and meat; the passage does not mark it as
+    sacred.
+- id: motif:3
+  label: hidden food thief revealed as animal monster
+  taxonomy_refs: []
+  basis: The boy watches and sees an animal head with large eyes, mouth, and teeth
+    eating the food; after he kills it, the passage calls it a monster.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: Only the head and key features are described in this excerpt.
+- id: motif:4
+  label: young boy kills monster at vulnerable spot
+  taxonomy_refs: []
+  basis: The boy shoots the animal in the soft spot next to the collar bone, a place
+    he knows to be fatal, and the monster is killed.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The excerpt supports a monster-slaying action but does not establish a
+    broader culture-hero function.
+- id: motif:5
+  label: caregiver mourns slain food thief
+  taxonomy_refs: []
+  basis: After the boy shows that he has killed the one stealing the food, the grandmother
+    says nothing, goes to the back of the tent, and mourns.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not state why the grandmother mourns or what relation
+    she has to the monster.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17327-17331
+  quote_or_summary: A woman lies by the child; the child cries for want of milk and
+    is starving. The old woman asks whether this is her grandson and calls him Little-star.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 17330-17334
+  quote_or_summary: The old woman takes the boy to her tent, crushes berries for him,
+    feeds him, and puts what remains in a bucket at the back of the tent.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 17333-17338
+  quote_or_summary: The old woman says she will check whether she has caught elk,
+    deer, or buffalo. Trails with pits lead to the tent from all sides, and she tells
+    the boy to play nearby and gives him a bow and arrows.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 17338-17344
+  quote_or_summary: The boy goes to get the bucket of berries, but it is gone. He
+    tells his grandmother that someone has eaten them, and she says they may have
+    leaked out.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 17345-17355
+  quote_or_summary: The old woman cooks elk meat, gives it to the boy in a wooden
+    bowl, and puts leftovers away. Later only bones remain; the same thing happens
+    a third time, and the boy suspects someone is stealing the food.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 17355-17361
+  quote_or_summary: The boy watches the bowl and sees the head of an animal with large
+    eyes, a large mouth, and long teeth eating the cooked food; he accuses it of stealing
+    what does not belong to it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 17361-17367
+  quote_or_summary: The boy shoots the animal in the soft spot next to the collar
+    bone, knowing it is fatal, and the monster is killed. He tells his grandmother,
+    who sees where it lies and then goes to the back of the tent and mourns.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: citation
+  locator: footnote within lines 17368-17370
+  quote_or_summary: 'Footnote gives the alternative rendering: Or: Star-child.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain; short citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are descriptive and passage-level;
+    no external comparative claim is made from this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the passage itself does not explicitly support comparison to another tradition or motif family.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-arapaho-dorsey-kroeber-archive__l17327-l17372
+  passage_sha256=3d0077b1695b4667bc25a38dbef10bb00b3e5f6548c755c4ddc60312260e6360
+

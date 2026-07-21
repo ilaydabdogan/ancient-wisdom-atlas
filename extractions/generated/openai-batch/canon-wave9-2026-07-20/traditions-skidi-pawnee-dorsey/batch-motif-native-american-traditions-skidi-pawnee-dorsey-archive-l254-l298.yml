@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.native-american-traditions-skidi-pawnee-dorsey-archive-l254-l298
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+passage_locator:
+  label: Traditions of the Skidi Pawnee / PAWNEE HABITATIONS; lines 254-298
+  start: '254'
+  end: '298'
+  translation: Traditions of the Skidi Pawnee
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Tirawa, their Creator, first spoke to them from the thunders.
+  summary: The passage describes Skidi temporary habitations, agricultural and hunting
+    practices, the ceremonial importance of corn and planting, the annual cycle beginning
+    with Tirawa speaking from thunder, seasonal buffalo hunts, harvest, winter provisioning,
+    and clothing materials.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A temporary abode used on the march is described as four forked uprights connected
+    by beams, leaned with cottonwood boughs and thatched with grass.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Another summer-hunt structure is described as a half-dome made of bent willows
+    with a covering of boughs or skins.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Skidi are described as warriors and hunters who also gave considerable
+    time to agriculture.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Corn is stated to hold a higher position than buffalo in Skidi mythology.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Permanent villages required prepared and cultivated fields where corn, squash,
+    pumpkins, and beans were raised.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Several Skidi rites are said to bear directly on planting ceremonies.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Skidi year is said to begin in early spring when Tirawa, their Creator,
+    first spoke from the thunders.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The annual sequence includes ceremonies preparing seed-corn and fields, planting,
+    a summer buffalo hunt, fall crop gathering, and a winter hunt for meat and robes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Men's and women's dress is described using items including moccasins, leggings,
+    buffalo robes, buckskin, and buffalo hide.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Skidi
+  description: A Pawnee group described in the passage as warriors, hunters, cultivators,
+    and participants in seasonal ceremonies and hunts.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Tirawa
+  description: Named as the Skidi Creator who first spoke to them from the thunders
+    at the beginning of their year.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Creator
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly names Tirawa as 'their Creator.'
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: warriors and hunters
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Skidi as a nation of warriors and hunters.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: cultivators and planting-ceremony participants
+  assigned_to:
+  - fig:1
+  basis: The passage emphasizes agriculture, prepared fields, crop raising, and rites
+    connected with planting ceremonies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: corn and seed-corn
+  literal_form: Corn and ceremonially prepared seed-corn
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: buffalo
+  literal_form: Buffalo as hunted animal and source of robes or hide
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: thunders
+  literal_form: Thunders from which Tirawa first spoke
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: cultivated fields
+  literal_form: Prepared and cultivated village fields for corn, squash, pumpkins,
+    and beans
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: temporary habitation structures
+  literal_form: Marching shelter of forked uprights, beams, boughs, and grass; half-dome
+    willow shelter with bough or skin covering
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Temporary shelters for travel and summer hunt
+  summary: The passage describes improvised shelters used while marching or on the
+    summer hunt, including a grass-thatched structure and a half-dome willow structure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Agriculture and planting rites
+  summary: The passage states that agriculture was significant, that corn held a high
+    mythological position, and that village fields produced several crops connected
+    with planting ceremonies.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Annual cycle beginning with Tirawa's thunder
+  summary: The Skidi year begins in early spring with Tirawa speaking from the thunders,
+    followed by seed-corn and field ceremonies, planting, summer buffalo hunt, harvest,
+    winter hunt, and winter residence if the hunt succeeds early.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Dress and animal materials
+  summary: The passage describes Skidi dress, including men's and women's garments
+    made from buffalo robe, buffalo hide, and buckskin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Seasonal ritual and subsistence cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage lays out a yearly sequence beginning in spring with Tirawa's
+    thunder, followed by seed-corn ceremonies, planting, summer buffalo hunt, fall
+    harvest, winter hunt, and winter residence.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is an ethnographic summary rather than a single narrated mythic
+    episode.
+- id: motif:2
+  label: Ceremonial elevation of corn and planting
+  taxonomy_refs: []
+  basis: Corn is said to hold a higher mythological position than buffalo, and rites
+    are tied directly to planting ceremonies and preparation of seed-corn and fields.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No provided taxonomy reference is specific to corn or crop ritual; the
+    extraction is based on the passage's explicit statements.
+- id: motif:3
+  label: Creator speaks through thunder
+  taxonomy_refs: []
+  basis: The passage states that Tirawa, the Creator, first spoke to the Skidi from
+    the thunders at the beginning of their year.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The statement is brief and embedded in an ethnographic description of
+    the yearly cycle.
+- id: motif:4
+  label: Mobile habitation during seasonal movement
+  taxonomy_refs: []
+  basis: The passage describes temporary abodes used on the march and summer hunt,
+    including structures designed to avoid carrying cumbersome tipi poles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: This is primarily material-culture description and may not function as
+    a mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly says the improvised marching structure somewhat resembled
+    the grass lodge of the Tonkawa.
+  claim_level: visual_similarity
+  target: Tonkawa grass lodge
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage supports only visual resemblance of habitation form; it
+    does not establish shared origin, historical contact, or a mythological motif
+    relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 254-265
+  quote_or_summary: A marching abode is described as four forked uprights with transverse
+    beams, cottonwood boughs, and grass thatch, somewhat resembling the Tonkawa grass
+    lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 265-270
+  quote_or_summary: A summer-hunt half-dome structure is made by bending willows and
+    covering them with boughs or skins; it was used by poorer people and also by the
+    well-to-do to avoid carrying tipi poles.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 271-277
+  quote_or_summary: The Skidi are described as warriors and hunters; the passage adds
+    that corn, in Skidi mythology, holds a higher position than the buffalo.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; brief quotation/paraphrase used.
+- id: ev:4
+  type: summary
+  locator: lines 277-283
+  quote_or_summary: Permanent villages required carefully cultivated fields producing
+    corn, squash, pumpkins, and beans, and many Skidi rites are connected directly
+    with planting ceremonies.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 284-293
+  quote_or_summary: The year begins in early spring when Tirawa speaks from the thunders,
+    then proceeds through seed-corn and field ceremonies, planting, summer buffalo
+    hunt, fall harvest, winter hunt, and possible winter village residence.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 294-298
+  quote_or_summary: The passage describes Skidi clothing, including men's loin cloth,
+    moccasins, leggings, buffalo robes, and women's garments made with buffalo robe,
+    buffalo hair string, buckskin moccasins, and buffalo-hide leggings.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive ethnography with several clear ritual-seasonal
+    patterns but few narrated mythic actions. Motif candidates should be reviewed
+    for whether material-culture items belong in the motif layer.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references assigned only where directly supported by the available list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-skidi-pawnee-dorsey-archive__l254-l298
+  passage_sha256=1f128a6e0d1d3e71641115ad65d6270fa80f95cbb363807d83d6ae36712fb6c4
+

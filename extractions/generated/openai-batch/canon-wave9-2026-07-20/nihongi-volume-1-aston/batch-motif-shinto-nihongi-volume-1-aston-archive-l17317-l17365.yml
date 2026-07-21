@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l17317-l17365
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 379. / NINTOKU; 299 / XI, 34. / A.D. 399.; lines 17317-17365
+  start: '17317'
+  end: '17365'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage records the burial of the preceding emperor, introduces Book
+    XII and Emperor Iza-ho-wake as eldest son and heir of Emperor Ohosazaki, and narrates
+    an incident before Iza-ho-wake’s accession: he seeks Kurohime as concubine, sends
+    Prince Nakatsu to announce the lucky day, and Nakatsu impersonates him, seduces
+    Kurohime, and leaves wrist-bells behind. The heir later visits Kurohime’s chamber
+    and hears the bells at the couch.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A burial is reported at the misasagi on Mozu moor in winter of A.D. 399.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Iza-ho-wake is identified as the eldest son of Emperor Ohosazaki; his mother
+    is Iha no hime no Mikoto, daughter of Katsuraki no Sotsuhiko.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Iza-ho-wake had been made Prince Imperial at fifteen years of age, and Emperor
+    Ohosazaki later died in the eighty-seventh year of his reign.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After mourning and before assuming the exalted Dignity, Iza-ho-wake wished
+    to take Kurohime as concubine.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Wedding presents had already been given, and Prince Nakatsu of Suminoye was
+    sent to announce the lucky day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Prince Nakatsu assumed the elder Prince’s name and seduced Kurohime.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Prince Nakatsu left his wrist-bells in Kurohime’s house.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: On the following night the heir, unaware of Nakatsu’s act, entered Kurohime’s
+    chamber, drew aside the curtain, sat on the jewel-couch, and heard bells at the
+    head of the couch.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Emperor Ohosazaki
+  description: The deceased emperor, father of Iza-ho-wake, whose death precedes Iza-ho-wake’s
+    succession context.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Emperor Iza-ho-wake / Heir to the Throne
+  description: Eldest son of Emperor Ohosazaki; made Prince Imperial at fifteen; before
+    accession he seeks Kurohime as concubine and later visits her chamber.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Iha no hime no Mikoto
+  description: Mother of Iza-ho-wake and daughter of Katsuraki no Sotsuhiko.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Katsuraki no Sotsuhiko
+  description: Father of Iha no hime no Mikoto and maternal ancestor of Iza-ho-wake.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Kurohime
+  description: Daughter of Hata no Yashiro no Sukune; desired by Iza-ho-wake as concubine
+    and seduced by Nakatsu after his impersonation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Hata no Yashiro no Sukune
+  description: Father of Kurohime.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Imperial Prince Nakatsu of Suminoye
+  description: Sent to announce the lucky day to Kurohime; assumes the elder Prince’s
+    name, seduces Kurohime, and leaves wrist-bells behind.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: deceased emperor and father
+  assigned_to:
+  - fig:1
+  basis: The passage reports the burial and later identifies Ohosazaki as the emperor
+    who died and as father of Iza-ho-wake.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: heir and prince imperial
+  assigned_to:
+  - fig:2
+  basis: Iza-ho-wake is named eldest son, made Prince Imperial, and later called the
+    Heir to the Throne.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: intended consort-seeker
+  assigned_to:
+  - fig:2
+  basis: Before accession he wishes to take Kurohime as concubine and sends notice
+    of the lucky day.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: mother of heir
+  assigned_to:
+  - fig:3
+  basis: Iha no hime no Mikoto is explicitly named as Iza-ho-wake’s mother.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: named parent in lineage
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: Katsuraki no Sotsuhiko is named as Iha no hime’s father, and Hata no Yashiro
+    no Sukune is named as Kurohime’s father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: intended concubine
+  assigned_to:
+  - fig:5
+  basis: Kurohime is the woman whom Iza-ho-wake wishes to take as concubine after
+    wedding presents have been given.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: messenger for lucky day
+  assigned_to:
+  - fig:7
+  basis: Prince Nakatsu is sent to give notice of the lucky day.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: impersonator and seducer
+  assigned_to:
+  - fig:7
+  basis: Nakatsu assumes the elder Prince’s name and by that means seduces Kurohime.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: burial place on Mozu moor
+  literal_form: misaang!/misasagi on Mozu moor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wedding presents
+  literal_form: wedding presents already given before the lucky day is announced
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wrist-bells
+  literal_form: wrist-bells forgotten in Kurohime’s house and later heard at the couch
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: jewel-couch
+  literal_form: jewel-couch in Kurohime’s chamber where the heir sits
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Burial and dynastic transition
+  summary: A burial is recorded on Mozu moor, followed by the opening of Book XII
+    and the account of Ohosazaki’s death and Iza-ho-wake’s succession status.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Genealogy of the heir
+  summary: Iza-ho-wake is introduced as Ohosazaki’s eldest son through Iha no hime
+    no Mikoto, with maternal descent through Katsuraki no Sotsuhiko.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Concubine arrangement and false identity
+  summary: Before accession, Iza-ho-wake seeks Kurohime as concubine, sends Nakatsu
+    to announce the lucky day, and Nakatsu impersonates him and seduces her.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Bells in the chamber
+  summary: Nakatsu leaves wrist-bells in Kurohime’s house; the next night the heir
+    enters her chamber and hears bells at the head of the jewel-couch.
+  figure_refs:
+  - fig:2
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: royal death and succession interval
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage links the previous emperor’s death and burial with Iza-ho-wake’s
+    status as Prince Imperial and the period before he assumes the exalted Dignity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives succession framing but does not include a full enthronement
+    ritual or explicit legitimacy contest.
+- id: motif:2
+  label: intended consort diverted by impersonation
+  taxonomy_refs:
+  - stolen_beloved
+  - trickster_boundary
+  basis: Nakatsu is sent as messenger but assumes the elder Prince’s name and seduces
+    Kurohime, who had been intended as Iza-ho-wake’s concubine.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The text says seduction, not abduction; Kurohime’s knowledge or consent
+    is not described in the excerpt.
+- id: motif:3
+  label: forgotten personal token revealing prior presence
+  taxonomy_refs: []
+  basis: Nakatsu leaves wrist-bells in Kurohime’s house, and the heir later hears
+    bells at the head of the couch.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage ends before the heir’s inquiry is resolved, so the token’s
+    full narrative function is only partially present in this excerpt.
+- id: motif:4
+  label: formal consort exchange before union
+  taxonomy_refs: []
+  basis: Wedding presents are described as already given before the announcement of
+    the lucky day for Kurohime.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage presents a court marriage or concubine arrangement; no explicitly
+    sacred exchange is stated.
+comparison_claims:
+- id: claim:1
+  claim: The impersonation of the elder Prince in order to obtain Kurohime can be
+    cautiously compared at a motif-function level with a stolen-beloved or intended-consort-diverted-by-deception
+    pattern.
+  claim_level: same_function
+  target: stolen_beloved motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe abduction, and the excerpt does not clarify
+    Kurohime’s awareness or subsequent outcome.
+- id: claim:2
+  claim: The death, burial, and pre-accession status of Iza-ho-wake can be cautiously
+    compared with royal-legitimacy succession framing.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt frames succession but does not narrate a formal enthronement
+    or explicit divine sanction.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17317-17321
+  quote_or_summary: "“He was buried in the misaang! on Mozu moor.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: lines 17332-17342
+  quote_or_summary: Book XII introduces Iza-ho-wake as eldest son of Emperor Ohosazaki,
+    names his mother and maternal grandfather, states he was made Prince Imperial
+    at fifteen, and reports Ohosazaki’s death.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: lines 17343-17350
+  quote_or_summary: After mourning and before assuming the exalted Dignity, the heir
+    wishes to take Kurohime, daughter of Hata no Yashiro no Sukune, as concubine;
+    wedding presents have been given, and Nakatsu is sent to announce the lucky day.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: lines 17350-17355
+  quote_or_summary: "“Prince Nakatsu having assumed the elder Prince’s name, by this
+    means seduced Kurohime” and later left his wrist-bells in her house."
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: summary
+  locator: lines 17355-17361
+  quote_or_summary: The next night the heir, unaware of Nakatsu’s act, enters the
+    chamber, draws aside the curtain, sits on the jewel-couch, and hears bells at
+    the head of the couch.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative sequence is clear despite OCR noise. Motif assignments
+    are cautious because the passage is a chronicle episode rather than an explicitly
+    mythic tale, and the excerpt ends before the confrontation or resolution.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to those provided in the request.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l17317-l17365
+  passage_sha256=229372a71e452e7a1146d8975908a439ceb2e263ec5465f5c11c5a1edb1c05e5
+

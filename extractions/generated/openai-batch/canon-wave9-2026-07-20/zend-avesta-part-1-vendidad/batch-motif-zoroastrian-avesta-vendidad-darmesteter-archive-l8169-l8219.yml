@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l8169-l8219
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: VIII. / FARGARD V. 63 / FARGARD V. 65 / FARGARD VI. 69; lines 8169-8219
+  start: '8169'
+  end: '8219'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives legal-ritual cases in which throwing bones or a whole
+    dead body of a dog or man onto the ground, with grease or marrow flowing onto
+    it, brings escalating numbers of stripes. A later case asks what a Mazda-worshipper
+    should do when encountering a corpse in running water; Ahura Mazda instructs him
+    to remove shoes and clothes, enter the river, and take the dead out of the water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A case asks about a man throwing onto the ground a bone of a dead dog or dead
+    man as large as two fingers or two ribs, with grease or marrow flowing onto the
+    ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ahura Mazda answers that the offender in the first case is a Peshotanu and
+    receives two hundred stripes with each of two named implements.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A second case concerns a bone of a dead dog or dead man as large as an arm-bone
+    or thigh-bone; the stated penalty is four hundred stripes with each named implement.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A third case concerns a bone as large as a man's skull; the stated penalty
+    is six hundred stripes with each named implement.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A fourth case concerns throwing the whole body of a dead dog or dead man onto
+    the ground, with grease or marrow flowing onto it; the stated penalty is one thousand
+    stripes with each named implement.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The listed penalties increase as the described remains become larger, from
+    small bone fragments to a whole body.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: A later question concerns a Mazda-worshipper who, while traveling by walking,
+    running, riding, or driving, comes upon a corpse in a stream of running water.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Ahura Mazda instructs the worshipper to remove shoes and clothes, enter the
+    river, and take the dead out of the water.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named divine speaker who answers the legal-ritual questions and gives
+    the required penalties or action.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Man who throws dead remains on the ground
+  description: Unspecified man in repeated cases who throws bones or a whole dead
+    body of a dead dog or dead man onto the ground.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Dead dog, dead man, or corpse
+  description: Dead animal or human remains described as bones, a whole body, or a
+    corpse in water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Worshipper of Mazda
+  description: A Mazda-worshipper who encounters a corpse in running water while traveling
+    and is instructed to remove it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Zarathustra
+  description: Named addressee in Ahura Mazda's instruction concerning the corpse
+    in the river.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine respondent and legal instructor
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers each question with penalties or required action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: offender subject to stated penalty
+  assigned_to:
+  - fig:2
+  basis: The man throws dead remains onto the ground, and the answer assigns stripes
+    as penalty.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: dead remains triggering the rule
+  assigned_to:
+  - fig:3
+  basis: The cases center on bones, a whole dead body, or a corpse whose placement
+    on ground or in water requires response.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: ritual actor removing a corpse from water
+  assigned_to:
+  - fig:4
+  basis: The worshipper is instructed to enter the river and take the dead out of
+    the water.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: named recipient of instruction
+  assigned_to:
+  - fig:5
+  basis: Ahura Mazda addresses the instruction with 'O Zarathustra'.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dead bone or corpse
+  literal_form: bones of a dead dog or dead man, the whole body of a dead dog or dead
+    man, and a corpse in water
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: grease or marrow
+  literal_form: grease or marrow flowing from the dead remains onto the ground
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: ground
+  literal_form: the ground onto which bones or the whole body are thrown and onto
+    which grease or marrow flows
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: running water
+  literal_form: a stream of running water and the river entered to remove the dead
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: stripes and named implements
+  literal_form: numbered stripes with the Aspahe-astra/Aspahe-a^tra and the Sraosho-...arana
+    as printed in the passage
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:6
+  label: removed shoes and clothes
+  literal_form: the worshipper takes off shoes and puts off clothes before entering
+    the river
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Small dead bone thrown on the ground
+  summary: A man throws a small bone of a dead dog or dead man onto the ground, grease
+    or marrow flows from it, and Ahura Mazda assigns a Peshotanu status and two hundred
+    stripes with each named implement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Escalating penalties for larger remains on the ground
+  summary: Further cases treat an arm- or thigh-bone, a skull-sized bone, and a whole
+    dead body; Ahura Mazda gives penalties of four hundred, six hundred, and one thousand
+    stripes with each named implement.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Corpse encountered in running water
+  summary: A Mazda-worshipper traveling by various means encounters a corpse in running
+    water; Ahura Mazda instructs him to remove shoes and clothes, enter the river,
+    and take the dead out of the water.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: corpse pollution of ground by dead remains
+  taxonomy_refs: []
+  basis: The repeated legal cases concern bones or a whole dead body of a dead dog
+    or dead man being thrown onto the ground, with grease or marrow flowing onto it,
+    followed by penalties.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states penalties and actions but does not explicitly give
+    an abstract explanation of pollution.
+- id: motif:2
+  label: graded penalty by size of dead remains
+  taxonomy_refs: []
+  basis: The penalties rise from two hundred to one thousand stripes with each implement
+    as the remains increase from small bone fragments to a whole body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-internal legal pattern, not a cross-cultural taxonomy
+    assignment.
+- id: motif:3
+  label: removal of a corpse from running water
+  taxonomy_refs: []
+  basis: A Mazda-worshipper who encounters a corpse in running water is told to enter
+    the river and take the dead out of the water.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not state a full purification procedure beyond the actions
+    quoted in this line range.
+- id: motif:4
+  label: divine instruction of ritual law
+  taxonomy_refs: []
+  basis: Ahura Mazda answers legal-ritual questions by prescribing penalties and required
+    conduct.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: Although a deity gives the rulings, the passage does not depict a narrative
+    judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8169-8175; first ground-remains penalty case
+  quote_or_summary: A man throws a bone of a dead dog or dead man, as large as two
+    fingers or two ribs, onto the ground; grease or marrow flows onto the ground;
+    Ahura Mazda says he is a Peshotanu and assigns two hundred stripes with each of
+    two named implements.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8179-8187; arm-bone or thigh-bone case
+  quote_or_summary: A man throws a dead dog or dead man bone as large as an arm-bone
+    or thigh-bone onto the ground, with grease or marrow flowing; Ahura Mazda assigns
+    four hundred stripes with each named implement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8189-8196; skull-sized bone case
+  quote_or_summary: A man throws a dead dog or dead man bone as large as a man's skull
+    onto the ground, with grease or marrow flowing; Ahura Mazda assigns six hundred
+    stripes with each named implement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8198-8205; whole-body case
+  quote_or_summary: A man throws the whole body of a dead dog or dead man onto the
+    ground, with grease or marrow flowing; Ahura Mazda assigns one thousand stripes
+    with each named implement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8209-8219; corpse in running water case
+  quote_or_summary: A Mazda-worshipper traveling on foot, running, riding, or driving
+    comes upon a corpse in running water; Ahura Mazda tells him, addressing Zarathustra,
+    to remove shoes and clothes, enter the river, and take the dead out of the water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The legal cases and actions are explicit in the supplied passage. Motif labels
+    are descriptive and passage-internal; no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. Taxonomy reference applied only to the explicit water symbol.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l8169-l8219
+  passage_sha256=ee4997b7b8879297cb6c152ad5105a098e7e7ec3c03aadea08dd3aea5f3670cd
+

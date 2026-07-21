@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34315-l34341
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: ORGANIZATION / SOCIETIES / SOCIETIES / THE    OMAHA    TRIBE; lines 34315-34341
+  start: '34315'
+  end: '34341'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes ritual or society-owned objects: gendered shell
+    types, a tobacco-preparation board, a drum tuned with water and heat, gourd rattles,
+    pillows for striking rattles, and lodge packs containing pipes and sticks for
+    pipe care. It states that the articles belonged to the society and each had a
+    special keeper.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Two shell types are distinguished by color and gender attribution: one white
+    type regarded as female and one dark type considered male; the division of these
+    shells among members is not explained.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A board about a foot square with embroidered edges was used to prepare tobacco
+    for smoking.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The drum was formerly of a native type, later replaced by a keg, while tuning
+    by water and heat continued.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Two gourd rattles and two pillows for striking the rattles were kept with
+    the drum.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The listed articles were property of the society, and each article had a special
+    keeper.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Each lodge had a pack, and each pack included two pipes and four sticks used
+    in filling and cleaning the pipes.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the society
+  description: The group that owned the listed articles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: special keepers
+  description: Persons assigned as keepers for individual articles.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: each lodge
+  description: Each lodge is described as having a pack with pipes and sticks.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: owner of society articles
+  assigned_to:
+  - fig:1
+  basis: The articles are explicitly described as property of the society.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: article keeper
+  assigned_to:
+  - fig:2
+  basis: Each article is said to have a special keeper.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: holder of lodge pack
+  assigned_to:
+  - fig:3
+  basis: Each lodge is said to have a pack containing pipes and sticks.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gendered shell pair
+  literal_form: A white shell regarded as female and a dark shell considered male.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: tobacco-preparation board
+  literal_form: A square board with embroidered edges used for preparing tobacco for
+    smoking.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: drum tuned with water and heat
+  literal_form: A drum, later a keg, tuned using water and heat.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: rattles and striking pillows
+  literal_form: Two gourd rattles and two pillows used for striking the rattles.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: lodge pack with pipes and sticks
+  literal_form: A pack belonging to each lodge, containing two pipes and four sticks
+    for filling and cleaning the pipes.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Inventory and custody of society equipment
+  summary: The passage lists shell types, a tobacco-preparation board, drum equipment,
+    rattles, and lodge packs, and explains ownership and keeping arrangements for
+    the articles.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: gendered binary pair of ritual objects
+  taxonomy_refs:
+  - duality
+  basis: The passage distinguishes a white shell as female and a dark shell as male.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain the shells' ritual function or the meaning
+    of the gender attribution.
+- id: motif:2
+  label: society-owned ritual articles with designated keepers
+  taxonomy_refs: []
+  basis: The passage states that the articles were property of the society and that
+    each article had a special keeper.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an institutional ritual pattern rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 34315-34320
+  quote_or_summary: '"nobilis Reeve, which is white and was regarded as female, and
+    Olivia elegans Lam., which is dark and was considered the male"; the division
+    among members was not explained.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 34321-34325
+  quote_or_summary: A square board with embroidered edges was used for preparing tobacco
+    for smoking.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 34325-34333
+  quote_or_summary: The drum was formerly a native type and later a keg; water and
+    heat were still used in tuning, and two gourd rattles with two pillows were kept
+    with the drum.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 34333-34335
+  quote_or_summary: '"All these articles were the property of the society and each
+    had its special keeper."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: 34335-34341
+  quote_or_summary: Each lodge had a pack; each pack had two pipes and four sticks
+    used for filling and cleaning the pipes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The material is mostly an ethnographic inventory of objects and custodial
+    arrangements. Motif labeling is limited to directly supported patterns, especially
+    gendered pairing and designated keeping of ritual property.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparison claims were added because the passage itself does not support a specific comparison beyond internal object patterns.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34315-l34341
+  passage_sha256=ec48461da88e8620c6b90d52f27df7fc0ffa3e3e31aa5b39176c7382f889316e
+

@@ -1,0 +1,286 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l37163-l37189
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / SOCIETIES / SOCIETIES / THE    OMAHA    TRIBE; lines
+    37163-37189
+  start: '37163'
+  end: '37189'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The fragment describes a ritual figure or object whose left arm and leg
+    contain poisons and magic shells for punishment and are paired as male and female.
+    Its right arm and leg represent brothers, earth, and stars, and contain medicines
+    for healing. An explanation says the punishment effected through the figure was
+    directed by Wako'da to keep order and check crime. Two figure captions identify
+    bags found in a pack.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The left arm is described as containing poisons for punishment.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The left leg is described as containing magic shells that made administration
+    of the poisons possible.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The left arm and left leg are described as going together, with related functions
+    made effectual because they are male and female.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The right arm and right leg are said to represent brothers, the earth, and
+    the stars.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The right arm and right leg both contained medicines for healing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An explanation states that punishment effected through the figure was directed
+    by Wako'da to keep people in order and check crime.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: One illustration caption identifies a bag found in a pack.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A second illustration caption also identifies a bag found in a pack.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wako'da
+  description: Named in the explanation as directing the punishment effected through
+    the figure.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed ritual figure
+  description: A figure through which punishment is said to be effected; its arms
+    and legs are described as containing poisons, magic shells, and healing medicines
+    and as bearing symbolic relations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: directing authority named in explanation
+  assigned_to:
+  - fig:1
+  basis: The explanation says the punishment was directed by Wako'da to maintain order
+    and check crime.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual medium for punishment and healing
+  assigned_to:
+  - fig:2
+  basis: The figure's limbs contain substances for punishment and healing, and punishment
+    is said to be effected through it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: left arm containing punishment poison
+  literal_form: left arm of the described figure containing poisons for punishment
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: left leg containing magic shells
+  literal_form: left leg of the described figure containing magic shells used to administer
+    poisons
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: male-female paired left limbs
+  literal_form: left arm and left leg described as going together and made effectual
+    because male and female
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: right arm and right leg as brothers, earth, and stars
+  literal_form: right arm and right leg of the described figure representing brothers,
+    the earth, and the stars
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: poisons for punishment
+  literal_form: poisons contained in the arm
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: magic shells
+  literal_form: magic shells contained in the leg
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: medicines for healing
+  literal_form: medicines contained in the right arm and right leg
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: limb contents and correspondences
+  summary: The passage describes the left limbs as holding poisons and magic shells
+    for punishment and the right limbs as representing brothers, earth, and stars
+    while holding healing medicines.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: explanation of punishment's purpose
+  summary: An explanation attributes punishment through the figure to Wako'da and
+    says its purpose is to keep people in order and check crime.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: gendered complementary efficacy
+  taxonomy_refs:
+  - duality
+  basis: The left arm and left leg are paired as going together, with functions made
+    effectual because they are male and female.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a fragment of ritual explanation rather than a full mythic
+    narrative.
+- id: motif:2
+  label: Wako'da-directed punishment for social order
+  taxonomy_refs:
+  - divine_judgment
+  basis: The explanation says punishment through the figure was directed by Wako'da
+    to keep people in order and check crime.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage itself does not define Wako'da, and the line is fragmentary
+    after the crime example begins.
+- id: motif:3
+  label: paired punitive and healing substances in a ritual figure
+  taxonomy_refs: []
+  basis: The left-side limbs contain substances used for punishment, while the right-side
+    limbs contain medicines for healing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a ritual pattern inferred from the described contents and functions,
+    not a named motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 37163-37189
+  quote_or_summary: The arm contained poisons for punishment; the leg contained magic
+    shells that made administration possible; the left arm and leg “went together”
+    and were effectual because male and female.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; excerpt shortened for extraction.
+- id: ev:2
+  type: quote
+  locator: 37163-37189
+  quote_or_summary: "“The right arm and leg represented brothers, the earth and the
+    stars, and both contained medicines for healing.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:3
+  type: summary
+  locator: 37163-37189
+  quote_or_summary: An explanation says the punishment effected through the figure
+    was directed by Wako'da to keep people in order and check crime.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: 37163-37189
+  quote_or_summary: "“FIG. 120. Bag found in pack (fig. 113).”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; brief caption quotation.
+- id: ev:5
+  type: quote
+  locator: 37163-37189
+  quote_or_summary: "“FIG. 121. Bag found in pack (tig. 113).”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; brief caption quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and fragmentary, with OCR or typographical artifacts;
+    no passage-supported cross-text comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage appears to be a fragment from a larger ritual description; extraction avoids reconstructing details not present in the provided text.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l37163-l37189
+  passage_sha256=aa1526b15d0aa23b2d77c778c9557e43f6ebbde3d462be3aeec0bd366c2f286b
+

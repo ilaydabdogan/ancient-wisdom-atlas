@@ -1,0 +1,542 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l17207-l17269
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: NINTOKU. 297 / DU BI. / A.D. 377- / A.D. 379.; lines 17207-17269
+  start: '17207'
+  end: '17269'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records an imperial reception of ice that becomes the basis
+    for a seasonal storage rule; describes Sukuna of Hida, a two-faced man who plunders
+    and is killed by an imperial agent; recounts the Emperor selecting and beginning
+    construction of a misasagi, where a deer dies and a shrike emerges from its ear,
+    giving rise to a place-name; and begins an account of a poisonous great water-snake
+    at a river fork in Kibi.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An Imperial Prince brought ice and presented it to the Palace.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Emperor was delighted with the ice, and thereafter it became a rule to
+    store ice from the last month of winter until the second month of spring when
+    it melts.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sukuna is described as a man from Hida formed with one trunk and two faces
+    turned away from one another; the crowns met and there was no nape of the neck.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sukuna is described as having hands and feet, being strong and nimble, carrying
+    swords on both sides, and using bow and arrow with all four hands at once.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Sukuna disobeyed the Imperial command and took pleasure in plundering the
+    people.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Emperor sent Naniha-neko Takefuru-kuma, who put Sukuna to death.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Emperor went to the plain of Ishitsu in Kawachi and chose a site for a
+    misasagi.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: When construction of the misasagi began, a deer suddenly rose in the moor,
+    ran among the labourers, lay down, and died.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A shrike came out of the deer's ear and flew away; when the ear was examined,
+    the skin was found bitten off.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The place was called Mozu no mimi, glossed in the passage note as “Shrike-ear.”
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: At a fork of the River Kahashima in Kibi, a great water-snake harassed people;
+    travellers were affected by its poison, and many died.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Imperial Prince
+  description: Unnamed Imperial Prince who brought ice and presented it to the Palace.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Emperor
+  description: The Emperor receives the ice, sends an agent against Sukuna, and later
+    selects the misasagi site.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Sukuna of Hida
+  description: A man from Hida with one trunk, two opposed faces, multiple hands in
+    use, strength and agility; he disobeys imperial command and plunders people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Naniha-neko Takefuru-kuma
+  description: Person sent by the Emperor who put Sukuna to death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Misasagi labourers
+  description: Workers among whom the deer ran during the beginning of misasagi construction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Deer
+  description: A deer that suddenly rose in the moor, ran among the labourers, lay
+    down, and died.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: Shrike
+  description: A shrike that came out of the dead deer's ear and flew away.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:8
+  name_or_label: Great water-snake
+  description: A great water-snake at a fork of the River Kahashima that harassed
+    people and poisoned travellers.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Travellers and people near the river fork
+  description: People harassed by the water-snake; travellers passing the place were
+    poisoned and many died.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: emperor exercising imperial authority
+  assigned_to:
+  - fig:2
+  basis: The Emperor receives the ice and establishes a storage rule, sends an agent
+    to kill Sukuna, and selects a misasagi site.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: presenter of ice to the palace
+  assigned_to:
+  - fig:1
+  basis: The Imperial Prince brings ice and presents it to the Palace.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: anomalous rebel and plunderer
+  assigned_to:
+  - fig:3
+  basis: Sukuna is physically anomalous, disobeys the Imperial command, and plunders
+    the people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: imperial agent who kills the rebel
+  assigned_to:
+  - fig:4
+  basis: The Emperor sends Naniha-neko Takefuru-kuma, who puts Sukuna to death.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: misasagi construction labourers
+  assigned_to:
+  - fig:5
+  basis: The deer runs in among the labourers when construction of the misasagi begins.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: animals in the place-name incident
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The deer's death and the shrike emerging from its ear are connected to the
+    naming of Mozu no mimi, “Shrike-ear.”
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: poisonous water-snake harasser
+  assigned_to:
+  - fig:8
+  basis: The great water-snake harasses people and its poison affects travellers.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: victims of the water-snake poison
+  assigned_to:
+  - fig:9
+  basis: Travellers passing the river-fork place are affected by the water-snake's
+    poison, and many die.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: ice for court use
+  literal_form: Ice placed in water or sake and then stored seasonally by court rule.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two-faced single trunk
+  literal_form: One trunk with two faces turned away from one another, meeting crowns,
+    and no nape of the neck.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: four-handed weapons use
+  literal_form: Swords on right and left sides, and bow and arrow used with all four
+    hands at once.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: misasagi site
+  literal_form: A chosen burial-mound site on the plain of Ishitsu in Kawachi, where
+    construction begins.
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: shrike in deer's ear
+  literal_form: A shrike emerging from a dead deer's ear after the deer runs among
+    the labourers.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: river fork
+  literal_form: A fork of the River Kahashima in the central division of Kibi, where
+    the water-snake appears.
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: great water-snake
+  literal_form: A poisonous great water-snake that harasses people at the river fork.
+  associated_figures:
+  - fig:8
+  taxonomy_refs:
+  - serpent
+  - water
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ice presented to the Palace
+  summary: An Imperial Prince brings ice to the Palace; the Emperor delights in it,
+    and the court establishes a seasonal rule for storing ice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sukuna of Hida is killed
+  summary: Sukuna is described as two-faced and armed, disobeys imperial command,
+    plunders the people, and is killed by an agent sent by the Emperor.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Misasagi site selected and construction begun
+  summary: The Emperor goes to the plain of Ishitsu in Kawachi, selects a misasagi
+    site, and construction begins.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Deer, shrike, and place-name
+  summary: A deer suddenly dies among the labourers; a shrike emerges from its ear,
+    and the place receives the name Mozu no mimi, “Shrike-ear.”
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Poisonous water-snake at River Kahashima
+  summary: A great water-snake at a river fork in Kibi harasses people; travellers
+    are poisoned, and many die.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: origin of a seasonal ice-storage custom
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage says that after the ice was presented and delighted the Emperor,
+    it became the rule to store ice from late winter until the spring thaw.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage presents an administrative custom with seasonal timing; it
+    does not explicitly frame the custom as ritual or mythic.
+- id: motif:2
+  label: two-faced anomalous body
+  taxonomy_refs:
+  - duality
+  basis: Sukuna has one trunk and two faces turned away from one another, with paired
+    weapon use through four hands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives no origin story for Sukuna and does not identify him
+    as a twin or shapeshifter.
+- id: motif:3
+  label: imperial suppression of a plundering anomalous rebel
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Sukuna disobeys imperial command and plunders the people; the Emperor sends
+    Naniha-neko Takefuru-kuma to kill him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The broader royal-legitimacy framing is inferred from the imperial action
+    in a chronicle context; the excerpt does not explicitly state a legitimacy doctrine.
+- id: motif:4
+  label: strange animal death at tomb construction
+  taxonomy_refs: []
+  basis: At the beginning of misasagi construction, a deer suddenly runs among the
+    labourers, lies down, and dies; the text says the sudden death appeared strange.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage marks the event as strange but does not explicitly call it
+    an omen or sacrifice.
+- id: motif:5
+  label: etiological place-name from animal incident
+  taxonomy_refs: []
+  basis: The deer and shrike incident is used to explain why the place was called
+    Mozu no mimi, glossed as “Shrike-ear.”
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: ''
+- id: motif:6
+  label: poisonous water-serpent threatening travellers
+  taxonomy_refs:
+  - serpent
+  basis: A great water-snake at a river fork harasses people; travellers are affected
+    by its poison and many die.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The supplied passage cuts off after introducing Agata-mori, so any resolution
+    of the water-snake episode is not available here.
+comparison_claims:
+- id: claim:1
+  claim: The water-snake episode fits a broad serpent-threat motif family because
+    a great water-snake inhabits a river fork, poisons travellers, and causes many
+    deaths.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt is incomplete and does not supply the episode's outcome,
+    such as defeat, appeasement, or continued threat.
+- id: claim:2
+  claim: 'The Mozu no mimi account has the same function as an etiological place-name
+    pattern: an unusual animal incident explains a local name.'
+  claim_level: same_function
+  target: etiological place-name pattern
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage explains only this local name; it does not compare the
+    account to other named places or traditions.
+- id: claim:3
+  claim: Sukuna's single trunk with two opposed faces provides a visual similarity
+    to duality or two-in-one body motifs.
+  claim_level: visual_similarity
+  target: duality motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text identifies Sukuna as a man from Hida and an enemy of imperial
+    command; it does not state a symbolic or cosmological meaning for his doubled
+    form.
+evidence:
+- id: ev:1
+  type: summary
+  locator: supplied lines 17207-17220, ice notice
+  quote_or_summary: An Imperial Prince brings ice to the Palace; the Emperor is delighted;
+    thereafter ice is stored from the last month of winter until the second month
+    of spring when it melts.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: supplied lines 17221-17230, 65th year description of Sukuna
+  quote_or_summary: In Hida there is a man named Sukuna with one trunk, two faces
+    turned away from each other, meeting crowns, no nape, hands and feet, knees but
+    no popliteal spaces or heels.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: supplied lines 17230-17238, 65th year actions against Sukuna
+  quote_or_summary: Sukuna is strong and nimble, carries swords on both sides, uses
+    bow and arrow with all four hands, disobeys imperial command, plunders the people,
+    and is put to death by Naniha-neko Takefuru-kuma sent by the Emperor.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: supplied lines 17239-17244, 67th year 10th month 5th day
+  quote_or_summary: The Emperor makes a progress to the plain of Ishitsu in Kawachi
+    and fixes upon a site for a misasagi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: supplied lines 17245-17255, 18th day misasagi construction
+  quote_or_summary: When construction begins, a deer suddenly rises in the moor, runs
+    among the labourers, lies down, and dies; examination finds a shrike came from
+    its ear and that the ear skin was bitten off.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+- id: ev:6
+  type: quote
+  locator: supplied lines 17255-17259, place-name note
+  quote_or_summary: The place is called “Mozu no mimi”; the note glosses this as “Shrike-ear.”
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; brief quotation of a name/gloss.
+- id: ev:7
+  type: summary
+  locator: supplied lines 17260-17269, River Kahashima water-snake notice
+  quote_or_summary: At a fork of the River Kahashima in Kibi there is a great water-snake
+    that harasses people; travellers passing the place are affected by its poison,
+    and many die. The excerpt breaks off after naming Agata-mori.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is public-domain English translation text, but the supplied excerpt
+    contains OCR corruption and the final water-snake episode is truncated; extraction
+    is limited to legible claims in the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references are limited to the provided available motif families and symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l17207-l17269
+  passage_sha256=5ce7a5bbd5de3a095500c2724b7003a673f87b9fed60ccefed0c40eee44e8c30
+

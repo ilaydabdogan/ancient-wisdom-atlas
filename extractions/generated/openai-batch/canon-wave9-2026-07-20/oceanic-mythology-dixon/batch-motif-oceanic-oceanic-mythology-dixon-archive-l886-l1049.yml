@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l886-l1049
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: OCEANIC MYTHOLOGY / PART I / POLYNESIA / OCEANIC MYTHOLOGY; lines 886-1049
+  start: '886'
+  end: '1049'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage introduces Polynesia as a major area for Oceanic mythology,
+    discusses Polynesian origins and migration in secondary ethnological terms, and
+    frames Polynesian cosmogonic material as composite. It distinguishes two origin-myth
+    types: one in which the cosmos and gods develop genealogically or evolutionarily
+    from original chaos, and another involving a definite creation act by deity or
+    deities. A caption describes a wooden figure of Tangaroa Upao Vahu, a sea-deity
+    from Rurutu Island, represented as creating other gods and men.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies Polynesia as the portion of Oceania whose mythology
+    is most widely known and frequently referenced.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes Polynesians, in secondary ethnological terms, as a complex
+    blending of several waves of immigration moving eastward through Melanesia into
+    the Pacific.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that Polynesian cosmogonic myths show the composite character
+    of the mythology as a whole.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One cosmogonic type is described as a genealogical or evolutionary development
+    of the cosmos and gods from an original chaos.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A second cosmogonic type is described as involving a more or less definite
+    act of creation by a deity or deities.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A wooden figure of Tangaroa Upao Vahu is described as a sea-deity represented
+    in the act of creating other gods and men.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The wooden figure of Tangaroa Upao Vahu is said to come from a temple in Rurutu
+    Island in the Austral Group.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Polynesians
+  description: The people of Polynesia discussed as bearers of the mythology and as
+    a population with complex migration history.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: deity or deities
+  description: Unspecified divine creator or creators in one described type of Polynesian
+    cosmogonic myth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Tangaroa Upao Vahu
+  description: A sea-deity represented by a wooden figure as creating other gods and
+    men.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: other gods and men
+  description: Beings described in the caption as created by Tangaroa Upao Vahu.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: myth-bearing people
+  assigned_to:
+  - fig:1
+  basis: The passage presents Polynesia and the Polynesians as the focus for an outline
+    of Oceanic mythology.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: creator deity
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes a cosmogonic type with creation by deity or deities,
+    and the caption represents Tangaroa Upao Vahu as creating gods and men.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: sea-deity
+  assigned_to:
+  - fig:3
+  basis: The caption explicitly calls Tangaroa Upao Vahu a sea-deity.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: created beings
+  assigned_to:
+  - fig:4
+  basis: The caption says Tangaroa Upao Vahu is represented in the act of creating
+    other gods and men.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: original chaos
+  literal_form: original chaos
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sea domain
+  literal_form: sea-deity
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: wooden divine image
+  literal_form: wooden figure of Tangaroa Upao Vahu
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: temple setting
+  literal_form: temple in Rurutu Island, Austral Group
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Classification of Polynesian cosmogonies
+  summary: 'The passage distinguishes two types of Polynesian origin material: development
+    of cosmos and gods from original chaos, and creation by deity or deities.'
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Tangaroa Upao Vahu creating gods and men
+  summary: A temple image from Rurutu Island represents Tangaroa Upao Vahu, a sea-deity,
+    in the act of creating other gods and men.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cosmic development from original chaos
+  taxonomy_refs:
+  - chaos
+  basis: The passage explicitly describes one Polynesian cosmogonic type as the genealogical
+    or evolutionary development of the cosmos and gods from an original chaos.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a secondary typological summary rather than a full individual
+    myth narrative.
+- id: motif:2
+  label: divine creation of cosmos or beings
+  taxonomy_refs: []
+  basis: The passage describes another cosmogonic type as a definite act of creation
+    by deity or deities, and the caption shows Tangaroa Upao Vahu creating other gods
+    and men.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage gives only a broad classification and a captioned image, not
+    the details of a creation episode.
+- id: motif:3
+  label: sea-deity as creator
+  taxonomy_refs: []
+  basis: The caption identifies Tangaroa Upao Vahu as a sea-deity and represents him
+    creating other gods and men.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The broader mythic context and narrative function of Tangaroa Upao Vahu
+    are not provided in this passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage contrasts two Polynesian cosmogonic patterns: emergence or development
+    from original chaos and intentional creation by deity or deities.'
+  claim_level: same_function
+  target: Polynesian cosmogonic origin patterns
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is internal to the secondary author's classification
+    and does not establish historical relationships between particular myths.
+- id: claim:2
+  claim: The passage presents Polynesian cosmogonic mythology as composite rather
+    than as a single uniform system.
+  claim_level: same_function
+  target: Polynesian origin-myth corpus
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage summarizes a scholarly view without presenting detailed
+    individual source variants in this line range.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 886-932
+  quote_or_summary: The passage introduces Polynesia as the portion of Oceania whose
+    mythology is most widely known and often referenced, and begins an outline of
+    Oceanic mythology with Polynesia.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 933-962
+  quote_or_summary: The passage describes Polynesians as resulting from several waves
+    of immigration from the Indonesian area or farther west, moving eastward through
+    Melanesia and mixing in varying degrees with Melanesian peoples.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 963-997
+  quote_or_summary: The chapter opens with cosmogonic myths and states that these
+    myths show the composite character of Polynesian mythology as a whole.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: quote
+  locator: lines 998-1018
+  quote_or_summary: One type is described as a “genealogical or evolutionary development
+    of the cosmos and the gods from an original chaos.”
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 1018-1023
+  quote_or_summary: The other type of cosmogonic myth is described as involving a
+    more or less definite act of creation by a deity or deities.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 1044-1049
+  quote_or_summary: The caption describes a wooden figure of Tangaroa Upao Vahu, a
+    sea-deity, represented as creating other gods and men; it comes from a temple
+    in Rurutu Island, Austral Group, and is in the British Museum.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary introductory and classificatory discussion with
+    one iconographic caption. Motif candidates are well supported as broad patterns
+    but lack full narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR noise appears in parts of the supplied passage; extraction uses only intelligible supplied text and source metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l886-l1049
+  passage_sha256=16ca6fcf2c95af0ab9790c39b80cd67468062a3be66bbf15e00ee0320af996af
+

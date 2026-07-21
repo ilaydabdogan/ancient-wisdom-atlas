@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l18775-l18889
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: WHITE  BUFFALO  HIDE / THE    OMAHA   TRIBE / SECOND  SONG / FIRST  SONG;
+    lines 18775-18889
+  start: '18775'
+  end: '18889'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: In this song the creation of the buffalo is depicted.
+  summary: A recitative song enumerates parts of a buffalo body as moving because
+    of consciousness and life. The explanatory note says movement is synonymous with
+    life, breath is a sign of life, the calf is born, and the moving feet leave tracks
+    on the earth.
+  language: English with Omaha transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a song marked as recitative, with Omaha-text lines and
+    a literal English explanation of key terms.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The literal translation explains a repeated phrase in which something moves
+    itself because it is conscious or has knowledge.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The song lists buffalo body parts in a sequence: nose, face, eyes, horns,
+    ears, head, back, arm, breast, ribs, body, stomach, tail, hind quarters, calf,
+    feet, and tracks.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The explanatory note states that the song depicts the creation of the buffalo.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The explanatory note states that movement is synonymous with life and that
+    the living embryo moves of itself because it has consciousness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The explanatory note identifies breath as the sign of life and explains that
+    the nose moves first because breath issues from it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After all parts of the body move because of conscious life, the little one,
+    the calf, is born.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When the feet move, they leave tracks on the earth as a sign of life.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The music note says the emphasis on the final word, translated as tracks,
+    indicates the finality of the creation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A footnote connects the song’s track image with a pipe belonging to the Hide
+    that is shaped like a buffalo hoof track.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: buffalo
+  description: The being whose creation is depicted in the song; its body parts move
+    because of conscious life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: little one / calf
+  description: The calf is named in the sequence and is said to be born after the
+    body parts move.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: created living being
+  assigned_to:
+  - fig:1
+  basis: The explanatory note states that the song depicts the creation of the buffalo
+    and describes its parts moving with conscious life.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: newborn calf
+  assigned_to:
+  - fig:2
+  basis: The explanatory note says that after the body parts move, the little one,
+    the calf, is born.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: movement as life
+  literal_form: self-movement of the living embryo and body parts
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: breath through the nose as life sign
+  literal_form: nose and breath issuing from it
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tracks as sign of life and completion
+  literal_form: tracks or footprints left on the earth by moving feet
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: buffalo hoof-track pipe
+  literal_form: pipe belonging to the Hide, shaped like a buffalo hoof track
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: recitative enumeration of body parts
+  summary: The song repeats a formula of movement and consciousness while naming buffalo
+    body parts in order.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: creation through conscious movement
+  summary: The explanatory note says the buffalo is created as the living embryo and
+    then its body parts move because of consciousness and life.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: birth and tracks
+  summary: After the body parts move, the calf is born; the feet move and leave tracks
+    on earth, and the musical emphasis on tracks marks the finality of creation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: hoof-track object connection
+  summary: A note points to a pipe belonging to the Hide that has the shape of a buffalo
+    hoof track.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: creation of a buffalo through animation of body parts
+  taxonomy_refs: []
+  basis: The passage explicitly says the song depicts the creation of the buffalo,
+    and explains that each body part moves because of conscious life.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list has no exact general creation motif for an
+    animal being.
+- id: motif:2
+  label: birth following embodied awakening
+  taxonomy_refs:
+  - sacred_birth
+  basis: The explanatory note says that after the body parts move because of conscious
+    life, the little one, the calf, is born.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is approximate; the passage states a ritual song
+    of creation and birth, but does not describe divine parentage or a named supernatural
+    child.
+- id: motif:3
+  label: footprints as sign of life and completed creation
+  taxonomy_refs: []
+  basis: The passage says moving feet leave tracks on earth as a sign of life, and
+    the musical emphasis on the final word, tracks, indicates the finality of the
+    creation.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is extracted as a passage-level symbolic pattern rather than a named
+    comparative motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage itself links the song’s final image of tracks with a material
+    object in the same Hide context: a pipe shaped like a buffalo hoof track.'
+  claim_level: visual_similarity
+  target: pipe belonging to the Hide in the shape of a buffalo hoof track
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note only says to observe the connection; it does not explain the
+    pipe’s ritual use or establish a broader historical comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18775-18827
+  quote_or_summary: The passage gives a first song in recitative form with repeated
+    Omaha-text lines.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 18828-18858
+  quote_or_summary: The literal translation explains the repeated formula of self-movement,
+    consciousness, and completion, and glosses the named items from nose and face
+    through calf, feet, and tracks.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 18859-18874
+  quote_or_summary: '"In this song the creation of the buffalo is depicted." The note
+    explains movement as life, the embryo as self-moving because conscious, breath
+    through the nose as life sign, the calf’s birth, and tracks left on earth as signs
+    of life.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:4
+  type: summary
+  locator: 18876-18882
+  quote_or_summary: The music is described as recitative and in a minor key; emphasis
+    on the final word translated as tracks indicates the finality of the creation.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 18884-18889
+  quote_or_summary: A footnote says to observe a peculiar pipe belonging to the Hide,
+    shaped like the track of a buffalo hoof.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage contains explicit editorial interpretation of the song as buffalo
+    creation, so core extraction is strong. Motif taxonomy assignment is partly approximate
+    because the available motif list lacks an exact animal-creation or animation-of-body-parts
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy symbol references were left empty because the available symbol list does not include buffalo, breath, body parts, hoofprints, or tracks.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l18775-l18889
+  passage_sha256=431ce69672544e1e0d5853665a13a6f71ad80a4fd63367ba8e50d957a17dfe12
+

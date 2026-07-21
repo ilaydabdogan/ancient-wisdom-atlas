@@ -1,0 +1,374 @@
+---
+record_id: batch.motif.polynesian-tongan-myths-and-tales-gifford-archive-l4624-l4642
+source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+passage_locator:
+  label: FEATURES / THE ORIGIN OF ISLANDS / THE ORIGIN OE TANOA ISLAND 71 / THE ORIGIN
+    OE NUKUNAMU ISLAND 72; lines 4624-4642
+  start: '4624'
+  end: '4642'
+  translation: Tongan Myths and Tales
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A Tongan account explains Nukunamu Island as a piece of land stolen from
+    Foa by two Samoan gods. The theft leaves a hollow that becomes the Malaeamoho
+    swamp. The Tongan god Tafakula sees the theft, pursues the gods, and from a mountain
+    on Tofua frightens them with a bright red bodily display. The Samoan gods drop
+    the stolen land in the ocean near Foa, where it remains as Nukunamu, and return
+    to Samoa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Nukunamu is described as a small island between Foa and Haano in the Haapai
+    group.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The account says Nukunamu was originally a piece of land that filled the site
+    of a swamp on Foa.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two gods from Samoa, Haelefeke and an unnamed companion, came to Haapai and
+    stole a piece of land from Foa.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The removal of the land left a great hollow, now occupied by the swamp called
+    Malaeamoho.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Tongan god Tafakula witnessed the theft and pursued the thieves.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Tafakula went to the top of a mountain on the volcanic island Tofua and made
+    a bright red bodily display compared to the setting sun.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Samoan gods were frightened, dropped the stolen land in the ocean off
+    the northern end of Foa, and returned to their native islands.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The dropped land is identified as the present island of Nukunamu.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Haelefeke
+  description: A god from Samoa who comes to Haapai and participates in stealing land
+    from Foa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed Samoan god
+  description: An unnamed companion of Haelefeke who comes from Samoa and participates
+    in stealing land from Foa.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Tafakula
+  description: A Tongan god, whose name is glossed as Red Edges, who witnesses the
+    theft and pursues the Samoan gods.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: divine land-thief
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The two Samoan gods steal a piece of land from Foa.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: divine witness and pursuer
+  assigned_to:
+  - fig:3
+  basis: Tafakula sees the theft, pursues the thieves, and frightens them into dropping
+    the stolen land.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: Nukunamu Island
+  literal_form: small island between Foa and Haano; identified as the dropped stolen
+    land
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:2
+  label: stolen piece of land
+  literal_form: piece of land removed from Foa and carried as booty before being dropped
+    in the ocean
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: Malaeamoho swamp
+  literal_form: swamp occupying the hollow left by the removed land
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: mountain on Tofua
+  literal_form: mountain on the volcanic island Tofua where Tafakula performs the
+    frightening display
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: red shining bodily display
+  literal_form: Tafakula exposes his red anus, which shines brightly like the setting
+    sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:6
+  label: ocean off northern Foa
+  literal_form: ocean location where the Samoan gods drop the stolen land
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Initial geography and prior state
+  summary: The passage locates Nukunamu in the Haapai group and says it was once land
+    occupying a swamp site on Foa.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Theft from Foa
+  summary: Haelefeke and another Samoan god steal a piece of land from Foa, leaving
+    a hollow that becomes Malaeamoho swamp.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Tafakula’s pursuit and display
+  summary: Tafakula witnesses the theft, pursues the Samoan gods, goes to a mountain
+    on Tofua, and frightens them with a bright red bodily display.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Abandoned land becomes Nukunamu
+  summary: The frightened Samoan gods drop the stolen land in the ocean near northern
+    Foa; the land remains visible as Nukunamu, and the gods return to Samoa.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: island origin from relocated land
+  taxonomy_refs: []
+  basis: The narrative explains Nukunamu as a piece of land removed from Foa and dropped
+    in the ocean, where it becomes the island.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a passage-level etiological motif; no supplied taxonomy reference
+    directly names island-origin etiologies.
+- id: motif:2
+  label: sacred theft of land
+  taxonomy_refs:
+  - sacred_theft
+  basis: Supernatural beings steal a piece of land from Foa, and the stolen object
+    becomes central to the origin of the island.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage presents theft by gods but does not frame the land as ritually
+    sacred beyond its divine-theft context.
+- id: motif:3
+  label: frightening display forces abandonment of stolen object
+  taxonomy_refs: []
+  basis: Tafakula’s bright red display frightens the Samoan gods so that they drop
+    the stolen land and flee.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The function is explicit, but there is no supplied taxonomy category for
+    this display pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports comparison with etiological landform-origin narratives
+    because it explains both a present island and a swamp as results of divine actions
+    in the past.
+  claim_level: same_function
+  target: etiological island and landscape origin pattern
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional comparison only; it does not imply historical
+    contact, common inheritance, or a specific external analogue.
+- id: claim:2
+  claim: The passage supports comparison with a sacred-theft motif family because
+    gods steal a significant piece of land and the theft produces a lasting geographical
+    result.
+  claim_level: same_motif
+  target: sacred_theft
+  evidence_refs:
+  - ev:3
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the theft of land by gods is explicit; the passage gives no broader
+    ritual or moral framework for the theft.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4624-4627
+  quote_or_summary: Nukunamu is introduced as a small island between Foa and Haano
+    in the Haapai group.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4627-4630
+  quote_or_summary: Tongan mythology says Nukunamu was originally a piece of land
+    filling the site of a swamp on Foa.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4631-4633
+  quote_or_summary: Two Samoan gods, Haelefeke and another, come to Haapai and steal
+    a piece of land from Foa.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4633-4635
+  quote_or_summary: The removed land leaves a great hollow, occupied by the swamp
+    now called Malaeamoho.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4635-4636
+  quote_or_summary: The Tongan god Tafakula witnesses the theft and begins pursuing
+    the thieves.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4636-4640
+  quote_or_summary: Tafakula goes to the top of a mountain on Tofua, removes his garments,
+    stoops, and exposes his red anus, which shines brightly like the setting sun.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 4640-4642
+  quote_or_summary: The Samoan gods are greatly frightened, drop their booty in the
+    ocean off northern Foa, and hasten back to Samoa.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 4641-4642
+  quote_or_summary: The dropped booty is identified as the island of Nukunamu visible
+    there today.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The narrative actions and figures are explicit. Motif labels beyond sacred
+    theft are descriptive passage-level candidates and should be reviewed against
+    the project taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:polynesian-tongan-myths-and-tales-gifford-archive__l4624-l4642
+  passage_sha256=9883bde458120df76feb9cfd3c45da9246e2c972cc94dc2b65e75fd6ae4f25c7
+

@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l10220-l10239
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: INDEX / INDEX / HISTORY  OF  RELIGION. / SELECTED  WORKS.; lines 10220-10239
+  start: '10220'
+  end: '10239'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A catalogue section lists selected works on religious, historical, and
+    secular subjects. One entry advertises Moncure D. Conway's Solomon and Solomonic
+    Literature as tracing the evolution of the Solomonic legend across several religious
+    traditions and folklore, including Solomon's ring and seal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a catalogue list of selected works with bibliographic details
+    such as titles, authors, page counts, bindings, and prices.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:2
+  text: One entry presents Biblical Love-Ditties as an interpretation and new translation
+    of the Song of Solomon by Dr. Paul Haupt.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One entry presents Martin Luther by Gustav Freytag, translated for the first
+    time from a German work and including illustrations.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One entry presents English Secularism, A Confession of Belief by George Jacob
+    Holyoake.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One entry presents Solomon and Solomonic Literature by Moncure D. Conway.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Conway entry says the work portrays the evolution of the Solomonic legend
+    in Judaism, Christianity, Hinduism, Buddhism, Parseeism, and ancient and modern
+    folklore.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Conway entry specifically names the legends of Solomon's ring and Solomon's
+    seal.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Dr. Paul Haupt
+  description: Named as responsible for an interpretation and new translation of the
+    Song of Solomon in Biblical Love-Ditties.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gustav Freytag
+  description: Named as author of Martin Luther.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: George Jacob Holyoake
+  description: Named as author of English Secularism, A Confession of Belief.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Moncure D. Conway
+  description: Named as author of Solomon and Solomonic Literature.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Solomon
+  description: Named in the title Solomon and Solomonic Literature and associated
+    with the Solomonic legend, Solomon's ring, and Solomon's seal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Martin Luther
+  description: Named as the title subject of a work by Gustav Freytag.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named author or textual producer
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: These people are introduced in catalogue entries with authorship or production
+    formulas such as 'By'.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: legendary/literary subject
+  assigned_to:
+  - fig:5
+  basis: Solomon is the subject of a title and of the described Solomonic legend,
+    including ring and seal legends.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: biographical title subject
+  assigned_to:
+  - fig:6
+  basis: Martin Luther is named as the title of a catalogue entry for a work by Gustav
+    Freytag.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Solomon's ring
+  literal_form: ring
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Solomon's seal
+  literal_form: seal
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Catalogue notice for Solomon and Solomonic Literature
+  summary: The catalogue describes Conway's book as surveying the Solomonic legend
+    across several religious traditions and folklore, with attention to Solomon's
+    ring and seal.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cross-traditional Solomonic legend
+  taxonomy_refs: []
+  basis: The passage reports that Conway's book traces the Solomonic legend through
+    Judaism, Christianity, Hinduism, Buddhism, Parseeism, and ancient and modern folklore.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a bibliographic advertisement rather than a narrative passage;
+    it does not provide individual variants or mythic episodes.
+- id: motif:2
+  label: Solomon's ring and seal
+  taxonomy_refs: []
+  basis: The passage names legends of Solomon's ring and Solomon's seal as topics
+    taken up by Conway's work.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage names the objects but does not describe their powers, functions,
+    or narrative contexts.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison of a Solomonic legend complex
+    across Judaism, Christianity, Hinduism, Buddhism, Parseeism, and ancient and modern
+    folklore.
+  claim_level: same_motif
+  target: Solomonic legend across named religious traditions and folklore
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim is reported through a catalogue description of a secondary
+    work; the passage gives no direct textual examples, transmission history, or details
+    of specific variants.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10220-10222
+  quote_or_summary: Catalogue entry for Biblical Love-Ditties, described as an interpretation
+    and new translation of the Song of Solomon by Dr. Paul Haupt.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 10224-10227
+  quote_or_summary: Catalogue entry for Martin Luther by Gustav Freytag, translated
+    from a German work and including illustrations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 10229-10230
+  quote_or_summary: Catalogue entry for English Secularism, A Confession of Belief
+    by George Jacob Holyoake.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:4
+  type: summary
+  locator: 10232-10237
+  quote_or_summary: Catalogue entry for Solomon and Solomonic Literature by Moncure
+    D. Conway, describing the evolution of the Solomonic legend across Judaism, Christianity,
+    Hinduism, Buddhism, Parseeism, folklore, and mentioning Solomon's ring and seal.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public-domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: '10239'
+  quote_or_summary: The passage ends with a prompt to write for an illustrated catalogue.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public-domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Extraction is straightforward for bibliographic data. Motif and comparison
+    confidence is limited because the passage is a catalogue notice, not a mythic
+    narrative or detailed scholarly argument.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative myth scene is present. Motif candidates are restricted to the passage's explicit statements about the Solomonic legend, Solomon's ring, and Solomon's seal.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l10220-l10239
+  passage_sha256=d674ccc6497565aa49ba0b68efe5604577323b7bc063efa0dbbf7026c3e4795b
+

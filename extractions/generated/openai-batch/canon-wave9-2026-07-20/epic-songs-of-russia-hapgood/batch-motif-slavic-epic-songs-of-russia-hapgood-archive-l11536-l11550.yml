@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.slavic-epic-songs-of-russia-hapgood-archive-l11536-l11550
+source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+passage_locator:
+  label: VASILY THE DRUNKARD AND TZAR BATYQ. / S'WTJET MIKAILO IVANOVICH THE ROVER.
+    / NIGHTINGALE BUDIMIROVICH. / TZAR SOLOMON AND TZARITZA SOLOMONIDA.; lines 11536-11550
+  start: '11536'
+  end: '11550'
+  translation: The Epic Songs of Russia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the quest of a bride in a marvellous ship, with the aid of wondrous song
+    or music
+  summary: The passage introduces the poem titled “Tzar Solomon and Tzaritza Solomonida.”
+    It describes a widely disseminated bride-quest tradition involving a marvellous
+    ship and wondrous song or music, suggests that this legend reached Russians through
+    books and Chronicles, and notes one version in which Tzar Vasfly lives in N6vgorod
+    while Solomon lives in Tzargrdd, identified as Constantinople.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage title names Tzar Solomon and Tzaritza Solomonida.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a tradition involving the quest of a bride in a marvellous
+    ship with the aid of wondrous song or music.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor describes this bride-quest tradition as widely disseminated and
+    as common to “all Aryan races,” using the editor’s period terminology.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The editor says the legend seems to have reached the Russians through books
+    and that it is recorded in some Chronicles, though not the most ancient ones.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editor says the poem took its present poetical form from the people and
+    is popular in style though derived from foreign and literary sources.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In one version, Tzar Vasfly lives in N6vgorod and Solomon lives in Tzargrdd,
+    identified parenthetically as Constantinople.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tzar Solomon / Solomon
+  description: Named as Tzar Solomon in the title; in one version, Solomon is located
+    in Tzargrdd, identified as Constantinople.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Tzaritza Solomonida
+  description: Named in the passage title as Tzaritza Solomonida.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tzar Vasfly
+  description: Named in one version as living in N6vgorod.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: tsar-title bearer
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The title names “Tzar Solomon,” and the variant statement names “Tzar Vasfly.”
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: tsaritsa-title bearer
+  assigned_to:
+  - fig:2
+  basis: The title names “Tzaritza Solomonida.”
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: figure assigned to a variant residence
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The variant statement places Tzar Vasfly in N6vgorod and Solomon in Tzargrdd.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: marvellous ship
+  literal_form: a marvellous ship
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wondrous song or music
+  literal_form: wondrous song or music
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: written transmission media
+  literal_form: books and Chronicles
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: N6vgorod
+  literal_form: N6vgorod
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Tzargrdd / Constantinople
+  literal_form: Tzargrdd (Constantinople)
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bride-quest pattern summarized
+  summary: The introduction summarizes a tradition in which a bride is sought in a
+    marvellous ship with the aid of wondrous song or music.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Transmission into Russian tradition
+  summary: The editor states that the legend seems to have entered Russian tradition
+    through books and Chronicles, then took a popular poetic form.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Variant geography
+  summary: One version places Tzar Vasfly in N6vgorod and Solomon in Tzargrdd, identified
+    as Constantinople.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Bride quest by marvellous ship aided by song or music
+  taxonomy_refs: []
+  basis: The passage explicitly identifies a tradition of seeking a bride in a marvellous
+    ship with the aid of wondrous song or music.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage provides only an editorial summary, not the full narrative
+    episode.
+- id: motif:2
+  label: Foreign literary legend adapted into popular oral-poetic form
+  taxonomy_refs: []
+  basis: The editor says the legend seems to have reached Russians through books and
+    Chronicles and later received its poetical form from the people.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a transmission pattern rather than a discrete narrative motif;
+    the passage gives no specific source text.
+comparison_claims:
+- id: claim:1
+  claim: The passage frames the Russian poem as an instance of a widely disseminated
+    bride-quest pattern involving a marvellous ship and wondrous song or music.
+  claim_level: same_motif
+  target: widely disseminated bride-quest tradition described by the editor as common
+    to “all Aryan races”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and editorial; no specific parallel texts or
+    examples are named in the passage, and “Aryan races” is period terminology.
+- id: claim:2
+  claim: The passage suggests a historical transmission route in which the legend
+    reached Russian tradition through books and Chronicles from foreign literary sources.
+  claim_level: historical_contact
+  target: foreign and literary sources mediated through books and Chronicles into
+    Russian tradition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses cautious language and does not identify particular
+    books, Chronicles, dates, or intermediary traditions.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11536-11536
+  quote_or_summary: "“TZAR SOLOMON AND TZARITZA SOLOMONIDA.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: lines 11538-11542
+  quote_or_summary: "“Among the traditions common to all Aryan races, the quest of
+    a bride in a marvellous ship, with the aid of wondrous song or music, is one of
+    the most widely disseminated.”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 11542-11548
+  quote_or_summary: The editor says the legend seems to have reached Russians through
+    books, is recorded in some but not the most ancient Chronicles, and became a popular-style
+    poem though derived from foreign and literary sources.
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 11549-11550
+  quote_or_summary: "“In one version, Tzar Vasfly lives in N6vgorod, and Solomon in
+    Tzargrdd (Constantinople).”"
+  source_text_path: texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly an editorial introduction rather than a narrative episode.
+    Named figures, places, and transmission claims are explicit, but the bride-quest
+    motif is summarized rather than narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Apparent OCR spellings from the supplied passage have been retained rather than corrected.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:slavic-epic-songs-of-russia-hapgood-archive__l11536-l11550
+  passage_sha256=93eeec2e4f2e7463266cd789cc99cb606c5e3fa17ede86d8dfee2316e39048fe
+

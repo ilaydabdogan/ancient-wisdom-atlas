@@ -1,0 +1,293 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l3519-l3678
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: BIG    GOOSE / WASHAXBE    GENS / THE    OMAHA    TRIBE / WAZHAXZHE    GENS;
+    lines 3519-3678
+  start: '3519'
+  end: '3678'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a catalogue for the Wazhazhe gens, specifically Standing
+    Bear's band, listing male and female Omaha personal names with English glosses
+    and occasional parenthetical references. Many glosses refer to animals, natural
+    forces, physical traits, social roles, or actions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the section as the Wazhazhe gens and Standing Bear's
+    band.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage divides the listed names into male and female categories.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:3
+  text: Several male names are glossed with bear terms, including four bears, feared
+    bear, standing bear, and big bear.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Several male names are glossed with snake terms, including snake, snake leader,
+    big snake, and little snake.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some names are glossed with water or water-place terms, including little water
+    and confluence.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Female names include glosses referring to sacred paint, black deer woman,
+    white buffalo woman, new moon soaring, Omaha woman, and big little sister.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Some names are explicitly marked as having uncertain or lost meanings.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Wazhazhe gens
+  description: The named Omaha gens heading under which the names are listed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Standing Bear's band
+  description: The band named within the Wazhazhe gens section.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Male name list
+  description: A set of male names within Standing Bear's band, each with English
+    glosses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Female name list
+  description: A set of female names within Standing Bear's band, each with English
+    glosses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: gens named in catalogue
+  assigned_to:
+  - fig:1
+  basis: The heading names the Wazhazhe gens.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: band named in catalogue
+  assigned_to:
+  - fig:2
+  basis: The passage labels the list as Standing Bear's band.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: gendered personal-name category
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage separately labels the lists as male and female.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: bear names
+  literal_form: 'Personal-name glosses referring to bears: four bears, feared bear,
+    standing bear, big bear.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: snake names
+  literal_form: 'Personal-name glosses referring to snakes: snake, snake leader, big
+    snake, little snake.'
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water-place names
+  literal_form: Personal-name glosses referring to little water and confluence.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sacred paint
+  literal_form: Female name glossed as sacred paint.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: buffalo woman
+  literal_form: Female name glossed as white buffalo woman.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: new moon soaring
+  literal_form: Female name glossed as new moon soaring.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Catalogue of Wazhazhe gens names
+  summary: The passage presents a non-narrative catalogue of male and female names
+    for Standing Bear's band in the Wazhazhe gens, with English meanings or notes
+    of uncertain meaning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal-associated personal names
+  taxonomy_refs: []
+  basis: The name catalogue includes multiple glosses based on animals, including
+    bear, snake, eagle, rabbit, horse, buffalo, bull, deer, and others.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: This is a name catalogue rather than a mythic narrative; the passage does
+    not state ritual, mythological, or symbolic interpretation for the animal names.
+- id: motif:2
+  label: Serpent-associated personal names
+  taxonomy_refs:
+  - serpent
+  basis: A cluster of male names is glossed as snake, snake leader, big snake, and
+    little snake.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage supports the presence of serpent terminology in names but
+    does not narrate serpent action or explain a serpent myth.
+- id: motif:3
+  label: Water-associated personal names
+  taxonomy_refs: []
+  basis: The male name list includes glosses referring to little water and confluence.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage gives name meanings only and does not provide a mythic or
+    ritual function for water imagery.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3519-3525
+  quote_or_summary: The passage heading identifies the Wazhazhe gens and Standing
+    Bear's band, then begins the male name list.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: male list, bear-name entries
+  quote_or_summary: '"Monchuxduba — Four bears, grizzly"; "Monchuxkinonpabi — The
+    bear who is feared"; "Monchuxnonzhin — Standing bear"; "Monchuxtonga — Big bear."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: male list, snake-name entries
+  quote_or_summary: '"Wexc''a — Snake"; "We/9''ahonga — Snake leader"; "Wex9''atonga
+    — Big snake"; "Wexc''azhinga— Little snake."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: male list, water and confluence entries
+  quote_or_summary: '"Nixjuba — Little water"; "Uzhaxta — Confluence."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: female list
+  quote_or_summary: The female list includes entries glossed as sacred paint, black
+    deer woman, white buffalo woman, new moon soaring, Omaha woman, and big little
+    sister.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: male and female lists
+  quote_or_summary: Some entries are marked with uncertain or lost meanings, including
+    examples glossed as meaning uncertain or meaning lost.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a structured ethnographic name list, so literal extraction
+    is straightforward. Motif identification is limited because the passage does not
+    present a narrative or explain symbolic meanings.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these names to other traditions or motif families beyond the supplied taxonomy labels.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l3519-l3678
+  passage_sha256=cbcb3afc31c8346153fab9d989ec4ed9545133bcaf0b9f2211b66d65a5945d7a
+

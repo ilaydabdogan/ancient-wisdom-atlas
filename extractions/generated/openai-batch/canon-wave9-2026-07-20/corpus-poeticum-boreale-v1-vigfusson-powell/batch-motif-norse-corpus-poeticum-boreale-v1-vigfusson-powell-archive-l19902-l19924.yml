@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l19902-l19924
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: BELIEFS AND WORSHIP OF THE OLD NORTHMEN. / OF THE OLD NORTHMEN. 403 / OF
+    THE OLD NORTHMEN. 405 / OF THE OLD NORTHMEN. 407; lines 19902-19924
+  start: '19902'
+  end: '19924'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage discusses Old Norse sacrificial vocabulary and ritual actions:
+    terms connected with human sacrifice, pithing or slaughtering cattle, bleeding
+    victims at a holy place, and hanging victims dedicated to Woden. It cites a Gautrick''s
+    Saga ceremony in which a sacrificer marks a victim with a spear-point, devotes
+    him to Woden, places a halter around his neck, and has him hanged.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The term “Soa” is said to have a modern figurative meaning of destroying,
+    wasting, or squandering, and to be used twice of human sacrifice.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The term “Safa” or “svefa” is said to mean “to pith” cattle, leading the editor
+    to infer that altar victims were sometimes slaughtered in that way.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cattle, including the “gold-horned oxen” of Helgi’s Lay, are named as an appropriate
+    sacrificial context for the term under discussion.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states, with a supposition, that victims must also have been bled
+    so that blood reddened the holy place.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The term “Senda” is interpreted as referring to hanging Woden’s victims, described
+    as sent or hurled to Woden and hoisted in the air as a sacrifice to the “God of
+    heaven.”
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In the cited Gautrick’s Saga ritual, the sacrificer marks the victim’s breast
+    with a spear-point, devotes him to Woden, leaves a halter around his neck, and
+    then the victim is hanged.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The spear-point mark is described parenthetically as the sacred emblem of
+    Woden or something similar.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Woden
+  description: Recipient of victims who are described as sent or hurled to him; also
+    called the “God of heaven” in this passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: human sacrificial victim
+  description: Human victim mentioned in connection with human sacrifice and with
+    the hanging ritual dedicated to Woden.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: cattle / gold-horned oxen
+  description: Cattle victims discussed in connection with pithing and sacrifice,
+    including “gold-horned oxen” referenced from Helgi’s Lay.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: sacrificer
+  description: Ritual actor in the Gautrick’s Saga ceremony who marks the victim,
+    devotes him to Woden, and is involved before the hanging.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: divine recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: Victims are described as sent or hurled to Woden and devoted to him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: sacrificial victim
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Human victims and cattle are discussed as objects of sacrificial killing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: ritual sacrificer
+  assigned_to:
+  - fig:4
+  basis: The sacrificer marks the victim’s breast, devotes him to Woden, and participates
+    before the hanging.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacrificial altar
+  literal_form: altar
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: blood reddening the holy place
+  literal_form: blood at the holy place
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spear-point mark
+  literal_form: mark on the victim’s breast made with a spear-point
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: halter around the neck
+  literal_form: halter placed around the victim’s neck before hanging
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: hoisted hanging victim
+  literal_form: victim hoisted up in the air and hanged
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sacrificial terminology
+  summary: The passage explains several terms as connected with acts of sacrifice,
+    including human sacrifice, pithing cattle, and sending or hanging victims to Woden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Altar slaughter and blood
+  summary: Cattle sacrifice is discussed in relation to pithing, and the passage supposes
+    that victims were also bled so that blood reddened the holy place.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Hanging dedication to Woden
+  summary: A victim dedicated to Woden is marked with a spear-point, has a halter
+    around his neck, and is hanged as a sacrifice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to Woden
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage describes victims sent or hurled to Woden and a ritual in which
+    a victim is devoted to Woden before hanging.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is editorial commentary rather than a continuous myth narrative.
+- id: motif:2
+  label: hanged victim sent to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The victim is described as hoisted in the air, sent or hurled to Woden, and
+    then hanged.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact ritual context is summarized by the editor and cited to Gautrick’s
+    Saga.
+- id: motif:3
+  label: animal sacrifice at altar
+  taxonomy_refs:
+  - sacrifice
+  basis: Cattle and “gold-horned oxen” are discussed as sacrificial victims, with
+    altar slaughter and possible bleeding at the holy place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The bleeding detail is phrased as a supposition by the passage.
+- id: motif:4
+  label: spear-marked dedicated victim
+  taxonomy_refs:
+  - sacrifice
+  basis: The Gautrick’s Saga ceremony marks the victim’s breast with a spear-point
+    before devoting him to Woden and hanging him.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage’s parenthetical identification of the mark as Woden’s sacred
+    emblem is tentative.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly connects the term “Senda” with a hanging-sacrifice
+    ritual given in Gautrick’s Saga, where the victim is marked, devoted to Woden,
+    and hanged.
+  claim_level: same_function
+  target: Gautrick’s Saga hanging sacrifice to Woden
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison made by the passage’s editor; the excerpt
+    does not provide the full Gautrick’s Saga context.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19902-19905
+  quote_or_summary: "“Soa” is said to be “twice used of human sacrifice.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 19905-19909
+  quote_or_summary: "“Safa” or “svefa” means “to pith” cattle; the passage links it
+    with altar victims and cattle such as “gold-horned oxen.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary with short quoted terms.
+- id: ev:3
+  type: summary
+  locator: lines 19909-19911
+  quote_or_summary: The passage supposes that victims were also bled so that blood
+    reddened the holy place.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: quote
+  locator: lines 19911-19914
+  quote_or_summary: "“Senda” is said to refer to “the hanging of Woden’s victims,”
+    sent or hurled to Woden."
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 19915-19920
+  quote_or_summary: Gautrick’s Saga gives a ritual in which the sacrificer marks the
+    victim’s breast with a spear-point, devotes him to Woden, and the victim is hanged
+    with a halter around his neck.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: note
+  locator: lines 19917-19919
+  quote_or_summary: The parenthetical note identifies the spear-point mark as probably
+    the sacred emblem of Woden or similar.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The intelligible passage is an editorial discussion of sacrificial vocabulary
+    and a cited saga ritual. The final lines in the supplied excerpt contain fragmented
+    or garbled text, so extraction is limited to the coherent prose.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy identifiers beyond the provided motif family reference “sacrifice” were applied.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l19902-l19924
+  passage_sha256=48b9bf9e4b6a831597cca7e22be02ca94d4337e56ea69c2587eefa6a5d497b97
+

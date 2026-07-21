@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21026-l21049
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 421 / OF THE OLD NORTHMEN. 423 / OF THE OLD NORTHMEN.
+    425 / OF THE OLD NORTHMEN. 427; lines 21026-21049
+  start: '21026'
+  end: '21049'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an editorial discussion of old northern calendrical reckoning:
+    a five-day unit called “fimt,” possible division of months into pentads, Ari’s
+    report of a year of twelve thirty-day months, the problem of a 360-day year, and
+    two forms of intercalation, including four “Eke-nights” after Midsummer. A footnote
+    comments on later Icelandic day-name terminology and textual usage.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The term “fimt” is glossed as a pentad and as the interval required between
+    a summons and an appearance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives an example in which a summons should not be served on Tuesday
+    because the required appearance would fall on Sunday, described as a nefast day.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The editor infers that the month may have been divided into five-day weeks
+    or pentads.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ari is cited as saying that the old year consisted of twelve months of thirty
+    days, which the passage calculates as seventy-two pentads and six pentads per
+    month.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage notes phrases such as mid-Thorri and mid-Goi as possible evidence
+    that the six pentads of a month were divided into two lots.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The described arrangement produces a 360-day year, which the passage says
+    would be recognized as too inaccurate for practical use.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'The intercalation is described as double: four days added every year and
+    a whole week inserted every sixth or seventh year.'
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The four annual days added after Midsummer are called “Eke-nights.”
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The passage calls the Eke-nights arrangement, as stated there, post-Christian
+    and explains it as producing a multiple of seven, namely 364.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: A footnote says that a Bishop’s reform of day-name reckoning was successful
+    in Iceland, while Sturla’s Hakon Saga retains older terms and the Flatey-bok text
+    replaces them with the Bishop’s neologisms.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ari
+  description: Named authority cited for the statement that the old year consisted
+    of twelve months of thirty days.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Romans
+  description: Named as an example of computists who would perceive a 360-day year
+    as too inaccurate for practical use.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Bishop
+  description: Unnamed Bishop credited in the footnote with successful reform of day-name
+    reckoning in Iceland and with neologisms adopted by the Flatey-bok text.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Sturla
+  description: Named in the footnote as using older terms in Hakon Saga.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: calendrical source authority
+  assigned_to:
+  - fig:1
+  basis: Ari is cited for information about the old year’s structure.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: comparative computists
+  assigned_to:
+  - fig:2
+  basis: The Romans are mentioned as an example of computists in relation to recognizing
+    calendar inaccuracy.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: terminology reformer
+  assigned_to:
+  - fig:3
+  basis: The footnote attributes successful day-name reform and neologisms to the
+    Bishop.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: textual witness to older terms
+  assigned_to:
+  - fig:4
+  basis: Sturla is said to use older terms in Hakon Saga.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: pentad or five-day unit
+  literal_form: "“fimt,” a five-day interval or pentad used in legal and calendrical
+    reckoning"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: 360-day year
+  literal_form: twelve months of thirty days, calculated as seventy-two pentads
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Eke-nights
+  literal_form: four days added after Midsummer
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Definition and legal use of the pentad
+  summary: The passage defines “fimt” as a pentad and illustrates its legal use through
+    a summons-and-appearance interval.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reconstruction of the old year
+  summary: The editor discusses a possible year of twelve thirty-day months, divided
+    into pentads and perhaps into half-month groupings.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Intercalation after Midsummer
+  summary: The passage describes annual and multi-year intercalations and identifies
+    the four added days after Midsummer as Eke-nights.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Footnote on day-name terminology
+  summary: A note contrasts reformed Icelandic day-name terminology with older terms
+    preserved or replaced in textual witnesses.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: calendar divided into five-day units
+  taxonomy_refs: []
+  basis: The passage defines “fimt” as a pentad, connects it with legal timing, and
+    infers five-day divisions of months.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a calendrical and legal reckoning pattern in editorial commentary,
+    not a mythic narrative motif.
+- id: motif:2
+  label: seasonal calendar correction by intercalation
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage describes yearly and periodic intercalations, including four
+    Eke-nights added after Midsummer to adjust the calendar.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The link to the seasonal_cycle motif family is functional and calendrical;
+    no mythic personification or ritual narrative is supplied in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage uses Roman computists as a limited analogy for recognizing the
+    practical inadequacy of a 360-day calendar.
+  claim_level: same_function
+  target: Roman calendrical computation as an editorial comparison
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is a passing scholarly comparison about calendar calculation,
+    not evidence of historical contact, shared myth, or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21026-21030
+  quote_or_summary: "“fimt” is glossed as a pentad and as the required time between
+    a summons and appearance; the example concerns a Tuesday summons leading to Sunday
+    appearance."
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 21030-21036
+  quote_or_summary: The editor asks whether months were divided into five-day weeks;
+    Ari is cited for twelve thirty-day months, yielding seventy-two pentads and six
+    pentads per month, with possible mid-month divisions such as mid-Thorri and mid-Goi.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 21037-21039
+  quote_or_summary: The arrangement gives a 360-day year, which the passage says even
+    comparatively rude computists, such as the Romans, would see as too incorrect
+    for practical use.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 21041-21043
+  quote_or_summary: 'Intercalation is described as double: four days added every year
+    and a whole week added every sixth or seventh year.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 21045-21049
+  quote_or_summary: The four days after Midsummer are called Eke-nights; the passage
+    says this form is post-Christian and intended to produce 364, a multiple of seven.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: footnote within supplied passage
+  quote_or_summary: The note says the Bishop’s day-name reform succeeded in Iceland;
+    Sturla’s Hakon Saga uses older terms, while the Flatey-bok text replaces them
+    with the Bishop’s neologisms.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The calendrical details are explicit, but the passage is editorial and non-narrative;
+    motif assignment is therefore limited to calendar-pattern extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy items such as cave, fire, milk, mountain, serpent, tree, or water are directly supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21026-l21049
+  passage_sha256=18ae65f24b0e78398db309648a4226972024924a1eed60edca57d12686d23f5c
+

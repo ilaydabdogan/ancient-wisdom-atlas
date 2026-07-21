@@ -1,0 +1,183 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l25938-l26044
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE  WA'WAN  CEREMONY / MUSIC / THE   OMAHA  TKIBE / SONG  OF  APPROACH;
+    lines 25938-26044
+  start: '25938'
+  end: '26044'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: 'Then the following song was sung: SONG OF APPROACH'
+  summary: In a section connected with the Wa'wan Ceremony music, a leader and other
+    members take places, after which a song titled “Song of Approach” is presented
+    with musical notation and performance notes.
+  language: English with transcribed Omaha song syllables
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A leader and other members take their places, with the other members positioned
+    behind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the participants take their places, a song is sung.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song is titled “Song of Approach.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage presents musical notation for the song and states that John C.
+    Fillmore harmonized it for piano.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The musical note says the aria is sung in octave unison and gives a tempo
+    marking.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Visible transcribed song syllables include forms such as “The-thu ha-i-ba”
+    and “Hun-ga.”
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: leader
+  description: The leader who takes a place before the song is sung.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: other members
+  description: Other members who take their places behind the leader.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: John C. Fillmore
+  description: Named as the person who harmonized the song to translate the music
+    on the piano.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ceremonial leader
+  assigned_to:
+  - fig:1
+  basis: The passage identifies a “leader” in the positioning before the song.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ceremonial members
+  assigned_to:
+  - fig:2
+  basis: The passage refers to “other members” taking places behind the leader.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: music harmonizer
+  assigned_to:
+  - fig:3
+  basis: The passage states that John C. Fillmore harmonized the song for piano.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Participants positioned before song
+  summary: A leader and other members take their places, with the other members behind,
+    and then the song is sung.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Presentation of the Song of Approach
+  summary: The passage gives the title, notation, performance notes, harmonization
+    credit, and visible transcribed syllables for the song.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ceremonial approach song
+  taxonomy_refs: []
+  basis: The title “Song of Approach” and the sequence of participants taking places
+    before the song support a plain ritual pattern of approach marked by song.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage provides only a musical excerpt and minimal ceremonial context;
+    it does not explain the symbolic meaning or narrative function of the approach.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 25938-25944
+  quote_or_summary: "“leader and other members took their places behind. Then the
+    following song was sung”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 25945-25947
+  quote_or_summary: "“SONG OF APPROACH”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 25948-25952
+  quote_or_summary: The passage states that the music was harmonized by John C. Fillmore
+    to translate it on the piano, gives a tempo marking, and notes that the aria is
+    sung in octave unison.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 25953-26044
+  quote_or_summary: Visible transcribed syllables in the musical setting include “The-thu
+    ha-i-ba” and “Hun-ga.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily a musical and ceremonial excerpt with limited narrative
+    explanation. Literal extraction is fairly secure, but motif identification is
+    cautious and comparison claims are not supported by the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned because the supplied passage does not provide enough context to connect the song securely to the available motif families or symbol list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l25938-l26044
+  passage_sha256=a6e76eede75c8b900ccf1622a971c17e54247d48a467b619d4463fa902f11812
+

@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l495-l553
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: SECT.  PAGE / SECT.  PAOB / SECT.  PAGK / ERRATA; lines 495-553
+  start: '495'
+  end: '553'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An errata section lists page-by-page corrections to spellings, references,
+    wording, punctuation, and line replacements. Isolated corrected readings include
+    a historical note on Darband, a genealogical phrase equating a female descendant
+    or relative with KAi KAtis, a correction to the phrase “Mountain of the Holy,”
+    and a corrected heading stating that Siydmak was slain by the Div.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an errata list for earlier pages of the volume, giving corrections
+    to names, wording, references, punctuation, and line replacements.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Some entries correct spellings of names or terms, including Trita, Traitana,
+    and Azarbdijdn.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:3
+  text: One replacement note states that Peter the Great gained temporary possession
+    of Darband in A.D. 1722 and that Darband was not finally annexed by Russia until
+    A.D. 1813.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One correction gives the reading “A female descendant or relative = KAi KAtis
+    (12).”
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One correction changes “mountain of the holy” to “Mountain of the Holy.”
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: One corrected line is a heading stating that Siydmak was slain by the Div.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Peter the Great
+  description: Named in a replacement historical note as gaining temporary possession
+    of Darband in A.D. 1722.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: KAi KAtis
+  description: Named in an erratum as equivalent to “A female descendant or relative.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Siydmak
+  description: Named in a corrected heading as the one slain by the Div.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the Div
+  description: Named in a corrected heading as the one by whom Siydmak was slain.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: historical actor in Darband note
+  assigned_to:
+  - fig:1
+  basis: The replacement wording says Peter the Great gained temporary possession
+    of Darband.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: female descendant or relative
+  assigned_to:
+  - fig:2
+  basis: The erratum gives the wording “A female descendant or relative = KAi KAtis
+    (12).”
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: slain figure in corrected heading
+  assigned_to:
+  - fig:3
+  basis: The corrected heading states that Siydmak was slain.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: slayer in corrected heading
+  assigned_to:
+  - fig:4
+  basis: The corrected heading states that Siydmak was slain by the Div.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Mountain of the Holy
+  literal_form: mountain
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: 'Corrected heading: Siydmak slain by the Div'
+  summary: A corrected line is to read as a heading stating that Siydmak was slain
+    by the Div. The errata passage gives no further narrative details.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Named figure slain by the Div
+  taxonomy_refs: []
+  basis: The corrected heading explicitly states that Siydmak was slain by the Div.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The evidence is only an erratum for a heading or line, not a narrative
+    passage; it gives no surrounding circumstances, role characterization, or aftermath.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 495-553
+  quote_or_summary: The passage is headed ERRATA and consists of page-by-page textual
+    corrections to earlier parts of the volume.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 495-553; Page 17 erratum
+  quote_or_summary: Replacement wording says Peter the Great gained temporary possession
+    of Darband in A.D. 1722, but that it was not finally annexed by Russia until A.D.
+    1813.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 495-553; Page 92 erratum
+  quote_or_summary: "“A female descendant or relative = KAi KAtis (12).”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 495-553; Page 118 erratum
+  quote_or_summary: "“for 'mountain of the holy' read 'Mountain of the Holy.'”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 495-553; Page 120 erratum
+  quote_or_summary: "“How Siydmak was slain by the Div.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 495-553; Page 7 and Page 9 errata
+  quote_or_summary: The errata correct spellings including Trita, Traitana, and Azarbdijdn.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The extraction is limited because the passage is an errata section rather
+    than a continuous mythic narrative. The only motif-like element is a title-only
+    reference to Siydmak being slain by the Div. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external information was used. Names and forms are preserved as they appear in the supplied passage, including apparent transliteration or OCR forms.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l495-l553
+  passage_sha256=cd4eff17ac61fd284a7e758e5840d45463e015c920dbeda66d9af7a5f3e646f0
+

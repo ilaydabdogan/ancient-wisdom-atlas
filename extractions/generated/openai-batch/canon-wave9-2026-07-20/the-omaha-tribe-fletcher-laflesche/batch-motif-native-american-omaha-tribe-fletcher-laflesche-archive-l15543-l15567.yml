@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l15543-l15567
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: FIRST  SONO / THE    OMAHA    TRIBE / THIRD  SONG / THE    SACRED    POLE;
+    lines 15543-15567
+  start: '15543'
+  end: '15567'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes part of a Sacred Pole ceremony: meat offerings are
+    arranged; fat from the meat is to be mixed with paint and used to anoint the Pole;
+    ritual songs accompany and announce stages of the work; a Hon''ga in charge commands
+    the officiating priest to approach the meat with a raised knife before the ceremonial
+    cutting.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rows of meat are described as offerings from which the officiating priest
+    will later cut fat ceremonially.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The fat is to be mixed with paint and used to anoint the Sacred Pole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The preparatory action is accompanied by the same song used when the Sacred
+    Pole was put in place and prepared for the ceremony.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The song is repeated eight times.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the meat is finally arranged, completion of the task is announced by
+    singing the second ritual song again.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The next song embodies a command by the Hon'ga in charge of the ceremonies
+    to the officiating priest.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The command tells the officiating priest to advance toward the meat with his
+    knife and hold the knife aloft before the ceremonial cutting of the meat.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: officiating priest
+  description: A ritual officiant who will cut fat from the meat offerings and is
+    commanded to advance toward the meat with a raised knife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Hon'ga in charge of the ceremonies
+  description: The Hon'ga responsible for the ceremonies, whose command to the officiating
+    priest is embodied in the next song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: officiating ritual specialist
+  assigned_to:
+  - fig:1
+  basis: The figure is named as the officiating priest and performs or prepares for
+    the ceremonial cutting and anointing actions.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: ceremonial authority issuing command
+  assigned_to:
+  - fig:2
+  basis: The Hon'ga is described as being in charge of the ceremonies and as commanding
+    the officiating priest through the song.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sacred Pole
+  literal_form: the Pole named as sacred and prepared for the ceremony
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: meat offerings
+  literal_form: rows of meat arranged as offerings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: fat mixed with paint
+  literal_form: fat cut from the offerings and mixed with paint for anointing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: raised knife
+  literal_form: knife held aloft by the officiating priest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: eightfold song repetition
+  literal_form: song repeated eight times
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preparation of offerings for anointing the Sacred Pole
+  summary: Meat offerings are arranged, and fat from them is to be cut, mixed with
+    paint, and used to anoint the Sacred Pole; this preparatory action is accompanied
+    by a repeated ritual song.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Completion of meat arrangement announced by song
+  summary: After the meat is arranged, completion of the task is announced through
+    another singing of the second ritual song.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Command to approach the meat with a raised knife
+  summary: A subsequent song conveys the Hon'ga's command that the officiating priest
+    advance toward the meat with his knife held aloft before the ceremonial cutting.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred pole preparation and anointing
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage centers on the Sacred Pole being put in place, prepared for ceremony,
+    and anointed with fat mixed with paint.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a sacred pole ritual, but it does not explicitly
+    state a world-axis, tree, or cosmological-center interpretation.
+- id: motif:2
+  label: offering substance transformed into consecrating material
+  taxonomy_refs: []
+  basis: Fat from arranged meat offerings is ceremonially cut, mixed with paint, and
+    used for anointing the Pole.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage calls the meat offerings, but does not explicitly describe
+    sacrifice or exchange with a deity.
+- id: motif:3
+  label: ritual song marking and directing ceremonial sequence
+  taxonomy_refs: []
+  basis: Songs accompany preparation, are repeated eight times, announce completion,
+    and embody a command to the officiating priest.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader comparative taxonomy reference is assigned because the passage
+    only documents the local ritual sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 15543-15548
+  quote_or_summary: The officiating priest was later to cut ceremonially the fat,
+    which was to be mixed with paint and used to anoint the Pole.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 15548-15553
+  quote_or_summary: The preparatory action is accompanied by the same song used when
+    the Sacred Pole was put in place and prepared; the song is repeated eight times.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 15555-15559
+  quote_or_summary: When the meat is finally arranged, completion of the task is announced
+    by singing the second ritual song again.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 15561-15567
+  quote_or_summary: The next song conveys the command of the Hon'ga in charge to the
+    officiating priest, directing him to advance toward the meat with his knife held
+    aloft before ceremonial cutting.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: citation
+  locator: '15543'
+  quote_or_summary: Section heading identifies the ritual context as 'THE SACRED POLE.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; brief heading citation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual elements are clear in the passage. Taxonomy linkage to sacred_tree_axis
+    is cautious because the passage names a Sacred Pole but does not explicitly describe
+    an axis mundi or sacred tree. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l15543-l15567
+  passage_sha256=8ed13d788ec5248a1064b69fe0e0327de6768209d62218794c5a8d6c11ba1308
+

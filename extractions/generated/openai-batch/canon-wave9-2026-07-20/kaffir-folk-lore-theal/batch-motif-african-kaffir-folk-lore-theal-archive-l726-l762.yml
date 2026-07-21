@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l726-l762
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: INTRODUCTORY  CHAPTER. / KAFFIR  FOLK. / INTRODUCTORY  CHAPTER. / KAFFIR  FOLK.;
+    lines 726-762
+  start: '726'
+  end: '762'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a political custom involving elevation of a third
+    son as a representative of the ancients, its wider adoption after Gaika's support,
+    and an ethnographic description of coastal Kaffir people, including physical appearance,
+    intellect, demeanor, gender comparison, and language.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A custom is described in which a third son is elevated to power with the title
+    of representative of the ancients.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the custom was not generally adopted until Gaika supported
+    it around the beginning of the present century.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After Gaika's support, the custom is said to have been almost universally
+    followed by the Amaxosa, resulting in many petty chiefs and little clans.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The coastal Kaffir man is described as large, strong, muscular, erect in bearing,
+    symmetrical in limbs, deep brown in color, and with short woolly hair.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage attributes strong intellectual and reasoning abilities to the
+    coastal Kaffir man and describes his demeanor as haughty and vain, with contempt
+    for frivolity.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that men are handsomer than women and attributes this to
+    differences in mode of living.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The language is described as rich in words and musical in expression.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: third son
+  description: A third son elevated to power with the title of representative of the
+    ancients.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gaika
+  description: A named figure who gave support to the custom, after which it became
+    widely followed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Amaxosa
+  description: The group said to have almost universally followed the custom after
+    Gaika's support.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Kaffir of the coast region
+  description: The collective subject of the passage's physical, intellectual, social,
+    and linguistic description.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: elevated successor or office-holder
+  assigned_to:
+  - fig:1
+  basis: The third son is described as elevated to power with a specific ancestral
+    title.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: endorser of political custom
+  assigned_to:
+  - fig:2
+  basis: Gaika is said to have given the custom his countenance, after which it spread.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: adopting community
+  assigned_to:
+  - fig:3
+  basis: The Amaxosa are described as almost universally following the custom.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ethnographic subject
+  assigned_to:
+  - fig:4
+  basis: The passage describes the coastal Kaffir person in physical, intellectual,
+    social, and linguistic terms.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Elevation of third son and adoption of custom
+  summary: A custom involving the elevation of a third son to power as representative
+    of the ancients is described as becoming widely adopted after Gaika's support,
+    leading to many petty chiefs and clans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of coastal people and language
+  summary: The passage describes the coastal Kaffir man in terms of body, intellect,
+    demeanor, comparison of men and women, and language.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Third-son elevation with ancestral title
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage describes a political custom in which a third son is elevated
+    to power with the title of representative of the ancients, and notes its later
+    widespread adoption among the Amaxosa.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is an introductory ethnographic passage rather than a mythic narrative;
+    the royal_legitimacy taxonomy reference is a broad thematic fit only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 726-731
+  quote_or_summary: A third son is elevated to power with the title of representative
+    of the ancients.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 731-740
+  quote_or_summary: The custom was not generally adopted until Gaika supported it;
+    afterward it was almost universally followed by the Amaxosa, producing many petty
+    chiefs and little clans.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 741-752
+  quote_or_summary: The coastal Kaffir man is described as large, strong, muscular,
+    erect, symmetrical, deep brown in color, and having short woolly hair.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 752-759
+  quote_or_summary: The passage describes intellectual ability, reasoning power, haughty
+    demeanor, vanity, contempt for frivolity, and says men are handsomer than women
+    because of different living modes.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: summary
+  locator: lines 760-762
+  quote_or_summary: The language is described as rich in words and musical in expression.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage is ethnographic prose, not a tale. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains colonial-era terminology and evaluative ethnographic description; extraction preserves literal content without endorsing those characterizations.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l726-l762
+  passage_sha256=fc9989efc390e54341b7e2c0729429ec5297cdbfcc66a53b3a24aab984deb6ff
+

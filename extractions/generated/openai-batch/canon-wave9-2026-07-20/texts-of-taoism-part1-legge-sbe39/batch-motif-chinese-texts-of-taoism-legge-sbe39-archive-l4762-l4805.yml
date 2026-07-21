@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe39-archive-l4762-l4805
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+passage_locator:
+  label: CH. XXVI. THE TAO TEH KING, 69 / CH. XXXII. THE TAO TEH KING. 75 / chapter
+    2. / CH, XXXVII THE TAO TEH KING. 79; lines 4762-4805
+  start: '4762'
+  end: '4805'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books
+    of the East, Vol. 39)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents Tao Te Ching chapter 37 with Legge''s notes: the
+    Tao acts without deliberate action and thereby leaves nothing undone; rulers who
+    maintain it allow all things to transform of themselves; desire is to be met by
+    nameless simplicity, freedom from external aim, stillness, and absence of desire,
+    so that things proceed rightly. The note identifies this as government according
+    to the Tao, described as doing without doing and governing without government.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tao is described as doing nothing for the sake of doing it, while nothing
+    remains not done.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Princes and kings are said to be able to maintain the Tao.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If rulers maintain the Tao, all things are said to be transformed of themselves
+    by them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If transformation becomes an object of desire, the desire is to be expressed
+    by nameless simplicity.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Nameless simplicity is described as free from external aim.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: With no desire, rest, and stillness, all things are said to go right of their
+    own will.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The editorial note describes the exercise of government as government according
+    to the Tao, doing without doing, and governing without government.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The translator's note identifies the subject of the third paragraph as a feudal
+    prince or king, while allowing that Lao-tze may be personating one of them.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: The Tao
+  description: The Tao is the principle described as doing nothing for the sake of
+    doing it while leaving nothing undone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Princes and kings
+  description: Rulers who may maintain the Tao and through whom all things are transformed
+    of themselves.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: All things
+  description: The things that are transformed of themselves and go right as of their
+    own will.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: non-acting effective principle
+  assigned_to:
+  - fig:1
+  basis: The Tao is said to do nothing for the sake of doing it, yet nothing is left
+    undone.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ruler maintaining the Tao
+  assigned_to:
+  - fig:2
+  basis: Princes and kings are presented as those who may maintain the Tao, allowing
+    transformation to occur.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:3
+  label: self-transforming order
+  assigned_to:
+  - fig:3
+  basis: All things are said to transform of themselves and to go right as of their
+    own will.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: nameless simplicity
+  literal_form: simplicity without a name
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: stillness without desire
+  literal_form: no desire, rest, and stillness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: The Tao accomplishes without deliberate action
+  summary: The Tao is presented as inactive in a purposive sense while nevertheless
+    leaving nothing undone.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rulers maintain the Tao and things transform
+  summary: Princes and kings who maintain the Tao allow all things to transform of
+    themselves.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Desire quieted by nameless simplicity
+  summary: Desire arising from transformation is answered by nameless simplicity;
+    with no desire and stillness, things go right of their own will.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Government according to the Tao
+  summary: The note interprets the passage as teaching government according to the
+    Tao, defined as doing without doing and governing without government.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: effective non-action
+  taxonomy_refs:
+  - wisdom
+  basis: 'The passage frames non-deliberate action as effective: the Tao does nothing
+    for the sake of doing, yet nothing is left undone, and government should be conducted
+    as doing without doing.'
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage is philosophical and political rather than narrative myth;
+    the taxonomy reference to wisdom is broad.
+- id: motif:2
+  label: self-ordering world under a ruler aligned with the Tao
+  taxonomy_refs:
+  - wisdom
+  basis: Princes and kings who maintain the Tao are said to allow all things to transform
+    of themselves and go right of their own will.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a governance pattern rather than a mythic episode.
+- id: motif:3
+  label: nameless simplicity as cure for desire
+  taxonomy_refs:
+  - wisdom
+  basis: When transformation becomes an object of desire, the passage answers with
+    nameless simplicity, absence of external aim, no desire, rest, and stillness.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The symbol is doctrinal and aphoristic; no personified or narrative object
+    is described.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4769-4771
+  quote_or_summary: '"The T4o inits regular course does nothing (for the sake of doing
+    it), and so there is nothing which it does not do."'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 4773-4775
+  quote_or_summary: '"If princes and kings were able to maintain it, all things would
+    of themselves be transformed by them."'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4777-4779
+  quote_or_summary: '"If this transformation became to me an object of desire, I would
+    express the desire by the nameless simplicity."'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 4781-4786
+  quote_or_summary: '"Simplicity without a name / Is free from all external aim. /
+    With no desire, at rest and still, / All things go right as of their will."'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 4788-4790
+  quote_or_summary: '"The Exercise of Government. This exercise should be according
+    to the Tao, doing without doing, governing without government."'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4792-4796
+  quote_or_summary: The translator's note says the subject of the third paragraph
+    is a feudal prince or the king, possibly Lao-tze personating one of them.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily doctrinal and political-philosophical, with limited
+    narrative or mythic material. Motif candidates are broad wisdom/governance patterns
+    and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata. OCR spellings in quoted evidence are preserved where quoted.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe39-archive__l4762-l4805
+  passage_sha256=23b5ba0d82d81f3e88232e004d02b8ecffa5a8bf7e24046d3e42162b7b084736
+

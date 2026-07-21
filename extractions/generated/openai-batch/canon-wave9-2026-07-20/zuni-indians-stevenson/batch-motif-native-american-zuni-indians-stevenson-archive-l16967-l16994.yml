@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.native-american-zuni-indians-stevenson-archive-l16967-l16994
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: LEARNING TO WEAVE BELTS / TWENTY-THIRD ANNUAL REPORT PL. LXXX / DOG DANCE
+    / STKVKXHOSJ; lines 16967-16994
+  start: '16967'
+  end: '16994'
+  translation: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A practitioner places fetishes and medicine bags in a basket tray, prays
+    over them, and applies powder to the patient’s arm, shoulders, head, and affected
+    parts. Carbolic acid and powder treatments continue over several days, alongside
+    treatment by Nai'uchi and the writer. The patient’s pulse and symptoms are recorded
+    as improving, and she returns to work and ordinary activity, though pallor remains.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A male practitioner deposited fetishes and medicine bags in a basket tray.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After praying over the fetishes and medicines, the practitioner applied a
+    pinch of powder along the inner side of the arm, to each shoulder, to the top
+    of the head, and sparingly upon the affected parts.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Carbolic acid was applied morning and night, and powder was sprinkled afterward.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The patient was described as very ill but difficult to keep in bed and later
+    anxious to get up.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The treatment of Nai'uchi and the writer continued while the affected parts
+    were reported as improving.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Across several dates, the patient’s pulse and the condition of the affected
+    parts were recorded, with swelling and discoloration decreasing and the parts
+    eventually appearing normal and healthy.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: After treatment ceased, the patient resumed work and ordinary movement, declared
+    herself well and strong, and was still noted to be extremely pale.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed male practitioner
+  description: A male practitioner who prayed over fetishes and medicines and applied
+    powder to the patient’s body.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the patient
+  description: An ill female patient whose pulse, affected parts, activity, and recovery
+    are described over several days.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Nai'uchi
+  description: A named person whose treatment of the patient continued during the
+    recorded course of care.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the writer
+  description: The writer is named as one of the people whose treatment of the patient
+    continued.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prayer-and-powder practitioner
+  assigned_to:
+  - fig:1
+  basis: The figure prays over ritual objects and applies powder to the patient’s
+    body.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: patient under treatment
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly reports the patient’s illness, pulse, symptoms, treatment,
+    and recovery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: continuing treatment providers
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage says the treatment of Nai'uchi and the writer was continued.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fetishes
+  literal_form: fetishes deposited in a basket tray and prayed over
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: medicine bags and medicines
+  literal_form: medicine bags and medicines placed with the fetishes
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ritual powder
+  literal_form: pinches of powder applied with prayer to the body and sprinkled on
+    affected parts
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: basket tray
+  literal_form: basket tray holding fetishes and medicine bags
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: carbolic acid
+  literal_form: carbolic acid applied morning and night during treatment
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Prayer and powder application
+  summary: A practitioner places fetishes and medicine bags in a basket tray, prays
+    over them, and applies powder to parts of the patient’s body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Continued treatment and observed improvement
+  summary: Carbolic acid and powder are applied, the treatment of Nai'uchi and the
+    writer continues, and the patient’s pulse and affected parts are monitored as
+    symptoms improve.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Return to activity after treatment
+  summary: The patient’s affected parts appear healthy, treatment ceases, and she
+    returns to work and daily activity while still appearing pale.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual healing with fetishes, prayer, and medicine powder
+  taxonomy_refs: []
+  basis: The passage describes fetishes and medicine bags being arranged, prayers
+    being said over them, and powder being applied to the patient’s body as part of
+    treatment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an ethnographic treatment account rather than a mythic
+    narrative; no supplied taxonomy motif directly matches ritual healing.
+- id: motif:2
+  label: combined ceremonial and material medical treatment
+  taxonomy_refs: []
+  basis: The patient receives prayer-and-powder treatment and also repeated applications
+    of carbolic acid, with treatment attributed to both Nai'uchi and the writer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly interpret the relationship between the
+    ceremonial and biomedical treatments.
+- id: motif:3
+  label: recovery sequence after repeated treatment
+  taxonomy_refs: []
+  basis: The passage presents a day-by-day sequence in which the patient’s pulse and
+    symptoms improve until she resumes activity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a narrative pattern in the account, not a named mythological motif
+    in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16967-16973
+  quote_or_summary: A male practitioner deposits fetishes and medicine bags in a basket
+    tray, prays over fetishes and medicines, and applies powder to the inner arm,
+    shoulders, top of head, and affected parts.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16973-16978
+  quote_or_summary: On the 25th the pulse is recorded as 98, the affected parts appear
+    slightly improved, carbolic acid is applied morning and night, powder is sprinkled
+    afterward, and the patient is very ill but reluctant to remain in bed.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16979-16983
+  quote_or_summary: On the 26th and 27th the pulse and symptoms are recorded; affected
+    parts slightly improve, the treatment of Nai'uchi and the writer continues, and
+    the patient remains anxious to get up though still ill.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16984-16988
+  quote_or_summary: On the 28th to 30th swelling is reported as mostly gone, the patient
+    sits up and says she feels well, the parts become almost normal and then normal
+    in size, and treatment continues.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16989-16994
+  quote_or_summary: On the 31st the pulse is 78 and the parts appear healthy; the
+    patient is up and working, treatment ceases, and later she goes about, performs
+    duties, declares herself well and strong, but remains very pale.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is OCR-noisy and begins mid-sentence, but the treatment sequence
+    and participants are mostly clear. Motif identification is limited because the
+    passage is an ethnographic medical episode, not a myth narrative, and no direct
+    supplied taxonomy motif matches it.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cautious comparison to another motif family, pattern, text, or nearby corpus tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-zuni-indians-stevenson-archive__l16967-l16994
+  passage_sha256=0e3600cbfb43793a66bbd44bd183166f8fb074791c9f5d22c46ce054b73a75e4
+

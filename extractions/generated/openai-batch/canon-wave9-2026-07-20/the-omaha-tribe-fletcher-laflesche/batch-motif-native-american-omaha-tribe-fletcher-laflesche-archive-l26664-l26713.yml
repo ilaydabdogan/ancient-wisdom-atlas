@@ -1,0 +1,204 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l26664-l26713
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: MUSIC / THE   OMAHA   TRIBE / MUSIC / MUSIC; lines 26664-26713
+  start: '26664'
+  end: '26713'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“ketha, peace as symbolized in nature, and the other, Hun'ga, peace as symbolized
+    by a little child”"
+  summary: 'The passage explains that only two words remain from a ceremony or song:
+    ketha and Hun''ga. Both are said to stand for peace, one through nature and the
+    other through a little child. The author states that this suggests the peaceful
+    teaching of the ceremony especially appealed to the Omaha. The passage also notes
+    that other phases visible in a Pawnee version are absent or lost in the Omaha
+    version, and it includes musical notation for the syllables.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that only two words remain, and both stand for peace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The word ketha is glossed as peace symbolized in nature.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The word Hun'ga is glossed as peace symbolized by a little child.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The author says the peaceful teaching of the ceremony appealed strongly to
+    the Omaha mind.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage states that other phases can be observed in the Pawnee version,
+    while any such Omaha phases have been lost if they ever existed there.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage includes musical notation for an aria sung in octaves, with the
+    syllables Ke-tha and Hun-ga shown in the score.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: little child
+  description: A little child is named as the image through which Hun'ga symbolizes
+    peace.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: symbolic image of peace
+  assigned_to:
+  - fig:1
+  basis: Hun'ga is described as peace symbolized by a little child.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: nature as peace-symbol
+  literal_form: nature
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: little child as peace-symbol
+  literal_form: little child
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: retained ceremonial words for peace
+  literal_form: ketha and Hun'ga
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Explanation of the two retained peace words
+  summary: The passage explains that ketha and Hun'ga are the only two remaining words
+    and that each stands for peace, one through nature and one through a little child.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Musical setting of ketha and Hun'ga
+  summary: A musical score presents an aria sung in octaves using the syllables Ke-tha
+    and Hun-ga.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: peace taught through ceremonial song
+  taxonomy_refs: []
+  basis: The two surviving words of the ceremony are both glossed as peace-symbols,
+    and the passage connects them with the ceremony's peaceful teaching.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is musicological and ethnographic; it does not narrate a mythic
+    episode.
+- id: motif:2
+  label: child as emblem of peace
+  taxonomy_refs: []
+  basis: Hun'ga is explicitly described as peace symbolized by a little child.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No narrative action involving the child is given.
+- id: motif:3
+  label: nature as emblem of peace
+  taxonomy_refs: []
+  basis: Ketha is explicitly described as peace symbolized in nature.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not specify a particular natural object such as tree,
+    water, fire, or mountain.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Pawnee version as a nearby comparative version in
+    which other phases may be observed, while saying that such phases are absent or
+    lost in the Omaha version.
+  claim_level: same_function
+  target: Pawnee version of the ceremony or song
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe the Pawnee phases or identify any specific
+    shared motif, so the comparison is limited to the existence of a related version.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26664-26670
+  quote_or_summary: "“ketha, peace as symbolized in nature, and the other, Hun'ga,
+    peace as symbolized by a little child” and the statement that the peaceful teaching
+    appealed strongly to the Omaha mind."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: 26670-26672
+  quote_or_summary: The passage says other phases can be observed in the Pawnee version
+    and, if they were ever part of the Omaha version, have been lost.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 26673-26713
+  quote_or_summary: The passage gives musical performance notes for an aria sung in
+    octaves, with harmony by John C. Fillmore, and shows the sung syllables Ke-tha
+    and Hun-ga in the notation.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal glosses of ketha and Hun'ga are explicit. Motif labeling is limited
+    because the passage is not a narrative myth but an ethnographic discussion of
+    ceremonial music.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage's symbols are nature and child as peace-emblems, not the provided specific symbol terms.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l26664-l26713
+  passage_sha256=54a6e0c9a61f968fb6681317255b1ffbc4a09210f38ab86ddd23408fd6ab69f2
+

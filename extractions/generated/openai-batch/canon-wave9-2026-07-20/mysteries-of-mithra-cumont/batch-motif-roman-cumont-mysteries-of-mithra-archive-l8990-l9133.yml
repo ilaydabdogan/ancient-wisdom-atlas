@@ -1,0 +1,412 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l8990-l9133
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAIC   ART  22? / INDEX / INDEX / INDEX; lines 8990-9133
+  start: '8990'
+  end: '9133'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An index page lists topics including Christianity and Mithraism, Mithraic
+    communion, the Spirit of Darkness, the struggle between day and night, resurrection
+    of the dead, deluge, conflagration, Mithra as creator, crown, radiant disc, divine
+    flame, the dog of Mithra, torch-bearers, and sidereal worship.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section with entries and page references, not a continuous
+    narrative episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index entry for Christianity mentions a struggle between Mithraism and
+    Christianity, resemblances and differences between them, and the adoption of symbols
+    of Mithraic art by Christianity.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists a Mithraic communion.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage names the Spirit of Darkness and associates him with pestilential
+    scourges.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage lists a struggle between day and night.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage lists resurrection of the dead.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage lists a deluge.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage lists a conflagration.
+  category: other
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage identifies Mithra as creator.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage lists a crown, a radiant disc, a divine flame, and the dog of
+    Mithra.
+  category: object
+  evidence_refs:
+  - ev:10
+  - ev:11
+  - ev:12
+  - ev:13
+- id: obs:11
+  text: The passage cross-references Dadophori to torch-bearers.
+  category: relationship
+  evidence_refs:
+  - ev:14
+- id: obs:12
+  text: The passage lists worship of the planets and constellations and a septuple
+    division of sidereal deities.
+  category: action
+  evidence_refs:
+  - ev:15
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: Named in the index as creator and in relation to the dog of Mithra.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:9
+  - ev:13
+- id: fig:2
+  name_or_label: Spirit of Darkness
+  description: Named with pestilential scourges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Dog of Mithra
+  description: Listed as the dog of Mithra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:13
+- id: fig:4
+  name_or_label: Dadophori / Torch-bearers
+  description: The index entry for Dadophori directs the reader to torch-bearers.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:14
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The index entry states “Creator, Mithra the.”
+  evidence_refs:
+  - ev:9
+- id: role:2
+  label: spirit of darkness with pestilential scourges
+  assigned_to:
+  - fig:2
+  basis: The index names the Spirit of Darkness and his pestilential scourges.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: associated animal of Mithra
+  assigned_to:
+  - fig:3
+  basis: The index lists the dog as “Dog of Mithra.”
+  evidence_refs:
+  - ev:13
+- id: role:4
+  label: torch-bearers
+  assigned_to:
+  - fig:4
+  basis: The index cross-reference identifies Dadophori with torch-bearers.
+  evidence_refs:
+  - ev:14
+symbols:
+- id: sym:1
+  label: divine flame
+  literal_form: Divine flame
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:12
+- id: sym:2
+  label: conflagration
+  literal_form: Conflagration
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: deluge
+  literal_form: Deluge
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: crown
+  literal_form: Crown
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: radiant disc
+  literal_form: Disc, the radiant
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+- id: sym:6
+  label: dog of Mithra
+  literal_form: Dog of Mithra
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:13
+- id: sym:7
+  label: day and night opposition
+  literal_form: Day and night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: planets and constellations
+  literal_form: Planets and constellations; sidereal deities
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:15
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: resurrection of the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The index explicitly lists “Dead, resurrection of the.”
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage is an index entry and gives no narrative details.
+- id: motif:2
+  label: deluge
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The index explicitly lists a deluge.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The available taxonomy label includes renewal, but the index entry only
+    states “Deluge” and does not describe renewal.
+- id: motif:3
+  label: conflagration
+  taxonomy_refs: []
+  basis: The index lists a conflagration.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The entry gives no details about cause, scale, or whether the fire is
+    world-destroying.
+- id: motif:4
+  label: day and night struggle
+  taxonomy_refs:
+  - duality
+  basis: The index lists a struggle between day and night.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives only an index phrase, not the underlying doctrinal explanation.
+- id: motif:5
+  label: Mithraic communion
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The index lists “Communion, the Mithraic.”
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index does not describe the ritual action or participants in this
+    line range.
+- id: motif:6
+  label: Mithra as creator
+  taxonomy_refs: []
+  basis: The index identifies Mithra as creator.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The entry supplies only a title and page reference.
+- id: motif:7
+  label: sidereal worship and septuple deities
+  taxonomy_refs: []
+  basis: The index refers to worship of the planets and constellations and to a septuple
+    division of sidereal deities.
+  evidence_refs:
+  - ev:15
+  confidence: medium
+  cautions: The passage does not give a mythic episode or ritual description.
+comparison_claims:
+- id: claim:1
+  claim: The index reports that the work discusses resemblances and differences between
+    Mithraism and Christianity.
+  claim_level: same_function
+  target: Mithraism and Christianity
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs:
+  - ev:2
+  confidence: low
+  limitations: The index does not identify the specific resemblances or differences
+    in this line range; the claim is limited to the existence of an indexed comparison.
+- id: claim:2
+  claim: The index reports that Christianity adopts symbols of Mithraic art.
+  claim_level: historical_contact
+  target: Christianity and Mithraic art
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is only an index entry and does not name the symbols or
+    describe the mechanism of adoption.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8990-9133, index section
+  quote_or_summary: The passage is an index page with alphabetic entries and page
+    references.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8990-9133, entry “Christianity”
+  quote_or_summary: The Christianity entry refers to a battle or struggle with Mithraism,
+    resemblances and differences between Mithraism and Christianity, and Christianity
+    adopting symbols of Mithraic art.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:3
+  type: quote
+  locator: lines 8990-9133, entry “Communion”
+  quote_or_summary: "“Communion, the Mithraic”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 8990-9133, entry “Darkness”
+  quote_or_summary: The entry names the Spirit of Darkness and his pestilential scourges.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:5
+  type: quote
+  locator: lines 8990-9133, entry “Day and night”
+  quote_or_summary: "“Day and night, struggle between”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:6
+  type: quote
+  locator: lines 8990-9133, entry “Dead”
+  quote_or_summary: "“Dead, resurrection of the”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:7
+  type: quote
+  locator: lines 8990-9133, entry “Deluge”
+  quote_or_summary: "“Deluge”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:8
+  type: quote
+  locator: lines 8990-9133, entry “Conflagration”
+  quote_or_summary: "“Conflagration”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:9
+  type: quote
+  locator: lines 8990-9133, entry “Creator”
+  quote_or_summary: "“Creator, Mithra the”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:10
+  type: quote
+  locator: lines 8990-9133, entry “Crown”
+  quote_or_summary: "“Crown, the”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:11
+  type: quote
+  locator: lines 8990-9133, entry “Disc”
+  quote_or_summary: "“Disc, the radiant”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:12
+  type: quote
+  locator: lines 8990-9133, entry “Divine flame”
+  quote_or_summary: "“Divine flame”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:13
+  type: quote
+  locator: lines 8990-9133, entry “Dog of Mithra”
+  quote_or_summary: "“Dog of Mithra, the”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:14
+  type: summary
+  locator: lines 8990-9133, entry “Dadophori”
+  quote_or_summary: The entry lists Dadophori and directs the reader to torch-bearers.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; brief summary used.
+- id: ev:15
+  type: summary
+  locator: lines 8990-9133, entries “Constellations” and “Deities”
+  quote_or_summary: The entries refer to worship of the planets and constellations,
+    sidereal deities, and a septuple division of deities.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; brief summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The source passage is an index page, so many extracted items are topic labels
+    rather than described mythic episodes. Motif assignments are therefore cautious
+    and need checking against the referenced pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No scenes were extracted because the passage contains index entries rather than narrative scenes.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l8990-l9133
+  passage_sha256=2a8b8550e36e2ea4474277791071cf5b745547db0f722a6bfbb14b66f2e4d9be
+

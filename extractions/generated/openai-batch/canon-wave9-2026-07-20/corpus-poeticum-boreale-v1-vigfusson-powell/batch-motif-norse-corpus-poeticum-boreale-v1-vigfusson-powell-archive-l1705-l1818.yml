@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l1705-l1818
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: INTRODUCTION. / DANISH SCHOLARS. XXV / XXX INTRODUCTION. / XXXIV INTRODUCTION.;
+    lines 1705-1818
+  start: '1705'
+  end: '1818'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage surveys manuscript witnesses for kings'' sagas and court poetry,
+    noting preservation, loss, marginal stanzas, and editorial manuscript preferences.
+    It then cites classical and early medieval testimonies about old Teutonic heroic
+    song: Tacitus on songs about Tuiscon, Mann, and Arminius; Einhard on Charles the
+    Great preserving ancient lays; and Paul the Deacon on songs praising the Lombard
+    king Elfwine.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kringla is said to preserve Ynglinga-Saga, Ynglingatal, Haconarmal, and Scaldatal,
+    while its first sheet had already lost its title and preface before copying.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Jofra-skinna is said to have been named from an illumination of St. Olaf and
+    Tryggvason, and Kringla and Jofra-skinna are both said to have perished in the
+    fire of 1728.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: AM. 61 is described as containing a full, appendiced text of the Lives of
+    the two Olafs, with seven stanzas on Tryggwason scribbled in the margin.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fagr-skinna is described as an independent redaction of the Kings' Lives and
+    as the sole manuscript source named here for the Dirge of Eric and Hornklofi's
+    Raven-Song.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: Tacitus is quoted as saying that old songs were the only history and chronicles
+    of the people he describes, and that they told of Tuiscon sprung from Earth and
+    of Tuiscon's son Mann as founder of the race.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:6
+  text: Tacitus is also said to speak of heroic poems on Arminius.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:7
+  text: Einhard is quoted as saying that Charles the Great had the oldest barbarian
+    lays, in which deeds and wars of old kings were sung, written down and committed
+    to memory.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:8
+  text: Paul the Deacon is quoted as saying that Elfwine's name, open hand, renown,
+    luck, and bravery in warfare were set forth in songs among Bavarian, Saxon, and
+    other same-tongue peoples.
+  category: speech
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Tuiscon
+  description: A god said in old songs to be sprung from Earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Earth
+  description: Named as the source from which Tuiscon is said to be sprung.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:3
+  name_or_label: Mann
+  description: The son of Tuiscon, called the fountain-head and founder of the race.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Arminius
+  description: A figure about whom Tacitus is said to mention heroic poems.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:5
+  name_or_label: Charles the Great
+  description: The Frankish emperor who is said to have preserved ancient lays by
+    writing them down and committing them to memory.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+- id: fig:6
+  name_or_label: Elfwine Eadwineson
+  description: A Lombard king whose fame, generosity, luck, and bravery in warfare
+    are said to have been sung among multiple Germanic-speaking peoples.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: earth-sprung god
+  assigned_to:
+  - fig:1
+  basis: Tacitus is quoted as reporting a god Tuiscon sprung from Earth.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: origin source
+  assigned_to:
+  - fig:2
+  basis: Earth is named as the source from which Tuiscon is sprung.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: son and race-founder
+  assigned_to:
+  - fig:3
+  basis: Mann is described as Tuiscon's son and as fountain-head and founder of the
+    race.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: heroic poem subject
+  assigned_to:
+  - fig:4
+  basis: Tacitus is said to speak of heroic poems on Arminius.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: royal preserver of lays
+  assigned_to:
+  - fig:5
+  basis: Einhard says Charles the Great had old lays written down and committed to
+    memory.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: renowned warrior-king in song
+  assigned_to:
+  - fig:6
+  basis: Paul the Deacon describes Elfwine as a Lombard king whose renown, luck, and
+    bravery in warfare were sung.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: generous ruler
+  assigned_to:
+  - fig:6
+  basis: Paul the Deacon includes Elfwine's open hand among the qualities set forth
+    in songs.
+  evidence_refs:
+  - ev:10
+symbols:
+- id: sym:1
+  label: old songs as history
+  literal_form: old songs
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:2
+  label: heroic poems and lays
+  literal_form: heroic poems; barbarian lays; songs
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:3
+  label: earth-born origin
+  literal_form: Earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: weapons of a heroic age
+  literal_form: best of weapons
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:5
+  label: destructive manuscript fire
+  literal_form: fire of 1728
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Manuscript preservation, damage, and loss
+  summary: The passage lists manuscript witnesses for sagas and poems, notes missing
+    leaves and titles, identifies marginal stanzas, and records that two manuscripts
+    perished in the fire of 1728.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Tacitus' report of origin songs
+  summary: Old songs are described as the people's only history and chronicles, telling
+    of Tuiscon sprung from Earth and his son Mann as founder of the race.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Testimonies to heroic song
+  summary: Tacitus, Einhard, and Paul the Deacon are used as witnesses to heroic song
+    about Arminius, old kings, and Elfwine's generosity and martial reputation.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: earth-sprung divine ancestor
+  taxonomy_refs:
+  - sacred_birth
+  basis: Tuiscon is described as a god sprung from Earth in old songs.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage reports the tradition indirectly through Tacitus and does
+    not elaborate the birth scene or explicitly personify Earth as a parent.
+- id: motif:2
+  label: divine parent-child genealogy of a people
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The old songs are said to tell of Tuiscon and his son Mann, with Mann described
+    as the fountain-head and founder of the race.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives only a brief genealogical notice, not a full mythic
+    narrative.
+- id: motif:3
+  label: heroic song as collective memory
+  taxonomy_refs: []
+  basis: Old songs are called the only history and chronicles; heroic poems on Arminius,
+    lays about deeds and wars of old kings, and songs about Elfwine are all cited
+    as records of heroic reputation.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: This is a literary-cultural pattern in the passage rather than a single
+    narrative episode.
+- id: motif:4
+  label: royal preservation of ancestral lays
+  taxonomy_refs: []
+  basis: Charles the Great is said to have had the oldest lays written down and committed
+    to memory.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The action is reported historically by Einhard, not presented as mythic
+    action.
+- id: motif:5
+  label: renowned warrior-king praised for generosity, luck, bravery, and weapons
+  taxonomy_refs: []
+  basis: Paul the Deacon says songs set forth Elfwine's open hand, renown, luck, bravery
+    in warfare, and the reputation of weapons made in his days.
+  evidence_refs:
+  - ev:10
+  confidence: high
+  cautions: The passage gives a praise-song pattern but not the text of the songs
+    themselves.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously aligns Tacitus' reported heroic poems on Arminius
+    with the type of older alliterative poems known to the editors.
+  claim_level: linguistic_similarity
+  target: older alliterative heroic poems referred to by the editors
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage states an editorial belief rather than giving the Arminius
+    poems themselves or linguistic evidence from them.
+- id: claim:2
+  claim: The passage links Lombard, Bavarian, Saxon, and English contexts around Elfwine's
+    heroic fame, noting that Paul the Deacon's report is confirmed by the English
+    Traveller's Song.
+  claim_level: same_function
+  target: Elfwine traditions in Paul the Deacon and the English Traveller's Song
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt ends before quoting the Traveller's Song, so the shared
+    details cannot be checked within this passage.
+- id: claim:3
+  claim: Tacitus, Einhard, and Paul the Deacon are presented together as testimonies
+    to a broader Teutonic pattern in which song preserves origins, deeds, wars, and
+    heroic fame.
+  claim_level: same_function
+  target: Teutonic heroic and origin-song traditions
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to the testimonies summarized or quoted in the
+    passage, not to direct comparison of complete poems.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1705-1714
+  quote_or_summary: Kringla preserves Ynglinga-Saga, Ynglingatal, Haconarmal, and
+    Scaldatal; its first sheet had lost the title and preface before copying, leading
+    to the name Heims-kringla from the opening words.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1715-1723
+  quote_or_summary: Jofra-skinna was named from an illumination of St. Olaf and Tryggvason;
+    Kringla and Jofra-skinna perished in the fire of 1728, while Frisbok, also called
+    Konunga-bok, is well preserved.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1724-1736
+  quote_or_summary: AM. 61 contains full Lives of the two Olafs; it was bought by
+    Arni in 1690, written about 1350, and has seven marginal stanzas on Tryggwason,
+    probably by Einar Gilsson.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1738-1743
+  quote_or_summary: Manuscripts of St. Olaf's Saga are numerous; the Stockholm manuscript
+    No. 2 is called the oldest and, with Kringla, a main foundation for court-poetry
+    in St. Olaf's time.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1745-1769
+  quote_or_summary: The passage names Hulda, Hrokkin-skinna, Morkin-skinna, Skioldunga
+    Saga, and Fagr-skinna as witnesses; Fagr-skinna alone preserves the Dirge of Eric
+    and Hornklofi's Raven-Song.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1770-1778
+  quote_or_summary: The editors state their general rule of following Kringla and
+    Cod. Holm. 2 when possible, then AM. 61 and 66, and prefixing manuscript authority
+    to each fragment and stanza.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1780-1787
+  quote_or_summary: Tacitus says old songs are their only history and chronicles and
+    that they tell of "a god Tuiscon sprung from Earth, and his son Mann, the fountain-head
+    and founder of their race."
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:8
+  type: summary
+  locator: lines 1788-1791
+  quote_or_summary: Tacitus is said to speak of heroic poems on Arminius; the editors
+    add that they believe these were alliterative and of similar type to older poems.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 1792-1797
+  quote_or_summary: Einhard says Charles the Great had "the oldest barbarian Lays,
+    in which the deeds and wars of the kings of old were sung" written down and committed
+    to memory.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short excerpt quoted.
+- id: ev:10
+  type: summary
+  locator: lines 1798-1818
+  quote_or_summary: Paul the Deacon says Elfwine's famous name was sung among Bavarian,
+    Saxon, and other same-tongue peoples, including his open hand, renown, luck, bravery
+    in warfare, and the reputation that the best weapons were wrought in his days;
+    the passage adds that this is confirmed by the English Traveller's Song.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The manuscript-history portions are clear but only indirectly relevant to
+    motif extraction. The strongest motif material occurs in the final section quoting
+    Tacitus, Einhard, and Paul the Deacon on origin and heroic songs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used. Taxonomy references were limited to available refs and assigned only where the passage directly supported them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l1705-l1818
+  passage_sha256=fc66b6979dd3ce061e6f2f4dd4f6065084a3c5562c43536c58f43cbcccf73204
+

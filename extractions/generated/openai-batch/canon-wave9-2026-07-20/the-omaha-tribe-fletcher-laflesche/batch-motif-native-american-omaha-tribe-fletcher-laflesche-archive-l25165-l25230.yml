@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l25165-l25230
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: PROPERTY / AMUSEMENTS / SOCIAL   LIFE / SOCIAL   LIFE; lines 25165-25230
+  start: '25165'
+  end: '25230'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Omaha gambling or amusement games: a plum-stone
+    tossing game using a wooden bowl, marked plum stones, tally sticks, fixed point
+    totals, named scoring throws, and stakes; and a men''s stone-hiding game using
+    moccasins and small stones, with hiders and guessers.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A game called Jcon'fi is described as using a wooden bowl and five plum stones.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two players participate at a time; the game total is set at 50 or 100 points,
+    and sticks are used to keep tally.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The plum stones are burned or marked to show moon forms, star forms, and black
+    and white sides.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bowl containing the plum stones is tossed, and the combinations in which
+    the stones fall have assigned values.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Throws called xu'be have higher counts and allow the tosser to continue as
+    long as xu'be is made.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stakes named for the game are necklaces, moccasins, earrings, and paint.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A men's gambling game called i'utin, translated as 'hiding the stone,' uses
+    four moccasins and two small stones.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: 'In i''utin, four persons play: two hide the stones, and two watch and guess.'
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A figure caption identifies implements used in a game called pa't;inzhahe.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jcon'fi players
+  description: The two players who play the plum-stone tossing game at a time.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: i'utin stone hiders
+  description: Two of the four i'utin players who hide the stones.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: i'utin watchers and guessers
+  description: Two of the four i'utin players who watch and guess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Jcon'fi player
+  assigned_to:
+  - fig:1
+  basis: The passage states that two played at a time in the game using the bowl and
+    plum stones.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: successful xu'be tosser
+  assigned_to:
+  - fig:1
+  basis: A player who tosses and gets a xu'be throw may keep tossing while continuing
+    to make xu'be.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: stone hider
+  assigned_to:
+  - fig:2
+  basis: In i'utin, two players hide the stones.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: watcher-guesser
+  assigned_to:
+  - fig:3
+  basis: In i'utin, two players watch and guess.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: wooden bowl
+  literal_form: A wooden bowl used to hold and toss the plum stones.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: plum stones
+  literal_form: Five plum stones used as the gaming pieces in Jcon'fi.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: moon marks
+  literal_form: Moon forms burned or marked on some sides of the plum stones.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: star marks
+  literal_form: Star forms burned or marked on some sides of the plum stones.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: black and white sides
+  literal_form: Black sides and white sides on the plum stones, used in scoring combinations.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: tally sticks
+  literal_form: Sticks used for keeping tally of points.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: stakes
+  literal_form: Necklaces, moccasins, earrings, and paint put up as stakes.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: moccasins
+  literal_form: Four moccasins used in the men's game i'utin.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:9
+  label: small stones
+  literal_form: Two small stones used in i'utin, the stone-hiding game.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Jcon'fi setup
+  summary: The plum-stone game is set up with a wooden bowl, five plum stones, two
+    players, a target total of 50 or 100 points, and tally sticks.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Marked-stone tossing and scoring
+  summary: The marked plum stones are tossed in the bowl; combinations of moon, star,
+    black, and white markings receive stated counts, and xu'be throws allow continued
+    tossing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Stakes for play
+  summary: Objects including necklaces, moccasins, earrings, and paint are put up
+    as stakes.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: i'utin stone hiding game
+  summary: In the men's game i'utin, four players use four moccasins and two small
+    stones; two hide the stones while two watch and guess.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: marked-stone game of chance
+  taxonomy_refs: []
+  basis: The passage describes marked plum stones tossed in a bowl, with scoring determined
+    by the combination of markings that fall upward or visible.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is an ethnographic amusement or gambling pattern; the passage does
+    not state a mythic, ritual, or sacred meaning.
+- id: motif:2
+  label: competitive staking of valuables
+  taxonomy_refs: []
+  basis: The passage names necklaces, moccasins, earrings, and paint as stakes put
+    up in the game.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No sacred exchange or ceremonial function is stated; it is described as
+    gambling or amusement.
+- id: motif:3
+  label: stone hiding and guessing game
+  taxonomy_refs: []
+  basis: The men's game i'utin is explicitly glossed as 'hiding the stone' and assigns
+    players to hide, watch, and guess using moccasins and stones.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage supports a social-game pattern only; it does not connect the
+    game to a mythological motif family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25165-25174
+  quote_or_summary: The game called Jcon'fi uses a wooden bowl and five plum stones;
+    two play at a time, the point total is set at 50 or 100, and sticks keep tally.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 25175-25186
+  quote_or_summary: 'The plum stones are burned to show forms: some sides have moons,
+    some have stars, and some are black or white; the bowl is tossed and the resulting
+    combinations have values.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 25187-25207
+  quote_or_summary: The passage lists scoring combinations of moons, stars, black,
+    and white sides; throws called xu'be count higher and allow the player to keep
+    tossing while xu'be continues.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 25208-25209
+  quote_or_summary: '"The stakes put up were necklaces, moccasins, earrings, and paint."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 25210-25215
+  quote_or_summary: The men's gambling game i'utin, glossed as 'hiding the stone,'
+    uses four moccasins and two small stones; four persons play, two hiding and two
+    watching and guessing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: citation
+  locator: 25216-25217
+  quote_or_summary: 'Figure caption: implements used in the game of pa''t;inzhahe.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; citation-level evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are treated as
+    social-game patterns rather than mythological motifs because the passage gives
+    no sacred or narrative interpretation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage. The passage is ethnographic social-life material rather than a myth narrative.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l25165-l25230
+  passage_sha256=df0b5a62c34d089e8351fe4742fe37b51735badc36cd0ec2ea3c51bbd267017e
+

@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l4087-l4107
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZIXG ANEXWANE. / UNTOMBINDE. / UNTOMBINDE. / ANOTHER VERSION OF A PORTION
+    OF THE TALE.; lines 4087-4107
+  start: '4087'
+  end: '4107'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The pigeons foretell the birth of Unthlatu.
+  summary: In another version of part of the tale, two pigeons come to Unthlatu's
+    mother and their calls are treated as a prophecy. Unthlatu is then said to be
+    born in accordance with that prophecy.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage introduces another version of a portion of the tale.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pigeons foretell the birth of Unthlatu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Two pigeons come to the mother.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One pigeon says “Vukutu.”
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The other pigeon questions why “Vukutu” is said, since the mother has no children.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Unthlatu is born in accordance with the prophecy of the pigeons.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: A footnote explains “Vukutu” as the native mode of imitating the cooing of
+    the pigeon.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unthlatu
+  description: The child whose birth is foretold and who is later born according to
+    the prophecy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unthlatu's mother
+  description: The woman to whom two pigeons come; one pigeon says she has no children.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: two pigeons
+  description: Two pigeons who come to the mother; their words or calls are treated
+    as a prophecy of Unthlatu's birth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: foretold child
+  assigned_to:
+  - fig:1
+  basis: Unthlatu's birth is announced beforehand by pigeons and occurs according
+    to their prophecy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: childless mother before foretold birth
+  assigned_to:
+  - fig:2
+  basis: A pigeon says the mother has no children before the prophecy is fulfilled
+    by Unthlatu's birth.
+  evidence_refs:
+  - ev:5
+  - ev:2
+- id: role:3
+  label: prophetic birds
+  assigned_to:
+  - fig:3
+  basis: The pigeons are explicitly said to foretell the birth of Unthlatu.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: pigeons as prophetic birds
+  literal_form: two pigeons
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: Vukutu pigeon-call
+  literal_form: the word or sound “Vukutu,” explained as imitation of pigeon cooing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Pigeons announce a birth
+  summary: Two pigeons come to Unthlatu's mother. One says “Vukutu,” and the other
+    asks why it says this when she has no children. The passage states that the pigeons
+    foretell Unthlatu's birth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Birth according to prophecy
+  summary: Unthlatu is born in accordance with the prophecy of the pigeons.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: foretold birth by birds
+  taxonomy_refs: []
+  basis: The passage directly states that pigeons foretell Unthlatu's birth and that
+    he is born according to their prophecy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a brief fragment and does not explain the larger
+    significance of Unthlatu's birth.
+- id: motif:2
+  label: foretold or remarkable child
+  taxonomy_refs:
+  - miraculous_child
+  basis: Unthlatu is presented as a child whose birth is prophesied before he exists
+    as a child of the mother.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a foretold birth, but it does not explicitly say
+    the child is miraculous or divine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 4087-4089
+  quote_or_summary: The passage is labeled as another version of a portion of the
+    tale.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4090-4094
+  quote_or_summary: "“The pigeons foretell the birth of Unthlatu.” The passage also
+    says he was born in accordance with the prophecy of pigeons."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 4094-4097
+  quote_or_summary: Two pigeons came to Unthlatu's mother before his birth.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 4097-4098
+  quote_or_summary: One pigeon said, “Vukutu.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: lines 4098-4101
+  quote_or_summary: The other pigeon asks why it says “Vukutu,” since the mother has
+    no children.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt or close summary used.
+- id: ev:6
+  type: note
+  locator: footnote 86 in supplied passage
+  quote_or_summary: "“Vukutu” is explained as the native mode of imitating the cooing
+    of the pigeon."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt or summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but motif-family alignment is
+    limited by the brief fragment and lack of wider tale context. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Footnotes unrelated to this short passage's action, such as notes on queenly signs, were not extracted as motifs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l4087-l4107
+  passage_sha256=c769637ca837b8eed6805b5c3355e6f354bd891f56e2577d59894d7d588da855
+

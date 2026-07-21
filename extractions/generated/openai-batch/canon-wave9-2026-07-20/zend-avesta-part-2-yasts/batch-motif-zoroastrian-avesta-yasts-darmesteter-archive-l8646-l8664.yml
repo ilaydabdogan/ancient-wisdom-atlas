@@ -1,0 +1,233 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l8646-l8664
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: XVIII. / XXII. / XXIII. / XXIV.; lines 8646-8664
+  start: '8646'
+  end: '8664'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage repeats invocations to holy Rashnu, asking whether he is in
+    different groups of stars: stars containing the seed of the earth, stars containing
+    the seed of plants, and stars belonging to the Good Spirit. In each case Rashnu
+    is invoked and blessed, and his friendship is invoked toward a prepared var.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Holy Rashnu is addressed directly in repeated questions or invocations.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: Rashnu is described as strong.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: One addressed location is stars that have the seed of the earth in them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: One addressed location is stars that have the seed of the plants in them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One addressed location is stars that belong to the Good Spirit.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speakers invoke and bless Rashnu in each section.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: The speaker invokes Rashnu's friendship toward a prepared var.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Rashnu
+  description: A holy figure addressed directly and described as strong.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Good Spirit
+  description: A spiritual figure or entity to whom one group of stars is said to
+    belong.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: invoked holy figure
+  assigned_to:
+  - fig:1
+  basis: Rashnu is directly addressed, invoked, blessed, and called holy and strong.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: possessor of stars
+  assigned_to:
+  - fig:2
+  basis: The passage refers to stars that belong to the Good Spirit.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: seed-bearing stars of earth
+  literal_form: stars that have the seed of the earth in them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: seed-bearing stars of plants
+  literal_form: stars that have the seed of the plants in them
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: stars of the Good Spirit
+  literal_form: stars that belong to the Good Spirit
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: prepared var
+  literal_form: this var prepared
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Invocation of Rashnu in seed-bearing and spiritual stars
+  summary: The passage presents three parallel invocations of Rashnu in relation to
+    different groups of stars, followed by blessing Rashnu and invoking his friendship
+    toward a prepared var.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: deity invoked in multiple celestial locations
+  taxonomy_refs: []
+  basis: Rashnu is invoked and blessed while being addressed as possibly present in
+    several classes of stars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is formulaic and does not narrate movement or action by Rashnu;
+    the motif label describes the ritual address pattern only.
+- id: motif:2
+  label: celestial seeds of earth and plants
+  taxonomy_refs: []
+  basis: Two star groups are described as containing the seed of the earth and the
+    seed of plants.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the function of these seeds; symbolic interpretation
+    should remain cautious.
+- id: motif:3
+  label: ritual invocation of divine friendship toward a prepared object
+  taxonomy_refs:
+  - sacred_exchange
+  basis: In each section the speaker invokes Rashnu's friendship toward a prepared
+    var after invoking and blessing him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The term 'var' and the nature of the prepared object or rite are not explained
+    in the passage, so the link to sacred exchange is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8646-8652; XXIII.30
+  quote_or_summary: Rashnu is addressed as holy and possibly present in stars that
+    have the seed of the earth in them; he is invoked and blessed, and his friendship
+    toward a prepared var is invoked.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8654-8659; XXIV.31
+  quote_or_summary: Rashnu is addressed as holy and possibly present in stars that
+    have the seed of plants in them; he is invoked and blessed, and his friendship
+    toward a prepared var is invoked.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8661-8664; XXV.32
+  quote_or_summary: Rashnu is addressed as holy and possibly present in stars belonging
+    to the Good Spirit; he is invoked and blessed, and his friendship toward a prepared
+    var is invoked.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage is repetitive.
+    Motif assignment is more tentative because the text provides ritual formulae without
+    explanatory narrative context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The passage label supplied in metadata differs from the section headings visible in the passage text; the supplied locator was retained.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l8646-l8664
+  passage_sha256=cd426280c8c0d23fb1b877f06c63e050a6d470b5167eab738c62b1be8591fe8e
+

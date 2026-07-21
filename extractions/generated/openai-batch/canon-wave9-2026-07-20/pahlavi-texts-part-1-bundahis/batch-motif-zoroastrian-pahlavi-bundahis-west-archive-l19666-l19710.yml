@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l19666-l19710
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER XVII, 1-6. 383 / CHAPTER XVII, 7-9. 385 / CHAPTER XVII, I O -XVIII,
+    3. 387 / Chapter XVIII 3.; lines 19666-19710
+  start: '19666'
+  end: '19710'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage ends a preceding instruction about placing a fragment across
+    the limbs of a body. A new chapter begins: revelation says Aeshm rushes to Aharman
+    and declares that he will not go into the world because Auharmazd has produced
+    three things there against which Aeshm can do nothing. Aharman asks him to name
+    them, and Aeshm begins with the season-festival. Footnotes identify Aeshm as the
+    demon of wrath and describe him as the chief agent of the evil spirit in machinations
+    against mankind.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fragment is to be taken and laid across a dead person's limbs; otherwise,
+    the dead person is said to be raised again from the place where the body reaches
+    the ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text says that, according to revelation, Aeshm rushed into Aharman's presence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Aeshm says he will not go into the world because Auharmazd has produced three
+    things there against which Aeshm can do nothing.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Aharman asks Aeshm to say which three things he means.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Aeshm begins naming the three things with the season-festival.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote identifies Aeshm as the demon of wrath and as the chief agent of
+    the evil spirit against mankind.
+  category: attribute
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Aeshm
+  description: Aeshm rushes to Aharman, refuses to go into the world, and speaks of
+    three things made by Auharmazd that he cannot affect; notes identify him as the
+    demon of wrath and the chief agent of the evil spirit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Aharman
+  description: Aharman receives Aeshm and asks him to name the three things; a note
+    connects him with the evil spirit and his presence with hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Auharmazd
+  description: Auharmazd, called lord, is said by Aeshm to have produced three things
+    in the world that Aeshm cannot affect.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: speaker of complaint/refusal
+  assigned_to:
+  - fig:1
+  basis: Aeshm rushes in and says he will not go into the world because of three things
+    made by Auharmazd.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: demon of wrath
+  assigned_to:
+  - fig:1
+  basis: A footnote explicitly identifies Aeshm as the demon of wrath.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: evil master/interlocutor
+  assigned_to:
+  - fig:2
+  basis: Aeshm enters Aharman's presence; a note calls Aharman Aeshm's master and
+    connects him with hell and the evil spirit.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:4
+  label: divine producer of protective things
+  assigned_to:
+  - fig:3
+  basis: Aeshm says Auharmazd produced three things in the world to which Aeshm can
+    do nothing.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fragment across limbs
+  literal_form: A fragment laid across the limbs of a dead body
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: world
+  literal_form: The world into which Aeshm refuses to go
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three invulnerable things
+  literal_form: Three things produced in the world by Auharmazd, unnamed in this passage
+    except for the beginning of the first item
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: season-festival
+  literal_form: The season-festival, named by Aeshm as the first of the three things
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fragment placed across a corpse's limbs
+  summary: A brief instruction says that a fragment is to be laid across the limbs
+    of a body, with a consequence stated if the usage is not followed.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Aeshm's complaint before Aharman
+  summary: Aeshm rushes into Aharman's presence and says he will not enter the world
+    because Auharmazd has made three things there that he cannot affect; Aharman asks
+    him to identify them, and Aeshm begins with the season-festival.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Opposition of good creator and evil agents
+  taxonomy_refs:
+  - duality
+  basis: Aeshm, identified as a demon and agent of the evil spirit, complains to Aharman
+    that Auharmazd has produced things in the world that he cannot affect.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is fragmentary and only begins Aeshm's list of the three things.
+- id: motif:2
+  label: Protective sacred institution against demonic action
+  taxonomy_refs: []
+  basis: Aeshm states that three things made by Auharmazd prevent him from doing anything
+    to them, and the first named item is the season-festival.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: Only one item is partly given in the supplied passage; the remaining protective
+    things are outside the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XVII, 14-15; within lines 19666-19670
+  quote_or_summary: A fragment is to be laid across the limbs; if this usage is not
+    followed, they raise him again from the place where the body arrives at the ground.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter XVIII, 1; within lines 19676-19682
+  quote_or_summary: Revelation says Aeshm rushed into Aharman's presence and declared
+    that he would not go into the world because Auharmazd had produced three things
+    there to which he could do nothing.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: Chapter XVIII, 2; within lines 19684-19685
+  quote_or_summary: 'Aharman exclaimed thus: ''Say which are those three things.'''
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: Chapter XVIII, 3; within lines 19687-19688
+  quote_or_summary: 'Aeshm exclaimed thus: ''The season-festival'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short fragmentary quotation.
+- id: ev:5
+  type: note
+  locator: Footnote 4 to Chapter XVIII; within supplied line range
+  quote_or_summary: The note identifies Aeshm as the demon of wrath.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized note.
+- id: ev:6
+  type: note
+  locator: Footnote 5 to Chapter XVIII; within supplied line range
+  quote_or_summary: The note says Aeshm is the chief agent of the evil spirit in machinations
+    against mankind and rushes into his master's presence in hell to complain of his
+    difficulties.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extracted narrative is clear, but the passage is fragmentary and cuts
+    off as Aeshm begins listing the three things. No comparison claims were made because
+    the passage itself does not provide comparative evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy reference applied only where directly supported by the dualistic opposition in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l19666-l19710
+  passage_sha256=540fb880deb35866a9bcb86292b224ab0d55bf7ed9ca29e6b3d180a9cbc9608a
+

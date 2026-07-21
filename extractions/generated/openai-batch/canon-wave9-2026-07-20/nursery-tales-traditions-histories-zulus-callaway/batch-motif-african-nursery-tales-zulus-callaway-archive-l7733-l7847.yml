@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l7733-l7847
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: APPENDIX. / THE HONEY-BIRD. / INHLAMVU. / THE HONEY-BIRD.; lines 7733-7847
+  start: '7733'
+  end: '7847'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes how the honey-bird leads people to bees by crying,
+    chirping, settling, and indicating direction. A person follows it, finds bees
+    entering near a tree, digs out honey, and leaves young bees or comb for the bird,
+    which may guide him again. Women may also follow the bird and return with honey.
+    The passage then gives practical cautions about snakes in bee holes, careful digging
+    that preserves the bee entrance, and testing with a stick before taking honey.
+  language: English translation with Zulu text present in the supplied passage
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The honey-bird cries or chirps, moves ahead, becomes quiet, and indicates
+    the direction of the bees while the person responds and follows.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The person recognizes the bees when they are seen entering at the foot of
+    a tree and draws near.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the person reaches the place, the bird waits nearby and looks on while
+    the person digs out the bees and takes honey.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The person leaves young bees for the bird and puts comb on a stick so that
+    it may eat; the bird may call the person again another day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the honey-bird eats young bees that can fly rather than the
+    comb, and that giving it honey is said to make it lose its voice.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A woman may follow the honey-bird, call another woman, and return with honey.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A snake may be in the bee hole, and people can be bitten while taking out
+    honey; an imamba bite is described as fatal at once.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A wise digger avoids damaging the bees' entrance, digs at the side, removes
+    the comb through a separate opening, and closes the new opening with a stone.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Before digging, a stick is put into the mouth of the hole to test for a snake;
+    if bees walk on the stick, the man says there is a snake, and either leaves or
+    breaks the hole open to see clearly.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: honey-bird / Inhlamvu
+  description: A bird that calls, chirps, settles, points out bees, waits while honey
+    is taken, and receives young bees or comb.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: human honey gatherer
+  description: A person who follows the honey-bird, marks the bees, digs out honey,
+    rewards the bird, and may test the hole for snakes.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: bees / swarm
+  description: Bees enter near the foot of a tree, provide honey and young bees, and
+    may walk on a test-stick when a snake is present.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: snake / imamba or other snake
+  description: A snake may be inside the bee hole and may bite the honey gatherer;
+    the imamba is singled out as immediately fatal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:5
+  name_or_label: women honey gatherers
+  description: A woman can follow the bird, call another woman, and return with honey.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: animal guide
+  assigned_to:
+  - fig:1
+  basis: The bird calls, moves ahead, settles, and indicates the direction of the
+    bees.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: follower and honey extractor
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: Humans follow the bird and obtain honey from the bees it indicates.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:3
+  label: reward recipient
+  assigned_to:
+  - fig:1
+  basis: The gatherer leaves young bees and comb for the bird, after which it may
+    call again.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hidden honey source and sign-bearing swarm
+  assigned_to:
+  - fig:3
+  basis: The bees mark the location of honey by entering the tree hole, and their
+    movement on a stick is used to infer a snake's presence.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:5
+  label: hidden danger in the bee hole
+  assigned_to:
+  - fig:4
+  basis: The snake may be in the hole and bite the person taking honey.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:6
+  label: prudent digger
+  assigned_to:
+  - fig:2
+  basis: The wise man preserves the bee entrance, digs at the side, closes the opening,
+    and tests for snakes with a stick.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: honey-bird as guide
+  literal_form: Bird that calls, chirps, settles, and points out the bees
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: honey and young bees as obtained food and bird payment
+  literal_form: Honey, comb, and young bees left for the bird
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: tree-foot bee entrance
+  literal_form: Bees entering at the foot of a tree
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: snake in the hole
+  literal_form: Snake or imamba hidden in the bee hole
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: testing stick
+  literal_form: Stick put into the mouth of the hole before digging
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Honey-bird guides the gatherer to bees
+  summary: The honey-bird cries, chirps, moves ahead, settles, and indicates the direction
+    of bees; the person follows and identifies bees entering near the foot of a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Honey is taken and the bird is fed
+  summary: The gatherer reaches the place, the bird waits nearby, the bees are dug
+    out, honey is taken, and young bees or comb are left for the bird so it may eat
+    and call again another day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Women follow the honey-bird
+  summary: A woman, when approached by the bird while digging, calls another woman;
+    they follow it and return with honey.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Snake danger and careful honey extraction
+  summary: The passage describes the risk of snakes in bee holes, the danger of bites,
+    careful methods for preserving bee entrances, and a stick-test used before digging.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Animal guide to a hidden food source
+  taxonomy_refs: []
+  basis: The honey-bird repeatedly signals, moves ahead, and indicates where bees
+    and honey are located, and humans follow it to obtain honey.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No exact matching taxonomy reference was supplied for an animal guide
+    to honey or hidden food.
+- id: motif:2
+  label: Reciprocal feeding after animal assistance
+  taxonomy_refs: []
+  basis: After the bird guides the gatherer to honey, the gatherer leaves young bees
+    or comb for the bird, and the bird may call again on another day.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage presents this as practical reciprocity rather than explicitly
+    sacred exchange.
+- id: motif:3
+  label: Hidden serpent danger during extraction of a valued resource
+  taxonomy_refs:
+  - serpent
+  basis: The bee hole may contain a snake, including an imamba, and the gatherer can
+    be bitten while reaching for the comb.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: The serpent element is embedded in practical honey-gathering instruction,
+    not a separate mythic episode.
+- id: motif:4
+  label: Prudent knowledge for safe approach to a hidden place
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts careful practices—preserving the bee entrance, closing
+    the side opening, and testing with a stick—with dangerous extraction from an unseen
+    hole.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is primarily technical or customary instruction; the wisdom motif
+    reading should be reviewed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7733-7847, opening guidance sequence
+  quote_or_summary: The honey-bird cries or chirps, settles ahead, becomes silent,
+    and points in the direction of the bees while the person responds and follows.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 7733-7847, first paragraph
+  quote_or_summary: The person sees bees entering at the foot of a tree; the bird
+    waits nearby and looks on while the person digs out the bees and takes honey.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: lines 7733-7847, first and second paragraphs
+  quote_or_summary: The gatherer leaves young bees and comb on a stick for the bird;
+    the passage says the bird eats young bees rather than comb and may call again
+    another day, while honey given to it is said to make it lose its voice.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 7733-7847, thorn-country paragraph
+  quote_or_summary: In thorn-country, a woman may follow the honey-bird, call another
+    woman, and return with honey.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: lines 7733-7847, snake danger paragraph
+  quote_or_summary: A snake may be in the bee hole; people are frequently bitten while
+    taking out honey, and an imamba bite is said to cause immediate death.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: lines 7733-7847, careful digging paragraph
+  quote_or_summary: A wise man digs from the side, avoids injuring the bees' entrance,
+    removes comb through a new opening, and closes that opening with a stone.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+- id: ev:7
+  type: summary
+  locator: lines 7733-7847, final paragraph
+  quote_or_summary: Before digging, a stick is placed into the hole to test for a
+    snake; if bees walk on it, the man says there is a snake and either leaves or
+    opens the hole fully to see what he is doing.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are evident
+    at the passage level, but several are practical/customary rather than explicitly
+    mythic; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage contains Zulu text and English translation; this extraction relies on the supplied English translation and source metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l7733-l7847
+  passage_sha256=0f1499a4ba6d0dda35798a56c2935f38155c99d64d7590ac0681458fdf8bd49c
+

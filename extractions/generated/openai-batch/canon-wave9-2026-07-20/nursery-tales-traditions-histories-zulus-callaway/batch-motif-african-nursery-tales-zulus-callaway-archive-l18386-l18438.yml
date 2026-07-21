@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l18386-l18438
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UNANANA-BOSELE. / I2ISGANEKWANE. / THE WISE SON OF THE KING. / IZINCANEKWANE.;
+    lines 18386-18438
+  start: '18386'
+  end: '18438'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: It is a prodigy.
+  summary: A group of young girls go to their river pool to bathe and sport. One young
+    child emerges and calls attention to the sudden swelling of her breasts. The maidens
+    bring her to the king, her father. The king summons men and old men to consider
+    whether the event is disease or something unprecedented. The council says they
+    have never known such a thing and calls it a prodigy. The king orders that the
+    child depart from her home.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The girls have a pool in the river where they bathe and go there at noon to
+    sport in the water.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One young child goes into the pool with the others and later stands on the
+    bank calling the maidens to look at her.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The young child says that her breasts are swollen and as large as a woman’s
+    or as large as those of the maidens.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The maidens return home to the king, their father, and report what happened
+    at the pool.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The king summons men or old men and asks them to consider whether the event
+    is disease and whether they have ever seen such a thing before.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The council says they have never known such a thing and calls it a prodigy.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The king orders that the child depart from her home among them.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young child of the king
+  description: A young child whose breasts suddenly become as large as a woman’s after
+    she goes into the pool.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: king, father of the child
+  description: The father to whom the maidens report the child’s condition; he summons
+    the men and orders the child to depart.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: maidens
+  description: Companions who bathe at the pool, witness the child’s condition, and
+    bring her to the king.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: men or old men of the council
+  description: Men summoned by the king to consider the child’s condition; they state
+    that it is unprecedented and a prodigy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: royal father
+  assigned_to:
+  - fig:2
+  basis: The maidens come home to the king, their father, and he is described as the
+    one whose child she is.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: prodigious child
+  assigned_to:
+  - fig:1
+  basis: The child undergoes an unusual bodily change which the council calls a prodigy.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: witnessing companions
+  assigned_to:
+  - fig:3
+  basis: The maidens bathe with the child, see the change, and report it to the father.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: deliberating authority
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: The king asks the men to consider the matter, and the council answers with
+    its judgment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: river pool
+  literal_form: pool in the river where the girls bathe and sport
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: suddenly swollen breasts
+  literal_form: the young child’s breasts becoming as large as a woman’s
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: council judgment of prodigy
+  literal_form: the council’s statement that the event is unprecedented and a prodigy
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: bathing at the river pool
+  summary: The maidens and the young child go to their river pool, undress, enter
+    the water, and sport there.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: discovery of the child’s bodily change
+  summary: The young child comes out of the pool, stands on the bank, and calls the
+    maidens to see that her breasts have swollen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: report to the king
+  summary: The maidens return to the king, their father, and describe the unusual
+    change that followed the child’s time in the pool.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: council deliberation and expulsion order
+  summary: The king summons men or old men to consider the matter. They call it a
+    prodigy, and the king orders the child to depart from her home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: miraculous or prodigious child
+  taxonomy_refs:
+  - miraculous_child
+  basis: A very young royal child undergoes an extraordinary, unprecedented bodily
+    change, and the council explicitly calls the event a prodigy.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the cause of the change, and the larger tale
+    continues beyond the supplied excerpt.
+- id: motif:2
+  label: departure after ominous transformation
+  taxonomy_refs:
+  - departure
+  basis: After the child’s unusual transformation is judged a prodigy, the king orders
+    her to leave her home among the group.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The excerpt ends during the king’s speech, so the full terms and consequences
+    of the departure are not visible.
+- id: motif:3
+  label: water-associated transformation
+  taxonomy_refs: []
+  basis: The visible change is discovered immediately after the child has entered
+    and emerged from the river pool with the maidens.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage shows sequence, not explicit causation; it does not state
+    that the water caused the transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18386-18398
+  quote_or_summary: The girls have their own pool in the river; at noon they go there,
+    take off their dresses, enter the pool, and sport in the water.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: quote
+  locator: lines 18399-18409
+  quote_or_summary: "“Come out, and see what is the matter with me. Look, my breasts
+    are swollen, as large as a woman’s, as big as yours too, ye maidens.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:3
+  type: summary
+  locator: lines 18410-18421
+  quote_or_summary: The maidens leave the pool, return to the king their father, and
+    tell him that after sporting in the water the child’s breasts were seen to be
+    very large.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief summary.
+- id: ev:4
+  type: summary
+  locator: lines 18422-18433
+  quote_or_summary: The king calls for the men and asks them to consider whether the
+    child’s condition is disease and whether such a thing has ever been seen before
+    in so young a child.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief summary.
+- id: ev:5
+  type: quote
+  locator: lines 18434-18436
+  quote_or_summary: "“No; we have never known of such a thing. It is a prodigy.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:6
+  type: quote
+  locator: lines 18437-18438
+  quote_or_summary: "“Let her depart from her home amongst us.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied excerpt appears to begin after a heading and may be truncated
+    at the end of the king’s speech. Literal extraction is fairly clear, but motif
+    interpretation is limited by the excerpt boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. No external comparison claims were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l18386-l18438
+  passage_sha256=5a4f0e895e1ae7f7ec2c316e2b29094e32cacb8f88526d1e85ac30055377ad06
+

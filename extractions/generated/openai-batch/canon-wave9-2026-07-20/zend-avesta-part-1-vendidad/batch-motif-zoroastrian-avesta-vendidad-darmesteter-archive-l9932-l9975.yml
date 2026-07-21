@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l9932-l9975
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD VIII. / FARGARD VIII. IO5 / I06 VENDIDAD. / FARGARD VIII. 107; lines
+    9932-9975
+  start: '9932'
+  end: '9975'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A repeated question-and-answer sequence describes how, as the good waters
+    reach successive body parts, the Druj/Dru^ Nasu rushes to another body part, moving
+    from the back through right-left paired parts and then to the sexual parts. The
+    excerpt ends mid-sentence with a reference to an unclean one.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is framed as repeated questions addressed to a holy one, followed
+    by answers from Ahura Mazda.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: obs:2
+  text: When the good waters reach the back, the Druj/Dru^ Nasu is said to rush upon
+    the right nipple.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sequence continues from right nipple to left nipple, from left nipple
+    to right rib, and from right rib to left rib.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The sequence continues from left rib to right hip, from right hip to left
+    hip, and from left hip to the sexual parts.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: After the back, the named body locations are arranged in right-left pairs
+    for nipples, ribs, and hips.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The final clause begins to mention an unclean one but is incomplete in the
+    supplied passage.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda / Holy One
+  description: The figure who answers the repeated questions; the questions are addressed
+    to a holy one immediately before Ahura Mazda answers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Druj/Dru^ Nasu
+  description: A named entity in the passage that repeatedly rushes upon successive
+    body parts as the good waters reach prior body parts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: divine respondent
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda is repeatedly introduced as the one who answers the questions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: rushing Nasu entity
+  assigned_to:
+  - fig:2
+  basis: The passage repeatedly states that the Nasu rushes upon specified body parts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: good waters
+  literal_form: Waters described as good, reaching successive body parts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: right-left body-part sequence
+  literal_form: Right nipple, left nipple, right rib, left rib, right hip, left hip,
+    then sexual parts.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Progression of good waters and the Nasu
+  summary: In a ritual question-and-answer sequence, the good waters reach successive
+    body parts, and Ahura Mazda identifies the next body part upon which the Nasu
+    rushes, progressing from the back through paired right-left locations to the sexual
+    parts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Water purification displacing impurity across the body
+  taxonomy_refs: []
+  basis: The passage repeatedly links the arrival of good waters at one body part
+    with the Nasu rushing to another body part.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a ritual instruction sequence rather than a complete narrative
+    myth.
+- id: motif:2
+  label: Right-left paired bodily progression
+  taxonomy_refs:
+  - duality
+  basis: The body-part sequence alternates right and left nipples, ribs, and hips
+    before reaching the sexual parts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The right-left alternation is explicit, but the passage does not state
+    an abstract doctrine of duality.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9932-9942
+  quote_or_summary: "“When the good waters reach the back,” Ahura Mazda answers that
+    the Nasu rushes “upon the right nipple.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: 9943-9966
+  quote_or_summary: 'The sequence continues: water reaching the right nipple leads
+    the Nasu to the left nipple; from left nipple to right rib; from right rib to
+    left rib; and from left rib to right hip.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9967-9975
+  quote_or_summary: The sequence continues from right hip to left hip, then from left
+    hip to the sexual parts; the supplied excerpt ends with an incomplete conditional
+    about the unclean one.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited to the supplied passage. No external comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage text contains OCR/transliteration variants for the name rendered here cautiously as Druj/Dru^ Nasu.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l9932-l9975
+  passage_sha256=371c21b25696397a5fb556d6b00b6a06095f3c010c6d2dbabe76456f174f2b3a
+

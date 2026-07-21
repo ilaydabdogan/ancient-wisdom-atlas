@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l591-l700
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: ERRATA / ERRATA / CHAPTER   I / LAND   AND    PEOPLE; lines 591-700
+  start: '591'
+  end: '700'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the geography, climate, vegetation, fauna, and contrasts
+    of Iran, then connects those natural contrasts to an ancient cosmogony in which
+    Urmuzd creates a benign earth for the First Man and First Ox, before Ahriman intrudes
+    and alters the world with gloom and seasonal difference.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Iran is presented as the chief scene of the Shahnama and is geographically
+    bounded by steppes, seas, rivers, and neighboring river valleys.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The land is described as a lofty, mostly rainless tableland with mountain-ranges,
+    central salt or dust desert, winter snow on higher hills, underground water-courses,
+    and encroaching dust and sands.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that some lower plains and depressions may once have formed
+    lakes resembling an inland sea, and identifies Sistan with an ancient lake-country
+    tradition.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The climate includes clear skies for much of the year, winter snow, heavy
+    spring thunderstorms, pestilential desert blasts, fertile wooded western and northern
+    regions, semitropical Mazandaran, and tropical southern coast valleys.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Animals are distributed by habitat: onagers and antelope near salt-deserts,
+    wild sheep and ibex in mountains, birds in highlands and reclaimed tracts, wild
+    swine, lions, tigers, deer, buffalo, reptiles, and domestic animals across the
+    country.'
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Iran is described as a land of sharp contrasts, including heat and cold, level
+    ground and steep ascent, fertility and desolation, irrigation and dust.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says that Iran’s natural characteristics find expression in the
+    ancient cosmogony of its people.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Urmuzd, called the Good Principle, creates earth as a lovely plain with mild
+    radiance, temperate airs, fresh sweet waters, and harmless vegetation.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The First Man and the First Ox dwell in peace and happiness in the created
+    scene.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Ahriman, called the Evil Principle, breaks into the fair scene; all changes,
+    gloom mingles with light, and seasonal difference begins.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Urmuzd
+  description: Named as the Good Principle who created the earth in the summarized
+    cosmogony.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:2
+  name_or_label: Ahriman
+  description: Named as the Evil Principle who broke into the fair scene and caused
+    change.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:3
+  name_or_label: First Man
+  description: A primordial human figure dwelling in peace and happiness in the created
+    earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: First Ox
+  description: A primordial ox dwelling in peace and happiness in the created earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Good Principle and creator
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Urmuzd as the Good Principle and says he created earth
+    as a lovely plain.
+  evidence_refs:
+  - ev:7
+- id: role:2
+  label: Evil Principle and disruptive intruder
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Ahriman as the Evil Principle and says he broke into
+    the fair scene, after which all changed.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: primordial peaceful dweller
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The First Man and First Ox are said to have dwelt in peace and happiness
+    in the created world.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: water
+  literal_form: snow-water, underground water-courses, former lakes or inland sea,
+    and fresh sweet waters in the cosmogonic earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: mountain
+  literal_form: mountain-ranges and higher hills that divide the tableland, intercept
+    rainfall, and hold winter snow
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: light and gloom
+  literal_form: mild perpetual radiance in the created earth and gloom mingling with
+    light after Ahriman’s intrusion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: benign vegetation
+  literal_form: smooth and harmless vegetation in the created earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Geographical survey of Iran
+  summary: Iran is described by its boundaries, tableland, mountain-ranges, central
+    deserts, water management, former lake regions, climate, and fertile or tropical
+    zones.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Habitats and animals of Iran
+  summary: The passage lists wild and domestic animals by region and habitat, including
+    desert, mountain, highland, western slope, Mazandaran, and general countrywide
+    fauna.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Cosmogonic creation and disruption
+  summary: Urmuzd creates a peaceful, radiant, well-watered earth where the First
+    Man and First Ox dwell; Ahriman then enters and changes the world, mixing gloom
+    with light and beginning seasonal difference.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: cosmic moral dualism
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts Urmuzd as the Good Principle with Ahriman as the Evil
+    Principle and describes light and gloom becoming mingled after Ahriman’s intrusion.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives a compressed summary of cosmogony rather than a full
+    mythic narrative.
+- id: motif:2
+  label: evil intrusion into primordial harmony
+  taxonomy_refs:
+  - chaos
+  basis: A peaceful created world is disrupted when Ahriman breaks into the fair scene
+    and all changes.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The classification as chaos is interpretive; the passage itself describes
+    change and disruption but does not use the term chaos.
+- id: motif:3
+  label: origin of seasonal difference
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage states that after Ahriman’s intrusion, the seasons’ difference
+    began.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The provided passage ends abruptly after this statement, so the full account
+    of seasonal change is incomplete.
+- id: motif:4
+  label: primordial first beings in a created world
+  taxonomy_refs: []
+  basis: The First Man and the First Ox dwell peacefully in the earth created by Urmuzd.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: No available taxonomy reference precisely matches this creation-and-first-beings
+    pattern.
+comparison_claims:
+- id: claim:1
+  claim: The summarized cosmogony can be cautiously compared to the duality motif
+    family because it explicitly opposes a Good Principle and an Evil Principle and
+    links their actions to cosmic conditions of light, gloom, and seasonal change.
+  claim_level: same_motif
+  target: duality motif family
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is based only on the passage’s brief summary; it does not establish
+    historical contact, broader textual parallels, or the full structure of the cosmogony.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 591-600
+  quote_or_summary: Iran is identified as the chief scene of the Shahnama and described
+    by northern, southern, eastern, and western boundaries; its present extent is
+    also summarized.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 601-620
+  quote_or_summary: The land is a lofty, mostly rainless tableland with mountain ranges,
+    central salt or dust desert, winter snow on higher hills, underground water-courses,
+    and advancing dust and sands.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 621-640
+  quote_or_summary: Earlier conditions may have included lakes resembling an inland
+    sea; Sistan is connected with ancient Drangiana, described as lake-country, and
+    with lake-related names.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 641-667
+  quote_or_summary: The passage describes clear skies, snow, thunderstorms, desert
+    blasts, fertile wooded regions, semitropical Mazandaran, and tropical watered
+    valleys along the southern coast.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 668-690
+  quote_or_summary: The passage lists wild animals by habitat, including onager, antelope,
+    argali, ibex, birds, swine, lions, tigers, deer, buffalo, reptiles, and chief
+    domestic animals.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 691-695
+  quote_or_summary: Iran is described as a land of sharp contrasts, and its natural
+    characteristics are said to find expression in the ancient cosmogony of its people.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 695-699
+  quote_or_summary: Urmuzd, the Good Principle, creates earth as a lovely radiant
+    plain with temperate airs, fresh sweet waters, and harmless vegetation; the First
+    Man and First Ox dwell there peacefully.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 699-700
+  quote_or_summary: Ahriman, the Evil Principle, breaks into the fair scene; all changes,
+    gloom mingles with light, and the seasons’ difference begins.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Geographic and cosmogonic details are explicit in the passage. Motif classification
+    is limited because the cosmogony is summarized briefly and the passage ends mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or motifs beyond those supported by the supplied passage were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l591-l700
+  passage_sha256=c4fc5975aef63531916b2932dccf1056141e1370d3f5050c8cbfba1591c13cbf
+

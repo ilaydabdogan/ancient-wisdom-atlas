@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.sufi-rumi-masnavi-whinfield-archive-l8882-l8904
+source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+passage_locator:
+  label: THE TREE OF LIFE. / THE YOUNG DUCKS. / MOSES AND PHARAOH. / THE M ASM AVI.;
+    lines 8882-8904
+  start: '8882'
+  end: '8904'
+  translation: 'Masnavi i Ma''navi: Teachings of Rumi'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“To illustrate the force of imagination or opinion, a story is told of a
+    trick played by boys upon their master.”"
+  summary: The passage frames a story as an illustration of the force of imagination
+    or opinion. Boys wanting a holiday repeatedly tell their teacher that he looks
+    pale and ill. Although he first denies being unwell, he eventually believes he
+    must be ill, returns home with the boys following, and tells his wife, who denies
+    that he looks pale.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A preceding fragment says an unnamed male figure would not relapse into vain
+    imaginations or be grieved by reproaches from foes.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage introduces the story as an illustration of the force of imagination
+    or opinion.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The boys want to obtain a holiday.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The sharpest boy proposes that each boy should condole with the master on
+    his alleged sickly appearance when he enters the school.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When the master enters, boys tell him that he looks pale and very ill.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The master initially says there is nothing wrong with him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After repeated assurances from the boys that he looks ill, the master is deluded
+    into imagining that he must really be ill.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The master returns to his house, has the boys follow him, tells his wife he
+    is unwell, and asks her to notice how pale he is.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The wife assures the master that he is not looking pale.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the boys
+  description: A group of schoolboys who want a holiday and play a trick on their
+    master.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the sharpest boy
+  description: The sharpest of the boys, who suggests the plan to comment on the master’s
+    alleged sickly appearance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the master / teacher
+  description: The boys’ master, who is told he looks pale and ill and later imagines
+    he must be ill.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: the master’s wife
+  description: The wife who assures the master that he is not looking pale.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: unnamed male figure in preceding fragment
+  description: An unnamed male figure said not to relapse into vain imaginations or
+    be grieved by foes’ reproaches.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: collective tricksters
+  assigned_to:
+  - fig:1
+  basis: The boys play a trick on their master in order to obtain a holiday.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: instigator of the trick
+  assigned_to:
+  - fig:2
+  basis: The sharpest boy suggests the plan that each boy should comment on the master’s
+    alleged sickly appearance.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: teacher / master
+  assigned_to:
+  - fig:3
+  basis: The story identifies him as the boys’ master and teacher.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deceived target
+  assigned_to:
+  - fig:3
+  basis: After repeated claims from the boys, he is deluded into imagining that he
+    is ill.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: contradicting witness
+  assigned_to:
+  - fig:4
+  basis: The wife tells him he is not looking pale.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: pale and sickly appearance
+  literal_form: The alleged paleness and ill appearance attributed to the master by
+    the boys.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Didactic framing of imagination or opinion
+  summary: The narrator introduces the story as an illustration of the force of imagination
+    or opinion.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Boys persuade the master he appears ill
+  summary: The boys, following the sharpest boy’s plan, tell the master that he looks
+    pale and ill; he first denies that anything is wrong.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: The master accepts the imagined illness at home
+  summary: After repeated assurances, the master imagines he must be ill, returns
+    home with the boys following, tells his wife he is unwell, and is told by her
+    that he does not look pale.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Repeated false assertion induces self-delusion
+  taxonomy_refs: []
+  basis: The boys repeatedly tell the master he looks ill until he imagines that he
+    must truly be ill.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage itself frames this as imagination or opinion, not as a named
+    external motif.
+- id: motif:2
+  label: Pupils trick teacher to obtain a holiday
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The boys wish to obtain a holiday and play a trick on their master through
+    coordinated false concern.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage supports trickery
+    and social-role reversal, but not an explicit mythic boundary-crossing frame.
+- id: motif:3
+  label: Corrective witness denies imagined condition
+  taxonomy_refs: []
+  basis: The wife contradicts the master’s belief by assuring him that he is not looking
+    pale.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is a narrative function within the episode rather than a clearly
+    independent motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8882-8883
+  quote_or_summary: "“He would not relapse one jot into vain imaginations, / Nor would
+    he be grieved by the reproaches of his foes.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 8884-8889
+  quote_or_summary: "“To illustrate the force of imagination or opinion, a story is
+    told of a trick played by boys upon their master.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 8889-8892
+  quote_or_summary: The boys want a holiday, and the sharpest boy suggests that each
+    boy should condole with the master on his alleged sickly appearance when he enters
+    the school.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8892-8894
+  quote_or_summary: As the master enters, one boy says he looks pale, another says
+    he looks very ill, and others continue similarly.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8894-8898
+  quote_or_summary: The master first says nothing is wrong, but after one boy after
+    another says he looks ill, he is deluded into imagining that he must really be
+    ill.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8898-8900
+  quote_or_summary: The master returns to his house, has the boys follow him, tells
+    his wife that he is not well, and asks her to notice how pale he is.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 8900-8901
+  quote_or_summary: The wife assures him that he is not looking pale.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative action and figures are explicit. Motif labels are candidate
+    analytic descriptions; taxonomy mapping to trickster_boundary is broad and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the passage does not itself name a comparative corpus or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sufi-rumi-masnavi-whinfield-archive__l8882-l8904
+  passage_sha256=adb498e5eecfb4cd5cf948d6622d202c9f0dfc3b239569d7b0b6a75d9fd6b264
+

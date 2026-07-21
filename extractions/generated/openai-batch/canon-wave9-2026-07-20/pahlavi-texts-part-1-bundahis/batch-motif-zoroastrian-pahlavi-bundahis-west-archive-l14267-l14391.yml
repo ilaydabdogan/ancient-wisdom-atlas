@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l14267-l14391
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: VIII, 18. / CHAPTERS I, 4-II, 2. 245 / Chapter II. / CHAPTER 11,8-11. 249;
+    lines 14267-14391
+  start: '14267'
+  end: '14391'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives purity and legal rulings about dead matter in animals,
+    forests, firewood, doors, and water. It defines penalties for throwing a corpse
+    into water, measures the extent of water pollution, and states duties and procedures
+    for removing a corpse from water, with differing opinions from named authorities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A flock containing a sheep that has eaten dead matter, a forest containing
+    a tree mingled with dead matter, and a firewood stand containing a greasy stick
+    of firewood are treated as affected by contamination.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Afarg states that such a flock and forest should not be made fruitful, and
+    that the affected firewood is useless.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A door struck by a corpse is subject to rules of discard or non-use; authorities
+    agree about discarding a town or city door, differ about a mostly closed door,
+    and agree that other doors are not to be discarded.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Doors are ranked for reuse: a chief apartment door may become a menstruation-place
+    door, that door may become a depository-of-the-dead door, and a depository-of-the-dead
+    door is fit for no later purpose.'
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person who sinfully throws a corpse into water is described as worthy of
+    death; simultaneous and separate throwings are counted differently for sin reckoning.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage measures water pollution from dead matter by steps of three feet
+    in different directions and depths.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When a man finds a corpse in water and can bring it out without injury, abandoning
+    it is not allowed; named authorities differ on cases involving injury and on the
+    penalty for failure.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: For removing the corpse, the man is to lay aside clothing, bring out what
+    he is first and best able to bring, use the breadth of the water if possible and
+    otherwise the length, and not wait for showing it to a dog and two men.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Afarg
+  description: Named authority who gives a ruling about contaminated flock, forest,
+    and firewood.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gogoyasp
+  description: Named authority who gives opinions about discarding a mostly closed
+    door and about failure to remove a corpse from water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: Soshyans
+  description: Named authority who gives opinions about a mostly closed door and about
+    whether injury allows not bringing a corpse out of water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: Kushtano-buce
+  description: Named authority who says that even in case of injury it is not allowable
+    to abandon the corpse in water without bringing it out.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: person who throws a corpse into water
+  description: Anonymous offender described as acting through sinfulness and incurring
+    a death-worthy penalty.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: man who finds a corpse in water
+  description: Anonymous man who encounters a corpse in water and is subject to rules
+    for bringing it out.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: cited ritual-legal authority
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage names these figures and reports their rulings or opinions with
+    forms such as 'said.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:2
+  label: death-worthy offender
+  assigned_to:
+  - fig:5
+  basis: The anonymous person throws a corpse into water and is said to be worthy
+    of death on the spot.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: obligated corpse remover
+  assigned_to:
+  - fig:6
+  basis: The man who finds the corpse in water is required to bring it out when able,
+    and specific removal procedures are given.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: corpse or dead matter
+  literal_form: corpse; dead matter
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:2
+  label: water as polluted medium
+  literal_form: water into which dead matter or a corpse is thrown or in which a corpse
+    lies
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:3
+  label: contaminated tree
+  literal_form: tree with which dead matter is mingled
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: greasy firewood
+  literal_form: stick of firewood with which grease is mingled
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: corpse-struck door
+  literal_form: door on which a corpse impinges
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Rulings on dead matter in flock, forest, and firewood
+  summary: The passage presents cases where dead matter affects a sheep in a flock
+    and a tree in a forest, and where grease affects firewood; Afarg rules on their
+    allowed use.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rulings on doors struck by a corpse
+  summary: A corpse-struck door is evaluated according to type, with different treatment
+    for town or city doors, mostly closed doors, and other doors, followed by a hierarchy
+    of possible reuse.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Corpse thrown into water
+  summary: A person who throws a corpse or dead matter into water incurs severe sin,
+    and the resulting water pollution is measured by direction, depth, and type of
+    water.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Removal of corpse from water
+  summary: A man who finds a corpse in water is required to remove it when able; authorities
+    differ about injury cases, and the passage gives practical steps for removal.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: dead matter contaminates living or useful things
+  taxonomy_refs: []
+  basis: Dead matter affects a sheep, a tree, doors, and water, producing restrictions
+    on fruitfulness, reuse, or purity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a ritual-legal pattern rather than a narrative mythic episode.
+- id: motif:2
+  label: measured spread of corpse pollution in water
+  taxonomy_refs: []
+  basis: The passage gives directional and depth measurements for pollution in water
+    and describes proportional removal of polluted standing water.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The technical measurements are partly explained by translator notes, and
+    the underlying Pahlavi wording is described as obscure in one note.
+- id: motif:3
+  label: obligation to remove a corpse from water
+  taxonomy_refs: []
+  basis: A man who can remove a corpse from water must not abandon it; failure incurs
+    named penalties, and procedures are prescribed.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: Authority opinions differ in injury cases.
+- id: motif:4
+  label: hierarchical downgrade of corpse-affected thresholds
+  taxonomy_refs: []
+  basis: Doors are classified by social or ritual gravity, and a door from a more
+    pleasant place can be reused for a more grievous place, while the depository-of-the-dead
+    door cannot be reused.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The motif is inferred from a legal hierarchy of reuse, not from a narrative
+    sequence.
+comparison_claims:
+- id: claim:1
+  claim: Translator notes connect the greasy-firewood and corpse-struck-door rulings
+    with similar rules in Pahlavi Vendidad V, 14.
+  claim_level: same_function
+  target: Pahlavi Vendidad V, 14 rules on greasy firewood and corpse-contact doors
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on translator citation notes in the passage,
+    not on a direct side-by-side quotation of the Vendidad text here.
+- id: claim:2
+  claim: Translator notes connect the corpse-in-water and water-pollution rules with
+    Vendidad passages on removing dead matter and measuring water pollution.
+  claim_level: same_function
+  target: Vendidad VI-VII rules on corpses or dead matter in water
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides citations and brief explanatory notes only; it
+    does not reproduce the parallel passages in full.
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§73"
+  quote_or_summary: 'A flock with a sheep that has eaten dead matter, a forest with
+    a tree mingled with dead matter, and a firewood stand with greasy firewood are
+    judged by Afarg: the flock and forest should not be made fruitful, and the firewood
+    is useless.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: "§74"
+  quote_or_summary: For a door on which a corpse impinges, a town or city door is
+    to be discarded; Gogoyasp says discarding a mostly closed door is proper, while
+    Soshyans says it is not; other doors are not to be discarded.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: "§75"
+  quote_or_summary: A chief apartment door may be used for a menstruation place, that
+    door may be used for the depository of the dead, and the depository-of-the-dead
+    door is fit for no purpose; the more pleasant may serve for the more grievous.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: "§76"
+  quote_or_summary: One who sinfully throws a corpse into water is worthy of death
+    on the spot; one or ten corpses thrown at one time count as one death-worthy sin,
+    while separate acts count separately.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: "§77"
+  quote_or_summary: 'The extent of water pollution from thrown dead matter is measured
+    in steps of three feet: different distances are specified for advancing water,
+    passed-over water, water alongside, depth, and water pouring over the dead matter.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: "§78 and note"
+  quote_or_summary: For great standing water, the polluted proportion is to be carried
+    away with the dead matter; the translator notes that the sentence is obscure and
+    explains this as drawing off a measured quantity of polluted water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: "§§79-82"
+  quote_or_summary: If a man finds a corpse in water and can bring it out without
+    injury, he may not abandon it. Soshyans allows non-removal when there is injury
+    but assigns Tanapuhar sin when there is no injury; Kushtano-buce forbids abandonment
+    even with injury and assigns death-worthiness for failure; Gogoyasp gives intermediate
+    penalties.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: "§§83-84"
+  quote_or_summary: When removing the corpse, clothing is to be laid aside because
+    it becomes polluted; the remover should bring out what he can first and best,
+    use the breadth of the water if able and otherwise the length, and not wait for
+    showing it to a dog and two men.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: Notes to §§73-74
+  quote_or_summary: Translator notes say Afarg's statement about greasy firewood is
+    found in Pahlavi Vendidad V, 14, and that the same rule about the door is mentioned
+    in Pahlavi Vendidad V, 14.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized citation note.
+- id: ev:10
+  type: note
+  locator: Notes to §§76-79
+  quote_or_summary: Translator notes compare the water and corpse rules with Pahlavi
+    Vendidad VII, 66; Vendidad VI, 80; Vendidad VI, 65-71; and Pahlavi Vendidad VI,
+    64, including the note that bringing a corpse out is a good work and leaving it
+    is a sin of the same amount.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized citation note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal legal-purity content is clear. Motif labels are candidate abstractions
+    from ritual rulings and should be reviewed. Comparison claims rely on the translator's
+    notes rather than full parallel passages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy refs were assigned because the passage is primarily ritual-legal and does not directly support the listed mythic motif families.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l14267-l14391
+  passage_sha256=b03fde29dbcaaad669690b2dad046e86f4f223e76f62bc30c0350a54ed8c59be
+

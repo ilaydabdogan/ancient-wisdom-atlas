@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21051-l21137
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 423 / OF THE OLD NORTHMEN. 425 / OF THE OLD NORTHMEN.
+    427 / OF THE OLD NORTHMEN. 429; lines 21051-21137
+  start: '21051'
+  end: '21137'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses Old Norse and Icelandic calendar reckoning, including
+    intercalation, the public role of the law-speaker, Thorstan Swart’s dream and
+    proposal for adding a week to the year, Ari’s correction of that system, resistance
+    to the Christian calendar in Norway, the replacement or alignment of pagan festivals
+    with Christian feasts, and the modern Icelandic popular calendar as preserving
+    pastoral and agricultural seasonal divisions.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The law-speaker’s duty is described as declaring the calendar for the year
+    at the public Moot.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The month-name Tway-month or Tvi-manudr is applied to a summer or Midsummer
+    month, and the passage suggests that a month may have been intercalated when the
+    cycle drifted from traditional month placements.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Icelanders are described as having changed a 360-day year to a 364-day
+    year and then correcting it further.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thorstan Swart dreams that he is on the Moot awake while others sleep, after
+    which he sleeps and they awaken.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Oswif the Wise tells Thorstan that he will make a speech at the Moot that
+    will make every sleeper awake.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Thorstan proposes adding a seven-day week to the year every seventh year.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Ari amends Thorstan’s reckoning by changing when the added week is applied
+    in relation to leap-years in the Christian official reckoning.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Thorstan is noted in the Sagas as the man who invented the Summer-Eke.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The New Christian Calendar is said to have produced resistance among heathen
+    in Norway, with thralls opposing the Friday fast and farmers opposing the Sunday
+    holiday.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The old year is described as divided into work seasons, including fencing,
+    sowing, fishing, hay, harvest, and slaughtering seasons.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:11
+  text: Great heathen festivals are described as placed between work seasons and associated
+    with games, legal proceedings, inaugurations, mirth, and merry-making.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:12
+  text: Christian feasts near older pagan festivals are described as taking the place
+    of those older festivals.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:13
+  text: The modern Icelandic popular calendar is presented as preserving points of
+    the old pastoral and agricultural year’s round, beginning with Yule Night and
+    reckoning periods by weeks, seasons, and named months.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:14
+  text: Summer and Winter are described as equal halves of the year in the Icelandic
+    popular calendar.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: law-speaker
+  description: An official whose duty was to declare the calendar for the year at
+    the public Moot.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Thorstan Swart
+  description: A man described as son of Hallstan; he has the Moot dream, proposes
+    adding a seven-day week, and is remembered as inventor of the Summer-Eke.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Oswif the Wise
+  description: A wise man consulted by Thorstan; he interprets the dream as pointing
+    to a speech that will awaken sleepers.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ari
+  description: An authority in the passage who amends Thorstan’s calendar reckoning
+    in relation to the Christian official reckoning.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: thralls or labourers
+  description: A social group said to oppose the Friday fast because they objected
+    to working without food.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: farmers or masters
+  description: A social group said to oppose the Sunday feast and holiday because
+    they said they could not feed workers if the workers did not work.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Teutons
+  description: A collective group described as using solar months early and as having
+    a year divided into work seasons without a known weekly rest.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:4
+roles:
+- id: role:1
+  label: public calendar declarer
+  assigned_to:
+  - fig:1
+  basis: The passage states that the law-speaker declared the calendar for the year
+    at the public Moot.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dreamer and calendar reform proposer
+  assigned_to:
+  - fig:2
+  basis: Thorstan has the dream and then proposes adding a week of seven days to the
+    year every seventh year.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dream interpreter and adviser
+  assigned_to:
+  - fig:3
+  basis: Oswif interprets Thorstan’s dream as foretelling a Moot speech that will
+    awaken sleepers.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: calendar reckoning amender
+  assigned_to:
+  - fig:4
+  basis: Ari is said to mend the reckoning by changing the rule for adding the week.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: resisters of Christian weekly observances
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: Thralls oppose the Friday fast, and farmers oppose the Sunday feast and holiday.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: seasonal-calendar users
+  assigned_to:
+  - fig:7
+  basis: The Teutons are described as organizing the year by work seasons and lacking
+    the idea of a weekly rest.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Tway-month or Tvi-manudr
+  literal_form: A month-name applied to one of the summer months, the Midsummer month.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: public Moot
+  literal_form: The public assembly where the calendar is declared and Thorstan’s
+    predicted speech takes place.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: sleeping and waking dream image
+  literal_form: Thorstan is awake while others sleep, then he sleeps and they awaken.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: seven-day added week
+  literal_form: A week of seven days added to the year at stated intervals.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Summer-Eke
+  literal_form: The named calendrical addition or arrangement attributed to Thorstan
+    and amended by Ari.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Yule
+  literal_form: A festival period and calendar marker; in the modern calendar the
+    year begins with Yule Night and Yule lasts thirteen days.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: Summer and Winter halves
+  literal_form: The two equal halves of the year in the Icelandic popular calendar.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Public regulation of the year
+  summary: The passage describes the law-speaker declaring the year’s calendar at
+    the public Moot and discusses intercalation suggested by the Tway-month name.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thorstan’s dream and interpreted speech
+  summary: Thorstan dreams of a reversal of sleeping and waking at the Moot; Oswif
+    interprets the dream as foretelling a speech that will awaken sleepers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Proposal and amendment of the Summer-Eke
+  summary: Thorstan proposes adding a seven-day week to the year, and Ari later amends
+    the reckoning; Thorstan is remembered as inventor of the Summer-Eke.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Resistance to the Christian calendar
+  summary: The passage describes resistance in Norway to the Friday fast and Sunday
+    rest, contrasts Christian weekly observances with older Teutonic work seasons,
+    and says Christian feasts took the place of nearby older pagan festivals.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Icelandic popular year-round
+  summary: The modern Icelandic popular calendar is outlined from Yule Night through
+    named months, Summer, Midsummer, Winter, and Yule Fast, preserving pastoral and
+    agricultural seasonal reckoning.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal and agricultural year cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly organizes the year through work seasons, festivals,
+    named calendar periods, and the equal halves of Summer and Winter.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a calendrical and ethnographic pattern rather than a narrative
+    myth episode.
+- id: motif:2
+  label: dream interpreted as public reform
+  taxonomy_refs:
+  - wisdom
+  basis: Thorstan’s dream is interpreted by Oswif the Wise as predicting a speech
+    at the Moot, after which Thorstan proposes a calendar reform.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The wisdom element is limited to interpretation and advice in a historical-scholarly
+    anecdote.
+- id: motif:3
+  label: calendar invention or calendrical correction
+  taxonomy_refs: []
+  basis: Thorstan proposes an added week, Ari amends the reckoning, and Thorstan is
+    remembered as inventor of the Summer-Eke.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No provided taxonomy reference directly corresponds to calendrical intercalation
+    or technical calendar invention.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that Christian feasts falling near older pagan festivals
+    took the place of those older festivals in the calendar.
+  claim_level: same_function
+  target: Noel and Yule; Pasch and Easter; St. John’s Day and the Midsummer feast;
+    St. Michael’s mass and the Autumn festival
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to calendrical placement and festival function;
+    the passage does not establish shared myth narratives.
+- id: claim:2
+  claim: The passage describes direct conflict between the New Christian Calendar
+    and older heathen or Teutonic seasonal work patterns in Norway.
+  claim_level: historical_contact
+  target: New Christian Calendar and older heathen Norwegian or Teutonic seasonal
+    calendar practice
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a historical-social calendar comparison in editorial prose,
+    not a claim about motif transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 21051-21061
+  quote_or_summary: The law-speaker declares the year’s calendar at the public Moot;
+    Tway-month/Tvi-manudr is tied to the Midsummer month and possible intercalation;
+    older lunar months are contrasted with later solar months.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: 21062-21074
+  quote_or_summary: Thorstan Swart dreams he is awake at the Moot while others sleep,
+    then he sleeps and they awaken; Oswif the Wise interprets this as a Moot speech
+    that will awaken sleepers.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: 21074-21082
+  quote_or_summary: Thorstan proposes adding a seven-day week to the year every seventh
+    year; Ari amends the rule, and Thorstan is remembered as inventor of the Summer-Eke.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: 21083-21103
+  quote_or_summary: The New Christian Calendar causes resistance in heathen Norway;
+    thralls oppose the Friday fast, farmers oppose Sunday rest, old work seasons are
+    separated by festivals, and nearby Christian feasts take the place of pagan festivals.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: 21104-21137
+  quote_or_summary: 'The modern Icelandic popular calendar is said to preserve the
+    old pastoral and agricultural year: Yule Night begins the year, Yule lasts thirteen
+    days, named months and weeks are counted, Summer and Winter divide the year, and
+    Midsummer and Yule Fast mark the sequence.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; source metadata permits full text use.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is clear on calendrical practices and historical comparisons.
+    Motif assignments are partly broad because the passage is editorial and ethnographic
+    rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; taxonomy references were limited to available refs supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21051-l21137
+  passage_sha256=2035d13027389f72c166677db6508b0ef54a982407021160d9a186bd114ea510
+

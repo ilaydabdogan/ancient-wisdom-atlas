@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l22810-l22869
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: LOVE  CALL / THE    OMAHA   TRIBE / WAAN  NO.  2 / SOCIAL   LIFE; lines 22810-22869
+  start: '22810'
+  end: '22869'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: These songs were called wau'waan, "woman songs."
+  summary: The passage describes wau'waan, or “woman songs,” as songs composed by
+    men that represent a woman speaking of affection for a man, sometimes in violation
+    of social etiquette. Some songs describe an unhappy wife asking her lover to flee
+    with her to another tribe. The passage then introduces a song titled “WAIT” with
+    musical notation and syllabic text.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says these songs were withheld from the knowledge of women of
+    the better class.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The songs are called wau'waan, translated in the passage as “woman songs.”
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The songs were composed by men but represent a woman as the speaking voice.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The represented woman speaks of fondness for someone and thereby violates
+    social etiquette by disclosing personal liking for a young man.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Some songs refer to an uncongenial marriage relation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: In some songs, an unhappy wife asks her lover to flee with her to another
+    tribe.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that, in most of these songs, the man’s action is made
+    to originate with the woman.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The song introduced in this passage is identified as belonging to the wau'waan
+    class and is titled “WAIT.”
+  category: sequence
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: men composers
+  description: Men are described as the composers of the wau'waan songs.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: represented woman speaker
+  description: The songs represent a woman as speaking and disclosing fondness for
+    someone.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: young man
+  description: A young man is the object of the represented woman’s personal liking.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: unhappy wife
+  description: In some songs an unhappy wife is described as asking her lover to flee
+    with her.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: lover
+  description: The lover is addressed by the unhappy wife in the described song situation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: women of the better class
+  description: The passage says knowledge of these songs was withheld from women of
+    the better class.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: composer group
+  assigned_to:
+  - fig:1
+  basis: The passage states that the songs were composed by men.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: represented female speaking voice
+  assigned_to:
+  - fig:2
+  basis: The songs represent the woman as speaking.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: object of affection
+  assigned_to:
+  - fig:3
+  basis: The represented woman violates etiquette by speaking of her personal liking
+    for a young man.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: unhappy spouse requesting flight
+  assigned_to:
+  - fig:4
+  basis: The passage describes an unhappy wife begging her lover to fly with her to
+    another tribe.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: lover addressed in flight request
+  assigned_to:
+  - fig:5
+  basis: The lover is the addressee of the unhappy wife’s request.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: excluded audience
+  assigned_to:
+  - fig:6
+  basis: The passage states that knowledge of the songs was withheld from this group.
+  evidence_refs:
+  - ev:1
+symbols: []
+scenes:
+- id: scene:1
+  label: Description of wau'waan woman songs
+  summary: The passage describes a class of songs called wau'waan, composed by men
+    but voiced as women speaking about personal affection and related social constraints.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: scene:2
+  label: Unhappy wife asks lover to flee
+  summary: Within the described song type, an unhappy wife may ask her lover to flee
+    with her to another tribe because of an uncongenial marriage relation.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Introduction of the song “WAIT”
+  summary: The passage introduces a specific wau'waan song titled “WAIT,” followed
+    by musical notation and syllabic text.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: gendered song voice speaking forbidden affection
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The songs are withheld from certain women, composed by men, and represent
+    a woman speaking openly about personal liking in violation of social etiquette.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is ethnographic and social rather than mythic; the taxonomy
+    reference is only a broad fit because the text concerns restricted social knowledge,
+    not a mythic prohibition.
+- id: motif:2
+  label: lover-flight from unhappy marriage
+  taxonomy_refs:
+  - departure
+  basis: Some songs describe an unhappy wife asking her lover to flee with her to
+    another tribe.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a song scenario rather than a full narrative of
+    actual flight; the direction and outcome of the departure are not given.
+- id: motif:3
+  label: female agency assigned as origin of male action
+  taxonomy_refs: []
+  basis: The passage states that in most of these songs the man’s act is made to originate
+    with the woman.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a pattern in the song genre, not a developed mythic episode in
+    the provided passage.
+comparison_claims:
+- id: claim:1
+  claim: The unhappy-wife episode has the same general function as a lover-flight
+    or departure pattern, in which desire leads to leaving one social setting for
+    another.
+  claim_level: same_function
+  target: lover-flight / departure pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide a complete tale, outcome, or wider comparative
+    context; it only describes a recurring situation in the song genre.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22810-22869, opening prose
+  quote_or_summary: "“withheld from the knowledge of women of the better class”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 22810-22869, opening prose
+  quote_or_summary: "“These songs were called wau'waan, ‘woman songs.’ They were composed
+    by men yet they always represent the woman as speaking”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 22810-22869, opening prose
+  quote_or_summary: "“betraying her fondness for some one and thus violating social
+    etiquette by speaking of her personal liking for a young man”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 22810-22869, opening prose
+  quote_or_summary: "“They sometimes refer to uncongeniality in the marriage relation;
+    the unhappy wife begs her lover to fly with her to another tribe.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: 22810-22869, opening prose
+  quote_or_summary: "“In most of these songs the act of the man is made to originate
+    with the woman.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: quote
+  locator: 22810-22869, before song title
+  quote_or_summary: "“The following belongs to the wau'waan class of songs.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: 22810-22869, song heading and notation
+  quote_or_summary: The passage gives the title “WAIT,” marks it “Flowingly,” and
+    presents musical notation with syllabic text and a note that it was harmonized
+    by John C. Fillmore for piano interpretation.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The social and song-genre details are explicit, but motif assignments are
+    cautious because the passage is an ethnographic description with limited narrative
+    content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No listed taxonomy symbols are present in the passage; symbols array left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l22810-l22869
+  passage_sha256=d224803bbfa80b484068dcb1481997bd337e139c72207b26d62f53c2c9fc63da
+

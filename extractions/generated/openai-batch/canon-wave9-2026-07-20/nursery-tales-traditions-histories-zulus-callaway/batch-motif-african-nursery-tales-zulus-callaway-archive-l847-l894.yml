@@ -1,0 +1,295 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l847-l894
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: INTRODUCTION TO THE ZULU NURSERY TALES. / UHLAKANYANA. / PREFACE TO THE TALE
+    OF UTHLAKANYANA. / UHLAKANYANA.; lines 847-894
+  start: '847'
+  end: '894'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“his smallness is like its, and his cunning as great as its”"
+  summary: The passage explains that an encounter with a path-crossing being called
+    a wizard is taken as a bad sign for obtaining food. It then characterizes Uhlakanyana
+    as weasel-like in genus, smallness, and cunning; explains praise-names that associate
+    him with the weasel family and bravery; and interprets one praise-name as meaning
+    that he kills a man who despises him because he is small. Notes compare the path
+    omen with a hare-crossing omen elsewhere and explain a river/fords metaphor for
+    praise-name recitation.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: If someone meets the being crossing a path, the person no longer expects to
+    get food at the destination and says that they have met a wizard.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Uhlakanyana is compared to the weasel and described as resembling it in genus,
+    smallness, and cunning.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Bogconono and Mathlab'-indoda-i-s'-emi are described as praise-giving names
+    that set forth Uhlakanyana's bravery.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Bogconono is interpreted as meaning one of the weasel family, and Ogconono
+    is said to mean weasels.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Umathlab'-indoda-i-s'-emi is interpreted as meaning that Uhlakanyana stabs
+    a man first while the man despises him as small and infant-like, killing him before
+    the man acts against him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note says that in other countries it is considered a bad sign if a hare
+    crosses the way.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A note explains that language for helping someone cross a river or fords is
+    used for recounting praise-giving names, with fords used metaphorically for difficult
+    accomplishments.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Uhlakanyana / Uthlakanyana
+  description: A named figure described as weasel-like, small, cunning, and associated
+    with praise-giving names that set forth bravery.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unidentified path-crossing being called a wizard
+  description: A being encountered crossing a path; the encounter is described as
+    meeting a wizard and as a bad sign for obtaining food.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: weasel-like small cunning figure
+  assigned_to:
+  - fig:1
+  basis: The passage says Uhlakanyana is like the weasel and resembles it in smallness
+    and cunning.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: praise-named brave
+  assigned_to:
+  - fig:1
+  basis: The passage says his other names are praise-giving names that set forth his
+    bravery.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: underestimated attacker
+  assigned_to:
+  - fig:1
+  basis: One praise-name is interpreted as saying that he stabs and kills a man who
+    despises him for being small.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: ominous path-crosser
+  assigned_to:
+  - fig:2
+  basis: The path-crossing encounter leads to the expectation of not receiving food
+    and is called an encounter with a wizard.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: weasel identity
+  literal_form: weasel / weasel family
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: path-crossing omen
+  literal_form: a being crossing a path
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fords as difficult accomplishments
+  literal_form: river and fords used metaphorically in praise-name recitation
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Encounter with a path-crossing wizard
+  summary: A person who meets the being crossing a path treats the event as an encounter
+    with a wizard and expects not to receive food at the place being visited.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Characterization of Uhlakanyana through weasel comparison and praise-names
+  summary: Uhlakanyana is described as resembling a weasel in smallness and cunning;
+    his praise-names are explained as marking bravery, weasel-family identity, and
+    his ability to kill a man who underestimates him.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Explanation of praise-name river metaphor
+  summary: A note explains that praise-name recitation can be described through language
+    of helping someone cross a river or ford, with the fords standing for difficult
+    achievements.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ominous path-crossing encounter
+  taxonomy_refs: []
+  basis: The passage presents a path-crossing encounter with a being called a wizard
+    as a sign that the traveler will not obtain food.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The identity of the path-crossing being is unclear within the supplied
+    excerpt.
+- id: motif:2
+  label: Small cunning weasel-like figure
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Uhlakanyana is described as small and highly cunning like a weasel, and one
+    praise-name depicts him killing a man who despises him for that smallness.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage gives character traits and praise-name interpretation rather
+    than a full trickster episode; the taxonomy match is broad.
+- id: motif:3
+  label: Praise-name preserves brave deed or capacity
+  taxonomy_refs: []
+  basis: The passage states that Uhlakanyana's alternate names are praise-giving names
+    that set forth bravery, and the note explains praise-name recitation as recounting
+    names gained through great actions.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: This is an explanatory naming pattern rather than a narrative episode
+    in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage's bad-omen path-crossing encounter is cautiously comparable in
+    function to the note's statement that a hare crossing the way is considered a
+    bad sign in other countries.
+  claim_level: same_function
+  target: hare crossing the way as a bad sign in other countries, as cited in the
+    note to Thorpe
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note gives only a broad external parallel and does not establish
+    historical contact, common inheritance, or detailed narrative equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 847-854
+  quote_or_summary: A path-crossing encounter with the being leads the traveler to
+    say they have met a wizard and will no longer get food at the destination.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 856-863
+  quote_or_summary: Uhlakanyana is described as like the weasel, with smallness like
+    its and cunning as great as its.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief quotation/paraphrase.
+- id: ev:3
+  type: summary
+  locator: lines 865-876
+  quote_or_summary: Bogconono and Mathlab'-indoda-i-s'-emi are called praise-giving
+    names setting forth bravery; Bogconono is interpreted as one of the weasel family,
+    and Ogconono as weasels.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 877-882
+  quote_or_summary: Umathlab'-indoda-i-s'-emi is interpreted as meaning that he stabs
+    and kills a man first while the man despises him as very small or infant-like.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: line 884
+  quote_or_summary: A note says that in other countries it is considered a bad sign
+    if a hare crosses the way.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 886-893
+  quote_or_summary: A note explains ukuweza as helping to cross a river or fords,
+    and says this language is used for celebrating braves' praise-giving names, with
+    fords metaphorically referring to difficult accomplishments.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly introductory and explanatory, and its opening sentence
+    is fragmentary, making the identity of the path-crossing being uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and marked cautiously where interpretive.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l847-l894
+  passage_sha256=39802361add91a69ed7b7951ca898d846a284daa341c71337a73210cc7ace60d
+

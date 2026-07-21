@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l13735-l13862
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: VIII, 18. / CHAPTERS I, 4-II, 2. 245 / Chapter II. / CHAPTER 11,8-11. 249;
+    lines 13735-13862
+  start: '13735'
+  end: '13862'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual rules for pollution caused by death or dead matter
+    on elevated structures, trees, and vessels. It distinguishes when a corpse should
+    be moved, how pollution may pass to ground or containers, and how wine, oil, corn,
+    jars, and a serpent in a jar are treated under purity rules.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A built bridge, terrace roof, and trellised apartment are treated under related
+    liability rules; pollution can be conveyed downward when a limb or hair remains
+    on the borders, while digging up and re-spreading the area can make it clean.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: For a person dead by strangulation or seated upright, the instructions avoid
+    carrying the body down unless there is fear that it will fall; if movement is
+    needed, it is directed toward the side of risk or the actual place of falling.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A supplied note states that these rules aim to avoid disturbing the corpse
+    more than necessary while preventing additional ground pollution from a fall.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: For death on a tree or branch, the rules distinguish green and withered bark
+    or branches, fear of falling, and whether hair or a limb remains on the tree;
+    in specified cases the whole body is to be carried down.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A supplied note links the tree rules to preventing a corpse from defiling
+    more ground by falling, especially through the breaking of a dead branch.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When dead matter remains on the outside of a jar containing wine, the jar
+    is polluted and the wine is clean; when a person dies in the wine and no hair
+    or curl remains on the jar, the wine is polluted and the jar is not.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: For an oil jar, dead matter on the outside is treated as if it were inside
+    because the oil passes outward and inward; both jar and oil are polluted, and
+    drying does not make the jar fit for use.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A serpent in a wine jar makes both the jar and wine useless and polluted by
+    contamination.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: When corn is in a jar with a serpent, the jar is polluted while the corn is
+    generally clean, but the corn that includes or has been touched by the serpent
+    is to be removed and thrown away because the serpent's seed-touch may kill someone.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A supplied note defines nasai as a corpse, carcass, or portion of solid dead
+    matter, distinct from dirt, refuse, or liquid exudation.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: deceased person, corpse, or dead matter
+  description: The passage treats a dead person, corpse portions such as hair or limbs,
+    and dead matter as sources whose contact can pollute places, ground, jars, and
+    contents.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:9
+- id: fig:2
+  name_or_label: unnamed handlers or rule-followers
+  description: Unspecified persons are instructed not to carry down a body unless
+    necessary, to carry it down in specified directions or locations, and to remove
+    or discard affected material in some cases.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: fig:3
+  name_or_label: serpent
+  description: A serpent appears in jars containing wine or corn and is described
+    as contaminating the jar and contents; its touch or seed-touch is treated as potentially
+    deadly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: polluting dead body or dead matter
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly assigns pollution to corpses, body parts, hair, curls,
+    and dead matter in contact with structures, trees, jars, wine, and oil.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:2
+  label: ritual handler following purity rules
+  assigned_to:
+  - fig:2
+  basis: The repeated formula 'they should' gives actions for carrying, not carrying,
+    digging, spreading, removing, and discarding under pollution rules.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:8
+- id: role:3
+  label: contaminating animal and danger source
+  assigned_to:
+  - fig:3
+  basis: The serpent in a jar is said to make wine and jar polluted, and its touch
+    or seed-touch on corn is associated with possible death.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: tree or branch as death-site
+  literal_form: green or withered tree, bark, and branch on which a person dies
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: serpent in vessel
+  literal_form: serpent inside a jar containing wine or corn
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: jar or vessel
+  literal_form: jar containing wine, oil, or corn, subject to pollution distinctions
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: ground at risk of pollution
+  literal_form: ground that may be defiled by the fall or position of a corpse
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: death on built elevated structures
+  summary: Rules address corpse pollution on bridges, terrace roofs, and trellised
+    apartments, including whether pollution is conveyed downward and how the affected
+    area can be cleaned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: corpse at risk of falling
+  summary: A strangled or upright seated dead person is not moved unless falling is
+    feared; if moved, the direction or place is determined by the risk or actual fall.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: death on tree or branch
+  summary: The rules determine whether a corpse on a tree or branch is to be left
+    or carried down based on green or withered wood, danger of falling, and whether
+    any body part remains on the tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: corpse matter and vessels of wine or oil
+  summary: Dead matter on or in a jar affects the ritual status of the jar and its
+    contents, with wine and oil treated differently because oil moves through the
+    vessel surface.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: serpent contaminating jar contents
+  summary: A serpent in a jar contaminates wine, affects the status of corn by proximity
+    and touch, and requires affected corn to be discarded.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: containment of corpse pollution
+  taxonomy_refs: []
+  basis: The passage repeatedly defines when a corpse, body part, hair, or dead matter
+    pollutes structures, ground, jars, and contents, and prescribes actions to limit
+    or remedy that pollution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: This is a ritual-purity pattern rather than a narrative mythic episode;
+    no broader comparative lineage is inferred.
+- id: motif:2
+  label: minimal disturbance of the corpse to prevent wider defilement
+  taxonomy_refs: []
+  basis: Rules for strangled, seated, and tree-suspended corpses say not to move the
+    body unless falling is feared; supplied notes explain that the aim is to avoid
+    unnecessary disturbance and prevent additional ground pollution.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives practical purity rules; it does not frame the pattern
+    as a heroic, funerary journey, or afterlife motif.
+- id: motif:3
+  label: separation of container and contents in impurity rules
+  taxonomy_refs: []
+  basis: The wine, oil, and jar rules distinguish whether pollution affects the container,
+    the contents, or both, depending on position of dead matter and the material behavior
+    of the substance.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The motif is a legal-ritual classification pattern, not an explicit symbolic
+    allegory.
+- id: motif:4
+  label: serpent as contaminating and death-bearing presence
+  taxonomy_refs:
+  - serpent
+  basis: The serpent in a jar pollutes wine and jar, and corn touched by the serpent
+    is discarded because the serpent's seed-touch may cause death.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage supports a serpent-contamination pattern only; it does not
+    describe a cosmic serpent, tempter, or combat myth.
+comparison_claims:
+- id: claim:1
+  claim: A supplied footnote reports a related Pahlavi Vendidad VI, 9 rule that likewise
+    distinguishes death on a wine jar from death in wine, paralleling the passage's
+    container-versus-content purity distinctions.
+  claim_level: same_function
+  target: Pahlavi Vendidad VI, 9 wine-jar impurity rule as quoted in the supplied
+    note
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the footnote excerpt included in the supplied
+    passage; it does not establish historical contact beyond an internal textual citation
+    or a wider motif history.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Passage §§20-22, lines 13735-13748
+  quote_or_summary: 'Bridge, terrace roof, and trellised apartment rules: corpse-related
+    pollution may be conveyed downward if body matter remains on borders; digging
+    up and re-spreading can make the area clean.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: Passage §§23-24, lines 13749-13766
+  quote_or_summary: 'Rules for a person dead by strangulation or seated upright: do
+    not carry down unless falling is feared; carry down on the side of risk or at
+    the place where the body has fallen.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:3
+  type: note
+  locator: Translator note after §24, lines 13767-13772
+  quote_or_summary: The note explains that the object is to avoid disturbing the corpse
+    more than absolutely necessary while preventing more ground from being polluted
+    by a fall.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from supplied note.
+- id: ev:4
+  type: summary
+  locator: Passage §§25-29, lines 13773-13801
+  quote_or_summary: Death on a tree or branch is regulated by green versus withered
+    bark or branch, fear of falling, and whether hair or a limb remains on the tree;
+    in specified cases the whole body is carried down.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:5
+  type: note
+  locator: Translator note after §29, lines 13802-13806
+  quote_or_summary: The note states that the tree rules likewise prevent a corpse
+    from defiling more ground by falling, such as through the breaking of a dead branch.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from supplied note.
+- id: ev:6
+  type: summary
+  locator: Passage §§30-32, lines 13807-13831
+  quote_or_summary: Dead matter on a wine jar pollutes the jar but not the wine; death
+    in the wine pollutes the wine but not the jar if no hair or curl remains on it.
+    With oil, outside dead matter pollutes both jar and oil because the oil passes
+    out and back in.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:7
+  type: note
+  locator: Translator note to §§30-31, lines 13813-13821
+  quote_or_summary: 'The note cites Pahlavi Vendidad VI, 9 as giving a related rule:
+    death on a jar of wine makes the jar useless and affects the wine as near a corpse,
+    while death in wine with nothing remaining on the jar leaves the jar proper after
+    drying.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from supplied note.
+- id: ev:8
+  type: summary
+  locator: Passage §§33-35, lines 13832-13859
+  quote_or_summary: A serpent in a wine jar makes both useless and polluted. With
+    corn, the jar is polluted and the corn clean except the part including or touched
+    by the serpent, which is discarded because the serpent's seed-touch may be deadly;
+    hair or dead matter on the jar also pollutes it, though drying can make it serviceable.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from provided passage.
+- id: ev:9
+  type: note
+  locator: Translator note to §30, lines 13812-13818
+  quote_or_summary: The note defines nasai as a corpse or carcass, including portions
+    of such dead matter, and distinguishes it from refuse or liquid exudation.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized from supplied note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage is rule-based and explicit.
+    Motif candidates are framed as ritual-purity patterns, not as broad mythological
+    claims. The only comparison claim is limited to the supplied Vendidad footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Translator footnotes were used only where included in the supplied passage text and are identified as notes in evidence.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l13735-l13862
+  passage_sha256=de2ed181bcbc2b3fdd999a23388444c5a6c674fa191261ca5567025a65854404
+

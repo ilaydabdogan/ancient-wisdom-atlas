@@ -1,0 +1,336 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34343-l34374
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / SOCIETIES / THE    OMAHA    TRIBE / REGULAR  MEETINGS; lines
+    34343-34374
+  start: '34343'
+  end: '34374'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes regular meetings of a society, scheduled in certain
+    months identified with the mating seasons of black bear, buffalo, elk, and deer.
+    It explains that a host prepares a required feast and gifts, summons four servants
+    to announce the meeting, and sends a servant to obtain a tobacco board and four
+    sticks. A figure caption identifies an otter-skin bag of the Shell society.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Regular meetings are held in May, June, August, and September, and these months
+    are linked to the mating seasons of black bear, buffalo, elk, and deer respectively.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Meetings at other times, especially in fall and winter, must be held at night
+    and are informal.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A member who invites the society to a regular meeting acts as host and prepares
+    the required feast.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Every regular meeting has a host who provides food and gifts for members.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Older gifts are described as skins of animals connected with the society;
+    later gifts include calico, blankets, and broadcloth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After gathering the required materials, the host sends for four servants of
+    the society and instructs them to tell members the meeting date.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: On the meeting day, the host sends a servant to procure the tobacco board
+    and four sticks.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A figure caption in the passage identifies an otter-skin bag associated with
+    the Shell society.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the society
+  description: Collective body holding regular and informal meetings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: host member
+  description: A member who decides to invite the society, prepares the feast, provides
+    food and gifts, and directs servants.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: members
+  description: Members of the society who are notified of the meeting and receive
+    distributed gifts.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: servants of the society
+  description: Four servants are summoned to announce the meeting; a servant is also
+    sent to obtain the tobacco board and four sticks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: meeting society
+  assigned_to:
+  - fig:1
+  basis: The passage describes regular and informal meetings of the society.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: host and provider
+  assigned_to:
+  - fig:2
+  basis: The inviting member acts as host, prepares the feast, provides food and gifts,
+    and sends servants.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: notified participants and gift recipients
+  assigned_to:
+  - fig:3
+  basis: Members are told of the meeting and gifts are distributed among them.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: messengers and ritual-object procurers
+  assigned_to:
+  - fig:4
+  basis: Servants announce the meeting and a servant procures the tobacco board and
+    four sticks.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: four animal-season markers
+  literal_form: black bear, buffalo, elk, and deer mating seasons associated with
+    May, June, August, and September
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: required feast
+  literal_form: food prepared and provided by the host for the regular meeting
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: distributed gifts
+  literal_form: animal skins in older practice; calico, blankets, and broadcloth in
+    later practice
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: tobacco board and four sticks
+  literal_form: tobacco board and four sticks procured on the meeting day
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: fourfold count
+  literal_form: four seasonal animal associations, four servants, and four sticks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: otter-skin bag
+  literal_form: otter-skin bag identified in the figure caption as associated with
+    the Shell society
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: seasonal meeting calendar
+  summary: The society holds regular meetings in four specified months aligned with
+    the mating seasons of four animals, while other meetings are nocturnal and informal.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: hosted feast and gift distribution
+  summary: A member invites the society, becomes host, prepares a feast, and provides
+    food and gifts for members; the materials of the gifts differ between older and
+    later practice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: servants announce and procure objects
+  summary: After gathering materials, the host summons four servants to announce the
+    meeting date and later sends a servant to procure the tobacco board and four sticks.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal ritual scheduling by animal cycles
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Regular meetings are assigned to months identified with the mating seasons
+    of four animals.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is an ethnographic description of society meetings, not a
+    mythic narrative.
+- id: motif:2
+  label: ritual hospitality through feast and gifts
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A host is required for each regular meeting and provides both food and gifts
+    for members.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes required society protocol; it does not explicitly
+    call the exchange sacred.
+- id: motif:3
+  label: fourfold ritual organization
+  taxonomy_refs: []
+  basis: The passage repeats a fourfold pattern in the four animal-season associations,
+    four servants, and four sticks.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the meaning of the number four, so symbolic
+    interpretation should remain tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 34343-34351
+  quote_or_summary: Regular meetings occur in May, June, August, and September, corresponding
+    respectively to the mating seasons of black bear, buffalo, elk, and deer; other
+    meetings, especially fall and winter, are nocturnal and informal.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:2
+  type: summary
+  locator: 34352-34359
+  quote_or_summary: A member who invites the society acts as host, prepares the required
+    feast, and provides food and gifts; every regular meeting has a host.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:3
+  type: summary
+  locator: 34359-34365
+  quote_or_summary: In older practice, gifts were skins of animals connected with
+    the society; in later practice, calico, blankets, and broadcloth were substituted.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:4
+  type: summary
+  locator: 34365-34370
+  quote_or_summary: After accumulating the required materials, the host sends for
+    four servants and instructs them to notify the members of the meeting date.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:5
+  type: summary
+  locator: 34370-34372
+  quote_or_summary: On the meeting day, a servant is sent to procure the tobacco board
+    and four sticks.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summary only.
+- id: ev:6
+  type: quote
+  locator: 34373-34374
+  quote_or_summary: "“FIG. 110. Otter-skin bag, Shell society.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; brief quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is procedural ethnography rather than mythic narrative. No comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unprovided taxonomy references were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34343-l34374
+  passage_sha256=c23e6dec9ff16ae89e829f065fd0bfca698ab154ccd6406bb74de85b977b614f
+

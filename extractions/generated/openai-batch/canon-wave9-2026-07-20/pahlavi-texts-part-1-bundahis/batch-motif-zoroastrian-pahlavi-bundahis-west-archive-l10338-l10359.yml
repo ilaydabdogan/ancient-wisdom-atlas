@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l10338-l10359
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter IV. / SELECTIONS OF ZAZ)-SPARAM, IV, 2-8. 1 65 / Chapter V. / Chapter
+    VI.; lines 10338-10359
+  start: '10338'
+  end: '10359'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“as he (Aharman) came secondly to the water”"
+  summary: Aharman comes secondly to the water. A watery figure identified as Tistar
+    rushes in on the horse Cancer. Another watery figure, called Avrak, gives forth
+    a cloud and goes down in the day. The excerpt also contains editorial footnote
+    fragments.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Aharman is said to come secondly to the water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tistar is described as “the most watery” and rushes in together with Aharman
+    on the horse Cancer.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Cancer is presented as a horse associated with Tistar’s movement in the passage.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Avrak is described as an equally watery one who gives forth a cloud and goes
+    down in the day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The setting or element named in the passage is water.
+  category: setting
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: Aharman
+  description: Named in parentheses as the figure who comes secondly to the water.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tistar
+  description: Described as the most watery one who rushes in on the horse Cancer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Avrak
+  description: Described as equally watery; gives forth a cloud and goes down in the
+    day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: horse Cancer
+  description: The horse on which Tistar rushes in.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: figure coming to the water
+  assigned_to:
+  - fig:1
+  basis: The passage states that Aharman came secondly to the water.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: watery rushing figure
+  assigned_to:
+  - fig:2
+  basis: Tistar is called most watery and is said to rush in on the horse Cancer.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cloud-producing watery figure
+  assigned_to:
+  - fig:3
+  basis: Avrak is described as equally watery and as giving forth a cloud.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: mount or vehicle
+  assigned_to:
+  - fig:4
+  basis: The passage says Tistar rushes in “on the horse Cancer.”
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cloud
+  literal_form: cloud given forth by Avrak
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: horse Cancer
+  literal_form: horse named or identified as Cancer
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: day
+  literal_form: day
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Aharman comes to water and watery figures act
+  summary: Aharman comes to the water; Tistar, described as most watery, rushes in
+    on the horse Cancer; Avrak, also described as watery, produces a cloud and descends
+    or goes down in the day.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: watery celestial or elemental figures
+  taxonomy_refs: []
+  basis: Two named figures, Tistar and Avrak, are explicitly characterized as watery,
+    and their actions occur around water and cloud formation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not explain the broader mythic sequence.
+- id: motif:2
+  label: cloud generation by a watery being
+  taxonomy_refs: []
+  basis: Avrak is described as an equally watery one who gives forth a cloud.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the immediate action is preserved in the supplied passage.
+- id: motif:3
+  label: rider or mounted celestial movement
+  taxonomy_refs: []
+  basis: Tistar rushes in on the horse Cancer.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not clarify whether Cancer is an animal, astral marker,
+    or symbolic mount beyond calling it a horse.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10338-10341
+  quote_or_summary: "“And as he (Aharman) came secondly to the water”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 10340-10343
+  quote_or_summary: "“together with him rushed in, on the horse Cancer, he who is
+    the most watery Tistar”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 10343-10345
+  quote_or_summary: "“the equally watery one, that is called Avrak gave forth a cloud
+    and went down in the day”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 10345-10359
+  quote_or_summary: The remaining supplied excerpt contains editorial footnote fragments
+    about manuscript omission, a word-form note, and a note mentioning a ninth lunar
+    mansion.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by the fragmentary passage and intervening footnote
+    material. No comparison claims were made because the supplied passage alone does
+    not support a specific comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Apparent OCR or transcription irregularities in names were normalized only where clear from the provided text; uncertainty is noted.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l10338-l10359
+  passage_sha256=321cea80e091b27f717a6ba5162cb545fba5106b18210ef4430e4ea5791684c3
+

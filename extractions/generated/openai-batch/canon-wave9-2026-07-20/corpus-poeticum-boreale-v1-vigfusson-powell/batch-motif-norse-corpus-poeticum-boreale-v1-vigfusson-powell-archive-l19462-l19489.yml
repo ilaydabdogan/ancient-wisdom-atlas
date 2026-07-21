@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l19462-l19489
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: LOST LAYS / FROM W. P. 397 / LOST LAYS FROM W. P. 399 / ADDENDA.; lines 19462-19489
+  start: '19462'
+  end: '19489'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: A ring befits a buckler best, but arrows befit a bow.
+  summary: 'The passage is an addendum listing short fragments: a didactic line from
+    Skalda about fitting objects, a ditty by Eirik about Swein Asleifsson burning
+    and plundering farms, and an old children''s jingle about an eagle on a rock quoted
+    by Duke Skuli at a moot in 1239.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A line from Skalda is added to the Didactic Fragments and states that a ring
+    suits a buckler and arrows suit a bow.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eirik, identified as an Icelander, is said to have made a ditty on Swein Asleifsson,
+    described as the last of the Wickings.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ditty says farms are burnt and farmers plundered, six in a morning, and
+    identifies this as Sweyn's way of working.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same ditty says Sweyn gave charcoal enough to the tenant, with some words
+    omitted in the printed passage.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At a Moot at Christ-Church in 1239, the king's favourites spoke against Duke
+    Skuli one after another.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Duke Skuli listened quietly for a time, then stood up and quoted an old children's
+    jingle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: The jingle repeats the line that an eagle sat upon a rock, and the passage
+    says all the verses are like the first.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eirik, an Icelander
+  description: Named as the maker of a ditty on Swein Asleifsson.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Swein Asleifsson / Sweyn
+  description: Described as the last of the Wickings and as the subject of a ditty
+    about burning farms and plundering farmers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: farmers
+  description: People described in the ditty as plundered while farms are burnt.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: tenant
+  description: Recipient mentioned in the fragmentary line about Sweyn giving charcoal
+    enough.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Duke Skuli
+  description: A duke who listened to accusations at the moot and then quoted the
+    children's jingle.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: king's favourites
+  description: A group who spoke against Duke Skuli one after another at the moot.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: eagle
+  description: An eagle in the children's jingle, said to sit upon a rock.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: composer of ditty
+  assigned_to:
+  - fig:1
+  basis: The passage says Eirik made the ditty on Swein Asleifsson.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: raider and subject of ditty
+  assigned_to:
+  - fig:2
+  basis: The ditty's subject is associated with burnt farms, plundered farmers, and
+    charcoal.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: plundered people
+  assigned_to:
+  - fig:3
+  basis: The ditty states that farmers are plundered.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recipient of charcoal
+  assigned_to:
+  - fig:4
+  basis: The fragmentary line says charcoal enough was given to the tenant.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: speaker quoting jingle
+  assigned_to:
+  - fig:5
+  basis: Duke Skuli stands up and recites the verses after listening quietly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: opposing speakers
+  assigned_to:
+  - fig:6
+  basis: The king's favourites speak against Duke Skuli one after another.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: perched animal in jingle
+  assigned_to:
+  - fig:7
+  basis: The jingle says an eagle sat upon a rock.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ring and buckler
+  literal_form: A ring paired with a buckler as a fitting object-combination.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: arrows and bow
+  literal_form: Arrows paired with a bow as a fitting object-combination.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: burnt farms and charcoal
+  literal_form: Burnt farms and charcoal in the ditty about Sweyn's actions.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: eagle on rock
+  literal_form: An eagle sat upon a rock.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Didactic object-pairing line
+  summary: A short didactic line from Skalda states which objects befit a buckler
+    and a bow.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ditty on Sweyn's raiding
+  summary: Eirik's ditty on Swein Asleifsson portrays farms being burnt, farmers plundered,
+    and charcoal given to a tenant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Duke Skuli quotes a repetitive jingle
+  summary: At the moot, after the king's favourites speak against him, Duke Skuli
+    recites a children's jingle whose repeated line says an eagle sat upon a rock.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Proverbial fittingness of paired equipment
+  taxonomy_refs:
+  - wisdom
+  basis: The passage identifies the line as belonging with Didactic Fragments, and
+    the line gives concise instruction about which objects properly befit one another.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a single didactic line, not a narrative mythic episode.
+- id: motif:2
+  label: Raider burns farms and plunders farmers
+  taxonomy_refs: []
+  basis: The ditty portrays Sweyn's characteristic action as burning farms and plundering
+    farmers in a morning.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The printed fragment includes omitted words and is presented as a historical
+    or satirical ditty rather than a mythic narrative.
+- id: motif:3
+  label: Repetitive animal-on-rock children's jingle
+  taxonomy_refs: []
+  basis: The passage describes an old children's jingle in which the same eagle-on-rock
+    line is repeated across verses.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage supplies only the repeated line and its rhetorical use by
+    Duke Skuli.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19462-19466
+  quote_or_summary: 'The addendum to the Didactic Fragments gives the line: “A ring
+    befits a buckler best, but arrows befit a bow.”'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 19467-19473
+  quote_or_summary: The passage adds a ditty, attributed to Eirik an Icelander and
+    made on Swein Asleifsson, in which farms are burnt, farmers are plundered, and
+    charcoal is given to a tenant; it cites Orkneyinga Saga, ch. 82.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 19474-19477
+  quote_or_summary: The passage says Duke Skuli quoted an old children's jingle after
+    the king's favourites spoke against him one after another at the Moot at Christ-Church
+    in 1239.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 19478-19484
+  quote_or_summary: 'Under Hakonar Saga, ch. 177, the jingle repeats: “An eagle sat
+    upon a rock,” and the passage adds that all the verses are like the first.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main fragments are short and clear, but some lines are fragmentary or
+    appear affected by OCR. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Final stray character lines in the supplied passage were treated as non-semantic OCR residue and not used for motif extraction.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l19462-l19489
+  passage_sha256=5f76fc0215e7bc7dd97013644d7dfb47faf2a1094ada7b1c98d4408f4bb1ce19
+

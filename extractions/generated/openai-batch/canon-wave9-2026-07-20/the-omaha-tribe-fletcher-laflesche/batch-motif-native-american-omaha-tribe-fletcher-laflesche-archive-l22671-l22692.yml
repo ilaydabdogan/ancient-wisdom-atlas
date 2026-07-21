@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l22671-l22692
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: OJ         -M   O / S     2 / THE    OMAHA   TRIBE / COURTSHIP  AND  MARRIAGE;
+    lines 22671-22692
+  start: '22671'
+  end: '22692'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In a section on courtship and marriage, the passage describes friendship
+    as important for men and women, often beginning in childhood and lasting through
+    life. It contrasts women's friendships with those of young men exposed to warpath
+    and chase, notes enduring friendships among women, describes friends as confidants,
+    and states that a man might follow and protect a friend in danger. It also says
+    falsehood to a friend in love or war marked a person as without honor. A figure
+    caption mentions playing on the flute.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is placed under the heading "Courtship and Marriage."
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Friendship is described as important in the lives of both men and women, with
+    intimacies begun in childhood often extending throughout life.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A figure caption in the passage reads "Playing on the flute."
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Friendships among women are said to have fewer dramatic incidents than those
+    between young men, because women's lives are described as less exposed to the
+    warpath and the chase.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The writers report knowledge of enduring friendships between women under circumstances
+    that tested affection and kindness.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Friends are described as likely confidants, with few secrets withheld from
+    an intimate companion.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A man is said to cleave to his friend, follow him in danger, and, if necessary,
+    protect him with his life.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Being false to a friend in love or war is said to mark an individual as without
+    honor.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: friends or intimate companions
+  description: People joined in friendship, described as confidants who withhold few
+    secrets from one another.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:2
+  name_or_label: women friends
+  description: Women whose friendships are described as enduring under circumstances
+    testing affection and kindness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: male friend who follows and protects
+  description: A man who cleaves to his friend, follows him into danger, and may protect
+    him with his life.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: false friend
+  description: An individual false to a friend in love or war, described as marked
+    without honor.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: confidant
+  assigned_to:
+  - fig:1
+  basis: The passage says friends were apt to be confidants and few secrets were withheld
+    from an intimate companion.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: enduring friend
+  assigned_to:
+  - fig:2
+  basis: The passage refers to enduring friendships between women under testing circumstances.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: loyal protector
+  assigned_to:
+  - fig:3
+  basis: The passage says a man would cleave to his friend, follow him into danger,
+    and protect him with his life if necessary.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: dishonored betrayer of friendship
+  assigned_to:
+  - fig:4
+  basis: The passage says falsehood to a friend in love or war marked an individual
+    as without honor.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: flute
+  literal_form: flute mentioned in the figure caption "Playing on the flute"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Friendship as lifelong social bond
+  summary: The passage states that friendship mattered for men and women and that
+    relationships begun in childhood often continued throughout life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: scene:2
+  label: Loyal friend in danger
+  summary: A man is described as staying with his friend, following him in danger,
+    and potentially protecting him with his life.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:3
+  label: Dishonor of falsehood to a friend
+  summary: Falsehood to a friend in love or war is described as dishonorable.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+- id: scene:4
+  label: Flute-playing illustration caption
+  summary: The passage includes a figure caption identifying an image as playing on
+    the flute.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: lifelong friendship from childhood
+  taxonomy_refs: []
+  basis: The passage says intimacies begun in childhood often extended throughout
+    life.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic social pattern in the passage, not a mythic episode
+    or supplied taxonomy motif.
+- id: motif:2
+  label: friend as confidant and keeper of secrets
+  taxonomy_refs: []
+  basis: The passage states that friends were apt to be confidants and that few secrets
+    were withheld from an intimate companion.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader comparative or taxonomy assignment is made from the supplied
+    evidence.
+- id: motif:3
+  label: loyal companion protects friend with his life
+  taxonomy_refs: []
+  basis: The passage says a man would cleave to his friend, follow him into danger,
+    and protect him with his life if necessary.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage presents a social ideal rather than a narrative myth scene.
+- id: motif:4
+  label: betrayal of friend in love or war brings dishonor
+  taxonomy_refs: []
+  basis: The passage says being false to a friend in either love or war marked an
+    individual as without honor.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage supports the dishonor pattern locally but does not itself
+    make a cross-cultural comparison.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22671-22692
+  quote_or_summary: 'Heading: "COURTSHIP  AND  MARRIAGE".'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 22671-22692
+  quote_or_summary: '"Friendship played an important part in the lives of both men
+    and women" and childhood intimacies often extended throughout life.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt with summary used.
+- id: ev:3
+  type: quote
+  locator: lines 22671-22692
+  quote_or_summary: 'Figure caption: "FIG. 05. Playing on the flute."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 22671-22692
+  quote_or_summary: The passage says women's friendships had fewer dramatic incidents
+    than those between young men, because women's lives were less exposed to the warpath
+    and chase.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 22671-22692
+  quote_or_summary: The writers state that they know of enduring friendships between
+    women under circumstances testing affection and kindness.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: lines 22671-22692
+  quote_or_summary: '"Friends were apt to be confidants" and few secrets were withheld
+    from an intimate companion.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt with summary used.
+- id: ev:7
+  type: summary
+  locator: lines 22671-22692
+  quote_or_summary: The passage says a man would cleave to his friend, follow him
+    in danger, and, if necessary, protect him with his life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:8
+  type: quote
+  locator: lines 22671-22692
+  quote_or_summary: '"To be false to a friend in either love or war" marked an individual
+    as "without honor."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the supplied passage. Motif candidates
+    are local social patterns rather than supplied taxonomy motifs. No comparison
+    claims are made because the passage itself does not support a cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned. The flute is recorded only as a literal captioned object, without inferred symbolic significance.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l22671-l22692
+  passage_sha256=5425ac42e8b9541f688156bef58b36e9c30d1f91aa644b0e6e07a828f6e068f6
+

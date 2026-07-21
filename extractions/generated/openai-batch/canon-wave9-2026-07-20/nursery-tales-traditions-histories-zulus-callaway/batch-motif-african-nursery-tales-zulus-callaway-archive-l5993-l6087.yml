@@ -1,0 +1,436 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l5993-l6087
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UBABUZE. / UMUNTU NENYONI. / UMUNTU NENYONI. / UMUNTU N EX YON I.; lines
+    5993-6087
+  start: '5993'
+  end: '6087'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the bird slipped from him who held it, and flew away with a whir
+  summary: A father secretly keeps and eats amasi from a covered pot associated with
+    a bird. His children discover the food, watch his nocturnal eating, eat the amasi
+    themselves, and let the bird escape. When the father finds the bird gone and the
+    amasi reduced, he questions and beats the children for losing his titbit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The children uncover a pot and find a bird sitting on top of the amasi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The children eat until satisfied, cover the pot again, and deny to their father
+    that they have eaten anything.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At night the father opens the pot and eats while the household is lying down.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The children stay awake to see what their father does and conclude that he
+    begrudges them food.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the father departs in the morning, the children uncover the pot again
+    and find the bird on top.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The bird slips from the child holding it and moves from the doorway to the
+    open space, then to the fence, and finally flies away.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:7
+  text: Udemazane repeatedly warns Udemane that the father’s bird is going away, while
+    Udemane says to wait because he is filling his mouth.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:8
+  text: When the father returns, he finds the bird gone and the amasi reduced; after
+    questioning the children, he beats them for the loss of his titbit.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: An editorial footnote says the tale gives a bird the power of rendering labour
+    vain and compares this with a Central American legend in which beasts restore
+    cleared vegetation.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the father / husband / man
+  description: Household father who secretly eats from the pot, regards the bird as
+    his titbit, and later punishes the children.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the children
+  description: Children of the father who eat the amasi, watch him at night, allow
+    the bird to escape, and are punished.
+  role_refs:
+  - role:2
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the bird
+  description: Bird found sitting on top of the amasi; it is called the father’s bird
+    and escapes in stages.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Udemazane
+  description: Named boy who warns Udemane that the father’s bird is going away.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Udemane
+  description: Named child who delays responding to the escaping bird because he is
+    filling his mouth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: food-withholding father
+  assigned_to:
+  - fig:1
+  basis: The father eats alone from the pot at night, and the children say and observe
+    that he begrudges them food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: secret eaters and watchers
+  assigned_to:
+  - fig:2
+  basis: The children eat from the pot, deny it, and later stay awake to watch their
+    father’s solitary meal.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: coveted bird or titbit
+  assigned_to:
+  - fig:3
+  basis: The bird sits on the amasi, is called the father’s bird, and its loss is
+    described as the loss of the father’s titbit.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:4
+  label: warning child
+  assigned_to:
+  - fig:4
+  basis: Udemazane warns Udemane that the father’s bird is going away.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: delaying child
+  assigned_to:
+  - fig:5
+  basis: Udemane repeatedly answers that others should wait because he is filling
+    his mouth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: truth-telling child within the group
+  assigned_to:
+  - fig:2
+  basis: One child tells the father that the others let the bird go and ate the amasi.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: covered food pot
+  literal_form: pot containing amasi, repeatedly uncovered and covered again
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: amasi
+  literal_form: amasi in the pot, eaten by the father and children
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: father’s bird
+  literal_form: bird sitting on top of the amasi and later escaping
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: escape stopping places
+  literal_form: doorway, open space, and fence where the bird pauses before flying
+    away
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: children eat secretly from the pot
+  summary: The children uncover the pot, find the bird on the amasi, eat until satisfied,
+    cover the pot, and deny eating when questioned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: father’s nocturnal solitary feast observed
+  summary: At night the father opens the pot and eats; the children have stayed awake
+    and see what he does.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bird escapes while children eat
+  summary: After the father leaves, the children uncover the pot and eat. The bird
+    slips away and moves through several stopping places while Udemazane warns Udemane,
+    who delays because he is filling his mouth.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: father discovers the loss
+  summary: The father returns expecting his titbit, finds the bird missing and the
+    amasi reduced, questions the children, hears the truth from one of them, and beats
+    them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: editorial comparison note
+  summary: A footnote compares the bird’s power of rendering labour vain with a Central
+    American legend in which beasts restore trees and creepers after human clearing.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: withheld household food and secret eating
+  taxonomy_refs: []
+  basis: The father is shown eating alone from the pot at night, and the children
+    describe or perceive him as begrudging them food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No broader mythic taxonomy is asserted; this is a passage-level domestic
+    narrative pattern.
+- id: motif:2
+  label: children discover a hidden adult practice
+  taxonomy_refs: []
+  basis: The children decide not to sleep so they can see what their father does,
+    and they witness his secret eating.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state that the knowledge is ritually forbidden; it
+    is only concealed household behavior.
+- id: motif:3
+  label: loss of a coveted animal through delay while eating
+  taxonomy_refs: []
+  basis: The bird escapes in stages while Udemazane warns Udemane and Udemane delays
+    because he is filling his mouth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain the bird’s nature beyond its association
+    with the pot, amasi, and the father’s titbit.
+- id: motif:4
+  label: punishment for loss of guarded food or animal
+  taxonomy_refs: []
+  basis: The father discovers that the bird is gone and the amasi has been eaten,
+    then beats the children for the loss of his titbit.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The father’s fear of famine is stated, but the passage does not elaborate
+    consequences beyond the beating.
+- id: motif:5
+  label: animal power rendering human labour vain
+  taxonomy_refs: []
+  basis: The footnote explicitly says the tale ascribes to a bird the power of rendering
+    labour vain and compares it to animals in another legend restoring cleared vegetation.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This feature is reported in an editorial note; the specific labour-vain
+    action is not narrated in the visible excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares the tale’s bird, described as having power to
+    render labour vain, with a Central American legend in which beasts restore trees
+    and creepers after human clearing; the cautious shared point is animal agency
+    undoing human work.
+  claim_level: same_function
+  target: Central American legend of Hunahpu and Xbalanque as cited from Tylor’s Early
+    History of Mankind in the footnote
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial comparison within the passage, not evidence of
+    historical contact, common inheritance, or a full same-motif identity. The present
+    excerpt does not narrate the bird’s labour-vain action directly.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5993-6010
+  quote_or_summary: The children say the father begrudges them, uncover the pot, find
+    the bird sitting on top of the amasi, eat until satisfied, cover the pot, and
+    deny eating when asked why they are stuffed.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary based on text supplied in request.
+- id: ev:2
+  type: summary
+  locator: 6011-6033
+  quote_or_summary: At night the father again opens the pot and eats while the household
+    lies down; the children stay awake, watch him, and know that he begrudges them
+    food.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary based on text supplied in request.
+- id: ev:3
+  type: summary
+  locator: 6034-6050
+  quote_or_summary: After the father departs, the children uncover the pot, find the
+    bird on top, take it out, and eat; the bird slips from the holder and flies to
+    the doorway while Udemazane warns Udemane.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary based on text supplied in request.
+- id: ev:4
+  type: summary
+  locator: 6051-6063
+  quote_or_summary: Udemazane repeats that the father’s bird is going away; Udemane
+    answers that he is filling his mouth; the bird moves to the open space, then the
+    fence, and finally flies away.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary based on text supplied in request.
+- id: ev:5
+  type: summary
+  locator: 6064-6078
+  quote_or_summary: The father returns expecting his titbit, sees that the bird is
+    gone and little amasi remains, questions the children, hears from one child that
+    the bird was let go and the amasi eaten, and beats them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary based on text supplied in request.
+- id: ev:6
+  type: summary
+  locator: 6079-6087, note 35
+  quote_or_summary: The note states that a bird in the tale has the power of rendering
+    labour vain and compares it with a Central American legend where beasts say, “Trees,
+    arise; creepers, arise,” causing cleared growth to return.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation and summary based on text supplied
+    in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative events are clear, but the excerpt begins mid-sentence
+    and includes OCR-like headings. The comparison claim rests on an editorial footnote,
+    and the labour-vain episode referenced there is not narrated in this visible excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family IDs were assigned because the available families do not directly fit the passage-level patterns without overinterpretation. The term amasi is retained as the passage’s own food term.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l5993-l6087
+  passage_sha256=f63878b5a08d8aebce4d2623a7a5b34090f730123c3029e8fdbbeaab9bc81b9b
+

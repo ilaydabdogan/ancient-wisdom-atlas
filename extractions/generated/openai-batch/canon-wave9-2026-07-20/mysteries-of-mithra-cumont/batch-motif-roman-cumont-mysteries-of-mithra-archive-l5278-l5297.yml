@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l5278-l5297
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: H      53 / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES         125 /
+    DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          12? / THE    MYSTERIES    OF    MITHRA;
+    lines 5278-5297
+  start: '5278'
+  end: '5297'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that, according to Chaldaean doctrines, the sun occupied
+    the middle place in the planetary choir, and that this middle position had moral
+    as well as spatial significance. Mithra is described as mediator between an unapproachable,
+    unknowable god in the ethereal spheres and the suffering human race below. The
+    passage also says that Shamash had already had analogous functions, and includes
+    a figure caption for statues of torch-bearers.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage attributes to Chaldaean doctrines the view that the sun occupied
+    the middle place in the planetary choir.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sun's middle position is described as not only spatial but also morally
+    significant.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mithra is described as a mediator between an unapproachable, unknowable god
+    and the human race.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The unapproachable and unknowable god is said to reign in the ethereal spheres.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The human race is described as struggling and suffering here below.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Shamash is said to have already enjoyed analogous functions, though the final
+    word of the passage is truncated after "Baby-".
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A figure caption identifies statues of torch-bearers from the Museum of Palermo.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: Named as the mediator between the unknowable god in the ethereal spheres
+    and the human race below.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Unapproachable and unknowable god
+  description: A god described as reigning in the ethereal spheres.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Human race
+  description: A collective described as struggling and suffering here below.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Shamash
+  description: Named as having already enjoyed functions analogous to those just described
+    for Mithra.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Torch-bearers
+  description: Figures represented by statues in the captioned illustration.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: mediator
+  assigned_to:
+  - fig:1
+  basis: Mithra is explicitly called a mediator between the unknowable god and the
+    human race.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: transcendent deity in ethereal spheres
+  assigned_to:
+  - fig:2
+  basis: The god is described as unapproachable and unknowable, reigning in ethereal
+    spheres.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: suffering humanity below
+  assigned_to:
+  - fig:3
+  basis: The human race is described as struggling and suffering here below.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: analogous function-holder
+  assigned_to:
+  - fig:4
+  basis: Shamash is said to have already enjoyed analogous functions.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: torch-bearers
+  assigned_to:
+  - fig:5
+  basis: The figure caption identifies statues of torch-bearers.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sun in the middle place
+  literal_form: The sun occupying the middle place in the planetary choir.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: planetary choir
+  literal_form: The planetary choir in which the sun occupies a middle place.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ethereal spheres
+  literal_form: The ethereal spheres where the unapproachable and unknowable god reigns.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: here below
+  literal_form: The lower human realm where the human race struggles and suffers.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: statues of torch-bearers
+  literal_form: Captioned statues of torch-bearers.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Chaldaean placement of the sun
+  summary: The passage describes the sun as occupying a middle position in the planetary
+    choir, with this position carrying moral significance.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mithra as mediator
+  summary: Mithra is placed between the unknowable god in the ethereal spheres and
+    the struggling human race below.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Analogy to Shamash
+  summary: The passage states that Shamash had already enjoyed analogous functions,
+    though the surrounding context is truncated.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Figure caption for torch-bearers
+  summary: A caption identifies statues of torch-bearers in the Museum of Palermo.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: mediator between transcendent deity and humanity
+  taxonomy_refs: []
+  basis: Mithra is described as mediator between an unapproachable, unknowable god
+    in ethereal spheres and the human race below.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a doctrinal description but does not narrate a specific
+    ritual or mythic episode.
+- id: motif:2
+  label: upper divine realm and lower human realm
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts the god reigning in ethereal spheres with the human
+    race struggling and suffering here below.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The duality is spatial and theological in this passage; no conflict narrative
+    is given.
+- id: motif:3
+  label: morally significant cosmic middle position
+  taxonomy_refs: []
+  basis: The sun's middle place in the planetary choir is said to have moral as well
+    as spatial significance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage links middle position and moral significance but does not
+    elaborate the moral doctrine in this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that Shamash had functions analogous to the
+    mediating role just described for Mithra.
+  claim_level: same_function
+  target: Shamash
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The final word is truncated after "Baby-", and the passage does not
+    detail the specific Shamash functions beyond saying they were analogous.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5278-5282
+  quote_or_summary: According to Chaldaean doctrines, the sun occupied the middle
+    place in the planetary choir.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5282-5286
+  quote_or_summary: The passage states that this middle position was not exclusively
+    spatial but was also invested with important moral significance.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5291-5295
+  quote_or_summary: Mithra is described as mediator between the unapproachable and
+    unknowable god reigning in ethereal spheres and the human race struggling and
+    suffering below.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5295-5297
+  quote_or_summary: Shamash is said to have already enjoyed analogous functions; the
+    word after "Baby-" is cut off in the supplied passage.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5287-5290
+  quote_or_summary: A figure caption identifies statues of torch-bearers in the Museum
+    of Palermo.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based on a short, partially interrupted page segment with an
+    illustration caption and a truncated final word. Motif labels are limited to the
+    doctrinal relationships explicitly stated in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison beyond the passage's explicit analogy to Shamash has been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l5278-l5297
+  passage_sha256=643b8c09c1b1bbe26b0e40e8f5722435aba40fb86850e13252cb440fa83357dd
+

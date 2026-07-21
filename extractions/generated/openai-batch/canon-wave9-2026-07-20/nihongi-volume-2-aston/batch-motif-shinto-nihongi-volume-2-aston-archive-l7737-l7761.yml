@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l7737-l7761
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: SUIKO. 135 / A.D. 607. / A.D. 608, / XXIL. 22.; lines 7737-7761
+  start: '7737'
+  end: '7761'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A dated chronicle passage and translator notes discuss a diplomatic letter
+    whose opening is reported differently in a Chinese History of the Thang dynasty:
+    an emperor of the place where the sun comes forth addresses an emperor of the
+    place where the sun sets. The note says the Chinese Emperor complained of the
+    letter’s rudeness and infers that the name Nippon, glossed as sun-origin, was
+    not yet officially in use. Additional notes gloss Wosa as interpreter and Dazai
+    as a viceroy governing Kiushiu or the submitted part of it.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The entry is dated to the seventeenth year, summer, fourth month, fourth day,
+    and the passage line refers to a viceroy.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Chinese History of the Thang dynasty is said to give a different version
+    of the opening words of a letter.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the reported wording, an emperor of the place where the sun comes forth
+    addresses a letter to an emperor of the place where the sun sets.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Chinese Emperor is said to have complained that the letter was rude.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The note says the incident suggests that the word Nippon, glossed as sun-origin,
+    was not yet officially in use.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wosa is glossed as meaning interpreter, with the note adding that the name
+    and office likely coincided.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Kiushiu, or the submitted part of it, is described as having been governed
+    from early times by a viceroy, identified with Dazai.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Emperor of the place where the sun comes forth
+  description: Reported sender of the letter in the Chinese History of the Thang dynasty
+    version of the opening words.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Emperor of the place where the sun sets / Chinese Emperor
+  description: Reported recipient of the letter; the passage also says the Chinese
+    Emperor complained of the letter’s rudeness.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Wosa
+  description: Name glossed as meaning interpreter, with the office said likely to
+    coincide with the name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Viceroy / Dazai
+  description: Office described as governing Kiushiu or the submitted part of it under
+    the Tennō’s rule.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: letter sender
+  assigned_to:
+  - fig:1
+  basis: The reported wording says this emperor addresses a letter.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: letter recipient
+  assigned_to:
+  - fig:2
+  basis: The reported wording says the letter is addressed to this emperor.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: complainant
+  assigned_to:
+  - fig:2
+  basis: The note says the Chinese Emperor complained of the rudeness of the letter.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: interpreter
+  assigned_to:
+  - fig:3
+  basis: The note glosses Wosa as interpreter and says the name and office coincided.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: viceroy/governor
+  assigned_to:
+  - fig:4
+  basis: The note defines Dazai as a viceroy governing Kiushiu or the submitted part
+    of it.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sun as directional-geographic marker
+  literal_form: place where the sun comes forth; place where the sun sets; Nippon
+    as sun-origin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Alternative opening of a diplomatic letter
+  summary: A Chinese History of the Thang dynasty is cited as presenting the letter
+    opening as an address from the emperor of the sunrise place to the emperor of
+    the sunset place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Complaint and terminology notes
+  summary: The Chinese Emperor complains of the letter’s rudeness; the commentator
+    infers that Nippon was not yet an official name and adds notes on Wosa as interpreter
+    and Dazai as viceroy.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: solar-geographic imperial address
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The reported letter opening identifies two rulers by solar geography, one
+    associated with where the sun comes forth and the other with where the sun sets.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The passage is historical and philological rather than a mythic narrative;
+    the royal_legitimacy taxonomy is only a broad fit because explicit legitimacy
+    claims are not stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the Nihongi context with a Chinese History of the Thang
+    dynasty version of the same letter opening, so comparison is supported at the
+    level of diplomatic formula and wording.
+  claim_level: same_function
+  target: Chinese History of the Thang dynasty version of the letter opening
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the note’s report of the alternate wording is present in this
+    passage; the full Chinese source text and the main Nihongi wording are not supplied
+    here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7737-7739
+  quote_or_summary: The passage is headed XXIL. 22 and gives the date as the seventeenth
+    year, summer, fourth month, fourth day, with a reference to the Viceroy and A.D.
+    609.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7744-7748
+  quote_or_summary: 'A Chinese History of the Thang dynasty is said to give different
+    opening words: the emperor of the place where the sun comes forth addresses a
+    letter to the emperor of the place where the sun sets.'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7748-7749
+  quote_or_summary: The Chinese Emperor complained of the rudeness of this barbarian
+    letter.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7749-7751
+  quote_or_summary: The note says the incident makes clear that Nippon, glossed as
+    sun-origin, was not yet officially in use for Japan.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7753-7754
+  quote_or_summary: Wosa is glossed as meaning interpreter, and the note says the
+    name and office likely coincided.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7756-7760
+  quote_or_summary: From early times Kiushiu, or the submitted part of it, is said
+    to have been governed by a viceroy, here translated from Dazai.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is OCR-noisy and consists largely of translator notes around
+    a historical diplomatic episode, so motif extraction is limited and requires human
+    review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol reference was assigned because the available symbol list does not include the sun; the sun imagery is retained as an uncoded symbol.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l7737-l7761
+  passage_sha256=be48cc03176cfd7c4c5fdab614a1fb3b01cdc40d8d3fb7d486d7c44a403e8d0f
+

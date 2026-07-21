@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l17381-l17410
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: HE   REIGNED   FOR  SEVEN  YEARS / ARGUMENT / NA  UDAR  363 / NA  UDAR  365;
+    lines 17381-17410
+  start: '17381'
+  end: '17410'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Afrasiyab hears a reply and is silenced; in rage he draws a scimitar and
+    kills his wise and good brother. Zal hears of the killing and foretells the darkening
+    of Afrasiyab's fortune and the wasting of his throne. Zal musters his army and
+    marches toward Pars for revenge. Afrasiyab marches out toward Khar of Rai, and
+    the two hosts fight for two weeks with heavy losses until horse and foot are weary.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Afrasiyab is described as silenced after hearing a reply; the passage contrasts
+    one party as full of fire and the other as wise.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A raging chieftain draws a scimitar and cuts down his brother.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The slain brother is described as a man of wisdom and goodness.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Zal hears of the killing and says that Afrasiyab's fortune will be darkened
+    and his throne laid waste.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Zal sounds the trumpets, prepares the tymbals, arrays the army, and goes toward
+    Pars in anger and revenge.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Zal's troops are described as stretching from sea to sea and darkening the
+    sun and moon with dust.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Afrasiyab hears Zal's plan, marches his host toward Khar of Rai, draws up,
+    and takes his stand.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The outposts are engaged day and night, and both hosts lose many notable warriors.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:9
+  text: After two sennights of fighting, both horse and foot are weary of the battle.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Afrasiyab
+  description: A ruler or chieftain who is silenced, associated with rage, kills his
+    brother, and later marches his host to meet Zal.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Afrasiyab's brother
+  description: A brother described as wise and good, cut down by the raging chieftain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Zal
+  description: A commander who hears of the killing, predicts the darkening of Afrasiyab's
+    fortune, and marches toward Pars in anger and revenge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Zal's army
+  description: An army arrayed by Zal and described as stretching from sea to sea
+    and raising dust that darkens the sun and moon.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Afrasiyab's host
+  description: A host marched by Afrasiyab toward Khar of Rai to take a stand against
+    Zal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Both hosts
+  description: The opposing forces whose outposts fight day and night and who lose
+    many gallant men.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: raging kinslayer
+  assigned_to:
+  - fig:1
+  basis: The chieftain is described as raging and cutting down his brother with a
+    scimitar.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: wise slain brother
+  assigned_to:
+  - fig:2
+  basis: The brother is described as wise and good and is killed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: avenging commander
+  assigned_to:
+  - fig:3
+  basis: Zal responds to the killing by declaring Afrasiyab's downfall and marching
+    in anger and revenge.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: opposing war leader
+  assigned_to:
+  - fig:1
+  basis: Afrasiyab hears of Zal's design and marches his host to take a stand.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: marching army
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both Zal and Afrasiyab move organized forces toward the place of confrontation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: battle participants
+  assigned_to:
+  - fig:6
+  basis: The outposts of both hosts are engaged day and night, and both hosts suffer
+    losses.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire as wrathful attribute
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: scimitar used in fratricide
+  literal_form: scimitar
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: darkened fortune and wasted throne
+  literal_form: fortune darkened; throne laid waste
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: war trumpets and tymbals
+  literal_form: trumpets and tymbals
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: dust darkening sun and moon
+  literal_form: dust raised by troops darkens the sun and moon
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: two sennights of battle
+  literal_form: two sennights
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Afrasiyab kills his brother
+  summary: After being silenced by a reply, the raging chieftain draws his scimitar
+    and kills his wise and good brother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Zal announces Afrasiyab's darkened fortune
+  summary: Zal hears of the killing and declares that Afrasiyab's fortune will darken
+    and his throne will be laid waste.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Zal musters and marches for revenge
+  summary: Zal sounds martial instruments, arrays his army, and marches toward Pars
+    in anger and revenge with a vast dust-raising force.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Opposing hosts fight for two sennights
+  summary: Afrasiyab marches his host toward Khar of Rai, takes a stand, and the outposts
+    of both hosts fight day and night until many men are lost and the forces are weary.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: kinslaying followed by vengeance
+  taxonomy_refs: []
+  basis: Afrasiyab's brother is killed, and Zal responds by marching in anger and
+    revenge.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives the killing and revenge response but does not provide
+    broader ritual or genealogical context.
+- id: motif:2
+  label: wise counselor or kinsman slain by wrathful ruler
+  taxonomy_refs:
+  - wisdom
+  basis: The slain brother is explicitly described as wise and good, while the killer
+    is raging and associated with fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not name the brother in this excerpt or specify a formal
+    counselor role.
+- id: motif:3
+  label: darkening of royal fortune after wrongful violence
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Zal predicts that Afrasiyab's fortune will be darkened and his throne laid
+    waste after the brother's death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as Zal's speech; it does not explicitly present
+    a divine judgment or completed deposition within the excerpt.
+- id: motif:4
+  label: cosmic-scale battle imagery
+  taxonomy_refs:
+  - chaos
+  basis: The armies stretch from sea to sea, dust darkens the sun and moon, the world
+    is described as having one hue, and both hosts suffer heavy losses.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The imagery magnifies warfare but does not state a literal cosmic catastrophe.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 17381-17384
+  quote_or_summary: Afrasiyab is silenced; the passage says one was 'full of fire'
+    and the other wise, asking how wisdom should fit Divs' heads.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short excerpt summarized/quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 17384-17387
+  quote_or_summary: The raging chieftain draws his scimitar, cuts down his brother,
+    and the 'man of wisdom and goodness' passes away.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short excerpt summarized/quoted for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 17387-17390
+  quote_or_summary: Zal hears and says that Afrasiyab's fortune shall be darkened
+    and his throne laid waste.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short excerpt summarized/quoted for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 17391-17396
+  quote_or_summary: Zal blows trumpets, binds on tymbals, arrays the army, and marches
+    toward Pars in anger and revenge with troops whose dust darkens the sun and moon.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 17396-17400
+  quote_or_summary: Afrasiyab hears Zal's design, marches his host toward Khar of
+    Rai, takes his stand, and the outposts are engaged day and night.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 17402-17405
+  quote_or_summary: Both hosts lose many gallant men; after two sennights, horse and
+    foot are weary of the fray.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal event extraction is well supported by the supplied passage. Motif
+    labels are cautious and limited to patterns directly visible in the excerpt. No
+    comparison claims are made because the passage itself does not support a specific
+    cross-textual or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only where directly supported by the passage wording or imagery.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l17381-l17410
+  passage_sha256=ba52f20a91bad660f6e2cc2dd1d3afecf3cf937588e3716a21e372328aa238e1
+

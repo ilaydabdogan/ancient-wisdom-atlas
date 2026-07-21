@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l13473-l13519
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: 'XEEO: / TX 10. / TX, 12. / EX:..13:; lines 13473-13519'
+  start: '13473'
+  end: '13519'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“the Gods guided her”"
+  summary: The passage describes the Empress, dressed in male attire, undertaking
+    an expedition against Silla under divine guidance. A Silla prince submits and
+    promises tribute to the divine child in Japan. A variant account instead says
+    the prince is captured, mutilated, killed, and buried; later his wife deceives
+    the appointed governor, finds the body, kills the governor, reburies the prince,
+    and places the governor beneath the prince’s tomb to mark rank.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Empress, clad in male attire, goes on an expedition against Silla, and
+    the Gods guide her.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A wave follows the ship and reaches far into the interior of Silla.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Silla prince Urusohorichiu meets the Empress, kneels, takes hold of the
+    Royal vessel, bows to the ground, and promises to furnish tribute.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The prince describes himself as serving the child of the Gods who dwells in
+    Japan.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In one version, the Empress takes the Prince of Silla prisoner, has his knee-caps
+    plucked out, makes him crawl on rocks, kills him, and buries him in the sand.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Empress stations one man as Governor of Silla and departs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The prince’s wife, not knowing where her husband is buried, deceives the governor
+    by promising reward and marriage if he reveals the burial place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The governor believes her words and secretly reveals the burial place.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The prince’s wife and the people of the country kill the governor, disinter
+    the prince’s body, and bury it elsewhere.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: They bury the governor’s body beneath the prince’s tomb and place the prince’s
+    coffin above it, saying this accords with the order of exalted and base things.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the Empress
+  description: A ruler who dresses in male attire, undertakes the expedition against
+    Silla, is guided by the Gods, and in the variant account captures and kills the
+    prince and appoints a governor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the Gods
+  description: Divine beings who guide the Empress during the expedition; the passage
+    also refers to a child of the Gods dwelling in Japan.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Silla Prince Urusohorichiu
+  description: A prince of Silla who submits in one account and promises tribute;
+    in the variant account he is taken prisoner, mutilated, killed, buried, disinterred,
+    and reburied.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: wife of the Prince of Silla
+  description: The prince’s wife who deceives the governor to learn the burial place,
+    then acts with the people to kill the governor and rebury the prince.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Governor of Silla
+  description: A man stationed by the Empress as governor; he reveals the prince’s
+    burial place, is killed, and is buried beneath the prince’s tomb.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: people of the country
+  description: The local people who consult with the prince’s wife, kill the governor,
+    disinter the prince’s body, and rebury it.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: divinely guided expedition leader
+  assigned_to:
+  - fig:1
+  basis: The Empress goes on the expedition against Silla and is guided by the Gods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine guides
+  assigned_to:
+  - fig:2
+  basis: The Gods guide the Empress during the expedition.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: submitting tributary prince
+  assigned_to:
+  - fig:3
+  basis: The prince kneels, bows, and promises tribute.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: captive and slain prince
+  assigned_to:
+  - fig:3
+  basis: In the variant account the prince is captured, mutilated, killed, and buried.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: deceptive avenger and reburier
+  assigned_to:
+  - fig:4
+  basis: The wife deceives the governor, learns the burial place, and participates
+    in killing the governor and reburying the prince.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: appointed governor and victim
+  assigned_to:
+  - fig:5
+  basis: The governor is appointed by the Empress, reveals the burial place, is killed,
+    and is buried beneath the prince’s tomb.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:7
+  label: local collaborators in reburial
+  assigned_to:
+  - fig:6
+  basis: The people consult with the prince’s wife, kill the governor, and take part
+    in the reburial arrangements.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Royal vessel
+  literal_form: ship or Royal vessel
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: following wave
+  literal_form: wave following the ship into Silla
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: male attire
+  literal_form: male clothing worn by the Empress
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: hidden burial in sand
+  literal_form: prince’s body buried in sand after killing
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: tomb hierarchy
+  literal_form: governor’s body under the prince’s tomb, with the prince’s coffin
+    above
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Divinely guided expedition and Silla submission
+  summary: The Empress, wearing male attire, travels against Silla under divine guidance.
+    A wave follows the ship inland, and the Silla prince submits and promises tribute.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Variant account of capture and killing
+  summary: A variant says the Prince of Silla is captured, mutilated, made to crawl
+    on rocks, killed, and buried in sand, after which a governor is stationed in Silla.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deception of the governor
+  summary: The prince’s wife deceives the governor with a promise of reward and marriage
+    so that he reveals where the prince’s body is buried.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Killing and hierarchical reburial
+  summary: The prince’s wife and the people kill the governor, disinter the prince,
+    bury him elsewhere, and place the governor’s body beneath the prince’s tomb to
+    mark the order of exalted and base.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: divinely guided royal expedition
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Empress undertakes the expedition while guided by the Gods, and the Silla
+    prince submits to the divine-associated ruler in Japan.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents divine guidance and submission, but does not explicitly
+    frame the episode as a general theory of royal legitimacy.
+- id: motif:2
+  label: ruler or polity identified as child of the Gods
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Silla prince says he will serve the child of the Gods who dwells in Japan.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The phrase is reported in a political submission speech; the exact referent
+    of the divine child is not further explained within the passage.
+- id: motif:3
+  label: deceptive promise used to recover a hidden corpse
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The prince’s wife promises reward and marriage to delude the governor into
+    revealing the place where the prince’s body is buried.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The taxonomy reference is approximate; the passage gives deception but
+    does not identify the wife as a trickster figure.
+- id: motif:4
+  label: posthumous rank expressed through burial placement
+  taxonomy_refs: []
+  basis: The governor is buried beneath the prince’s tomb, and the prince’s coffin
+    is placed above, with an explicit statement about exalted and base order.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this burial-hierarchy pattern.
+- id: motif:5
+  label: miraculous water accompanying a divine expedition
+  taxonomy_refs: []
+  basis: A wave follows the Empress’s ship and reaches far into the interior of Silla
+    during the god-guided expedition.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly explain whether the wave is a miracle,
+    omen, or narrative sign; the wording only states that it follows the ship and
+    reaches inland.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13473-13480
+  quote_or_summary: The Empress, clad in male attire, goes on the expedition against
+    Silla; the Gods guide her, and a wave follows the ship far into Silla’s interior.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 13480-13487
+  quote_or_summary: The Silla prince Urusohorichiu kneels, holds the Royal vessel,
+    bows, and promises to serve as an interior government for the child of the Gods
+    in Japan and to furnish tribute.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 13488-13496
+  quote_or_summary: A variant says the Empress takes the Prince of Silla prisoner,
+    mutilates him, makes him crawl on rocks, kills him, buries him in sand, stations
+    a governor, and departs.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 13496-13504
+  quote_or_summary: The prince’s wife, not knowing the burial place, deceives the
+    governor by promising reward and marriage; the governor believes her and reveals
+    the place secretly.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 13504-13509
+  quote_or_summary: The prince’s wife and the people consult together, kill the governor,
+    disinter the prince’s body, and bury it in another place.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 13509-13516
+  quote_or_summary: They place the governor’s body under the prince’s tomb and set
+    the prince’s coffin above it, saying this accords with the order of exalted and
+    base things.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Some opening text is fragmentary,
+    and the passage ends mid-sentence; motif labels are therefore conservative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added; the passage’s internal variant was treated as an alternate scene rather than a comparison claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l13473-l13519
+  passage_sha256=ac85fcdc6e308ae93e193399a80d1fe3bfde1bfd6b946c7766f8ff6bc7387fbc
+

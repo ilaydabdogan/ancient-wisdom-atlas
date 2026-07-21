@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.tibetan-book-of-the-dead-evans-wentz-archive-l12199-l12209
+source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+passage_locator:
+  label: MANTRAS 221 / INITIATIONS 223 / REALITY 2.25 / REALITY 207; lines 12199-12209
+  start: '12199'
+  end: '12209'
+  translation: The Tibetan Book of the Dead
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Two notes cite Richard's translation and compare Suzuki's translation.
+    The first says ignorance and mental disturbance may be annihilated while the essence
+    of mind remains unchanged; if mind itself were annihilated, beings could not manifest.
+    The second uses a lost man's confusion of east and west as an analogy for beings
+    who imagine the mind is disturbed, and says understanding birth-and-death as immortality
+    or suchness leads to entry into the gate of suchness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that ignorance may be annihilated and that the symptom
+    of disturbance in the mind may also be annihilated.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the essence of the mind remains the same when ignorance
+    and disturbance are annihilated.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that if the mind itself were annihilated, all beings would
+    cease to exist because there would be nothing by which they could manifest themselves.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage states that, so long as the mind is not annihilated, its disturbance
+    may continue.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage gives an analogy of a lost man who mistakes east for west, while
+    the quarter itself is not changed by his confusion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that beings, through misleading ignorance, imagine that
+    the mind is disturbed, while in reality it is not.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The passage states that understanding the disturbance of the mind, glossed
+    as birth-and-death, as immortality or suchness leads to entry into the gate of
+    suchness.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The passage explicitly compares Richard's translation with Suzuki's translation
+    by page reference.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: all beings
+  description: Beings whose manifestation is said to depend on mind and who are described
+    as imagining the mind is disturbed because of misleading ignorance.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: lost man
+  description: An analogical figure who mistakes east for west, although the direction
+    itself is not changed by his confusion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: beings dependent on mind for manifestation
+  assigned_to:
+  - fig:1
+  basis: The passage says all beings would cease to exist if mind itself were annihilated
+    because nothing would remain by which they could manifest.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ignorance-confused perceivers
+  assigned_to:
+  - fig:1
+  basis: The passage says beings imagine the mind is disturbed because of misleading
+    ignorance.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mistaken traveler in analogy
+  assigned_to:
+  - fig:2
+  basis: The lost man takes east for west, but the quarter is not changed by his confusion.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: gate of suchness
+  literal_form: gate
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: east and west
+  literal_form: directions
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Annihilation of ignorance and persistence of mind
+  summary: The note explains that ignorance and mental disturbance can be annihilated
+    while the essence of mind remains unchanged, and that beings would cease to manifest
+    only if mind itself were annihilated.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Directional confusion and entry into suchness
+  summary: A lost man's confusion of east and west is used as an analogy for beings
+    who imagine the mind to be disturbed; understanding birth-and-death as immortality
+    or suchness leads to entry into the gate of suchness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: annihilation of ignorance while essence remains
+  taxonomy_refs:
+  - annihilation_union
+  basis: The passage distinguishes annihilation of ignorance and disturbance from
+    annihilation of mind itself, and says the essence of mind remains the same.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is doctrinal and explanatory rather than narrative; the taxonomy
+    mapping is approximate.
+- id: motif:2
+  label: birth-and-death understood as immortality or suchness
+  taxonomy_refs:
+  - annihilation_union
+  - duality
+  basis: The passage states that disturbance of mind, glossed as birth-and-death,
+    is at the same time immortality or suchness.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a doctrinal identity rather than a mythic event.
+- id: motif:3
+  label: ignorance corrected by understanding
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts misleading ignorance with understanding that leads
+    to entry into the gate of suchness.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text does not narrate a full quest or initiation sequence; it states
+    a cognitive-spiritual transition.
+comparison_claims:
+- id: claim:1
+  claim: The notes explicitly compare Richard's translation with Suzuki's translation
+    for the same doctrinal points about ignorance, mind, disturbance, and suchness.
+  claim_level: linguistic_similarity
+  target: Suzuki's translation as cited in the passage
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the cited English translation excerpts and page references are
+    supplied; no original-language text or broader translation context is provided.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12199-12204
+  quote_or_summary: "“Let ignorance be annihilated... while the essence of the mind...
+    remains the same.” The same cited passage says all beings would cease to exist
+    only if mind itself were annihilated."
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 12206-12209
+  quote_or_summary: "“As a lost man who takes the east for the west...” The passage
+    says beings imagine mind disturbed through ignorance, and that understanding birth-and-death
+    as immortality or suchness leads to “the gate of suchness.”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: citation
+  locator: 12199; 12206
+  quote_or_summary: The notes cite “Richard’s trans.” and compare “Suzuki’s trans.”
+    with page references.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain; bibliographic citation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are tentative because
+    the passage is a doctrinal note rather than a narrative mythic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or symbols beyond those explicitly present in the analogy and doctrinal imagery were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-book-of-the-dead-evans-wentz-archive__l12199-l12209
+  passage_sha256=72f2c7ad20f0ae77534e5f79da53739efa8e0c7076a19ab30710dfaf12660a27
+

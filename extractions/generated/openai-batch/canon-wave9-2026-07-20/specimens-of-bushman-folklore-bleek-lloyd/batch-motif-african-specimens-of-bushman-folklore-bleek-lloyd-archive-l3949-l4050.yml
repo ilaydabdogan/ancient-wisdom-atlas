@@ -1,0 +1,258 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l3949-l4050
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE OSTEICH. / THE BESURRECTION OF THE OSTRICH. / PAET OF THE PRECEDING TALE
+    PARSED / BY DR. BLEEK.; lines 3949-4050
+  start: '3949'
+  end: '4050'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Fragment of a tale and grammatical parsing notes. A figure lies down to
+    sleep at a house and takes care of eggs described as his children. A jackal is
+    expected to come to the eggs, push them, and possibly kill the children; the caretaker
+    intends to drive away or kick the jackal.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure lies down in order to sleep at a house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A jackal is expected or thought to be coming to the eggs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The jackal is said to push the eggs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The caretaker takes care of the eggs.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The eggs are described as the caretaker's children.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The caretaker intends to drive away the jackal so that it will not kill his
+    children.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The caretaker may kick the jackal with his feet.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed caretaker / father figure
+  description: A pronoun-designated figure who sleeps at the house, cares for eggs
+    identified as his children, and seeks to drive away or kick the jackal.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: jackal
+  description: Animal figure expected to come to the eggs, push them, and threaten
+    the children.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: eggs / children
+  description: Eggs described as the caretaker's children and threatened by the jackal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: house sleeper
+  assigned_to:
+  - fig:1
+  basis: The figure lies down so that he may sleep at the house.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: parental egg-guardian
+  assigned_to:
+  - fig:1
+  basis: The figure takes care of the eggs because they are his children and acts
+    against the jackal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: threatening predator
+  assigned_to:
+  - fig:2
+  basis: The jackal comes to and pushes the eggs and may kill the children.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: vulnerable offspring
+  assigned_to:
+  - fig:3
+  basis: The eggs are called children and are protected from the jackal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: eggs as offspring
+  literal_form: eggs
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: house or home
+  literal_form: house
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: jackal threat
+  literal_form: jackal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: sleeping at the house
+  summary: The caretaker lies down to sleep at the house.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: guarding eggs from the jackal
+  summary: The caretaker protects eggs described as his children by driving away or
+    kicking a jackal that comes to the eggs, pushes them, and may kill the children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: parent guards eggs or offspring from animal predator
+  taxonomy_refs: []
+  basis: The figure takes care of eggs identified as his children and acts to keep
+    the jackal from killing them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The supplied fragment does not clearly identify the caretaker's species;
+    the surrounding title suggests an ostrich context, but the immediate excerpt uses
+    pronouns.
+- id: motif:2
+  label: eggs identified with children
+  taxonomy_refs: []
+  basis: The passage explicitly treats the eggs as the caretaker's children.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No wider cosmological egg symbolism is stated in the supplied passage.
+- id: motif:3
+  label: resurrection of the ostrich
+  taxonomy_refs:
+  - resurrection
+  basis: The supplied passage locator labels the section as concerning the resurrection
+    of the ostrich.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The provided excerpt itself does not narrate a resurrection event; this
+    candidate rests only on the supplied section label.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3949-4050, opening fragment
+  quote_or_summary: '"he lies down, that he may sleep at the house."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3949-4050, opening fragment
+  quote_or_summary: '"the jackal is coming to the eggs, the jackal will push the eggs"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3949-4050, interleaved parsed tale line
+  quote_or_summary: '"of the eggs, because his children they indeed are."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 3949-4050, interleaved parsed tale line
+  quote_or_summary: '"drive away the jackal, that the jackal may not kill his children"
+    and "kick the jackal with ... his feet."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short quotation used for extraction evidence.
+- id: ev:5
+  type: citation
+  locator: passage locator label, lines 3949-4050
+  quote_or_summary: The supplied locator labels the section as "THE OSTEICH" and "THE
+    BESURRECTION OF THE OSTRICH."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Citation to supplied public domain source metadata and locator.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal guarding and predator-threat elements are clear. Identification with
+    an ostrich and the resurrection motif are uncertain in this line range because
+    the excerpt is fragmented and mixed with grammatical parsing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-tradition comparison. Taxonomy reference to resurrection is included only as a low-confidence title-based candidate.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l3949-l4050
+  passage_sha256=6a2a6e46b18480b07c9812027e0023588d1985d1aacf94dcab441d4ebe44472c
+

@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36265-l36356
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: MEMBERS / SOCIETIES / J         J / THE    OMAHA    TRIBE; lines 36265-36356
+  start: '36265'
+  end: '36356'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives two stanzas of a song with a literal translation. The
+    first stanza concerns running and going forth along different paths; the second
+    concerns running, coming, and returning. An explanatory note connects the song
+    to the rapid movements of four children around a lodge, stopping at the four directions,
+    and gives a further significance in which running and going forth indicate vigorous
+    life and birth, while returning indicates return to Mother Earth and final death.
+  language: English with Omaha transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The first translated stanza is glossed with running, going forth in a direction,
+    and running along different paths.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The second translated stanza is glossed with running, coming, and returning.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the song refers to the rapid movements of the four children
+    as they ran around a lodge and stopped at each of the four directions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The passage reports an additional significance for the stanzas: running and
+    going forth are associated with vigorous life and birth, while returning is associated
+    with Mother Earth and final death.'
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The music of the song is described as unusually attractive and melodious in
+    contrast to many songs of the society.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: four children
+  description: A group referred to in the explanation of the song; they rapidly ran
+    around the lodge and stopped at each of the four directions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Mother Earth
+  description: Named as the entity or place to which living things return, moving
+    along different paths to final death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual runners in the song reference
+  assigned_to:
+  - fig:1
+  basis: The four children are described as running around the lodge and stopping
+    at the four directions.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: final return destination
+  assigned_to:
+  - fig:2
+  basis: The explanatory note says the second stanza refers to living things returning
+    to Mother Earth on different paths to final death.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: running
+  literal_form: The action of running in the song and explanation.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: going forth
+  literal_form: Outward movement in a direction and along different paths.
+  associated_figures: []
+  taxonomy_refs:
+  - departure
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: returning
+  literal_form: Coming or returning, interpreted as movement back to Mother Earth.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - return
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: four directions
+  literal_form: The four directions at which the children stopped.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lodge circuit
+  literal_form: The lodge around which the four children ran.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: different paths
+  literal_form: Paths along which running or returning movement is described.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:7
+  label: Mother Earth
+  literal_form: Mother Earth as the named destination of return.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Two translated song stanzas
+  summary: The song presents a first stanza about running and going forth along different
+    paths and a second stanza about running, coming, and returning.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Four children circle the lodge
+  summary: The explanatory note says the song refers to four children running around
+    the lodge and stopping at each of the four directions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Life and death significance of the stanzas
+  summary: The passage reports that running and going forth signify vigorous life
+    and birth, while returning signifies return to Mother Earth along different paths
+    to final death.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Four-direction ritual circuit
+  taxonomy_refs: []
+  basis: The song is said to refer to four children running around the lodge and stopping
+    at each of the four directions.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the cosmological meaning of the four directions
+    beyond the stopping points.
+- id: motif:2
+  label: Going forth and returning as a life-course pattern
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The literal translation and explanatory note pair going forth with birth
+    and vigorous life, and returning with Mother Earth and final death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives a ritual-song interpretation rather than a full narrative
+    journey.
+- id: motif:3
+  label: Return to Mother Earth at death
+  taxonomy_refs:
+  - return
+  basis: The passage states that the second stanza refers to living things returning
+    to Mother Earth along different paths to final death.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No burial rite, afterlife geography, or rebirth sequence is described
+    in this passage.
+- id: motif:4
+  label: Running as abundant life
+  taxonomy_refs: []
+  basis: The explanatory note states that running indicates vigorous and abundant
+    life and the birth of living things going forth.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is reported as the significance of the stanza, not as an independent
+    mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The explicit pairing of going forth with birth and returning with final death
+    supports a cautious comparison to departure-and-return life-cycle patterns.
+  claim_level: same_function
+  target: 'motif families: departure; return'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a ritual song explanation, not a narrative myth; it
+    does not support claims of historical contact, common inheritance, or a detailed
+    afterlife-journey map.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 36265-36356; literal translation, stanza 1
+  quote_or_summary: '"Nonge, running; shuthethabiga, going forth in your direction;
+    undamonthin duwage, along the different paths they are running."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:2
+  type: quote
+  locator: 36265-36356; literal translation, stanza 2
+  quote_or_summary: '"Nonge, running; shuithabiga, coming, returning."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:3
+  type: quote
+  locator: 36265-36356; explanatory paragraph on four children
+  quote_or_summary: '"The song refers to the rapid movements of the \"four children\"
+    when they ran around the lodge and stopped at each of the four directions."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:4
+  type: quote
+  locator: 36265-36356; explanatory paragraph on further significance
+  quote_or_summary: '"The \"running\" indicates vigorous and abundant life, the birth
+    of living things \"going forth;\" the second stanza refers to their \"returning\"
+    to Mother Earth, moving along the different paths to final death."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+- id: ev:5
+  type: quote
+  locator: 36265-36356; note on music
+  quote_or_summary: '"The music is unusually attractive and melodious — in contrast
+    to many of the songs of this society."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata rights_status=public_domain.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage gives explicit translations and an interpretive explanation,
+    supporting extraction of movement, four-direction, birth, return, and death patterns.
+    Broader taxonomy mapping is limited because the passage is a short ritual-song
+    explanation rather than a full narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy IDs beyond those provided in the request were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36265-l36356
+  passage_sha256=633cebc0fc11b37b9d9ba1dfa7f26b7821ac7298b560c23e06ce9e5852da05e0
+

@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l17013-l17103
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER X, 6-1 I. 319 / CHAPTER X, 15-21. 323 / CHAPTER X, 22-24. 325 / CHAPTER
+    X, 25, 26. 327; lines 17013-17103
+  start: '17013'
+  end: '17103'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules about memorized Avesta and Zand being recited rather
+    than mumbled, cites the Bagh Nask on the improper muttering or partial aloud utterance
+    of the Ahunavar, and states that Auharmazd will keep such a person's soul away
+    from the best existence by an interval as wide as the earth. It then gives rules
+    for not doing an action when one does not know whether it is sin or good work,
+    and for forming opinion through consultation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Avesta and Zand, once thoroughly learned by heart, are described as being
+    for recitation and not for mumbling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text says that in mumbling, the parts of the Ahunavar become “more chattering,”
+    though the note marks the word as ambiguous.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: A cited speech from the Bagh Nask addresses Zaratusht and describes someone
+    muttering Auharmazd's allotment of the Ahunavar inwardly and then letting it escape
+    or uttering it aloud.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cited speech says that if this is done with fractional portions such as
+    a half, third, fourth, or fifth, Auharmazd will keep the person's soul away from
+    the best existence by an interval as wide as the earth.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The rule given after the quotation says that when one does not know whether
+    an act is a sin or a good work, it is not to be done.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The next rule says that an opinion about anything is to be formed through
+    consultation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An editorial note states that the quoted passage also occurs in nearly the
+    same words in Pahlavi Yasna XIX, 12-15.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Zaratusht
+  description: The figure addressed in the cited Bagh Nask speech and mentioned in
+    connection with the duty of recitation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Auharmazd
+  description: The divine speaker in the cited Bagh Nask passage who says he will
+    keep the soul away from the best existence.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: whoever mutters the Ahunavar improperly
+  description: An unspecified person who mutters the Ahunavar inwardly and lets part
+    of it escape or utters it aloud.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: soul of the improper reciter
+  description: The soul affected by Auharmazd's declared exclusion from the best existence.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: addressed recipient of divine instruction
+  assigned_to:
+  - fig:1
+  basis: The Bagh Nask quotation is addressed to Zaratusht.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine speaker and enforcer of consequence
+  assigned_to:
+  - fig:2
+  basis: Auharmazd speaks in the first person and says he will keep the soul from
+    the best existence.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: improper reciter
+  assigned_to:
+  - fig:3
+  basis: The person mutters the Ahunavar inwardly and lets part escape or utters it
+    aloud.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: excluded soul
+  assigned_to:
+  - fig:4
+  basis: The soul is the entity kept away from the best existence.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Ahunavar formula
+  literal_form: The Ahunavar, whose parts or phrases are involved in the recitation
+    rule.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: muttered or broken recitation
+  literal_form: Soft inward muttering followed by letting part escape or uttering
+    it aloud.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: best existence
+  literal_form: The destination or state from which the soul is kept away.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: width of the earth
+  literal_form: The interval by which the soul is kept away from the best existence
+    is compared to the width of this earth.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: consultation
+  literal_form: Consultation as the means through which an opinion is to be formed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: instruction on memorized texts and recitation
+  summary: The passage states that memorized Avesta and Zand are to be recited and
+    not mumbled, with special reference to the Ahunavar.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bagh Nask warning about the Ahunavar
+  summary: Auharmazd addresses Zaratusht and warns that one who mutters the Ahunavar
+    improperly and lets part escape will have his soul kept away from the best existence
+    by a distance as wide as the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: rules for doubtful action and consultation
+  summary: The passage says that when one does not know whether an action is sin or
+    good work, it is not to be done, and that opinion should be formed through consultation.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: improper sacred recitation brings spiritual consequence
+  taxonomy_refs: []
+  basis: The cited speech links improper muttering or partial aloud utterance of the
+    Ahunavar with Auharmazd keeping the person's soul from the best existence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage concerns a ritual-recitation rule rather than a narrative
+    episode.
+- id: motif:2
+  label: divine exclusion of the soul from the blessed state
+  taxonomy_refs:
+  - divine_judgment
+  basis: Auharmazd declares that he will keep the soul of the improper reciter away
+    from the best existence.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage presents a divine consequence, but does not narrate a full
+    judgment scene.
+- id: motif:3
+  label: afterlife distance measured by the earth
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The soul is kept from the best existence by an interval described as the
+    width of the earth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a single spatial measure is provided; the passage does not give a
+    full map of the afterlife.
+- id: motif:4
+  label: abstention when moral status is uncertain
+  taxonomy_refs:
+  - wisdom
+  basis: The rule says that if one does not know whether something is sin or good
+    work, it is not to be done.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a normative wisdom rule rather than a mythic narrative motif.
+- id: motif:5
+  label: consultation as the basis of right opinion
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that opinion is to be formed through consultation.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The line is brief and the supplied passage ends soon after this statement.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a near-verbal parallel for the Ahunavar recitation
+    warning in Pahlavi Yasna XIX, 12-15.
+  claim_level: linguistic_similarity
+  target: Pahlavi Yasna XIX, 12-15
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an editorial textual comparison within the supplied passage;
+    no independent comparison beyond the cited note is made here.
+- id: claim:2
+  claim: 'The passage''s note contrasts two explanations of the recitation fault:
+    the Pahlavi translator treats it as breaking inward prayer by speaking aloud,
+    while the original Avesta is said to attribute the fault to obscuring meaning
+    through imperfect recitation.'
+  claim_level: same_function
+  target: Pahlavi translation and original Avesta explanation of the Ahunavar recitation
+    rule
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim depends on the supplied editorial note and concerns interpretation
+    of the same rule, not a separate mythic parallel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: CHAPTER X, 25-26; lines 17013-17022
+  quote_or_summary: "“the Avesta and Zand, when one has learned it thoroughly by heart,
+    is for recitation, and is not to be mumbled”; in mumbling the parts of the Ahunavar
+    are described as “more chattering.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: CHAPTER X, 26; Bagh Nask quotation; lines 17055-17065
+  quote_or_summary: "“Whoever shall mutter, O Zaratusht! my allotment of the Ahunavar
+    ... and shall let it escape again ... so much as a half, or one-third, or one-fourth,
+    or one-fifth, his soul will I shield, I who am Auharmazd, from the best existence
+    ... by so much of an interval as the width of this earth.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: CHAPTER X, 27; lines 17067-17070
+  quote_or_summary: "“one is to proceed with great deliberation when he does not know
+    whether it be a sin or a good work, that is, it is not to be done.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: CHAPTER X, 28; lines 17072-17074
+  quote_or_summary: "“an opinion ... of anything is to be formed through consultation.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: Editorial note to CHAPTER X, 26; lines 17075-17085
+  quote_or_summary: "“It also occurs, in nearly the same words, in Pahl. Yas. XIX,
+    12-15,” with a note that Yasna XIX is called “the beginning of the Bakan” in some
+    manuscripts."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:6
+  type: summary
+  locator: Editorial notes to CHAPTER X, 25-26; lines 17030-17103
+  quote_or_summary: The notes mark the word translated “more chattering” as ambiguous
+    and state that the Pahlavi translator seems to identify the sin with breaking
+    inward prayer by speaking part aloud, while the original Avesta attributes the
+    sin to obscuring meaning by imperfect recitation.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main rule and warning are explicit, but the supplied passage includes
+    corrupt readings and editorial footnotes; several terms and line boundaries are
+    uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only motifs and comparisons directly supported by the supplied passage and metadata are included. Available taxonomy references were used only where the passage supports them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l17013-l17103
+  passage_sha256=0b2483accbe237dd231f61a640bfeebfa62309ae3a17354c16c01f19dfc15e12
+

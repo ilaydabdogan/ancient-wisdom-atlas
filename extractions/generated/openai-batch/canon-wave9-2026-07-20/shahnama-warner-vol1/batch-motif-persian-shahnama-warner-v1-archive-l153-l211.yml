@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l153-l211
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: ABBREVIATIONS 93 / NOTE  ON  PRONUNCIATION 95 / THE   SHAHNAMA / SECT.  PAGK;
+    lines 153-211
+  start: '153'
+  end: '211'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is front matter and a table of contents. It lists preliminary
+    sections and the opening sections of The Shahnama, including an invocation, praise
+    of wisdom, making of the world, the nature of man, the sun, and the moon, praise
+    of the Prophet and his companions, compilation of the Shahnama, the poet Dakiki,
+    the beginning of the present book, praise of Abu Mansur son of Muhammad, and praise
+    of Sultan Mahmud.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a dated signature line for Edmond Warner at Eltham in
+    February 1905.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage functions as a contents list, giving chapter and section titles
+    with page numbers.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The listed prelude sections include an invocation and a discourse in praise
+    of wisdom.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The listed prelude sections include headings on the making of the world and
+    the nature of man.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The listed prelude sections include headings on the nature of the sun and
+    the nature of the moon.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The listed prelude sections include praise of the Prophet and his companions,
+    the compilation of the Shahnama, the poet Dakiki, the beginning of the present
+    book, Abu Mansur son of Muhammad, and Sultan Mahmud.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Edmond Warner
+  description: Named in a signature line before the contents list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Prophet and his Companions
+  description: Named in a contents heading for a prelude section of praise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Dakiki
+  description: Named as a poet in a contents heading.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Abu Mansur, son of Muhammad
+  description: Named in a contents heading for a section of praise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Sultan Mahmud
+  description: Named in a contents heading for a section of praise.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: front-matter signatory
+  assigned_to:
+  - fig:1
+  basis: The name appears with place and date before the contents list.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: praised figure or group in listed section heading
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The contents headings explicitly describe sections as being in praise of
+    these named figures or group.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: poet named in listed section heading
+  assigned_to:
+  - fig:3
+  basis: The contents heading identifies Dakiki as a poet.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: wisdom
+  literal_form: abstract quality named in a section title
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: world
+  literal_form: the world, named in a heading on its making
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: sun
+  literal_form: the sun, named in a heading on its nature
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: moon
+  literal_form: the moon, named in a heading on its nature
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Front matter and contents sequence
+  summary: The passage presents a signature/date line and a contents list for preliminary
+    material and the opening prelude sections of The Shahnama.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: praise of wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: A listed prelude section is titled as a discourse in praise of wisdom.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage is a table of contents only; it does not provide the discourse
+    itself or details of a wisdom narrative.
+- id: motif:2
+  label: cosmogonic framing
+  taxonomy_refs: []
+  basis: A listed prelude section concerns the making of the world.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage only supplies a section title and does not describe a creation
+    myth or specific cosmogonic motifs.
+- id: motif:3
+  label: hymnic praise of exemplary or authoritative figures
+  taxonomy_refs: []
+  basis: Several contents headings identify sections of praise for the Prophet and
+    his companions, Abu Mansur son of Muhammad, and Sultan Mahmud.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The actual praise passages are not included in this line range, so no
+    specific mythic or symbolic pattern can be confirmed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 153-155
+  quote_or_summary: "“EDMOND WARNER. / ELTHAM, February 1905.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 157-177
+  quote_or_summary: The passage lists contents items such as Preface, Land and People,
+    Poet and Poem, Text and Translation, previous translators, calendar, genealogical
+    tables, abbreviations, and pronunciation note with page numbers.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 179-187
+  quote_or_summary: The Shahnama prelude list begins with “Invocation” and “Discourse
+    in Praise of Wisdom.”
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 189-191
+  quote_or_summary: The contents list includes sections titled on the making of the
+    world and the nature of man.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 193-195
+  quote_or_summary: The contents list includes sections titled on the nature of the
+    sun and the nature of the moon.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 197-211
+  quote_or_summary: The contents list names sections on praise of the Prophet and
+    his companions, compilation of the Shahnama, the poet Dakiki, how the present
+    book was begun, praise of Abu Mansur son of Muhammad, and praise of Sultan Mahmud.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The line range is a contents/front-matter passage rather than a narrative
+    passage. Literal extraction is straightforward, but motif identification is limited
+    to section titles and should be reviewed against the actual sections.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were made because the passage itself does not support comparison beyond section titles.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l153-l211
+  passage_sha256=17c8e9c6cabfe24f4e804874443e381213a507ffcb7586b25a9fb258e3d31bf0
+

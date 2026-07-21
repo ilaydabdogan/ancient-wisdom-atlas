@@ -1,0 +1,242 @@
+---
+record_id: batch.motif.siberian-aboriginal-siberia-czaplicka-archive-l566-l664
+source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+passage_locator:
+  label: GEOGRAPHY  3 / GEOGRAPHY  6 / GEOGRAPHY  7 / GEOGRAPHY  9; lines 566-664
+  start: '566'
+  end: '664'
+  translation: Aboriginal Siberia - A Study in Social Anthropology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Siberian climates, rivers, Lake Baikal, mountain
+    ranges, and steppe environments. It notes that Baikal is a deep mountain lake
+    made dangerous by winds and that natives on its shores offer sacrifices to it
+    to calm its waters, calling it the Holy Sea.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kamchatka is described as humid because of surrounding seas, moist ground,
+    slow-melting mountain snows, and soil conditions that encourage tayga growth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The mountains of southern Siberia are said to give rise to the Ob, Yenisei,
+    and Lena river systems.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ob is described as having its source among lakes and glaciers of the Altai
+    Mountains and then dividing in the northern lowlands.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Yenisei is described through named confluences and tributaries, and its
+    name is glossed in Tungusic as meaning great water.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Baikal is described as the largest mountain lake in the world, very deep,
+    and like a cleft between precipices.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Winds from neighbouring mountains are said to make Lake Baikal dangerous for
+    navigation.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Natives on Baikal's shores offer sacrifices to the lake to calm its waters
+    and call it the Holy Sea.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Lena rises in mountains around Lake Baikal, and the Amur is described
+    as being born from river confluences.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Siberian mountains are described as detached ranges, and Kamchatka is said
+    to have its own volcanic system.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: natives on Baikal's shores
+  description: People living on the shores of Lake Baikal who offer sacrifices to
+    it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Lake Baikal / Holy Sea
+  description: A very deep mountain lake, called the Holy Sea by natives on its shores,
+    and addressed as the recipient of sacrifices to calm its waters.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sacrificing community
+  assigned_to:
+  - fig:1
+  basis: The passage states that natives on Baikal's shores offer sacrifices.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: sacred water body receiving sacrifice
+  assigned_to:
+  - fig:2
+  basis: The lake is the object to which sacrifices are offered, and it is called
+    the Holy Sea.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: sacred lake-water
+  literal_form: Lake Baikal, its waters, and the name Holy Sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: mountain lake and precipices
+  literal_form: Baikal as a mountain lake, like a cleft between precipices, with winds
+    from neighbouring mountains
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sacrifice to Baikal to calm its waters
+  summary: After describing Baikal as a deep and dangerous mountain lake, the passage
+    says that natives on its shores offer sacrifices to the lake to calm its waters
+    and call it the Holy Sea.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: propitiatory sacrifice to calm sacred waters
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says that natives offer sacrifices to Baikal to calm
+    its waters.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is ethnogeographic rather than a mythic narrative; it gives
+    no deity name, ritual sequence, or explanatory myth for the sacrifice.
+- id: motif:2
+  label: appeasement of a dangerous natural water body
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The sacrifice is directed to a dangerous lake for the desired effect of calming
+    its waters.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The exchange or agency of the lake is not elaborated beyond the reported
+    purpose of the sacrifice.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 581-586 within supplied range
+  quote_or_summary: Kamchatka humidity is attributed to surrounding seas, moist ground,
+    slow-melting snows on the Kamchatka Mountains, and a lime substratum that encourages
+    tayga growth.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 588-589 within supplied range
+  quote_or_summary: The mountains of southern Siberia are said to give birth to the
+    Ob, Yenisei, and Lena river systems.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 591-613 within supplied range
+  quote_or_summary: The Ob is sourced among Altai lakes and glaciers; the Yenisei
+    is traced through confluences and tributaries, with its Tungusic name glossed
+    as great water.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 619-623 within supplied range
+  quote_or_summary: Baikal is described as the largest mountain lake in the world,
+    very deep, like a cleft between precipices, and dangerous for navigation because
+    of winds from neighbouring mountains.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 623-625 within supplied range
+  quote_or_summary: '"the natives on its shores offer sacrifices to it to calm its
+    waters" and call it the "Holy Sea".'
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; short quote used.
+- id: ev:6
+  type: summary
+  locator: lines 626-636 within supplied range
+  quote_or_summary: The Lena rises in mountains around Lake Baikal, and the Amur is
+    described as originating from confluences of streams, with its Tungusic name glossed
+    as good or kind.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 642-653 within supplied range
+  quote_or_summary: Siberian mountains are described as detached ranges from west
+    to east, and Kamchatka is described as having its own volcanic system.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The geographic descriptions are straightforward. Motif extraction is limited
+    mainly to the explicit report of sacrifices offered to Lake Baikal; no cross-tradition
+    comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Most of the passage is physical geography. The only clear ritual or motif-bearing element is the report of sacrifices to Lake Baikal, called the Holy Sea.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-aboriginal-siberia-czaplicka-archive__l566-l664
+  passage_sha256=389e1f4dd29f09a1251ad634aff9a44256cf8a5533c8e2eba0189400b751f056
+

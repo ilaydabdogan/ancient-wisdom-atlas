@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v2-archive-l1530-l1604
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+passage_locator:
+  label: KAI  KUBAD  17 / KAI   KUBAD  19 / KAI   KUBAD  21 / KAI  KUBAD  23; lines
+    1530-1604
+  start: '1530'
+  end: '1604'
+  translation: The Shahnama of Firdausi, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Kai Kubad, in old age, sits among religious and learned advisers and warriors,
+    recalls past heroes, names his four sons, and, as death nears, counsels Kai Kails
+    on justice, generosity, fortune, moral recompense in the other world, and succession.
+    He dies and is buried; the narrative then turns to Kai Kails.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kai Kubad turns toward Pars and sits on the throne among archimages, readers
+    of the stars, sages, and warriors.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He looks on those gathered with sorrow and speaks about mighty people who
+    have died.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: His reign is described as marked by gifts and justice, and he reaches his
+    hundredth year.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'Kai Kubad has four sons: Kai Kails, Kai Arash, Kai Pashin, and Kai Armin.'
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When he perceives death approaching, Kai Kubad summons Kai Kails and speaks
+    at length about justice and generosity.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Kai Kubad instructs Kai Kails to perform his obsequies and take the throne.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Kai Kubad says that just and upright conduct will receive reward in the other
+    world.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Kai Kubad warns that if passions ensnare Kai Kails' judgment, he will harm
+    himself first and then yield advantage to the foe.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Kai Kubad warns that a wrongful path will lead to a dwelling described as
+    a place of fire, along with grief and bitterness.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After speaking, Kai Kubad dies and his palace is exchanged for a sepulchre.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: The passage closes the tale of Kai Kubad and introduces the tale of Kai Kails,
+    whose reign is announced as one hundred and fifty years.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Kai Kubad
+  description: A shah who reaches his hundredth year, counsels his successor, dies,
+    and is buried.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: Kai Kails
+  description: Kai Kubad's first son, summoned to receive counsel and the throne;
+    his reign is introduced after Kai Kubad's death.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Kai Arash
+  description: Kai Kubad's second son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Kai Pashin
+  description: Kai Kubad's third son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Kai Armin
+  description: Kai Kubad's fourth son.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Archimages, readers of the stars, sages, and warriors
+  description: Groups gathered around Kai Kubad when he sits on the throne in Pars.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: aged king
+  assigned_to:
+  - fig:1
+  basis: Kai Kubad is on the throne, reaches his hundredth year, and later perceives
+    death approaching.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: dying counselor
+  assigned_to:
+  - fig:1
+  basis: He summons Kai Kails and gives final counsel before dying.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:3
+  label: successor to the throne
+  assigned_to:
+  - fig:2
+  basis: Kai Kubad instructs Kai Kails to take the throne, and the next tale is that
+    of Kai Kails.
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: role:4
+  label: royal son
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage identifies four sons of Kai Kubad.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: courtly and learned assembly
+  assigned_to:
+  - fig:6
+  basis: They are gathered around Kai Kubad while he sits on the throne.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: throne
+  literal_form: royal throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: Mount Alburz
+  literal_form: mountain named Mount Alburz
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: green leaf withering
+  literal_form: image of a green leaf about to wither
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sharp sword
+  literal_form: keen-edged sword in Kai Kubad's warning
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: place of fire
+  literal_form: fire as the described dwelling of the unjust in the other world
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: sepulchre
+  literal_form: burial place replacing the palace after death
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: dust and wind
+  literal_form: dust formed and scattered to the wind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Old king in Pars among advisers and warriors
+  summary: Kai Kubad turns toward Pars, sits on the throne among learned and martial
+    attendants, and speaks sorrowfully of past heroes.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Royal sons and peaceful continuation
+  summary: The passage lists Kai Kubad's four sons and describes them as wise and
+    living in peace and contentment.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deathbed instruction and succession
+  summary: As death approaches, Kai Kubad summons Kai Kails, counsels him on justice
+    and generosity, orders obsequies, and tells him to take the throne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Moral warning about the other world
+  summary: Kai Kubad warns Kai Kails that justice brings reward in the other world,
+    while passion-led conduct brings self-harm, defeat, fire, grief, and bitterness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Death of Kai Kubad and transition to Kai Kails
+  summary: Kai Kubad dies and is buried; the narrative declares his tale ended and
+    turns to Kai Kails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: royal succession through final counsel
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The dying king summons his son, instructs him to perform obsequies, and transfers
+    the throne to him.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:9
+  confidence: high
+  cautions: The passage emphasizes succession and counsel but does not describe a
+    coronation ritual.
+- id: motif:2
+  label: wise kingship and moral rule
+  taxonomy_refs:
+  - wisdom
+  - royal_legitimacy
+  basis: Kai Kubad is praised for justice and gifts, and he instructs Kai Kails on
+    justice, generosity, and the danger of passion overpowering judgment.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: This is an ethical kingship pattern rather than a fully narrated quest
+    or trial.
+- id: motif:3
+  label: death as departure
+  taxonomy_refs:
+  - departure
+  basis: Kai Kubad describes himself as loading baggage to depart, then dies and exchanges
+    palace for sepulchre.
+  evidence_refs:
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The departure is metaphorical for death; no journey narrative is developed.
+- id: motif:4
+  label: otherworldly recompense for just or unjust rule
+  taxonomy_refs:
+  - divine_judgment
+  basis: Kai Kubad states that upright conduct receives reward in the other world,
+    while passion-led wrongdoing leads to a dwelling of fire and grief.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage mentions otherworldly reward and punishment but does not explicitly
+    name a judging deity or formal judgment scene.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1530-1542
+  quote_or_summary: Kai Kubad turns toward Pars, sits on the throne among archimages,
+    star-readers, sages, and warriors, and speaks with sorrow of the mighty dead.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 1544-1550
+  quote_or_summary: His gifts and justice bring joy to the world, and he reaches his
+    hundredth year.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 1552-1560
+  quote_or_summary: 'Kai Kubad has four wise sons: Kai Kails, Kai Arash, Kai Pashin,
+    and Kai Armin; they live in peace and contentment.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1562-1568
+  quote_or_summary: After a century, fortune changes for crown and throne; death nears,
+    the green leaf is about to wither, and Kai Kubad summons Kai Kails to speak of
+    justice and generosity.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1569-1575
+  quote_or_summary: Kai Kubad says he is loading baggage to depart, orders Kai Kails
+    to perform his obsequies and take the throne, and recalls arriving joyfully from
+    Mount Alburz.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1576-1584
+  quote_or_summary: Kai Kubad warns against worshiping fortune, says the just and
+    upright will receive reward in the other world, and likens passion-led folly to
+    drawing a sword that first wounds oneself and then passes to the foe.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1585-1587
+  quote_or_summary: '"Thy dwelling there will be a place of fire"; bitterness and
+    grief are also foretold.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 1590-1595
+  quote_or_summary: After speaking, Kai Kubad leaves the world and exchanges his palace
+    for a sepulchre; the world's way is to form dust and scatter it to the wind.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 1597-1604
+  quote_or_summary: The narrative declares the tale of Kai Kubad ended and asks attention
+    for Kai Kails, whose reign is introduced as one hundred and fifty years.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied English passage. Motif candidates
+    are limited to evident patterns of succession, moral kingship, death as departure,
+    and otherworldly recompense; no external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the episode to another text, tradition, or motif family beyond supported taxonomy-style motif candidates.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v2-archive__l1530-l1604
+  passage_sha256=bcd427e51fd55f33a5c2b6655e40d5acb8ad37faa27e5d0c1ac58ae92f8b34ca
+

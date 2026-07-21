@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36359-l36559
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: J         J / THE    OMAHA    TRIBE / M.  M.    '-100 / SOCIETIES; lines
+    36359-36559
+  start: '36359'
+  end: '36559'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the members by their magic turned themselves into birds and animals and flew
+    and wandered over the earth
+  summary: The passage gives songs and explanatory notes for Omaha society ritual
+    performance. One song refers to society members who use magic to become birds
+    and animals, travel over the earth, and call back a lost member. Another song
+    identifies a stranger as a mysterious father and giver of magic, from whom members
+    receive mysterious power. Fast songs accompany movements in which members shoot
+    one another with magic shells.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A spoken cry is labeled the “Cry of Magic Ancients” and is repeated four times.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A song’s literal translation includes repeated words meaning “again,” “in
+    an appointed direction you are running,” “here is the place,” and “running,” with
+    other syllables described as vocables and vowel prolongations.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanatory note says the song refers to a society meeting where members
+    used magic to turn themselves into birds and animals.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The transformed members flew and wandered over the earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One member strayed away, became lost, and was later found.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The other members called to the lost member, telling him he was going in the
+    opposite direction and bidding him come again to the place where they were gathered.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A fourth song is identified as a fast song for dramatic movement and is sung
+    in octaves.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The literal translation of the fourth song identifies “he alone” as “mysterious”
+    and uses “father” in reference to the stranger.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The explanatory note says the stranger is called father, declared mysterious,
+    and identified as giver of magic.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The society members are described as the stranger’s children and as receiving
+    mysterious power from him.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:11
+  text: Fast songs are used for lodge movements when members shoot one another with
+    magic shells.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: society members
+  description: Members of the society who perform the songs, transform themselves
+    by magic, gather together, call to a lost member, receive mysterious power, and
+    use magic shells in lodge movement.
+  role_refs:
+  - role:1
+  - role:3
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: lost member
+  description: One member who strayed off, was lost, and was finally discovered.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: stranger called father
+  description: A stranger in the story who is called father, declared mysterious,
+    and named giver of magic.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:4
+  name_or_label: Magic Ancients
+  description: Named in the label “Cry of Magic Ancients.”
+  role_refs: []
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: magic shapeshifters
+  assigned_to:
+  - fig:1
+  basis: The members are said to turn themselves into birds and animals by magic.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: lost wanderer
+  assigned_to:
+  - fig:2
+  basis: One member strays off, is lost, and is later found.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: callers to the lost member
+  assigned_to:
+  - fig:1
+  basis: The gathered members call to the lost member and direct him back to their
+    place.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: mysterious father and giver of magic
+  assigned_to:
+  - fig:3
+  basis: The stranger is called father, described as mysterious, and said to give
+    magic.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:5
+  label: children and recipients of power
+  assigned_to:
+  - fig:1
+  basis: The members are described as the stranger’s children who receive mysterious
+    power from him.
+  evidence_refs:
+  - ev:8
+- id: role:6
+  label: ritual shooters with magic shells
+  assigned_to:
+  - fig:1
+  basis: Members shoot one another with magic shells during lodge movements.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: birds and animals
+  literal_form: Birds and animals into which society members turn themselves.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: appointed direction
+  literal_form: An appointed direction in which the addressed person is running.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: gathering place
+  literal_form: "“Here” or “the place” where the other members are gathered."
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: magic shells
+  literal_form: Shells used by members to shoot one another during lodge movements.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:5
+  label: mysterious power
+  literal_form: Power received by the society members from the stranger.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: father
+  literal_form: Kinship title applied to the stranger in the song explanation.
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Cry of Magic Ancients
+  summary: A spoken cry labeled as belonging to Magic Ancients is performed and repeated
+    four times.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Magical transformation and wandering
+  summary: At a society meeting, members use magic to become birds and animals, then
+    fly and wander over the earth.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Lost member called back
+  summary: One member strays away and is lost; the gathered members call to him, tell
+    him he is going in the opposite direction, and bid him come back to their place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mysterious father gives magic
+  summary: The stranger is called father, declared mysterious, and described as the
+    giver of magic whose children receive mysterious power.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Fast songs and magic-shell shooting
+  summary: Fast songs accompany dramatic movement around the lodge when members shoot
+    one another with magic shells.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: magical transformation into animals
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage explicitly says society members turned themselves into birds
+    and animals by their magic.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes a society ritual story and does not give individual
+    animal identities or a full transformation narrative.
+- id: motif:2
+  label: lost member recalled to the group
+  taxonomy_refs: []
+  basis: A member strays away, is lost, and the others call him back to the place
+    where they are gathered.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No listed taxonomy reference directly matches this social-return pattern.
+- id: motif:3
+  label: mysterious father as giver of magic
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The stranger is called father; the members are described as his children
+    and receive mysterious power from him.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage calls the stranger mysterious but does not explicitly identify
+    him as a deity; the taxonomy reference is only approximate.
+- id: motif:4
+  label: ritualized magic-shell shooting
+  taxonomy_refs: []
+  basis: Fast songs accompany movement around the lodge when members shoot one another
+    with magic shells.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage gives the action but not its full ritual meaning or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 36359-36559
+  quote_or_summary: "“(Spoken) Cry of Magic Ancients” followed by “(Repeated four
+    times).”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: 36359-36559
+  quote_or_summary: The literal translation glosses key terms as “again,” “in an appointed
+    direction you are running,” “here is the place,” and “running”; remaining syllables
+    are vocables and vowel prolongations.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 36359-36559
+  quote_or_summary: The song refers to a meeting where “the members by their magic
+    turned themselves into birds and animals and flew and wandered over the earth.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 36359-36559
+  quote_or_summary: One member strayed off, was lost, and was finally discovered.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 36359-36559
+  quote_or_summary: The song refers to the other members calling the lost one, saying
+    he is going in the opposite direction, and bidding him come again here to the
+    place where they are gathered.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: citation
+  locator: 36359-36559
+  quote_or_summary: 'Heading: “FOURTH SONG—FAST SONG FOR DRAMATIC MOVEMENT (Sung in
+    octaves).”'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short title quoted.
+- id: ev:7
+  type: summary
+  locator: 36359-36559
+  quote_or_summary: The fourth song’s literal translation glosses “he alone” as mysterious
+    and “father” as referring to the stranger.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: quote
+  locator: 36359-36559
+  quote_or_summary: The stranger is called “father,” declared “mysterious,” and described
+    as “the giver of magic”; members are “as his children” and receive mysterious
+    power.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:9
+  type: summary
+  locator: 36359-36559
+  quote_or_summary: Fast songs are used for movements about the lodge when members
+    shoot one another with magic shells.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the passage’s explanatory prose.
+    Motif taxonomy mapping is cautious because the passage is a ritual-society explanation
+    rather than a complete myth narrative. No comparison claims are made because the
+    passage itself does not compare the material with another tradition or motif family
+    beyond the available extraction taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36359-l36559
+  passage_sha256=c355be1f08f27a49347bb33eaf2c6b7c6d7b91e5213ea5a0b79ced383e05f5bb
+

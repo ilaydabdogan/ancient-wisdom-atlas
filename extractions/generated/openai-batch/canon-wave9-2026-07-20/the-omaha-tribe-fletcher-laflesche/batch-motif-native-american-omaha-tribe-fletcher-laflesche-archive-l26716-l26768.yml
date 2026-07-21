@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l26716-l26768
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE   OMAHA   TRIBE / MUSIC / MUSIC / THE   OMAHA   TRIBE; lines 26716-26768
+  start: '26716'
+  end: '26768'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Fair as is the clear sky, the green grass, yet more fair is peace among
+    men;"'
+  summary: The passage describes one JcetJia/Ketha song as gentle and pastoral. Its
+    words are explained as contrasting the beauty of clear sky and green grass with
+    the greater beauty of peace among men. The passage also notes musical performance
+    details, including octave singing, piano harmonization, double beat, and dignified
+    character.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some JcetJia songs are described as gentle and pastoral in character, especially
+    the song in this passage.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The words of the song are explained as saying that the clear sky and green
+    grass are fair, but peace among men is more fair.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the music supports the stated interpretation of the
+    song words.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The musical presentation is identified as an aria sung in octaves, harmonized
+    by John C. Fillmore for piano, with double beat and dignified character.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: men
+  description: A collective human group named in the song explanation as those among
+    whom peace is more fair than clear sky and green grass.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: John C. Fillmore
+  description: Named as the person who harmonized the aria for interpretation on the
+    piano.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: collective human community in song meaning
+  assigned_to:
+  - fig:1
+  basis: The explained words value peace among men above the beauty of clear sky and
+    green grass.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: harmonizer
+  assigned_to:
+  - fig:2
+  basis: The passage states that the aria was harmonized by John C. Fillmore for piano
+    interpretation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: clear sky
+  literal_form: clear sky
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: green grass
+  literal_form: green grass
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Explanation and musical setting of a JcetJia/Ketha song
+  summary: The passage presents a pastoral song, gives an explanation of its words
+    about natural beauty and peace among men, and supplies musical setting details
+    for performance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Peace valued above natural beauty
+  taxonomy_refs: []
+  basis: The song explanation says clear sky and green grass are fair, but peace among
+    men is more fair.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an extracted passage-level theme from an ethnographic song gloss,
+    not a narrative myth motif.
+- id: motif:2
+  label: Pastoral song of communal harmony
+  taxonomy_refs: []
+  basis: The passage describes the song as gentle and pastoral and glosses its words
+    as praising peace among men.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a brief song interpretation and musical note; broader
+    ritual or mythic context is not provided here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 26716-26768
+  quote_or_summary: '"Some of these JcetJia songs are gentle and pastoral in character,
+    particularly this one"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 26716-26768
+  quote_or_summary: '"Fair as is the clear sky, the green grass, yet more fair is
+    peace among men;" and the music is said to bear out this interpretation.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: 26716-26768
+  quote_or_summary: The passage identifies the piece as an aria sung in octaves, harmonized
+    by John C. Fillmore for piano interpretation, with double beat and a dignified
+    marking.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward. Motif candidates are limited because
+    the passage is a song gloss and musical note rather than a myth narrative. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage’s explicit images are clear sky, green grass, and peace among men, none of which match the supplied symbol list directly.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l26716-l26768
+  passage_sha256=39e7c6e1c84d3f1895aaf7f9773be346a78e33709d02ef76c188bcd8fd951ed5
+

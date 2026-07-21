@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l10454-l10475
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: 'A.D. 643 / KOGYOKU. 181 / DOTS: / KOGYOKU. 185; lines 10454-10475'
+  start: '10454'
+  end: '10475'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: breaking off leafy branches and hanging them with tree fibre
+  summary: Witches and wizards from across the country prepare leafy branches with
+    tree fibre, wait for the Oho-omi to cross a bridge, and compete to address him
+    with interpretations of divine words. Their number makes them hard to hear. Notes
+    identify the ritual specialists with miko-related terminology and explain the
+    tree-fibre practice as resembling offerings to the gods.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Witches and wizards of the whole country break off leafy branches and hang
+    them with tree fibre.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: The ritual specialists watch for the time when the Oho-omi is crossing a bridge.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: They compete with one another in addressing the Oho-omi with subtle interpretations
+    of divine words.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: They are present in such great numbers that they cannot be distinctly heard.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A note says the branch-and-fibre practice is in the manner of offerings to
+    the gods.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note says the tree fibre was probably from the inner bark of the paper mulberry.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: witches and wizards of the whole country
+  description: A large group of ritual specialists who prepare leafy branches with
+    tree fibre and address the Oho-omi with interpretations of divine words.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Oho-omi
+  description: The person watched for while crossing a bridge and addressed by the
+    gathered ritual specialists.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ritual interpreters of divine words
+  assigned_to:
+  - fig:1
+  basis: They are called witches and wizards, with a note connecting the term to miko,
+    and they address the Oho-omi with interpretations of divine words.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: addressed crossing figure
+  assigned_to:
+  - fig:2
+  basis: The Oho-omi is watched for at the moment of bridge crossing and becomes the
+    addressee of the divine-word interpretations.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: leafy branches
+  literal_form: Leafy branches broken off by the ritual specialists.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: tree fibre
+  literal_form: Tree fibre hung on the leafy branches; the note identifies it probably
+    as inner bark of paper mulberry.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: bridge crossing
+  literal_form: The bridge being crossed by the Oho-omi when the ritual address occurs.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: divine words
+  literal_form: Divine words interpreted and addressed to the Oho-omi by the ritual
+    specialists.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ritual address at the Oho-omi's bridge crossing
+  summary: A large group of witches and wizards prepare leafy branches with tree fibre,
+    wait for the Oho-omi to cross a bridge, and compete to deliver interpretations
+    of divine words to him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Ritual interpretation of divine words before a political figure
+  taxonomy_refs: []
+  basis: The passage presents ritual specialists addressing the Oho-omi with subtle
+    interpretations of divine words at a timed public moment.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The content of the divine words is not preserved in this excerpt, and
+    the passage does not state the practical outcome of the address.
+- id: motif:2
+  label: Offering-like branches and fibres in ritual performance
+  taxonomy_refs: []
+  basis: The ritual specialists carry leafy branches hung with tree fibre, and the
+    note describes this as being in the manner of offerings to the gods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The main narrative does not explicitly say that an offering is made or
+    name a divine recipient.
+- id: motif:3
+  label: Timed ritual encounter at a bridge crossing
+  taxonomy_refs: []
+  basis: The group waits specifically for the moment when the Oho-omi is crossing
+    a bridge before delivering divine-word interpretations.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The bridge is a literal setting in the excerpt; any stronger liminal interpretation
+    would require evidence outside the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10454-10459
+  quote_or_summary: Witches and wizards from the whole country prepare leafy branches
+    with tree fibre, wait for the Oho-omi to cross a bridge, and compete to address
+    him with interpretations of divine words; they are too numerous to be distinctly
+    heard.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 10469-10470
+  quote_or_summary: A note says the interlinear Kana has Kamunai for Kamunagi, rendered
+    by Yamada as miko.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 10472-10475
+  quote_or_summary: A note explains the tree-fibre practice as being in the manner
+    of offerings to the gods and says the fibre was probably from the inner bark of
+    the paper mulberry.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied line range. The narrative excerpt is
+    incomplete after 'Old people said,' and one included footnote about an obscure
+    song appears unrelated to the extracted scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the supplied passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l10454-l10475
+  passage_sha256=390dab0ee0031aec5a5d05032da65163303d9fc0ce37721b1bb33275f03b9849
+

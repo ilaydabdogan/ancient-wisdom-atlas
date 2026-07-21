@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l14275-l14318
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: EPILOGUE. IV. / APPENDIX. / I, II, III. / SECOND PART.; lines 14275-14318
+  start: '14275'
+  end: '14318'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A battle sequence praises Eric’s renown. The passage describes weapons
+    clashing, warriors falling, blood and wounds, carrion given to wolves, ravens
+    and eagles feeding or thirsting for gore, Hell appearing in a death-related kenning,
+    and archery and spear combat near shore and sea.
+  language: English with some Old Norse/editorial fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The host sinks on the shore amid the clink of javelins, and Eric gets renown
+    there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Brands, blades, sword-points, helm-crests, targets, wounds, and fallen heroes
+    are described in the meeting of princes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A prince reddens a brand; javelins and spears seek or take life; gory spears
+    fly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ravens, wolves, eagles, and the sister of Nari [Hell] are associated with
+    corpses, gore, wounds, or battlefield food.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Arrows and shafts are described through bird and insect-like kennings, including
+    cranes of battle, wound-mews, and wound-bees.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:6
+  text: Blood falls on Gialf’s steed [ship], and Eric gives wolves carrion by the
+    sea.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A javelin bites, a bow is drawn, bolts clatter, spear-points bite, arrows
+    leave the bow, and a buckler is brandished on the arm.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The prince bends the yew, arrows fly, and Eric again gives wolves carrion
+    by the sea.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Eric / central prince-king figure
+  description: Named as getting renown, giving wolves carrion by the sea, and having
+    war-faring famed east over the sea; the passage also speaks of a prince, king,
+    and mighty hero in the same battle sequence.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: host and fallen heroes
+  description: The host sinks on the shore, and Woden’s oak [heroes] are said to fall
+    before swords.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ravens
+  description: Ravens receive a meal, and blood splashes against the beak of the raven.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: wolves
+  description: Wolves receive carrion by the sea, are fed by the destroyer of the
+    Scots, become glad, and tear wounds.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: sister of Nari [Hell]
+  description: Named in a kenning as trampling on the supper of the eagles [corpses].
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: eagles
+  description: The passage refers to the supper of the eagles [corpses].
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: renowned war-leader
+  assigned_to:
+  - fig:1
+  basis: Eric is repeatedly associated with renown, war-faring, and giving carrion
+    to wolves.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: weapon-wielding combatant
+  assigned_to:
+  - fig:1
+  basis: The prince or hero figure reddens a brand, brandishes a buckler, bends the
+    yew, and is surrounded by growing battle.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:3
+  label: fallen combatants
+  assigned_to:
+  - fig:2
+  basis: The host sinks on shore and heroes fall in the iron-play.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: carrion-feeding battlefield birds
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: Ravens and eagles are linked to meals, corpses, gore, and blood in the battle
+    description.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: battlefield wolves receiving carrion
+  assigned_to:
+  - fig:4
+  basis: Wolves are fed or given carrion and are said to tear wounds.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:6
+  label: death figure in kenning
+  assigned_to:
+  - fig:5
+  basis: The sister of Nari [Hell] appears in a corpse-related battlefield image.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: weapons and wound-makers
+  literal_form: javelins, brands, blades, sword-points, spears, shafts, arrows, buckler,
+    bow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: battlefield carrion animals
+  literal_form: ravens, wolves, eagles
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: blood and gore
+  literal_form: blood, gore, wounds, wave of the sword [blood], lees of the din of
+    war [blood]
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: shore, sea, and ship setting
+  literal_form: shore, sea, Gialf’s steed [ship]
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: Hell in battlefield image
+  literal_form: sister of Nari [Hell]
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: yew bow and flying arrows
+  literal_form: yew, flaxen bowstring, wound-bees [arrows]
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: shore battle and first renown
+  summary: The host sinks on the shore amid javelins; weapons clash, wounds grow,
+    heroes fall, and Eric gains renown.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: slaughter as carrion feast
+  summary: The battle is described through reddened weapons, flying spears, ravens,
+    wolves, eagles, Hell, corpses, gore, and blood.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: blood on ship and archery around the king
+  summary: Blood falls on a ship, wolves receive carrion by the sea, javelins and
+    arrows strike, and battle grows around the king or hero; Eric’s war-faring is
+    said to be famed east over the sea.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: yew-bow burden
+  summary: The prince bends the yew, arrows fly, and Eric gives wolves carrion by
+    the sea.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: renown won through battle
+  taxonomy_refs: []
+  basis: The passage repeatedly states that Eric gains renown and that his war-faring
+    is famed beyond the sea.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage is praise poetry; the extraction identifies the repeated praise
+    pattern without asserting historical details.
+- id: motif:2
+  label: battlefield carrion feast for wolves and birds
+  taxonomy_refs: []
+  basis: Ravens, wolves, and eagles are repeatedly linked to corpses, gore, wounds,
+    meals, and carrion after combat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a literary battlefield image; no ritual feeding or sacrifice is
+    stated.
+- id: motif:3
+  label: weapons as biting and flying wound-makers
+  taxonomy_refs: []
+  basis: Javelins and spear-points bite or seek life; arrows fly under kennings such
+    as wound-mews and wound-bees.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The descriptions are kenning-rich poetic language rather than literal
+    animation.
+- id: motif:4
+  label: sea-shore battle and blood on ship
+  taxonomy_refs: []
+  basis: The battle occurs on the shore or by the sea, and blood is said to fall on
+    Gialf’s steed [ship].
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only brief setting details; the wider campaign context
+    is not supplied here.
+- id: motif:5
+  label: death personified in battlefield imagery
+  taxonomy_refs: []
+  basis: The sister of Nari [Hell] is named in connection with corpses described as
+    the supper of eagles.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identification relies on the passage’s bracketed gloss '[Hell]' and
+    should be reviewed against the underlying Old Norse.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14275-14318; First Burden and First Stave
+  quote_or_summary: The host sinks on the shore amid javelins; Eric gets renown; weapons
+    strike targets and helmets, wounds grow, and heroes fall in the iron-play.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: 14275-14318; Second Burden and Second Stave
+  quote_or_summary: The passage describes linking points and gnashing edges; the prince
+    reddens the brand; ravens, wolves, eagles, Hell, arrows, gore, wounds, and blood
+    are linked to the battlefield.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: 14275-14318; Third Burden
+  quote_or_summary: "“The lees of the din of war [blood] fell upon Gialf’s steed [ship]:
+    Eric gave the wolves carrion by the sea.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 14275-14318; Third Stave
+  quote_or_summary: The javelin bites, the bow is drawn, bolts clatter, spear-points
+    bite, arrows leave the bow, a buckler is brandished, battle grows around the king,
+    and Eric’s war-faring is famed east over the sea.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: 14275-14318; Fourth Burden
+  quote_or_summary: "“The prince bent the yew, the wound-bees [arrows] flew: Eric
+    gave the wolves carrion by the sea.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is highly kenning-based and includes editorial bracketed glosses;
+    extraction follows the supplied English passage only. No explicit cross-tradition
+    comparison is made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the supplied taxonomy does not contain a close, explicit match for this battle-praise and carrion-feast imagery.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l14275-l14318
+  passage_sha256=68b9ce956a1f6e6cf3ab33491ebcdc372ab3f29e146285462160ebab2b8fa72d
+

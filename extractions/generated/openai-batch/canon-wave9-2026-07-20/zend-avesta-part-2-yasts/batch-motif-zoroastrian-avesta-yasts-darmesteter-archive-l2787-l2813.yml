@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l2787-l2813
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: HAPTAN YA5T. 39 / ARDIBEUWT YAST. 41 / KPIORDAD VAST. 49 / V. ABAN VAST.;
+    lines 2787-2813
+  start: '2787'
+  end: '2813'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the Aban Yast as the Yast of the Waters, devoted
+    to Ardvi Sura Anahita, a water goddess described as the heavenly spring from which
+    earthly waters descend. It notes her fountains on the mythical mountain Hukairya
+    in the star region, summarizes a catalogue of figures who worship her and seek
+    help, and describes an interruption concerning her descent and rules for sacrifice
+    given to Zarathu^rtra.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Aban Yast is identified as the Yast of the Waters and is devoted to Ardvi
+    Sura Anahita.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ardvi Sura Anahita is described as a great goddess of the waters and glossed
+    as high, powerful, and undefiled.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ardvi Sura Anahita is described as the heavenly spring from which all waters
+    on earth flow down.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Her fountains are said to be on the top of the mythical mountain Hukairya
+    in the star region.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that her descent from the heavens is described in later
+    sections of the Yast.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: The Yast is said to enumerate figures who worshipped Ardvi Sura and asked
+    for her help.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The enumeration is said to be interrupted by a description of Ardvi Sura's
+    descent and by rules for her sacrifice given by herself to Zarathu^rtra.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ardvi Sura Anahita
+  description: The great goddess of the waters, described as high, powerful, undefiled,
+    and as the heavenly spring from which earthly waters flow down.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Ahura
+  description: Named as the first figure in the passage's list of those who worshipped
+    Ardvi Sura and asked for her help.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Named Iranian legendary figures and heroes
+  description: A catalogue of named figures, including Haoshyangha, Yima, Azi Dahaka,
+    Thraetaona, Keresaspa, Franghrasyan, Kava Usa, Husravah, Tusa, and others, is
+    presented as worshipping Ardvi Sura and asking for help.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Zarathu^rtra
+  description: Listed among the figures associated with Ardvi Sura and also named
+    as the recipient of rules for her sacrifice.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: water goddess and heavenly spring
+  assigned_to:
+  - fig:1
+  basis: The passage calls Ardvi Sura Anahita the great goddess of the waters and
+    the heavenly spring from which waters flow down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: recipient of worship and petitions for help
+  assigned_to:
+  - fig:1
+  basis: The Yast is described as enumerating figures who worshipped Ardvi Sura and
+    asked for her help.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: first listed worshipper
+  assigned_to:
+  - fig:2
+  basis: Ahura is named as first in the sequence of those who worshipped Ardvi Sura.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: worshippers and petitioners
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage lists many figures who worshipped Ardvi Sura and asked for her
+    help, including Zarathu^rtra.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: giver of sacrifice rules
+  assigned_to:
+  - fig:1
+  basis: The passage says rules for Ardvi Sura's sacrifice were given by herself to
+    Zarathu^rtra.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: recipient of sacrifice rules
+  assigned_to:
+  - fig:4
+  basis: Zarathu^rtra is named as the recipient of rules for Ardvi Sura's sacrifice.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: waters
+  literal_form: The waters and the heavenly spring from which all waters on earth
+    flow down.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mythical mountain Hukairya
+  literal_form: The top of the mythical mountain Hukairya, where Ardvi Sura Anahita's
+    fountains are located.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: star region and heavens
+  literal_form: The star region and heavens from which Ardvi Sura Anahita descends.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ardvi Sura Anahita as source of earthly waters
+  summary: The passage presents Ardvi Sura Anahita as the water goddess and heavenly
+    spring whose fountains are on Hukairya and from whom all waters on earth flow
+    down.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Catalogue of worshippers seeking aid
+  summary: The passage describes the Yast as listing Ahura and many legendary Iranian
+    figures who worshipped Ardvi Sura and requested her help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Descent and sacrifice instructions
+  summary: The passage says the catalogue is interrupted by a description of Ardvi
+    Sura's descent from the heavens and by rules for her sacrifice given to Zarathu^rtra.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cosmic mountain as source of waters
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Ardvi Sura Anahita's fountains are placed on the mythical mountain Hukairya
+    in the star region, and she is the heavenly spring from which earthly waters flow
+    down.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial summary and does not fully narrate the mountain's
+    cosmological function.
+- id: motif:2
+  label: descent of celestial waters or water goddess
+  taxonomy_refs: []
+  basis: The passage states that Ardvi Sura Anahita descends from the heavens and
+    is the heavenly source of waters flowing down to earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No exact supplied taxonomy family corresponds to descent of celestial
+    waters.
+- id: motif:3
+  label: worship and sacrifice seeking divine aid
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The passage says many figures worshipped Ardvi Sura and asked for her help,
+    and it also mentions rules for her sacrifice.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The specific requests and ritual details are not included in this passage
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly states that Ardvi Sura Anahita's descent from the
+    heavens recalls the Indian legend of the celestial Ganga.
+  claim_level: visual_similarity
+  target: Indian legend of the celestial Ganga
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only an editorial resemblance statement and does
+    not supply detailed narrative parallels or evidence for historical contact.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2787-2791
+  quote_or_summary: The Aban Yast is described as the Yast of the Waters, devoted
+    to the great water goddess Ardvi Sura Anahita, glossed as high, powerful, and
+    undefiled.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2791-2794
+  quote_or_summary: Ardvi Sura Anahita is described as the heavenly spring from which
+    all waters on earth flow down; her fountains are on the top of the mythical mountain
+    Hukairya in the star region.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2794-2795
+  quote_or_summary: The passage says her descent from the heavens is described in
+    later sections and that it reminds one of the Indian legend of the celestial Ganga.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2796-2808
+  quote_or_summary: The passage says the Yast enumerates historical or legendary figures
+    of Iran who worshipped Ardvi Sura and asked for her help, beginning with Ahura
+    and continuing through many named figures including Zarathu^rtra.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2809-2813
+  quote_or_summary: The passage says the enumeration is interrupted by a description
+    of Ardvi Sura's descent from the heavens and by rules for her sacrifice given
+    by herself to Zarathu^rtra.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an introductory/editorial overview of the Aban Yast rather
+    than the full hymn text; motif candidates should be reviewed against the cited
+    Yast sections.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR/transliteration irregularities in names are preserved where relevant.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l2787-l2813
+  passage_sha256=7b7cf8359196f4868923425a89c79b3e674e60aff6614628659e49d4c88a6925
+

@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l14918-l15050
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: PART I / NOTES 315 / NOTES 319 / NOTES 321; lines 14918-15050
+  start: '14918'
+  end: '15050'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A section of scholarly notes in Dixon''s Oceanic Mythology lists references
+    and comparisons across Polynesia, Melanesia, Indonesia, Japan, Tonga, and other
+    regions. A few notes explicitly identify incidents or patterns: fatal effects
+    of earthly food for underworld beings, killing by a bent tree snapping back, and
+    inanimate objects replying in place of a fugitive.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a set of numbered notes that mainly provides citations and
+    comparative references rather than full narrative episodes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'One note says that a relevant incident was not otherwise recorded in Polynesia,
+    but that a reverse idea is known from Tonga: eating earthly food is fatal to denizens
+    of the underworld.'
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One note compares a method of killing an enemy by bending a tree and letting
+    it snap back, with references to the Banks Islands, New Hebrides, and Halmahera.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One note says that inanimate objects replying in place of a fugitive was not
+    otherwise recorded in Polynesia, but is known in Melanesia, Funafuti, and Indonesia.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: One note mentions a remarkable parallel in Japan without describing the shared
+    incident in this passage.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: fugitive
+  description: A fugitive for whom inanimate objects reply.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: enemy
+  description: An enemy killed by the method of bending and snapping back a tree.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: denizens of the underworld
+  description: Underworld beings for whom eating earthly food is said to be fatal
+    in the Tongan reverse idea.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: inanimate objects
+  description: Objects that reply in place of a fugitive.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fugitive
+  assigned_to:
+  - fig:1
+  basis: The note explicitly refers to a fugitive for whom objects reply.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: enemy or victim
+  assigned_to:
+  - fig:2
+  basis: The note explicitly describes the tree-snapping method as used to kill an
+    enemy.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: underworld beings affected by earthly food
+  assigned_to:
+  - fig:3
+  basis: The note states that eating earthly food is fatal to denizens of the underworld.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: answering substitute
+  assigned_to:
+  - fig:4
+  basis: The note says inanimate objects reply in place of a fugitive.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: A tree bent and snapped back as a killing method.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: earthly food
+  literal_form: Earthly food whose eating is fatal to underworld denizens in the Tongan
+    reverse idea.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: underworld
+  literal_form: The underworld inhabited by denizens mentioned in the note.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: inanimate objects
+  literal_form: Objects that reply in place of a fugitive.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Earthly food fatal to underworld denizens
+  summary: A comparative note reports a Tongan reverse idea in which eating earthly
+    food is fatal to denizens of the underworld.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Tree snapped back to kill an enemy
+  summary: A comparative note identifies a method in which a tree is bent and then
+    snaps back to kill an enemy.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Objects answer for a fugitive
+  summary: A comparative note describes an incident in which inanimate objects reply
+    in place of a fugitive.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Earthly food fatal to underworld beings
+  taxonomy_refs: []
+  basis: The note explicitly states that the reverse idea, known from Tonga, is that
+    eating earthly food is fatal to denizens of the underworld.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not narrate the full tale or describe the incident to
+    which this is the reverse.
+- id: motif:2
+  label: Killing by a bent tree snapping back
+  taxonomy_refs: []
+  basis: The note explicitly identifies the method of bending and snapping back a
+    tree to kill an enemy and lists parallels.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives only a comparative note, not a full narrative context.
+- id: motif:3
+  label: Inanimate objects reply in place of a fugitive
+  taxonomy_refs: []
+  basis: The note explicitly names the incident and lists regions where it is known.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify what objects reply or the larger narrative
+    setting.
+comparison_claims:
+- id: claim:1
+  claim: The Tongan material preserves a reversed underworld-food rule in which earthly
+    food is fatal to underworld denizens.
+  claim_level: same_function
+  target: Tonga underworld-food tradition
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note says this is the reverse of an otherwise unspecified incident
+    and provides no full narrative.
+- id: claim:2
+  claim: The tree-snapping killing method is presented as comparable across the Banks
+    Islands, New Hebrides, and Halmahera.
+  claim_level: same_motif
+  target: Banks Islands, New Hebrides, and Halmahera versions of bending and snapping
+    back a tree to kill an enemy
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage provides citations only and does not quote or summarize
+    the regional versions.
+- id: claim:3
+  claim: The incident of inanimate objects replying for a fugitive is presented as
+    known in Melanesia, Funafuti, and multiple Indonesian traditions, though not otherwise
+    recorded in Polynesia.
+  claim_level: same_motif
+  target: Melanesian, Funafuti, and Indonesian versions of inanimate objects replying
+    in place of a fugitive
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The note lists locations and sources but does not provide the full
+    narratives or identify the specific objects.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14918-15050; NOTES 321-322
+  quote_or_summary: The passage consists of numbered scholarly notes with citations
+    and cross-cultural comparisons.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: note 70
+  quote_or_summary: The note says the incident is not otherwise recorded in Polynesia,
+    but that the reverse idea, 'the eating of earthly food is fatal to denizens of
+    the underworld,' is known from Tonga.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: note 71
+  quote_or_summary: The note refers to 'the method of bending and snapping back a
+    tree to kill an enemy' and compares Banks Islands, New Hebrides, and Halmahera
+    examples.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: note 91
+  quote_or_summary: The note identifies an 'incident of inanimate objects replying
+    in place of a fugitive' and says it is known in Melanesia, Funafuti, and widely
+    in Indonesia.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: note 60
+  quote_or_summary: The note says, 'Cf. the remarkable parallel in Japan,' but does
+    not specify the incident in this passage.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Confidence is higher for the explicitly named incidents in notes 70, 71,
+    and 91. Many other notes are bare citations or cross-references without enough
+    passage-level narrative detail for motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only motifs and symbols explicitly named in the provided passage were extracted. Unelaborated citation-only parallels were not expanded.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l14918-l15050
+  passage_sha256=221172f221b8a87e91d49e150a2f04a44b6975c0f3e2240e89a884649653bb6f
+

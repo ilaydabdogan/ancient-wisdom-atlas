@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l32209-l32236
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE  MONWA'DATHIN  AND  THE  TOKA'LO / SECRET  SOCIETIES / THE  MONCHU'   ITHAETHE
+    / SOCIETIES; lines 32209-32236
+  start: '32209'
+  end: '32236'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A song belonging to the Monchu' ithaethe society is glossed and explained
+    as referring to a man who went out to fast, came to a particular place, stood
+    there, and saw a grizzly bear appear. The man felt mysteriously related to the
+    bear, and the song served as his credential or title to membership in the Bear
+    society.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Monchu' ithaethe society had been extinct for
+    half a century and that the following song belonged to that society.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The literal translation of the song includes coming to and standing at a place,
+    and includes the word xuga, glossed as badger but explained here as meaning grizzly
+    bear.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The words are explained as referring to a time when a man went out to fast.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the man came to a particular place and stood there, the grizzly bear
+    appeared.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The man felt that he was mysteriously related to the bear.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song is described as setting forth the man's credential or title to membership
+    in the Bear society.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the fasting man
+  description: A man who went out to fast, stood at a particular place, saw a grizzly
+    bear appear, and felt mysteriously related to the bear.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: grizzly bear
+  description: The animal meant by xuga in this instance; it appeared while the man
+    stood at the particular place.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Monchu' ithaethe society
+  description: A society said to have been extinct for half a century; the song in
+    the passage belonged to it.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Bear society
+  description: The membership society for which the song served as the man's credential
+    or title.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: faster
+  assigned_to:
+  - fig:1
+  basis: The words refer to the time when the man went out to fast.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: appearing animal
+  assigned_to:
+  - fig:2
+  basis: The grizzly bear appeared as the man stood at the particular place.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: prospective or credentialed member
+  assigned_to:
+  - fig:1
+  basis: The song set forth the man's credential or title to membership in the Bear
+    society.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: song-owning society
+  assigned_to:
+  - fig:3
+  basis: The passage says the song belonged to the Monchu' ithaethe society.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: membership society
+  assigned_to:
+  - fig:4
+  basis: The song is described as a credential or title to membership in the Bear
+    society.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: grizzly bear
+  literal_form: Grizzly bear, identified in the gloss as the intended meaning of xuga
+    in this instance.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: particular place
+  literal_form: The place where the man came, stood, and saw the grizzly bear appear.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: membership song
+  literal_form: A song belonging to the Monchu' ithaethe society and serving as the
+    man's credential or title to Bear society membership.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Society and song context
+  summary: The passage introduces the Monchu' ithaethe society as extinct for half
+    a century and identifies a song as belonging to that society.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fasting encounter with the bear
+  summary: A man goes out to fast, reaches a particular place, stands there, sees
+    a grizzly bear appear, and feels mysteriously related to the bear.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Song as membership credential
+  summary: The song is explained as giving the man a credential or title to membership
+    in the Bear society.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Fasting encounter as credential for society membership
+  taxonomy_refs:
+  - initiation
+  basis: The passage links fasting, an encounter with an appearing grizzly bear, a
+    felt mysterious relation to the bear, and a song that serves as credential or
+    title to Bear society membership.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a credential or title to membership but does not
+    provide a full initiation rite.
+- id: motif:2
+  label: Mysterious human-animal relationship
+  taxonomy_refs: []
+  basis: After the grizzly bear appears to the fasting man, the man feels mysteriously
+    related to the bear.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not further explain the nature, obligations, or duration
+    of the relationship.
+- id: motif:3
+  label: Ritual song as title or credential
+  taxonomy_refs: []
+  basis: The song is explicitly said to set forth the man's credential or title to
+    membership in the Bear society.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify how the song was performed within membership
+    procedures.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a functional comparison with an initiation pattern because
+    fasting, an animal appearance, and a song credential are connected to membership
+    in a society.
+  claim_level: same_function
+  target: initiation
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is only a functional comparison to the supplied motif family;
+    the passage does not describe a complete initiation ceremony or support claims
+    of historical contact with other traditions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32209-32215
+  quote_or_summary: The passage says the Monchu' ithaethe society had been extinct
+    for half a century and that the following song belonged to it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 32216-32228
+  quote_or_summary: The literal translation includes coming to and standing at a place;
+    xuga is glossed as badger but explained as referring here to the grizzly bear.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 32229-32233
+  quote_or_summary: The words refer to a man going out to fast; at a particular place,
+    the grizzly bear appeared as he stood there, and he felt mysteriously related
+    to the bear.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 32234-32236
+  quote_or_summary: '"The song set forth the man''s credential or title to membership
+    in the Bear society."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; brief quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main sequence is explicit. Confidence is limited by the short passage,
+    broken typography in the song, and possible ambiguity about the relation between
+    the Monchu' ithaethe society and the Bear society.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l32209-l32236
+  passage_sha256=d317d48450731322763e0e3542510d326b03e68e9062efb691b086138379f942
+

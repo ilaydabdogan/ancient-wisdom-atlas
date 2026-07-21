@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l32238-l32260
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SECRET  SOCIETIES / THE  MONCHU'   ITHAETHE / SOCIETIES / THE    TE'    ITHAETHE;
+    lines 32238-32260
+  start: '32238'
+  end: '32260'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Te' ithaethe society, whose name is explained
+    as referring to persons to whom the buffalo showed compassion by appearing in
+    a vision and giving power. The society held knowledge of medicines for treating
+    wounds, admitted men and women who had buffalo dreams, and used certain roots,
+    water, and forceful blowing of medicated liquid into wounds. A following anecdote
+    begins with an accidental shooting of a boy and the community's alarm.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The name Te' ithaethe is glossed as connected with buffalo and compassion,
+    described as those to whom the buffalo came in a vision and gave power.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The society was entrusted with knowledge of medicines for curing wounds.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Membership was granted to persons of both sexes to whom the buffalo appeared
+    in dreams.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Roots of wild anise, hop, and Physalis viscosa were used for healing.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Bits of roots were ground between the teeth, water was taken into the mouth,
+    and medicated liquid was blown forcefully into the wound.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An eyewitness account begins with a boy accidentally shot in the head by a
+    young man firing a pistol at a mark.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the shooting, there were loud wails and the boy's relatives prepared
+    to avenge his death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Te' ithaethe society
+  description: A society committed to medicines for curing wounds and associated with
+    buffalo visions or dreams.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: buffalo
+  description: The being said to appear in visions or dreams and give power or show
+    compassion to future members.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: persons of both sexes with buffalo dreams
+  description: People admitted to membership because the buffalo appeared to them
+    in dreams.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: wounded boy
+  description: A playmate accidentally shot in the head in the eyewitness account.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: young man who fired the pistol
+  description: The person who accidentally wounded the boy while firing a pistol at
+    a mark with companions.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: healing society
+  assigned_to:
+  - fig:1
+  basis: The society was committed to knowledge of medicines for curing wounds.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: keeper of wound medicine knowledge
+  assigned_to:
+  - fig:1
+  basis: The passage assigns the curing of wounds and healing practice to the society.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: visionary power-giver
+  assigned_to:
+  - fig:2
+  basis: The buffalo is described as coming in a vision or dream and giving power.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: dream-selected members
+  assigned_to:
+  - fig:3
+  basis: Membership was accorded to persons of both sexes to whom the buffalo appeared
+    in dreams.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wounded person
+  assigned_to:
+  - fig:4
+  basis: The boy is described as accidentally shot in the head.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: accidental wounder
+  assigned_to:
+  - fig:5
+  basis: The young man wounded the boy while firing a pistol at a mark.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: buffalo vision or dream
+  literal_form: buffalo appearing in vision or dream
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: medicinal roots
+  literal_form: roots of wild anise, hop, and Physalis viscosa
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: water in healing procedure
+  literal_form: water taken into the mouth and blown as medicated liquid
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wound
+  literal_form: wound to be treated by medicated liquid
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Buffalo dream and society membership
+  summary: The passage explains that members of the Te' ithaethe society are people
+    of both sexes to whom the buffalo appeared in dreams or visions and gave power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Medicinal treatment of wounds
+  summary: The society's wound medicine uses ground root bits, water taken into the
+    mouth, and medicated liquid blown forcefully into the wound.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Accidental shooting and communal alarm
+  summary: An account begins with a boy accidentally shot in the head; the shooter
+    wails, and the boy's relatives prepare to avenge his death.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dream or vision confers ritual power and membership
+  taxonomy_refs:
+  - initiation
+  basis: Membership in the society is granted to persons who have buffalo dreams,
+    and the buffalo is said to give power through vision.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states a membership condition and visionary source of power
+    but does not narrate a full initiation rite.
+- id: motif:2
+  label: Ritual healing of wounds with plant medicine and breath
+  taxonomy_refs: []
+  basis: The healing procedure combines specified roots, water, chewing, and forceful
+    blowing of medicated liquid into a wound.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader comparative taxonomy reference is supplied for this healing
+    pattern.
+- id: motif:3
+  label: Animal helper or power-giver in dream
+  taxonomy_refs: []
+  basis: The buffalo appears in dreams or visions, shows compassion, and gives power
+    to members.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The available motif taxonomy includes no direct animal-helper or dream-power
+    category.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 32238-32242
+  quote_or_summary: The Te' ithaethe name is explained as referring to the buffalo
+    showing compassion by coming in vision and giving power.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 32242-32246
+  quote_or_summary: The society held knowledge of medicines for curing wounds, and
+    membership was accorded to men and women to whom the buffalo appeared in dreams.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 32246-32250
+  quote_or_summary: Roots of wild anise, hop, and Physalis viscosa were used; root
+    bits were chewed, mixed with water in the mouth, and blown into the wound.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 32251-32260
+  quote_or_summary: A remembered scene begins after a boy is accidentally shot in
+    the head by a young man firing at a mark; the shooter wails and the boy's relatives
+    prepare to avenge him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ethnographic details are explicit, but motif-family mapping is limited
+    because the passage gives a society description and only the beginning of an anecdotal
+    scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparative connection to another tradition or corpus.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l32238-l32260
+  passage_sha256=8d40f92aa2199ce2ff99e3dcaf5ff5093fdfa43e378721c609b9922d0bdb3bae
+

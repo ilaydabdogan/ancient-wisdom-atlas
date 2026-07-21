@@ -1,0 +1,497 @@
+---
+record_id: batch.motif.siberian-tales-of-yukaghir-lamut-bogoras-archive-l2527-l2608
+source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+passage_locator:
+  label: INTRODUCTION. / I. TALES OF THE TUNDRA YUKAGHIR.1 / II. TALES OF THE LAMUT.1
+    / III. KOLYMA TALES.; lines 2527-2608
+  start: '2527'
+  end: '2608'
+  translation: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A baby named Cu'mo repeatedly cries, speaks in a deep adult voice, grows
+    until its head reaches the roof, eats stored meat, and shrinks back into the cradle
+    before the sisters return. After all three sisters witness this, they throw the
+    baby into a boiling kettle and flee with nine reindeer. Cu'mo pursues them in
+    the kettle; the youngest sister throws an ivory comb behind her, and it becomes
+    an ivory mountain, which Cu'mo gnaws through before continuing the chase.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When left at home with the baby, the youngest sister rocks the cradle while
+    the baby continues crying.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The youngest sister is seized by sudden fright and hides under the bed to
+    listen.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The baby stops crying, listens, speaks in a deep man's voice, commands Cu'mo
+    to become large, leaves the cradle, and grows until its head reaches the roof.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After growing large, the baby gathers and eats dried meat, fat, sausages,
+    and tongues hanging from the rafters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the returning sisters are heard, the baby commands Cu'mo to become small
+    and returns to the cradle crying.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The same pattern of fright, hiding, growth, eating, shrinking, and report
+    is repeated when the middle sister and then the eldest sister stay at home.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The sisters cook reindeer meat in a kettle over a large fire, leave boiling
+    liquid and fat in the kettle, distract the baby, and throw it into the kettle.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The sisters leave their belongings, take nine driving reindeer, and flee at
+    high speed with relays behind their sledges.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Cu'mo pursues the three sisters while still associated with the kettle; the
+    fire burns, the kettle bubbles, and its iron sides clatter.
+  category: action
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:10
+  text: The youngest sister addresses her ivory comb, throws it backward, and it becomes
+    a large ivory mountain extending from earth to heaven and from east to west.
+  category: action
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Cu'mo reaches the ivory mountain, gnaws through it, crosses it, and resumes
+    the chase.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Cu'mo, the baby
+  description: A baby or child in a cradle who speaks in a deep man's or bass voice,
+    grows to the roof, shrinks back into the cradle, eats stored meat, is thrown into
+    a kettle, and pursues the sisters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: fig:2
+  name_or_label: Youngest sister
+  description: The first sister to stay at home and hide under the bed; later she
+    throws an ivory comb behind her, causing it to become an ivory mountain.
+  role_refs:
+  - role:2
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: Middle or second sister
+  description: The second sister ordered to stay at home; she hides under the bed,
+    witnesses the baby's actions, reports them, and later flees with her sisters.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:4
+  name_or_label: Eldest sister
+  description: The eldest sister first disbelieves the younger sisters, then stays
+    at home, witnesses Cu'mo's actions, helps plan how to get rid of Cu'mo, and throws
+    the baby into the kettle.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: size-changing baby and pursuer
+  assigned_to:
+  - fig:1
+  basis: Cu'mo grows large, shrinks small, eats the provisions, is thrown into the
+    kettle, and pursues the sisters.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:10
+- id: role:2
+  label: home watcher and hidden witness
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Each sister in turn stays at home, hides under the bed, and witnesses the
+    baby's actions.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:3
+  label: hunter and fugitive sister
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The sisters hunt or go hunting, then flee together with nine driving reindeer.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:4
+  label: kettle stratagem actor
+  assigned_to:
+  - fig:4
+  basis: The eldest sister takes the baby in her arms, distracts it, and throws it
+    into the kettle.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: magical obstacle maker
+  assigned_to:
+  - fig:2
+  basis: The youngest sister addresses and throws her ivory comb, which becomes an
+    ivory mountain behind them.
+  evidence_refs:
+  - ev:9
+- id: role:6
+  label: skeptical elder later convinced
+  assigned_to:
+  - fig:4
+  basis: The eldest sister initially says the younger sisters are not telling the
+    truth, but after witnessing Cu'mo herself she says they were right.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: cradle
+  literal_form: baby's cradle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: stored meat from rafters
+  literal_form: dried meat, fat, sausages, and tongues hanging from rafters
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: boiling kettle
+  literal_form: kettle containing boiling liquid and fat, later carried along in Cu'mo's
+    pursuit
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: large fire
+  literal_form: large fire under the kettle; fire still burning during the chase
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: sym:5
+  label: nine driving reindeer
+  literal_form: nine reindeer used by the sisters for flight and relays
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: ivory comb
+  literal_form: youngest sister's ivory comb thrown backward during flight
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: ivory mountain
+  literal_form: mountain of ivory from earth to heaven and from east to west
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:9
+  - ev:10
+scenes:
+- id: scene:1
+  label: Youngest sister witnesses Cu'mo
+  summary: The youngest sister stays home with the crying baby, hides under the bed,
+    and sees the baby grow, eat the stored provisions, and shrink back into the cradle
+    before the others return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Repeated witnessing by middle and eldest sisters
+  summary: The middle sister and then the eldest sister each stay home, hide from
+    fright, and witness the same transformation and eating sequence, after which the
+    eldest accepts that the reports were true.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Kettle stratagem and flight
+  summary: The sisters prepare a kettle over a fire, throw the distracted baby into
+    it, abandon their belongings, and flee with nine driving reindeer while Cu'mo
+    pursues them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+- id: scene:4
+  label: Ivory comb becomes mountain barrier
+  summary: During the pursuit, the youngest sister throws her ivory comb behind her;
+    it becomes an ivory mountain, briefly allowing the sisters to rest before Cu'mo
+    gnaws through it and continues the chase.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: size-changing uncanny child in cradle
+  taxonomy_refs:
+  - shapeshifter
+  - miraculous_child
+  basis: Cu'mo appears as a baby in a cradle but speaks in a deep adult voice, grows
+    until its head reaches the roof, and shrinks back before the sisters return.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage shows size change and uncanny speech, but does not describe
+    Cu'mo's origin or birth, so the miraculous-child classification is cautious.
+- id: motif:2
+  label: threefold hidden witnessing of a concealed danger
+  taxonomy_refs: []
+  basis: The youngest, middle, and eldest sisters each stay at home in turn, hide
+    under the bed, and witness Cu'mo's behavior before all accept the danger.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy reference directly names this repeated-witness pattern.
+- id: motif:3
+  label: boiling kettle trap followed by monster pursuit
+  taxonomy_refs: []
+  basis: The sisters attempt to get rid of Cu'mo by throwing the baby into a boiling
+    kettle, but Cu'mo pursues them afterward, kettle and all.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The episode does not show Cu'mo being killed; the pursuit continues.
+- id: motif:4
+  label: thrown object transforms into pursuit barrier
+  taxonomy_refs: []
+  basis: The youngest sister throws her ivory comb behind her during flight, and it
+    becomes a vast ivory mountain that delays Cu'mo until he gnaws through it.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The available motif taxonomy does not include a specific magical-flight
+    or obstacle-transformation reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2527-2533
+  quote_or_summary: The baby cries while the youngest sister rocks the cradle; she
+    is seized by sudden fright, hides under the bed, and listens as the baby becomes
+    still and listens too.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 2534-2540
+  quote_or_summary: The baby speaks in a deep man's voice, commands Cu'mo to become
+    large, rises from the cradle until its head reaches the roof, eats stored meat
+    and fat, then commands itself small and returns to the cradle.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized with brief quoted wording.
+- id: ev:3
+  type: summary
+  locator: 2541-2548
+  quote_or_summary: The youngest sister reports what happened; the eldest sister angrily
+    disbelieves her and asks how a baby could leave the cradle and become large.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 2549-2567
+  quote_or_summary: The second sister stays home, hides under the bed, witnesses the
+    baby grow, eat the provisions, shrink back into the cradle, and reports that it
+    is awful; the eldest again disbelieves the report.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 2569-2584
+  quote_or_summary: The eldest sister stays home, hides, witnesses the same growth,
+    eating, and shrinking sequence, then tells the others they were right and discusses
+    how to get rid of Cu'mo.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 2585-2590
+  quote_or_summary: The sisters cook reindeer meat in a kettle over a large fire,
+    leave boiling liquid and fat in it, distract the baby by pointing upward, and
+    throw it into the kettle.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 2590-2594
+  quote_or_summary: The sisters take nine driving reindeer, leave everything else
+    behind, flee at top speed with relays, and Cu'mo pursues them, kettle and all.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 2596-2597
+  quote_or_summary: During the chase, the fire burns, the kettle bubbles, and the
+    iron sides clatter as Cu'mo approaches the three sisters.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 2597-2602
+  quote_or_summary: The youngest sister tells her ivory comb to become a mountain
+    of ivory from earth to heaven and east to west; she throws it behind her, and
+    it becomes such a mountain, allowing the sisters to rest and change reindeer.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 2603-2605
+  quote_or_summary: Cu'mo reaches the ivory mountain, gnaws at it until splinters
+    fly, gnaws through it, crosses, and resumes the chase.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are candidate
+    classifications only, especially where the supplied taxonomy lacks exact entries
+    for magical flight or transformed pursuit barriers. No comparison claims were
+    recorded because the passage itself gives no explicit cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All observations and motif candidates are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-tales-of-yukaghir-lamut-bogoras-archive__l2527-l2608
+  passage_sha256=14d4db31da0f670eacb4a81bcee4598ebbfa6c0affd12b0711bafa2c7b788f1d
+

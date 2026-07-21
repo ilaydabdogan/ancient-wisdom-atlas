@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l11285-l11441
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UMKXAKAZA WAKOGING QWAYO. / IZINGANEXWANE. / UMKXAK AZ A-WAKOGIN G Q WAY
+    0. / LZIN GANEKWANE.; lines 11285-11441
+  start: '11285'
+  end: '11441'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A song addresses heaven, saying that it thunders in an undertone in order
+    to produce rain and seasonal change. After the Amadhlungundhlebe see clouds gathering,
+    Umkrakaza sings the song again. The sky becomes covered with clouds, thunders
+    strongly, rains heavily, and the rain quenches a red-hot sherd and tosses it upward.
+    An editorial note compares this to widespread beliefs in human control of weather
+    by incantation or other means.
+  language: English with embedded Zulu
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song directly addresses heaven and calls on it to listen.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song says heaven does not thunder loudly, but thunders in an undertone
+    to produce rain and a change of season.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: All the Amadhlungundhlebe see a cloud gathering tumultuously.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Umkrakaza sings the song again after the cloud is seen gathering.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The whole heaven becomes covered with clouds, thunders powerfully, and rains
+    heavily.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The rain quenches a red-hot sherd and tosses it into the air.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The editorial note states that belief in human power to control the elements
+    by incantations and other means is widespread.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Umkrakaza
+  description: A named performer who sings the song addressed to heaven.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Amadhlungundhlebe
+  description: A group who see the tumultuous gathering of cloud.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Heaven / sky
+  description: The addressed natural power in the song; it is described as thundering,
+    raining, and acting on the red-hot sherd.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: singer of weather-addressing song
+  assigned_to:
+  - fig:1
+  basis: Umkrakaza again sings the song that calls on heaven and describes thunder
+    producing rain.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: witnessing group
+  assigned_to:
+  - fig:2
+  basis: The Amadhlungundhlebe are said to see the cloud gathering.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: addressed weather power
+  assigned_to:
+  - fig:3
+  basis: Heaven is directly addressed by the song and is then described as clouding,
+    thundering, raining, and acting on the sherd.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: heaven / sky
+  literal_form: heaven addressed by song; cloud-covered sky that thunders and rains
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: rain
+  literal_form: great rain produced after the song
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: red-hot sherd
+  literal_form: a red-hot sherd quenched and tossed by the rain
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: clouds and thunder
+  literal_form: clouds gather and cover the sky; thunder accompanies the rain
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song addressed to heaven
+  summary: A song calls on heaven to listen and says its undertone thunder produces
+    rain and seasonal change.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cloud gathering and renewed song
+  summary: The Amadhlungundhlebe see clouds gathering, and Umkrakaza sings the weather-addressing
+    song again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Storm quenches the red-hot sherd
+  summary: The sky becomes cloud-covered, thunders, and rains heavily; the rain quenches
+    the red-hot sherd and tosses it upward.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: weather control or rainmaking by song/incantation
+  taxonomy_refs: []
+  basis: The passage presents a song addressed to heaven immediately before clouds,
+    thunder, heavy rain, and the quenching of the red-hot sherd; the editorial note
+    explicitly frames such belief as control of elements by incantation or other means.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:2
+  confidence: high
+  cautions: No exact weather-control taxonomy family is supplied in the available
+    motif list.
+- id: motif:2
+  label: rain and change of season called forth
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The song says the thunder acts to produce rain and a change of season.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage emphasizes an immediate rainstorm; it does not narrate a full
+    seasonal-cycle myth.
+- id: motif:3
+  label: water extinguishing heat or fire
+  taxonomy_refs: []
+  basis: The heavy rain quenches a red-hot sherd.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This may be a local plot action rather than a recurrent motif; no supplied
+    motif-family reference directly matches it.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s editorial note compares the Zulu weather song episode to a
+    broader pattern in which human beings or ritual specialists control wind, storm,
+    rain, or other elements by incantation or special power.
+  claim_level: same_function
+  target: cross-cultural weather-control by incantation or ritual power
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the editor through external examples; it
+    does not establish historical contact or common inheritance.
+- id: claim:2
+  claim: The cited examples of Eric 'Windy-cap,' wind-selling Laplanders, Mannan,
+    Ngatoro, and Hiawatha are presented as analogous cases in which winds, storms,
+    thunder, or lightning respond to a human or superhuman caller.
+  claim_level: same_motif
+  target: editorially cited storm-raising and wind-command traditions
+  evidence_refs:
+  - ev:3
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The examples are heterogeneous and editorially assembled; the passage
+    gives no detailed structural comparison beyond weather control.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11285-11296
+  quote_or_summary: A song addresses heaven, says it thunders in an undertone, and
+    explains that it thunders to produce rain and change of season.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 11298-11316
+  quote_or_summary: The editorial note states that belief in human beings controlling
+    the elements by incantations and other means is very widespread, and connects
+    this to weather-doctors and older beliefs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 11317-11378
+  quote_or_summary: The editorial note gives comparative examples including Eric of
+    Sweden called 'Windy-cap,' prayers or whistling to Saint Antonio for wind, Laplanders
+    and Bessie Millie selling winds, Mannan’s storm powers, and the Reim-kennar.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 11380-11394
+  quote_or_summary: The Amadhlungundhlebe see a cloud gathering tumultuously, and
+    Umkrakaza again sings the song addressed to heaven.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 11395-11409
+  quote_or_summary: The whole heaven becomes covered with clouds, thunders terribly,
+    rains a great rain, quenches the red-hot sherd, and tosses it upward.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 11410-11441
+  quote_or_summary: The editorial note adds further literary and mythological comparisons,
+    including Shakespeare’s Tempest, a witch brewing a storm, Ngatoro calling winds,
+    storms, thunder, and lightning, and Hiawatha calling tempest, lightning, and thunder.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is partly narrative and partly editorial commentary. The weather-control
+    motif is explicit, but the immediate narrative context before and after the line
+    range is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Taxonomy references were limited to supplied motif and symbol lists.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l11285-l11441
+  passage_sha256=265a0749f311ffe3bffd48ca5385cf13f9d2044915061b1fc11459785d9227c9
+

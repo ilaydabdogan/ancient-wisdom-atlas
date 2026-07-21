@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l5247-l5278
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: 'D 0 3 II / CHILDEEN. / CHILDREN. / IKUHA-GA KKUMM: IGA-KA KKUMM.; lines
+    5247-5278'
+  start: '5247'
+  end: '5278'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives notes on a bush or buchu term, placing the plant in ravines
+    of a red mountain near Kenhardt/Rooiberg, and distinguishes rubbing with dry substances
+    from anointing with wet ones. In the narrated fragment, an unnamed female smells
+    strongly of buchu and rubs herself to remove the smell. Old women who had been
+    seeking food come to burn horns, wanting the smell of the horns to rise so that
+    Rain will not be angry with them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A named bush is described as found in ravines of a red mountain near Kenhardt,
+    called Rooiberg by white people.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage distinguishes rubbing with dry things from anointing with wet
+    things.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An unnamed female smelled strongly of buchu and rubbed herself to take away
+    the buchu smell.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Old women who had been seeking food came to burn horns.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: The old women wanted the smell of the horns to go up so that Rain would not
+    be angry with them.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage is identified as related in December 1874 by a named narrator
+    who heard it from her mother.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed female
+  description: A female figure who smelled strongly of buchu and rubbed herself to
+    remove the smell.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: old women seeking food
+  description: Old women who had been out seeking food and who came to burn horns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Rain
+  description: Rain is described as able to become angry with the old women if the
+    desired action is not effective.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: self-rubbing figure
+  assigned_to:
+  - fig:1
+  basis: The figure rubs herself to take away the smell of buchu.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: horn-burning women
+  assigned_to:
+  - fig:2
+  basis: The old women come to burn horns and want the smell to rise.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: anger-capable Rain
+  assigned_to:
+  - fig:3
+  basis: The stated aim is that Rain should not be angry with the women.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: buchu bush and scent
+  literal_form: bush/buchu scent used in rubbing and associated with smell on the
+    body
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: red mountain or Rooiberg
+  literal_form: red mountain with ravines where the bush is found
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: dry rubbing substances
+  literal_form: dry things used for rubbing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: horns burned for their smell
+  literal_form: horns burned so their smell goes up
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Rain
+  literal_form: Rain as a named force or being whose anger is to be avoided
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: plant and mountain note
+  summary: A bush term is explained, and the bush is located in ravines of a red mountain
+    near Kenhardt/Rooiberg.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: rubbing and anointing distinction
+  summary: The passage explains that dry things are rubbed with, while wet things
+    are used to anoint.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: removing buchu smell
+  summary: An unnamed female rubs herself while trying to remove the smell of buchu
+    from herself.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: burning horns before Rain
+  summary: Old women who had been seeking food burn horns, wanting the smell to rise
+    so that Rain will not be angry with them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: self-rubbing to remove a plant scent
+  taxonomy_refs: []
+  basis: A female figure rubs herself while taking away the smell of buchu from herself.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The fragment does not explain why the smell must be removed.
+- id: motif:2
+  label: burning horns so smell rises to avert Rain's anger
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Old women burn horns and want the smell to go up so that Rain should not
+    be angry with them.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exchange or offering function is implied by the stated purpose, but
+    the passage does not explicitly call it a sacrifice or offering.
+- id: motif:3
+  label: personified Rain capable of anger
+  taxonomy_refs: []
+  basis: Rain is described as a force or being whose anger toward the women is to
+    be avoided.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage only states anger; it does not give further attributes, speech,
+    genealogy, or actions of Rain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5247-5251
+  quote_or_summary: A singular form is given for a bush name; the bush is said to
+    be found in ravines of a red mountain near Kenhardt, called Rooiberg by white
+    people.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5252-5259
+  quote_or_summary: A note explains rubbing the neck with buchu and says dry things
+    are rubbed with, while wet things are used to anoint.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5261-5264
+  quote_or_summary: The item is said to have been related in December 1874 by a named
+    narrator who heard it from her mother.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5266-5274
+  quote_or_summary: A note on a color/brightness word is followed by the statement
+    that she smelled strongly of buchu and was rubbing herself to take away the buchu
+    smell.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5275-5278
+  quote_or_summary: Old women who had been out seeking food came to burn horns, desiring
+    that the smell of the horns should go up so that Rain should not be angry with
+    them.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short, fragmentary passage with editorial and
+    lexical notes. The Rain-related motif is clear at a literal level, but its broader
+    ritual meaning requires human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or comparisons were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l5247-l5278
+  passage_sha256=3584a875ff7dec1a3d6bf4ec0033cd9acea0febe9f6b607997711eb65a75179d
+

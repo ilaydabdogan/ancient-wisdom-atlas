@@ -1,0 +1,132 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l7836-l7911
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: MISCELLANEOUS TALES 139 / MISCELLANEOUS TALES 141 / MISCELLANEOUS TALES 143
+    / MISCELLANEOUS TALES 147; lines 7836-7911
+  start: '7836'
+  end: '7911'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Wooden mask representing a spirit or ghost. Worn in dances by the tribes
+    of Sarawak and central Borneo.
+  summary: The legible portion is a plate caption identifying a wooden mask as representing
+    a spirit or ghost and stating that such masks are worn in dances by tribes of
+    Sarawak and central Borneo.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage includes a plate caption identifying a wooden mask.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wooden mask is described as representing a spirit or ghost.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The mask is described as worn in dances by tribes of Sarawak and central Borneo.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The caption locates the object at the Peabody Museum, Cambridge, Massachusetts.
+  category: setting
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: spirit or ghost
+  description: A spirit or ghost represented by the wooden mask.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: tribes of Sarawak and central Borneo
+  description: Collective human groups said to wear the mask in dances.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: represented spirit or ghost
+  assigned_to:
+  - fig:1
+  basis: The caption states that the wooden mask represents a spirit or ghost.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dance mask wearers
+  assigned_to:
+  - fig:2
+  basis: The caption states that the mask is worn in dances by tribes of Sarawak and
+    central Borneo.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: spirit or ghost mask
+  literal_form: wooden mask representing a spirit or ghost
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: dance wearing of spirit or ghost mask
+  summary: A wooden mask representing a spirit or ghost is worn in dances by tribes
+    of Sarawak and central Borneo.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: spirit or ghost represented by a dance mask
+  taxonomy_refs: []
+  basis: The caption identifies a wooden mask as representing a spirit or ghost and
+    describes it as worn in dances.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a brief object caption rather than a narrative tale; motif
+    extraction is therefore limited to the represented being and ritual use of the
+    object.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 7836-7911
+  quote_or_summary: "“Wooden mask representing a spirit or ghost. Worn in dances by
+    the tribes of Sarawak and central Borneo. Peabody Museum, Cambridge, Massachusetts.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Most of the supplied passage text appears to be corrupted OCR or image-text
+    noise. The extraction relies only on the legible Plate XV caption.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available taxonomy list does not include a specific mask, spirit-mask, ghost, or ritual dance category supported by this caption.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l7836-l7911
+  passage_sha256=50a6d8611bf244ad451151e164f1200a16c2b4b6fca55b5191b1e846cd874ca2
+

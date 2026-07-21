@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l8638-l8685
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: WEATHER   SIGNS / SUMMARY / THE    OMAHA    TRIBE / CONSECRATION  OF  THE  BOY  TO  THUNDER;
+    lines 8638-8685
+  start: '8638'
+  end: '8685'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: O red-hot fire, hasten!
+  summary: The passage gives a literal and free translation of a song calling on flames
+    and red-hot fire to come quickly and help. During the song, a ball of grass is
+    raised, thrown down, and said to burst into flames, which are understood as symbolizing
+    lightning. The text explains that the closing song returns to cosmic forces represented
+    in the Turning the Child ceremony and notes a rite consecrating the boy to the
+    Thunder god. At the ceremony's conclusion, the father cuts his son's hair according
+    to the symbolic manner of his gens; later the scalp lock, described as the sign
+    of the warrior, is kept braided.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song calls on flames and red-hot fire to come quickly and help.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: While the song was sung, a ball of grass was held aloft and then thrown to
+    the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ball of grass is described as mysteriously bursting into flames.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The resulting flames were regarded as symbolizing lightning.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The closing song is described as a return to cosmic forces appealed to and
+    represented in the ceremony of Turning the Child.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The ceremony is said to include a rite consecrating the boy to the Thunder
+    god.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At the conclusion of the tribal ceremony, when the child reached home, the
+    father cut his son's hair after the symbolic manner of his gens.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The hair was worn in that manner until the second dentition; afterward the
+    scalp lock, described as the sign of the warrior, was parted off and kept braided.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: child / boy / son
+  description: The child in the ceremony, described as a boy consecrated to the Thunder
+    god and as the son whose hair is cut by his father.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: father
+  description: The father who cuts his son's hair after the ceremony.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Thunder god
+  description: The deity to whom the boy is consecrated in the rite.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: consecrated child
+  assigned_to:
+  - fig:1
+  basis: The passage refers to the rite of consecrating the boy to the Thunder god
+    and then describes the child's post-ceremony hair cutting.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ritual hair-cutter
+  assigned_to:
+  - fig:2
+  basis: The father cuts his son's hair after the tribal ceremony.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: recipient deity of consecration
+  assigned_to:
+  - fig:3
+  basis: The boy is consecrated to the Thunder god.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: flames / red-hot fire
+  literal_form: flames and red-hot fire invoked in the song and manifested in the
+    grass-ball act
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: ball of grass
+  literal_form: ball of grass held aloft, thrown down, and described as bursting into
+    flames
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lightning
+  literal_form: lightning symbolized by the flames
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: gens hair cutting
+  literal_form: hair cut after the symbolic manner of the father's gens
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: scalp lock
+  literal_form: scalp lock parted off and kept braided, described as the sign of the
+    warrior
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song calling fire to help
+  summary: A song calls flames and red-hot fire to come quickly and help.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Grass ball bursts into symbolic lightning-fire
+  summary: During the song, a ball of grass is raised, thrown to the ground, and described
+    as bursting into flames that symbolize lightning.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Ceremonial return to cosmic forces and Thunder consecration
+  summary: The closing song is framed as returning to the cosmic forces in the Turning
+    the Child ceremony, which includes consecrating the boy to the Thunder god.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Post-ceremony hair marking
+  summary: After the ceremony, the child reaches home and the father cuts his son's
+    hair in the symbolic manner of his gens; later the scalp lock is kept as the warrior
+    sign.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Invocation of fire for assistance
+  taxonomy_refs: []
+  basis: The song directly asks flames and red-hot fire to come quickly and help.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents a ritual song; it does not narrate an independent
+    mythic episode about fire.
+- id: motif:2
+  label: Ritual fire representing lightning
+  taxonomy_refs: []
+  basis: A grass ball bursts into flames, and the flames are explicitly said to symbolize
+    lightning.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The mechanism of the burst is described as mysterious, but no further
+    cosmological explanation is included in this excerpt.
+- id: motif:3
+  label: Boy consecrated to a thunder deity
+  taxonomy_refs:
+  - initiation
+  basis: The ceremony includes a rite of consecrating the boy to the Thunder god,
+    within a child-focused tribal ceremony.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt summarizes the rite rather than giving its full sequence or
+    meaning.
+- id: motif:4
+  label: Hair and scalp lock as lineage and warrior signs
+  taxonomy_refs: []
+  basis: The father's hair cutting follows the symbolic manner of the gens, and the
+    later scalp lock is described as the sign of the warrior.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage identifies symbolic and status functions but does not explicitly
+    classify the hair practices as a separate initiation rite.
+comparison_claims:
+- id: claim:1
+  claim: The boy's consecration to the Thunder god and subsequent status-marking hair
+    practices can be cautiously compared by function to an initiation motif family.
+  claim_level: same_function
+  target: initiation
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an ethnographic ritual description, not a narrative
+    myth; it supports functional comparison only, not claims of historical contact,
+    inheritance, or a full initiation sequence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8638-8659
+  quote_or_summary: The free translation repeatedly calls, in effect, for flames and
+    red-hot fire to come quickly and help; one line reads, "O red-hot fire, hasten!"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8660-8664
+  quote_or_summary: As the song was sung, a ball of grass was held aloft, hurled to
+    the ground, and said to burst into flames, which were regarded as symbolizing
+    lightning.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8668-8676
+  quote_or_summary: The closing song is described as returning to cosmic forces appealed
+    to and represented in the ceremony of Turning the Child; the ceremony is also
+    said to include the rite of consecrating the boy to the Thunder god.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8678-8685
+  quote_or_summary: After the tribal ceremony, when the child reached home, the father
+    cut his son's hair in the symbolic manner of his gens; the hair was worn that
+    way until second dentition, after which the scalp lock, called the warrior sign,
+    was kept braided.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ritual actions and stated symbols are explicit. Broader motif assignment
+    is limited because the excerpt is a short ethnographic passage rather than a complete
+    mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No historical-contact or inheritance claims are made.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l8638-l8685
+  passage_sha256=e24cb84033300847223bd9c707987aaa2d90fdabdd7a2b586cfa2520cc9d55bc
+

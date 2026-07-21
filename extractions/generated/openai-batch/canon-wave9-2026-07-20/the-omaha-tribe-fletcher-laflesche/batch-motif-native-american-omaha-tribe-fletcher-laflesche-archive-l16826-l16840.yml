@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l16826-l16840
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: HE'DEWACHI  CALL / THE    OMAHA   TRIBE / THE    SACRED    POLE / M.  M.  J-108;
+    lines 16826-16840
+  start: '16826'
+  end: '16840'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: During a Sacred Pole dance, men and women form two concentric circles around
+    the pole and move in opposite directions while a choir at the foot of the pole
+    sings.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The participants begin to dance around the pole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The women turn to the right, with their left side next to the circle of men
+    and the pole.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The women dance in the opposite direction from the men.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tribe is divided into two concentric circles around the pole.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The two circles revolve in opposite directions about the pole.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A choir at the foot of the pole sings a song.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Male participants forming one circle around the pole.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: women
+  description: Female participants who turn to the right and dance opposite the men.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: tribe
+  description: The collective group divided into two concentric circles around the
+    pole.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: choir
+  description: Singers positioned at the foot of the pole.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ho"'ga
+  description: A named group described as last in the sequence before all began to
+    dance around the pole.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: male dance circle
+  assigned_to:
+  - fig:1
+  basis: The passage distinguishes the circle of men from the women and notes opposite
+    movement.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: female dance circle
+  assigned_to:
+  - fig:2
+  basis: The women turn to the right and dance opposite the men.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual participants
+  assigned_to:
+  - fig:3
+  basis: The tribe is described as divided into two concentric circles revolving about
+    the pole.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ritual singers
+  assigned_to:
+  - fig:4
+  basis: The choir at the foot of the pole sings the song.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: last named group in sequence
+  assigned_to:
+  - fig:5
+  basis: The Ho"'ga are described as last before all began to dance around the pole.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Sacred Pole
+  literal_form: pole
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: two concentric circles
+  literal_form: two concentric circles of dancers
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: opposite directions
+  literal_form: counter-moving dance directions
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Counter-rotating dance around the Sacred Pole
+  summary: After the sequence reaches the Ho"'ga, all begin dancing around the pole.
+    Men and women form two concentric circles and revolve in opposite directions while
+    the choir at the pole's foot sings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual circumambulation around a sacred center
+  taxonomy_refs:
+  - world_center
+  basis: The pole is the center about which the tribe forms concentric circles and
+    revolves, with a choir stationed at its foot.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows a ritual center but does not explicitly describe the
+    pole as a cosmic or world center.
+- id: motif:2
+  label: paired opposite movement
+  taxonomy_refs:
+  - duality
+  basis: Men and women move in opposite directions in two concentric circles around
+    the pole.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states a gendered opposition of dance direction but does not
+    explain its symbolic meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16826-16829
+  quote_or_summary: '"around to the Ho\"''ga, who were last, and all began to dance
+    around the pole."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 16829-16832
+  quote_or_summary: The women turn to the right, with their left side next to the
+    men's circle and the pole, and dance opposite the men.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 16832-16836
+  quote_or_summary: '"The tribe thus divided into two concentric circles, revolved
+    in opposite directions about the pole"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 16836-16840
+  quote_or_summary: The choir at the foot of the pole sings the following song, identified
+    as M. M. J-108.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual actions and participants are explicit. Motif labels are cautious
+    because the passage does not explain the symbolic meaning of the dance formation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the passage itself only describes the ritual formation and movement.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l16826-l16840
+  passage_sha256=c6ef67c3b13dbca92ef35f22b4d6477cd9c1deb8d1adc5f7870962636ceb9d50
+

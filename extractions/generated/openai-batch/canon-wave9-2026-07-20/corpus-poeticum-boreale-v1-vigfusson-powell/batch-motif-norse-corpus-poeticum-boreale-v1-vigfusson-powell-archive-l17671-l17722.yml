@@ -1,0 +1,390 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l17671-l17722
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: SCHOLIA, / WICKING SONGS. / APPENDIX TO THE FIRST VOLUME. / DUPLICATE TEXTS.;
+    lines 17671-17722
+  start: '17671'
+  end: '17722'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial appendix passage headed “DUPLICATE TEXTS,” containing fragmentary
+    Old Norse duplicate-text excerpts, speaker labels including Sinfiotli and an abbreviated
+    “Gvpm.”, references to named kin groups and rewards, and a short Baldr-related
+    duplicate excerpt under headings for Volospa and Doom of Balder.
+  language: Old Norse with English editorial headings and OCR/typographic artifacts
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “DUPLICATE TEXTS” and presents fragmentary Old Norse
+    text with editorial insertions such as “[and so on, Il. 190-230]” and “[here ends
+    Text A].”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text marks speech or quoted material with speaker labels including “Sinfiotliq,”
+    “Sinfiotli,” and an abbreviated “Gvpm. q.”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The first fragment mentions Siggeir in possessive form and includes a violent
+    reference to a brother’s breast being torn or opened.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The dialogue fragment contains references to ships, ravens, and swords or
+    weapons in the surrounding Old Norse wording.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The passage names or labels Granmar’s sons and later addresses a “byplungr”
+    or prince-like figure with references to red rings, Havgna/Högni’s daughter, victory,
+    and lands.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A later duplicate excerpt is headed “Volospa (Cd. R)” and mentions Baldr’s
+    brother, Baldr, and a pyre-like term “bal.”
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The next heading identifies “Doom of Balder (Cd. AM. 748),” presenting the
+    Baldr material as part of an editorial duplicate-text comparison.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sinfiotli
+  description: Named in speaker labels as “Sinfiotliq” and “Sinfiotli.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Gvpm. / abbreviated speaker label
+  description: Abbreviated label “Gvpm. q.” appears before a spoken line.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Siggeir
+  description: Named in possessive form “siggeirs” in the first fragment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Granmar’s sons
+  description: Collective kin group named as “granmars synir.”
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unspecified byplungr / prince-like addressee
+  description: Addressed with “byplungr” in a passage mentioning rings, Havgna/Högni’s
+    daughter, victory, and lands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Havgna/Högni’s daughter
+  description: Mentioned as “havgna dottor” in the reward or blessing sequence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Baldr
+  description: Named in the later duplicate excerpt under Volospa and Doom of Balder
+    headings.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Baldr’s brother
+  description: Mentioned literally as “baldrs brodir” in the Volospa duplicate excerpt.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: marked speaker in dialogue fragment
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures appear as speaker labels introducing speech or quoted lines.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named figure in accusatory reference
+  assigned_to:
+  - fig:3
+  basis: Siggeir is named in the same fragment as hostile or accusatory material about
+    home, wolf-songs, and violence to a brother.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: collective named kin group
+  assigned_to:
+  - fig:4
+  basis: The phrase “granmars synir” identifies sons of Granmar in a passage also
+    mentioning swords or weapons.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: addressed prince-like recipient of blessing or reward
+  assigned_to:
+  - fig:5
+  basis: The “byplungr” is addressed with “heill” and associated with enjoying Havgna/Högni’s
+    daughter, victory, and lands.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: daughter named in reward sequence
+  assigned_to:
+  - fig:6
+  basis: The daughter is named alongside rings, victory, and lands in the address
+    to the byplungr.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Baldr-related kin figure
+  assigned_to:
+  - fig:8
+  basis: The excerpt explicitly calls the figure Baldr’s brother.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Baldr-related funeral or pyre figure
+  assigned_to:
+  - fig:7
+  basis: Baldr is named in the same line group that mentions “bal,” a pyre-like term.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ships
+  literal_form: "“sceip” / ships in the dialogue fragment"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ravens
+  literal_form: "“hrafna” / ravens in the dialogue fragment"
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: swords or weapons
+  literal_form: "“hioriom” in a passage about Granmar’s sons"
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: red rings
+  literal_form: "“ravpir bavgar” / red rings"
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: pyre
+  literal_form: "“a bal” in the Baldr duplicate excerpt"
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Fragmentary insult or dialogue exchange
+  summary: A duplicate-text fragment contains marked speech by Sinfiotli and an abbreviated
+    speaker, with accusations or hostile references involving Siggeir, ships, ravens,
+    and a brother’s violent injury.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Heroic address with rewards after conflict
+  summary: The text refers to Granmar’s sons, weapons, an unnamed byplungr, red rings,
+    Havgna/Högni’s daughter, victory, and lands after the close of a conflict or campaign.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Baldr duplicate excerpt
+  summary: A later excerpt under Volospa and Doom of Balder headings names Baldr’s
+    brother and Baldr in connection with birth and a pyre-like term.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: flyting or insult dialogue with shame accusations
+  taxonomy_refs: []
+  basis: The passage marks alternating speech by named or abbreviated speakers and
+    includes hostile statements about prior deeds, gendered accusation, ships, and
+    violence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The fragment is not translated here and contains OCR/typographic corruption;
+    the flyting label is based on the visible speaker markers and accusatory content
+    only.
+- id: motif:2
+  label: battle aftermath reward of rings, woman, victory, and lands
+  taxonomy_refs: []
+  basis: The address to the byplungr associates the addressee with red rings, Havgna/Högni’s
+    daughter, victory, and lands after a conflict is closed.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The syntax is fragmentary, and the exact narrative relationship among
+    the rewards is uncertain.
+- id: motif:3
+  label: kinsman and pyre in Baldr-related death material
+  taxonomy_refs: []
+  basis: The Volospa duplicate excerpt explicitly names Baldr’s brother and Baldr
+    and includes a pyre-like term in close proximity.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt is very short and editorially embedded; it does not provide
+    the complete Baldr narrative.
+- id: motif:4
+  label: duplicate-text preservation of mythic episodes
+  taxonomy_refs: []
+  basis: The passage is explicitly headed “DUPLICATE TEXTS” and presents Baldr-related
+    material under both Volospa and Doom of Balder headings.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: This is a textual-transmission pattern rather than a mythic narrative
+    motif in itself.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents the Baldr-related lines as a duplicate or parallel
+    between Volospa in Codex Regius and Doom of Balder in AM. 748.
+  claim_level: same_motif
+  target: Baldr-related duplicate excerpt in Volospa (Cd. R) and Doom of Balder (Cd.
+    AM. 748)
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is editorial and based only on the headings and short
+    excerpt visible in this passage; it does not establish independent historical
+    contact or broader mythic development.
+- id: claim:2
+  claim: The appendix frames the selected material as duplicate text rather than as
+    a continuous standalone narrative.
+  claim_level: linguistic_similarity
+  target: Duplicate-text apparatus in the appendix
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Some later lines are heavily corrupted or OCR-like, so the precise
+    textual correspondences beyond the named headings are not recoverable from this
+    excerpt alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17671-17679
+  quote_or_summary: Heading “DUPLICATE TEXTS”; opening fragment includes Siggeir,
+    wolf-song wording, a brother whose breast is torn/opened, and an editorial note
+    that the text continues.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:2
+  type: summary
+  locator: lines 17680-17686
+  quote_or_summary: Speaker labels include “Sinfiotliq,” “Gvpm. q.,” and “Sinf. q.”;
+    the speech includes references to being a bride, riding many ships, and ravens.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:3
+  type: summary
+  locator: lines 17687-17696
+  quote_or_summary: The fragment names “granmars synir,” refers to swords or weapons,
+    addresses a “byplungr,” and mentions red rings, Havgna/Högni’s daughter, victory,
+    and lands after “socn locit.”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:4
+  type: summary
+  locator: lines 17700-17707
+  quote_or_summary: Editorial heading “To Page 181. (a) Volospa (Cd. R).” followed
+    by a short Baldr-related excerpt naming “baldrs brodir,” “baldrs,” and “a bal”;
+    next heading reads “Doom of Balder (Cd. AM. 748).”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+- id: ev:5
+  type: summary
+  locator: lines 17709-17721
+  quote_or_summary: Editorial cross-reference to “Page 192 at the bottom” and labels
+    “Text R” and “Text H,” followed by heavily corrupted or OCR-like lines.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; full text allowed by supplied metadata.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary, partly untranslated Old Norse, and includes OCR
+    or typographic corruption. Names and repeated editorial labels are clear enough
+    for cautious extraction, but narrative reconstruction is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources were used; all extracted items are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l17671-l17722
+  passage_sha256=5061f40be510d824b8be8c4c161954e8f882f19ca3b55b5517332dbd5ff12300
+

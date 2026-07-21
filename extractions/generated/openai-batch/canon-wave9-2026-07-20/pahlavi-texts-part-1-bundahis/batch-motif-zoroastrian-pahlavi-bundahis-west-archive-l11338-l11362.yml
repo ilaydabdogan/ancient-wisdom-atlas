@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l11338-l11362
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: BAHMAN YA5T. / Chapter I. / CHAPTER I, 2-6. 19; / Chapter II.; lines 11338-11362
+  start: '11338'
+  end: '11362'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage opens Chapter II by saying that the Vohuman Yast commentary
+    declares that Zaratusht asked for immortality. The notes mention variant or related
+    material: a Persian version in which Khusro questions Mazdak through a priestly
+    assembly and executes him after failure, and a similar prohibition addressed to
+    Zaratusht concerning the Avesta text in Horvadad Yt. 10.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Vohuman Yast commentary is said to declare that Zaratusht asked for immortality.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says the Persian version does not mention a promise and instead has
+    Khusro send a message to Mazdak requiring him to answer a priestly assembly's
+    questions on pain of death.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mazdak is said to have been asked ten religious questions, to have been unable
+    to answer one, and to have been put to death immediately by the king.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A note states that a similar prohibition addressed to Zaratusht regarding
+    the Avesta text is found in Horvadad Yt. 10.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Zaratusht
+  description: Named as the one who asked for immortality; also named in a note as
+    the addressee of a similar prohibition concerning the Avesta text.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Khusro
+  description: In the Persian-version note, Khusro sends a message to Mazdak requiring
+    answers under threat of death and then puts him to death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mazdak
+  description: Called accursed in the note; required to answer religious questions,
+    unable to answer one, and put to death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: priestly assembly
+  description: Group whose questions Mazdak is required to answer in the Persian-version
+    note.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: requester of immortality
+  assigned_to:
+  - fig:1
+  basis: Zaratusht is explicitly said to have asked for immortality.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal imposer of religious test and execution
+  assigned_to:
+  - fig:2
+  basis: Khusro requires Mazdak to answer questions on pain of death and then puts
+    him to death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: questioned and condemned opponent
+  assigned_to:
+  - fig:3
+  basis: Mazdak is required to answer questions, fails, and is executed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: priestly questioners
+  assigned_to:
+  - fig:4
+  basis: The priestly assembly provides the questions Mazdak must answer.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: addressee of prohibition
+  assigned_to:
+  - fig:1
+  basis: A similar prohibition is said to be addressed to Zaratusht concerning the
+    Avesta text.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Zaratusht asks for immortality
+  summary: The Vohuman Yast commentary is reported to say that Zaratusht asked for
+    immortality.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mazdak tested by religious questions and executed
+  summary: In the Persian-version note, Khusro requires Mazdak to answer a priestly
+    assembly's religious questions under threat of death; Mazdak fails to answer one
+    and is executed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: request for immortality
+  taxonomy_refs: []
+  basis: Zaratusht is explicitly said to ask for immortality.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage breaks off after the phrase 'from', so the recipient and outcome
+    of the request are not present in the supplied text.
+- id: motif:2
+  label: religious wisdom test under threat of death
+  taxonomy_refs:
+  - wisdom
+  basis: Mazdak must answer ten religious questions before a priestly assembly on
+    pain of death, fails, and is executed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This motif appears in a note describing a Persian-version variant, not
+    in the main chapter text as supplied.
+- id: motif:3
+  label: prohibition concerning sacred text
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: A note refers to a similar prohibition addressed to Zaratusht regarding the
+    Avesta text.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact wording and circumstances of the prohibition are not included
+    in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly notes a similar prohibition addressed to Zaratusht
+    in Horvadad Yt. 10, supporting a cautious same-function comparison for a prohibition
+    concerning the Avesta text.
+  claim_level: same_function
+  target: Horvadad Yt. 10 prohibition addressed to Zaratusht concerning the Avesta
+    text
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supplies only a brief footnote reference, not the full
+    text of either prohibition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11338-11342
+  quote_or_summary: '"Zaratu^t asked for immortality" in the Vohuman Yast commentary.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 11347-11352
+  quote_or_summary: A note says the Persian version omits the promise and has Khusro
+    send a message to Mazdak requiring him to answer a priestly assembly's questions
+    on pain of death.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 11352-11355
+  quote_or_summary: Mazdak is asked ten religious questions, cannot answer one, and
+    the king puts him to death immediately.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 11357-11359
+  quote_or_summary: A note says a similar prohibition addressed to Zaratusht concerning
+    the Avesta text is found in Horvadad Yt. 10.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The supplied passage is fragmentary and includes footnotes that refer to
+    variant or related material; motif candidates based on footnotes should be reviewed
+    separately from the main chapter text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the supplied symbol taxonomy are directly present in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l11338-l11362
+  passage_sha256=123a9e2c747a340a0aa1330c62569bbd6701831ce042859356af19cb4191dddf
+

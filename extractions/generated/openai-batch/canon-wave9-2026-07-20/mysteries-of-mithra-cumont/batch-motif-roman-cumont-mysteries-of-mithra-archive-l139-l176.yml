@@ -1,0 +1,354 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l139-l176
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: LONDON / TRANSLATION  COPYRIGHTED / PREFACE  TO  THE  FRENCH  EDITION / IV  PREFACE    TO    THE    FRENCH    EDITION;
+    lines 139-176
+  start: '139'
+  end: '176'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The preface describes the religion of the Magi as an Iranian tradition
+    that influenced Occidental culture. It says Parseeism affected formative Judaism
+    and later Catholicism through disseminated doctrines; Mazdaism influenced European
+    thought through Magi in Asia Minor who combined inherited beliefs with Greek doctrines;
+    and the resulting religion spread westward, drew people to the altars of an exotic
+    god, and was checked by Christianity, with the two rival traditions perceiving
+    similarities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the religion of the Magi exercised a deep influence
+    on Occidental culture at three different periods.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that Parseeism made an impression on formative Judaism
+    and that several doctrines were disseminated by Jewish colonists around the Mediterranean
+    and later affected orthodox Catholicism.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The passage states that the influence of Mazdaism on European thought became
+    more direct when Asia Minor was conquered by the Romans.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes colonies of Magi from Babylon living in Asia Minor and
+    combining traditional beliefs with doctrines of Grecian thinkers.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says this religion emerged at the beginning of the era and moved
+    rapidly into the valleys of the Danube and Rhine and into Italy.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the nations of the Occident considered the Mazdean faith
+    superior to older national creeds and that the populace went to the altars of
+    an exotic god.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: The passage says the progress of this religion was checked when it came into
+    contact with Christianity, and it calls the two traditions adversaries that discovered
+    similarities.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: religion of the Magi / Parseeism / Mazdaism / Mazdean faith
+  description: A religious tradition identified with the Magi, Parseeism, Mazdaism,
+    and the Mazdean faith; described as influencing Occidental culture, Judaism, European
+    thought, and later spreading westward.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Magi colonies from Babylon
+  description: Colonies of Magi said to have migrated from Babylon, lived in Asia
+    Minor, and combined inherited beliefs with Greek doctrines.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Jewish colonists
+  description: Colonists credited with disseminating several doctrines through the
+    Mediterranean basin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Romans
+  description: The people whose conquest of Asia Minor is given as the setting for
+    a more direct influence of Mazdaism on European thought.
+  role_refs: []
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: nations and populace of the Occident
+  description: Western nations and people described as feeling the superiority of
+    the Mazdean faith and going to the altars of the exotic god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: the exotic god
+  description: A deity named only by the passage as an exotic god whose altars attracted
+    the populace.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Christianity
+  description: A rival religious tradition that checked the progress of the spreading
+    religion and is described as one of the two adversaries.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Grecian thinkers
+  description: Thinkers whose doctrines were combined with traditional beliefs by
+    the Magi colonies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: source tradition influencing Occidental culture
+  assigned_to:
+  - fig:1
+  basis: The passage says the religion of the Magi exercised deep influence on Occidental
+    culture and names effects on Judaism, Catholicism, and European thought.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: syncretic elaborators
+  assigned_to:
+  - fig:2
+  basis: The Magi colonies are said to have welded traditional beliefs with doctrines
+    of Grecian thinkers and elaborated a complex religion.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: doctrinal disseminators
+  assigned_to:
+  - fig:3
+  basis: Jewish colonists are said to have disseminated several doctrines throughout
+    the Mediterranean basin.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rival religious adversaries
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The passage says the spreading religion was checked by Christianity and calls
+    the two adversaries.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: responding worshippers
+  assigned_to:
+  - fig:5
+  basis: The passage says the populace thronged to the altars of the exotic god.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: object of worship
+  assigned_to:
+  - fig:6
+  basis: The exotic god is associated with altars to which the populace thronged.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: doctrinal source
+  assigned_to:
+  - fig:8
+  basis: The doctrines of Grecian thinkers are said to have been combined with the
+    Magi's traditional beliefs.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: altars of the exotic god
+  literal_form: altars
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Doctrinal influence through Judaism
+  summary: The passage presents Parseeism as influencing formative Judaism, after
+    which several doctrines are disseminated by Jewish colonists around the Mediterranean
+    and later affect orthodox Catholicism.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Magi in Asia Minor combine traditions
+  summary: After Roman conquest of Asia Minor, colonies of Magi from Babylon are described
+    as preserving inherited beliefs and combining them with doctrines of Grecian thinkers
+    to form a complex religion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Westward emergence and rivalry with Christianity
+  summary: The religion is described as emerging from obscurity, spreading into the
+    Danube and Rhine regions and Italy, attracting the populace to the altars of an
+    exotic god, and encountering Christianity as a rival that checked its progress.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cross-cultural transmission of religious doctrine
+  taxonomy_refs: []
+  basis: The passage repeatedly describes doctrines and religious influence passing
+    between Iranian, Jewish, Greco-Roman, Mediterranean, and Catholic contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a modern historical-scholarly passage rather than a mythic narrative;
+    no specific myth episode is narrated.
+- id: motif:2
+  label: syncretic formation of a religion
+  taxonomy_refs: []
+  basis: The Magi colonies are described as combining traditional beliefs with Greek
+    doctrines and gradually elaborating an original but complex religion.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes doctrinal synthesis in historical terms, not a symbolic
+    mythic event.
+- id: motif:3
+  label: rival expanding religions in contact
+  taxonomy_refs: []
+  basis: The passage describes a spreading religion whose progress is checked by Christianity
+    and calls the two traditions adversaries that recognized similarities.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The stated similarities are not specified in the provided line range.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the spreading Mazdean/Magi-derived religion with Christianity
+    by describing them as adversaries that came into contact and perceived similarities.
+  claim_level: historical_contact
+  target: Christianity
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt does not identify the specific similarities or explain
+    their origin; the line range ends in the middle of the discussion.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 145-153
+  quote_or_summary: The religion of the Magi is described as an Iranian achievement
+    that deeply influenced Occidental culture; Parseeism is said to have affected
+    Judaism in its formative stage.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:2
+  type: summary
+  locator: lines 153-158
+  quote_or_summary: Several cardinal doctrines are said to have been spread by Jewish
+    colonists throughout the Mediterranean and later to have affected orthodox Catholicism.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:3
+  type: summary
+  locator: lines 160-168
+  quote_or_summary: Mazdaism is said to have influenced European thought more directly
+    after the Roman conquest of Asia Minor, where Magi from Babylon combined traditional
+    beliefs with Greek doctrines and formed a complex religion.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:4
+  type: summary
+  locator: lines 168-174
+  quote_or_summary: At the beginning of the era, the religion is described as emerging
+    suddenly and spreading into the Danube and Rhine valleys and into Italy; Western
+    nations are said to have felt the Mazdean faith's superiority over older creeds.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:5
+  type: summary
+  locator: lines 174-176
+  quote_or_summary: The populace is said to have gone to the altars of the exotic
+    god; the religion's progress was checked by contact with Christianity, and the
+    two adversaries are said to have discovered similarities.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized without extended quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a scholarly preface about historical religious transmission
+    rather than a mythic narrative; comparison details are incomplete in the provided
+    excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs were used because the passage does not mention cave, fire, milk, mountain, serpent, tree, or water. No available motif-family taxonomy refs were assigned because the passage does not clearly instantiate one of the supplied mythic motif families.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l139-l176
+  passage_sha256=efc2869d19847ac5d66ba8596e83e13874489309f88a5e8da5e5d73d8e9c6dac
+

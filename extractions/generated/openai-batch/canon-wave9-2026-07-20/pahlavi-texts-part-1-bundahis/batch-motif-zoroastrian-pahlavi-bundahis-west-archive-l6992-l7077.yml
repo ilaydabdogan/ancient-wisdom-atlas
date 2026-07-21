@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l6992-l7077
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER XXIV, I-I 7. 89 / CHAPTER XXIV, I 8 -XXV, 3. 9 I / Chapter XXV. /
+    CHAPTER XXV, 4-6. 93; lines 6992-7077
+  start: '6992'
+  end: '7077'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes calendrical divisions of the year and day: changes
+    in day and night length, summer and winter measured in Hasars, equal day and night
+    at the Hamespamadayem season, seven months of summer and five months of winter,
+    priestly use of seasonal calculation for regulations concerning corpses and other
+    matters, and the division of summer and winter days into ritual periods.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that night increases during one seasonal interval, while
+    from another seasonal interval the night decreases and the day increases.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The summer day is described as twice the length of the shortest winter days,
+    and the winter night as twice the length of the shortest summer nights.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'The passage gives Hasar measurements: summer day twelve Hasars and night
+    six Hasars; winter night twelve Hasars and day six Hasars.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: During Hamespamadayem, identified with five supplementary days at the end
+    of Spendarmad, day and night are again equal.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Summer is defined as seven months between named calendar dates, and winter
+    as five months extending to the end of the five supplementary days.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A priest fulfills regulations concerning a corpse and other things by using
+    the calculation of summer and winter.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the seven months of summer, the periods of the day and night are five,
+    including Havan, Rapitvin, Auzerin, Aibisrutem, and Aushahin.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In winter there are four periods; from daybreak until Auzerin is all Havan,
+    with the rest as previously described.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the priest
+  description: A priest who fulfills regulations about a corpse and other things by
+    seasonal calculation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual regulation practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage says the priest fulfills regulation about a corpse and other
+    things by calculation of summer and winter.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: day and night measure
+  literal_form: Day and night lengths measured and compared across seasons.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: stars as time marker
+  literal_form: The appearance of stars in the sky marks the period of Aibisrutem;
+    their becoming imperceptible bounds Aushahin.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: five supplementary days
+  literal_form: Five supplementary days at the end of the month Spendarmad, associated
+    with Hamespamadayem and the completion of winter.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: seasonal lengths of day and night
+  summary: The passage sets out changing and contrasting lengths of day and night
+    in summer and winter, using Hasar measures and noting a time when day and night
+    are equal.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: calendar division of summer and winter
+  summary: The year is divided into seven months of summer and five months of winter
+    between named calendar dates and supplementary days.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: priestly application of seasonal calculation
+  summary: A priest applies the calculation of summer and winter to regulations concerning
+    a corpse and other matters.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: daily ritual periods in summer and winter
+  summary: Summer is divided into five named day-and-night periods, while winter has
+    four periods, with the appearance and disappearance of stars marking parts of
+    the sequence.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal cycle of light and darkness
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage repeatedly describes the increase, decrease, equality, and measured
+    contrast of day and night across summer, winter, and named seasonal festivals.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is calendrical and ritual-instructional rather than narrative
+    myth.
+- id: motif:2
+  label: day-night polarity
+  taxonomy_refs:
+  - duality
+  basis: Day and night are paired throughout the passage as alternating, inversely
+    measured temporal quantities in summer and winter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The text presents a calendrical opposition; no explicit metaphysical interpretation
+    of duality is stated in this passage.
+- id: motif:3
+  label: ritual timing by cosmic calendar
+  taxonomy_refs: []
+  basis: The priest's regulation concerning corpses and other things depends on calculating
+    summer and winter, linking ritual procedure to seasonal reckoning.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a procedural pattern in the passage and has no supplied taxonomy
+    reference.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XXV.4-5; lines 6992-7077
+  quote_or_summary: The text states that day and night increase or decrease across
+    seasons; summer day is twice the shortest winter day, winter night twice the shortest
+    summer night, and day/night lengths are measured in Hasars.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: Chapter XXV.6; lines 6992-7077
+  quote_or_summary: In Hamespamadayem, the five supplementary days at the end of Spendarmad,
+    day and night are equal again.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: Chapter XXV.7; lines 6992-7077
+  quote_or_summary: Summer is described as seven months between named auspicious days;
+    winter is described as five months up to the end of the five supplementary days.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: Chapter XXV.8; lines 6992-7077
+  quote_or_summary: The priest fulfills regulation about a corpse and other things
+    by the calculation of summer and winter.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: Chapter XXV.9; lines 6992-7077
+  quote_or_summary: 'In summer there are five periods of days and nights: Havan, Rapitvin,
+    Auzerin, Aibisrutem, and Aushahin, with star appearance and midnight helping mark
+    the later periods.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: Chapter XXV.10; lines 6992-7077
+  quote_or_summary: In winter there are four periods; from daybreak until Auzerin
+    is all Havan, with the rest as previously described.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The calendrical and ritual content is explicit. Motif assignment is cautious
+    because the passage is instructional rather than narrative. No comparison claims
+    are made because the passage itself does not compare traditions or corpora.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote material was treated as part of the supplied source excerpt but not used for broader comparative claims.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l6992-l7077
+  passage_sha256=8010ad40be21c97a65fc154ce54d7c1a0648ca07f6a89902aac3d019f972c03f
+

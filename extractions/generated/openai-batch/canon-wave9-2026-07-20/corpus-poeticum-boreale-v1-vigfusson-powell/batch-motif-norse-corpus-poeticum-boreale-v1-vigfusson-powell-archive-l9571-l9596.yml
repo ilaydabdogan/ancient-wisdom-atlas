@@ -1,0 +1,441 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l9571-l9596
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: ARISTOPHANES. / THE LAY OF SKIRNI. / VIII. / THE FLYTING OF IVAR AND WODEN.;
+    lines 9571-9596
+  start: '9571'
+  end: '9596'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Get thee gone from the Sound, passage shall be denied thee.
+  summary: The passage presents a fragmentary flyting dialogue. A traveler identified
+    as Thor or Anses-Thor seeks passage across water, but the speaker H denies ferrying
+    him, gives alternate directions through landmarks toward Werland and the land
+    of Woden, and the exchange ends with threat and curse. A prose note also identifies
+    Ivar Widefathom as a Danish conqueror who had a dream.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced as a fragment found in a prose paraphrase in the
+    Skioldunga Saga and retaining traces of old poetic form.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ivar Widefathom is described as a famous Danish conqueror and is said to have
+    had a dream; the excerpted sentence is incomplete.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Speaker H says he never thought a ferryman could stop Anses-Thor’s journey.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Speaker T tells the other speaker to pull the boat over, stop hooting, and
+    come to meet Magni’s father, identified parenthetically as the speaker.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Speaker H orders the traveler away from the Sound and says passage will be
+    denied.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the traveler asks for the way because he is not ferried across the water,
+    H gives directions by a stock, a stone, and a left-hand route to Werland, where
+    Fiorgyn will meet her son and tell the highway to the land of Woden.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The traveler asks whether he will arrive that day, and H answers that he will
+    arrive around sunrise with great toil and trouble.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Thor says the talk should be short because the answers are mocking and threatens
+    repayment for the refusal of passage; H dismisses him with a curse.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ivar Widefathom
+  description: A famous Danish conqueror mentioned in the prose frame as having had
+    a dream.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Thor / T / Anses-Thor / Magni’s father
+  description: The traveler seeking passage, asking for directions, and threatening
+    repayment for being refused passage; the printed dialogue later labels the speaker
+    as Thor.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: H, passage-denying speaker
+  description: The speaker who refers to a ferryman stopping Anses-Thor’s journey,
+    denies passage from the Sound, gives route directions, and curses the traveler.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Magni
+  description: A named figure referenced only through the phrase identifying the traveler
+    as Magni’s father.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Fiorgyn
+  description: A named figure who is said to meet her son at Werland and then tell
+    the highway to the land of Woden.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Woden
+  description: A named figure associated with the destination called the land of Woden;
+    also appears in the passage heading.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: dreaming conqueror
+  assigned_to:
+  - fig:1
+  basis: The prose frame identifies Ivar Widefathom as a famous Danish conqueror who
+    had a dream.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: denied traveler
+  assigned_to:
+  - fig:2
+  basis: The traveler’s journey is obstructed at a water crossing, and passage is
+    denied.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: father identified by kinship
+  assigned_to:
+  - fig:2
+  basis: The speaker identifies himself as Magni’s father.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: passage-denier and route-giver
+  assigned_to:
+  - fig:3
+  basis: H denies passage but then gives an alternate route with landmarks and a destination.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: referenced child
+  assigned_to:
+  - fig:4
+  basis: Magni is named only in the kinship phrase naming the traveler as Magni’s
+    father.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: route-associated mother or kin figure
+  assigned_to:
+  - fig:5
+  basis: Fiorgyn is said to meet her son and tell the highway to the land of Woden.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: destination-associated figure
+  assigned_to:
+  - fig:6
+  basis: The route ultimately leads to the land of Woden.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: water crossing
+  literal_form: The Sound and the water that the traveler seeks to cross by ferry.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: boat or ferry passage
+  literal_form: The boat the traveler asks to be pulled over and the refused act of
+    ferrying across the water.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: route markers
+  literal_form: A stock, a stone, and a left-hand route toward Werland.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: sunrise arrival
+  literal_form: Arrival at sunrise or near sunrise after toil and trouble.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: land of Woden
+  literal_form: The destination reached by highway after Werland and Fiorgyn’s guidance.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Prose frame and dream notice
+  summary: The excerpt is framed as a fragment from a prose paraphrase, and Ivar Widefathom
+    is introduced as a famous conqueror who had a dream.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Refusal at the Sound
+  summary: Thor or Anses-Thor seeks ferry passage across the water, but H denies passage
+    and orders him away from the Sound.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Alternate route to Woden’s land
+  summary: After refusing ferry passage, H gives directions through landmarks to Werland,
+    where Fiorgyn will meet her son and direct him toward the land of Woden; H says
+    the journey will involve toil and end around sunrise.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Threat and curse
+  summary: Thor says the exchange has been mocking and threatens repayment if they
+    meet again; H dismisses him with a curse invoking fiends.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: refused ferry across water
+  taxonomy_refs: []
+  basis: The traveler seeks water passage, but H denies ferrying and sends him away
+    from the Sound.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not state that the crossing is an afterlife crossing
+    or assign a named mythic function to the ferry.
+- id: motif:2
+  label: boundary flyting with mockery at a crossing
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The heading names the passage a flyting, and the exchange involves mocking
+    answers, refusal at the Sound, threat, and curse.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The excerpt does not explicitly identify H as a trickster; the taxonomy
+    reference is based on boundary obstruction and mocking speech only.
+- id: motif:3
+  label: wayfinding itinerary to a deity-associated land
+  taxonomy_refs: []
+  basis: H gives a staged route through landmarks to Werland, Fiorgyn, and the land
+    of Woden.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The purpose of the journey is not explained in the surviving excerpt.
+- id: motif:4
+  label: kinship identification in divine travel
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The traveler is identified as Magni’s father, and Fiorgyn is said to meet
+    her son before directing the way.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The relationships are stated or implied in brief phrases, but the passage
+    does not expand their significance.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports a same-function comparison with a flyting or insult-dialogue
+    pattern: hostile speakers exchange mocking refusal, threat, and curse.'
+  claim_level: same_function
+  target: flyting / insult-dialogue pattern
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage does not name an external comparator; the claim is limited
+    to generic function and form.
+- id: claim:2
+  claim: The refused water crossing can be compared at a motif-function level with
+    boundary-crossing or ferryman-refusal patterns.
+  claim_level: same_function
+  target: boundary-crossing / ferryman-refusal pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not specify an afterlife, initiation, or other fixed
+    mythic setting for the crossing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9571-9596, heading and prose note
+  quote_or_summary: The passage is headed as a flyting of Ivar and Woden and described
+    as a fragment from a prose paraphrase in the Skioldunga Saga with traces of old
+    poetic form.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 9571-9596, prose frame
+  quote_or_summary: "“Ivar Widefathom, the famous Danish conqueror, had a dream”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 9571-9596, dialogue
+  quote_or_summary: "“I never thought a ferryman could stop Anses-Thor’s journey.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: 9571-9596, dialogue
+  quote_or_summary: "“pull the boat hither; let us stop hooting. Come to meet Magni’s
+    father (me).”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: 9571-9596, dialogue
+  quote_or_summary: "“Get thee gone from the Sound, passage shall be denied thee.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: 9571-9596, route directions
+  quote_or_summary: The traveler asks for the way since H will not ferry him across
+    the water; H directs him by a stock, a stone, and a left-hand route to Werland,
+    where Fiorgyn will meet her son and tell the highway to the land of Woden.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 9571-9596, arrival question
+  quote_or_summary: The traveler asks if he will arrive that day, and H says he will
+    arrive with great toil and trouble at or near sunrise.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 9571-9596, closing exchange
+  quote_or_summary: Thor says the answers have been mocking and threatens to repay
+    the refusal if they meet again; H tells him to go and says may all the fiends
+    take him.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary and begins mid-exchange; H is only identified
+    by an initial, and the broader narrative context is incomplete. Motif extraction
+    is strongest for the refused crossing and flyting form.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All claims are limited to the supplied passage and metadata; no external identification of H or broader Norse parallels has been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l9571-l9596
+  passage_sha256=b0ca33f5bff99af86546ebd01c5675ec9d7478c683086ad8cf54b02113d286ea
+

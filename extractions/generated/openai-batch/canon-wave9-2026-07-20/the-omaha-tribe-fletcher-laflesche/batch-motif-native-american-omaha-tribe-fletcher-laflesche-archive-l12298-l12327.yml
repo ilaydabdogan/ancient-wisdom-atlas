@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l12298-l12327
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: BUREAU   OF   AMERICAN    ETHNOLOGY / TWENTY-SEVENTH    ANNUAL  REPORT     PLATE  34
+    / WAHON'THINGE / part  of  the  moon  seen  when  the  moon  is  new.     Two  of  this;
+    lines 12298-12327
+  start: '12298'
+  end: '12327'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a glossary-like list of Omaha/Ponca names with counts and
+    morpheme glosses. It includes names connected with the new moon, an ax, a white
+    buffalo, a route or walking that may refer to buffalo migrations, crumpled horns,
+    running hard, a sharp back, a group sitting, an admirer of women, and a big ax.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One name is parsed as moon, return, and new, and is applied to the new moon.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One name is glossed with an ax and a feminine termination.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: One name is glossed as white buffalo with a feminine termination, and is marked
+    as in Ingthezhide.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: One name is parsed as a route usually taken, over, and walking; the note says
+    it may refer to buffalo migrations.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Unclassified names are glossed as crumpled horns, running hard, sharp back,
+    and a group sitting.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A nickname is glossed as admirer of women, and a fanciful name is glossed
+    as big ax.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: white buffalo / buffalo
+  description: An animal referent appears in the gloss 'White buffalo' and in the
+    note about possible buffalo migrations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: animal referent in name gloss
+  assigned_to:
+  - fig:1
+  basis: The passage glosses one name as white buffalo and suggests another may refer
+    to buffalo migrations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: new or returning moon
+  literal_form: part of the moon seen when the moon is new; a name parsed as moon,
+    return, and new
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: ax
+  literal_form: ax; big ax
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: white buffalo or buffalo
+  literal_form: white buffalo; buffalo migrations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: route and walking
+  literal_form: a route usually taken, over, walking; possible reference to migrations
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: crumpled horns
+  literal_form: horns; crumpled
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: new moon return or renewal as naming image
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The name Mi'gthito is parsed as moon, return, and new, and is applied to
+    the new moon.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a name gloss rather than a mythic episode; cyclical meaning
+    is limited to the new or returning moon wording.
+- id: motif:2
+  label: animal migration route as naming image
+  taxonomy_refs: []
+  basis: The name Utheamonthi is parsed with route and walking elements, and the note
+    says it may refer to buffalo migrations.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The passage itself marks the buffalo-migration explanation as possible;
+    no explicit seasonal cycle or narrative action is provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 12298-12301
+  quote_or_summary: '"part of the moon seen when the moon is new"; Mi''gthito is glossed
+    as "Mi, moon; gthi, return; tonin, new" and applied to the new moon.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: 12303-12304
+  quote_or_summary: Mon/(;epewi" is glossed as "Ax; win, feminine termination."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: '12305'
+  quote_or_summary: Tecon/win is glossed as "White buffalo, win, feminine termination"
+    and marked "In Ingthe^zhide."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: 12307-12310
+  quote_or_summary: Uthe/amonthi is parsed as "Uthe, a route usually taken; a, over;
+    monthint walking" and the note adds that it "May refer to the migrations of the
+    buffalo."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: summary
+  locator: 12312-12321
+  quote_or_summary: The unclassified names are explained as crumpled horns, running
+    hard, sharp back, and a group sitting.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:6
+  type: summary
+  locator: 12323-12327
+  quote_or_summary: The nickname W'au'xtawathe is explained as admirer of women, and
+    the fanciful name Mon/cepetonga is explained as big ax.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a name glossary with clear literal glosses. Motif identification
+    is limited because there is no narrative scene or ritual description in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare the names to another motif family, text, or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l12298-l12327
+  passage_sha256=6f20783bd81d084dcb58df12bc8ae9086896513236d99755835ec40b73b47141
+

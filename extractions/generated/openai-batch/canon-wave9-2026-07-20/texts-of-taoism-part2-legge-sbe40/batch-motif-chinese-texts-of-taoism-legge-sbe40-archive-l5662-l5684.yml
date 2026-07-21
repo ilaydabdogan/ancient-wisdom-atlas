@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe40-archive-l5662-l5684
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+passage_locator:
+  label: H   2 / PT.  III.  SECT.  II.       THE  WRITINGS  OF  ATWANG-SZE.  IO3 /
+    PT.  III.  SECT.  III.       THE   WRITINGS    OF   X-WANG-3ZE.  121 / PT.  III.  SECT.  III.       THE    WRITINGS    OF   ZWANG-3ZE.  1
+    23; lines 5662-5684
+  start: '5662'
+  end: '5684'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books
+    of the East, Vol. 40)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Some literati, students of the Odes and Ceremonies, were breaking open a
+    mound over a grave ... there is a pearl in the mouth.
+  summary: A group of literati identified as students of the Odes and Ceremonies open
+    a grave mound. A superior asks at daybreak how the work is proceeding; younger
+    men report that the clothing has not yet been opened but that there is a pearl
+    in the mouth, and they cite a line from an Ode about green grain growing on a
+    mound.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Some literati, described as students of the Odes and Ceremonies, are breaking
+    open a mound over a grave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A superior among the group speaks down to the others and notes that day is
+    breaking in the east.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The superior asks how the work is going.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The younger men reply that they have not yet opened the buried man's jacket
+    and skirt.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The younger men report that there is a pearl in the mouth.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The younger men introduce a quotation from an Ode about bright green grain
+    growing on the sides of a mound.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A source note in the passage questions the genuineness of the paragraph and
+    says its style is inferior to the preceding material.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Literati, students of the Odes and Ceremonies
+  description: A group of literati identified by their study of the Odes and Ceremonies
+    and shown opening a grave mound.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Superior among the literati
+  description: The superior among the group, who speaks down to the others at daybreak
+    and asks about the progress of the work.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Younger men
+  description: The younger members of the group, who reply about the unopened clothing
+    and the pearl in the mouth, then cite the Ode.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Buried man
+  description: The person in the grave, referred to through his jacket, skirt, and
+    the pearl in his mouth.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: learned literati
+  assigned_to:
+  - fig:1
+  basis: The group is explicitly called literati and students of the Odes and Ceremonies.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: grave-openers
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The literati are breaking open a mound over a grave, and the dialogue concerns
+    progress in opening the buried man's clothing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: superior or overseer
+  assigned_to:
+  - fig:2
+  basis: The text calls him the superior among them and has him ask the others how
+    the work is going.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: younger respondents
+  assigned_to:
+  - fig:3
+  basis: The younger men reply to the superior's question with details about the body
+    and pearl.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: deceased or buried person
+  assigned_to:
+  - fig:4
+  basis: The figure is located in a grave and referred to by his clothing and mouth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: grave mound
+  literal_form: A mound over a grave being broken open.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pearl in the mouth
+  literal_form: A pearl reported to be in the mouth of the buried man.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: daybreak in the east
+  literal_form: The superior says that day is breaking in the east.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: green grain on the mound
+  literal_form: 'An Ode image: bright green grain growing on the sides of the mound.'
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Opening the grave at daybreak
+  summary: A group of learned literati open a grave mound. At daybreak their superior
+    asks about progress, and the younger men say the buried man's clothing has not
+    yet been opened but that a pearl is in the mouth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Citation of the Ode at the mound
+  summary: The younger men connect the grave-mound scene with a quoted Ode image of
+    green grain growing on the sides of a mound.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: opening or violating a grave mound
+  taxonomy_refs: []
+  basis: The passage centers on learned men breaking open a mound over a grave and
+    reporting progress in opening the buried man's clothing.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The text states that the grave is being opened but does not explicitly
+    state a completed theft or final motive.
+- id: motif:2
+  label: valuable object in the mouth of the dead
+  taxonomy_refs: []
+  basis: The younger men report a pearl in the mouth of the buried man before they
+    have opened his jacket and skirt.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the origin, ritual purpose, or intended use
+    of the pearl.
+- id: motif:3
+  label: learned or ritual specialists acting transgressively
+  taxonomy_refs: []
+  basis: The figures are students of the Odes and Ceremonies, yet they are shown opening
+    a grave and reciting an Ode in that context.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The satirical reading is supported by juxtaposition and by a source note,
+    but the note also questions the paragraph's genuineness.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself connects the grave-mound episode to a nearby canonical
+    tradition by citing an Ode image of green grain growing on the sides of a mound.
+  claim_level: linguistic_similarity
+  target: quoted Ode line about green grain on a mound
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The quoted fragment is brief and the passage does not explain the precise
+    function of the citation beyond introducing it with 'as it is said in the Ode.'
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5662-5664
+  quote_or_summary: '"Some literati, students of the Odes and Ceremonies, were breaking
+    open a mound over a grave"'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 5664-5666
+  quote_or_summary: The superior says, "Day is breaking in the east; how is the thing
+    going on?"
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 5666-5669
+  quote_or_summary: The younger men reply that they have not yet opened "his jacket
+    and skirt," but that "there is a pearl in the mouth."
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 5669-5673
+  quote_or_summary: 'The men cite an Ode: "The bright, green grain / Is growing on
+    the sides of the mound."'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:5
+  type: note
+  locator: 5678-5684
+  quote_or_summary: A source note says the paragraph's genuineness is questioned,
+    its style is inferior, and it may be a joke against literati acting as resurrectionists.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation and notes; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is high-confidence for the supplied English passage. Motif
+    interpretation is limited by the brief excerpt and by the included source note
+    questioning the paragraph's genuineness.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction separates the main narrative from the included source notes. No taxonomy motif or symbol reference was assigned because the supplied taxonomy does not contain a close supported category for grave-opening, burial pearls, or canonical quotation at a tomb.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe40-archive__l5662-l5684
+  passage_sha256=b656804fa7549fa1936cde59d050cf6ed86a2cc338cd42266a6878ad4ceb3a72
+

@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l23276-l23302
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: MUSICAL SCORE. / TARA THE SAVIOUR AND GODDESS OF MERCY. 435 / PRAYERS FOR
+    BLESSINGS. / BENEDICTION.; lines 23276-23302
+  start: '23276'
+  end: '23302'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Thou Quick Soother and Gracious Mother, / Holding the uptal flower!”"
+  summary: 'A benediction addresses a sacred motherly figure associated with Tara
+    in the section label, praises her as a great worker and quick soother, notes that
+    she holds an uptal flower, and asks that her glory come. The passage also describes
+    ritual offerings: the universe as a so-called magic-circle in daily Lama service,
+    and rice offered at noon with a hymn to the Three Holy Ones.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage label places the benediction within a section on Tara the Saviour
+    and Goddess of Mercy.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The benediction addresses a second-person sacred figure as the Great Worker,
+    Quick Soother, and Gracious Mother.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed figure is described as holding an uptal flower.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The benediction asks that the addressed figure’s glory come and includes the
+    auspicious formula Mangalam.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that offering the universe as a so-called magic-circle
+    is an essential part of the daily service of the Lamas.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A hymn in praise of the Three Holy Ones is said to be recited at noon with
+    an offering of rice.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tara / addressed Gracious Mother
+  description: The section label identifies Tara the Saviour and Goddess of Mercy;
+    the benediction addresses a Gracious Mother, Quick Soother, and Great Worker holding
+    an uptal flower.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Three Holy Ones
+  description: A collective group praised in a hymn recited at noon with rice offering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Lamas
+  description: Ritual practitioners for whom the universe-offering as a magic-circle
+    is described as part of daily service.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: benediction addressee
+  assigned_to:
+  - fig:1
+  basis: The benediction directly addresses the figure in the second person and petitions
+    her glory to come.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: motherly soothing deity
+  assigned_to:
+  - fig:1
+  basis: The addressed figure is called Quick Soother and Gracious Mother.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: praised holy triad
+  assigned_to:
+  - fig:2
+  basis: The passage states that a hymn in praise of the Three Holy Ones is recited.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: daily ritual officiants
+  assigned_to:
+  - fig:3
+  basis: The passage says the universe-offering as a magic-circle is an essential
+    part of the daily service of the Lamas.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: uptal flower
+  literal_form: flower held by the addressed Gracious Mother
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: universe as magic-circle
+  literal_form: offering of the universe as a so-called magic-circle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: rice offering
+  literal_form: rice presented at noon with a hymn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Mangalam formula
+  literal_form: auspicious benediction formula, Mangalam
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Benediction to the Gracious Mother
+  summary: A benediction addresses the sacred figure as Great Worker, Quick Soother,
+    and Gracious Mother, describes her holding an uptal flower, and asks that her
+    glory come.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Daily and noon offerings
+  summary: The passage explains that Lamas offer the universe as a magic-circle in
+    daily service and that a noon hymn praising the Three Holy Ones is accompanied
+    by an offering of rice.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: motherly merciful deity addressed for blessing
+  taxonomy_refs:
+  - mother_goddess
+  basis: The passage label identifies Tara as a goddess of mercy, and the benediction
+    addresses the figure as Gracious Mother and Quick Soother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a ritual benediction, not a narrative myth of motherhood;
+    the role is based on titles and devotional address.
+- id: motif:2
+  label: ritual offering accompanying praise or blessing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes offerings of the universe as a magic-circle and rice
+    presented with a hymn of praise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly state a reciprocal return from the deity;
+    the sacred-exchange reading is inferred from the ritual offering context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 23276-23302; passage label
+  quote_or_summary: The passage locator labels the surrounding section as “TARA THE
+    SAVIOUR AND GODDESS OF MERCY” and “PRAYERS FOR BLESSINGS. / BENEDICTION.”
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 23276-23280
+  quote_or_summary: "“Now! O! Thou! The Great Worker! / Thou Quick Soother and Gracious
+    Mother, / Holding the uptal flower!”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: line 23282
+  quote_or_summary: "“Let Thy glory come. Mangalam!”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 23284-23287
+  quote_or_summary: The passage states that offering the universe as a so-called magic-circle
+    is an essential part of the daily service of the Lamas.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 23289-23291
+  quote_or_summary: The passage states that a hymn in praise of the Three Holy Ones
+    is recited at noon with the presentation of an offering of rice.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual details are explicit. Motif assignments are cautious because
+    the passage is primarily liturgical and explanatory rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this rite to another text, tradition, or motif family beyond candidate taxonomy alignment.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l23276-l23302
+  passage_sha256=544a95a9c1d71f19e4b39282633113d97f64f7ac53e4692c670c2baf93f3244e
+

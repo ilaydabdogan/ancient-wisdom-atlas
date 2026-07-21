@@ -1,0 +1,448 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l4542-l4626
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: THE  STORY  OF  HLAKANYANA.  93 / THE  STORY  OF  HLAKANYANA.  95 / THE  STORY  OF  HLAKANYANA,  99
+    / THE  STORY  OF  HLAKANYANA.  103; lines 4542-4626
+  start: '4542'
+  end: '4626'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Hlakanyana carries a pot to goat-herding boys and prompts them to borrow
+    it for milking; when it breaks, he demands compensation and receives a goat. He
+    then prompts calf-keepers to suck the goat; when it dies, he demands compensation
+    and receives a calf. He next lends the calf to cow-keepers so the cows will give
+    milk; the calf dies, and he begins another cumulative accusation. Each accusation
+    recites the prior chain of losses and replacements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hlakanyana carries a pot to boys herding goats and suggests that they borrow
+    it instead of only sucking the goats without a vessel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The goat-herding boys borrow the pot, and it breaks while they are milking.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the pot breaks, Hlakanyana accuses the boys and recites that the pot
+    came from pot-makers, who had broken his digging-stick, which came from a companion
+    who ate his birds and left him the heads.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The goat-herding boys give Hlakanyana a goat as compensation for the broken
+    pot.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Hlakanyana brings the goat to keepers of calves and offers it to them to suck;
+    the goat dies while they are sucking it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hlakanyana accuses the keepers of calves of killing the goat and repeats the
+    chain of prior objects and losses.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The keepers of calves give Hlakanyana a calf.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hlakanyana brings the calf to keepers of cows and says they should borrow
+    it so the cows will be induced to give milk freely.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The cow-keepers borrow the calf, and it dies while in their hands.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Hlakanyana accuses the cow-keepers of killing the calf and again begins a
+    cumulative recitation of the calf, goat, pot, digging-stick, companion, birds,
+    and heads.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: Across the passage, the sequence of compensation moves from pot to goat to
+    calf.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Hlakanyana
+  description: The named figure who carries the pot, goat, and calf, prompts others
+    to use them, and makes accusations after the objects or animals are damaged or
+    die.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: boys herding goats
+  description: Boys who borrow Hlakanyana's pot for milking goats; the pot breaks,
+    and they give him a goat.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: keepers of calves
+  description: A group who suck Hlakanyana's goat; the goat dies, and they give him
+    a calf.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: keepers of cows
+  description: A group who borrow Hlakanyana's calf to induce cows to give milk; the
+    calf dies while in their hands.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: people who make pots
+  description: A group mentioned in Hlakanyana's cumulative speech as the people from
+    whom he received the pot and who broke his digging-stick.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:6
+  name_or_label: Hlakanyana's companion
+  description: A companion mentioned in Hlakanyana's cumulative speech as the source
+    of the digging-stick and as one who ate Hlakanyana's birds and left him the heads.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: lender and claimant
+  assigned_to:
+  - fig:1
+  basis: Hlakanyana invites groups to borrow or use his property, then claims they
+    have broken or killed it after damage or death occurs.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: goat-herding borrowers
+  assigned_to:
+  - fig:2
+  basis: The boys are herding goats, borrow the pot, and milk with it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: compensation-givers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The goat-herding boys give Hlakanyana a goat after the pot breaks, and the
+    keepers of calves give him a calf after the goat dies.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: goat-suckers
+  assigned_to:
+  - fig:3
+  basis: The keepers of calves ask to suck the goat, and it dies while they are sucking
+    it.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cow-keepers and calf borrowers
+  assigned_to:
+  - fig:4
+  basis: The keepers of cows ask to borrow the calf so that cows may give milk freely;
+    the calf dies in their hands.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: figures in prior provenance formula
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The people who make pots and the companion appear only within Hlakanyana's
+    repeated account of how earlier objects were obtained or lost.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: pot or milking vessel
+  literal_form: A pot carried by Hlakanyana, lent to goat-herding boys for milking,
+    and broken while they use it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: milk, milking, and suckling
+  literal_form: Repeated references to sucking goats, milking goats into a vessel,
+    sucking a goat, and using a calf to induce cows to give milk freely.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: goat
+  literal_form: A goat given to Hlakanyana after the pot breaks; later it is given
+    to the keepers of calves to suck and dies.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: calf
+  literal_form: A calf given to Hlakanyana after the goat dies; later it is lent to
+    cow-keepers and dies in their hands.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: digging-stick
+  literal_form: An earlier object in Hlakanyana's cumulative speech, said to have
+    been received from his companion and broken by the people who make pots.
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:6
+  label: birds and heads
+  literal_form: Birds mentioned in the repeated speech as having been eaten by Hlakanyana's
+    companion, who left him with the heads.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Broken pot among goat-herding boys
+  summary: Hlakanyana prompts goat-herding boys to borrow his pot for milking. The
+    pot breaks while they milk, and he recites a cumulative grievance before receiving
+    a goat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Dead goat among keepers of calves
+  summary: Hlakanyana gives the goat to keepers of calves to suck. The goat dies,
+    he repeats the chain of prior losses, and they give him a calf.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Dead calf among keepers of cows
+  summary: Hlakanyana lends the calf to cow-keepers so the cows will give milk. The
+    calf dies in their hands, and he begins another cumulative accusation.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: trickster-like induced loss and compensation
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hlakanyana repeatedly persuades others to use his property, then treats the
+    resulting breakage or death as their fault and receives compensation in the first
+    two episodes.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explicitly call Hlakanyana a trickster or state his
+    intention; the label is based on the repeated action pattern within this excerpt.
+- id: motif:2
+  label: escalating replacement chain
+  taxonomy_refs: []
+  basis: The passage shows a chain of replacements in which a broken pot leads to
+    a goat, a dead goat leads to a calf, and the dead calf becomes the next object
+    of complaint.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage ends before showing the outcome of the dead-calf complaint.
+- id: motif:3
+  label: cumulative grievance recitation
+  taxonomy_refs: []
+  basis: Hlakanyana's accusations repeatedly list the present loss together with the
+    prior sequence of pot, digging-stick, companion, birds, and heads.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a passage-level narrative pattern; no external tale-type or motif
+    index identification is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4542-4555
+  quote_or_summary: Hlakanyana receives or carries a pot to boys herding goats and
+    suggests they ask to borrow it for milking rather than only sucking the goats
+    without a vessel.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4556-4576
+  quote_or_summary: The boys borrow the pot; it breaks while they are milking. Hlakanyana
+    accuses them and recites the pot's provenance through pot-makers, a digging-stick,
+    a companion, birds, and heads. The boys give him a goat.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4577-4598
+  quote_or_summary: Hlakanyana comes to keepers of calves, offers the goat for them
+    to suck, and the goat dies while they are sucking it. He accuses them and repeats
+    the cumulative chain of prior losses.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4599-4615
+  quote_or_summary: The keepers of calves give Hlakanyana a calf. He then comes to
+    keepers of cows and offers to lend them the calf so that the cows may give milk
+    freely. They borrow it, and it dies in their hands.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4616-4626
+  quote_or_summary: Hlakanyana accuses the cow-keepers of killing his calf and repeats
+    the cumulative chain back through the goat, pot, pot-makers, digging-stick, companion,
+    birds, and heads; the passage cuts off before an outcome is given.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, though line subranges are approximate
+    within the supplied stable range. Motif labels are candidates only and require
+    human validation; no cross-text comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Page headers and digitization artifacts in the supplied passage were ignored. The final cow-keeper episode is incomplete in the supplied range.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l4542-l4626
+  passage_sha256=aaeb29984357de32fb926c426beb641f14895bf4a522929d155cad0b933e5db1
+

@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l10135-l10146
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: SELECTIONS OF ZAZ)-SPARAM, I, 25- II, 6. 161 / Chapter II. / SELECTIONS OF
+    ZAD-SPARAM, II, 7-IV, I. 1 6 / Chapter III.; lines 10135-10146
+  start: '10135'
+  end: '10146'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Goi-urvan, identified as the soul of the primeval ox, comes out from the
+    dead ox and cries to Auharmazd. Auharmazd goes from earth up to the sky in order
+    to watch over the mingled creatures. Goi-urvan follows him, crying and asking
+    to whom guardianship over the creatures will be left.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Goi-urvan is described as the soul of the primeval ox.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the primeval ox passed away, Goi-urvan came out from the ox like the
+    soul from a dead body.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Goi-urvan cried loudly to Auharmazd, with the cry compared to that of a thousand-strong
+    army crying together.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Auharmazd went from the earth up to the sky in order to be better able to
+    watch over the mingled creatures.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Goi-urvan continued after Auharmazd, crying and asking who would be left with
+    guardianship over the creatures.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Goi-urvan
+  description: The soul of the primeval ox, who emerges after the ox dies and cries
+    to Auharmazd.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Primeval ox
+  description: The ox whose passing away is followed by Goi-urvan coming out from
+    it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Auharmazd
+  description: The deity addressed by Goi-urvan, who goes from earth to sky to watch
+    over the mingled creatures.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Mingled creatures / creatures
+  description: The creatures over whom watch and guardianship are discussed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: soul of the primeval ox
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly identifies Goi-urvan as the soul of the primeval ox.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: crying petitioner
+  assigned_to:
+  - fig:1
+  basis: Goi-urvan cries to Auharmazd and asks about guardianship over the creatures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: dead primeval animal
+  assigned_to:
+  - fig:2
+  basis: The ox has passed away, and Goi-urvan emerges from it.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: divine watcher over creatures
+  assigned_to:
+  - fig:3
+  basis: Auharmazd goes from earth to sky in order to watch over the mingled creatures.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: beings requiring guardianship
+  assigned_to:
+  - fig:4
+  basis: Goi-urvan asks who will be left with guardianship over the creatures.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: primeval ox
+  literal_form: The primeval ox whose death releases Goi-urvan.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: earth-to-sky movement
+  literal_form: Auharmazd goes from the earth up to the sky, with Goi-urvan following.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: collective cry
+  literal_form: Goi-urvan’s cry is compared to an army of a thousand crying together.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Soul emerges and cries
+  summary: After the primeval ox dies, Goi-urvan comes out from the ox and cries loudly
+    to Auharmazd.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ascent for watch over creatures
+  summary: Auharmazd goes from earth up to the sky to keep watch over the mingled
+    creatures.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Question of guardianship
+  summary: Goi-urvan follows Auharmazd while crying and asks with whom guardianship
+    over the creatures may be left.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: earth-to-sky ascent of a divine figure
+  taxonomy_refs:
+  - ascent
+  basis: Auharmazd moves from earth up to the sky, and Goi-urvan follows him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the ascent as relocation for oversight, not as initiation,
+    heavenly vision, or human apotheosis.
+- id: motif:2
+  label: soul emerging from dead primordial animal
+  taxonomy_refs: []
+  basis: Goi-urvan, the soul of the primeval ox, comes out from the ox when it dies.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage states emergence after death but does not narrate rebirth
+    or transformation of the ox in this excerpt.
+- id: motif:3
+  label: lamenting soul petitions deity for guardianship
+  taxonomy_refs: []
+  basis: Goi-urvan cries to Auharmazd and asks who will be left with guardianship
+    over the creatures.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the complaint and question but not the answer or later
+    resolution within this line range.
+comparison_claims:
+- id: claim:1
+  claim: The literal movement from earth to sky supports identifying this excerpt
+    with the broad ascent motif family.
+  claim_level: same_motif
+  target: ascent
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The ascent is performed by Auharmazd, with Goi-urvan following, and
+    is framed as watchfulness over creatures rather than a hero’s spiritual journey.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10135-10139
+  quote_or_summary: Goi-urvan is called the soul of the primeval ox; when the ox passed
+    away, she came out from the ox like the soul from the body of the dead.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 10139-10141
+  quote_or_summary: Goi-urvan kept up a loud cry to Auharmazd, compared to the cry
+    of a thousand-strong army crying together.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 10141-10144
+  quote_or_summary: Auharmazd went from the earth up to the sky to be better able
+    to keep watch over the mingled creatures.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 10144-10146
+  quote_or_summary: "“With whom may the guardianship over the creatures be left by
+    thee?”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal figure and action extraction is direct. Motif labels beyond the explicit
+    ascent are descriptive and should be reviewed against the wider Zoroastrian context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include ox, soul, earth, or sky.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l10135-l10146
+  passage_sha256=08d12098d7d7c216359c01896b6e99cbee4632cf67afd87838d2a8ad7dc91c31
+

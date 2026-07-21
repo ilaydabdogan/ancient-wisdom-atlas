@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l45061-l45257
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: INDKX / part  in  riles 159 / EARTH- / EDITORIAL  WORK 12; lines 45061-45257
+  start: '45061'
+  end: '45257'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Index entries from The Omaha Tribe covering topics from elk through gambling,
+    including animal-human associations, fire, fasting in puberty ceremony, food offerings,
+    feasts, funeral customs, and cross-references to Omaha, Osage, and Ponca materials.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Elk is indexed as a man's helper in an Osage context and as having a special
+    connection with man.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fire appears as an indexed topic with cited references.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fasting is indexed as part of a puberty ceremony.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Food offerings are indexed in relation to a Shell society feast, the Hoa'hewachi
+    ceremony, and graves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Funeral customs are indexed with articles buried with the dead, moccasins
+    on the dead, painting the dead, foot racing, and strangling of horses.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Silver Fox is indexed as having a special connection with woman.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Feast of the Ho'hewachi is indexed with a general description and tattooing.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Elk
+  description: Animal indexed as man's helper in an Osage context and as specially
+    connected with man.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Silver Fox
+  description: Animal indexed as specially connected with woman.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: The dead
+  description: Persons referenced in funeral customs involving burial articles, moccasins,
+    painting, and grave offerings.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: Man's helper
+  assigned_to:
+  - fig:1
+  basis: The index entry states that elk is treated as man's helper in an Osage context.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Animal specially connected with man
+  assigned_to:
+  - fig:1
+  basis: The elk entry includes a special connection with man.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Animal specially connected with woman
+  assigned_to:
+  - fig:2
+  basis: The Silver Fox entry states a special connection with woman.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: Recipient or subject of funeral treatment
+  assigned_to:
+  - fig:3
+  basis: The funeral and food entries list customs involving the dead and graves.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: Elk as human-associated animal
+  literal_form: Elk
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Fire
+  literal_form: Fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Puberty fasting
+  literal_form: Fasting in puberty ceremony
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Food offerings
+  literal_form: Food offered at feasts, in ceremony, and on graves
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Funerary articles and moccasins
+  literal_form: Articles buried with the dead and moccasins on the dead
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Silver Fox as woman-associated animal
+  literal_form: Silver Fox
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Tattooing in feast context
+  literal_form: Tattooing associated with the Feast of the Ho'hewachi
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Human-animal special affiliation
+  taxonomy_refs: []
+  basis: The index lists elk as man's helper and specially connected with man, and
+    Silver Fox as specially connected with woman.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: medium
+  cautions: The passage is an index entry only and gives no narrative episode or ritual
+    explanation.
+- id: motif:2
+  label: Puberty fasting as initiation practice
+  taxonomy_refs:
+  - initiation
+  basis: Fasting is explicitly indexed under puberty ceremony.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index does not describe the ceremony or its symbolism.
+- id: motif:3
+  label: Grave offerings and burial accoutrements
+  taxonomy_refs: []
+  basis: Food offerings on graves, articles buried with the dead, and moccasins on
+    the dead are listed under food and funeral customs.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain beliefs about the dead or an afterlife journey.
+- id: motif:4
+  label: Ritual feast with tattooing
+  taxonomy_refs: []
+  basis: The Feast of the Ho'hewachi is indexed with general description and tattooing.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: Only the index heading is present; the rite itself is not described in
+    this passage.
+comparison_claims:
+- id: claim:1
+  claim: The index groups moccasins on the dead with Omaha, Osage, and Ponca references,
+    supporting only a cautious claim that a comparable funerary practice is indexed
+    across these named groups.
+  claim_level: same_function
+  target: Moccasins on the dead in Omaha, Osage, and Ponca contexts
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an index entry and provides no details sufficient to
+    determine historical contact, common inheritance, or identical meaning.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 45061-45257, entry 'ELK'
+  quote_or_summary: '"ELK— as man''s helper (Osage) 63, 571 ... special connection
+    with man 512"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 45061-45257, entry 'FIRE'
+  quote_or_summary: '"FIRE, references 70,117"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 45061-45257, entry 'FASTING'
+  quote_or_summary: '"FASTING, in puberty ceremony 129, 131"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 45061-45257, entry 'FOOD'
+  quote_or_summary: The food entry indexes offerings at a Shell society feast, in
+    the Hoa'hewachi ceremony, and on graves.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 45061-45257, entry 'FUNERAL CUSTOMS'
+  quote_or_summary: The funeral customs entry indexes articles buried with the dead,
+    foot racing, gifts, Shell society customs, moccasins on the dead among Omaha,
+    Osage, and Ponca, painting the dead, and strangling of horses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: quote
+  locator: 45061-45257, entry 'Fox, SILVER'
+  quote_or_summary: '"Fox, SILVER, special connection with woman 512"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:7
+  type: summary
+  locator: 45061-45257, entry 'FEAST OF THE HO"'HEWACHI'
+  quote_or_summary: The Feast of the Ho'hewachi entry indexes a general description
+    and tattooing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction confidence is high for literal index entries. Motif confidence
+    is limited because the passage supplies index headings rather than narrative or
+    ceremonial descriptions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No broad mythological comparisons were inferred beyond the explicit Omaha/Osage/Ponca indexing of moccasins on the dead.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l45061-l45257
+  passage_sha256=9162fadc89e3cda19ae7acc68a40a8ef296cefc67655c6fa8cb8157a5389e331
+

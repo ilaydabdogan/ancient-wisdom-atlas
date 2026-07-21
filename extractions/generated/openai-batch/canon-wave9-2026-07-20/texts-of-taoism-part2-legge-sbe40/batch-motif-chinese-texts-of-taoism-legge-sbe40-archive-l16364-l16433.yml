@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe40-archive-l16364-l16433
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+passage_locator:
+  label: SACRED  BOOKS  OF  THE  EAST. / FIRST   SERIES. / EDITED  BY  F.  MAX  MULLER.
+    / SACRED  BOOKS  OF  THE  EAST:; lines 16364-16433
+  start: '16364'
+  end: '16433'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books
+    of the East, Vol. 40)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A catalogue passage lists Sacred Books of the East volumes XII-XIX. It
+    describes the Śatapatha-Brāhmaṇa volume as treating Vedic sacrificial ceremonies
+    and containing an early Indian Deluge account, and describes the Fo-sho-hing-tsan-king
+    as a life of Buddha whose legends are said to show some similarity to the Evangelium
+    infantiae.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is a catalogue notice for Sacred Books of the East volumes XII-XIX.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Śatapatha-Brāhmaṇa volume is described as giving an account of Vedic sacrificial
+    ceremonies.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Śatapatha-Brāhmaṇa volume is said to contain the earliest account of the
+    Deluge in India.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Fo-sho-hing-tsan-king is described as a Life of Buddha by Aśvaghoṣa Bodhisattva,
+    translated from Sanskrit into Chinese by Dharmaraksha in A.D. 420 and from Chinese
+    into English by Samuel Beal.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Life of Buddha is said to contain many legends, some of which show a certain
+    similarity to the Evangelium infantiae.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Subject of the Fo-sho-hing-tsan-king, described as a Life of Buddha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Aśvaghoṣa Bodhisattva
+  description: Named as the author or source figure for the Life of Buddha in the
+    catalogue entry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Dharmaraksha
+  description: Named as the translator from Sanskrit into Chinese in A.D. 420.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Samuel Beal
+  description: Named as the translator from Chinese into English.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: life-narrative subject
+  assigned_to:
+  - fig:1
+  basis: The catalogue entry identifies the Fo-sho-hing-tsan-king as a Life of Buddha.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: attributed author
+  assigned_to:
+  - fig:2
+  basis: The catalogue entry says the Life of Buddha is by Aśvaghoṣa Bodhisattva.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: translator into Chinese
+  assigned_to:
+  - fig:3
+  basis: The catalogue entry says Dharmaraksha translated the text from Sanskrit into
+    Chinese in A.D. 420.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: translator into English
+  assigned_to:
+  - fig:4
+  basis: The catalogue entry says Samuel Beal translated the text from Chinese into
+    English.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Vedic sacrificial ceremonies
+  taxonomy_refs:
+  - sacrifice
+  basis: The Śatapatha-Brāhmaṇa volume is explicitly described as an account of sacrificial
+    ceremonies of the Vedic age.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is a catalogue description and does not narrate a specific
+    sacrifice.
+- id: motif:2
+  label: Deluge account in India
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The catalogue says the Śatapatha-Brāhmaṇa volume contains the earliest account
+    of the Deluge in India.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the word Deluge is given; no flood narrative, survivor, renewal,
+    or ritual details appear in this passage.
+- id: motif:3
+  label: Life of Buddha legends compared with infancy-gospel tradition
+  taxonomy_refs: []
+  basis: The catalogue says the Life of Buddha contains many legends, some of which
+    show a certain similarity to the Evangelium infantiae.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: No specific legends or shared narrative elements are identified in the
+    passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage states that some legends in the Life of Buddha show a certain
+    similarity to the Evangelium infantiae.
+  claim_level: same_motif
+  target: Evangelium infantiae, etc.
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is only a catalogue statement; it gives no details about
+    which legends, motifs, or narrative functions are similar.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16364-16420
+  quote_or_summary: The passage lists Sacred Books of the East volumes XII-XIX as
+    catalogue entries.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: line 16372
+  quote_or_summary: A minute account of the sacrificial ceremonies of the Vedic age.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: line 16373
+  quote_or_summary: It contains the earliest account of the Deluge in India.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 16420-16426
+  quote_or_summary: The Fo-sho-hing-tsan-king is identified as a Life of Buddha by
+    Aśvaghoṣa Bodhisattva, translated from Sanskrit into Chinese by Dharmaraksha in
+    A.D. 420 and from Chinese into English by Samuel Beal.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 16428-16432
+  quote_or_summary: This life of Buddha ... contains many legends, some of which show
+    a certain similarity to the Evangelium infantiae, etc.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is bibliographic catalogue matter rather than a myth narrative.
+    Motif candidates are limited to explicit catalogue descriptions, and the comparison
+    claim lacks specific motif details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols or narrative scenes were extracted because the passage provides catalogue descriptions only.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe40-archive__l16364-l16433
+  passage_sha256=b59d0bca37adcc7e8a828ee46058800919aff25a0a15079534fc2834b9e0f17b
+

@@ -1,0 +1,147 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l18133-l18154
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 413. / INGIO. 315 / XIII. 5. / AD. 414.; lines 18133-18154
+  start: '18133'
+  end: '18154'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The physician arrived from Silla, and was forthwith made to treat the Emperor’s
+    disease.
+  summary: In A.D. 414, in autumn of the eighth month, a physician from Silla arrives,
+    is immediately assigned to treat the Emperor’s illness, and the Emperor is healed
+    not long afterward. The excerpt also includes translator’s notes on titles and
+    terms.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The dated setting is A.D. 414, autumn, eighth month.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A physician arrives from Silla.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The physician is immediately made to treat the Emperor’s disease.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Emperor is healed of his disease after not much time has passed.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The excerpt includes translator’s notes explaining a character translated
+    as “sir,” the term “kowtow,” and the relative status of the title Inaki.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: physician from Silla
+  description: A physician who arrives from Silla and treats the Emperor’s disease.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Emperor
+  description: The ruler suffering from disease who is healed after treatment.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: foreign healer
+  assigned_to:
+  - fig:1
+  basis: The figure is called a physician, arrives from Silla, and treats the Emperor’s
+    disease.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sick ruler healed by treatment
+  assigned_to:
+  - fig:2
+  basis: The Emperor has a disease, is treated by the physician, and is healed soon
+    after.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Arrival and cure of the Emperor
+  summary: A physician from Silla arrives in A.D. 414, is assigned to treat the Emperor’s
+    disease, and the Emperor is healed soon afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: foreign physician heals a ruler
+  taxonomy_refs: []
+  basis: The passage presents an outside physician from Silla arriving, treating the
+    Emperor’s disease, and the Emperor being healed shortly afterward.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage reports a brief court event and does not frame the cure as
+    miraculous or divine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 18133-18138
+  quote_or_summary: "“AD. 414. Autumn, 8th month. The physician arrived from Silla”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 18138-18141
+  quote_or_summary: "“was forthwith made to treat the Emperor’s disease. No long time
+    after, he was healed of his disease.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 18141-18154
+  quote_or_summary: Translator’s notes explain the meaning of a character translated
+    as “sir,” identify kowtow as Chinese, and state that Inaki was a lower title than
+    Miyakko.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The narrative event is clear, but motif interpretation is limited because
+    the passage is brief and contains no explicit mythic or comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was assigned because the passage only supports a general healing-of-ruler motif and does not explicitly invoke listed motif families or symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l18133-l18154
+  passage_sha256=5c11cbe8595ba6f6d9a3bb6cdfbb299f4dcf52493cafa226cf3ba58a7431dc1a
+

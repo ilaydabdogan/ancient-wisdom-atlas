@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l3920-l4001
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter IV. / CHAPTER IV, I-V, I. 2 1 / Chapter V. / CHAPTER V, 2-6. 23;
+    lines 3920-4001
+  start: '3920'
+  end: '4001'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a cosmological account of the sun moving through eastern
+    and western apertures in Alburn, ordering the motions of other celestial bodies,
+    marking seasonal turning points through named signs, returning after 360 days
+    plus five Gatha days, and illuminating named world regions in alternating day
+    and night. It also says one aperture is not named so demons cannot learn the secret
+    and cause disaster.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Apertures are described in the east and west through Alburn, and the sun enters
+    through an aperture and exits through an aperture every day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The moon, constellations, and planets are said to have their connection and
+    motion with the sun.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The sun illumines or warms three and a half regions each day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The annual solar course includes equal day and night twice yearly, a maximum
+    day at Cancer, a maximum night at Capricorn, and seasonal beginnings tied to spring,
+    summer, autumn, and winter.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After three hundred and sixty days and the five Gatha days, the sun returns
+    to Varak or Aries and goes in and comes out through one and the same aperture.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The aperture is not named because demons would know the secret if it were
+    named and could introduce disaster.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Named regions are assigned to directions according to the sun's longest-day
+    and shortest-day rising and setting points.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Different groups of regions receive sunlight on the light and dark sides,
+    and when it is day here it is night there.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the sun
+  description: The sun enters and exits through apertures, illumines or warms regions,
+    reaches named signs, and marks day-night and seasonal changes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: moon, constellations, and planets
+  description: These celestial bodies are said to have their connection and motion
+    with the sun.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: demons
+  description: They are said to be able to learn the secret of the unnamed aperture
+    and introduce disaster if the aperture were mentioned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: daily solar traveler and illuminator
+  assigned_to:
+  - fig:1
+  basis: The sun comes in and goes out through apertures each day and illumines or
+    warms named regions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: celestial bodies connected with the sun's motion
+  assigned_to:
+  - fig:2
+  basis: The passage states that the connection and motion of the moon, constellations,
+    and planets is with the sun.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: potential recipients of dangerous hidden knowledge
+  assigned_to:
+  - fig:3
+  basis: The demons would know the secret if the aperture were mentioned and could
+    then introduce disaster.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: eastern and western apertures through Alburn
+  literal_form: Apertures in the east and west through Alburn, used by the sun for
+    daily entry and exit.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: solar signs and seasonal stations
+  literal_form: Kalakang or Cancer, Tarak or Libra, Vahik or Capricorn, and Varak
+    or Aries as points in the annual course of the sun.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: five Gatha days
+  literal_form: Five days added to the three hundred and sixty days in the sun's annual
+    return.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - seasonal_cycle
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: named world regions
+  literal_form: Savah, Fradartafsh, Vidadafsh, Arzah, Vorubarst, Vorugarst, and Khvaniras
+    as regions receiving sunlight in directional groups.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: unnamed aperture secret
+  literal_form: An aperture whose name is withheld so demons cannot know the secret
+    and introduce disaster.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - forbidden_knowledge
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Daily passage through apertures
+  summary: The sun passes through eastern and western apertures in Alburn each day,
+    while the motion of the moon, constellations, and planets is connected with it,
+    and it illumines or warms regions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Annual solar course and seasons
+  summary: The sun reaches named signs that mark equal day and night, greatest day,
+    greatest night, and the beginnings of the seasons; it returns to Varak after 360
+    days and five Gatha days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Concealment of the aperture from demons
+  summary: The text says the aperture is not named, because if it were named the demons
+    would know the secret and could introduce disaster.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Directional regions and alternating day-night
+  summary: The sun's rising and setting extremes define east, south, west, and north
+    regions, and its illumination alternates so that day in one place is night elsewhere.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: solar apertures or gates
+  taxonomy_refs: []
+  basis: The passage explains sunrise and sunset by the sun's daily movement through
+    apertures in Alburn.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The available taxonomy list does not include a specific solar-gate motif
+    label.
+- id: motif:2
+  label: seasonal cycle marked by the sun's course
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The sun's positions at Cancer, Libra, Capricorn, and Aries are tied to greatest
+    day, equal day and night, greatest night, and seasonal beginnings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is cosmological and calendrical rather than a narrative of
+    seasonal deity death or rebirth.
+- id: motif:3
+  label: hidden cosmic knowledge withheld from demons
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The aperture is deliberately not mentioned because demons could learn the
+    secret and introduce disaster.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The knowledge is withheld from demons, not presented as a human prohibition.
+- id: motif:4
+  label: alternating light and darkness across world regions
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts day here with night there and divides illumination
+    between light-side and dark-side regions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The duality is observational and cosmographic, not explicitly moralized
+    in this passage.
+comparison_claims:
+- id: claim:1
+  claim: A translator's note compares this account of variable sunrise and sunset
+    apertures with the Book of Enoch LXXI, while also noting differences in the number
+    of gates and the timing of the sun's changes.
+  claim_level: same_function
+  target: Book of Enoch LXXI solar gates of heaven
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: The comparison is from a note in the translation; it does not by itself
+    establish historical contact, common inheritance, or identical motif structure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter V, §5; lines 3920-3926
+  quote_or_summary: The passage describes eastern and western apertures through Alburn;
+    the sun comes in through an aperture and goes out through an aperture each day;
+    the moon, constellations, and planets have their connection and motion with it;
+    it illumines or warms three and a half regions.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter V, §6; lines 3926-3942
+  quote_or_summary: Day and night are equal twice yearly; at Cancer the day is greatest
+    and summer begins; at Libra day and night are equal and autumn begins; at Capricorn
+    night is maximum and winter begins; at Aries day and night become equal again.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: Chapter V, §7; lines 3958-3963
+  quote_or_summary: After three hundred and sixty days and the five Gatha days the
+    sun returns to Varak; "the aperture is not mentioned, for if it had been mentioned
+    the demons would have known the secret, and been able to introduce disaster."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: Chapter V, §8; lines 3964-3973
+  quote_or_summary: 'The sun''s longest-day and shortest-day rising and setting points
+    define directional regions: Savah in the east, Fradartafsh and Vidadafsh in the
+    south, Arzah in the west, and Vorubarst and Vorugarst in the north.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter V, §9; lines 3973-3980
+  quote_or_summary: When the sun comes on it illumines Savah, Fradartafsh, Vidadafsh,
+    and half of Khvaniras; on the dark side it illumines Arzah, Vorubarst, Vorugarst,
+    and half of Khvaniras; when it is day here it is night there.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: Translator note 7 to Chapter V; lines 3943-3948
+  quote_or_summary: The note says this explanation of varying sunrise and sunset resembles
+    the Book of Enoch LXXI, but Enoch has only six eastern and six western gates and
+    the sun changes gates monthly rather than daily.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized translator note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear in broad cosmological structure, but the excerpt begins
+    mid-sentence and contains transliteration/OCR irregularities. Exact aperture counts
+    at the opening were not treated as central to the extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied only where directly supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l3920-l4001
+  passage_sha256=35b34a38a71680a2259bbcc74154a54de47cef0a25ea6ac80a8c0e80d0253ab5
+

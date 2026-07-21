@@ -1,0 +1,155 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35131-l35228
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE    OMAHA    TRIBE / SOCIETIES / INTRODUCTORY  TO  DRAMATIC  MOVEMENT;
+    lines 35131-35228
+  start: '35131'
+  end: '35228'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"What is it with which you shoot me as I go forth?"'
+  summary: A transcribed song labeled introductory to dramatic movement gives Omaha
+    vocables and words, followed by an English explanation stating that the song asks
+    what is being used to shoot the speaker as the speaker goes forth.
+  language: Omaha and English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is labeled as an introduction to dramatic movement and includes
+    musical transcription information.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage presents repeated Omaha song syllables and words, including terms
+    glossed as an archaic question, a first-person pronoun, shooting, and going forth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translation explains that some syllables are vowel prolongations or vocables
+    used for musical purposes.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stated meaning of the song is a question about what is being used to shoot
+    the speaker as the speaker goes forth.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The translated song includes a speaker referred to as “me” and “I”
+    who goes forth and is shot.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: addressed shooter
+  description: The translated song addresses an unnamed “you” who shoots the speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: questioning speaker
+  assigned_to:
+  - fig:1
+  basis: 'The song meaning is framed as a question: “What is it...?”'
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: one going forth
+  assigned_to:
+  - fig:1
+  basis: The commentary glosses “mithega” as “I go forth,” and the song meaning includes
+    “as I go forth.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: shooter
+  assigned_to:
+  - fig:2
+  basis: The commentary glosses “thakude” as “you shoot,” and the song meaning addresses
+    “you” as shooting the speaker.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: song question during going forth
+  summary: In the song’s stated meaning, a first-person speaker asks an unnamed addressee
+    what the addressee uses to shoot the speaker while the speaker goes forth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: departure under attack or threat
+  taxonomy_refs:
+  - departure
+  basis: The song meaning explicitly combines the speaker’s going forth with being
+    shot by an addressed other.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage is a brief ritual song translation without narrative context;
+    “departure” is inferred only from the phrase “I go forth,” and the nature of the
+    shooting is unspecified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 35131-35228
+  quote_or_summary: The passage is headed “INTRODUCTORY TO DRAMATIC MOVEMENT,” with
+    musical tempo and transcription information.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: summary
+  locator: lines 35131-35228
+  quote_or_summary: The translation notes gloss Dagoiha as an archaic term meaning
+    “what is it?”, wiun as “me,” thakude as “you shoot,” mithega as “I go forth,”
+    and other syllables as prolongations or vocables.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary with short terms used.
+- id: ev:3
+  type: quote
+  locator: lines 35131-35228
+  quote_or_summary: "“What is it with which you shoot me as I go forth?”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the passage’s brevity and by its musical/transcription
+    focus. Motif identification is tentative because only a short translated song
+    meaning is provided.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family beyond the cautious taxonomy alignment to departure.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35131-l35228
+  passage_sha256=f1167f3aeb612b7461729d54bdf82b1868b2d7209f26d0dd7fea3da3c8d35363
+

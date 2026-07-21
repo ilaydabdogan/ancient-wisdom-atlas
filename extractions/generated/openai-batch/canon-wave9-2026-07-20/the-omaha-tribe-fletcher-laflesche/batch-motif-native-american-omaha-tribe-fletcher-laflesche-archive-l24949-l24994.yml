@@ -1,0 +1,445 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l24949-l24994
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: TWENTY-SEVENTH   ANNUAL   REPORT     PLATE  53 / THE    LANGUAGE    OF    THE    ROBE
+    / SOCIAL   LIFE / PROPERTY; lines 24949-24994
+  start: '24949'
+  end: '24994'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Omaha household and personal property rules, ownership
+    by wives, men, women, children, and societies, the absence of communal ownership
+    in land or food, the description of land as bountiful mother earth, burial of
+    some articles with the deceased, inheritance of other possessions, hospitality,
+    a meat offering at the ceremony of Anointing the Pole, and ownership or free use
+    of certain songs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Household furniture is described as simple, with robes used for bedding, deerskin
+    pillows, no seats in the tent, and couches in the earth lodge.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Cooking and eating utensils, the mortar and pestle, food and clothing packs,
+    and the tent are described as the property of the wife.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Other things are described as individual property, and children's articles
+    are treated as their own and not disposed of without their consent.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that there was no communal property in the Omaha tribe,
+    no property in land or springs, and recognized use-rights in garden plots while
+    used, while garden produce belonged to the woman.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The land is described as the bountiful mother earth that brought forth food
+    for all living creatures.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A man is said to own his regalia, clothing, weapons, and other personal property;
+    women and children can own ponies and dispose of them by their own right or consent.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: At death, articles in immediate use by the deceased are buried with the body,
+    while other possessions pass to children if able to use them, otherwise to siblings
+    of the dead person.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Hospitality is described as the rule and food is shared while it lasts, but
+    food is not treated as communal property.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: An offering of meat is made at the ceremony of Anointing the Pole, and the
+    meat is contributed by members of the tribe.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Societies own certain articles, including bowls, packs containing regalia,
+    and medicines; some songs are property of subgentes, societies, or individuals,
+    while some Wa'wan ceremony songs are free to the people.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: wife or woman
+  description: The wife owns household things and the tent; the woman owns produce
+    from garden plots; women may own and dispose of ponies.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: man
+  description: A man owns his regalia, clothing, weapons, and other personal property.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: children
+  description: Children's articles and ponies are treated as their own, and parents
+    do not dispose of them without the child's consent; children may inherit possessions
+    if old enough to use them.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: deceased person
+  description: The dead man or woman is associated with articles of immediate use
+    buried with the body.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: members of the tribe
+  description: Members of the tribe contribute meat for the ceremony of Anointing
+    the Pole.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: societies, subgentes, and individuals
+  description: Societies own certain articles; songs may belong to subgentes, societies,
+    or individuals.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: land as mother earth
+  description: The land is called the bountiful mother earth that brings forth food
+    for all living creatures.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: household property owner
+  assigned_to:
+  - fig:1
+  basis: Household objects and the tent are said to be the wife's property.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: individual property holder
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage assigns personal property to men, women, and children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: consenting owner
+  assigned_to:
+  - fig:3
+  basis: Children's property and ponies are not to be given away or disposed of without
+    the child's consent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: potential heir
+  assigned_to:
+  - fig:3
+  basis: Other possessions of the deceased pass to children if they are old enough
+    to use them.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of burial goods
+  assigned_to:
+  - fig:4
+  basis: Articles in immediate use by the deceased are buried with the body.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: ritual contributor
+  assigned_to:
+  - fig:5
+  basis: Members of the tribe contribute meat for the offering at the Anointing the
+    Pole ceremony.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: corporate or individual custodian of owned ritual/property items
+  assigned_to:
+  - fig:6
+  basis: Societies own bowls, regalia packs, and medicines; songs may be property
+    of subgentes, societies, or individuals.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: bountiful provider
+  assigned_to:
+  - fig:7
+  basis: The land is said to bring forth food for all living creatures.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mother earth
+  literal_form: land described as the bountiful "mother earth"
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: springs and streams
+  literal_form: never-failing springs and streams
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: buried personal articles
+  literal_form: articles in immediate use by the deceased buried with the body
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: meat offering
+  literal_form: meat offered at the ceremony of Anointing the Pole
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - sacred_exchange
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: ceremonial pole
+  literal_form: the Pole named in the ceremony of Anointing the Pole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: songs as property or free repertoire
+  literal_form: songs belonging to subgentes, societies, or individuals, and some
+    Wa'wan songs free to the people
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Household property assignment
+  summary: Household bedding, utensils, grinding tools, packs, and the tent are described,
+    with household property assigned to the wife.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Individual property and land without ownership
+  summary: Personal articles are treated as individual property, children's property
+    requires consent for disposal, and land and springs are not owned; the land is
+    described as mother earth.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Personal goods and ponies
+  summary: Men own regalia, clothing, weapons, and personal property, while women
+    and children own ponies under stated rights of disposal or consent.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Mortuary property transfer
+  summary: Articles in immediate use by the deceased are buried with the body; other
+    possessions pass to children if usable, otherwise to brothers of the dead person.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Hospitality and ceremonial offering
+  summary: Food is shared under hospitality but not held communally; meat is offered
+    at the Anointing the Pole ceremony from contributions by tribal members.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Society articles and song ownership
+  summary: Societies own bowls, regalia packs, and medicines; songs may be owned by
+    subgentes, societies, or individuals, while some Wa'wan ceremony songs are free
+    to the people.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: earth as bountiful mother-provider
+  taxonomy_refs:
+  - mother_goddess
+  basis: The passage explicitly calls the land the bountiful mother earth and says
+    it brings forth food for all living creatures.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe a goddess, mythic narrative, cult image,
+    or named divine being; the taxonomy link is only a cautious fit to the mother-provider
+    pattern.
+- id: motif:2
+  label: grave goods accompanying the deceased
+  taxonomy_refs: []
+  basis: Articles in immediate use by the deceased are buried with the body.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not state an afterlife journey, resurrection, or death-rebirth
+    explanation for the burial of objects.
+- id: motif:3
+  label: ritual offering of contributed meat
+  taxonomy_refs:
+  - sacred_exchange
+  basis: A meat offering is made at the ceremony of Anointing the Pole, and the meat
+    is contributed by members of the tribe.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe the recipient, meaning, or expected return
+    of the offering; the sacred-exchange classification is therefore limited.
+- id: motif:4
+  label: songs as owned or shared ritual-cultural property
+  taxonomy_refs: []
+  basis: Songs are described as property of subgentes, societies, or individuals,
+    while some Wa'wan ceremony songs are free to the people.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage focuses on ownership status and does not give the text, mythic
+    content, or ritual function of the songs.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 24949-24959
+  quote_or_summary: Household furniture is simple; buffalo-hide robes and deerskin
+    pillows are used, and cooking/eating utensils, the mortar and pestle, packs, and
+    the tent are the property of the wife.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: 24960-24970
+  quote_or_summary: '"In the Omaha tribe there was no communal property. The land
+    was the bountiful \"mother earth\" which brought forth food for all living creatures."
+    The same passage states that there was no property in land or springs and that
+    garden produce belonged to the woman.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt with summary.
+- id: ev:3
+  type: summary
+  locator: 24971-24978
+  quote_or_summary: A man owns regalia, clothing, weapons, and personal property;
+    horses are not exclusively men's property, and women and children may own ponies
+    under their own right or consent.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 24979-24983
+  quote_or_summary: At death, articles in immediate use by the deceased are buried
+    with the body; other possessions pass to children if they can use them, otherwise
+    to the brothers of the dead man or woman.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 24984-24990
+  quote_or_summary: Hospitality is the rule and food is shared while it lasts, but
+    food is not communal property; a meat offering is made at the Anointing the Pole
+    ceremony from contributions by tribal members.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 24991-24994
+  quote_or_summary: Societies own articles such as wooden bowls, packs containing
+    regalia, and medicines; songs may be property of subgentes, societies, or individuals,
+    while some Wa'wan ceremony songs are free to the people.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The property, mortuary, and ritual-offering details are explicit. Motif classification
+    is cautious because the passage is ethnographic and gives limited mythic or ritual
+    explanation. No explicit cross-text comparison is made in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare these practices with other texts, traditions, or motif families beyond the limited candidate-motif classification.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l24949-l24994
+  passage_sha256=75c405b33c964e122051eaa3219e2875d847f0d28cbe1193981c5be14c83909b
+

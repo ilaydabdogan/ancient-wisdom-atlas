@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l4774-l4897
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: INTRODUCTION, V. XCV11 / XCV111 VENDIDAD. / INTRODUCTION, V. XC1X / INTRODUCTION,
+    V. CI; lines 4774-4897
+  start: '4774'
+  end: '4897'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: This chapter is an enumeration of sixteen lands created by Ahura Mazda, and
+    of as many plagues created in opposition by Angra Mainyu.
+  summary: The passage is mainly an editorial introduction explaining textual sources,
+    manuscript divisions, translation methods, and acknowledgments. It then introduces
+    Fargard I as a catalogue of sixteen lands created by Ahura Mazda and corresponding
+    plagues created in opposition by Angra Mainyu, while cautioning against treating
+    the land-order as historical migration evidence.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The editor identifies the Pahlavi Commentary, Gujarathi and Persian translations,
+    the Ravaets, the Saddar, and European scholarship as aids for interpreting the
+    Vendidad.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor states that the Avesta text and paragraph division follow Westergaard,
+    with corresponding Spiegel divisions supplied in brackets.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editor says some passages in the Vendidad Sadah are quotations from the
+    Pahlavi Commentary that entered the Sadah text and were not admitted into the
+    translated text.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The editor divided the principal Fargards into sections according to their
+    subject matter, while stating that this division has no traditional authority.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Fargard I is described as enumerating sixteen lands created by Ahura Mazda
+    and an equal number of plagues created in opposition by Angra Mainyu.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says the text does not authorize historical conclusions about
+    migrations or settlements of old Iranian tribes from the order of the sixteen
+    lands.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage describes Fargard I as a religious geographical description of
+    Iran that includes both mythical lands and real countries.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named as the creator of sixteen lands in the introductory summary of
+    Fargard I.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Angra Mainyu
+  description: Named as the creator of as many plagues, made in opposition to the
+    lands created by Ahura Mazda.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: creator of sixteen lands
+  assigned_to:
+  - fig:1
+  basis: The passage says sixteen lands were created by Ahura Mazda.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: opposing creator of plagues
+  assigned_to:
+  - fig:2
+  basis: The passage says as many plagues were created in opposition by Angra Mainyu.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sixteen lands
+  literal_form: sixteen lands created by Ahura Mazda
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: opposing plagues
+  literal_form: as many plagues created in opposition by Angra Mainyu
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: mythical and real lands
+  literal_form: mythical lands as well as real countries
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Fargard I opposing enumeration
+  summary: The chapter is introduced as listing sixteen lands created by Ahura Mazda
+    and an equal number of plagues created in opposition by Angra Mainyu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: oppositional paired creation
+  taxonomy_refs:
+  - duality
+  basis: The passage pairs Ahura Mazda's creation of sixteen lands with Angra Mainyu's
+    creation of corresponding plagues in opposition.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage is an introductory summary of Fargard I rather than the full
+    mythic catalogue.
+- id: motif:2
+  label: mythic geography mixed with real geography
+  taxonomy_refs: []
+  basis: The editor characterizes the chapter as a religious geographical description
+    containing mythical lands as well as real countries.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The supplied taxonomy list does not contain a specific mythic-geography
+    catalogue category, and the passage explicitly cautions that some places may be
+    real.
+comparison_claims:
+- id: claim:1
+  claim: The paired creation of lands and opposing plagues can be cautiously compared
+    with the Atlas duality motif family.
+  claim_level: same_motif
+  target: duality
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on a brief editorial summary and does not include
+    the detailed contents of the sixteen lands or plagues.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4774-4897; introductory source-method paragraph
+  quote_or_summary: The editor names the Pahlavi Commentary, Aspendiarji's Gujarathi
+    translation and paraphrase, a Persian translation, the Ravaets, the Saddar, Spiegel's
+    commentary, and Haug's Essays as aids.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 4774-4897; paragraph beginning 'We have followed the text'
+  quote_or_summary: We have followed the text of the Avesta as given by Westergaard;
+    the division into paragraphs is according to Westergaard.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4774-4897; paragraph on Vendidad Sadah passages
+  quote_or_summary: The editor says many Vendidad Sadah passages are Pahlavi Commentary
+    quotations that entered the Sadah text and were generally excluded, though some
+    untranslated passages were admitted in brackets.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 4774-4897; paragraph beginning 'We have divided'
+  quote_or_summary: We have divided the principal Fargards into several sections according
+    to the matter they contain.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 4774-4897; Fargard I introductory note
+  quote_or_summary: This chapter is an enumeration of sixteen lands created by Ahura
+    Mazda, and of as many plagues created in opposition by Angra Mainyu.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 4774-4897; Fargard I historical-caution paragraph
+  quote_or_summary: there is nothing in the text that would authorise us to look to
+    it even for legendary records, much less for real history.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 4774-4897; Fargard I geographical-description paragraph
+  quote_or_summary: a geographical description of Iran... contains mythical lands
+    as well as real countries.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif identification is limited because
+    the passage summarizes Fargard I rather than giving the complete mythic catalogue.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported taxonomy identifiers were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l4774-l4897
+  passage_sha256=5a5e723871c0004f95c023a7ded2f95c3c056746054ea42c8ee5638b0a2b743a
+

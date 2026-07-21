@@ -1,0 +1,314 @@
+---
+record_id: batch.motif.siberian-tales-of-yukaghir-lamut-bogoras-archive-l851-l868
+source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+passage_locator:
+  label: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia / INTRODUCTION.
+    / I. TALES OF THE TUNDRA YUKAGHIR.1; lines 851-868
+  start: '851'
+  end: '868'
+  translation: Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A man flees from Reindeer-born, hides behind a tree, uses a neckerchief
+    that becomes an iron saw to cut down the tree, and the falling tree kills Reindeer-born.
+    The man then returns to an iron house and lives with a young woman as his wife.
+    A note attributes an unspecified detail to Yakut folklore.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man returns to his house, sees Reindeer-born rushing toward him, turns
+    around, and runs for his life.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man reaches a tree and hides behind it while Reindeer-born gives chase.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Reindeer-born runs straight into the tree, striking his forehead against it,
+    and says the man's strength is greater than his own.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The man touches the tree with a neckerchief; the neckerchief instantly turns
+    into iron and takes a shape similar to a saw.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The saw saws the tree and cuts it down.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The falling tree strikes Reindeer-born on the head, breaks his head, and kills
+    him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man returns to the iron house and lives there with the young woman as
+    his wife.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage attribution says the tale was told by Innocent Karyakin, a Tundra
+    Yukaghir man, in the Kolyma country in winter 1895.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: An editorial note says an unspecified detail is borrowed from Yakut folklore,
+    where it is frequently met.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man who flees Reindeer-born, hides behind a tree, uses the neckerchief,
+    and returns to the iron house with the young woman as wife.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Reindeer-born
+  description: A pursuer who rushes at the man, strikes his forehead against a tree,
+    and is killed when the tree falls on his head.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the young woman
+  description: A young woman who is said to live with the man as his wife after he
+    returns to the iron house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: pursued fugitive
+  assigned_to:
+  - fig:1
+  basis: The man runs for his life from Reindeer-born and hides behind a tree.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: user of transforming object
+  assigned_to:
+  - fig:1
+  basis: The man touches the tree with a neckerchief, after which it turns into an
+    iron saw-shaped object.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: pursuer killed by falling tree
+  assigned_to:
+  - fig:2
+  basis: Reindeer-born chases the man, strikes the tree, and is killed when the cut
+    tree falls on his head.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: wife
+  assigned_to:
+  - fig:3
+  basis: The young woman is described as the man's wife when he returns to the iron
+    house.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: tree used as a hiding place, obstacle, and the object cut down to
+    kill Reindeer-born
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: neckerchief transformed into iron saw
+  literal_form: neckerchief that turns into iron and takes a form similar to a saw
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: iron house
+  literal_form: iron house to which the man returns
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: flight and collision at the tree
+  summary: The man flees from Reindeer-born, hides behind a tree, and Reindeer-born
+    strikes his forehead against the tree while chasing him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: neckerchief becomes iron saw
+  summary: The man touches the tree with the neckerchief; it becomes an iron saw-shaped
+    object and cuts down the tree.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: death of Reindeer-born and return to iron house
+  summary: The cut tree falls on Reindeer-born and kills him; the man returns to the
+    iron house and lives with the young woman as his wife.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: pursuer defeated through tree obstacle
+  taxonomy_refs: []
+  basis: The fleeing man hides behind a tree; Reindeer-born collides with it and is
+    later killed by the same tree after it is cut down.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain whether the tree has broader sacred or cosmological
+    meaning.
+- id: motif:2
+  label: ordinary cloth transformed into iron cutting tool
+  taxonomy_refs: []
+  basis: The neckerchief instantly turns into iron with an outward shape like a saw,
+    and the saw cuts down the tree.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No taxonomy reference among the supplied motif families directly matches
+    this transformation.
+- id: motif:3
+  label: enemy killed by felled tree
+  taxonomy_refs: []
+  basis: The saw cuts the tree down, and the falling tree strikes Reindeer-born on
+    the head and kills him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is extracted as a local narrative pattern rather than a confirmed
+    cross-traditional motif.
+- id: motif:4
+  label: return to dwelling with wife
+  taxonomy_refs:
+  - return
+  basis: After Reindeer-born is killed, the man returns to the iron house and lives
+    there with the young woman as his wife.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The supplied passage gives only the closing return; the wider quest or
+    departure context is not included.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note states that an unspecified detail in the passage is borrowed
+    from Yakut folklore and is frequently found there.
+  claim_level: historical_contact
+  target: Yakut folklore
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The supplied excerpt does not identify which detail the note refers
+    to, and it does not provide the Yakut parallel text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 851-855
+  quote_or_summary: The man returns to his house, sees Reindeer-born rush toward him,
+    flees to a tree, hides behind it, and Reindeer-born strikes his forehead against
+    the tree while chasing him.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: public domain
+- id: ev:2
+  type: summary
+  locator: lines 855-858
+  quote_or_summary: The man touches the tree with a neckerchief, which instantly becomes
+    iron and takes a saw-like shape; the saw cuts down the tree.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: public domain
+- id: ev:3
+  type: summary
+  locator: lines 858-861
+  quote_or_summary: The falling tree strikes Reindeer-born on the head, kills him,
+    and the man returns to the iron house to live with the young woman as wife.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: public domain
+- id: ev:4
+  type: citation
+  locator: lines 863-865
+  quote_or_summary: 'Tale attribution: told by Innocent Karyakin, a Tundra Yukaghir
+    man, on the western tundra of the Kolyma country in winter 1895.'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: public domain
+- id: ev:5
+  type: note
+  locator: lines 867-868
+  quote_or_summary: 'Editorial note: an unspecified detail is said to be borrowed
+    from Yakut folklore, where it is frequently met.'
+  source_text_path: texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md
+  rights_note: public domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The immediate narrative actions and objects are explicit. Motif labels are
+    local and cautious. The comparison claim depends on an editorial note whose exact
+    referent is not visible in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage text, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-tales-of-yukaghir-lamut-bogoras-archive__l851-l868
+  passage_sha256=01541bb38044eb30b043e1330f9c31c83f7e52e70be3d7369959f330afc91fea
+

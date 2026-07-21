@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.african-yoruba-speaking-peoples-ellis-archive-l139-l337
+source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+passage_locator:
+  label: THE YOKUBA-SPEAKINO PEOPLES / OP THE / SLAVE COAST OF WEST AFEICA / CHAPTER
+    L; lines 139-337
+  start: '139'
+  end: '337'
+  translation: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their
+    Religion, Manners, Customs, Laws, Language, Etc.'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the Yoruba-speaking peoples by describing their
+    location on the eastern half of the Slave Coast, their movement southward to Lagos
+    and the littoral under northern pressure, the political units of Yoruba country,
+    the shared Yoruba language, and the coastal lagoon, plains, ancient coastline,
+    hills, and mountains of the region.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Yoruba-speaking peoples are described as occupying the eastern half of
+    the Slave Coast between Badagry and the Benin River, while also being characterized
+    as originally inland people.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the Yorubas moved south and colonised Lagos and the
+    adjacent littoral at the beginning of the present century.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage attributes the southward movement to pressure from Mohammedan
+    tribes from the north, who had conquered and annexed Ilorin.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yoruba country is divided into named states or political units, including
+    Lagos, Ketu, Egba, Jebu, Ekiti, Ibadan, Yoruba proper, Ijesa, Ife, and Ondo, along
+    with smaller townships.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The inhabitants of the listed states are said to speak one language, Yoruba,
+    while external names vary by French or English usage and by political division.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A lagoon system extends along the sea-front of the Yoruba-speaking territory
+    and forms a continuous waterway from Porto Novo to Benin.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage describes an old coastline, coastal accretion, flat open country,
+    lagoons, marsh, and areas where stones appear in the soil.
+  category: setting
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: North of the old coastline the country rises into low plateaus, with low hills,
+    a mountain chain around eight degrees north latitude, and isolated wooded hills
+    in Ife and Ondo.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yoruba-speaking peoples / Yorubas
+  description: Collective population described as occupying the eastern half of the
+    Slave Coast, speaking Yoruba, and moving southward to colonise Lagos and the adjacent
+    littoral.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Mohammedan tribes from the interior
+  description: Northern groups described as having conquered and annexed Ilorin and
+    exerted pressure on the Yorubas.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Yoruba states and townships
+  description: Named political units and smaller townships comprising Yoruba country
+    in the passage.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: inland people occupying the eastern Slave Coast region
+  assigned_to:
+  - fig:1
+  basis: The passage describes the Yorubas as really an inland people and locates
+    their occupied coastland between Badagry and the Benin River.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: southward colonizers of Lagos and the adjacent littoral
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Yorubas moved south and colonised Lagos and the
+    adjacent littoral.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: northern military pressure group
+  assigned_to:
+  - fig:2
+  basis: The passage says the tribes from the interior conquered Ilorin and that their
+    pressure likely caused Yoruba movement southward.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: political subdivisions of Yoruba country
+  assigned_to:
+  - fig:3
+  basis: The passage enumerates states, kingdoms, confederations, and independent
+    townships as political units of Yoruba country.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: lagoon and sea waterway
+  literal_form: lagoon system, sea-front, and continuous waterway from Porto Novo
+    to Benin
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: mountain chain and wooded hills
+  literal_form: chain of mountains, low hills, and isolated densely wooded hills
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Yoruba location and southward movement
+  summary: The passage places the Yoruba-speaking peoples between Badagry and the
+    Benin River and says that they moved south to colonise Lagos and the adjacent
+    littoral under pressure from the north.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Enumeration of Yoruba political units
+  summary: The passage lists Yoruba country as composed of states and political units,
+    followed by smaller independent townships, and states that the inhabitants speak
+    Yoruba.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Coastal and inland geography
+  summary: The passage describes the lagoon system, sea-front, probable ancient coastline,
+    flat coastal land, marsh, plateaus, hills, and mountains of the region.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 139-337, introductory geography
+  quote_or_summary: The Yoruba-speaking peoples are located on the eastern half of
+    the Slave Coast between Badagry and the Benin River; the passage says they are
+    really inland people who moved south at the beginning of the century and colonised
+    Lagos and the adjacent littoral.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 139-337, northern boundary and aggressions
+  quote_or_summary: Northern Mohammedan tribes are described as having conquered and
+    annexed Ilorin; the passage says their pressure probably caused the Yorubas to
+    move south and colonise the sea-board.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 139-337, list of states
+  quote_or_summary: Yoruba country is said to comprise Lagos, Ketu, Egba, Jebu, Ekiti,
+    Ibadan, Yoruba proper, Ijesa, Ife, Ondo, and several smaller independent townships
+    such as Egbado, Okeodan, Ado, Awori, and Igbessa.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 139-337, language statement
+  quote_or_summary: The inhabitants of these states are said to speak one language,
+    Yoruba; the passage notes that they are called Nagos by the French and named by
+    political division by the English.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 139-337, lagoon system
+  quote_or_summary: A lagoon system is described as extending along the whole sea-front
+    of the Yoruba-speaking territory and affording a continuous waterway from Porto
+    Novo to Benin.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 139-337, old coastline and coastal land
+  quote_or_summary: The passage describes coastal land formed by the Guinea current,
+    open flat country, forested Jebu as an exception, ancient coastline features,
+    the Ajarra Creek, stones in the soil, and the Ko or Great Marsh of Dahomi.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 139-337, inland relief
+  quote_or_summary: Northward of the old coastline the country rises gradually in
+    low plateaus, with low hills or undulations, a mountain chain running east and
+    west near eight degrees north latitude, and isolated wooded hills in Ife and Ondo.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily historical and geographical rather than mythological;
+    no motif candidates or comparison claims are extracted because the passage itself
+    does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No mythic narrative, ritual episode, divine figure, or explicit comparative motif is present in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-yoruba-speaking-peoples-ellis-archive__l139-l337
+  passage_sha256=22cd08b87fdf64609b1773fce51e12f5d2338ba794f0f8ed77763df3355c658c
+

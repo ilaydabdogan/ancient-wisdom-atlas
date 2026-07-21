@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l13228-l13246
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 2CC. / VIII. 9. / EX 3; / JINGO. 227; lines 13228-13246
+  start: '13228'
+  end: '13246'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A god instructs that a gentle spirit will attach to and protect the Empress,
+    while a rough spirit will serve as vanguard and guide for the squadron. The Empress
+    worships after receiving the instructions and appoints a director of ceremonies.
+    When the time for delivery arrives, she places a stone in her loins and prays
+    that delivery occur in that land after the enterprise is completed and she returns.
+    The stone is said to remain by the roadside in Ito. The rough spirit is then ordered
+    to act as vanguard of the forces, and the gentle spirit is requested to guard
+    the Royal vessel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A god gives instructions about two spirits with distinct protective and military
+    functions.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gentle spirit is described as attaching itself to the Empress and watching
+    over her life.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The rough spirit is described as forming the vanguard and guiding the squadron.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:4
+  text: After receiving the divine instructions, the Empress performs worship and
+    appoints Otarimi, Yosami no Ahiko as director of ceremonies in honor of the god.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When the time for delivery has come, the Empress takes a stone, inserts it
+    in her loins, and prays for delivery to occur after the enterprise and return.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stone is reported to be on the roadside in the district of Ito.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The gentle spirit is requested to act as guardian of the Royal vessel.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: a God
+  description: The divine speaker who gives instructions concerning the gentle and
+    rough spirits.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Empress
+  description: The royal woman who receives divine instructions, worships, appoints
+    a ritual director, and prays concerning her delivery.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: gentle spirit
+  description: A spirit said to attach itself to the Empress, watch over her life,
+    and guard the Royal vessel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: rough spirit
+  description: A spirit assigned to serve as vanguard of the forces and guide to the
+    squadron.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:5
+  name_or_label: Otarimi, Yosami no Ahiko
+  description: The person appointed by the Empress as director of ceremonies in honor
+    of the god.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine instructor
+  assigned_to:
+  - fig:1
+  basis: The god gives instructions about the spirits and their functions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal recipient of divine instructions
+  assigned_to:
+  - fig:2
+  basis: The Empress receives the divine instructions, worships, appoints a ritual
+    official, and prays about her delivery.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: protective guardian spirit
+  assigned_to:
+  - fig:3
+  basis: The gentle spirit is said to watch over the Empress’s life and to guard the
+    Royal vessel.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: vanguard and guide
+  assigned_to:
+  - fig:4
+  basis: The rough spirit is said to form the vanguard and guide the squadron, then
+    to act as vanguard of the forces.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:5
+  label: director of ceremonies
+  assigned_to:
+  - fig:5
+  basis: Otarimi, Yosami no Ahiko is appointed director of ceremonies in honor of
+    the god.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: stone used in prayer for delayed delivery
+  literal_form: stone inserted in the Empress’s loins
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Royal vessel
+  literal_form: Royal vessel guarded by the gentle spirit
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: roadside stone at Ito
+  literal_form: stone said to remain on the roadside in the district of Ito
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Divine allocation of spirit functions
+  summary: A god states that a gentle spirit will protect the Empress and that a rough
+    spirit will lead and guide the squadron.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Worship and appointment of ceremonial director
+  summary: The Empress responds to the divine instructions by worshipping and appointing
+    Otarimi, Yosami no Ahiko as director of ceremonies for the god.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prayer to postpone delivery with a stone
+  summary: At the time of delivery, the Empress places a stone in her loins and prays
+    that delivery occur after the enterprise ends and she returns; the stone is identified
+    with a roadside stone in Ito.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Spirits assigned to forces and vessel
+  summary: The rough spirit is told to act as vanguard of the forces, and the gentle
+    spirit is requested to guard the Royal vessel.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: divine spirits as military guide and royal guardian
+  taxonomy_refs: []
+  basis: The passage assigns a rough spirit to guide and lead the forces and a gentle
+    spirit to protect the Empress and the Royal vessel.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No specific supplied taxonomy family directly names this pattern.
+- id: motif:2
+  label: ritual postponement of childbirth
+  taxonomy_refs:
+  - sacred_birth
+  basis: The Empress uses a stone and prayer to request that delivery occur after
+    the expedition and return.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage concerns delivery and a ritual act, but it does not narrate
+    the actual birth within this excerpt.
+- id: motif:3
+  label: sacred object remaining as local landmark
+  taxonomy_refs: []
+  basis: The stone used in the Empress’s prayer is said to remain on the roadside
+    in Ito.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies the stone’s location but gives no further cultic
+    or etiological explanation in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13228-13233
+  quote_or_summary: A god says that a gentle spirit will attach to the Empress and
+    watch over her life, while a rough spirit will form the vanguard and guide the
+    squadron.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13233-13237
+  quote_or_summary: After receiving the divine instructions, the Empress worships
+    and appoints Otarimi, Yosami no Ahiko as director of ceremonies in honor of the
+    god.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13238-13243
+  quote_or_summary: At the time of delivery, the Empress inserts a stone in her loins
+    and prays that delivery occur in that land after the enterprise is complete and
+    she has returned; the stone is said to be by the roadside in Ito.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13245-13246
+  quote_or_summary: The rough spirit is told to act as vanguard of the forces, and
+    the gentle spirit is requested to guard the Royal vessel.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the passage. Motif labels are cautious
+    because the supplied taxonomy has no exact match for divine military guidance
+    or spirit-guardian functions; the childbirth motif is supported but the actual
+    birth is outside the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare this episode to another motif family, text, or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l13228-l13246
+  passage_sha256=30f2e74bdc567d5298023dc63932466990f22871448009b880cf6e26c11f22f4
+

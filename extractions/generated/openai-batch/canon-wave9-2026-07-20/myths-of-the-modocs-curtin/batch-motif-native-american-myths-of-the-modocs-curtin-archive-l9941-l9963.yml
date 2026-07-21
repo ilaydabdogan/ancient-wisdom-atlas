@@ -1,0 +1,287 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l9941-l9963
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: MYTHS OF THE MODOCS 189 / WUS AND HIS TROUBLES / CHARACTERS / MYTHS OF THE
+    MODOCS 193; lines 9941-9963
+  start: '9941'
+  end: '9963'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: They killed him and had almost eaten him up when Pshag6k-nik came in.
+  summary: Wus enters houses where groups of five brothers sit around fires but cannot
+    be seen by him. They bite him, kill him, and nearly eat him. Pshag6k-nik enters,
+    asks why Wus is sleeping so long, and Wus jumps up, says he is sleepy, and travels
+    north.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Five brothers sit around a fire in the first house, but Wus does not see them.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the first house, the brothers bite Wus on his body, including his leg and
+    hand.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Wus throws burning coals around the house in an attempt to kill what bit him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Wus runs to a second house and sees a fire burning there.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Five brothers in the second house are present around the fire, but Wus cannot
+    see them.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The five brothers in the second house jump on Wus and bite him, and the other
+    five join them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The brothers kill Wus and have almost eaten him up before Pshag6k-nik enters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Pshag6k-nik asks Wus why he is sleeping so long.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Wus jumps up, says he is sleepy, leaves the house, and travels north.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Wus
+  description: The figure who enters the houses, is bitten, killed and almost eaten,
+    then jumps up and travels north.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: First five brothers
+  description: Five brothers in the first house who sit around the fire unseen by
+    Wus and bite him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Second five brothers
+  description: Five brothers in the second house who sit around the fire unseen by
+    Wus, jump on him, and bite him.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Pshag6k-nik
+  description: The figure who enters after Wus is killed and almost eaten and asks
+    why Wus is sleeping so long.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: attacked traveler
+  assigned_to:
+  - fig:1
+  basis: Wus runs from one house to another and is bitten in both places.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: unseen attackers
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Both groups of brothers are present around fires but Wus cannot see them,
+    and both attack by biting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: questioning arrival
+  assigned_to:
+  - fig:4
+  basis: Pshag6k-nik enters after the attack and asks Wus why he is sleeping so long.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: revived victim
+  assigned_to:
+  - fig:1
+  basis: Wus is said to be killed and almost eaten, then jumps up after Pshag6k-nik
+    addresses him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fires burning in the houses, with brothers sitting around them; Wus
+    also throws burning coals.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: burning coals
+  literal_form: Burning coals thrown around the house by Wus to kill what had bitten
+    him.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: northward travel
+  literal_form: Wus travels on toward the north after jumping up.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: First house biting
+  summary: Wus lies down in a house where five unseen brothers sit around a fire.
+    They bite him, and he throws burning coals around the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Second house killing
+  summary: Wus runs to another house with a fire and another group of five unseen
+    brothers. They attack him, the first group joins, and they kill and nearly eat
+    him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pshag6k-nik addresses Wus
+  summary: Pshag6k-nik enters, asks why Wus is sleeping so long, and Wus jumps up,
+    says he is sleepy, leaves, and travels north.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: killed figure rises again when addressed
+  taxonomy_refs:
+  - resurrection
+  - death_rebirth
+  basis: Wus is explicitly killed and almost eaten, but after Pshag6k-nik speaks to
+    him, Wus jumps up and continues traveling.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the mechanism of Wus's return, and Wus describes
+    himself as sleepy rather than dead.
+- id: motif:2
+  label: unseen attackers around the hearth
+  taxonomy_refs: []
+  basis: In two houses, groups of five brothers are present around fires but Wus cannot
+    see them; they bite him repeatedly.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this pattern.
+- id: motif:3
+  label: attack and near-consumption of a traveler
+  taxonomy_refs: []
+  basis: The brothers bite Wus, kill him, and have almost eaten him up before another
+    figure arrives.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not identify the brothers as monsters or animals, only
+    as brothers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9941-9948
+  quote_or_summary: In the first house, five brothers sit around a fire unseen by
+    Wus. They bite him, and he throws burning coals around the house.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief summary.
+- id: ev:2
+  type: summary
+  locator: 9949-9957
+  quote_or_summary: Wus runs to a second house with a fire. Another five brothers
+    are there unseen; they and the other five bite Wus, kill him, and almost eat him
+    before Pshag6k-nik enters.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief summary.
+- id: ev:3
+  type: quote
+  locator: 9958-9963
+  quote_or_summary: Pshag6k-nik asks, "Old man, why are you sleeping so long?" Wus
+    jumps up, says he is sleepy, leaves, and travels north.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief quotation and summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence is clear. Motif labels involving resurrection or death-rebirth
+    require caution because the passage presents Wus as killed but then addressed
+    as sleeping.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l9941-l9963
+  passage_sha256=c9d95b9f0f2050cea9c51b08251a271d93baaa417c4950d07a28fec2b333a2c0
+

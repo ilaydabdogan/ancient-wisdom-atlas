@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l11444-l11564
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE TREATMENT OF THIEVES. / TO BEAT THE GEOUND (WITH A STONE). / BUSHMAN
+    REPORT OF 1873. 441 / BUSHMAN REPORT OF 1873. 443; lines 11444-11564
+  start: '11444'
+  end: '11564'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: animals and heavenly objects are personified
+  summary: The passage is a report on the collection, translation, and analysis of
+    Bushman/San language materials and oral texts. It describes source speakers, the
+    scale of the collected corpus, translation work, and a scholarly characterization
+    of some stories as mythological because they personify animals and heavenly objects.
+    It also compares this literature with Hottentot and other traditions and contrasts
+    it with Bantu traditions.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In 1870, the presence of twenty-eight Bushmen at the Breakwater is described
+    as providing a rare opportunity to obtain instructors in the language.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A selected Bushman boy was placed with the report author for language work,
+    and one intelligent old Bushman later joined him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The two Bushman instructors remained after their penal servitude expired,
+    and the author attempted to locate their wives so they might join their husbands.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Material written down from the Bushmen is described as more than four thousand
+    columns of text, plus genealogical tables and other notices.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The collected texts are said to be largely accompanied by literal English
+    translations, with vocabularies and dictionaries in preparation, while more than
+    a dozen stories remain unfinished.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The report states that the main importance of the collected literature lies
+    in the mythological character of stories under sections I-III.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In those mythological stories, animals and heavenly objects are described
+    as personified.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The report says Bushman literature differs from that of Bantu nations, which
+    are described as having legends but, strictly speaking, no mythologies.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The report says Bushman literature most nearly resembles Hottentot literature
+    and also resembles primitive mythological stages of other more northern nations.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The report describes Bushman grammar as lacking genders referring to sex distinctions
+    and as using two main pronoun forms.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: selected Bushman boy
+  description: A Bushman boy selected as a language instructor and placed with the
+    report author in August 1870.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: old Bushman instructor
+  description: One of the most intelligent old Bushmen, directed to join the selected
+    boy as an instructor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Bushmen source speakers
+  description: The people from whose lips the report says more than four thousand
+    columns of text were written down.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: animals in the stories
+  description: Animals described as personified in the mythological stories under
+    sections I-III.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: heavenly objects in the stories
+  description: Heavenly objects described as personified in the mythological stories
+    under sections I-III.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: language instructor
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the boy was selected for language instruction and that an
+    intelligent old Bushman joined him for the same inquiry.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: oral source for collected texts
+  assigned_to:
+  - fig:3
+  basis: The passage says the written texts were taken down from the lips of the Bushmen.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: personified mythological subject
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage explicitly states that animals and heavenly objects are personified
+    in the mythological stories.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: personified animals
+  literal_form: animals
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: personified heavenly objects
+  literal_form: heavenly objects
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Selection and retention of language instructors
+  summary: The report describes the selection of a Bushman boy and the later addition
+    of an old Bushman as language instructors, their continued presence after penal
+    servitude, and efforts to locate their wives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Scholarly characterization of collected stories
+  summary: The report characterizes some collected stories as mythological because
+    animals and heavenly objects are personified, and it places the corpus in comparison
+    with neighboring and other traditions.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Personification of animals and heavenly objects
+  taxonomy_refs: []
+  basis: The passage explicitly states that in the mythological stories, animals and
+    heavenly objects are personified.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage is a report about a corpus rather than a specific myth narrative;
+    it does not describe individual animal or celestial characters or actions.
+comparison_claims:
+- id: claim:1
+  claim: The report states that Bushman literature most nearly resembles the literature
+    of neighboring Hottentots.
+  claim_level: same_function
+  target: Hottentot literature
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is broad and corpus-level; the passage does not provide
+    a specific parallel motif or narrative episode.
+- id: claim:2
+  claim: The report states that Bushman literature also resembles primitive mythological
+    stages of other more northern nations.
+  claim_level: same_function
+  target: primitive mythological stages of other more northern nations
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The target traditions are not named, and the passage gives no specific
+    textual parallels; wording reflects the historical scholarly terminology of the
+    report.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11444-11564, paragraph 6
+  quote_or_summary: In 1870 twenty-eight Bushmen at the Breakwater provided an opportunity
+    for language instruction; a boy was selected, an old Bushman joined him, both
+    remained after penal servitude, and inquiries were made for their wives.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: lines 11444-11564, paragraph 7
+  quote_or_summary: The report says more than four thousand columns of text were written
+    down from the lips of the Bushmen, along with genealogical tables and other notices.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 11444-11564, paragraph 8
+  quote_or_summary: The collected texts are mostly accompanied by literal English
+    translation; vocabularies and dictionaries are being prepared; some stories are
+    unfinished.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: lines 11444-11564, paragraph 9
+  quote_or_summary: "“the mythological character of the stories under I.— III., in
+    which animals and heavenly objects are personified.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 11444-11564, paragraph 9
+  quote_or_summary: The report says Bushman literature differs from Bantu nations'
+    literature, describing the latter as having legends but, strictly speaking, no
+    mythologies.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 11444-11564, paragraph 9
+  quote_or_summary: The report says Bushman literature most nearly resembles that
+    of the Hottentots and also resembles primitive mythological stages of other more
+    northern nations.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 11444-11564, paragraph 9
+  quote_or_summary: The report describes Bushman as lacking sex-referential genders
+    and using two main pronoun forms, one mainly singular and another mainly plural.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is primarily a scholarly report, not a myth narrative. The motif
+    candidate is based on an explicit corpus-level statement about personification
+    rather than on a narrated episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif-family or symbol reference was assigned, because the passage does not support the supplied taxonomy items directly.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l11444-l11564
+  passage_sha256=e6ff369e4cf477d805944c533f139024d8e3b2e2178fa5fdb5604db4399c1e64
+

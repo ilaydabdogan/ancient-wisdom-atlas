@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l64-l156
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume
+    2 / CONTENTS / ET ADDENDA / BOOK XVII.; lines 64-156'
+  start: '64'
+  end: '156'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Book XVII with Emperor Wohodo's genealogy, naming his
+    father, mother, and descent from earlier emperors. It recounts the marriage arrangement
+    between his father and Furuhime, Wohodo's birth, his father's early death, Furuhime's
+    return to her parents to raise him, his adult virtues, and the childless death
+    of Emperor Wohatsuse leaving no successor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Emperor Wohodo, also called Hiko-futo no Mikoto, is identified as the son
+    of Prince Hiko-nushi-bito and as a fifth-generation descendant of Emperor Homuda
+    through his father.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Furuhime is named as Emperor Wohodo's mother and as a seventh-generation descendant
+    of Emperor Ikume.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Prince Hiko-nushi-bito heard of Furuhime's beauty, sent a messenger to ask
+    for her in marriage, took her as consort, and she later gave birth to the Emperor.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Prince Hiko-nushi-bito died while the Emperor was still a child.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Furuhime lamented being far from her native place and decided to return to
+    her parents at Takamuku in Echizen to raise the Emperor there.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When Emperor Wohodo reached manhood, he is described as loving the people,
+    courteous to worthy men, and generous.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Emperor Wohatsuse died in the eighth year of his reign, in winter on the twelfth
+    month and eighth day, at age fifty-seven, without sons or daughters and with no
+    successor.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Emperor Wohodo / Hiko-futo no Mikoto
+  description: The future emperor introduced in Book XVII; son of Prince Hiko-nushi-bito
+    and Furuhime, later described as virtuous in adulthood.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Prince Hiko-nushi-bito
+  description: Father of Emperor Wohodo; a fifth-generation descendant of Emperor
+    Homuda; he sought Furuhime in marriage and died while Wohodo was a child.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Furuhime
+  description: Mother of Emperor Wohodo; descendant of Emperor Ikume; taken as consort
+    by Prince Hiko-nushi-bito and returned to her parents at Takamuku to raise the
+    child.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Emperor Homuda
+  description: Named as the emperor from whom Prince Hiko-nushi-bito descended in
+    the fifth generation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Emperor Ikume
+  description: Named as the emperor from whom Furuhime descended in the seventh generation.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Emperor Wohatsuse
+  description: The preceding emperor whose death is noted; he had no children and
+    no one to succeed him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Unnamed messenger
+  description: A messenger sent by Prince Hiko-nushi-bito to Sakanawi in Mikuni to
+    ask for Furuhime in marriage.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: emperor
+  assigned_to:
+  - fig:1
+  basis: The passage titles and names Wohodo as Emperor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: future ruler as child
+  assigned_to:
+  - fig:1
+  basis: The passage says he was born to Furuhime and was still a child when his father
+    died.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: father of the emperor
+  assigned_to:
+  - fig:2
+  basis: Prince Hiko-nushi-bito is explicitly called the Emperor's father.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: mother and child-raiser
+  assigned_to:
+  - fig:3
+  basis: Furuhime is named as mother and decides to return to her parents to bring
+    up the Emperor.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:5
+  label: marriage partners and parents
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage recounts Hiko-nushi-bito asking for Furuhime in marriage, taking
+    her as consort, and her giving birth to the Emperor.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: royal ancestor
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Homuda and Ikume are each named as ancestral emperors in the genealogies
+    of Wohodo's parents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:7
+  label: childless predecessor creating succession vacancy
+  assigned_to:
+  - fig:6
+  basis: Wohatsuse is described as dying without children and with no successor.
+  evidence_refs:
+  - ev:6
+- id: role:8
+  label: marriage envoy
+  assigned_to:
+  - fig:7
+  basis: The messenger is sent to request Furuhime in marriage.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Genealogical introduction and marriage leading to Wohodo's birth
+  summary: The chronicle introduces Wohodo's paternal and maternal lineages, recounts
+    Hiko-nushi-bito's request to marry Furuhime, and states that Furuhime gave birth
+    to the Emperor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Furuhime returns to Takamuku to raise the child
+  summary: After Hiko-nushi-bito dies while Wohodo is still a child, Furuhime laments
+    her distance from her native place and resolves to return to her parents at Takamuku
+    to bring up the Emperor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Adult virtues of Emperor Wohodo
+  summary: When Wohodo reaches manhood, the passage characterizes him as loving the
+    people, courteous to worthy men, and generous.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Death of Emperor Wohatsuse without an heir
+  summary: Emperor Wohatsuse dies at age fifty-seven after an eight-year reign and
+    is said to have no children and no successor.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Genealogical royal legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage establishes Wohodo through named paternal and maternal descent
+    from earlier emperors and places this genealogy beside a succession vacancy caused
+    by Emperor Wohatsuse's childlessness.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: The passage is chronicle-style genealogy rather than a mythic episode;
+    the motif identification is limited to dynastic legitimation.
+- id: motif:2
+  label: Maternal return to natal kin to raise a future ruler
+  taxonomy_refs: []
+  basis: After the father's death, Furuhime declares that she will return to her parents
+    at Takamuku and bring up the Emperor there.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a narrative pattern in the passage, but no supplied taxonomy family
+    directly matches it.
+- id: motif:3
+  label: Childless ruler and succession vacancy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Emperor Wohatsuse dies without sons or daughters, and the passage states
+    that there was no one to succeed him.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not yet narrate the political resolution of the vacancy
+    within the supplied range.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 64-156, Book XVII opening genealogy
+  quote_or_summary: Wohodo, also called Hiko-futo no Mikoto, is introduced as son
+    of Prince Hiko-nushi-bito, who descends in the fifth generation from Emperor Homuda.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 64-156, Book XVII opening genealogy
+  quote_or_summary: Furuhime is named as Wohodo's mother and as a seventh-generation
+    descendant of Emperor Ikume.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 64-156, marriage and birth notice
+  quote_or_summary: Hiko-nushi-bito hears of Furuhime's beauty, sends a messenger
+    to Sakanawi in Mikuni to ask for her in marriage, takes her as consort, and she
+    gives birth to the Emperor.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 64-156, father's death and Furuhime's speech
+  quote_or_summary: Hiko-nushi-bito dies while Wohodo is a child; Furuhime says she
+    is far from her native place and will return to her parents at Takamuku in Echizen
+    to raise the Emperor.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 64-156, adulthood characterization
+  quote_or_summary: When Wohodo reaches manhood, he is described as loving the people,
+    courteous to worthy men, and generous.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 64-156, Emperor Wohatsuse death notice
+  quote_or_summary: "“He had never had any children, either sons or daughters, and
+    there was no one to succeed him.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main relationships, succession facts, and narrative sequence are explicit.
+    Motif labels are conservative and focus on royal genealogy and succession; no
+    cross-tradition comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy items are materially present in the passage; symbols are therefore left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l64-l156
+  passage_sha256=3d4c0a7349dbfa942d10d56188adb8f29805d55adf72439b47e6c7374d283bb2
+

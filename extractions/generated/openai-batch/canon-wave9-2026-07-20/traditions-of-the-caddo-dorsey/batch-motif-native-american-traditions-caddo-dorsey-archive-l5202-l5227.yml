@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.native-american-traditions-caddo-dorsey-archive-l5202-l5227
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+passage_locator:
+  label: I04 TRADITIONS OP THE CADDO. / COYOTE AND TURTLE RUN A RACE. I05 / I06 TRADITIONS
+    OP THS CADDO. / I08 TRADITIONS OP THE CADDO.; lines 5202-5227
+  start: '5202'
+  end: '5227'
+  translation: Traditions of the Caddo
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Women use a favored old corn mill made from a hollowed tree trunk. Their
+    corn begins disappearing during grinding. After they notice the mill is not the
+    old one and call for an axe, the mill rolls over and Coyote emerges and runs away;
+    the narrator explains that Coyote had become the corn mill and hidden the old
+    one so he could eat the corn.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The women make corn mills from pieces of old tree trunks hollowed at one end,
+    and use pounders to grind corn into meal.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Among many mills, one very old and smooth mill is especially preferred by
+    the women.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A woman using the old corn mill sees her corn diminish too quickly and has
+    only a little meal after grinding.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The same disappearance happens to the corn of the next women who use the mill.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The women examine the mill and see that it is not the old mill they had always
+    used.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One woman calls for an axe to cut the mill and find where the corn disappeared.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Before the axe is used, the mill falls over, rolls about, and Coyote jumps
+    up from the place where the mill had been and runs away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that Coyote had turned into a corn mill and hidden the
+    old mill in order to get food.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the women
+  description: Women who make and use corn mills, notice the disappearing corn, examine
+    the mill, and call for an axe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Coyote
+  description: A figure who turns into a corn mill, hides the old mill, consumes or
+    obtains the corn, then jumps up and runs away when exposed.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: corn grinders
+  assigned_to:
+  - fig:1
+  basis: The women place corn in the hollowed mill and grind it into meal with a pounder.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: investigators of the false mill
+  assigned_to:
+  - fig:1
+  basis: The women wonder what is wrong, examine the mill, and one calls for an axe
+    to cut it open.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: shapeshifter
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly says Coyote turned into a corn mill.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: deceptive food-taker
+  assigned_to:
+  - fig:2
+  basis: Coyote hides the old mill and takes the place of the mill so that he can
+    get food from the women’s corn.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: corn mill
+  literal_form: A hollowed section of old tree trunk used for grinding corn, and the
+    object-form assumed by Coyote.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: corn and meal
+  literal_form: Corn placed in the mill and ground into meal; it diminishes or disappears
+    during use of the false mill.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: axe
+  literal_form: An axe requested by one woman to cut the mill and discover where the
+    corn disappeared.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: old tree trunk
+  literal_form: The trunk material from which the women make their corn mills.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Making and using the corn mills
+  summary: The passage describes how women make corn mills from old tree trunks and
+    grind corn into meal, with one old smooth mill preferred among many.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Corn disappears during grinding
+  summary: A woman notices her corn diminishing too quickly, and the same thing happens
+    to several other women who use the mill.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The false mill is investigated
+  summary: The women examine the mill, see it is not the old mill they knew, and call
+    for an axe to cut it open.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Coyote revealed as the mill
+  summary: The mill rolls over, Coyote jumps up and runs away, and the narration explains
+    that he had become the mill and hidden the old one to get food.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: transformation into a household object
+  taxonomy_refs:
+  - shapeshifter
+  basis: Coyote explicitly turns into a corn mill, taking the form of an ordinary
+    work object.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives the transformation but does not explain the mechanics
+    or duration of the change.
+- id: motif:2
+  label: deceptive replacement of a useful object to obtain food
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote hides the real mill and substitutes himself as a mill so that he can
+    get food from the women’s corn.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not use the word trickster; the label rests on the deceptive
+    action and boundary-crossing transformation.
+- id: motif:3
+  label: hidden consumer exposed by threat of cutting
+  taxonomy_refs: []
+  basis: When the women call for an axe to cut the mill and discover where the corn
+    went, the mill moves and Coyote is revealed.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage shows exposure following the axe threat, but does not state
+    that the threat magically forces the revelation.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at motif-family level with a shapeshifter pattern,
+    because Coyote explicitly becomes a corn mill and later emerges from that object-form.
+  claim_level: same_motif
+  target: 'motif_family: shapeshifter'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a taxonomy-level comparison only; no historical contact, common
+    inheritance, or external parallel is asserted.
+- id: claim:2
+  claim: The passage can be cautiously compared at functional level with a trickster-boundary
+    pattern, because the figure uses transformation and deception to cross the boundary
+    between animate being and work object in order to get food.
+  claim_level: same_function
+  target: 'motif_family: trickster_boundary'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself does not label Coyote as a trickster, so the comparison
+    is limited to the observed deceptive boundary-crossing function.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5206-5211
+  quote_or_summary: Women make corn mills from old tree trunks, hollow them at one
+    end, grind corn into meal with a pounder, and especially like one old smooth mill.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:2
+  type: summary
+  locator: lines 5213-5218
+  quote_or_summary: A woman notices that her corn diminishes too fast while she pounds
+    it; the same disappearance happens to the corn of the next several women.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 5219-5222
+  quote_or_summary: The women wonder what is wrong, examine the mill, see it is not
+    the old mill, and call for an axe to cut it and find where the corn went.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain according to supplied source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 5223-5225
+  quote_or_summary: The mill falls over and rolls; Coyote jumps up from where it had
+    been and runs away. The passage states he had turned into a corn mill and hidden
+    the old one so he could get food.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain according to supplied source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events are explicit in the passage. Motif labels involving shapeshifting
+    are strongly supported; trickster-boundary comparison is more cautious because
+    the passage does not explicitly classify Coyote as a trickster.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. OCR spellings such as “com” were normalized to “corn” in summaries.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-caddo-dorsey-archive__l5202-l5227
+  passage_sha256=4d9d8cb3b267ef99251e78e5cf028f34f1661dd70a84e5d2becce4932c445252
+

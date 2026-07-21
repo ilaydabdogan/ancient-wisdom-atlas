@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21294-l21411
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 429 / OF THE OLD NORTHMEN. 431 / ON THE OLD NORTHERN
+    AND TEUTONIC METRE. / OLD NORTHERN AND TEUTONIC METRE. 433; lines 21294-21411
+  start: '21294'
+  end: '21411'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“The sun knew not her inn, / The moon knew not her dominion, / The stars
+    knew not their place”"
+  summary: The passage is mainly a prose discussion of Old Northern and Teutonic metre.
+    It criticizes forcing Eddic poems into strophic schemes, gives a brief quoted
+    example from the opening creation hymn of Voluspa, and defines technical features
+    of Old Teutonic verse such as half-lines, stress, alliteration, slurs, rests,
+    rhyme, stanza, strophe, and refrain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The author says Edda poems have been forced into strophes despite the flow
+    of the poems and parallels in Old English and Old German.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the quoted lines as coming from the creation hymn at
+    the beginning of Voluspa.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In the quoted lines, the sun does not know her inn, the moon does not know
+    her dominion, and the stars do not know their place.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Old Teutonic poetry is described as blank verse divided into two halves by
+    a line-pause at the end of a word.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that at least two stressed syllables in every line, one
+    in each half-line, must begin with a similar consonant or a vowel.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage describes primitive Teuton poetry as excited and emphatic prose
+    with repetitions of catchwords.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage says the Teutons had no musical instruments when first known and
+    developed alliterative stress as a central verse feature.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: sun
+  description: A celestial body in the quoted Voluspa lines, said not to know her
+    inn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: moon
+  description: A celestial body in the quoted Voluspa lines, said not to know her
+    dominion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: stars
+  description: Celestial bodies in the quoted Voluspa lines, said not to know their
+    place.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: unplaced celestial body
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The quoted creation-hymn fragment states that the sun, moon, and stars do
+    not yet know their inn, dominion, or place.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: sun without an appointed inn
+  literal_form: sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: moon without an appointed dominion
+  literal_form: moon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: stars without appointed places
+  literal_form: stars
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: celestial bodies before ordered placement
+  summary: A quoted fragment from the opening creation hymn of Voluspa depicts the
+    sun, moon, and stars as not knowing their proper inn, dominion, or place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: primordial cosmic bodies lacking appointed places
+  taxonomy_refs:
+  - chaos
+  basis: The passage identifies the quoted lines as part of a creation hymn and the
+    fragment describes the sun, moon, and stars as not yet knowing their places or
+    domains.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage quotes only a short fragment in a discussion of metre; the
+    broader mythic narrative is not included here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21294-21411
+  quote_or_summary: The author criticizes editions that have forced Edda poems into
+    strophes, contrary to the flow of the poems and parallel Old English and Old German
+    poems.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 21294-21411
+  quote_or_summary: "“the glorious hymn of the Creation with which Wolospa begins”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 21294-21411
+  quote_or_summary: "“The sun knew not her inn, / The moon knew not her dominion,
+    / The stars knew not their place”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 21294-21411
+  quote_or_summary: Every Old Teutonic poetic line is described as blank verse divided
+    into two halves by a line-pause at the end of a word.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 21294-21411
+  quote_or_summary: The passage states that every line requires at least two alliterating
+    stressed syllables, one in each half-line.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 21294-21411
+  quote_or_summary: The author describes early poetry as excited, emphatic prose with
+    repetitions of catchwords and applies this to primitive Teuton poetry.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: summary
+  locator: lines 21294-21411
+  quote_or_summary: The passage says the Teutons had no musical instruments when first
+    known and developed alliterative stress as a natural feature of early verse.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Most of the passage is metrical commentary rather than mythic narrative.
+    The only clear mythic material is the brief Voluspa creation-hymn quotation, so
+    motif identification is limited and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage’s cross-tradition references concern metre and textual form rather than mythic motif comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21294-l21411
+  passage_sha256=c69f0fd0a4d2fab30c3a311e88d0c5ea6f4380bca2dccba4e20dd3734f8a2639
+

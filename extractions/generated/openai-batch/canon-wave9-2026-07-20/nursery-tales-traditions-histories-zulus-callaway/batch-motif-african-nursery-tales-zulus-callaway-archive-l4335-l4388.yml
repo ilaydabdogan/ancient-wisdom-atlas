@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l4335-l4388
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UNTOMBINDE. / APPENDIX. / MONSTERS. / UNTOMBINDE.; lines 4335-4388
+  start: '4335'
+  end: '4388'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial appendix on monsters. It states that mythology
+    and imagination generate monsters worldwide, cites an article on real and fabulous
+    monsters of the deep, and quotes a European poetic catalogue of sea monsters and
+    other marine dangers rushing through foamy waves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that early philosophy is mingled with mythology and that
+    mythology has a life-producing power which has produced monsters worldwide.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage attributes the conception of monsters to imagination and says
+    such monsters can multiply into many varied and grotesque forms.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage cites an outside article that distinguishes real deep-sea forms
+    from fabulous monsters produced or elaborated by superstition, poetry, romance,
+    and early investigation.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Romance is described as going upon pathless waters and bringing back reports
+    of inhabitants while mingling facts with fancies.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A passage from the Faery Queene is introduced as a catalogue and condensed
+    cyclopaedia of fabulous marine zoology.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The quoted catalogue names sea beings and marine phenomena including hydres,
+    whales, whirlpools, scolopendraes, monoceros, a fish called Death, a wasserman,
+    a sea-satyre, ziffins, and rosmarines.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Several catalogue items are described as dangerous or frightening: a wasserman
+    pursues ships, a sea-satyre appears in storms, ziffins are avoided by mariners,
+    and the monsters rush in foamy waves with roaring noise.'
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: monsters produced by mythology and imagination
+  description: Monsters are described as conceptions born from imagination and clothed
+    by the human mind in varied grotesque forms.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: real monsters of the deep
+  description: The cited article is said to notice many bewildering shapes assumed
+    by real monsters of the deep.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fabulous marine monsters
+  description: The quoted material presents a catalogue of fabulous sea monsters and
+    marine prodigies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the griesly wasserman
+  description: The wasserman is described as pursuing flying ships with swiftness.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: the horrible sea-satyre
+  description: The sea-satyre is described as showing its fearful face in the time
+    of greatest storm.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: huge ziffins
+  description: Ziffins are described as creatures mariners avoid no less than rocks.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: the dreadful fish named Death
+  description: A dreadful fish is said to have deserved the name Death and to look
+    like Death in dreadful hue.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: offspring of imagination
+  assigned_to:
+  - fig:1
+  basis: The passage says the imagination gives birth to the conception of a monster
+    and the human mind clothes it in grotesque forms.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: real marine oddity
+  assigned_to:
+  - fig:2
+  basis: The cited article first notices bewildering shapes assumed by real monsters
+    of the deep.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: fabulous marine monster
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: The Faery Queene passage is introduced as a catalogue of fabulous marine
+    zoology and lists named sea monsters.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: danger to ships or mariners
+  assigned_to:
+  - fig:4
+  - fig:6
+  basis: The wasserman pursues ships and ziffins are avoided by mariners like rocks.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ocean waters
+  literal_form: pathless waters, ocean depths, foamy waves
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: storm at sea
+  literal_form: time of greatest storm
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: whirlpool
+  literal_form: great whirlpools which all fishes flee
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: death-like fish
+  literal_form: the dreadful fish that has deserved the name Death
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Editorial theory of monster-making
+  summary: The passage explains monsters as products of mythology, imagination, and
+    the human mind's tendency to multiply grotesque forms.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Real and fabulous sea monsters compared
+  summary: The cited article moves from real deep-sea oddities to fabulous monsters
+    associated with superstition, poetry, romance, and early investigation of the
+    ocean.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Poetic catalogue of marine prodigies
+  summary: The quoted poem lists many sea monsters and marine dangers, some frightening
+    ships and mariners, all rushing in foamy waves with loud roaring.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: monsters generated by mythology and imagination
+  taxonomy_refs: []
+  basis: The passage explicitly says mythology has produced monsters worldwide and
+    describes imagination giving birth to monster-conceptions.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an editorial generalization, not a narrative event within a tale.
+- id: motif:2
+  label: fabulous marine monster catalogue
+  taxonomy_refs: []
+  basis: The passage introduces and quotes a catalogue of fabulous marine zoology,
+    listing multiple named sea monsters and marine dangers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The catalogue is quoted from European literary material in an appendix
+    rather than narrated as a Zulu tale episode.
+- id: motif:3
+  label: sea monsters threatening ships and mariners
+  taxonomy_refs: []
+  basis: The wasserman pursues ships and ziffins are said to be avoided by mariners
+    like rocks.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only some listed sea monsters are given explicit hostile or hazardous
+    actions.
+- id: motif:4
+  label: monster-filled roaring waters
+  taxonomy_refs: []
+  basis: The quoted catalogue ends with many deformed monsters rushing in foamy waves
+    with dreadful noise and hollow roaring.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a poetic image rather than a fully developed mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself frames the production of monsters as a broad cross-cultural
+    pattern, stating that mythology has produced monsters all over the world.
+  claim_level: same_motif
+  target: worldwide monster-making or imagined-monster pattern
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is an editorial assertion and does not compare named Zulu
+    variants with specific external variants.
+- id: claim:2
+  claim: The cited article juxtaposes real deep-sea oddities with fabulous ocean monsters,
+    suggesting a comparable function between strange marine forms and later fabulous
+    marine zoology.
+  claim_level: same_function
+  target: real monsters of the deep and fabulous marine monster catalogues
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage juxtaposes these categories but does not prove direct derivation
+    or historical transmission.
+- id: claim:3
+  claim: The Faery Queene passage is used as an example of the same broad pattern
+    of fabulous sea-monster catalogues discussed in the appendix.
+  claim_level: same_motif
+  target: European literary sea-monster catalogue in the Faery Queene
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The quoted catalogue is external literary evidence embedded in the
+    appendix, not a Zulu oral narrative itself.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 4335-4344
+  quote_or_summary: The passage states that mythology has an inexhaustible power of
+    producing life and has exerted this power worldwide to produce monsters; imagination
+    gives birth to monster-conceptions with no apparent limit to number, variety,
+    or grotesque form.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary with minimal quotation.
+- id: ev:2
+  type: summary
+  locator: 4346-4358
+  quote_or_summary: 'An article on real and fabulous monsters is cited: after real
+    monsters of the deep, it says superstition, poetry, romance, and early investigation
+    report strange ocean prodigies while mingling fact and fancy.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 4360-4364
+  quote_or_summary: The quoted Faery Queene list is introduced as a catalogue and
+    a condensed cyclopaedia of fabulous marine zoology.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation/paraphrase.
+- id: ev:4
+  type: summary
+  locator: 4365-4375
+  quote_or_summary: The catalogue includes spring-headed hydres, sea-shouldering whales,
+    great whirlpools, bright scolopendraes, mighty monoceros, and a dreadful fish
+    named Death.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized list.
+- id: ev:5
+  type: summary
+  locator: 4376-4388
+  quote_or_summary: The catalogue further includes a wasserman pursuing ships, a sea-satyre
+    showing its face in storms, ziffins avoided by mariners, greedy rosmarines, and
+    many deformed monsters rushing in foamy waves with dreadful roaring.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized list.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear, but it is an editorial appendix with extensive quoted
+    European material rather than a self-contained Zulu mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy motif family was assigned. The available symbol taxonomy term water is used for the oceanic setting and whirlpool imagery.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l4335-l4388
+  passage_sha256=3c97bc1ec4e271f4b79e8559bb065128f7a71c18c93364528b2682bca1398b59
+

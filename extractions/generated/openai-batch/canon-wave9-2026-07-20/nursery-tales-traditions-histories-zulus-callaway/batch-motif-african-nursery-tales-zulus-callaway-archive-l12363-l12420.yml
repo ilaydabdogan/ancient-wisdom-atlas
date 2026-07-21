@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l12363-l12420
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZING.A NEK WANE. / UBONGOPA-KAMAGADHLELA. / UBONGOPA-KAMAGADHLELA. / TJBON
+    GOPA-K AMAGADHLEL A.; lines 12363-12420
+  start: '12363'
+  end: '12420'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes repeated night visits by thieves who enter the village
+    or kraal and beat the cattle with sticks, but the cattle do not rise. An unseen
+    person associated with the ox Ubongopa-kamagadhlela commands the cattle to go
+    graze and return, and eats food brought to him while on the ox. On later nights
+    the thieves bring multiple bundles of sticks, but the sticks break and the cattle
+    still do not get up.
+  language: Zulu and English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The cattle are told to get up and go graze, and later to return home.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A person on the ox is not seen by the people in the morning of the third day.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Food is brought to the commanding figure, who eats it on top of the ox, on
+    Ubongopa.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thieves come at night, beat the cattle, and the cattle do not awake or get
+    up.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The thieves' sticks break while they beat the cattle.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:6
+  text: The thieves wrench the cattle's tails, but the cattle still do not get up.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The thieves decide to cut two bundles of sticks each so that a second bundle
+    is available when the first breaks.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: On the fourth night, the thieves bring bundles, place them outside the village,
+    open the closed gateway, and enter.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The people sleep after the gateway is shut.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unseen person on the ox
+  description: A person associated with the ox is not seen, yet commands the cattle
+    and eats food on the ox.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ubongopa-kamagadhlela / Ubongopa
+  description: The named ox on which the commanding figure sits or eats.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Cattle
+  description: The cattle graze and return when told, but do not rise when beaten
+    by thieves at night.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Thieves
+  description: A group who come by night, enter the village or kraal, beat the cattle
+    with sticks, and leave after the sticks break.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: People of the village
+  description: The people sleep after the gateway is shut; the text also notes that
+    they do not see a person on the ox.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: Cattle commander
+  assigned_to:
+  - fig:1
+  basis: The figure tells the cattle to graze and return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Named ox
+  assigned_to:
+  - fig:2
+  basis: The text names Ubongopa as the ox on which the figure eats.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Unresponsive herd under command
+  assigned_to:
+  - fig:3
+  basis: The cattle obey grazing and return commands but do not get up when beaten
+    at night.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Night intruders
+  assigned_to:
+  - fig:4
+  basis: The thieves come by night, enter, beat the cattle, and depart.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: Sleeping villagers
+  assigned_to:
+  - fig:5
+  basis: The people sleep after the gateway is closed.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Ox as elevated seat
+  literal_form: The ox Ubongopa, on top of which the commanding figure eats.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Bundles of sticks
+  literal_form: Bundles of sticks cut and brought by the thieves for beating the cattle.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Closed gateway
+  literal_form: The village gateway is shut before the people sleep and is opened
+    by the thieves at night.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Kraal or cattle enclosure
+  literal_form: The thieves enter the kraal with bundles and beat the cattle there.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Morning command on the third day
+  summary: In the morning, the unseen person on the ox tells the cattle to go graze
+    and later return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Night beating without effect
+  summary: At night, thieves beat the cattle, break their sticks, wrench the cattle's
+    tails, and leave after the cattle do not rise.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Fourth-night entry with extra bundles
+  summary: The thieves bring extra bundles, wait until the gateway is shut and the
+    people sleep, open the gate, enter, beat the cattle, exhaust the bundles, and
+    leave.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Cattle refuse to rise under thieves' beating
+  taxonomy_refs: []
+  basis: The thieves repeatedly beat the cattle at night, but the cattle do not awake
+    or get up.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explain the cause of the cattle's immobility within
+    this excerpt.
+- id: motif:2
+  label: Unseen rider or figure commands animals
+  taxonomy_refs: []
+  basis: A person on the ox is not seen, yet commands the cattle to graze and return.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt is mid-narrative and does not fully identify the figure or
+    explain why he is unseen.
+- id: motif:3
+  label: Night thieves exhaust their tools without success
+  taxonomy_refs: []
+  basis: The thieves bring bundles of sticks for repeated beating, but the sticks
+    break and the cattle still do not rise.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a local narrative pattern in the passage; no broader taxonomy
+    match is asserted.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12363-12420
+  quote_or_summary: On the morning of the third day, no person is seen on the ox;
+    a figure tells the cattle to get up, go graze, and later return.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12363-12420
+  quote_or_summary: Food is brought to the figure, who eats it on top of the ox, identified
+    as Ubongopa.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12363-12420
+  quote_or_summary: At night the thieves come, beat the cattle, and the cattle do
+    not awake; the sticks break and the thieves depart.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12363-12420
+  quote_or_summary: The thieves wrench the cattle's tails without making them rise,
+    then decide to cut two bundles of sticks each because bundles keep breaking.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12363-12420
+  quote_or_summary: On the fourth night, the thieves place bundles outside the village,
+    enter after the gateway is shut and people sleep, beat the cattle in the kraal,
+    break the sticks, and leave.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an excerpt from a longer tale and begins mid-sequence; figures
+    and causal explanations are therefore limited to what appears in this line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l12363-l12420
+  passage_sha256=31387ee2fe1c79c3de2a3ca7b0f79728d84ce51e57e49b4dab17f98a17deb659
+

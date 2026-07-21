@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l20454-l20470
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 41 / OF THE OLD NORTHMEN. 413 / OF THE OLD NORTHMEN.
+    415 / OF THE OLD NORTHMEN. 417; lines 20454-20470
+  start: '20454'
+  end: '20470'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Anse,” which survived in Iceland into the Middle Ages, in the sense of
+    guardian-spirit or genius of a hill"
+  summary: The passage discusses ritual names for worshipped dead among the old Northmen.
+    It describes Anse as a guardian-spirit of a hill, gives examples connected with
+    Snow-fell and Swine-fell, describes Elf as a name for spirits of the dead and
+    divine spirits, links later fairy ideas with heathen beliefs about dead spirits
+    dwelling in hillocks, and notes Armadr or Ar as names for dead patriarchs believed
+    to grant good seasons.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies “Anse” as an old ritual name of the worshipped dead
+    that survived in Iceland with the meaning of guardian-spirit or genius of a hill.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Bard the Anse of Snow-fell is presented as a hill or mountain guardian and
+    as a patriarch associated with family spirits who died into that mountain.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Swine-fell Anse is described as guardian of the Swine-fellings.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: "“Elf” is described as another name used for spirits of the dead and for divine
+    spirits generally."
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says later Scandinavian Christian usage reduced “Elf” to the meaning
+    “fairy.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage associates heathen beliefs about spirits of the dead with purity,
+    kindliness, and homes in hillocks.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage compares hill-dwelling dead spirits or fairy-like beings with
+    Irish folk of the hills and ban-sidhe.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: "“Armadr” and perhaps “Ar” are described as early names for dead patriarchs
+    supposed to give good seasons."
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note mentions a howe-breaker and the Maeshowe Runes as comparative references,
+    without narrating their contents in this passage.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Anse
+  description: A ritual name of the worshipped dead, explained as a guardian-spirit
+    or genius of a hill.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Bard the Anse of Snow-fell
+  description: An example of an Anse connected with Snow-fell, described as a patriarch
+    of family spirits who died into that mountain.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Swine-fell Anse
+  description: A guardian of the Swine-fellings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Elf
+  description: A name used for spirits of the dead and divine spirits generally; later
+    said to mean fairy in Scandinavia.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Armadr / Ar
+  description: Names used for dead patriarchs supposed to give good seasons.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: hill guardian-spirit
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage defines Anse as a guardian-spirit or genius of a hill and gives
+    Snow-fell and Swine-fell examples.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: worshipped dead
+  assigned_to:
+  - fig:1
+  basis: The passage introduces Anse as one of the ritual names of the worshipped
+    dead.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: dead patriarch or dead spirit
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Bard is called a patriarch associated with family spirits, Elf is used for
+    spirits of the dead, and Armadr or Ar is used for dead patriarchs.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+- id: role:4
+  label: divine spirit / later fairy
+  assigned_to:
+  - fig:4
+  basis: Elf is said to be used of divine spirits generally and later to mean fairy.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: season-giving ancestor
+  assigned_to:
+  - fig:5
+  basis: Armadr and perhaps Ar are described as dead patriarchs supposed to give good
+    seasons.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hill or mountain dwelling of the dead
+  literal_form: hill, Snow-fell, mountain, hillocks
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: hillock homes
+  literal_form: homes in hillocks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: good seasons
+  literal_form: good seasons
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: howe
+  literal_form: howe-breaker
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Anse as hill guardian
+  summary: The passage explains Anse as a ritual name for worshipped dead who function
+    as guardian-spirits or geniuses of hills, with examples from Snow-fell and Swine-fell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Elf as dead spirit and later fairy
+  summary: The passage states that Elf names spirits of the dead and divine spirits,
+    and that in later Christian Scandinavia the term came to mean fairy.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Dead patriarchs give good seasons
+  summary: The passage states that Armadr and perhaps Ar are names for dead patriarchs
+    believed to grant good seasons.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: worshipped dead as local guardian spirits of hills
+  taxonomy_refs: []
+  basis: Anse is defined as a ritual name of the worshipped dead meaning guardian-spirit
+    or genius of a hill, with named hill or fell examples.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an antiquarian discussion of names and beliefs rather than
+    a narrative myth.
+- id: motif:2
+  label: dead spirits dwelling in hillocks as fairy-like beings
+  taxonomy_refs: []
+  basis: The passage links ideas about fairies to heathen beliefs about spirits of
+    the dead, including their homes in hillocks.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage summarizes a belief complex and does not present a specific
+    story.
+- id: motif:3
+  label: dead patriarchs granting good seasons
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Armadr and perhaps Ar are described as dead patriarchs supposed to give good
+    seasons.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The seasonal function is explicitly stated, but the passage gives no detailed
+    rite or narrative context.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares hill-dwelling dead spirits or fairy-like beings
+    with Irish folk of the hills and ban-sidhe.
+  claim_level: same_function
+  target: Irish folk of the hills / ban-sidhe
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is brief and parenthetical; it does not establish historical
+    contact or detailed equivalence.
+- id: claim:2
+  claim: The passage claims that later fairy ideas in Scandinavia derive in part from
+    heathen beliefs about spirits of the dead.
+  claim_level: historical_contact
+  target: later Scandinavian fairy belief
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is the source editor’s broad historical claim; the passage gives
+    no independent demonstration beyond the summarized semantic and belief associations.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 20454-20456
+  quote_or_summary: "“Anse,” described as surviving in Iceland “in the sense of guardian-spirit
+    or genius of a hill.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 20456-20458
+  quote_or_summary: Bard the Anse of Snow-fell is described as a patriarch of family
+    spirits who died into that mountain.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 20458-20459
+  quote_or_summary: The Swine-fell Anse is described as the guardian of the Swine-fellings.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 20459-20461
+  quote_or_summary: Elf is described as a name used for spirits of the dead and for
+    divine spirits generally, including the phrase “the Anses and Elves” of Loka-Senna.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence with short quoted phrase.
+- id: ev:5
+  type: summary
+  locator: 20462-20463
+  quote_or_summary: In later Christian times in Scandinavia, Elf is said to sink to
+    the meaning “fairy.”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 20463-20466
+  quote_or_summary: 'The passage says many ideas about fairies derive from heathen
+    beliefs about spirits of the dead: purity, kindliness, and homes in hillocks;
+    it adds a parenthetical comparison with Irish folk of the hills and ban-sidhe.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 20466-20468
+  quote_or_summary: Armadr and perhaps Ar are described as early names for dead patriarchs
+    believed to give good seasons; the passage explains the ar- element here as “season.”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: 20469-20470
+  quote_or_summary: A note refers to a howe-breaker, Landn. ii. 8, and the Maeshowe
+    Runes in the Reader.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is not a mythic narrative but a philological and antiquarian
+    summary of ritual names and beliefs. Extracted motifs are therefore belief-pattern
+    candidates rather than full narrative motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The spelling “Arma%r” in the supplied text appears to represent “Armadr,” but the extraction preserves the normalized form only where the passage itself also uses “Armadr.”
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l20454-l20470
+  passage_sha256=3410ec3288dd99ff3e2f2780873e87b030c6c58ebd06ae4e285faa924cd8b37e
+

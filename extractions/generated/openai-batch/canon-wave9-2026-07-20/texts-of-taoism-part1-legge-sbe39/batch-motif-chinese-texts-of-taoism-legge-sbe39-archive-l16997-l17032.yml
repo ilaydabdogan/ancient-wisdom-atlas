@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe39-archive-l16997-l17032
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+passage_locator:
+  label: PT. 1II.SECT.VI. THE WRITINGS OF KWANG-8ZE. 333 / PT. U.SECT.VI. THE WRITINGS
+    OF KWANG-8ZE., 341 / PT.IL,SECT.VII. THE WRITINGS OF KWANG-8ZE. 345 / PT, I. SECT.
+    VII. THE WRITINGS OF KWANG-8ZE. 347; lines 16997-17032
+  start: '16997'
+  end: '17032'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books
+    of the East, Vol. 39)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Their movements came from nowhere; their home was in the deep darkness
+  summary: A speaker describes a musical performance whose notes affect hidden and
+    celestial realms, continue after the instruments cease, and exhaust an addressed
+    listener who cannot understand, see, or reach them. In the final part, the speaker
+    uses notes blended by spontaneity, compared to plants from one root and forest
+    music without visible form, spreading without trace from obscurity and darkness.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The notes are said to resound slowly and to be capable of being pronounced
+    high and clear.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shades of the dead remain in obscurity while the sun, moon, and zodiacal
+    stars pursue their courses.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says he made the instruments stop when the performance ended,
+    but their echoes continued without stopping.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The addressed listener thinks, looks, and pursues, but cannot understand,
+    see, or reach the phenomenon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The addressed listener stands amazed in an open way, leans against an old
+    rotten dryandra-tree, and hums.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The listener’s eyes and strength fail, and the body is described as empty
+    vacancy while trying to retain self-possession.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the last part of the performance, the speaker employs notes that do not
+    have the previous wearying effect.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The final notes are blended as if at the command of spontaneity and are compared
+    to a clump of plants from one root and to forest music produced by no visible
+    form.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The final notes spread around without leaving a trace, seem to issue from
+    deep obscurity without sound, move from nowhere, and have their home in deep darkness.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker and performer
+  description: The speaker describes controlling instruments and employing different
+    kinds of notes in the performance.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: addressed listener
+  description: The listener is unable to understand, see, or reach the phenomenon,
+    becomes amazed and weary, leans against a dryandra-tree, and hums.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: shades of the dead
+  description: The dead are mentioned as shades kept in obscurity during the effect
+    of the notes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: performer of the notes
+  assigned_to:
+  - fig:1
+  basis: The speaker says he made the instruments leave off and later employed notes
+    blended by spontaneity.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: perplexed and exhausted listener
+  assigned_to:
+  - fig:2
+  basis: The addressed listener cannot understand, see, or reach the phenomenon and
+    becomes physically and mentally exhausted.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: hidden dead shades
+  assigned_to:
+  - fig:3
+  basis: The shades of the dead are described as remaining in obscurity.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: old rotten dryandra-tree
+  literal_form: old rotten dryandra-tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: untraceable notes and echoes
+  literal_form: musical notes and echoes that continue, spread without trace, and
+    seem to arise from obscurity
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: celestial courses
+  literal_form: sun, moon, and stars of the zodiac pursuing their courses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: deep obscurity and darkness
+  literal_form: obscurity, deep obscurity where there is no sound, and deep darkness
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:5
+  label: natural growth and forest sound images
+  literal_form: a clump of plants springing from one root and music of a forest produced
+    by no visible form
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: resounding notes and the exhausted listener
+  summary: The performance’s notes are described as resounding and affecting hidden
+    and celestial realms. After the instruments stop, echoes continue, and the listener
+    cannot grasp them, becomes amazed, leans against a dryandra-tree, and grows weary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: spontaneous formless music
+  summary: In the final part, the speaker employs non-wearying notes blended by spontaneity.
+    They are compared to plants from one root and forest music with no visible form,
+    spreading without trace from obscurity and deep darkness.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ineffable sound that cannot be grasped by perception
+  taxonomy_refs:
+  - wisdom
+  basis: The listener cannot understand, see, or reach the continuing echoes, and
+    the passage emphasizes the exhaustion of sight, strength, and self-possession
+    before the phenomenon.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this through a musical performance rather than an explicit
+    doctrinal statement; the wisdom classification is interpretive and should be reviewed.
+- id: motif:2
+  label: spontaneous formless arising
+  taxonomy_refs: []
+  basis: The final notes are said to be blended by spontaneity, like plants from one
+    root or forest music without visible form, and to move from nowhere without leaving
+    a trace.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No specific external taxonomy reference is supplied for this pattern.
+- id: motif:3
+  label: music linked with hidden and cosmic order
+  taxonomy_refs: []
+  basis: The notes are followed by the shades of the dead remaining in obscurity and
+    by the sun, moon, and zodiacal stars pursuing their courses.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The causal force of the music is suggested by the passage wording but
+    broader context is not provided.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16997-17003
+  quote_or_summary: The notes resound slowly and may be high and clear; as a result,
+    the shades of the dead stay in obscurity and the sun, moon, and zodiacal stars
+    continue their courses.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 17003-17013
+  quote_or_summary: The speaker stops the instruments at the end, but echoes continue.
+    The listener cannot understand, see, or reach the phenomenon, stands amazed, leans
+    against an old rotten dryandra-tree, and hums.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 17013-17019
+  quote_or_summary: The listener’s eyes and strength are exhausted; the body is described
+    as empty vacancy while trying to retain self-possession, and that effort produces
+    weariness.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 17021-17028
+  quote_or_summary: In the last part, the speaker uses notes without the wearying
+    effect, blending them as if commanded by spontaneity; they are compared to plants
+    springing from one root and forest music with no visible form.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 17028-17032
+  quote_or_summary: They spread without trace, seem to issue from deep obscurity where
+    there is no sound, and have movements from nowhere and a home in deep darkness.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain translation; concise paraphrase with short quoted phrasing
+    avoided except public-domain wording.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and contains pronouns without named speakers in
+    the supplied excerpt. Literal actions and images are clear, but motif labels require
+    review against the wider context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external figures or comparisons added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe39-archive__l16997-l17032
+  passage_sha256=8c532e1bb9978d04fffb73e9fac8c031e1463965ece99930b553068495db2f10
+

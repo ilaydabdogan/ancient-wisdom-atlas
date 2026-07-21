@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l9959-l9999
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE IZINGOGO. / APPENDIX (B). / THE IZINGOGO. / UKUYELA KWEZIMFENE.; lines
+    9959-9999
+  start: '9959'
+  end: '9999'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“It was then that they turned into baboons.”"
+  summary: A tribe among the Amafene is described as becoming baboons after leaving
+    home for the wilderness, attaching digging-pick handles behind them, and acquiring
+    tails, hair, and overhanging foreheads. The account explains baboons as descendants
+    of that nation and associates them with Tusi’s men.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the narrative as an account of the origin of baboons.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A tribe among the Amafene is said to have been habitually idle and unwilling
+    to dig.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people of the tribe wished to live by eating food from those who cultivated
+    the soil.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The chief assembled the tribe and directed that food be prepared for a journey
+    away from their homes into the wilderness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people collected food, made bread, and took digging-pick handles to fasten
+    behind themselves.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the pick-handles were fastened behind them, the people became baboons.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The pick-handles grew and became tails, hair appeared on their bodies, and
+    their foreheads became overhanging.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The transformed beings went to precipices and lived among rocks.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage says that when a baboon is killed, it is still called one of Tusi’s
+    men.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The passage states that the Amafene are the nation from which baboons sprang.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Amafene tribe that became baboons
+  description: A tribe among the Amafene, described as idle, unwilling to dig, and
+    transformed into baboons.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: Chief of the house of Tusi
+  description: The chief who assembled the tribe and ordered food prepared for a journey
+    into the wilderness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: People who cultivate the soil
+  description: Other people whose food the idle tribe wished to eat.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: transformed human group
+  assigned_to:
+  - fig:1
+  basis: The tribe is described as becoming baboons after fastening pick-handles behind
+    themselves.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: animal-origin ancestors
+  assigned_to:
+  - fig:1
+  basis: The passage says the Amafene are the nation from which baboons sprang.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: journey leader
+  assigned_to:
+  - fig:2
+  basis: The chief assembled the tribe and directed preparations to leave home for
+    the wilderness.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: food producers
+  assigned_to:
+  - fig:3
+  basis: They are described as cultivating the soil and producing food the idle tribe
+    wished to eat.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: digging-pick handles
+  literal_form: Handles of digging-picks fastened behind the people, later growing
+    into tails.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: tails
+  literal_form: Tails that grew from the fastened pick-handles.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: body hair
+  literal_form: Hair appearing on the bodies of the transformed people.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: overhanging foreheads
+  literal_form: Foreheads that became overhanging as the people became baboons.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: precipices and rocks
+  literal_form: Precipices and rocks where the baboons went to live.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: wilderness
+  literal_form: The place to which the chief said the tribe would go after leaving
+    their homes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Idle tribe plans to live from others’ food
+  summary: A tribe among the Amafene is described as avoiding digging and wanting
+    to eat the food of people who cultivate the soil.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Chief orders departure into the wilderness
+  summary: The chief assembles the tribe and orders food prepared for a journey away
+    from their homes into the wilderness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Pick-handles fastened and transformation occurs
+  summary: The people collect food and bread, fasten digging-pick handles behind themselves,
+    and become baboons with tails, body hair, and overhanging foreheads.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Baboons dwell among rocks
+  summary: The transformed beings go to precipices and make rocks their dwelling place.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Later saying about Tusi’s men
+  summary: The passage reports a saying that a killed baboon is one of Tusi’s men
+    and identifies the Amafene as the nation from which baboons sprang.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: origin of an animal species from transformed humans
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage explains baboons as arising from a human tribe whose bodies changed
+    into baboon form.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The transformation is etiological, but the passage does not describe repeated
+    shapeshifting or reversible change.
+- id: motif:2
+  label: bodily transformation marked by attached object becoming animal feature
+  taxonomy_refs: []
+  basis: The people fasten digging-pick handles behind themselves, and these handles
+    grow into tails as they become baboons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No external taxonomy reference is supplied for this specific motif.
+- id: motif:3
+  label: departure from settled cultivation to wilderness animal life
+  taxonomy_refs:
+  - departure
+  basis: The chief directs the tribe to prepare food for a journey away from home
+    into the wilderness, after which the people become baboons and live among rocks.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy term 'departure' is broad; the passage frames the
+    departure as part of an animal-origin account rather than a hero journey.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9959-9961
+  quote_or_summary: "“UKUYELA KWEZIMFENE. (the origin of baboons.)”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9963-9971
+  quote_or_summary: Among the Amafene, a tribe that became baboons was habitually
+    idle, disliked digging, and wanted to eat at the houses of people who cultivated
+    the soil.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9971-9978
+  quote_or_summary: The chief of that place, of the house of Tusi, assembled the tribe
+    and ordered food prepared for a journey away from home into the wilderness.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9978-9983
+  quote_or_summary: Food was collected, bread was made, and the people took digging-pick
+    handles to fasten behind themselves.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9983-9993
+  quote_or_summary: After the pick-handles were fastened behind them, they became
+    baboons; the handles grew into tails, hair appeared on their bodies, and their
+    foreheads became overhanging.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9993-9995
+  quote_or_summary: The transformed baboons went to precipices and made rocks their
+    dwellings.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: quote
+  locator: lines 9995-9999
+  quote_or_summary: "“It is one of Tusi’s men. The Amafene is the nation from which
+    the baboons sprang.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is explicit in the passage. Motif taxonomy assignment
+    to shapeshifter/departure is cautious because the account is primarily etiological
+    and does not describe reversible shapeshifting.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the narrative to another text, tradition, or explicit motif family beyond its own animal-origin explanation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l9959-l9999
+  passage_sha256=260456fc7fafa528cebe7afad70c2f1339521e960920745d45ee930c8929da99
+

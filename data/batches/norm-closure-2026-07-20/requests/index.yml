@@ -1,0 +1,43 @@
+---
+batch_request_index_version: '1'
+run_id: norm-closure-2026-07-20
+created_at: '2026-07-21T01:29:51Z'
+updated_at: '2026-07-21T01:33:31Z'
+pipeline: normalization_suggestion
+endpoint: "/v1/responses"
+model: gpt-5.6-terra
+prompt_path: templates/batch-normalization-suggestion-prompt.md
+gap_audit_path: "/private/tmp/claude-501/-Users-ilaydabuyukdogan-Desktop-Projects-ancient-wisdom-atlas/d42cd906-7089-4e23-a442-887a24fea2f7/scratchpad/gap-audit-meaningful.yml"
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+request_map_path: data/batches/norm-closure-2026-07-20/normalization-suggestion-request-map.jsonl
+buckets: []
+motifs_per_request: 25
+shards:
+- shard_id: shard-0001
+  path: data/batches/norm-closure-2026-07-20/requests/shard-0001.jsonl
+  request_count: 2
+  bytes: 526948
+  sha256: 47e6eac862f3966b4c61519bdb137b3e51079bd85e8a378f9a5d6291b6cc85f8
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/norm-closure-2026-07-20/results/shard-0001.output.jsonl
+  output_sha256: be8243fe178fb1728b00d65f3c1d66b525a9d8d7d272dac07f739bafba950729
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-21T01:31:58Z'
+- shard_id: shard-0002
+  path: data/batches/norm-closure-2026-07-20/requests/shard-0002.jsonl
+  request_count: 2
+  bytes: 526308
+  sha256: bff616772fd30c1178665161ecb6ad34b89fa985938a15029a7da6b1a4ac01f9
+  endpoint: "/v1/responses"
+  model: gpt-5.6-terra
+  status: completed
+  output_path: data/batches/norm-closure-2026-07-20/results/shard-0002.output.jsonl
+  output_sha256: 5f558539a51b5d5df6fb1a783af7b84b85be29eb8d2b4d89e7894ca03b2b5c0a
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-21T01:33:31Z'
+

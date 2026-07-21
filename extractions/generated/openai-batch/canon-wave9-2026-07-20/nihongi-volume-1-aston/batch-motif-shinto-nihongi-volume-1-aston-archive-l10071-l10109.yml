@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l10071-l10109
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: VI. 5. / SUININ. 169 / VI. 6, / SUININ. 171; lines 10071-10109
+  start: '10071'
+  end: '10109'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“A small brocade-coloured snake coiled itself round Our neck and a great
+    rain arose from Saho”"
+  summary: While the Emperor sleeps with the Empress’s knees as his pillow, she considers
+    carrying out her elder brother’s treasonous plot and weeps onto the Emperor’s
+    face. The Emperor wakes and reports a dream of a small brocade-coloured snake
+    around his neck and rain from Saho wetting his face. The Empress confesses the
+    plot and explains the dream images as the dagger given to her and her tears. The
+    Emperor says the guilt is not hers, raises a local force, and commands Yatsunada.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Emperor takes his noon-day sleep with the Empress’s knees as his pillow.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Empress thinks this is an opportunity to do what her elder brother plotted,
+    and her tears fall on the Emperor’s face.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Emperor reports a dream in which a small brocade-coloured snake coils
+    around his neck and great rain from Saho wets his face.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Empress confesses the circumstances of her elder brother’s treason and
+    describes being divided between loyalty to the Emperor and fear of destroying
+    her brother.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Empress explains the dream’s snake as the dagger given to her and the
+    dream’s rain as her tears.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Emperor tells the Empress that the matter is not her crime, raises a force
+    from the neighboring district, and commands Yatsunada.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Emperor
+  description: The ruler who sleeps, dreams of the snake and rain, hears the Empress’s
+    confession, absolves her, and raises a force.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Empress
+  description: The Emperor’s wife, whose knees serve as his pillow; she considers
+    her elder brother’s plot, weeps, confesses, and interprets the dream images.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Prince, the Empress’s elder brother
+  description: The Empress’s elder brother, described as having plotted treason.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: Yatsunada
+  description: A named person whom the Emperor commands after raising a force; the
+    passage breaks off before giving further details.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sleeping ruler and dreamer
+  assigned_to:
+  - fig:1
+  basis: The Emperor sleeps on the Empress’s knees and then reports his dream of the
+    snake and rain.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: conflicted spouse and potential agent of treason
+  assigned_to:
+  - fig:2
+  basis: The Empress considers the plot but confesses that she could neither resist
+    her brother’s purpose nor be false to the Emperor.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: treason plotter
+  assigned_to:
+  - fig:3
+  basis: The passage describes the Prince, the Empress’s elder brother, as plotting
+    treason.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: interpreter of dream images
+  assigned_to:
+  - fig:2
+  basis: The Empress identifies the dream’s snake with the dagger and the dream’s
+    rain with her tears.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: absolver and military responder
+  assigned_to:
+  - fig:1
+  basis: The Emperor tells the Empress it is not her crime, raises a local force,
+    and issues a command.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: recipient of imperial command
+  assigned_to:
+  - fig:4
+  basis: Yatsunada is named as the person whom the Emperor commands after raising
+    a force.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: brocade-coloured snake
+  literal_form: A small brocade-coloured snake in the Emperor’s dream, coiling around
+    his neck.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: dagger
+  literal_form: The dagger that the Empress says was given to her, identified by her
+    with the dream-snake.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: great rain and tears
+  literal_form: Great rain from Saho in the dream, explained by the Empress as her
+    tears wetting the Emperor’s face.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: temples of earth and grain
+  literal_form: The Empress says silence would overturn the temples of earth and grain;
+    the note identifies this as a Chinese expression for the State.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Noon sleep and tears
+  summary: The Emperor sleeps with the Empress’s knees as his pillow. The Empress
+    thinks of her elder brother’s plot and weeps onto the Emperor’s face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dream of snake and rain
+  summary: The Emperor wakes and asks the Empress about a dream of a small brocade-coloured
+    snake around his neck and rain from Saho wetting his face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Confession and interpretation
+  summary: The Empress confesses her elder brother’s treason and explains that the
+    dream-snake corresponds to the dagger and the dream-rain to her tears.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Imperial response
+  summary: The Emperor declares that the Empress is not guilty, raises a force from
+    the neighboring district, and commands Yatsunada.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dream image decoded as hidden danger
+  taxonomy_refs: []
+  basis: The Emperor’s dream images are immediately interpreted by the Empress as
+    corresponding to the concealed dagger and her tears, exposing the treason plot.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage itself presents the interpretation; no broader dream-omen
+    taxonomy is supplied in the available references.
+- id: motif:2
+  label: serpent image as weapon sign
+  taxonomy_refs:
+  - serpent
+  basis: The dream’s small brocade-coloured snake is explicitly identified by the
+    Empress as the dagger given to her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The serpent appears as a dream image and is explained as a dagger, not
+    as an independent serpent-being.
+- id: motif:3
+  label: conflicted kinship loyalty reveals treason
+  taxonomy_refs: []
+  basis: The Empress describes being unable to resist her elder brother’s purpose
+    yet unable to betray her duty to the Emperor, and this conflict leads to confession.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a narrative pattern in the passage rather than a named taxonomy
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10071-10109
+  quote_or_summary: The Emperor sleeps with the Empress’s knees as his pillow; she
+    thinks of the Prince’s plot and weeps tears onto the Emperor’s face.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 10071-10109
+  quote_or_summary: 'The Emperor reports a dream: “A small brocade-coloured snake
+    coiled itself round Our neck and a great rain arose from Saho,” wetting his face.'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:3
+  type: summary
+  locator: lines 10071-10109
+  quote_or_summary: The Empress confesses the elder brother Prince’s treason and says
+    that silence would endanger the temples of earth and grain, glossed in the note
+    as the State.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 10071-10109
+  quote_or_summary: The Empress explains that the small brocade-coloured snake is
+    the dagger given to her and the sudden great rain is her tears.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 10071-10109
+  quote_or_summary: The Emperor tells the Empress, “This is not thy crime,” raises
+    a force from the neighboring district, and commands Yatsunada.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text; short quotation and concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong because the passage explicitly links the dream
+    images with the dagger and tears. Motif labeling is more tentative where no supplied
+    taxonomy category directly matches dream interpretation or loyalty conflict. No
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. The passage ends mid-sentence after naming Yatsunada, so details about Yatsunada’s title or subsequent action are left unspecified.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l10071-l10109
+  passage_sha256=dd3a4ea2d4957a2bed47d51d9ce1190c58c5d6885a6e3c09435185176575cf28
+

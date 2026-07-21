@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l7349-l7371
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: MIHIR VAST. 145 / XXVI. / XXVII. / XXVIII.; lines 7349-7371
+  start: '7349'
+  end: '7371'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage offers sacrifice to Mithra, describes him as sleepless, ever
+    awake, lord of wide pastures, and an armed warrior. It says his bright ways bring
+    benefit to the country by turning plains and vales into pasture where cattle and
+    males graze. It closes with a petition that Mithra and Ahura, called high gods,
+    come to help when the poniard lifts up its voice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker offers sacrifice to Mithra and calls him lord of wide pastures,
+    sleepless, and ever awake.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mithra is described as a warrior wearing a silver helm and golden cuirass;
+    the source notes mark some armor readings as doubtful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mithra is described as killing with a poniard, strong, valiant, and lord of
+    the borough.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mithra's ways are said to be bright, and when he goes toward the country wishing
+    well, he turns its plains and vales into pasture grounds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Cattle and males come to graze in the pasture grounds, as many as Mithra wants.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker petitions Mithra and Ahura, described as high gods, to come for
+    help.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The poniard is described as lifting up its voice.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: Deity addressed in sacrifice as lord of wide pastures, sleepless and
+    ever awake; also described as an armed warrior whose bright ways benefit the country.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Ahura
+  description: High god invoked with Mithra to come for help.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: cattle and males
+  description: Collective beings who come to graze in the pasture grounds as many
+    as Mithra wants.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The passage opens with a sacrificial address to Mithra.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ever-awake lord of wide pastures
+  assigned_to:
+  - fig:1
+  basis: Mithra is called lord of wide pastures, sleepless, and ever awake.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: armed warrior
+  assigned_to:
+  - fig:1
+  basis: Mithra is described with armor and a poniard and as strong and valiant.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: high god invoked for help
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Mithra and Ahura are called high gods and asked to come for help.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: grazing beneficiaries
+  assigned_to:
+  - fig:3
+  basis: Cattle and males come to graze in the pasture grounds.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: warrior armor
+  literal_form: silver helm and golden cuirass
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: poniard
+  literal_form: poniard used by Mithra and later described as lifting up its voice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: pasture grounds
+  literal_form: plains and vales turned to pasture grounds
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: grazing cattle and males
+  literal_form: cattle and males coming to graze
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sacrificial praise of Mithra
+  summary: The speaker sacrifices to Mithra and names him as lord of wide pastures,
+    sleepless, and ever awake.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mithra as warrior and pastoral benefactor
+  summary: Mithra is described as an armored warrior with a poniard whose bright ways
+    bring benefit by turning plains and vales into pasture grounds where cattle and
+    males graze.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Petition for divine help
+  summary: The speaker asks Mithra and Ahura, the high gods, to come for help when
+    the poniard lifts up its voice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says, "We sacrifice unto Mithra," in a hymnic address.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the sacrificial address but does not describe ritual
+    procedure.
+- id: motif:2
+  label: armored divine warrior
+  taxonomy_refs: []
+  basis: Mithra is described as a warrior with helm, cuirass, and poniard, and as
+    strong and valiant.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: Some armor terms are marked doubtful in the source notes, so the details
+    should be reviewed against the source edition.
+- id: motif:3
+  label: deity brings pastoral abundance
+  taxonomy_refs: []
+  basis: Mithra's bright ways turn plains and vales to pasture grounds, after which
+    cattle and males come to graze.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents the action as beneficent landscape transformation,
+    but it does not describe a broader creation myth.
+- id: motif:4
+  label: ritual petition for divine aid
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage combines sacrificial praise with a request that Mithra and Ahura
+    come to help.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The request for help follows the sacrificial address, but the passage
+    does not explicitly state a contractual exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7349-7353; XXVIII.112
+  quote_or_summary: The speaker says sacrifice is offered to Mithra, lord of wide
+    pastures, sleepless and ever awake.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7354-7358; XXVIII.112
+  quote_or_summary: Mithra is described as a warrior with a silver helm and golden
+    cuirass, killing with the poniard, strong, valiant, and lord of the borough; source
+    notes mark some readings as doubtful.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7358-7364; XXVIII.112
+  quote_or_summary: Mithra's ways are bright; when he goes toward the country wishing
+    well, he turns its plains and vales into pasture grounds.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7365-7367; XXVIII.113
+  quote_or_summary: '"cattle and males come to graze, as many as he wants"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 7368-7371; XXVIII.113
+  quote_or_summary: The speaker asks Mithra and Ahura, the high gods, to come for
+    help when the poniard lifts up its voice.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is mostly direct, but the passage includes source notes
+    marking some readings as doubtful, especially around armor terminology. No comparison
+    claims were generated because the passage itself does not make a cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to the provided list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l7349-l7371
+  passage_sha256=27f9a2a60b1648f0cddcda63da46bd8be04a1f3d735165c6fa64fc8f6e249797
+

@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.native-american-traditions-skidi-pawnee-dorsey-archive-l14950-l14992
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+passage_locator:
+  label: SKIDI GAMES / PEOPLE MARRY ANIMALS OR BECOME / ANIMALS. / MISCELLANEOUS.;
+    lines 14950-14992
+  start: '14950'
+  end: '14992'
+  translation: Traditions of the Skidi Pawnee
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“An attempt to guess an insoluble riddle sickens a would-be guesser, who
+    recovers when the riddle is expounded.”"
+  summary: Two named persons, Speak-Riddles and Wise-Spirit, meet. Speak-Riddles gives
+    Wise-Spirit a difficult riddle made of many strange images. Wise-Spirit cannot
+    solve it, becomes sick with a headache, thinks he is dying, and asks Speak-Riddles
+    to explain the riddle before he dies. The excerpt ends as Speak-Riddles begins
+    to explain.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two persons live opposite one another; the one living in the south is Pakiritsakawa,
+    Speak-Riddles, and the other is Shikstius, Wise-Spirit.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Speak-Riddles meets Wise-Spirit, addresses him as grandson, and says he wants
+    to give him a riddle because Wise-Spirit is understood to solve riddles given
+    by others.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: 'The riddle speech lists a series of images: apparent doubling of Speak-Riddles,
+    people grasping their hair as if crying, something flying near the village, a
+    killed red bird, uprooted trees, black unsupported lariat ropes on hillsides,
+    a whistling noise through camp, and a bowing grandmother with many skulls about
+    her.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: Wise-Spirit cannot make out the riddle and asks the riddle-maker for more
+    time.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: After going home, Wise-Spirit develops a headache, becomes very sick, and
+    is thought by others and by himself to be dying.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Wise-Spirit asks Speak-Riddles to explain the riddle before he dies, and Speak-Riddles
+    begins by saying that Wise-Spirit is smart and can find things out.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Pakiritsakawa, Speak-Riddles
+  description: A person living opposite Wise-Spirit, identified as Speak-Riddles;
+    he gives the riddle and later begins to explain it.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: fig:2
+  name_or_label: Shikstius, Wise-Spirit
+  description: A person living opposite Speak-Riddles; he accepts the riddle, cannot
+    solve it, becomes sick, and asks for its explanation.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: people grasping their hair
+  description: Figures within the riddle image, described as coming along the village
+    and grasping their hair as though crying.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: bowing grandmother
+  description: A figure within the riddle image, described as bowing and having many
+    skulls about her.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: riddle-giver
+  assigned_to:
+  - fig:1
+  basis: Speak-Riddles says he wants to give Wise-Spirit a riddle and then recites
+    it.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: riddle-recipient and would-be solver
+  assigned_to:
+  - fig:2
+  basis: Wise-Spirit accepts the riddle and then cannot make it out.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: riddle-expounder
+  assigned_to:
+  - fig:1
+  basis: Speak-Riddles is summoned and begins to tell what he means by the riddle.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: sickened guesser
+  assigned_to:
+  - fig:2
+  basis: The opening summary says an attempt to guess the insoluble riddle sickens
+    the guesser, and the narrative says Wise-Spirit becomes very sick after failing
+    to solve it.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:5
+  label: figures in riddle imagery
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: These figures appear only within Speak-Riddles’ spoken riddle sequence.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: insoluble riddle
+  literal_form: A spoken riddle given by Speak-Riddles that Wise-Spirit cannot solve.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: doubled appearance
+  literal_form: The statement that Wise-Spirit thought there were two of Speak-Riddles
+    coming down toward the ravine.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: mourning hair-grasping people
+  literal_form: People coming along the village, grasping their hair as though crying.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: killed red bird
+  literal_form: A red bird described as killed near the place in the riddle.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: uprooted trees
+  literal_form: Trees uprooted with their roots turned up.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: black unsupported lariat ropes
+  literal_form: Many black lariat ropes without support, seen up and down along the
+    sides of hills.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: grandmother with skulls
+  literal_form: A bowing grandmother with many skulls about her.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Meeting and riddle challenge
+  summary: Speak-Riddles and Wise-Spirit meet; Speak-Riddles addresses Wise-Spirit
+    as grandson and offers him a riddle to solve.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Recitation of riddle images
+  summary: Speak-Riddles recites the riddle as a sequence of strange sights and sounds
+    around the ravine, village, hills, camp, and lodge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Failure to solve and sickness
+  summary: Wise-Spirit cannot solve the riddle, asks for more time, goes home, develops
+    a headache, becomes very sick, and believes he is dying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Request for explanation
+  summary: Wise-Spirit asks Speak-Riddles to tell him what the riddle means before
+    he dies, and Speak-Riddles begins to explain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: insoluble riddle that sickens the would-be solver
+  taxonomy_refs:
+  - wisdom
+  basis: The passage’s introductory statement says the attempt to guess an insoluble
+    riddle sickens the guesser, and the narrative shows Wise-Spirit becoming very
+    sick after failing to solve Speak-Riddles’ riddle.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The supplied excerpt ends during the explanation; recovery is stated in
+    the introductory summary but not fully narrated in the provided passage.
+- id: motif:2
+  label: riddle challenge between named persons
+  taxonomy_refs:
+  - wisdom
+  basis: Speak-Riddles seeks out Wise-Spirit because he is reputed to solve riddles,
+    gives him a riddle, and Wise-Spirit attempts but fails to solve it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The text does not provide the complete solution within the supplied excerpt,
+    and no wider comparative link is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 14950-14992; introductory summary
+  quote_or_summary: "“An attempt to guess an insoluble riddle sickens a would-be guesser,
+    who recovers when the riddle is expounded.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 14950-14992; opening of narrative
+  quote_or_summary: Two persons live opposite one another; the one in the south is
+    named Pakiritsakawa, Speak-Riddles, and the other Shikstius, Wise-Spirit.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 14950-14992; meeting dialogue
+  quote_or_summary: Speak-Riddles meets Wise-Spirit, asks where he is going, says
+    he is glad to meet him, addresses him as grandson, and offers him a riddle because
+    Wise-Spirit is said to know how to solve riddles.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 14950-14992; riddle speech
+  quote_or_summary: The riddle includes images of two of Speak-Riddles, crying hair-grasping
+    people, something flying near the village, a killed red bird, uprooted trees,
+    black unsupported lariat ropes on hillsides, whistling through camp, and a bowing
+    grandmother with many skulls.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 14950-14992; after the riddle
+  quote_or_summary: Wise-Spirit cannot make out the riddle and asks the riddle-maker
+    to give him more time.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 14950-14992; Wise-Spirit at home
+  quote_or_summary: Wise-Spirit goes home, develops a headache, becomes very sick,
+    and both he and the people think he is dying.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 14950-14992; request for expounding
+  quote_or_summary: Wise-Spirit asks Speak-Riddles to tell him what the riddle means
+    before he dies; Speak-Riddles begins by saying Wise-Spirit is smart and can find
+    things out.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear about the riddle challenge and Wise-Spirit’s sickness,
+    but the supplied text ends mid-explanation. No independent comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only where the available motif family or symbol list directly fit the passage evidence.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-skidi-pawnee-dorsey-archive__l14950-l14992
+  passage_sha256=cf4bb567b88d5a300816be1ef4317f5dbbe97df9b73ebcdd431640ec3255c209
+

@@ -1,0 +1,725 @@
+---
+suggestion_batch_id: normalization.suggestion.norm-closure-2026-07-20.batch-0003
+gap_audit_path: "/private/tmp/claude-501/-Users-ilaydabuyukdogan-Desktop-Projects-ancient-wisdom-atlas/d42cd906-7089-4e23-a442-887a24fea2f7/scratchpad/gap-audit-meaningful.yml"
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-pair-tale-titles
+  motif_id: animal_pair_tale_titles
+  label: animal-pair tale titles
+  occurrences: 2
+  traditions:
+  - fjort
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a tale-title or cataloging pattern rather than a
+    narrative motif.
+  cautions: Retain source-title metadata; map underlying animal interactions separately
+    if extracted.
+  suggested_aliases:
+  - animal-centered fable encounter headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-divination
+  motif_id: bird_divination
+  label: bird divination
+  occurrences: 2
+  traditions:
+  - germanic
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: Bird signs are a systematic divinatory method for accessing hidden or
+    future knowledge.
+  cautions: Keep the avian medium in evidence notes; do not classify ordinary bird
+    symbolism as divination without interpretive practice.
+  suggested_aliases:
+  - augury
+  - ornithomancy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dog-headed-people
+  motif_id: dog_headed_people
+  label: dog-headed people
+  occurrences: 2
+  traditions:
+  - andamanese
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A dog-headed people label may denote monstrous ethnography, a transformed
+    being, or a source-specific figure.
+  cautions: Do not collapse hybrid peoples into shapeshifting without evidence of
+    transformation; cultural and textual context is needed.
+  suggested_aliases:
+  - cynocephalic people
+  - animal-headed human beings
+  suggested_new_group:
+    id: hybrid_human_animal_beings
+    label: Hybrid Human-Animal Beings
+    description: Human, humanoid, or people-like beings marked by stable animal features;
+      distinct from voluntary or punitive transformation.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - threshold_guardian
+    reason_existing_groups_insufficient: Shapeshifter concerns changes of form, while
+      this label describes a possibly stable hybrid category.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-present-animal-behavior
+  motif_id: etiological_explanation_for_present_animal_behavior
+  label: etiological explanation for present animal behavior
+  occurrences: 2
+  traditions:
+  - akan
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explains present animal behavior through a narrative origin
+    event, a recurring etiological function not held by existing groups.
+  cautions: This is an explanation type; preserve any trickster, punishment, or creation
+    mechanism as a separate mapping where evidenced.
+  suggested_aliases:
+  - animal behavior origin
+  - animal trait etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- suggestion_id: normalization.suggestion.etiological-origin-of-animal-traits-and-behaviors
+  motif_id: etiological_origin_of_animal_traits_and_behaviors
+  label: Etiological origin of animal traits and behaviors
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: alias
+  confidence: high
+  rationale: This is the same animal-specific etiological pattern as explanations
+    for present animal behavior.
+  cautions: Use the candidate only for origin narratives, not generic animal description.
+  suggested_aliases:
+  - animal trait and behavior etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- suggestion_id: normalization.suggestion.etiology-of-an-animal-body-mark
+  motif_id: etiology_of_an_animal_body_mark
+  label: etiology of an animal body mark
+  occurrences: 2
+  traditions:
+  - african_bantu
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: An animal body mark is a specific subtype of animal trait etiology.
+  cautions: Record the specific mark and narrative cause locally; do not infer punishment
+    or transformation from the label alone.
+  suggested_aliases:
+  - animal marking etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- suggestion_id: normalization.suggestion.origin-explanation-for-animal-traits
+  motif_id: origin_explanation_for_animal_traits
+  label: origin explanation for animal traits
+  occurrences: 2
+  traditions:
+  - filipino
+  - temne
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: alias
+  confidence: high
+  rationale: The label is a wording variant of animal-trait etiological narrative.
+  cautions: Apply only when a narrative explains why the trait exists.
+  suggested_aliases:
+  - animal trait origin explanation
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- suggestion_id: normalization.suggestion.tree-refuge-from-pursuing-animals
+  motif_id: tree_refuge_from_pursuing_animals
+  label: tree refuge from pursuing animals
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a contextual pursuit-and-refuge episode, and the tree's function
+    is not necessarily sacred or axial.
+  cautions: Map to axis_mundi only if the tree mediates realms or sacred power; otherwise
+    retain as local narrative detail.
+  suggested_aliases:
+  - tree refuge during pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-as-consuming-fire
+  motif_id: warrior_as_consuming_fire
+  label: warrior as consuming fire
+  occurrences: 8
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Fire functions as a martial simile for the warrior's destructive combat
+    power.
+  cautions: Do not map to sacred_fire or world-destroying fire unless fire itself
+    has ritual, divine-presence, or cosmic-renewal function.
+  suggested_aliases:
+  - destructive warrior likened to fire
+  - warrior as ravaging fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-as-river-of-blood
+  motif_id: battlefield_as_river_of_blood
+  label: Battlefield as river of blood
+  occurrences: 5
+  traditions:
+  - hindu
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The river of blood is martial imagery foregrounding the scale and violence
+    of battle.
+  cautions: Treat as a poetic image rather than sacred waters or sacrifice unless
+    the passage assigns ritual or cosmological function.
+  suggested_aliases:
+  - blood river of battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-flight-with-thrown-obstacle-objects
+  motif_id: magic_flight_with_thrown_obstacle_objects
+  label: Magic flight with thrown obstacle objects
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - siberian
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Thrown Obstacles
+  relationship: narrower_than
+  confidence: high
+  rationale: The recurring escape sequence turns thrown objects into barriers that
+    impede pursuit.
+  cautions: Keep this distinct from ordinary travel, crafting, or shapeshifting; source
+    evidence should confirm transformation of objects into obstacles.
+  suggested_aliases:
+  - magic obstacle flight
+  - thrown objects become obstacles
+  suggested_new_group:
+    id: magic_flight_thrown_obstacles
+    label: Magic Flight and Thrown Obstacles
+    description: An escaping figure throws magical objects behind them; the objects
+      transform into barriers or terrain that delay or defeat a pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, trickery,
+      transformation, and power objects, but not this distinctive pursuit-escape sequence.
+- suggestion_id: normalization.suggestion.tree-refuge-during-pursuit
+  motif_id: tree_refuge_during_pursuit
+  label: Tree refuge during pursuit
+  occurrences: 3
+  traditions:
+  - caucasian
+  - guiana_amerindian
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A tree used as refuge may be a local setting detail rather than a stable
+    sacred-tree pattern.
+  cautions: Review alongside related pursuit episodes; do not infer axis-mundi meaning
+    merely from a tree setting.
+  suggested_aliases:
+  - tree refuge from pursuing animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.central-hearth-organizing-domestic-space
+  motif_id: central_hearth_organizing_domestic_space
+  label: central hearth organizing domestic space
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: A central hearth may organize domestic and ritual space, but sacred or
+    cosmological function is not explicit in the label.
+  cautions: Do not map automatically if this is architectural description; assess
+    whether hearth ritual, kinship order, or world-center symbolism is present.
+  suggested_aliases:
+  - domestic hearth center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-from-water-and-clay
+  motif_id: creation_from_water_and_clay
+  label: creation from water and clay
+  occurrences: 2
+  traditions:
+  - egyptian
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: high
+  rationale: Creation of beings or the world from primordial water and clay belongs
+    directly to creation-origin patterns.
+  cautions: Preserve whether the created entity is humanity, a deity, or the cosmos;
+    water alone does not imply flood or sacred passage.
+  suggested_aliases:
+  - creation from clay and water
+  - human creation from clay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-flight-with-thrown-objects-becoming-obstacles
+  motif_id: magic_flight_with_thrown_objects_becoming_obstacles
+  label: Magic flight with thrown objects becoming obstacles
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  - romanian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Thrown Obstacles
+  relationship: alias
+  confidence: high
+  rationale: This is a direct wording variant of the thrown-object magical-flight
+    sequence.
+  cautions: Confirm an active pursuit and magical obstacle transformation in source
+    evidence.
+  suggested_aliases:
+  - magic obstacle flight
+  suggested_new_group:
+    id: magic_flight_thrown_obstacles
+    label: Magic Flight and Thrown Obstacles
+    description: An escaping figure throws magical objects behind them; the objects
+      transform into barriers or terrain that delay or defeat a pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, trickery,
+      transformation, and power objects, but not this distinctive pursuit-escape sequence.
+- suggestion_id: normalization.suggestion.magic-obstacle-flight
+  motif_id: magic_obstacle_flight
+  label: Magic obstacle flight
+  occurrences: 2
+  traditions:
+  - native_american_plains
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Thrown Obstacles
+  relationship: broader_label
+  confidence: high
+  rationale: This broad label names the same magical escape-and-obstacle pattern.
+  cautions: Narrow to thrown-object transformation only when that mechanism is documented.
+  suggested_aliases:
+  - magic flight with thrown obstacle objects
+  suggested_new_group:
+    id: magic_flight_thrown_obstacles
+    label: Magic Flight and Thrown Obstacles
+    description: An escaping figure throws magical objects behind them; the objects
+      transform into barriers or terrain that delay or defeat a pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, trickery,
+      transformation, and power objects, but not this distinctive pursuit-escape sequence.
+- suggestion_id: normalization.suggestion.suspended-nest-over-water
+  motif_id: suspended_nest_over_water
+  label: suspended nest over water
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label gives an image or setting without indicating a narrative or
+    symbolic function.
+  cautions: Could concern creation, refuge, animal behavior, or local cosmology; source
+    context is required.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vanishing-water-in-a-strange-country
+  motif_id: vanishing_water_in_a_strange_country
+  label: vanishing water in a strange country
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Water disappearance may be an etiological, journey, danger, or landscape
+    narrative feature.
+  cautions: Avoid equating scarcity or disappearance with sacred waters, flood, or
+    otherworld without passage evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-associated-supernatural-being
+  motif_id: water_associated_supernatural_being
+  label: water-associated supernatural being
+  occurrences: 2
+  traditions:
+  - buddhist
+  - vietnamese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: role_variant
+  confidence: low
+  rationale: A supernatural being linked to water may relate to sacred waters, but
+    the label lacks its narrative role or water function.
+  cautions: Could be a local deity, serpent, guardian, or otherworldly being; preserve
+    culturally specific identity and avoid generic reduction.
+  suggested_aliases:
+  - water spirit
+  - water deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-heroic-single-combat
+  motif_id: escalating_heroic_single_combat
+  label: escalating heroic single combat
+  occurrences: 2
+  traditions:
+  - hindu
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: child
+  confidence: high
+  rationale: A duel between heroic combatants is directly within sacred-combat patterns.
+  cautions: Escalation is an episode-level modifier unless it recurs as a distinct
+    formal combat sequence.
+  suggested_aliases:
+  - single combat between champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-warning-brings-fatal-consequence
+  motif_id: ignored_warning_brings_fatal_consequence
+  label: Ignored warning brings fatal consequence
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - malagasy
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fatal consequences after a rejected warning may express moral reckoning,
+    prophecy, or ordinary plot causality.
+  cautions: Map to divine judgment only when warning and consequence are grounded
+    in sacred authority; use prophecy_divination when the warning is explicitly prophetic.
+  suggested_aliases:
+  - unheeded warning before catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-champion-routs-many-warriors
+  motif_id: single_champion_routs_many_warriors
+  label: single champion routs many warriors
+  occurrences: 2
+  traditions:
+  - hindu
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A lone champion overcoming many warriors is an established heroic-warrior
+    combat pattern.
+  cautions: Do not assume divine aid from numerical imbalance alone; retain it as
+    heroic combat unless sacred agency is explicit.
+  suggested_aliases:
+  - lone hero defeats overwhelming hostile host
+  - outnumbered hero fighting multiple adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victor-spares-defeated-enemy
+  motif_id: victor_spares_defeated_enemy
+  label: victor spares defeated enemy
+  occurrences: 2
+  traditions:
+  - hindu
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy toward a defeated enemy is already represented among covenant-group
+    mercy variants.
+  cautions: If mercy is secular chivalric conduct rather than a binding or sacred
+    relation, preserve that contextual distinction.
+  suggested_aliases:
+  - mercy to a defeated enemy
+  - mercy toward a defeated attacker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-food-sharing-bargain
+  motif_id: broken_food_sharing_bargain
+  label: Broken food-sharing bargain
+  occurrences: 2
+  traditions:
+  - hausa
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The central action is violation of a trust or reciprocal bond formed
+    through food sharing.
+  cautions: Also relate to sacred_exchange if food sharing is ritually reciprocal;
+    do not treat all meals as sacred.
+  suggested_aliases:
+  - betrayal through feast or drink
+  - broken hospitality bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-enemies-by-burning-an-enclosed-house
+  motif_id: destruction_of_enemies_by_burning_an_enclosed_house
+  label: destruction of enemies by burning an enclosed house
+  occurrences: 2
+  traditions:
+  - native_american_plateau
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Burning an enemy enclosure is a tactical destruction scene within conflict
+    rather than a world-renewal fire motif.
+  cautions: Map to divine judgment or sacred fire only where punishment or sacred
+    fire function is explicit; otherwise preserve enclosure detail locally.
+  suggested_aliases:
+  - incendiary destruction of enemy house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several supplied aliases and historical mappings reference canonical ids not visible
+  in the current motif-family extract; suggestions above use canonical_motif_groups
+  supplied in this batch.
+- Animal-trait etiologies and magical obstacle flight each recur across multiple traditions
+  and appear suitable as provisional new group candidates.
+- Tree-refuge, water-image, and hybrid-being labels need passage-level review because
+  broad symbolic similarity does not establish shared narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization placements only; no taxonomy changes proposed.
+suggested_by: openai_batch:gpt-5.6-terra
+suggested_at: '2026-07-20'
+batch:
+  run_id: norm-closure-2026-07-20
+  custom_id: normalization_suggestion:normalization-suggestion-norm-closure-2026-07-20-batch-0003
+  input_sha256: 027e1087d3edbbad395a2940a780c04a510394521d7d6814535574acb1c46d48
+

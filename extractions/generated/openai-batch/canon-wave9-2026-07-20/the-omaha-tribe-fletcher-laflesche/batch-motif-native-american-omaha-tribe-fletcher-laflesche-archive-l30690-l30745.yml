@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l30690-l30745
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    SACRED    SHELL / THE    CEDAR    POLE / THE   OMAHA   TRIBE / THE   OMAHA   TRIBE;
+    lines 30690-30745
+  start: '30690'
+  end: '30745'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a ritual song associated with a symbolic thunderstorm
+    and the warrior or Thunder god. During the song a leader applies black paint to
+    parts of his face and chest, and other members do the same after servants pass
+    the bowl. The leader then handles pipes, drops tobacco on the earth, lifts and
+    points pipe stems upward and toward the four directions, lights the pipes, and
+    gives them to servants while a prayer is sung.
+  language: English with transcribed Omaha prayer text
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The narrative says the song expresses a warrior's eagerness and the stirring
+    of flying birds when black storm clouds arose.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage calls the symbolic thunderstorm the visible sign of the warrior
+    god.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: During the singing, the leader dips the fingers of his right hand into paint
+    and touches his forehead, cheeks, chin, and both sides of his chest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Servants pass the bowl around the lodge, and each member applies black paint.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The black paint is identified as the insignia of the Thunder god.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The leader takes pipes, drops tobacco on the earth, lifts the stems upward,
+    pauses, and points them to the north, east, south, and west.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The leader lights the pipes and hands them to servants while a prayer is sung.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The printed prayer notation includes the repeated term “Wa-kon-da.”
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: leader
+  description: Ritual leader who applies paint first, handles the pipes, drops tobacco,
+    points the pipe stems, lights the pipes, and gives them to servants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: servants
+  description: Servants pass the paint bowl around the lodge and later receive the
+    lighted pipes from the leader.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: members
+  description: Members in the lodge apply black paint to themselves after the bowl
+    is passed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: warrior god / Thunder god
+  description: Divine figure associated in the passage with the symbolic thunderstorm
+    as visible sign and with black paint as insignia.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: ritual leader
+  assigned_to:
+  - fig:1
+  basis: The figure leads the acts of painting, pipe handling, tobacco placement,
+    directional pointing, lighting, and distribution of pipes.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:2
+  label: ritual servants or attendants
+  assigned_to:
+  - fig:2
+  basis: They pass the paint bowl around the lodge and receive the pipes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: ritual participants
+  assigned_to:
+  - fig:3
+  basis: Each member applies the black paint during the rite.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: divine source of sign and insignia
+  assigned_to:
+  - fig:4
+  basis: The passage names the warrior god in relation to the symbolic thunderstorm
+    and the Thunder god in relation to black paint.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: symbolic thunderstorm
+  literal_form: Black storm clouds, flying birds, and thunderstorm imagery in the
+    song
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: black paint
+  literal_form: Black paint applied to forehead, cheeks, chin, and both sides of the
+    chest
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: pipes
+  literal_form: Pipes whose stems are lifted, pointed in directions, lighted, and
+    handed to servants
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: tobacco on earth
+  literal_form: Tobacco dropped on the earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: four directions
+  literal_form: North, east, south, and west
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song and black-paint rite
+  summary: A song associated with the symbolic thunderstorm is sung. The leader applies
+    paint to his face and chest, servants pass the bowl, and the members apply black
+    paint identified as the insignia of the Thunder god.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Pipe, tobacco, and directional prayer rite
+  summary: The leader drops tobacco on the earth, raises and points pipe stems upward
+    and toward the four directions, lights the pipes, hands them to servants, and
+    a prayer with “Wa-kon-da” in the printed text is sung.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Thunderstorm as divine sign
+  taxonomy_refs: []
+  basis: The passage explicitly calls the symbolic thunderstorm the visible sign of
+    the warrior god.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only this local ritual explanation and does not expand
+    the theology of the figure.
+- id: motif:2
+  label: Divine insignia applied to the body
+  taxonomy_refs: []
+  basis: The leader and members apply black paint to their bodies, and the paint is
+    called the insignia of the Thunder god.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state all meanings of the body locations touched.
+- id: motif:3
+  label: Tobacco offering and directional pipe prayer
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The leader drops tobacco on the earth, orients pipe stems upward and to the
+    four directions, lights the pipes, and a prayer is sung.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The sacred_exchange taxonomy is only a broad candidate; the passage records
+    offering and prayer but does not explicitly describe reciprocity or exchange terms.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 30690-30697
+  quote_or_summary: The passage says the song expresses a warrior's eagerness, flying
+    birds stirred by black storm clouds, and the psychical and natural influence of
+    the symbolic thunderstorm, called the visible sign of the warrior god.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: 30697-30700
+  quote_or_summary: "“the leader dipped the fingers of his right hand into the paint
+    and touched his forehead, cheeks, and chin, and both sides of his chest”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: summary
+  locator: 30700-30704
+  quote_or_summary: Servants pass the bowl around the lodge; each member applies black
+    paint, identified as “the insignia of the Thunder god.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: 30705-30710
+  quote_or_summary: The leader takes the pipes, drops tobacco on the earth, lifts
+    the stems upward, pauses, and points them north, east, south, and west.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:5
+  type: summary
+  locator: 30710-30714
+  quote_or_summary: The leader lights the pipes and hands them to the servants while
+    a prayer is sung.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:6
+  type: summary
+  locator: 30716-30745
+  quote_or_summary: The printed musical notation for the sung prayer includes repeated
+    forms of “Wa-kon-da.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual actions and named symbols are explicit. Motif candidates are
+    conservative; only the tobacco-and-prayer rite is tentatively linked to an available
+    taxonomy family. No comparison claims were extracted because the passage itself
+    does not make a comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy refs are limited to the supplied list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l30690-l30745
+  passage_sha256=fdc85650a03d1d4bce1be228469267f6295f7addf9682891951285eb7bf37d4f
+

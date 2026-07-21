@@ -1,0 +1,401 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l2244-l2275
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAISM    IN    THE    ROMAN    EMPIRE / MITHRAISM    IN    THE    ROMAN    EMPIRE  4!
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE  43 / MITHRAISM    IN    THE    ROMAN    EMPIRE  45;
+    lines 2244-2275
+  start: '2244'
+  end: '2275'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an ancient semicircular grotto, the rooting of the
+    Persian/Mithraic cult in Upper Pannonia through Roman legions, the building of
+    successive Mithraic temples including one adjoining the temple of Jupiter Dolichenus,
+    and the enlargement of a large mithraeum by Diocletian and associated princes
+    at Carnuntum as public testimony of devotion to Mithra.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A semicircular grotto is described as ruined and restored in the third century
+    by a Roman knight, with its antiquity indicated by its details.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the cult’s arrival in the Occident, Trajan transported the fifteenth
+    legion again to the Euphrates, while the Persian cult had already taken root in
+    the capital of Upper Pannonia.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fourteenth legion, along with the sixteenth and thirteenth geminae or
+    detachments connected with them, are said to have had initiates of the Mysteries
+    among their ranks.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The first temple became inadequate, and a second temple was built immediately
+    adjoining the temple of Jupiter Dolichenus of Commagene.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: As a municipality developed near the camp and conversions multiplied, a third
+    mithraeum was erected, probably near the beginning of the second century, and
+    it exceeded the dimensions of other similar structures known to the author.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Diocletian and associated princes enlarged the third mithraeum in 307 A.D.
+    during their conference at Carnuntum and thereby gave public testimony of devotion
+    to Mithra.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Roman knight
+  description: A Roman knight who restored the semicircular grotto from ruins in the
+    third century.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Trajan
+  description: The emperor who transported the fifteenth legion again to the Euphrates.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Fifteenth legion
+  description: A Roman legion transported again to the Euphrates by Trajan after its
+    earlier arrival in the Occident.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Fourteenth legion gemina Martia
+  description: The legion that replaced the fifteenth legion and is included among
+    forces that had initiates in their ranks.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Sixteenth and thirteenth geminae or detachments
+  description: Military units or detachments connected with the first-mentioned legion
+    and said to have counted initiates in their ranks.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Jupiter Dolichenus of Commagene
+  description: A deity whose temple immediately adjoined the second Mithraic temple
+    mentioned in the passage.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Diocletian and associated princes
+  description: Imperial patrons who enlarged the third mithraeum in 307 A.D. and publicly
+    testified devotion to Mithra.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Mithra
+  description: The deity to whom Diocletian and the associated princes gave public
+    testimony of devotion.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: restorer of ruined grotto
+  assigned_to:
+  - fig:1
+  basis: The passage states that the semicircular grotto had to be restored from ruins
+    in the third century by a Roman knight.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imperial mover of a legion
+  assigned_to:
+  - fig:2
+  basis: Trajan is said to have transported the fifteenth legion again to the Euphrates.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Roman military unit connected with cult spread
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage discusses Roman legions in connection with the Persian cult’s
+    establishment in Upper Pannonia and the Mysteries among military ranks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: groups with initiates in their ranks
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The passage says these legions or detachments succumbed to the allurements
+    of the Mysteries and counted initiates in their ranks.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: deity of adjoining temple
+  assigned_to:
+  - fig:6
+  basis: The second Mithraic temple is said to have immediately adjoined the temple
+    of Jupiter Dolichenus of Commagene.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: imperial patrons and public devotees
+  assigned_to:
+  - fig:7
+  basis: Diocletian and associated princes enlarged the mithraeum and gave public
+    testimony of devotion to Mithra.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: recipient of public devotion
+  assigned_to:
+  - fig:8
+  basis: The passage identifies Mithra as the recipient of the princes’ public testimony
+    of devotion.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: grotto or cave sanctuary
+  literal_form: semicircular grotto
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Mithraic temple or mithraeum
+  literal_form: first temple, second temple, and third mithraeum
+  associated_figures:
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: adjoining cult temples
+  literal_form: second Mithraic temple immediately adjoining the temple of Jupiter
+    Dolichenus of Commagene
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Restoration of an ancient grotto
+  summary: A semicircular grotto, already ruined, is restored by a Roman knight in
+    the third century and described as ancient in its details.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Military spread of the Mysteries in Upper Pannonia
+  summary: After the fifteenth legion is moved again to the Euphrates, other legions
+    and detachments in Upper Pannonia are described as having initiates of the Mysteries
+    among them.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Construction of additional temples
+  summary: The first temple becomes insufficient, a second is built next to the temple
+    of Jupiter Dolichenus, and a third mithraeum is erected as conversions multiply.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Imperial enlargement and devotion at Carnuntum
+  summary: Diocletian and associated princes enlarge the third mithraeum in 307 A.D.
+    during a conference at Carnuntum and publicly display devotion to Mithra.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: initiation into the Mysteries within military ranks
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly says several legions or detachments counted initiates
+    of the Mysteries in their own ranks.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports initiates but does not describe initiation rites or
+    grades.
+- id: motif:2
+  label: cave or grotto sanctuary
+  taxonomy_refs: []
+  basis: The passage begins with a semicircular grotto, restored from ruins and treated
+    as an ancient cultic structure in the surrounding discussion of Mithraic temples.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not describe ritual use inside the grotto in this excerpt.
+- id: motif:3
+  label: cult expansion through successive sanctuaries
+  taxonomy_refs: []
+  basis: The passage describes a first temple becoming inadequate, a second temple
+    being built, conversions multiplying, and a third mithraeum being erected and
+    later enlarged.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an institutional expansion pattern rather than a myth narrative
+    motif.
+- id: motif:4
+  label: imperial public devotion to a mystery-cult deity
+  taxonomy_refs: []
+  basis: Diocletian and associated princes enlarge the mithraeum and publicly testify
+    devotion to Mithra.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage gives no details of ritual action beyond enlargement and public
+    testimony.
+comparison_claims:
+- id: claim:1
+  claim: The third mithraeum is presented as larger than all similar structures known
+    to the author at the time of writing.
+  claim_level: same_function
+  target: other discovered mithraea or similar Mithraic structures
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a comparative size claim but provides no list or
+    measurements for the other structures.
+- id: claim:2
+  claim: The passage supports a limited cult-site comparison between Mithraic worship
+    and the cult of Jupiter Dolichenus because the second Mithraic temple immediately
+    adjoined the temple of Jupiter Dolichenus of Commagene.
+  claim_level: same_function
+  target: temple cult of Jupiter Dolichenus of Commagene
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage establishes spatial adjacency of temples, not shared myth,
+    shared ritual, or historical derivation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2244-2247
+  quote_or_summary: A semicircular grotto had to be restored from ruins in the third
+    century by a Roman knight, and its details are said to show high antiquity.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2247-2252
+  quote_or_summary: About forty years after its arrival in the Occident, Trajan transported
+    the fifteenth legion again to the Euphrates; by then the Persian cult had deep
+    roots in the capital of Upper Pannonia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2252-2259
+  quote_or_summary: The fourteenth legion gemina Martia, and the sixteenth and thirteenth
+    geminae or connected detachments, are described as yielding to the Mysteries and
+    counting initiates in their ranks.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2259-2264
+  quote_or_summary: The first temple became inadequate; a second temple was built
+    and immediately adjoined the temple of Jupiter Dolichenus of Commagene.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2264-2270
+  quote_or_summary: As a municipality developed near the camp and conversions continued,
+    a third mithraeum was erected, probably near the beginning of the second century,
+    and its dimensions surpassed all similar structures then discovered.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2270-2275
+  quote_or_summary: The third mithraeum was enlarged by Diocletian and associated
+    princes in 307 A.D. during their conference at Carnuntum, as public testimony
+    of devotion to Mithra in the holy city.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The institutional and architectural details are explicit. Motif extraction
+    is more tentative because the passage is modern historical exposition rather than
+    a myth narrative, and ritual content is only briefly indicated by references to
+    Mysteries and initiates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The final sentence of the supplied passage is incomplete at the end of line 2275; no claims were made from the missing continuation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l2244-l2275
+  passage_sha256=71f2fcc1d0a59b46328b52ffdc1502d8987f5b2ecfdb113f5c152e32c6d61c8d
+

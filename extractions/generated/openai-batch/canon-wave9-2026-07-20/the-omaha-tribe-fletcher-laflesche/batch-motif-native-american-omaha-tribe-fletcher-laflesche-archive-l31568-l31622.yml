@@ -1,0 +1,364 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l31568-l31622
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE   OMAHA   TRIBE / SOCIETIES / THE    OMAHA   TRIBE; lines
+    31568-31622
+  start: '31568'
+  end: '31622'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An Omaha song is glossed as involving distant voices, an owl speaking,
+    morning, and a directed shout. The accompanying explanation tells of a warrior
+    in a forest camp who hears owl hoots at night, judges some answering sounds to
+    be human imitations, discovers enemies, warns the sleeping warriors, and thereby
+    helps the Omaha repel a dawn attack. The song is said to commemorate the man's
+    alertness and trained ear.
+  language: English with Omaha-language song text and English gloss
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The literal translation of the song includes distant voices sending words,
+    an owl speaking where the speaker lies, morning coming, and a shout directed toward
+    someone.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory story places the Omaha in a forest camp on a dark night, when
+    a warrior is awakened by owl hooting.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The warrior is described as observant and familiar with bird and animal sounds;
+    he hears answering hoots and judges them likely to be human imitations rather
+    than genuine calls.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The warrior silently arms himself with quiver and bow, creeps among the trees,
+    and detects signs of enemies at a distance from the camp.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The warrior stealthily returns and awakens the sleeping Omaha warriors, who
+    prepare for defense.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: At daybreak the enemies rush the Omaha camp from all sides, but the prepared
+    Omaha men meet the attack successfully and few foes escape.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The song is said to commemorate the alertness of the man whose trained ear
+    knew bird calls and cries, and to hold him up as an example.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: observant Omaha warrior
+  description: A warrior awakened by owl hooting, familiar with bird and animal sounds,
+    who investigates, detects enemies, and warns the camp.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Omaha warriors / Omaha camp
+  description: The sleeping warriors of the Omaha camp are awakened, prepare for defense,
+    and repel the dawn attack.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: enemies / foes
+  description: Men detected outside the camp, associated with likely imitated hoots,
+    who rush the Omaha camp from all sides at daybreak.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: owl / owl call
+  description: The owl is present through hooting that awakens the warrior; the song
+    gloss also says an owl speaks.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: alert scout and discoverer
+  assigned_to:
+  - fig:1
+  basis: The warrior listens closely, recognizes suspicious sounds, arms himself,
+    investigates, and discovers enemies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: prepared defenders
+  assigned_to:
+  - fig:2
+  basis: The Omaha warriors are awakened, prepare for defense, and successfully meet
+    the attack.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: ambushing attackers
+  assigned_to:
+  - fig:3
+  basis: Enemies are detected near the camp and later rush it from all sides at daybreak.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: awakening auditory sign
+  assigned_to:
+  - fig:4
+  basis: Owl hooting awakens the warrior, and the song gloss includes an owl speaking.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: exemplary figure of trained alertness
+  assigned_to:
+  - fig:1
+  basis: The song commemorates the man's alertness and holds him up as an example.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: owl hooting and answering hoots
+  literal_form: owl call / hooting sounds
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: forest camp and trees
+  literal_form: forest camp; trees through which the warrior creeps
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bow and quiver
+  literal_form: quiver and bow taken by the warrior before reconnaissance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: morning / daybreak
+  literal_form: morning comes; daybreak attack
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+scenes:
+- id: scene:1
+  label: song gloss of distant speech and owl voice
+  summary: The song's literal gloss presents distant voices or words, an owl speaking,
+    the coming of morning, and a directed shout.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: night listening in the forest camp
+  summary: In a dark forest camp, an observant Omaha warrior is awakened by owl hooting,
+    hears answering hoots, and suspects human imitation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: stealthy reconnaissance
+  summary: The warrior silently arms himself, moves through the trees, and detects
+    signs of enemies away from the camp.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: warning and dawn defense
+  summary: The warrior awakens the sleeping Omaha warriors, who prepare for defense
+    and successfully repel the enemy attack at daybreak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: commemoration of alertness
+  summary: The song is explained as preserving memory of a timely discovery and commemorating
+    the trained alertness of the man as an example.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: suspicious animal calls reveal hidden enemies
+  taxonomy_refs: []
+  basis: The warrior hears owl hooting and answering hoots, judges the answering sounds
+    to be likely human imitations, investigates, and discovers enemies near the camp.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage treats the sounds as practical auditory clues, not as a supernatural
+    omen.
+- id: motif:2
+  label: alert scout saves sleeping community from surprise attack
+  taxonomy_refs: []
+  basis: The warrior detects danger, returns to awaken the sleeping warriors, and
+    the prepared camp defeats the dawn attack.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives a brief etiological or commemorative account rather
+    than a full heroic cycle.
+- id: motif:3
+  label: practical wisdom through trained perception
+  taxonomy_refs:
+  - wisdom
+  basis: The man is praised for a trained ear that distinguishes genuine bird calls
+    from suspicious imitations, and the song holds him up as an example.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage emphasizes alertness and
+    practical knowledge more than formal wisdom teaching.
+- id: motif:4
+  label: song as memory of averted disaster and victory
+  taxonomy_refs: []
+  basis: The passage states that the song may preserve memory of a timely discovery
+    by which disaster was averted and victory won, and that it commemorates the alert
+    man.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The wording says the song 'may refer' to an earlier time, so the historical
+    framing is tentative within the passage itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 31568-31584
+  quote_or_summary: The literal translation glosses the song as distant voices sending
+    words, an owl speaking where the speaker lies, morning coming, and a directed
+    shout.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 31585-31588
+  quote_or_summary: The passage says the song may refer to a time when the Omaha were
+    forest people and preserve memory of a timely discovery that averted disaster
+    and won victory.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 31590-31597
+  quote_or_summary: The Omaha are camped in a forest; on a dark night a warrior is
+    awakened by owl hooting, listens with knowledge of bird and animal sounds, hears
+    answering hoots, and judges them likely to be human imitations.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 31597-31603
+  quote_or_summary: The warrior silently takes his quiver and bow, creeps among the
+    trees, detects signs of enemies, returns stealthily, and awakens the sleeping
+    warriors, who prepare for defense.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 31603-31607
+  quote_or_summary: At daybreak the enemy rushes the Omaha camp from all sides, but
+    the prepared men successfully meet the attack and few foes escape.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 31608-31612
+  quote_or_summary: The song commemorates the man's alertness, especially his trained
+    ear for bird calls and cries, and presents him as an example.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are conservative and
+    based on the passage's own explanation. No external comparison claims were made
+    because the passage does not compare this account with another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata; no external taxonomy IDs beyond the provided broad motif family 'wisdom'.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l31568-l31622
+  passage_sha256=11ec367b620352637a867d177b4c69ff959df9671fcd1be3c5baae558ac7dfed
+

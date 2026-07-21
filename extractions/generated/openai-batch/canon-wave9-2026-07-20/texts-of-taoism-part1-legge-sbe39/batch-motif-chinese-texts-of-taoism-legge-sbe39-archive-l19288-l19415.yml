@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe39-archive-l19288-l19415
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+passage_locator:
+  label: AND EDITED BY / F. MAX MULLER. / FIRST SERIES. / EDITED BY F. MAX MULLER.
+    3; lines 19288-19415
+  start: '19288'
+  end: '19415'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books
+    of the East, Vol. 39)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a catalog-style list of Sacred Books of the East volumes,
+    giving titles, translators, prices, and brief descriptions of Zoroastrian, Islamic,
+    Hindu, Buddhist, Vedic, Confucian, and related texts. It includes brief references
+    to Parsis as fire-worshippers, the Pahlavi Texts and Zoroaster's religion, Buddhist
+    teachings, Vedic sacrificial ceremonies, and an Indian Deluge account.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage functions as a catalog listing for volumes in the Sacred Books
+    of the East series, with titles, translators, and descriptive notes.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A sacred book of the Parsis is described, and the Parsis are called fire-worshippers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Pahlavi Texts are described as theological literature connected with the
+    revival of Zoroaster's religion beginning with the Sassanian dynasty.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Dhammapada is described as containing Buddhist morality, and the Sutta-Nipata
+    is described as giving Buddha's teaching on fundamental principles of religion.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Satapatha-Brahmana is described as giving a detailed account of Vedic
+    sacrificial ceremonies.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Satapatha-Brahmana is also said to contain the earliest account of the
+    Deluge in India.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Parsis
+  description: A religious community described as having a sacred book and called
+    fire-worshippers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Zoroaster
+  description: Named in connection with a religion whose revival is associated with
+    the Pahlavi Texts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Buddha
+  description: Named as the source of teachings presented in the Sutta-Nipata.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: religious community associated with fire-worship label
+  assigned_to:
+  - fig:1
+  basis: The passage calls the Parsis fire-worshippers in the context of their sacred
+    book.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: religious founder or associated religious figure
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the revival of Zoroaster's religion.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: religious teacher
+  assigned_to:
+  - fig:3
+  basis: The passage says the Sutta-Nipata gives the authentic teaching of Buddha.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire-worshippers
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Deluge
+  literal_form: the Deluge
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: sacrificial ceremonies described in a Vedic text
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that the Satapatha-Brahmana gives a detailed account of
+    Vedic sacrificial ceremonies.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a catalog description of ritual material, not a narrated sacrificial
+    episode.
+- id: motif:2
+  label: Indian Deluge account mentioned
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The passage says the Satapatha-Brahmana contains the earliest account of
+    the Deluge in India.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage gives only a bibliographic note and no narrative details about
+    flood, survival, destruction, or renewal.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19288-19415
+  quote_or_summary: The passage lists Sacred Books of the East volumes with volume
+    numbers, titles, translators, prices, and brief descriptions.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 19290-19292
+  quote_or_summary: '"sacred book of the Parsis, the so-called fire-worshippers"'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source metadata; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 19297-19303
+  quote_or_summary: The Pahlavi Texts are described as theological literature of the
+    revival of Zoroaster's religion, beginning with the Sassanian dynasty, and as
+    important for studying Gnosticism.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19339-19346
+  quote_or_summary: The Dhammapada is described as the quintessence of Buddhist morality,
+    and the Sutta-Nipata as giving Buddha's authentic teaching on fundamental principles
+    of religion.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 19361-19370
+  quote_or_summary: The Satapatha-Brahmana is described as "A minute account of the
+    sacrificial ceremonies of the Vedic age" and as containing "the earliest account
+    of the Deluge in India."
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source metadata; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily bibliographic catalog matter rather than a mythic
+    or ritual narrative. Motif candidates are limited to catalog descriptions explicitly
+    mentioning sacrificial ceremonies and a Deluge account.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not provide enough motif-level comparison evidence. The available references to Gnosticism and other corpora are bibliographic relevance statements rather than explicit motif comparisons.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe39-archive__l19288-l19415
+  passage_sha256=cfbd51957d729eeaa772d454764da7b990e9f4e297350cebe1280fe81fd38c4d
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l20510-l20555
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / THE    OMAHA   TRIBE / THE    QUEST   OF    FOOD /
+    THE  PONCA  FEAST  OF  THE  SOLDIERS; lines 20510-20555
+  start: '20510'
+  end: '20555'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a ritual or song sequence in which a great herd of
+    animals is associated with the people’s successful return home along a trail strewn
+    with fat. A male gray wolf persona speaks of moving and galloping along the trail.
+    A male crow persona says he will help and act as instructor. The people are astonished
+    by a figure’s coming, disappearance beyond a ridge or hill, return, and appearance
+    on the ridge; the passage concludes with the claim that one herd of animals has
+    been killed for the people and that instruction has been given.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A great herd of animals is named, and the people are said to leave none of
+    them remaining.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The people are said to go toward home rejoicing along a trail strewn with
+    fat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A first-person speaker identifies as a male gray wolf and says he will move
+    and gallop along the trail with his tail blown to one side.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A first-person speaker identifies as a male crow and says he will join in
+    giving help and will join as an instructor.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people cry out in astonishment at the coming of the addressed figure.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The addressed figure disappears beyond the ridge as though piercing the hill,
+    returns after a little, sweeps close to the hill, and appears on the ridge.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A speaker states that one herd of animals has been killed for the people and
+    that instruction has been given.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the people
+  description: The people are described as leaving no animals remaining, returning
+    home rejoicing, and crying out in astonishment at a figure’s coming.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: male gray wolf
+  description: A first-person animal persona who says he will move and gallop along
+    the trail with his tail blown to one side.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: male crow
+  description: A first-person animal persona who says he will join in giving help
+    and will join as instructor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: great herd of animals
+  description: A great herd of animals is named; later a speaker says one herd of
+    animals has been killed for the people.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+roles:
+- id: role:1
+  label: collective beneficiaries and observers
+  assigned_to:
+  - fig:1
+  basis: The people return home rejoicing after the herd is taken and cry out in astonishment
+    at the coming figure.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: animal speaker moving along the trail
+  assigned_to:
+  - fig:2
+  basis: The male gray wolf speaks in the first person and says he will move and gallop
+    along the trail.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: helper and instructor
+  assigned_to:
+  - fig:3
+  basis: The male crow says he will join in giving help and will join as instructor.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hunted herd or food source
+  assigned_to:
+  - fig:4
+  basis: The herd is presented as the animals that the people leave none of and as
+    a herd killed for the people.
+  evidence_refs:
+  - ev:1
+  - ev:5
+symbols:
+- id: sym:1
+  label: great herd
+  literal_form: a great herd of animals
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: fat-strewn trail
+  literal_form: a trail strewn with fat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: male gray wolf
+  literal_form: male gray wolf
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: male crow
+  literal_form: male crow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ridge and hill
+  literal_form: ridge or hill over which a figure disappears, returns, and appears
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Abundant herd and joyful return
+  summary: A great herd of animals is taken so that none remain, and the people return
+    home rejoicing along a trail strewn with fat.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Male gray wolf on the trail
+  summary: The male gray wolf persona says he will move and gallop along the trail,
+    with his tail blown to one side.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Male crow as helper and instructor
+  summary: The male crow persona says he will join in giving help and will join as
+    instructor.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Astonishing movement at the ridge
+  summary: The people cry out in astonishment as a figure comes, disappears beyond
+    a ridge as though piercing a hill, returns, sweeps close to the hill, and appears
+    on the ridge; a speaker says a herd has been killed for the people and that instruction
+    has been given.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: animal-personae aiding food acquisition
+  taxonomy_refs: []
+  basis: The passage uses male gray wolf and male crow personae; the crow explicitly
+    says he will help and instruct, and the sequence culminates in the statement that
+    a herd has been killed for the people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The ritual context and the reference of the second-person pronouns are
+    not fully resolved within the supplied lines.
+- id: motif:2
+  label: abundant hunt and joyful return
+  taxonomy_refs: []
+  basis: A great herd is taken with none remaining, and the people return home rejoicing
+    along a trail strewn with fat.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is poetic or ritual in form, so the practical hunting sequence
+    may be stylized.
+- id: motif:3
+  label: astonishing disappearance and return at a ridge
+  taxonomy_refs: []
+  basis: The people are astonished as a figure comes, disappears beyond the ridge
+    as though piercing the hill, returns, and appears on the ridge.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The identity of the figure performing the ridge movement is ambiguous
+    in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19-22
+  quote_or_summary: "“A great herd of animals”; the people leave none remaining and
+    go home rejoicing “Along a trail strewn with fat.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 23-25
+  quote_or_summary: "“I, the male gray wolf” shall move, with tail blown to one side,
+    and gallop along the trail."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 26-29
+  quote_or_summary: "“I, the male crow” says he will join in giving help and “As instructor
+    I shall join.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 30-35
+  quote_or_summary: The people cry out in astonishment at a figure’s coming; the figure
+    disappears beyond the ridge as though piercing the hill, returns, sweeps close
+    to the hill, and appears on the ridge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 36-37
+  quote_or_summary: "“one herd of animals I have killed for you”; the passage adds
+    that this was instruction."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main images are clear, but the passage is poetic and includes ambiguous
+    pronoun reference. No comparison claims were extracted because the supplied lines
+    do not themselves establish a comparative relation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Apparent stanza number and page header in the supplied text were not treated as motif content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l20510-l20555
+  passage_sha256=67de863bee805a8901a5c179ed10a2fd5dad4b16e0b7d792668577522a938a61
+

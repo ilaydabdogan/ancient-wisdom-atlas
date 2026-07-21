@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l28592-l28605
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SCOUT  SONG / THE  WE'TON  WAAN / SENDING    OUT    SCOUTS / DEPARTURE    OF    A    DEFENSIVE    WAR    PARTY;
+    lines 28592-28605
+  start: '28592'
+  end: '28605'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the voice of a woman would be heard singing a song to inspirit the men
+  summary: When warriors departed to battle in defense of their homes, there were
+    no public ceremonies or dances. Women sang rally songs to encourage the defenders,
+    and at the close a woman gave the bird-hawk cry to evoke the supernatural power
+    of that bird, associated with the god of war. The songs were composed and sung
+    solely by women, with vocables in the first part used to complete the musical
+    phrase of the second part.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Warriors went forth to battle in defense of their homes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: There were no public ceremonies or dances for this departure.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A woman’s voice could be heard singing a song to inspirit the men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At the close of the song, the woman gave the cry of the bird-hawk.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The bird-hawk cry was given to evoke the supernatural power of the bird.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: The bird-hawk was associated with the god of war.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:7
+  text: The rally songs were composed by women and sung solely by women.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: Only vocables were used in the first part of the song to extend or complete
+    the musical phrase of the second part.
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: warriors
+  description: Warriors departing to battle in defense of their homes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: women singers
+  description: Women who composed and solely sang rally songs to encourage the defenders.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: bird-hawk
+  description: A bird whose cry is given at the close of the song to evoke its supernatural
+    power.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: god of war
+  description: A war deity associated with the bird-hawk.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: defenders departing to battle
+  assigned_to:
+  - fig:1
+  basis: The passage says the warriors went forth to battle in defense of their homes.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: rally-song composers and singers
+  assigned_to:
+  - fig:2
+  basis: The songs are described as composed by women and sung solely by them to encourage
+    the defenders.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: supernatural power evoked by cry
+  assigned_to:
+  - fig:3
+  basis: The bird-hawk cry is used to evoke the supernatural power of the bird.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: war deity associated with bird-hawk
+  assigned_to:
+  - fig:4
+  basis: The passage states that the bird-hawk was associated with the god of war.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bird-hawk cry
+  literal_form: cry of the bird-hawk
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rally song
+  literal_form: song sung by women to inspirit or encourage defenders
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: vocables
+  literal_form: vocables used in the first part of the song
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: departure of defensive war party
+  summary: Warriors depart to fight in defense of their homes without public ceremonies
+    or dances.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: women’s rally song and bird-hawk cry
+  summary: Women sing songs to encourage the departing defenders; at the end of a
+    song a woman gives the bird-hawk cry to evoke the bird’s supernatural power associated
+    with the god of war.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: departure to battle
+  taxonomy_refs:
+  - departure
+  basis: The passage centers on warriors going forth from home to battle as defenders.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage is ethnographic description
+    of a ritualized departure rather than a narrative hero departure.
+- id: motif:2
+  label: song invoking supernatural aid for warriors
+  taxonomy_refs: []
+  basis: Women’s rally songs and the bird-hawk cry are used to encourage defenders
+    and evoke the bird’s supernatural power associated with the god of war.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No matching supplied taxonomy family directly names war-song invocation
+    or bird-power invocation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28592-28598
+  quote_or_summary: When warriors went forth to defend their homes there were no public
+    ceremonies or dances; a woman sang to inspirit the men and closed with the bird-hawk
+    cry to evoke the bird’s supernatural power, associated with the god of war.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 28600-28605
+  quote_or_summary: The passage identifies these as rally songs composed by women
+    and sung solely by them to encourage defenders; the first part uses vocables to
+    fill out the musical phrase of the second part.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif assignment
+    is limited because the available taxonomy has only a broad departure category
+    and no specific war-song or bird-power invocation category. No comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only where directly supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l28592-l28605
+  passage_sha256=0b34a995e14fa97719c5cc15d9b8068c1b89b4c3e82aaad6cd52942174689371
+

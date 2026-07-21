@@ -1,0 +1,409 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l20913-l20937
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 419 / OF THE OLD NORTHMEN. 421 / OF THE OLD NORTHMEN.
+    423 / OF THE OLD NORTHMEN. 425; lines 20913-20937
+  start: '20913'
+  end: '20937'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The editors describe their effort to reconstruct old Teutonic faith from
+    early poems and prose notices. They state that the subject concerns Scandinavians
+    and other Teutonic peoples, that direct evidence is largely in Ari’s prose and
+    old verse, and that Teutonic worship was religious, household-centered, directed
+    toward family spirits, conducted by the house-father, associated with temples
+    and tribal sacrifices, and not idol worship. A footnote gives an example of clan
+    sacrifice every third year at a grandfather’s temple and another notes the absence
+    of idols or images.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the editors are assembling early poems and prose notices
+    to present a view of old Teutonic faith.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the subject concerns Scandinavians and other Teutonic
+    peoples, while noting scarcity of early English and German evidence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies Ari’s prose and old verse in the volumes as the practical
+    body of recoverable direct evidence.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage characterizes the Teutons as religious but not priest-ridden or
+    superstitious.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says worship was principally household worship of family spirits
+    and was conducted by the house-father.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says the Teutons did not worship idols, though they had famous
+    and wealthy temples where great tribal sacrifices occurred.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A footnote gives an instance of clan worship in which a younger settler returned
+    every third year to Norway to sacrifice on his own and his uncle’s behalf at a
+    temple kept by his grandfather.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A footnote states that native terms, poetic allusions, and archaeological
+    finds for idols or images are absent, and describes the religion as lacking graven
+    images of the invisible.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Teutons
+  description: The broader people whose religious practices are summarized in the
+    passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Scandinavians
+  description: One group named as concerned by the subject of old Teutonic faith.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: other Teuton races
+  description: The non-Scandinavian Teutonic peoples named as also concerned by the
+    subject.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: family spirits
+  description: Spirits identified as the principal objects of household worship.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: house-father
+  description: The household figure said to conduct worship of the family spirits.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: younger settler
+  description: A person in Ari’s example who returned every third year to Norway to
+    sacrifice.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: uncle
+  description: A kinsperson on whose behalf the younger settler sacrificed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: grandfather
+  description: The keeper of the temple at which the younger settler sacrificed.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: religious community
+  assigned_to:
+  - fig:1
+  basis: The passage characterizes the Teutons as religious and summarizes their worship,
+    temples, and sacrifices.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: object of household worship
+  assigned_to:
+  - fig:4
+  basis: The family spirits are named as the focus of principal household worship.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: household ritual officiant
+  assigned_to:
+  - fig:5
+  basis: The house-father is said to conduct the household worship.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: periodic sacrificer
+  assigned_to:
+  - fig:6
+  basis: The younger settler returns every third year to Norway to sacrifice.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: beneficiary of sacrifice
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The sacrifice is performed on the younger settler’s own behalf and on his
+    uncle’s behalf.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: temple keeper
+  assigned_to:
+  - fig:8
+  basis: The temple in Ari’s example is kept by the grandfather.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: comparative subject group
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the subject concerns Scandinavians and all other Teuton
+    races.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: temple
+  literal_form: temples of great fame and riches; a temple kept by the grandfather
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: sacrifice
+  literal_form: great tribal sacrifices; sacrifice on the settler’s own and uncle’s
+    behalf
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: household worship
+  literal_form: household worship of the family spirits
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: idol or image absent
+  literal_form: idol, image, or graven image of the invisible, described as absent
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: third-year interval
+  literal_form: every third year
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Source-critical framing of Teutonic faith
+  summary: The editors frame the passage as a reconstruction of old Teutonic faith
+    from early poems, prose notices, Ari’s prose, and old verse, while noting the
+    subject’s relevance to Scandinavians and other Teutonic peoples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Household worship of family spirits
+  summary: The passage describes principal worship as household worship directed to
+    family spirits and conducted by the house-father.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Temples and sacrifices
+  summary: The passage states that famous and wealthy temples existed for tribal sacrifices,
+    and the footnote gives a clan-worship example of a settler returning every third
+    year to sacrifice at his grandfather’s temple.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Absence of idol worship
+  summary: The passage and footnote state that the religion did not involve idol worship
+    and that linguistic, poetic, and archaeological evidence for idols or images is
+    absent.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Household cult of family spirits
+  taxonomy_refs: []
+  basis: The passage states that worship was principally household worship of family
+    spirits conducted by the house-father.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an editorial summary of religious practice rather than a mythic
+    narrative episode.
+- id: motif:2
+  label: Temple sacrifice and clan obligation
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage mentions great tribal sacrifices in temples and gives an example
+    of a younger settler returning every third year to sacrifice on behalf of himself
+    and his uncle at a temple kept by his grandfather.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The example is cited in a footnote as evidence of clan worship; the passage
+    does not describe a mythic story around the sacrifice.
+- id: motif:3
+  label: Aniconic worship without idols
+  taxonomy_refs: []
+  basis: The passage says the Teutons did not worship idols and notes absence of native
+    terms, poetic allusions, and finds of idols or images.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is an absence-based religious-practice pattern, not a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20913-20921
+  quote_or_summary: The editors say they are assembling early poems and prose notices
+    for a view of old Teutonic faith and identify Ari’s prose and old verse as practically
+    all recoverable direct evidence.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 20916-20920
+  quote_or_summary: The passage states that the subject concerns Scandinavians and
+    other Teuton races, while noting the lack of substantial early English and German
+    evidence.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: 20922-20924
+  quote_or_summary: "“the Teutons were eminently a religious people, though by no
+    means priest-ridden or superstitious”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: summary
+  locator: 20924-20926
+  quote_or_summary: The passage says worship was principally household worship of
+    family spirits, conducted by the house-father.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 20926-20928
+  quote_or_summary: The passage says they did not worship idols, though they had famous
+    and rich temples where great tribal sacrifices took place.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 20929-20932
+  quote_or_summary: 'A footnote says Ari gives an instance of clan worship: a younger
+    settler went every third year to Norway to sacrifice on his own and his uncle’s
+    behalf at a temple kept by his grandfather.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 20933-20937
+  quote_or_summary: A footnote notes the absence of a native name, poetic allusion,
+    or archaeological find for idols or images, and says there were no graven images
+    of the invisible.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage gives clear statements about religious practice and source evidence.
+    Motif confidence is lower because the material is editorial and ethnographic rather
+    than a mythic narrative. No passage-supported external comparison claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the supplied available taxonomy list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l20913-l20937
+  passage_sha256=dbb1bdc2429dfda2ee9fe4a7a71b384b9ca9559161dec710ff65a6d5a005af6b
+

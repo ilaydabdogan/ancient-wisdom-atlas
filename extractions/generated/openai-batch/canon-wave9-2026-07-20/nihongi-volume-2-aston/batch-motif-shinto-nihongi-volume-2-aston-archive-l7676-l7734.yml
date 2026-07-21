@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l7676-l7734
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: A.D. 606. / SUIKO. 135 / A.D. 607. / A.D. 608,; lines 7676-7734
+  start: '7676'
+  end: '7734'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“The Emperor of the East respectfully, addresses the Emperor of the West.”"
+  summary: The passage describes a foreign embassy’s court ceremony, luxurious rank-marked
+    court dress, entertainments for Thang guests, the departure of P’ei Shih-ch‘ing
+    with newly appointed Japanese envoys and an imperial message, the dispatch of
+    students and student-priests to Thang, and settlement in Japan by people from
+    Silla.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A Chinese Ambassador and his suite report before the Great Gate to the Empress
+    and retire when the ceremony is over.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Imperial Princes, other Princes, and Ministers wear golden hair ornaments
+    and clothing of brocade, purple, embroidery, and various-colored figured thin
+    silks.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An alternate writing states that garment color corresponded to official cap
+    color.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thang guests are entertained at Court and later at Ohokohori in Naniha.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Thang guest P’ei Shih-ch‘ing departs; Wono no Imoko no Omi, Kishi no Wonari,
+    and Fukuri are appointed and dispatched with the Thang guests.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An imperial address frames the sender as the Emperor of the East and the recipient
+    as the Emperor of the West, acknowledges P’ei Shih-ch‘ing’s arrival, asks after
+    the recipient’s health, and announces envoys being sent.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Students and student-priests, eight persons in all, are sent to the Land of
+    Thang.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Many persons from Silla come to settle in Japan in this year.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Japanese sovereign / Empress
+  description: The embassy reports to the Empress; the later imperial message is presented
+    as an address from the Emperor of the East to the Thang Emperor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:2
+  name_or_label: Chinese Ambassador and suite
+  description: A foreign ambassadorial party that reports before the Great Gate and
+    retires after the ceremony.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Thang guests, including P’ei Shih-ch‘ing
+  description: Foreign guests entertained in Japan; P’ei Shih-ch‘ing is named as a
+    Thang guest and official envoy who departs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Imperial Princes, other Princes, and Ministers
+  description: Court elites who wear golden hair ornaments and richly colored, embroidered
+    garments.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Wono no Imoko no Omi
+  description: Appointed Chief Envoy for the mission accompanying the Thang guests.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Kishi no Wonari
+  description: Appointed Second Envoy for the mission accompanying the Thang guests.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Fukuri
+  description: Appointed Interpreter for the mission accompanying the Thang guests.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Thang Emperor / Emperor of the West
+  description: The foreign sovereign addressed in the imperial message as the Emperor
+    of the West.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:5
+- id: fig:9
+  name_or_label: Students sent to Thang
+  description: Fukuin, Emyo, Kuromaro, and Ohokuni are listed among students sent
+    to the Land of Thang.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:6
+- id: fig:10
+  name_or_label: Student-priests sent to Thang
+  description: Hifumi or Nichibun, Shoan, Eon, and Késai are listed among student-priests
+    sent to the Land of Thang.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+- id: fig:11
+  name_or_label: Persons from Silla
+  description: A group from Silla who come to settle in Japan.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: Sovereign recipient and imperial sender
+  assigned_to:
+  - fig:1
+  basis: The passage has the ambassador report to the Empress and later gives an imperial
+    address from the Emperor of the East.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: Ambassadorial party
+  assigned_to:
+  - fig:2
+  basis: The group is identified as the Chinese Ambassador and his suite performing
+    court protocol.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Foreign guests and departing envoy
+  assigned_to:
+  - fig:3
+  basis: The Thang guests are entertained, and P’ei Shih-ch‘ing is specifically named
+    as the Thang guest who departs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: Court elite in ceremonial attire
+  assigned_to:
+  - fig:4
+  basis: The Princes and Ministers are described by their ornaments and garments during
+    the occasion.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: Chief Envoy
+  assigned_to:
+  - fig:5
+  basis: Wono no Imoko no Omi is appointed Chief Envoy.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: Second Envoy
+  assigned_to:
+  - fig:6
+  basis: Kishi no Wonari is appointed Second Envoy.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: Interpreter
+  assigned_to:
+  - fig:7
+  basis: Fukuri is appointed Interpreter.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: Addressed foreign sovereign
+  assigned_to:
+  - fig:8
+  basis: The imperial message is addressed to the Thang Emperor, called the Emperor
+    of the West.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: Students dispatched abroad
+  assigned_to:
+  - fig:9
+  basis: The passage lists students sent to the Land of Thang.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: Student-priests dispatched abroad
+  assigned_to:
+  - fig:10
+  basis: The passage lists student-priests sent to the Land of Thang.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: Settlers from a neighboring polity
+  assigned_to:
+  - fig:11
+  basis: The passage states that many persons from Silla came to settle in Japan.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Great Gate
+  literal_form: Ceremonial gate before which the ambassadorial report is made
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Golden hair ornaments and rich garments
+  literal_form: Golden hair ornaments, brocade, purple, embroidery, and various-colored
+    figured thin silks
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Official cap-color correspondence
+  literal_form: Garment colors corresponding to official cap colors
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Court and Ohokohori in Naniha
+  literal_form: Places where Thang guests are entertained
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: East-West imperial address
+  literal_form: Formula naming the sender as Emperor of the East and recipient as
+    Emperor of the West
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: Land of Thang
+  literal_form: Foreign destination for the embassy, students, and student-priests
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Report before the Great Gate
+  summary: The Chinese Ambassador and suite report to the Empress before the Great
+    Gate and retire after the ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ceremonial attire of the court elite
+  summary: Princes and Ministers appear in gold ornaments and richly colored, embroidered
+    garments; an alternate writing links garment color with official caps.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Entertainment of Thang guests
+  summary: Thang guests are entertained first at Court and then at Ohokohori in Naniha.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Departure with Japanese envoys and imperial message
+  summary: P’ei Shih-ch‘ing departs; Japanese envoys and an interpreter are appointed
+    and dispatched with the Thang guests, while an imperial address is directed to
+    the Thang Emperor.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Students and student-priests sent to Thang
+  summary: Eight students and student-priests are listed as being sent to the Land
+    of Thang.
+  figure_refs:
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Settlement by persons from Silla
+  summary: The annalistic notice records that many persons from Silla came to settle
+    in Japan.
+  figure_refs:
+  - fig:11
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ceremonial reception of foreign envoys
+  taxonomy_refs: []
+  basis: The passage describes ambassadorial reporting before the Great Gate, ceremonial
+    retirement, and entertainments for Thang guests.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a court-protocol pattern rather than an explicitly mythic episode.
+- id: motif:2
+  label: Rank displayed through regalia and color-coded dress
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Princes and Ministers wear gold ornaments and elaborate garments, with an
+    alternate source linking garment color to official cap color.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage supports court hierarchy and public display; it does not state
+    a divine or sacred basis for rule.
+- id: motif:3
+  label: Embassy departure and appointed mission roles
+  taxonomy_refs:
+  - departure
+  basis: P’ei Shih-ch‘ing departs while a Chief Envoy, Second Envoy, and Interpreter
+    are appointed and dispatched in company with the Thang guests.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The departure is administrative and diplomatic, not a heroic or ritual
+    departure in the passage itself.
+- id: motif:4
+  label: Directional pairing of sovereigns as East and West
+  taxonomy_refs:
+  - duality
+  - royal_legitimacy
+  basis: The imperial message explicitly addresses the Emperor of the West from the
+    Emperor of the East.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The East-West contrast is a diplomatic formula in this passage; no cosmological
+    interpretation is stated.
+- id: motif:5
+  label: Dispatch of learners and religious learners abroad
+  taxonomy_refs:
+  - wisdom
+  - departure
+  basis: Students and student-priests are sent to the Land of Thang, eight persons
+    in all.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The learning or wisdom function is supported by the labels students and
+    student-priests, but the passage does not describe their studies or teachings.
+- id: motif:6
+  label: Cross-border settlement
+  taxonomy_refs: []
+  basis: The passage states that many persons from Silla came to settle in Japan.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The notice is brief and contains no explicit symbolic or mythological
+    elaboration.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7676-7678
+  quote_or_summary: The Chinese Ambassador and his suite report before the Great Gate
+    to the Empress and retire after the ceremony.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 7680-7688
+  quote_or_summary: Princes and Ministers wear golden hair ornaments and elaborate
+    garments; one writing says garment color corresponded to official cap color.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7697-7702
+  quote_or_summary: The Thang guests are entertained at Court and later at Ohokohori
+    in Naniha.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7704-7708
+  quote_or_summary: P’ei Shih-ch‘ing departs; Wono no Imoko no Omi is Chief Envoy,
+    Kishi no Wonari Second Envoy, and Fukuri Interpreter, dispatched with the Thang
+    guests.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 7708-7719
+  quote_or_summary: The message begins, “The Emperor of the East respectfully, addresses
+    the Emperor of the West,” and notes P’ei Shih-ch‘ing’s arrival and envoys being
+    sent.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 7721-7731
+  quote_or_summary: Four named students and four named student-priests, eight persons
+    in all, are sent to the Land of Thang.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: line 7733
+  quote_or_summary: Many persons from Silla came to settle in Japan in this year.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward, but the passage is annalistic
+    and diplomatic rather than overtly mythological. Motif candidates are therefore
+    treated as cautious pattern labels. No comparison claims were made because the
+    passage itself does not explicitly compare this material with another tradition
+    or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only where the passage directly supported a cautious motif-family association.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l7676-l7734
+  passage_sha256=fb2ef9eda80cebd9a8faa2edd79dd54e4432e4c80df3d5ae872ce578a7b5f49d
+

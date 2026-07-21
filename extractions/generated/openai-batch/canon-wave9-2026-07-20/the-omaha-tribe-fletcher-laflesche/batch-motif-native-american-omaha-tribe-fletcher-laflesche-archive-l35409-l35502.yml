@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35409-l35502
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / THE    PUBLIC    CEREMONY / THE    OMAHA   TRIBE /
+    SOCIETIES; lines 35409-35502
+  start: '35409'
+  end: '35502'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The song implies that like powers will be passed on to the initiated.
+  summary: 'The passage explains an Omaha lodge song: it refers to a mysterious stranger
+    commanding a man and his wife to report at home that the stranger offered them
+    riches or possessions through magic power. The explanation adds that similar powers
+    are implied to pass to the initiated. The passage then gives the title and musical
+    transcription/vocables of the initial song of the Lodge of the “Second Son.”'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says the song refers to a command given by a stranger.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stranger bids a man and his wife to say, when they go home, that the mysterious
+    stranger offered them riches or possessions.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The offered riches or possessions are described as coming through magic power
+    given to the man and his wife.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The song is said to imply that like powers will be passed on to the initiated.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage identifies the piece as the initial song of the Lodge of the “Second
+    Son.”
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The transcribed song includes repeated vocables such as “Thege,” “Howane,”
+    “Athege,” and “Ahehe.”
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: mysterious stranger
+  description: A stranger who commands the man and his wife and is said to have offered
+    them riches or possessions through magic power.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man and wife
+  description: A married pair addressed by the stranger and told what to say when
+    they return home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the initiated
+  description: Persons to whom like powers are implied to be passed on through the
+    song or rite.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: supernatural or mysterious donor
+  assigned_to:
+  - fig:1
+  basis: The stranger is explicitly called mysterious and is associated with offering
+    riches or possessions through magic power.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipients and messengers
+  assigned_to:
+  - fig:2
+  basis: The man and his wife receive the stranger’s command and are told to report
+    the offered riches or possessions when they go home.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: initiates receiving transmitted powers
+  assigned_to:
+  - fig:3
+  basis: The text says similar powers will be passed on to the initiated.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: ritual song
+  literal_form: song
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: magic power
+  literal_form: power given by the mysterious stranger
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: riches or possessions
+  literal_form: riches, possessions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Lodge of the “Second Son”
+  literal_form: lodge
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Stranger’s command to the married pair
+  summary: A mysterious stranger commands a man and his wife to say at home that he
+    offered them riches or possessions through magic power.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Initiatory transmission implied by the song
+  summary: The explanation states that the song implies similar powers will be passed
+    on to the initiated.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Performance text of the initial lodge song
+  summary: The passage provides the heading and transcription of the initial song
+    of the Lodge of the “Second Son,” including repeated vocables.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: initiation by transmission of power
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly says that like powers are implied to pass on to the
+    initiated.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief explanation of the rite and does not describe
+    the full initiation sequence.
+- id: motif:2
+  label: mysterious stranger as donor of wealth and power
+  taxonomy_refs: []
+  basis: The song explanation presents a mysterious stranger offering riches or possessions
+    through magic power.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage summarizes the content of a song and does not provide the
+    full narrative context of the stranger.
+- id: motif:3
+  label: ritual song as vehicle of empowerment
+  taxonomy_refs:
+  - initiation
+  basis: The initial lodge song is explained as implying the passage of powers to
+    initiates.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The mechanism of transmission is only implied by the editor’s explanation,
+    not elaborated in the cited lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 35409-35414
+  quote_or_summary: "“The song refers to the command of the stranger bidding the man
+    and his wife to say when they went home that the mysterious stranger had offered
+    them riches, possessions, through the magic power given them.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; quotation kept brief for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 35414-35415
+  quote_or_summary: "“The song implies that like powers will be passed on to the initiated.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; quotation kept brief for extraction evidence.
+- id: ev:3
+  type: quote
+  locator: lines 35417-35418
+  quote_or_summary: "“INITIAL SONG OF THE LODGE OF THE ‘SECOND SON’”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; quotation kept brief for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 35419-35502
+  quote_or_summary: Musical transcription and vocable text of the initial song, including
+    repeated forms such as Thege, Howane, Athege, Nikathege, and Ahehe.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but motif assignment is limited
+    by the brief explanatory context and the largely vocable song text. No comparison
+    claims are made because the passage itself does not support a comparison beyond
+    the available initiation taxonomy label.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only provided passage and metadata were used. No external taxonomy identifiers beyond the supplied motif family list were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35409-l35502
+  passage_sha256=9d71cd0881911081d6d567009f42918a73ded6d6c99704ef9d6d22cb047896cf
+

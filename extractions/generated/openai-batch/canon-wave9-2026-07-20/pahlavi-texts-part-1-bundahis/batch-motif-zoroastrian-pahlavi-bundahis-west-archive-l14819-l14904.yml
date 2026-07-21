@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l14819-l14904
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER II, IO5-II6. 273 / CHAPTER II, II 7-1 22. 275 / Chapter III. / CHAPTER
+    II, I23-III, 6. 277; lines 14819-14904
+  start: '14819'
+  end: '14904'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual rules for a menstruating woman: how household
+    surfaces are or are not polluted, what ornaments and garments she removes, when
+    she sits in the menstruation place, how a prayer formula is retained inwardly
+    or spoken aloud, and how her look affects ritually prepared hands.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When a woman sits on a cushion and menstruation occurs, moving from the cushion
+    to the carpet and then out into the bed-chamber makes the carpet and bed-chamber
+    polluted, while the cushion is not polluted because it is already in use.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If both the cushion and carpet are already in use, the bed-chamber alone is
+    polluted; if all three are in use, the passage says there is no pollution.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When she knows it is menstruation, she is instructed to remove, in order,
+    the necklace, ear-rings, head-fillet, and outer garments.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If she remains in the appointed place for the purpose, even for a very long
+    time, the outer garments are said to remain clean.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: When she knows certainly that it is menstruation, a prayer is to be retained
+    inwardly until all garments have been changed and she has sat down in the place
+    for menstruation.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note describes the menstruation place as a room or cell for unclean persons
+    where they can see neither sun, moon, stars, fire, water, sacred vessels, nor
+    righteous men, and it gives distance rules from fire, water, sacred twigs, and
+    righteous men.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When worship is being celebrated, a prayer is to be retained inwardly; if
+    menstruation occurs, the prayer is to be spoken out.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hands sprinkled in ceremonial ablution become unclean when a menstruous woman
+    sees them, and the passage says the same applies even when she looks hastily and
+    does not see the sacred twigs.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: menstruous woman
+  description: A woman whose menstruation is recognized or certain, and who is subject
+    to rules about surfaces, garments, seclusion, prayer, and sight.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: person under menstrual purity rules
+  assigned_to:
+  - fig:1
+  basis: The passage directs her movement, removal of ornaments and garments, sitting
+    in the menstruation place, and handling of prayers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: person whose look can affect ritual purity
+  assigned_to:
+  - fig:1
+  basis: The passage states that ritually sprinkled hands become unclean when a menstruous
+    woman sees them.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: menstruation place
+  literal_form: appointed place or dashtanistan for menstruation or uncleanness
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: household surfaces and rooms
+  literal_form: cushion, carpet, and bed-chamber
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: retained prayer formula
+  literal_form: prayer held inwardly and later spoken out
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: ceremonially sprinkled hands
+  literal_form: hands sprinkled in ceremonial ablution
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: fire
+  literal_form: fire from which the menstruation place is distanced and which unclean
+    persons should not see
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: water
+  literal_form: water from which the menstruation place is distanced and which unclean
+    persons should not see
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: sacred twigs
+  literal_form: baresom or sacred twigs mentioned in relation to distance rules and
+    the look that renders hands unclean
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: pollution of cushion, carpet, and bed-chamber
+  summary: The passage distinguishes how pollution applies when menstruation occurs
+    while a woman is on a cushion and moves to the carpet and bed-chamber, depending
+    on which surfaces are already in use.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: removal of ornaments and entry into menstruation place
+  summary: On recognizing menstruation, the woman removes ornaments and outer garments
+    and, when certain, changes garments and sits in the menstruation place while retaining
+    a prayer inwardly.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: prayer retained and spoken out
+  summary: During worship or other acts, a prayer formula is retained inwardly; if
+    menstruation occurs, the prayer is spoken out, and a separate formula is mentioned
+    for a call of nature.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: uncleanness by sight
+  summary: Hands prepared by ceremonial ablution are said to become unclean when seen
+    by a menstruous woman, even if the look is hasty.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: menstrual impurity transmitted to spaces and objects
+  taxonomy_refs: []
+  basis: The rules describe pollution of carpet, bed-chamber, and other prepared objects
+    or bodies in relation to menstruation.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: This is a ritual-legal motif rather than a narrative mythic episode; no
+    exact supplied motif-family taxonomy ref directly matches it.
+- id: motif:2
+  label: ritual seclusion in a special place during impurity
+  taxonomy_refs: []
+  basis: The woman is directed to sit in the place for menstruation, and the note
+    describes the dashtanistan as a cell for unclean persons with restrictions on
+    what may be seen and approached.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives prescriptive rules; symbolic or mythological interpretation
+    should be reviewed separately.
+- id: motif:3
+  label: ritual speech retained inwardly and released aloud
+  taxonomy_refs: []
+  basis: The passage repeatedly distinguishes retaining a prayer inwardly from speaking
+    it out when the condition changes.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The translator notes that some meanings in this section are uncertain;
+    the motif is extracted as a ritual pattern, not as a narrative formula.
+- id: motif:4
+  label: impurity conveyed through sight
+  taxonomy_refs: []
+  basis: The passage states that ritually sprinkled hands become unclean by the menstruous
+    woman's look, even if the look is hasty.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage concerns a specific purity regulation; broader comparisons
+    to evil-eye or gaze motifs are not made here.
+comparison_claims:
+- id: claim:1
+  claim: The supplied notes explicitly connect the rules for the menstruation place
+    and related restrictions with Vendidad XVI, especially XVI,1-10.
+  claim_level: same_function
+  target: Vendidad XVI rules concerning menstruation and the dashtanistan
+  evidence_refs:
+  - ev:4
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The target Vendidad passages are not included in full here; the claim
+    rests on the cross-references in the supplied notes.
+- id: claim:2
+  claim: The supplied notes connect the inwardly retained prayer formula and related
+    bodily-interruption rule with Pahlavi Vendidad XVI,5.
+  claim_level: same_function
+  target: Pahlavi Vendidad XVI,5 on prayer formula use
+  evidence_refs:
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the note citation is available in the supplied passage; no direct
+    text of Pahlavi Vendidad XVI,5 is provided.
+- id: claim:3
+  claim: The supplied notes connect the rule about a menstruous woman's look making
+    ritually prepared hands unclean with Pahlavi Vendidad XVI,10.
+  claim_level: same_function
+  target: Pahlavi Vendidad XVI,10 on sight and menstrual impurity
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the internal citation in the supplied
+    passage and should be checked against the referenced text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER II, §§2-3; within lines 14819-14904
+  quote_or_summary: Rules distinguish whether cushion, carpet, and bed-chamber become
+    polluted when menstruation occurs, depending on which are already in use.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: CHAPTER II, §§4-5; within lines 14819-14904
+  quote_or_summary: On knowing it is menstruation, the woman removes necklace, ear-rings,
+    head-fillet, and outer garments; if she remains in the appointed place, the outer
+    garments are said to be clean.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: CHAPTER II, §6; within lines 14819-14904
+  quote_or_summary: When menstruation is certain, a prayer is retained inwardly until
+    all garments are changed and the woman sits down in the menstruation place.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: note
+  locator: Footnote to CHAPTER II, §6; within lines 14819-14904
+  quote_or_summary: The note identifies the dashtanistan as a room or cell for unclean
+    persons, where they cannot see sun, moon, stars, fire, water, sacred vessels,
+    or righteous men; it also gives distances from fire, water, sacred twigs, and
+    righteous men and cites Vendidad XVI,1-10.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary generated from supplied passage and note.
+- id: ev:5
+  type: summary
+  locator: CHAPTER II, §§7-9 and related notes; within lines 14819-14904
+  quote_or_summary: The passage explains that a prayer may be retained inwardly during
+    worship, spoken out if menstruation occurs, and that a formula is used for a call
+    of nature; the note explains this kind of short prayer formula.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary generated from supplied passage and note.
+- id: ev:6
+  type: summary
+  locator: CHAPTER II, §10; within lines 14819-14904
+  quote_or_summary: Hands sprinkled in ceremonial ablution become unclean when a menstruous
+    woman sees them, and the passage says this remains so even if she looks hastily
+    and does not see the sacred twigs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: citation
+  locator: Footnotes to CHAPTER II, §§6, 9-10; within lines 14819-14904
+  quote_or_summary: Translator notes cite Vendidad XVI,1-10, Pahlavi Vendidad XVI,5,
+    and Pahlavi Vendidad XVI,10 as related references.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; citation summary generated from supplied notes.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main ritual rules are clear, but the supplied passage includes translator
+    cautions that some readings or meanings are doubtful or uncertain. Motif labels
+    are descriptive and should receive human review before broader comparative use.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external information was used. Motif taxonomy refs were not assigned because the supplied motif-family list does not directly name menstrual purity, ritual seclusion, retained prayer, or sight-pollution patterns; symbol taxonomy refs were used only for fire and water as supplied.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l14819-l14904
+  passage_sha256=4696d81faffa9ba04bb1b2ace7dcac784e2339ccd33b50128c5619082e5f1d7e
+

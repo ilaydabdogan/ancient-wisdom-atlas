@@ -1,0 +1,232 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe39-archive-l7272-l7296
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+passage_locator:
+  label: WRITINGS OF KWANG-3ZE. / Book II. Kazi Wt Lun. / BK.1. BRIEF NOTICES OF THE
+    DIFFERENT BOOKS, 129 / Book III. YANG SHANG KAU.; lines 7272-7296
+  start: '7272'
+  end: '7296'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books
+    of the East, Vol. 39)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“The Lord of Life” is the Tao."
+  summary: The passage identifies the Tao as the source and preserver of life, explains
+    that nourishing life means avoiding striving and letting the Tao guide one, and
+    notes that this rule is illustrated by a ruler’s cook whose skill in cutting oxen
+    causes neither difficulty to himself nor injury to his knife.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Tao is called “the Lord of Life” and is described as the origin and preserver
+    of life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the Tao is not a Personal Being, though it is spoken of as
+    if it were.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Nourishing the Tao is described as avoiding striving, performing one’s duties
+    without passion or strain, and allowing the Tao to guide and nourish.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says one should not act to please oneself or to counteract the
+    tendency toward decay and death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Paragraph 1 is said to show the injury arising from not nourishing life and
+    to set forth the rule to follow.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Paragraph 2 is said to illustrate the rule through the cook of the ruler Wan-hui
+    of Wei cutting up oxen with perfect skill, without trouble to himself or injury
+    to his knife.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tao as “Lord of Life”
+  description: The Tao is described as the source and preserver of life and is spoken
+    of as “the Lord of Life,” while the passage notes that it is not a Personal Being.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: cook of the ruler Wan-hui of Wei
+  description: A cook who cuts up oxen for his employer with perfect skill, without
+    trouble to himself or injury to his knife.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: ruler Wan-hui of Wei
+  description: The ruler of Wei whose cook cuts up oxen for him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: life-origin and life-preserver
+  assigned_to:
+  - fig:1
+  basis: The passage says life’s origin and preservation are owed to the Tao.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exemplar of perfect skill
+  assigned_to:
+  - fig:2
+  basis: The cook’s cutting of oxen is presented as illustrating the rule through
+    perfect skill without self-injury or damage to the knife.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: employer and ruler
+  assigned_to:
+  - fig:3
+  basis: The cook is described as cutting up oxen for the ruler Wan-hui of Wei, his
+    employer.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: knife
+  literal_form: knife used by the cook
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: oxen
+  literal_form: oxen cut up by the cook
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: decay and death
+  literal_form: the tendency of being to decay and death
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Explanation of nourishing life through the Tao
+  summary: The passage explains that the Tao is the source and preserver of life and
+    that nourishing it consists in avoiding striving and letting the Tao guide and
+    nourish one.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cook’s skilled cutting of oxen
+  summary: The cook of Wan-hui of Wei cuts up oxen for his employer with perfect skill,
+    experiencing no trouble and causing no injury to his knife.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: nourishing life through non-striving
+  taxonomy_refs:
+  - wisdom
+  basis: 'The passage gives a rule for nourishing life: avoid striving, perform duties
+    without passion or strain, and allow the Tao to guide and nourish.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy has no exact entry for Daoist non-striving or nourishing
+    life; “wisdom” is a broad fit.
+- id: motif:2
+  label: effortless skill as embodiment of a life-rule
+  taxonomy_refs:
+  - wisdom
+  basis: The cook’s perfect skill in cutting oxen without trouble or damage illustrates
+    the rule for nourishing life.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is based on a summary of the paragraph rather than the full narrative
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7274-7278
+  quote_or_summary: The Tao is identified as “the Lord of Life,” the source and preserver
+    of life, while the passage says it is not a Personal Being though spoken of as
+    one.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; concise summary with brief quoted title phrase.
+- id: ev:2
+  type: summary
+  locator: 7278-7285
+  quote_or_summary: The passage answers that nourishing the Tao means avoiding striving,
+    acting without passion or strain in one’s position, and allowing the Tao to guide
+    and nourish without self-pleasing action or attempts to counter decay and death.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 7287-7288
+  quote_or_summary: Paragraph 1 is described as exhibiting the harm of not nourishing
+    life and setting forth the rule to pursue.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 7290-7296
+  quote_or_summary: Paragraph 2 is described as illustrating the rule by the perfect
+    skill of the cook of Wan-hui of Wei, who cuts up oxen for his employer without
+    trouble to himself or injury to his knife.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on the supplied passage, which is itself a brief explanatory
+    notice rather than the full narrative. Motif labels are therefore broad and should
+    be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a comparison beyond its internal explanation and illustration.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe39-archive__l7272-l7296
+  passage_sha256=934a7fecc71f020b5a204f72f7c40ff2ce7178a35d0d8e7db5f07bc999e871b0
+

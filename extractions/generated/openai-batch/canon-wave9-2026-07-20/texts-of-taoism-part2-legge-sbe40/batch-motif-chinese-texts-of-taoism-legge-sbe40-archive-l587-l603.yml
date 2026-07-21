@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.chinese-texts-of-taoism-legge-sbe40-archive-l587-l603
+source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+passage_locator:
+  label: BOOK  XVIII. / Part  II.    Section  XI. / PT.  II.  SECT.  XI.       THE    WRITINGS    OF   X-WANG-3ZE.  3
+    / PT.  II.  SECT.  XI.       THE   WRITINGS    OF    XWANG-3ZE.  5; lines 587-603
+  start: '587'
+  end: '603'
+  translation: 'The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books
+    of the East, Vol. 40)'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a compressed sequence in which one named being comes
+    from another; a ying-hsi unites with an old non-sprouting bamboo and produces
+    another being, which leads successively to panther, horse, and man. Man then re-enters
+    the great Machinery of Evolution, from which all things come forth at birth and
+    into which they enter at death. A note relates the paragraph to Lieh-zi and describes
+    it as a statement of transrotation of births.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The mau-zui is said to come from the pu-khwan.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ying-hsi unites with a bamboo that has long ceased to put forth sprouts.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The union with the old bamboo produces the khaning or similarly transcribed
+    being in the passage.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The produced being is followed in sequence by the panther, then the horse,
+    then man.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Man again enters the great Machinery of Evolution.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The great Machinery is described as that from which all things come forth
+    at birth and which they enter at death.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The translator's note says a larger related paragraph is found in the first
+    book of Lieh-zi's works and calls the topic transrotation of births.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: pu-khwan
+  description: Named being from which the mau-zui comes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: mau-zui
+  description: Named being said to come from the pu-khwan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: ying-hsi
+  description: Named being that unites with an old bamboo.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: khaning or similarly transcribed being
+  description: Named being produced when the ying-hsi unites with the old bamboo;
+    the printed transcription is uncertain in the supplied text.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: panther
+  description: Animal appearing after the khaning in the production sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: horse
+  description: Animal appearing after the panther in the production sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: man
+  description: Human being produced after the horse and said to re-enter the great
+    Machinery.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: member of production sequence
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: Each named being or animal appears in the described sequence of coming from
+    or producing another.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: uniting being
+  assigned_to:
+  - fig:3
+  basis: The ying-hsi is the being described as uniting with the bamboo.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: being returning at death to the generative mechanism
+  assigned_to:
+  - fig:7
+  basis: Man is said to enter again into the great Machinery, which all things enter
+    at death.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: old non-sprouting bamboo
+  literal_form: bamboo which has long ceased to put forth sprouts
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: great Machinery of Evolution
+  literal_form: great Machinery from which all things come forth at birth and which
+    they enter at death
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: animal-to-human sequence
+  literal_form: panther, horse, man
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: compressed production sequence
+  summary: A sequence is stated in which the mau-zui comes from the pu-khwan, the
+    ying-hsi unites with old bamboo to produce another being, and that sequence proceeds
+    through panther and horse to man.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: return to the great Machinery
+  summary: Man re-enters the great Machinery, which is described as the source at
+    birth and destination at death for all things.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cycle of birth and death through a generative mechanism
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage states that all things come forth from the great Machinery at
+    birth and enter it at death, with man returning to it after the sequence of productions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the process as entry into and emergence from a mechanism;
+    it does not narrate a single individual's rebirth in detail.
+- id: motif:2
+  label: successive transformation or production of beings
+  taxonomy_refs: []
+  basis: The passage presents a chain from named beings through panther and horse
+    to man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The exact ontology of the named beings is unclear, and the supplied passage
+    appears abbreviated or textually corrupted.
+- id: motif:3
+  label: transrotation of births
+  taxonomy_refs:
+  - death_rebirth
+  basis: The translator's note explicitly describes the larger topic as transrotation
+    of births and relates it to the passage.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This label comes from the translator's note, not from the translated passage's
+    own narrative wording.
+comparison_claims:
+- id: claim:1
+  claim: The translator states that a larger related paragraph is found in the first
+    book of Lieh-zi's works.
+  claim_level: same_motif
+  target: first Book of Lieh-zi's works
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only the translator's note and no quoted text from
+    Lieh-zi for direct comparison.
+- id: claim:2
+  claim: The translator compares the topic to Buddhist treatments of transrotation
+    of births, while making an evaluative judgment about them.
+  claim_level: same_function
+  target: Buddhist treatises on transrotation of births
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note is editorial and polemical; it does not identify a specific
+    Buddhist text or provide parallel details.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 587-588
+  quote_or_summary: '"the mau-zui from the pu-khwan"'
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; short excerpt used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 588-592
+  quote_or_summary: The ying-hsi unites with an old bamboo that no longer sprouts
+    and produces a named being; the sequence then proceeds to panther, horse, and
+    man.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 592-595
+  quote_or_summary: Man enters again into the great Machinery of Evolution, from which
+    all things come forth at birth and into which they enter at death.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 597-602
+  quote_or_summary: The note says a larger version is found in the first book of Lieh-zi
+    and describes the subject as transrotation of births, with comparison to Buddhist
+    treatises.
+  source_text_path: texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md
+  rights_note: Public domain translation; summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is short and contains apparent OCR or transcription corruption
+    in several names. Literal sequence and the birth-death mechanism are clear enough
+    for draft extraction; comparison claims rest on the translator's footnote.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available refs and applied cautiously.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-texts-of-taoism-legge-sbe40-archive__l587-l603
+  passage_sha256=76224fab3aa6f180935ea1c96a1895938835bcca4563286e4a6a903bf08ea22c
+

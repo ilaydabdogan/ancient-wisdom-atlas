@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l14558-l14615
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: AD. 252 / A.D. 262. / EX. 33. / JINGO. - 253; lines 14558-14615
+  start: '14558'
+  end: '14615'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The annalistic passage reports deaths and succession in Pékché, a Tsin
+    notice that the Queen of Wa sent interpreters with tribute, and the Grand Empress’s
+    death, burial, and posthumous name. Editorial notes compare Korean chronicle dates
+    and caution that the Japanese chronology is not reliable while asserting an early
+    Japan-Pékché alliance.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kusyu, King of Pékché, died, and his son Chhim-nyu was set up as king.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: King Chhim-nyu of Pékché died; his son Ahwa was a child, and Sinsa, his father’s
+    younger brother, became king by usurpation.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A cited Tsin-period source says that the Queen of Wa sent interpreters with
+    tribute in the tenth month of the second year of T‘ai-she of Wu Ti.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Grand Empress died in the Palace of Waka-zakura at the age of 100.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Grand Empress was buried in the misasagi of Tatanami in Saki and was posthumously
+    called Okinaga Tarashi-hime no Mikoto.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An editorial note states that the preceding narrative contains a solid nucleus
+    of fact concerning an early alliance between Japan and Pékché and influence over
+    Imna or Mimana, while also saying the Japanese chronology cannot be right.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Kusyu
+  description: King of Pékché who died in the 64th year notice.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Chhim-nyu
+  description: Son of Kusyu; set up as king of Pékché and later reported dead.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ahwa
+  description: Son of Chhim-nyu; described as a child at the time of Chhim-nyu’s death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Sinsa
+  description: Younger brother of Chhim-nyu’s father; set up as king by usurpation.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Emperor Wu Ti of the Tsin Dynasty
+  description: Ruler whose reign-period is used as the chronological frame for the
+    cited Tsin notice.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Queen of Wa
+  description: Ruler reported in the cited Tsin source as sending interpreters with
+    tribute.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Interpreters
+  description: Envoys or agents sent by the Queen of Wa with tribute.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Grand Empress / Okinaga Tarashi-hime no Mikoto
+  description: Grand Empress who died at Waka-zakura, was buried at Tatanami in Saki,
+    and received the posthumous name Okinaga Tarashi-hime no Mikoto.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: King of Pékché
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The passage names Kusyu and Chhim-nyu as kings of Pékché and says Sinsa was
+    set up and made king.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: son and successor
+  assigned_to:
+  - fig:2
+  basis: Chhim-nyu is identified as Kusyu’s son and was set up as king after Kusyu
+    died.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: child heir
+  assigned_to:
+  - fig:3
+  basis: Ahwa is identified as Chhim-nyu’s son and as a child at the time of succession.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: usurping paternal uncle
+  assigned_to:
+  - fig:4
+  basis: Sinsa is described as the father’s younger brother and as becoming king by
+    usurpation.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: tribute-sending ruler
+  assigned_to:
+  - fig:6
+  basis: The cited source says the Queen of Wa sent interpreters with tribute.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: tribute-bearing interpreters
+  assigned_to:
+  - fig:7
+  basis: The interpreters are the persons sent with tribute by the Queen of Wa.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: posthumously honoured deceased empress
+  assigned_to:
+  - fig:8
+  basis: The Grand Empress died, was buried, and was given a posthumous honorific
+    name.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: chronological reference ruler
+  assigned_to:
+  - fig:5
+  basis: The notice is dated by the period T‘ai-she of Emperor Wu Ti of the Tsin Dynasty.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tribute
+  literal_form: Tribute sent with interpreters by the Queen of Wa.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: imperial burial place
+  literal_form: The misasagi of Tatanami in Saki, where the Grand Empress was buried.
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pékché succession after Kusyu’s death
+  summary: Kusyu dies, and his son Chhim-nyu is installed as king of Pékché.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Usurpation after Chhim-nyu’s death
+  summary: Chhim-nyu dies; his son Ahwa is still a child, and Sinsa becomes king by
+    usurpation.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tribute mission from Wa
+  summary: A cited Tsin source reports that the Queen of Wa sent interpreters with
+    tribute during Wu Ti’s T‘ai-she period.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Death, burial, and posthumous naming of the Grand Empress
+  summary: The Grand Empress dies at Waka-zakura, is buried in the misasagi of Tatanami
+    in Saki, and receives the posthumous name Okinaga Tarashi-hime no Mikoto.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Dynastic succession and contested royal legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage records legitimate succession from father to son, then a child
+    heir bypassed by an uncle who becomes king by usurpation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The notices are brief annalistic entries and do not elaborate a mythic
+    rationale for legitimacy beyond kinship and usurpation.
+- id: motif:2
+  label: Posthumous royal honour through burial and naming
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Grand Empress is buried in a named misasagi and receives a posthumous
+    honorific name.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the act as court commemoration; broader ritual or
+    mythological significance is not explained here.
+- id: motif:3
+  label: Diplomatic tribute mission
+  taxonomy_refs: []
+  basis: The cited Tsin source reports that the Queen of Wa sent interpreters with
+    tribute.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as a historical diplomatic notice, not explicitly
+    as a sacred exchange.
+comparison_claims:
+- id: claim:1
+  claim: The editorial notes report a nearby chronicle parallel in the Tongkam, including
+    a similar notice in almost the same words but under later dates.
+  claim_level: linguistic_similarity
+  target: Tongkam notices for A.D. 384 and A.D. 385 concerning Pékché events
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage supplies only the editor’s summary of the Tongkam parallels;
+    the parallel text itself is not quoted, and the dates are said to differ by two
+    cycles.
+- id: claim:2
+  claim: The editorial note asserts historical contact between early Japan and Pékché,
+    including alliance and influence over Imna or Mimana.
+  claim_level: historical_contact
+  target: early Japan-Pékché alliance and Imna/Mimana connection
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:6
+  confidence: medium
+  limitations: This is an editorial historical assessment rather than a mythic scene
+    in the annal itself, and the same note cautions that the Japanese chronology cannot
+    be right.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 64th year notice within lines 14558-14615
+  quote_or_summary: Kusyu, King of Pékché, dies; his son Chhim-nyu is set up as king.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 65th year notice within lines 14558-14615
+  quote_or_summary: Chhim-nyu dies; Ahwa is a child, and Sinsa, the father’s younger
+    brother, is made king by usurpation.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: 66th year notice within lines 14558-14615
+  quote_or_summary: "“the Queen of Wa sent interpreters with tribute.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 69th year notice within lines 14558-14615
+  quote_or_summary: The Grand Empress dies at age 100 in the Palace of Waka-zakura,
+    is buried in the misasagi of Tatanami in Saki, and is posthumously called Okinaga
+    Tarashi-hime no Mikoto.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: editorial footnotes within lines 14558-14615
+  quote_or_summary: Footnotes say the Tongkam has A.D. 384 and mentions a notice in
+    almost the same words under A.D. 385, two cycles later.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: editorial footnote within lines 14558-14615
+  quote_or_summary: 'The editor states that the narrative has a solid nucleus of fact:
+    early Japan allied with Pékché and laid the foundation of controlling power over
+    Imna or Mimana, but the Japanese chronology cannot be right.'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is brief and annalistic, so literal extraction is strong but
+    mythic motif interpretation is limited. Comparison claims derive from editorial
+    notes in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item was directly supported by the passage; extracted symbols are literal passage objects/places with empty taxonomy references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l14558-l14615
+  passage_sha256=a4251366d093d274a796fbf2573dd43155635e2c9117de82fccc4220bc072676
+

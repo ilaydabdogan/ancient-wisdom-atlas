@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l32139-l32160
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SECOND  SONG / THE   OMAHA   TRIBE / THIRD  SONG / THE  KI'KUNETHE; lines
+    32139-32160
+  start: '32139'
+  end: '32160'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The name Ki'kunethe ... indicates the social purpose of the society — to
+    gather about a fire.
+  summary: The passage describes the Omaha Ki'kunethe society, its name and social
+    purpose, its leading male participants and presiding officer, and a custom of
+    leaving an honored guest seat with utensils in recognition of Wakon'da's presence.
+    It notes that the society ended around 1870 as contact with white settlers and
+    the Government affected the tribe.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The name Ki'kunethe is explained as combining terms meaning to gather together
+    and to build a fire, indicating a purpose of gathering about a fire.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The society was composed of leading men of the tribe and had no formal membership.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: An officer, described as a chairman or leader, was chosen to preside.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The gathering was for social pleasure and for talking over and discussing
+    subjects of interest.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A place in the middle at the back part of the lodge was always kept vacant
+    as a seat for an honored guest.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A bowl or platter with a horn spoon was placed before the empty seat.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The empty place was explained as recognition of Wakon'da, described as the
+    provider and ruler of mankind, who was present with the men as they met and talked.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The society was given up about 1870 when changes from contact with white settlers
+    and the Government seriously affected the tribe.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ki'kunethe society
+  description: A society whose name and purpose are connected with gathering about
+    a fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Leading men of the tribe
+  description: The men composing the society and meeting together to talk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Officer or chairman
+  description: A chosen leader who presided over the society's gatherings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Wakon'da
+  description: Described as the provider and ruler of mankind, recognized as present
+    with the men during their meeting.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: White settlers and the Government
+  description: External groups whose contact-related changes affected the tribe before
+    the society was given up.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: fire-centered social society
+  assigned_to:
+  - fig:1
+  basis: The society's name and stated purpose are linked to gathering about a fire.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: participants in the gathering
+  assigned_to:
+  - fig:2
+  basis: The society was composed of leading men who met together to talk and discuss.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: presiding leader
+  assigned_to:
+  - fig:3
+  basis: An officer or chairman was chosen to preside.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recognized sacred presence
+  assigned_to:
+  - fig:4
+  basis: The vacant place was kept in recognition of Wakon'da, who was said to be
+    present with the men.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: agents of contact-related change
+  assigned_to:
+  - fig:5
+  basis: Changes incident to contact with white settlers and the Government affected
+    the tribe and preceded the society being given up.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: A fire around which the society gathered.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vacant honored guest seat
+  literal_form: The place in the middle at the back part of the lodge, always kept
+    vacant.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: bowl or platter with horn spoon
+  literal_form: A bowl or platter with a horn spoon placed before the empty seat.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: back middle of the lodge
+  literal_form: The middle place at the back part of the lodge where the vacant seat
+    was kept.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Definition and composition of the Ki'kunethe
+  summary: The society is described through its name, purpose of gathering about a
+    fire, leading male composition, lack of formal membership, and presiding officer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Vacant place for Wakon'da
+  summary: In the lodge, a central back seat is kept empty for an honored guest, with
+    a bowl or platter and horn spoon placed before it, in recognition of Wakon'da's
+    presence.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: End of the society
+  summary: The society is said to have been given up around 1870 as changes from contact
+    with white settlers and the Government affected the tribe.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: communal gathering around a fire
+  taxonomy_refs: []
+  basis: The name and social purpose of the society are explicitly tied to gathering
+    about a fire.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage presents this as a social purpose, not as a detailed mythic
+    episode.
+- id: motif:2
+  label: reserved empty seat for an unseen sacred guest
+  taxonomy_refs: []
+  basis: A lodge place was kept vacant as an honored guest seat and explained as recognition
+    of Wakon'da's presence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage says the custom may refer to ancient forms but does not identify
+    those forms.
+- id: motif:3
+  label: place setting before a divine presence
+  taxonomy_refs: []
+  basis: A bowl or platter with a horn spoon was placed before the empty seat associated
+    with Wakon'da.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: No explicit feeding, offering, prayer, or reciprocal exchange is described.
+- id: motif:4
+  label: divine presence within men's council or social assembly
+  taxonomy_refs: []
+  basis: Wakon'da is described as present with the men as they met and talked.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is ethnographic description rather than narrative myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 32139-32144
+  quote_or_summary: The name Ki'kunethe is glossed as "to gather together" and "to
+    build a fire" and is said to indicate the purpose "to gather about a fire."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 32144-32150
+  quote_or_summary: The society was composed of leading men, had no formal membership,
+    had a chosen officer or chairman to preside, and gathered for social pleasure
+    and discussion.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 32150-32156
+  quote_or_summary: A place at the middle back of the lodge was kept vacant for an
+    honored guest; before it was placed "a bowl or platter with a horn spoon."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 32156-32159
+  quote_or_summary: The empty place was kept in recognition of Wakon'da, described
+    as provider and ruler of mankind, present with the men as they met and talked.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 32159-32160
+  quote_or_summary: The society was given up about 1870, when contact-related changes
+    involving white settlers and the Government began to affect the tribe seriously.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the passage. Motif labels are cautious
+    because the passage is ethnographic and does not provide a mythic narrative or
+    explicit cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself establish a comparison beyond noting that one custom may refer to older forms.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l32139-l32160
+  passage_sha256=1a2f1bb702985bdc4e851e2c5ef96622b37dd3e2bbaf64f71b88046e1696d940
+

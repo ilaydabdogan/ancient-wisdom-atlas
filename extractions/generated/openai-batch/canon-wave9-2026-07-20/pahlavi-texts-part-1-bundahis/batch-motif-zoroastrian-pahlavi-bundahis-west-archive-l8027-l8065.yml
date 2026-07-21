@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l8027-l8065
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter XXV II P. / I06 BUNDAHW. / CHAPTER XXVIII, 3-I5. IO7 / CHAPTER XXVIII,
+    36-44. I I 3; lines 8027-8065
+  start: '8027'
+  end: '8065'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In Khvaniras, many places have a passage constructed by the power of the
+    spiritual world during an evil time of struggle with the adversary; these places
+    are called the beaten tracks of Khvaniras. The passage lists several counterpart
+    places, including a river, Yim's enclosure, and Kashmir, and states that an immortal
+    chief governs each.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The region of Khvaniras contains many places.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In an evil time of violent struggle with the adversary, a passage is constructed
+    by the power of the spiritual world.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The places are called the beaten tracks of Khvaniras.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: 'The passage names counterpart places: Kangde^, the land of S^?ukavastan,
+    the plain of the Arabs, the plain of Pe^yansai, the river Naivtak Airan-ve^, the
+    enclosure formed by Yim, and Kashmir in India.'
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One immortal chief acts in the government of each such place or region.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the adversary
+  description: The opposed force with whom there is violent struggling in the evil
+    time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Yim
+  description: Named as the figure by whom an enclosure, or var, is formed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: immortal chief
+  description: An immortal chief who acts in the government of each listed place or
+    region.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: adversarial opponent
+  assigned_to:
+  - fig:1
+  basis: The passage describes an evil time of violent struggling with the adversary.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: former of enclosure
+  assigned_to:
+  - fig:2
+  basis: The list includes the enclosure, or var, formed by Yim.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: immortal regional governor
+  assigned_to:
+  - fig:3
+  basis: The passage states that one immortal chief acts in the government of each.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: passage or beaten tracks of Khvaniras
+  literal_form: A passage constructed by spiritual power; the places are called beaten
+    tracks of Khvaniras.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Khvaniras
+  literal_form: A region containing many places where the passage is constructed.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: river Naivtak Airan-ve^
+  literal_form: A named river among the counterpart places.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Yim's enclosure
+  literal_form: The enclosure, or var, formed by Yim.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Spiritual construction of passages in Khvaniras
+  summary: During an evil time of struggle with the adversary, a passage in Khvaniras
+    is constructed by the power of the spiritual world, and the places are called
+    beaten tracks of Khvaniras.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Enumeration of counterpart places
+  summary: The passage lists places treated as counterparts of other regions, including
+    Kangde^, S^?ukavastan, two plains, a river, Yim's enclosure, and Kashmir in India.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Immortal governance
+  summary: The passage states that one immortal chief acts in the government of each
+    place or region; the supplied excerpt ends before further details.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: spiritually constructed path in a contested time
+  taxonomy_refs:
+  - duality
+  basis: A passage is constructed by the power of the spiritual world during an evil
+    time of violent struggle with the adversary.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not state the path's destination or ritual use; the taxonomy
+    link rests only on the opposition between spiritual power and the adversary.
+- id: motif:2
+  label: special counterpart territories
+  taxonomy_refs: []
+  basis: The text describes named places in Khvaniras as counterparts of other regions.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The specific nature of the counterpart relationship is not explained in
+    the excerpt.
+- id: motif:3
+  label: immortal chiefs governing regions
+  taxonomy_refs: []
+  basis: The passage states that one immortal chief acts in the government of each.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The sentence is cut off in the supplied passage, so the governed objects
+    and further attributes are not fully specified.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the listed places with 'those other regions'
+    by calling them counterparts.
+  claim_level: same_function
+  target: those other regions, unnamed in the supplied excerpt
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not identify the other regions in detail or state
+    which features make the places counterparts.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter XXVIII.3; lines 8027-8033
+  quote_or_summary: In Khvaniras, 'a passage ... is constructed by the power of the
+    spiritual world,' and the places are called 'the beaten tracks of Khvaniras.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: Chapter XXVIII.4; lines 8034-8041
+  quote_or_summary: 'The passage lists counterpart places: Kangde^, S^?ukavastan,
+    the plain of the Arabs, the plain of Pe^yansai, the river Naivtak Airan-ve^, the
+    enclosure formed by Yim, and Kashmir in India.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: Chapter XXVIII.5; lines 8041-8042
+  quote_or_summary: "'one immortal chief acts in the government of each'"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by OCR-like name forms, translator footnote interruptions,
+    and the supplied excerpt ending mid-sentence after the statement about immortal
+    chiefs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; candidate motifs are descriptive except for the cautious duality taxonomy reference.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l8027-l8065
+  passage_sha256=20aabd162432a8471888fafdf15a2bfd8153423ee4df4270dd02b0af8451fc38
+

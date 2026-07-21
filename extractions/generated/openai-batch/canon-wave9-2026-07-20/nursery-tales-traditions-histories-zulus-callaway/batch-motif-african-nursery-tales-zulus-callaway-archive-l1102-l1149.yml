@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l1102-l1149
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UIILAKANYANA. / UHLAKANYANA. / UHLAKANYANA. / IZINGAXEKWANE.; lines 1102-1149
+  start: '1102'
+  end: '1149'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In this excerpt, Uthlakanyana diverts meat to his own house, leaves bloody
+    objects as apparent evidence that the meat was properly hung up, and answers villagers
+    by pointing to those objects. His mother praises him as a man born that day. The
+    women of the kraal express doubt that such a newborn is a real man, and an editorial
+    footnote links this doubt to testing whether he is a real man or a fairy substitute.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: He asks for meat on the pretext of putting it in another person's house, smears
+    the feeding-mat and stick, and takes the meat to his own house.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: He gives the meat to his mother, and she thanks him and says she has given
+    birth to a man that day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: No one in the company finds his meat; the whole of it is in the house of the
+    boy born on the day his father's oxen were slaughtered.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the village people ask about the missing meat, he tells them to look
+    at the stick and feeding-mat as proof that he placed and hung the meat there.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people see that the feeding-mat and stick are bloody and ask whether the
+    meat has been taken down.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: He gives the same answer to all questioners and persists in making the feeding-mat
+    a witness to the people of his father's village.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The women of the kraal question what has been born that day, say they have
+    never seen the like, identify the being as Uthlakanyana, and ask whether he is
+    a man.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: The editorial footnote says the women lacked a method attributed to Ellen
+    Leah for testing whether Uthlakanyana was a real man or a fairy substitute.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana / the boy
+  description: A boy identified by the women as Uthlakanyana; he is said to have been
+    born on the day his father's oxen were slaughtered, takes meat to his own house,
+    and answers the villagers' inquiries.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: Mother of the boy
+  description: Receives meat from the boy, thanks him, and says she has given birth
+    to a man that day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: People of the village / whole company
+  description: The people whose meat is missing; they inquire of the boy and see the
+    bloody feeding-mat and stick.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Women of the kraal
+  description: They express doubt about Uthlakanyana being a real man and question
+    the kind of being born that day.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: deceptive meat-taker
+  assigned_to:
+  - fig:1
+  basis: He takes meat to his own house while leaving smeared objects and later cites
+    them as proof.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: recipient mother
+  assigned_to:
+  - fig:2
+  basis: She receives the meat and praises the boy as a man born that day.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: defrauded inquirers
+  assigned_to:
+  - fig:3
+  basis: They do not find their meat and ask the boy about it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: skeptical witnesses
+  assigned_to:
+  - fig:4
+  basis: They voice doubt about whether the newborn is a real man.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: contested newborn man
+  assigned_to:
+  - fig:1
+  basis: The boy is described as born that day, praised as a man, and questioned by
+    women as to whether he is a man.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: stolen meat
+  literal_form: Meat taken from others and gathered in the boy's house
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: bloody feeding-mat and stick
+  literal_form: Feeding-mat and stick smeared with blood and used as apparent evidence
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Meat redirected to the boy's house
+  summary: The boy handles meat for others, smears the feeding-mat and stick, and
+    brings the meat to his own house, where his mother receives it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Village inquiry and false proof
+  summary: After the meat is missing, the villagers question the boy; he points to
+    the bloody feeding-mat and stick as evidence that the meat had been hung there,
+    and he repeats this answer to all.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Women question the newborn's status
+  summary: The women of the kraal say they have never seen such a birth, identify
+    the being as Uthlakanyana, and question whether he is a man.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceptive theft with staged false evidence
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The boy takes all the meat to his own house and uses the bloody feeding-mat
+    and stick as a misleading witness when questioned.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy label is broad; the passage shows deception but
+    does not itself name a formal trickster category.
+- id: motif:2
+  label: precocious or uncanny newborn treated as a man
+  taxonomy_refs:
+  - miraculous_child
+  basis: The boy is connected with a birth that day, is praised by his mother as a
+    man, and is questioned by the women as an unprecedented being.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports uncanny precocity and contested status, but it does
+    not give a full birth narrative or explicitly describe a miracle.
+- id: motif:3
+  label: doubt whether an uncanny child is human
+  taxonomy_refs: []
+  basis: The women explicitly doubt that Uthlakanyana is a real man, and the footnote
+    frames the issue as testing whether he is a real man or a fairy substitute.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: Part of the support comes from an editorial footnote rather than the tale's
+    narrative action, and the excerpt ends mid-footnote.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note cautiously frames the women's doubt about Uthlakanyana's
+    status as functionally comparable to a test for whether a child-like figure is
+    a real person or a fairy substitute.
+  claim_level: same_function
+  target: Ellen Leah's method for testing whether Uthlakanyana is a real man or a
+    "fairy substitute" as mentioned in the footnote
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: This is an editor's fragmentary comparison, not an internal narrative
+    comparison; the excerpt does not provide the full Ellen Leah context or details
+    of the test.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1104-1114
+  quote_or_summary: He smears the feeding-mat and stick, takes the meat to his own
+    house, and says, "Mother, take it."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; quotation allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1115-1120
+  quote_or_summary: No one in the company finds his meat; all of it is in the house
+    of the boy born when his father's oxen were slaughtered.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 1121-1135
+  quote_or_summary: He points to the stick and feeding-mat; the people see both are
+    bloody, and he makes the feeding-mat a witness.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; quotation/summary allowed.
+- id: ev:4
+  type: citation
+  locator: lines 1137-1138
+  quote_or_summary: 'Section heading: the women express great doubt as to Uthlakanyana
+    being a real man.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; citation derived from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 1140-1146
+  quote_or_summary: The women ask what has been born that day, say they never saw
+    the like, and ask whether he is a man.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; quotation/summary allowed.
+- id: ev:6
+  type: quote
+  locator: lines 1147-1149
+  quote_or_summary: Footnote mentions testing whether Uthlakanyana is "a real man
+    or a 'fairy substitute.'"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; quotation allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The actions and speeches in the excerpt are clear, but the line range begins
+    mid-episode and ends mid-footnote. Motif labels are candidate classifications
+    only.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Observations are limited to the supplied passage. The printed/OCR spelling varies in the excerpt; the normalized form Uthlakanyana follows the passage heading and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l1102-l1149
+  passage_sha256=9c485ff0a57ec2408e61aafc064b11d11341bb29f6b361c9a4f6050a0709485c
+

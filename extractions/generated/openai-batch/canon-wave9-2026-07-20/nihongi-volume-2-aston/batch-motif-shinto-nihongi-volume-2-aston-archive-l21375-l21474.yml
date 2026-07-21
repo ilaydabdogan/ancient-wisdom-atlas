@@ -1,0 +1,456 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l21375-l21474
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: X XIX. 49. / A.D. 685. / KIX. 58. / A.D, 6866; lines 21375-21474
+  start: '21375'
+  end: '21474'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records grants and vows at temples during the Emperor's illness,
+    the Emperor's death, lamentation, temporary burial and mourning, a conspiracy
+    by Imperial Prince Ohotsu against the Prince Imperial, and several days of tomb
+    offerings, eulogies, clerical lamentation, provincial and foreign representation,
+    and performances of singing and dancing.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fief of 200 houses was granted to the Temple of Kose.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Princes of the Blood through Ministers assembled at the Temple of Kahara and
+    made vows for the Emperor's illness.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Emperor's illness did not abate, and he died in the principal Palace.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Lamentation began, a temporary burial Palace was erected in the South Court,
+    and the Emperor was temporarily interred there with mourning begun.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Imperial Prince Ohotsu conspired against the Prince Imperial at this time.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Priests and nuns repeatedly made lament in the Court of Temporary Interment.
+  category: action
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: obs:7
+  text: Offerings were made at the tomb for the first time, and eulogies were pronounced.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Named princes, officials, guards, palace women officials, stewards, judicial
+    officers, administrative officials, treasury and war officials, punishment and
+    interior departments, provincial governors, Hayato, and miyakko pronounced eulogies
+    for different groups or offices.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: A Pékché prince pronounced a eulogy on behalf of his father, provincial miyakko
+    pronounced eulogies, and singing and dancing were performed.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the Emperor
+  description: The ill sovereign who died in the principal Palace and was temporarily
+    interred in the South Court.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Princes of the Blood and Ministers
+  description: Court elites who assembled in the Temple of Kahara and put up vows
+    for the Emperor's illness.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: priests and nuns
+  description: Religious personnel who repeatedly made lament in the Court of Temporary
+    Interment.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: Imperial Prince Ohotsu
+  description: An imperial prince who conspired against the Prince Imperial.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: the Prince Imperial
+  description: The person against whom Imperial Prince Ohotsu conspired.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: eulogy speakers of the court and provinces
+  description: Named princes, officials, guards, palace officers, provincial leaders,
+    Hayato, miyakko, and other representatives who pronounced eulogies.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Pékché prince Nyang-u and Prince Chon-kwang
+  description: Nyang-u pronounced a eulogy on behalf of his father, Prince Chon-kwang.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: deceased sovereign
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Emperor died and was temporarily interred.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: intercessory court assembly
+  assigned_to:
+  - fig:2
+  basis: Princes and Ministers assembled at a temple and made vows for the Emperor's
+    illness.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual mourners
+  assigned_to:
+  - fig:3
+  basis: Priests and nuns repeatedly made lament in the temporary interment court.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  - ev:9
+- id: role:4
+  label: conspirator
+  assigned_to:
+  - fig:4
+  basis: Imperial Prince Ohotsu is explicitly said to have conspired against the Prince
+    Imperial.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: target of succession conspiracy
+  assigned_to:
+  - fig:5
+  basis: The Prince Imperial is the person against whom Ohotsu conspired.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: funeral eulogists
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Multiple named representatives pronounced eulogies during the mourning rites.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+symbols:
+- id: sym:1
+  label: temple grant
+  literal_form: fief of 200 houses granted to the Temple of Kose
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: temple vows for illness
+  literal_form: assembly at the Temple of Kahara putting up vows for the Emperor's
+    illness
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: temporary burial palace
+  literal_form: temporary burial Palace erected in the South Court
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: tomb offerings
+  literal_form: offerings made at the tomb
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: funeral eulogies
+  literal_form: eulogies pronounced by court, provincial, Hayato, miyakko, and Pékché
+    representatives
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: singing and dancing
+  literal_form: performances of all manner of singing and dancing
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Temple patronage and vows during illness
+  summary: A fief is granted to the Temple of Kose, and later court elites assemble
+    at the Temple of Kahara to make vows for the Emperor's illness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Death and temporary interment of the Emperor
+  summary: The Emperor dies in the principal Palace; lamentation begins, a temporary
+    burial Palace is erected, and he is temporarily interred in the South Court as
+    mourning begins.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Conspiracy against the Prince Imperial
+  summary: Imperial Prince Ohotsu conspires against the Prince Imperial at the time
+    of the Emperor's death and mourning.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Tomb offerings, lamentation, and eulogies
+  summary: Priests and nuns lament; offerings are made at the tomb; court, provincial,
+    Hayato, miyakko, and Pékché representatives pronounce eulogies, followed by singing
+    and dancing.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: ritual vows and temple patronage during a ruler's illness
+  taxonomy_refs: []
+  basis: The passage links court vows at a temple to the Emperor's illness and also
+    records a fief granted to a temple shortly before the death notice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly state that the fief was granted as a healing
+    exchange or for the same illness episode.
+- id: motif:2
+  label: royal death followed by temporary interment and organized mourning
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Emperor's death is followed by formal lament, erection of a temporary
+    burial Palace, temporary interment, mourning, and ordered eulogies by ranked offices
+    and representatives.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage documents court ritual order; any broader claim about legitimating
+    ideology is inferential.
+- id: motif:3
+  label: offerings to the dead ruler at the tomb
+  taxonomy_refs: []
+  basis: Offerings are made at the tomb for the first time during the temporary interment
+    rites.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage does not specify the nature of the offerings.
+- id: motif:4
+  label: succession conspiracy at a sovereign's death
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Imperial Prince Ohotsu is said to have conspired against the Prince Imperial
+    during the period following the Emperor's death.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives no details of the conspiracy beyond its parties.
+- id: motif:5
+  label: collective lamentation and eulogy by religious, court, provincial, and foreign
+    representatives
+  taxonomy_refs: []
+  basis: Priests and nuns repeatedly lament, while many ranked officials, provincial
+    leaders, and a Pékché prince deliver eulogies; singing and dancing are also performed.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The passage lists participants and acts but gives little explanation of
+    their ritual meanings.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21386-21388
+  quote_or_summary: '"A fief of 200 houses was granted to the Temple of Kose."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 21390-21393
+  quote_or_summary: '"All, from the Princes of the Blood down to the Ministers, assembled
+    in the Temple of Kahara, and put up vows for the Emperor’s illness"'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 21395-21396
+  quote_or_summary: '"The Emperor’s disease having shown no sign of abatement, he
+    died in the principal Palace."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 21398-21403
+  quote_or_summary: Lament began; a temporary burial Palace was erected in the South
+    Court; the Emperor was temporarily interred there and mourning began.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 21405-21406
+  quote_or_summary: '"At this time the Imperial Prince Ohotsu conspired against the
+    Prince Imperial."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 21408-21413
+  quote_or_summary: At dawn on the 27th day, priests and nuns lamented in the Court
+    of Temporary Interment; offerings were first made at the tomb and eulogies pronounced.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 21415-21429
+  quote_or_summary: On the 27th day, named princes and officials pronounced eulogies
+    for imperial princes, other princes, household officials, right and left Ohotoneri,
+    guards, palace lady officials, and palace stewards.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 21431-21444
+  quote_or_summary: On the 28th day, priests and nuns again lamented; officials pronounced
+    eulogies for the Council of State, judicial officers, administrative officials,
+    Treasury, and war officials.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 21446-21458
+  quote_or_summary: On the 29th day, priests and nuns again lamented; eulogies were
+    pronounced for the Board of Punishments, Department of the Interior, Governors
+    of Provinces, the Ohosumi no Ata no Hayato, and two Muma-kahi-be no Miyakko.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 21460-21474
+  quote_or_summary: On the 30th day, priests and nuns lamented; Pékché prince Nyang-u
+    spoke for Prince Chon-kwang; provincial miyakko pronounced eulogies; singing and
+    dancing were performed.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal event extraction is strong. Motif labels are conservative and based
+    only on documented actions. No comparison claims were added because the passage
+    itself does not make or clearly support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnote material at the beginning of the supplied passage was not used for motif extraction because it appears to annotate preceding content rather than the funerary sequence extracted here.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l21375-l21474
+  passage_sha256=a901dad343cb67a59f9c46675de68fc89fc8655dd71122999aa92a882c3b7fd2
+

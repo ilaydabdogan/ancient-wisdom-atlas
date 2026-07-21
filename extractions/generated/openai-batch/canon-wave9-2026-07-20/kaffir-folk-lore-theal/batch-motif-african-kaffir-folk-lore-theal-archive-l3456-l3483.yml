@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l3456-l3483
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: THE  STORY  OF  SIMBUKUMBUKWANA. / THE  STORY  OF  SIMBUKUMBUKWANA,      73
+    / THE  STORY  OF  SIMBUKUMBUKWANA.      75 / THE  STORY  OF  SIMBUKUMBUKWANA,       77;
+    lines 3456-3483
+  start: '3456'
+  end: '3483'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A male figure says his sister has beaten him, and she asks forgiveness.
+    He then speaks wishes for his father's house, fire, and cattle to be present;
+    each appears. He tells the addressed group to go into the house and fire prepared
+    for them, and they remain in the pleasant place ever after.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The male figure is described as dry, calls to his sister, says she has beaten
+    him, and the sister asks him to forgive her.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The male figure says that he wants his father's house to be there, and the
+    house immediately comes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The male figure says that he wants his father's fire to be there, and a fire
+    appears.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The male figure tells the addressed people to go in, saying that although
+    they have beaten him, there is a house and fire for them.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The male figure says that he wants his father's cattle to be there, and all
+    the cattle appear at once.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The place is described as nice, and the group remains there ever after.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: male speaker
+  description: The unnamed male figure who addresses his sister and speaks the wishes
+    that bring the house, fire, and cattle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: sister
+  description: The sister of the male speaker; she is addressed by him and asks him
+    to forgive her.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: addressed group
+  description: The people addressed as 'them' and 'you' when the male figure tells
+    them to go in and later when they remain in the place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: father
+  description: The father of the male speaker, referred to as the possessor of the
+    house, fire, and cattle that are summoned.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: speaker whose stated wishes are immediately fulfilled
+  assigned_to:
+  - fig:1
+  basis: He states wishes for his father's house, fire, and cattle, and each is reported
+    to appear.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: sister seeking forgiveness
+  assigned_to:
+  - fig:2
+  basis: After he says she has beaten him, she asks him to forgive her.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipients of house and fire
+  assigned_to:
+  - fig:3
+  basis: He tells them to go in and says there is a house and fire for them.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: referenced father and possessor
+  assigned_to:
+  - fig:4
+  basis: The house, fire, and cattle are repeatedly identified as belonging to the
+    speaker's father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: The fire of the speaker's father appears after he asks for it, and
+    he says there is fire for the addressed group.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: house
+  literal_form: The speaker's father's house appears immediately after he asks for
+    it, and he tells the addressed group to go in.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: cattle
+  literal_form: The speaker's father's cattle appear at once after he asks for them.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sister asks forgiveness
+  summary: The male figure is dry, calls to his sister, says she has beaten him, and
+    she asks forgiveness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: House and fire appear
+  summary: The male figure speaks wishes for his father's house and fire to be present;
+    they appear, and he invites the addressed people to enter because there is house
+    and fire for them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Cattle appear and the group remains
+  summary: The male figure asks for his father's cattle, which appear at once; the
+    place is described as nice, and the group remains there ever after.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: spoken wish brings immediate material appearance
+  taxonomy_refs: []
+  basis: Three spoken wishes for the father's house, fire, and cattle are followed
+    by the immediate appearance of those things.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy family precisely names a speech-wish summoning motif,
+    so no taxonomy reference is assigned.
+- id: motif:2
+  label: forgiveness after defeat accompanied by provision of shelter and fire
+  taxonomy_refs: []
+  basis: After the speaker says he has been beaten and the sister asks forgiveness,
+    he nevertheless provides a house and fire for the addressed people.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The supplied passage does not explain the prior conflict or identify all
+    people included in 'them' and 'you.'
+- id: motif:3
+  label: permanent settlement in a newly provisioned pleasant place
+  taxonomy_refs: []
+  basis: After the house, fire, and cattle appear, the place is called nice and the
+    group remains there ever after.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The broader tale context is not included, so the settlement's narrative
+    function remains uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3458-3460
+  quote_or_summary: The male figure is dry, calls to his sister, says she has beaten
+    him, and she asks forgiveness.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3462-3463
+  quote_or_summary: He says he wants his father's house to be there, and it immediately
+    comes.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3465-3466
+  quote_or_summary: He says he wants his father's fire to be there, and there is a
+    fire.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3468-3470
+  quote_or_summary: He tells the addressed people to go in and says that although
+    they have beaten him, there is a house and fire for them.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3472-3474
+  quote_or_summary: He says he wants his father's cattle to be there, and they are
+    all there at once.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3476-3477
+  quote_or_summary: The place is described as nice, and they remain there ever after.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are descriptive
+    rather than taxonomy-linked. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage begins mid-sequence, so antecedents for 'he' and 'them' are not fully recoverable from the provided text alone.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l3456-l3483
+  passage_sha256=67b8c0b5f0887556f231e8c89ec12679d85cc4c72bb4643e740efded24e2b34e
+

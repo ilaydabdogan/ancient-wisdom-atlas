@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.polynesian-tongan-myths-and-tales-gifford-archive-l1077-l1083
+source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+passage_locator:
+  label: Tongan Myths and Tales / CONTENTS / INTRODUCTION / COSMOGONY; lines 1077-1083
+  start: '1077'
+  end: '1083'
+  translation: Tongan Myths and Tales
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Twins go to their grandfather’s dwelling. He tells them to take bright
+    hooks and leave the dull old hook, but they steal the dull hook because it can
+    pull up land. When he notices, he tells them that the land they pull up will be
+    called Tonga/Tongatabu. The twins pull up Tongatabu and bring their parents down
+    from the sky to live there.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The twins travel to their grandfather’s abode.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man instructs the twins to take bright, shiny hooks and to leave him
+    the dull, old hook.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The twins steal the dull hook because they know it is the hook used for pulling
+    up land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old man discovers that the twins are leaving with his precious hook.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old man says that the land the twins pull up shall be called Tonga, identified
+    in the passage with Tongatabu.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The twins pull up Tongatabu and bring their parents down from the sky to reside
+    there.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the twins
+  description: A pair of twins who go to their grandfather, steal the dull hook, pull
+    up Tongatabu, and bring their parents down from the sky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: grandfather / old man
+  description: The twins’ grandfather, described as an old man, who owns the hooks,
+    instructs the twins, discovers the theft, and names the land Tonga/Tongatabu.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: the parents
+  description: The parents of the twins, who are brought down from the sky to reside
+    on Tongatabu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: twin land-pullers
+  assigned_to:
+  - fig:1
+  basis: The twins steal the hook known to pull up land, then pull up Tongatabu.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: owner of the land-pulling hook and namer of the land
+  assigned_to:
+  - fig:2
+  basis: The grandfather tells the twins which hook to leave, notices them leaving
+    with his precious hook, and declares the name of the land they pull up.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: sky-resident parents relocated to the new land
+  assigned_to:
+  - fig:3
+  basis: The parents are brought down from the sky to live on Tongatabu after it is
+    pulled up.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dull old hook
+  literal_form: the dull, old hook; also called the precious hook
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: bright shiny hooks
+  literal_form: one of the bright, shiny hooks
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Tongatabu / Tonga
+  literal_form: the land pulled up and named Tonga [Tongatabu]
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: sky
+  literal_form: the sky from which the parents are brought down
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Instruction at the grandfather’s abode
+  summary: The twins arrive at their grandfather’s abode, where he tells them to take
+    bright hooks and leave the dull old hook for him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Theft of the land-pulling hook and naming of the land
+  summary: The twins steal the dull hook because it can pull up land. When the grandfather
+    discovers this, he declares that the land they pull up will be called Tonga/Tongatabu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Tongatabu raised and parents brought down
+  summary: The twins pull up Tongatabu and bring their parents down from the sky to
+    live there.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Twins obtain a powerful object against an elder’s instruction
+  taxonomy_refs:
+  - sacred_twins
+  - sacred_theft
+  basis: The figures are twins, and they steal the dull hook despite being told to
+    leave it because they know it can pull up land.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage explicitly gives twins and theft; the object's sacred status
+    is not directly named, though it is called precious and has land-making power.
+- id: motif:2
+  label: Land pulled up by a hook
+  taxonomy_refs: []
+  basis: The dull hook is identified as the one for pulling up land, and the twins
+    use it to pull up Tongatabu.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: ''
+- id: motif:3
+  label: Elder names the newly raised land
+  taxonomy_refs: []
+  basis: The grandfather declares that the land the twins pull up will be called Tonga
+    [Tongatabu].
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: ''
+- id: motif:4
+  label: Parents brought down from the sky to inhabit the raised land
+  taxonomy_refs: []
+  basis: After pulling up Tongatabu, the twins bring their parents down from the sky
+    to reside there.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly describe the parents as divine.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1077-1079
+  quote_or_summary: The twins go to their grandfather’s abode, and the old man tells
+    them to take a bright, shiny hook but leave him the dull, old hook.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1079-1081
+  quote_or_summary: "“The twins, however, stole the dull hook, because they knew that
+    that was the one for pulling up land.”"
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1081-1083
+  quote_or_summary: The old man discovers the twins leaving with his precious hook
+    and calls out that the land they pull up shall be called Tonga [Tongatabu].
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 1083
+  quote_or_summary: "“So the twins pulled up Tongatabu and brought their parents down
+    from the sky to reside there.”"
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward from the passage. Motif-family labels
+    involving sacred theft and sacred twins are plausible but require review because
+    the passage does not explicitly use sacred terminology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:polynesian-tongan-myths-and-tales-gifford-archive__l1077-l1083
+  passage_sha256=22593b6875147ceaebc56d650006921c78288b7398d1ebeabfcfc8a306cdf8c7
+

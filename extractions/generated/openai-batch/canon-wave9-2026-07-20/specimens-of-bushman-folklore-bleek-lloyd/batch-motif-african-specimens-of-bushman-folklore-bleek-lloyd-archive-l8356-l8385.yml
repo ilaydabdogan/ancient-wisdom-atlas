@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l8356-l8385
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: NOSE. / CUTTING OFF THE TOP OF THE LITTLE / FINGER. / BUSHMAN PRESENTIMENTS.;
+    lines 8356-8385
+  start: '8356'
+  end: '8385'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: There is a kind of beating of the flesh, which tells them things.
+  summary: The passage gives editorial notes on a second account of cutting off the
+    top or joint of the little finger and on Bushman presentiments. It states that
+    the joint is cut off with a reed before children suck, with the stated belief
+    that this helps children live to grow up. Dr. Bleek's description says Bushmen
+    feel coming events in their bodies as a beating of the flesh; those who do not
+    understand or obey these bodily teachings may get into trouble, such as being
+    killed by a lion.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a second account of cutting off the top of the little
+    finger and as concerning Bushman presentiments.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note says the finger joint is cut off with a reed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cutting is said to be thought to make children live to grow up.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cutting is said to be done before the children suck at all.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Dr. Bleek describes Bushmen as feeling in their bodies that certain events
+    are going to happen.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A beating of the flesh is described as telling them things.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Those who do not understand and disobey these bodily teachings are said to
+    get into trouble, with being killed by a lion given as an example.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: children
+  description: Children whose finger joint is cut off before they suck, in a practice
+    thought to help them live to grow up.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Bushmen experiencing presentiments
+  description: People described as feeling in their bodies that certain events are
+    going to happen.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: those who do not understand the teachings
+  description: Persons described as stupid, not understanding and disobeying the teachings,
+    and therefore getting into trouble.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: lion
+  description: A lion is named as an example of a danger by which someone may be killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of protective finger-joint cutting
+  assigned_to:
+  - fig:1
+  basis: The passage says the joint is cut off before children suck and that this
+    is thought to make them live to grow up.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: experiencer of bodily presentiments
+  assigned_to:
+  - fig:2
+  basis: Dr. Bleek's description says they feel coming events in their bodies and
+    that the beating of flesh tells them things.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: non-understander and disobeyer of bodily teachings
+  assigned_to:
+  - fig:3
+  basis: The passage says such persons do not understand the teachings, disobey them,
+    and get into trouble.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: dangerous predator example
+  assigned_to:
+  - fig:4
+  basis: Being killed by a lion is given as an example of the trouble that may follow
+    disobedience.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: little-finger joint
+  literal_form: the top or joint of the little finger cut off
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: reed cutting instrument
+  literal_form: reed used to cut off the joint
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: beating of the flesh
+  literal_form: bodily beating of the flesh that tells things
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: lion danger
+  literal_form: lion named as an example of fatal trouble
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Finger-joint cutting before suckling
+  summary: The joint of a child's little finger is cut off with a reed before the
+    child suckles; the stated belief is that this helps children live to grow up.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Bodily presentiment and response
+  summary: Bushmen are described as feeling coming events in their bodies through
+    a beating of the flesh. Those who do not understand and disobey these teachings
+    get into trouble, such as death by a lion.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Protective infant finger-joint cutting
+  taxonomy_refs: []
+  basis: The passage says a child's finger joint is cut off with a reed before suckling
+    and that this is thought to make children live to grow up.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not state an officiant, recipient deity, offering logic,
+    or broader ritual context; classification as sacrifice or initiation would require
+    human review.
+- id: motif:2
+  label: Bodily presentiment as forewarning
+  taxonomy_refs: []
+  basis: Dr. Bleek's description states that Bushmen feel in their bodies that events
+    are going to happen and that a beating of the flesh tells them things.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives an editorial description rather than a full narrated
+    episode.
+- id: motif:3
+  label: Disobeyed bodily warning leads to danger
+  taxonomy_refs: []
+  basis: The passage says those who do not understand and disobey the teachings get
+    into trouble, with death by lion given as an example.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only an example of trouble is supplied; the sequence is summarized rather
+    than narrated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 8356-8368
+  quote_or_summary: Headings identify the passage as 'Cutting off the top of the little
+    finger,' 'Second Account,' and 'Bushman Presentiments,' given in February and
+    March 1873.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 8356-8385, note (10404')
+  quote_or_summary: A note explains that the joint is cut off with a reed, is thought
+    to make children live to grow up, and is done before they suck at all.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 8356-8385, Dr. Bleek description of no. 99
+  quote_or_summary: They feel in their bodies that certain events are going to happen.
+    There is a kind of beating of the flesh, which tells them things.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; brief excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 8356-8385, Dr. Bleek description of no. 99
+  quote_or_summary: Those who are stupid, do not understand these teachings; they
+    disobey them, and get into trouble, — such as being killed by a lion.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; brief excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on a short fragment containing editorial notes and
+    Dr. Bleek's summary rather than a complete narrative. No comparison claims were
+    made because the passage itself does not support a specific cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy references were left empty because the supplied motif families and symbol list do not contain a specific, directly supported category for finger-joint cutting or bodily presentiment.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l8356-l8385
+  passage_sha256=ae093d8516b09f30cfecad218851c84e6d0b4a59079222827100ee146b660746
+

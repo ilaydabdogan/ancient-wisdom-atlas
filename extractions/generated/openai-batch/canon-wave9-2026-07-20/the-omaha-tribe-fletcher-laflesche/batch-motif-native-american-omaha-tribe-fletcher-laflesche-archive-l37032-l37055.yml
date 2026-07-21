@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l37032-l37055
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: CEREMONIES  ON  THE  DEATH  OF  A  MEMBER / MAGIC  CEREMONY  FOR  PUNISHING  OFFENDERS
+    / SOCIETIES / THE    OMAHA   TRIBE; lines 37032-37055
+  start: '37032'
+  end: '37055'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: bundles containing down painted red, such as is seen on the heads of the
+    members of the Shell society
+  summary: The passage describes a large bag from a pack, a smaller bag contained
+    inside it, and little boxes and bundles inside the smaller bag. Some bundles contain
+    red-painted down, compared to down worn on the heads of Shell society members.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A large bag from a pack is identified as figure 114 and Peabody Museum number
+    48265.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The large bag contained a similar, slightly smaller bag identified as figure
+    115 and Peabody Museum number 48288.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The smaller bag contained various little boxes and bundles.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some bundles contained down painted red.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The red-painted down is described as like that seen on the heads of members
+    of the Shell society.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: members of the Shell society
+  description: A collective group whose heads are described as bearing down like the
+    red-painted down found in the bundles.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: wearers of red-painted down
+  assigned_to:
+  - fig:1
+  basis: The passage says down painted red is like that seen on the heads of members
+    of the Shell society.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: large storage bag
+  literal_form: largest bag found in the pack
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: nested smaller bag
+  literal_form: similar bag contained inside the largest bag
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: little boxes and bundles
+  literal_form: various little boxes and bundles inside the smaller bag
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: red-painted down
+  literal_form: down painted red contained in bundles and compared to down on Shell
+    society members' heads
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Contents of a ceremonial pack described
+  summary: A large bag is described as containing a smaller bag, which in turn contains
+    little boxes and bundles with red-painted down like that worn by Shell society
+    members.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: nested ritual containers
+  taxonomy_refs: []
+  basis: The passage describes a large bag containing a smaller bag, which contains
+    boxes and bundles.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes objects and containment but does not explicitly
+    explain ritual meaning in this excerpt.
+- id: motif:2
+  label: red down as society marker
+  taxonomy_refs: []
+  basis: Bundles contain red-painted down, and the text relates it to down seen on
+    the heads of Shell society members.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives an association with the Shell society but does not state
+    the full symbolic or ceremonial function here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 37032-37038
+  quote_or_summary: "“The largest bag ... found in the pack measures 11 by ... inches;
+    it contained a similar bag”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 37039-37048
+  quote_or_summary: The smaller bag is identified with dimensions and is said to contain
+    various little boxes and bundles.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source summarized.
+- id: ev:3
+  type: quote
+  locator: lines 37049-37055
+  quote_or_summary: "“bundles containing down painted red, such as is seen on the
+    heads of the members of the Shell society.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Object and relationship extraction is direct from the passage. Motif labels
+    are cautious descriptive candidates only; no taxonomy mapping or cross-cultural
+    comparison is asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference is directly supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l37032-l37055
+  passage_sha256=92bcdacc2ebe3b6b7fa8974cff942913a4f44a0cb5e8fcff8fbb50b6f68aa498
+

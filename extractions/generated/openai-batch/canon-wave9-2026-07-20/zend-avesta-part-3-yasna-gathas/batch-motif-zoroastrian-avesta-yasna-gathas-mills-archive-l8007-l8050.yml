@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l8007-l8050
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA XLVI. I3I / I32 THE GAT HAS. / YASNA XLVI. 13 / YASNA XLVI. 135; lines
+    8007-8050
+  start: '8007'
+  end: '8050'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Therefore I cry to Thee; behold it, Lord!”"
+  summary: The speaker addresses Mazda/Lord, laments inability to achieve his wish,
+    reduced flocks, and scant following, asks for helpful grace like that given by
+    a friend, requests instruction in the Good Mind’s wealth, and asks when the day’s
+    enlighteners will come to uphold Righteous Order in the world.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker asks how he can establish the Faith and conciliate the Lord’s
+    grace.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says he cannot attain his wish.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says his flocks are reduced and his following is scant.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker cries to the Lord and asks for helpful grace, comparing it to
+    what a friend gives a friend.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks Mazda to declare and teach him the wealth of the Good Mind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker asks when the day’s enlighteners will come to hold the Righteous
+    Order of the world upright.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Tyrants of the province are mentioned immediately before the speaker asks
+    about establishing the Faith.
+  category: object
+  evidence_refs:
+  - ev:1
+figures:
+- id: fig:1
+  name_or_label: the speaker
+  description: First-person speaker who addresses Mazda/Lord, laments poverty of flocks
+    and following, and asks for grace and teaching.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Mazda / Lord / Great Giver
+  description: The addressed divine figure from whom the speaker seeks grace, instruction,
+    and response.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: tyrants of the province
+  description: A group mentioned in connection with the speaker’s question about establishing
+    the Faith.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: the day’s enlighteners
+  description: A group whose arrival is expected or questioned, associated with upholding
+    the Righteous Order of the world.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: petitioning speaker
+  assigned_to:
+  - fig:1
+  basis: The speaker repeatedly asks Mazda/Lord for grace, teaching, and the coming
+    of the enlighteners.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: addressed divine giver and teacher
+  assigned_to:
+  - fig:2
+  basis: Mazda/Lord is addressed as the one who can behold the speaker’s need, give
+    helpful grace, and declare or teach the Good Mind’s wealth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: local tyrants
+  assigned_to:
+  - fig:3
+  basis: The passage names “tyrants of the province.”
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: upholders of righteous order
+  assigned_to:
+  - fig:4
+  basis: The day’s enlighteners are asked for as those who will hold the Righteous
+    Order of the world upright.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: reduced flocks
+  literal_form: the speaker’s flocks, reduced in number
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: scant following
+  literal_form: the speaker’s following, described as scant
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Good Mind’s wealth
+  literal_form: wealth belonging to or associated with the Good Mind, requested as
+    something to be declared and taught
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Righteous Order held upright
+  literal_form: the Righteous Order of the world held upright
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: day’s enlighteners
+  literal_form: figures called the day’s enlighteners
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Petition under hardship
+  summary: The speaker addresses Mazda/Lord, asks how to establish the Faith, explains
+    inability, reduced flocks, and scant following, and asks for divine grace and
+    teaching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Question about the coming enlighteners
+  summary: The speaker asks when the day’s enlighteners will come to uphold the Righteous
+    Order of the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: petition for divine wisdom and instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker asks Mazda/Lord to declare and teach the wealth of the Good Mind
+    in response to need.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage frames the request as prayer and instruction; the exact doctrinal
+    meaning of “Good Mind’s wealth” is not expanded in this excerpt.
+- id: motif:2
+  label: divine aid requested in hardship
+  taxonomy_refs: []
+  basis: The speaker laments reduced flocks, a scant following, and inability to attain
+    his wish, then cries to the Lord for helpful grace.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No explicit rescue or fulfilled aid occurs within the excerpt.
+- id: motif:3
+  label: upholding righteous cosmic order
+  taxonomy_refs: []
+  basis: The speaker asks when the day’s enlighteners will come to hold the Righteous
+    Order of the world upright.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The excerpt states an expected function but does not narrate the actual
+    arrival or action of the enlighteners.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8007-8011; stanza 1
+  quote_or_summary: "“tyrants of the province. How then shall I ... establish well
+    the Faith ... conciliate Thy ... grace, O Lord?”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 8013-8018; stanza 2
+  quote_or_summary: The speaker tells Mazda that he knows why he cannot attain his
+    wish, why his flocks are reduced, and why his following is scant.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 8018-8022; stanza 2
+  quote_or_summary: "“Therefore I cry to Thee; behold it, Lord!” The speaker desires
+    helpful grace “as friend bestows on friend” and asks to be taught “the Good Mind’s
+    wealth.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 8024-8028; stanza 3
+  quote_or_summary: The speaker asks when the “day’s enlighteners” will come to hold
+    the Righteous Order of the world upright and press forward.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short excerpt with translator insertions and footnotes.
+    Motif candidates are limited to directly stated prayer, instruction, hardship,
+    and righteous order language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Translator footnotes in the supplied range were not treated as narrative evidence for motifs; extraction focuses on the translated passage text.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l8007-l8050
+  passage_sha256=f1c6ef6ab16777d8c018ffbbcc13014c3098f8b477645cdef4209df389d89df9
+

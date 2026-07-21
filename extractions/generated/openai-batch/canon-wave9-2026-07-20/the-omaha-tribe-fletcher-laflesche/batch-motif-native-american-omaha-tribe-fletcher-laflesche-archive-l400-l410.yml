@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l400-l410
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: RESEARCH  WORK / ADMINISTRATIVE   EEPORT  9 / ADMINISTRATIVE    REPORT  11
+    / COLLECTIONS; lines 400-410
+  start: '400'
+  end: '410'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An administrative collections note states that fewer archeological and
+    ethnological specimens were collected because of reduced field work. It identifies
+    Hewett's Jemez plateau explorations as the most important accession, notes collections
+    by Mooney in Oklahoma and Hrdlic'ka in Florida, and says all collections were
+    transferred to the National Museum.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The year's archeological and ethnological collections were more limited than
+    in previous years.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The reduced collections are attributed to a reduced amount of field work.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The most important accession came from E. L. Hewett's explorations among ancient
+    ruins of the Jemez plateau.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Other noted collections were made by Mooney in Oklahoma and by Doctor Hrdlic'ka
+    in Florida.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: All collections were transferred to the National Museum according to established
+    custom.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mr. E. L. Hewett
+  description: Named as the explorer whose work among ancient ruins of the Jemez plateau
+    produced the most important accession.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mr. Mooney
+  description: Named as having made collections in Oklahoma.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Doctor Hrdlic'ka
+  description: Named as having made collections in Florida.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: National Museum
+  description: Institution to which all collections were transferred.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: explorer associated with accession
+  assigned_to:
+  - fig:1
+  basis: The passage calls the accession the product of Hewett's explorations among
+    ancient ruins of the Jemez plateau.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: collector
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that collections were made by Mooney in Oklahoma and by
+    Hrdlic'ka in Florida.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient institution
+  assigned_to:
+  - fig:4
+  basis: The passage states that all collections were transferred to the National
+    Museum.
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Administrative report on annual collections
+  summary: The report summarizes the limited annual collections, identifies principal
+    and secondary accessions, and records their transfer to the National Museum.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 400-404
+  quote_or_summary: Collections of archeological and ethnological specimens for the
+    year were more limited because less field work was undertaken.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 404-406
+  quote_or_summary: The most important accession is attributed to E. L. Hewett's explorations
+    among ancient ruins of the Jemez plateau.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 406-408
+  quote_or_summary: Other noted collections were made by Mooney in Oklahoma and by
+    Doctor Hrdlic'ka in Florida.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 409-410
+  quote_or_summary: All collections were transferred to the National Museum in accordance
+    with established custom.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is administrative and does not present mythological narrative,
+    ritual action, symbolic imagery, or comparative motif evidence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were extracted because the passage concerns museum collections administration rather than mythic or ritual content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l400-l410
+  passage_sha256=0dd2972d32fdd6dd25c9fe546ec4a90eef522c57935482c75e955d2b7d12671b
+

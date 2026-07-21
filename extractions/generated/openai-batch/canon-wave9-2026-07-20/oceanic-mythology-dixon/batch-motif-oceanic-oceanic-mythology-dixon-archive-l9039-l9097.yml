@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l9039-l9097
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: MYTHS OF ORIGINS AND THE DELUGE 175 / MYTHS OF ORIGINS AND THE DELUGE 179
+    / MYTHS OF ORIGINS AND THE DELUGE 181 / PLATE XVIII; lines 9039-9097
+  start: '9039'
+  end: '9097'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'Plate caption describes a Dyak bamboo drawing of mythological scenes in
+    the spirit-world. The image is arranged in bands: an upper row with soul-trees
+    and souls ready to be reborn, a central section with a boat ferrying souls of
+    the dead to a spirit-island, and a lowest band with serpents, fishes, and crocodiles.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the object as a Dyak drawing on bamboo representing
+    mythological scenes in the spirit-world.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The upper row contains soul-trees and souls ready to be reborn.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The central section includes a boat.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Souls of the dead are ferried across in the boat to a spirit-island.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The lowest band shows figures of serpents, fishes, and crocodiles.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The described image is organized into an upper row, a central section, and
+    a lowest band.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: souls ready to be reborn
+  description: Souls shown with the soul-trees in the upper row and described as ready
+    to be reborn.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: souls of the dead
+  description: Souls of the dead ferried in a boat across to the spirit-island.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: serpents
+  description: Serpents shown in the lowest band of the drawing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: fishes
+  description: Fishes shown in the lowest band of the drawing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: crocodiles
+  description: Crocodiles shown in the lowest band of the drawing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rebirth-ready souls
+  assigned_to:
+  - fig:1
+  basis: The upper row is described as containing souls ready to be reborn.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: dead souls being ferried
+  assigned_to:
+  - fig:2
+  basis: The central section includes a boat in which souls of the dead are ferried
+    to the spirit-island.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: lower-band depicted creatures
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The lowest band is described as showing serpents, fishes, and crocodiles.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: soul-trees
+  literal_form: trees associated with souls ready to be reborn
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: ferry boat
+  literal_form: boat carrying souls of the dead across to the spirit-island
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spirit-island
+  literal_form: island destination to which souls of the dead are ferried
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: serpents
+  literal_form: serpents in the lowest band
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: fishes
+  literal_form: fishes in the lowest band
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: crocodiles
+  literal_form: crocodiles in the lowest band
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: upper row with soul-trees
+  summary: The upper row of the drawing shows soul-trees with souls ready to be reborn.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: central ferry to spirit-island
+  summary: The central section includes a boat in which souls of the dead are ferried
+    across to the spirit-island.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: lowest band of creatures
+  summary: The lowest band shows serpents, fishes, and crocodiles.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: afterlife ferry journey to a spirit-island
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The caption describes souls of the dead being ferried by boat across to a
+    spirit-island within spirit-world scenes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is a plate caption and gives only a brief visual description,
+    with no fuller narrative context.
+- id: motif:2
+  label: souls awaiting rebirth at soul-trees
+  taxonomy_refs:
+  - death_rebirth
+  basis: The upper row shows soul-trees with souls described as ready to be reborn.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The mechanism or story of rebirth is not described beyond the caption.
+- id: motif:3
+  label: serpents in a spirit-world lower band
+  taxonomy_refs:
+  - serpent
+  basis: The lowest band of the spirit-world drawing includes serpents among other
+    creatures.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: low
+  cautions: The passage only notes the presence of serpent figures and does not state
+    their function or narrative role.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9039-9042
+  quote_or_summary: Dyak drawing on bamboo representing mythological scenes in the
+    spirit-world.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 9042-9044
+  quote_or_summary: The upper row shows soul-trees with souls ready to be reborn.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 9044-9047
+  quote_or_summary: The central section includes a boat in which souls of the dead
+    are ferried across to the spirit-island.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 9047-9048
+  quote_or_summary: The lowest band shows figures of serpents, fishes, and crocodiles.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction relies on a concise plate caption. Several lines after the caption
+    appear to be OCR or image-artifact text and were not treated as mythological content.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No comparison claims were added because the caption does not itself make an explicit comparative claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l9039-l9097
+  passage_sha256=6ae2833f8ac955c66e9491301070e80ac705bbda00da1067e6c5f3b0f3f79f22
+

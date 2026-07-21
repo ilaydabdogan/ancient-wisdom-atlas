@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l20304-l20390
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: KEY TO THE RIDDLES. / IZIKGANEKWANE. / KEY TO THE RIDDLES. / KEY TO THE RIDDLES.;
+    lines 20304-20390
+  start: '20304'
+  end: '20390'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: This, then, is the laughing of fire.
+  summary: The excerpt gives a key to several riddles. A supernumerary finger is described
+    as disrupting pairing and counting. Fire is concealed under the word “man” and
+    explained as laughing while its sparks and flames cause losses and mourning. “Iso”
+    is glossed as the eye. A stone is explained as “paying a debt” through useful
+    work such as stopping a gateway or grinding.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A supernumerary finger is said to make the fingers unsuitable for pairing
+    or counting, producing difference rather than settled agreement.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The answer “Fire” is described as being called “a man” so that the riddle’s
+    meaning is not immediately evident.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fire’s sparks may burn clothing, and a large fire may burn a pot and the food
+    being cooked.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If a spark enters the thatch, flames may burn the house and the things inside
+    it.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The fire’s destruction is described as affecting goats, calves, children,
+    adults, trees, grass, and cattle, with repeated crying by people, animals, and
+    trees.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The phrase “the laughing of fire” is explained through a contrast between
+    fire and those who cry because of its effects.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:7
+  text: "“Iso” is glossed as “The eye.”"
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A stone is described as useful for stopping up the gateway of an enclosed
+    place or for grinding; this work explains the expressions “paying a debt” and
+    “it is eaten.”
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note states that the eye riddle resembles the fable of “The Belly and the
+    Members” and is as much a fable as a riddle.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fire, called a man
+  description: Fire is the riddle answer concealed under the word “man”; it is described
+    as laughing while causing damage and loss.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: People affected by the fire
+  description: Owners of clothing, men, husband, wife, children, father, and mother
+    are described as crying, responding to the fire, or being burned.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Domestic animals affected by the fire
+  description: Goats and calves are burned; cows or cattle cry for calves or for lost
+    grass and famine follows.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Trees affected by the fire
+  description: Trees are personified as crying for their lost beauty after being destroyed,
+    shrivelled, and withered by fire.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: concealed riddle answer
+  assigned_to:
+  - fig:1
+  basis: Fire is called “a man” so that the riddle answer is not immediately evident.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: laughing destructive agent
+  assigned_to:
+  - fig:1
+  basis: Fire burns clothing, food, a house, and living beings; the explanation calls
+    this “the laughing of fire.”
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mourning victims of fire
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: People, animals, and trees are described as crying because of deaths, losses,
+    hunger, or lost beauty caused by fire.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: supernumerary finger
+  literal_form: an extra finger that disrupts pairing and counting
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: kindled fire, sparks, flame, and burning house fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: eye
+  literal_form: the eye, glossed as the answer to “Iso”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: stone
+  literal_form: a stone used to stop a gateway or to grind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: trees
+  literal_form: trees destroyed, shrivelled, and withered by fire
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: extra finger disrupts order
+  summary: The passage explains that a supernumerary finger spoils pairing and counting
+    and is imagined as something that would be dismissed if it could be removed without
+    pain.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: fire hidden under the word man
+  summary: The key explains that Fire is called a man in the riddle so that listeners
+    must search for the meaning rather than recognize it at once.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: the laughing of fire
+  summary: Fire damages clothing and food, then may spread to thatch and burn a house,
+    people, animals, trees, and grass; the sufferers cry, and this contrast is called
+    fire’s laughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: eye riddle and editorial comparison
+  summary: The key gives “Iso” as “The eye,” and a note compares this riddle to “The
+    Belly and the Members.”
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: scene:5
+  label: stone pays its debt by work
+  summary: 'The stone is explained as paying a debt because it performs work no other
+    object can do in this context: stopping a gateway or grinding.'
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: riddle concealment through a misleading human label
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly says Fire is called a “man” to conceal the riddle’s
+    answer and make hearers search for the meaning.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt is a key to riddles rather than the full performance context.
+- id: motif:2
+  label: personified laughing fire causing communal lament
+  taxonomy_refs: []
+  basis: Fire is treated as a laughing agent while people, animals, and trees cry
+    over injuries, deaths, lost property, lost beauty, and famine caused by burning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The destruction is local and domestic/ecological in scale; the passage
+    does not present a cosmic or world-ending fire.
+- id: motif:3
+  label: supernumerary body part as disorder in counting and pairing
+  taxonomy_refs: []
+  basis: The extra finger is described as making pairing and counting bad and as something
+    out of place.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The beginning of this explanation is fragmentary in the supplied excerpt,
+    so the full riddle frame is missing.
+- id: motif:4
+  label: body-part riddle compared with members-of-the-body fable
+  taxonomy_refs:
+  - wisdom
+  basis: The key glosses “Iso” as “The eye,” and the note states that this riddle
+    resembles “The Belly and the Members” and is both fable and riddle.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: low
+  cautions: The full eye riddle is not included in the passage, so the nature of the
+    resemblance cannot be checked from this excerpt alone.
+- id: motif:5
+  label: useful object repays debt through its function
+  taxonomy_refs: []
+  basis: The stone’s “paying a debt” is explained by its unique work in stopping a
+    gateway or grinding.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a riddle-key explanation; the absent riddle wording may affect
+    the interpretation.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s note asserts that the eye riddle bears a resemblance to the
+    fable of “The Belly and the Members.”
+  claim_level: same_motif
+  target: "“The Belly and the Members” fable"
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs:
+  - ev:4
+  confidence: low
+  limitations: The excerpt only gives the answer “the eye” and the note’s comparison;
+    it does not include the full riddle text needed to evaluate the resemblance independently.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20304-20315
+  quote_or_summary: A supernumerary finger is said to spoil pairing and counting;
+    if it could be removed without pain, it would be told it is not fit for the place.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20316-20330
+  quote_or_summary: Fire is called a “man” to conceal the answer of the riddle; the
+    explanation describes sparks burning clothing and fire burning pots or food.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20331-20371
+  quote_or_summary: A spark in thatch can burn a house and its contents; goats, calves,
+    children, parents, trees, grass, and cattle are affected, and many cry. The explanation
+    concludes that this is the laughing of fire.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 20372-20374
+  quote_or_summary: "“Iso. | The eye.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20376-20388
+  quote_or_summary: A stone is explained as “paying a debt” because it can stop a
+    gateway of an enclosed place or be used for grinding; the stone has work that
+    can be done by it alone.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 20389-20390, note 27
+  quote_or_summary: "“This riddle bears a curious resemblance to our fable of ‘The
+    Belly and the Members.’ It is as much a fable as a riddle.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is fairly secure, but the passage is a key to riddles
+    and lacks the full riddle texts for several items. Motif labels are therefore
+    cautious, especially for the eye comparison and the fragmentary supernumerary-finger
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to explicitly available refs supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l20304-l20390
+  passage_sha256=13bbde04cbefc9c4a79d3c5fdbd5999763c0440d7204d8654332d65fd94906b5
+

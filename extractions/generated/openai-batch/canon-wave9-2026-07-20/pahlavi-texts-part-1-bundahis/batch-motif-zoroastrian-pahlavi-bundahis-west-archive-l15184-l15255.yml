@@ -1,0 +1,279 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15184-l15255
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER III, 15-22. 281 / CHAPTER III, 23-32. 283 / CHAPTER III, 33-IV, I.
+    285 / Chapter IV.; lines 15184-15255
+  start: '15184'
+  end: '15255'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for the sacred thread-girdle, including proper
+    and improper materials, minimum looseness or width, cutting off excess length,
+    and the requirement not to retie it without recommencing the prayer formula. It
+    also gives rules for materials suitable or unsuitable for girdling and shirting,
+    and notes the sacred shirt’s width and form.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A sacred thread-girdle is described as improper if made of silk, while hair
+    of hairy goat and hairy camel is proper, and hair from other hairy creatures is
+    proper among the lowly.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The least fullness necessary for the girdle is given as exactly three fingerbreadths,
+    and excess may be cut off when the required measure is met.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A person who has retained the prayer inwardly and tied the girdle should not
+    tie it anew without restarting the prayer formula; doing so makes the tying improper.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Thick silk brocade and figured silk are said not to be good for girdling.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Materials listed as proper for shirting include hide with hair stripped from
+    it, wool, hair, cotton, dyed silk, and wood or possibly bark/hemp/flax according
+    to the note.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The sacred shirt is described in a note as a loose white muslin tunic worn
+    by Parsis of both sexes, except young children, in India.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note compares the securing of sacred twigs with the way the sacred thread-girdle
+    is secured around the waist of a Parsi man or woman.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: person tying the sacred thread-girdle
+  description: An unspecified person who retains the prayer inwardly and ties the
+    girdle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Parsi man or woman
+  description: A Parsi man or woman is mentioned in a note as wearing the sacred thread-girdle
+    around the waist and, in another note, the sacred shirt in India.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: ritual garment wearer
+  assigned_to:
+  - fig:1
+  basis: The figure ties the girdle while retaining the prayer inwardly.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: wearer of sacred girdle and shirt
+  assigned_to:
+  - fig:2
+  basis: The notes describe a Parsi man or woman wearing the sacred thread-girdle
+    and Parsis of both sexes wearing the sacred shirt.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: sacred thread-girdle
+  literal_form: kustik, a sacred thread-girdle worn around the waist
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: sacred shirt
+  literal_form: loose tunic or shirt associated with prescribed materials and width
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: prayer formula during girdling
+  literal_form: inwardly retained prayer or muttered prayer associated with tying
+    the girdle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: ritual material prescriptions
+  literal_form: permitted and prohibited garment materials such as silk, goat hair,
+    camel hair, wool, cotton, hide, and dyed silk
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rules for preparing and tying the sacred thread-girdle
+  summary: The passage states which materials are proper or improper for the sacred
+    thread-girdle, gives its minimum required fullness, and describes a rule about
+    prayer when tying or retying it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rules for girdling and shirting materials
+  summary: The passage distinguishes unsuitable silk fabrics for girdling from materials
+    considered proper for shirting and gives a width measure for the shirt.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Notes on Parsi ritual garments
+  summary: Translator notes identify the sacred girdle as worn around the waist of
+    Parsi men and women and the sacred shirt as a loose white tunic worn by Parsis
+    of both sexes in India.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sacred garment regulation
+  taxonomy_refs: []
+  basis: The passage centers on prescriptive rules for the sacred thread-girdle and
+    sacred shirt, including materials, measurements, and proper ritual handling.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This motif label is descriptive and is not one of the supplied taxonomy
+    motif families.
+- id: motif:2
+  label: prayer-bound dressing rite
+  taxonomy_refs: []
+  basis: The passage links the act of tying the sacred girdle with an inwardly retained
+    prayer and states that improper retying occurs if the prayer formula is not recommenced.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a ritual rule rather than a narrative episode; the broader
+    rite is only partially represented.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter IV, 1; lines 15184-15255
+  quote_or_summary: The sacred thread-girdle is improper if made of silk; goat and
+    camel hair are proper, and hair from other hairy creatures is proper among the
+    lowly.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: Chapter IV, 2; lines 15184-15255
+  quote_or_summary: The minimum fullness for the girdle is exactly three fingerbreadths;
+    when this is achieved, the rest may be cut off.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Chapter IV, 3 and note; lines 15184-15255
+  quote_or_summary: A person who has begun or retained the prayer while tying the
+    girdle should not tie it again without recommencing the prayer formula; such retying
+    is improper.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Chapter IV, 4; lines 15184-15255
+  quote_or_summary: Thick silk brocade and figured silk are not good for girdling.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter IV, 4-5 and note; lines 15184-15255
+  quote_or_summary: Hide with hair stripped, wool, hair, cotton, dyed silk, and wood
+    are proper for shirting; a note suggests the last material may mean bark, hemp,
+    or flax. Four fingerbreadths is given as the shirt-width measure.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter IV, 5 note; lines 15184-15255
+  quote_or_summary: The sacred shirt is described as a loose white muslin tunic with
+    short sleeves, worn by Parsis of both sexes in India, except young children.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: Preceding note within supplied passage; lines 15184-15255
+  quote_or_summary: A note says sacred twigs are secured with right- and left-handed
+    knots in a manner compared to how the sacred thread-girdle is secured around the
+    waist of a Parsi man or woman.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based only on the supplied text. Confidence is medium because
+    the passage includes editorial notes and a line-break discontinuity from the preceding
+    section, and the content is ritual prescription rather than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol ref was assigned because the supplied taxonomy does not include a direct sacred-garment or ritual-dress category, and the passage itself does not support a comparative claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15184-l15255
+  passage_sha256=71193481aa6725284dabe76db6a0b426b75d24980bdcb55273705fc66e12a865
+

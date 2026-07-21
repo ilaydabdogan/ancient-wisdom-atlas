@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l9254-l9358
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: CANNIBALISM. / CANNIBALISM. / U GUN GQTJ-KUBANTWANA. / UGUNGQU-KUBANTWAXA.;
+    lines 9254-9358
+  start: '9254'
+  end: '9358'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An old woman, hungry during the digging season, repeatedly enters her son-in-law's
+    house and eats the household amasi. The son-in-law discovers the theft and sends
+    her to fetch water from a place where no frog cries. She travels from pool to
+    pool, pouring out water whenever a frog answers. At a large pool with paths and
+    shady trees, no frog first answers; she fills the vessel, drinks excessively because
+    the water is delicious, and becomes unable to depart as the passage breaks off.
+  language: English with Zulu title/fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman is hungry during the digging season and repeatedly returns at noon
+    to open her son-in-law's house and eat the amasi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The husband expects the calabash to be full, but finds it empty except for
+    whey.
+  category: object
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:3
+  text: The household, including children, cries from hunger, while the mother-in-law
+    says a thief is eating the children's milk during the famine.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The son-in-law lies in wait, catches the mother-in-law, and tells her to fetch
+    water from a place where no frog cries in exchange for not exposing her.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The woman receives a water-vessel and travels a long time, passing many rivers
+    and unknown rivers.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: At successive pools she asks whether a frog is present; when a frog answers,
+    she pours out the water and continues onward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:7
+  text: She reaches a very large pool with many paths and many shady trees on its
+    banks, and no frog answers when she asks twice.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: She fills the vessel, drinks the water repeatedly, cannot stop because it
+    is pleasant, suffers stomach pain, and is unable to depart when she tries to arise.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mother-in-law / old woman
+  description: Hungry woman who eats the amasi, is caught, and is sent to find water
+    where no frog cries.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: son-in-law / husband
+  description: Man whose household amasi is taken; he detects the mother-in-law and
+    assigns the water-fetching task.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: wife / daughter
+  description: Wife of the son-in-law; she is told to boil maize so it can be mixed
+    with amasi and is part of the hungry household.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: children / grandchildren
+  description: Children of the couple whose milk is being eaten and who cry from hunger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: frogs
+  description: Frogs at pools answer when asked whether any frog is present.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: hungry household food-taker
+  assigned_to:
+  - fig:1
+  basis: She repeatedly eats the amasi from the son-in-law's house while hungry during
+    famine conditions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: detector and task-giver
+  assigned_to:
+  - fig:2
+  basis: He lies in wait, catches her, and sends her to fetch water where no frog
+    cries.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: deprived household members
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The couple and their children cry because the amasi is gone and they are
+    hungry.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: water-seeker under imposed condition
+  assigned_to:
+  - fig:1
+  basis: She is given a water-vessel and must find water at a place without a frog's
+    cry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: speaking animal indicators
+  assigned_to:
+  - fig:5
+  basis: The frogs answer from pools, thereby showing that the required frogless condition
+    is not met.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: amasi / milk
+  literal_form: Fermented milk or curds stored in a large calabash and eaten by the
+    mother-in-law.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:2
+  label: calabash
+  literal_form: Large vessel for storing the amasi; found empty except for whey.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: sym:3
+  label: water-vessel
+  literal_form: Container given to the woman for fetching water.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: water and pools
+  literal_form: Rivers and pools from which the woman tries to fetch water, including
+    a large pool with delicious water.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: frog cry
+  literal_form: The frogs' answers, glossed as an imitation of frog croaking, mark
+    the presence of frogs at pools.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:6
+  label: shady trees at the pool
+  literal_form: Many shady trees on the banks of the large pool.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Theft of amasi during famine
+  summary: The mother-in-law, hungry during the digging season, repeatedly eats the
+    household's amasi, leaving the family hungry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: scene:2
+  label: Detection and imposed water task
+  summary: The son-in-law catches the mother-in-law and requires her to fetch water
+    from a place where no frog cries if she wants to avoid exposure.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Repeated failed search for frogless water
+  summary: The woman travels through many water places; each time a frog answers,
+    she pours the water out and continues.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: scene:4
+  label: Large pool and compulsive drinking
+  summary: At a large pool with many paths and shady trees, the woman fills the vessel,
+    drinks repeatedly because the water is pleasant, experiences pain, and cannot
+    depart.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: theft of household food during famine
+  taxonomy_refs: []
+  basis: The passage presents repeated secret eating of the household amasi during
+    a time of hunger, leaving the family hungry.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The passage labels the act as theft of milk, but no broader myth-family
+    identification is made in the text.
+- id: motif:2
+  label: detection followed by an impossible or difficult task
+  taxonomy_refs:
+  - mystical_quest
+  basis: After catching the mother-in-law, the son-in-law sends her to obtain water
+    from a place where no frog cries, a condition repeatedly frustrated at pools.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The 'mystical_quest' taxonomy link is approximate; the task is imposed
+    as concealment or punishment, not explicitly framed as a sacred quest.
+- id: motif:3
+  label: search through repeated failed water sources
+  taxonomy_refs: []
+  basis: She passes many rivers and pools, but must reject each source when a frog
+    answers from it.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level recurrence pattern; its larger narrative function
+    is not fully visible in the excerpt.
+- id: motif:4
+  label: speaking animals as markers of a taboo or failed condition
+  taxonomy_refs: []
+  basis: Frogs answer her question at pools, preventing those waters from satisfying
+    the son-in-law's condition.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The frogs' role is limited to answering; the passage excerpt does not
+    show them giving counsel beyond the later heading.
+- id: motif:5
+  label: dangerously delicious water that prevents departure
+  taxonomy_refs: []
+  basis: At the large pool she drinks excessively, cannot stop, suffers pain, and
+    is unable to leave.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage breaks off immediately after she becomes unable to depart,
+    so the consequence remains incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9254-9286
+  quote_or_summary: During the digging season the hungry mother-in-law repeatedly
+    opens her son-in-law's house at noon, eats the amasi, leaves the calabash empty
+    except for whey, and the household cries from hunger while she speaks of a thief
+    eating the children's milk.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9287-9295
+  quote_or_summary: The son-in-law lies in wait, catches the mother-in-law, and tells
+    her to fetch water from a place where no frog cries, promising not to expose her
+    if she does.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9296-9327
+  quote_or_summary: Given a water-vessel, she travels a long time past many rivers
+    and pools; whenever she asks whether a frog is there and a frog answers, she pours
+    out the water and goes on.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 9328-9344
+  quote_or_summary: She reaches a very large pool with many paths and many shady trees
+    on its banks; she is afraid, asks twice whether a frog is there, and receives
+    no answer.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 9345-9358
+  quote_or_summary: She fills the vessel, drinks the water until the vessel is empty,
+    refills and drinks again, cannot stop because the water is pleasant, suffers stomach
+    pain, and is unable to depart when she wishes to leave.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: notes 96-97 within 9254-9358
+  quote_or_summary: The notes explain that daily milk is poured into a large calabash,
+    whey is drawn off as fresh milk is added, and that the remaining whey implies
+    she had eaten the curds and returned the whey.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: note 98 within 9254-9358
+  quote_or_summary: The note states that the frog's answer is an imitation of frog
+    croaking as pronounced by the native speaker.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on the supplied passage only. The excerpt ends mid-action
+    after the woman becomes unable to depart, and a later heading about animals warning
+    her is not developed in the supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparison claims were added because the passage itself does not provide a comparison to another text, tradition, or named motif family. Taxonomy references are limited to supplied available refs and are used cautiously.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l9254-l9358
+  passage_sha256=c7660c557c2e7ed19f7248e77f0d3b84f30f050a3838fcb816ef93d35261bfea
+

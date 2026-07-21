@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l10983-l10995
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: LAY OF ATLI AND RIMEGERD THE GIANTESS. / THE WESTERN WOLSUNG-LAY. / THE WAKING
+    OF ANGANTHEOW. / THE WAKING OF ANGANTHEOW.; lines 10983-10995
+  start: '10983'
+  end: '10995'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: keep it aye sheathed
+  summary: Speaker H says they must go to the ships and expresses little concern about
+    future quarrels among sons. Speaker A says the addressee shall own a weapon, warns
+    that it should remain sheathed because its edges are poisoned, bids farewell to
+    a daughter, and wishes he could give the life and strength of twelve dead men,
+    the sons of Arngrim.
+  language: English with Old Norse fragment
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Speaker H says they must go to the “steeds of the billows,” glossed in the
+    passage as ships.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Speaker H says the king’s daughter is in good heart.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Speaker H says they care little how their sons may hereafter quarrel.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Speaker A says the addressee shall own and long enjoy an unnamed object, and
+    instructs that it be kept sheathed.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The object is described as the slayer of Hialmar, with poison on both edges,
+    and as a doomer of men worse than a plague.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Speaker A bids farewell to “my daughter.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Speaker A says he would give the daughter the life, strength, and pith of
+    twelve men, identified with the sons of Arngrim who died.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A textual note includes the name Tyrfingr and says there is a duplicate in
+    manuscript A after line 72.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Speaker H
+  description: A speaker who says they must go to the ships, refers to the king’s
+    daughter being in good heart, mentions future quarrels among “my sons,” and is
+    addressed by A as “my daughter.”
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Speaker A
+  description: A speaker who warns about the sheathed, poisoned-edged object and bids
+    farewell to a daughter while invoking the life and strength of twelve dead men.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Hialmar
+  description: A named figure referenced through the epithet “slayer of Hialmar” applied
+    to the weapon or object.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The twelve men / sons of Arngrim
+  description: A dead group whose life, strength, and pith speaker A says he would
+    give; they are identified as sons of Arngrim.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Future sons mentioned by H
+  description: A group mentioned by speaker H as “my sons” who may hereafter come
+    to quarrel.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: departing speaker
+  assigned_to:
+  - fig:1
+  basis: Speaker H says they must go to the ships.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter / king’s daughter
+  assigned_to:
+  - fig:1
+  basis: The passage says the king’s daughter is in good heart, and A later says “Farewell,
+    my daughter.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: admonishing speaker
+  assigned_to:
+  - fig:2
+  basis: Speaker A warns the addressee to keep the object sheathed and not touch its
+    poisoned edges.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: named victim of the weapon
+  assigned_to:
+  - fig:3
+  basis: The object is called “this slayer of Hialmar.”
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: dead warrior kin group
+  assigned_to:
+  - fig:4
+  basis: A refers to “us twelve men” and to the strength the sons of Arngrim lost
+    when they died.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: future quarrelling sons
+  assigned_to:
+  - fig:5
+  basis: H says their sons may hereafter come to quarrel.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: ships on the billows
+  literal_form: "“steeds of the billows [ships]”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poisoned sheathed weapon
+  literal_form: A sheathed object described as the slayer of Hialmar, with poison
+    on both edges, and as a doomer of men; the textual note includes the name Tyrfingr.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: twelve dead men’s life-strength
+  literal_form: "“the life of us twelve men” and “all the goodly strength and pith”
+    lost when the sons of Arngrim died"
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Departure to ships
+  summary: Speaker H announces the need to go to the ships and says the king’s daughter
+    is in good heart.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warning over the poisoned weapon and farewell
+  summary: Speaker A says the addressee shall own the object, warns that it must remain
+    sheathed because of poisoned edges, identifies it as deadly, bids farewell to
+    a daughter, and invokes the life-strength of twelve dead sons of Arngrim.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Future quarrel alluded to
+  summary: Speaker H says they care little about how their sons may later quarrel.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Departure by ship
+  taxonomy_refs:
+  - departure
+  basis: Speaker H says they must go to the “steeds of the billows,” glossed as ships.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt states an intended departure but gives little narrative context
+    for the journey.
+- id: motif:2
+  label: Dangerous inherited or acquired weapon kept sheathed
+  taxonomy_refs: []
+  basis: Speaker A says the addressee shall own the object, warns that it should remain
+    sheathed, and says its edges are poisoned.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not fully narrate the acquisition; it only states ownership
+    and warning.
+- id: motif:3
+  label: Lethal weapon with a named former victim
+  taxonomy_refs: []
+  basis: The object is called the “slayer of Hialmar” and a “Doomer of men.”
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not narrate Hialmar’s death, only references it through
+    an epithet.
+- id: motif:4
+  label: Ancestral or dead kin life-strength invoked for a daughter
+  taxonomy_refs: []
+  basis: Speaker A says he would give his daughter the life and strength of twelve
+    dead men, the sons of Arngrim.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The wording expresses a wish or hypothetical gift; the passage does not
+    show the transfer occurring.
+- id: motif:5
+  label: Future quarrel among sons foreshadowed
+  taxonomy_refs: []
+  basis: Speaker H mentions that their sons may hereafter come to quarrel.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt only alludes to future quarrel and does not describe its cause
+    or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10983-10986
+  quote_or_summary: Speaker H says they must go to the “steeds of the billows [ships],”
+    says the king’s daughter is in good heart, and says they care little about future
+    quarrels among sons.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from the provided passage.
+- id: ev:2
+  type: quote
+  locator: 10986-10989
+  quote_or_summary: "“keep it aye sheathed, this slayer of Hialmar; touch not the
+    edges, there is poison on both of them; this Doomer of men is worse than a plague.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation from the provided passage.
+- id: ev:3
+  type: quote
+  locator: 10989-10992
+  quote_or_summary: "“Farewell, my daughter, fain would I give thee ... the life of
+    us twelve men, all the goodly strength and pith that the sons of Arngrim lost
+    when they died.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation from the provided passage.
+- id: ev:4
+  type: summary
+  locator: 10993-10995
+  quote_or_summary: A textual note includes “Tyrfingr” and says this is a duplicate
+    in A after line 72; it also notes a blank in B after “synir.”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from the provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and objects are clear, but the passage uses abbreviated
+    speakers, OCR-like irregularities, and editorial notes; relationships and the
+    object’s full narrative context require human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added; candidate motifs are limited to patterns directly supported by the supplied passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l10983-l10995
+  passage_sha256=616f6e99970bf0712afc614d10c3aae85e77d99360b30489c0cc7084b77c9ce6
+

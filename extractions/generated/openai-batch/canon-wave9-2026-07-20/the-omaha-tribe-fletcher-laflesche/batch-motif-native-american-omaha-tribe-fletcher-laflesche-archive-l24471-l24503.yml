@@ -1,0 +1,238 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l24471-l24503
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: TWENTY-SEVENTH   ANNUAL  REPORT     PLATE  48 / CRUPPER    FOR    HORSE    USED    BY    WOMAN
+    / SOCIAL   LIFE / THE   OMAHA   TRIBE; lines 24471-24503
+  start: '24471'
+  end: '24503'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Omaha painting of tent covers and robes, the use
+    of paint brushes made from hip-joint bone, and named forms of headgear, including
+    a type worn only by chiefs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man's wife or children might assist with applying color.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The illustrated tent-painting process includes spreading the tent cover on
+    the ground, sketching the design, and applying color by an assistant.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Robes were sometimes painted in the same manner as tents.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Paint brushes were made from porous bone of the hip joint.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Paint was applied with the blunt edge of the bone brush.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The headgear shown in plates 36 and 49 was worn only by chiefs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: That headgear was called waiha'ge, a name applied to caps cut to fit the head.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The headdress shown in plate 50 was called tezhin'hinde, the same name applied
+    to woven scarfs.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: wife, children, or assistant in painting work
+  description: A man's wife or children might assist; the illustration shows an assistant
+    applying color.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: chiefs
+  description: Chiefs are the only stated wearers of the headgear shown in plates
+    36 and 49.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: painting assistant
+  assigned_to:
+  - fig:1
+  basis: The passage states that a wife or children might assist and that color was
+    applied by an assistant.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: exclusive wearer of chiefly headgear
+  assigned_to:
+  - fig:2
+  basis: The passage states that the headgear was worn only by chiefs.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: painted tent cover
+  literal_form: Tent cover spread on the ground, with design sketched and color applied.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: painted robe
+  literal_form: Robes painted in the same manner as tent covers.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bone paint brush
+  literal_form: Paint brush made from porous bone of the hip joint, with paint applied
+    by its blunt edge.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: waiha'ge chief headgear
+  literal_form: Headgear or cap cut to fit the head, shown in plates 36 and 49, worn
+    only by chiefs.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: tezhin'hinde headdress or scarf form
+  literal_form: Headdress shown in plate 50; its name is also applied to woven scarfs.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Painting of tent covers and robes
+  summary: A tent cover is spread out, a design is sketched, and an assistant applies
+    color; robes may be painted in the same manner.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Named headgear and restricted chiefly use
+  summary: The passage identifies named Omaha headgear forms, including waiha'ge,
+    which is worn only by chiefs, and tezhin'hinde, a headdress name also used for
+    woven scarfs.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: restricted chiefly headgear as status marker
+  taxonomy_refs: []
+  basis: The passage states that the waiha'ge headgear was worn only by chiefs.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is a social-symbolic pattern in an ethnographic description, not
+    a narrative myth motif and not directly linked to the provided motif-family taxonomy.
+- id: motif:2
+  label: collaborative decorated covering through sketched design and color application
+  taxonomy_refs: []
+  basis: The passage describes a tent cover being spread out, a design sketched, and
+    color applied by an assistant, with robes sometimes painted in the same manner.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a craft-production pattern rather than a mythological motif; no
+    comparative claim is implied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 24471-24476
+  quote_or_summary: A man's wife or children might assist; figure 77 shows the tent
+    cover spread on the ground, the design sketched, and color applied by an assistant.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 24477-24479
+  quote_or_summary: Robes were sometimes painted in the same manner as tents.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 24480-24486
+  quote_or_summary: Paint brushes were made from porous hip-joint bone, and paint
+    was applied with the blunt edge of the bone brush.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 24487-24496
+  quote_or_summary: The headgear shown in plates 36 and 49 was worn only by chiefs
+    and was called waiha'ge, a term applied to caps cut to fit the head.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 24497-24503
+  quote_or_summary: The headdress shown in plate 50 was called tezhin'hinde, the same
+    name applied to woven scarfs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is descriptive and supports extraction of objects, roles, and
+    local symbolic patterns. No supplied taxonomy motif family or symbol reference
+    clearly applies, and no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external information or comparisons were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l24471-l24503
+  passage_sha256=458712648d2432e19ec0066ca896d3e4bfaf5a60a1e5187b06cdcf0556107188
+

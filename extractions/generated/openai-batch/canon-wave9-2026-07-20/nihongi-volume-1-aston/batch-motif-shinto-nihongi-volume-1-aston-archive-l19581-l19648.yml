@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l19581-l19648
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: YURIAKU. 34F / A.D. 459. / XIV... 14, / YURIAKU. 343; lines 19581-19648
+  start: '19581'
+  end: '19648'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Even a creeping insect / Waits upon the Great Lord.”"
+  summary: A poetic passage describes the Great Lord at a decorated throne while a
+    first-person speaker stands waiting for game and wild boar. A gad-fly stings the
+    speaker’s arm, and a dragon-fly bites the gad-fly. The poem connects this action
+    with the Great Lord and with Yamato as the land of the dragon-fly; variants and
+    notes explain the naming of Akitsu no in honor of the dragon-fly.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Great Lord is described as hearing something and standing or remaining
+    at his throne.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The throne is described as entwined with jewels and cloth.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A first-person speaker remains or stands while waiting for game and a wild
+    boar.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker’s arm is stung by a gad-fly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A dragon-fly bites the gad-fly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The poem states that even a creeping insect waits upon the Great Lord.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Yamato is addressed as the land of the dragon-fly and is said to bear the
+    dragon-fly’s form.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A variant says that Yamato was called the Land of the Dragon-fly, and the
+    passage explains that the place was called Akitsu no in honor of the dragon-fly.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Great Lord
+  description: A royal or lordly figure at a throne, described as the one whom even
+    a creeping insect waits upon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: first-person speaker in the poem
+  description: The speaking figure who remains or stands while waiting for game and
+    whose arm is stung by a gad-fly.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: gad-fly
+  description: The insect that stings the speaker’s arm and is then bitten by the
+    dragon-fly.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dragon-fly
+  description: The insect that bites the gad-fly and is honored in the naming of Yamato
+    or Akitsu no.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: enthroned lord
+  assigned_to:
+  - fig:1
+  basis: The figure is called the Great Lord and is placed at a throne.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: standing or waiting speaker
+  assigned_to:
+  - fig:2
+  basis: The speaker says that they remained or stood while waiting for game and wild
+    boar.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: stinging insect
+  assigned_to:
+  - fig:3
+  basis: The gad-fly stings the speaker’s arm.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: retaliating or serving insect
+  assigned_to:
+  - fig:4
+  basis: The dragon-fly bites the gad-fly after the sting, and the poem says even
+    a creeping insect waits upon the Great Lord.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: eponymous creature of a place-name
+  assigned_to:
+  - fig:4
+  basis: The dragon-fly is connected with Yamato as land of the dragon-fly and with
+    the naming of Akitsu no.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: dragon-fly
+  literal_form: dragon-fly
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: gad-fly
+  literal_form: gad-fly
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: decorated throne
+  literal_form: throne entwined with jewels and cloth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Yamato as land of the dragon-fly
+  literal_form: Yamato / Land of the Dragon-fly / Akitsu no
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Great Lord at the decorated throne
+  summary: The Great Lord hears something and stands or remains at a throne entwined
+    with jewels and cloth while the speaker waits for game and wild boar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Gad-fly sting and dragon-fly bite
+  summary: The speaker’s arm is stung by a gad-fly, and a dragon-fly then bites the
+    gad-fly.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Dragon-fly naming of Yamato or Akitsu no
+  summary: The poem and its variants connect Yamato with the dragon-fly, and the prose
+    explanation says that the place was called Akitsu no in honor of the dragon-fly.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: small creature serves or protects the ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The dragon-fly bites the gad-fly after the speaker is stung, and the poem
+    generalizes that even a creeping insect waits upon the Great Lord.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly state a doctrine of legitimacy; the taxonomy
+    reference is based on the insect’s service to the enthroned Great Lord within
+    a courtly poem.
+- id: motif:2
+  label: etiological naming from an animal or insect incident
+  taxonomy_refs: []
+  basis: The dragon-fly’s action is linked to Yamato as the land of the dragon-fly,
+    and the passage explains the place-name Akitsu no as honoring the dragon-fly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is localized to the naming of Yamato or Akitsu no in this passage
+    and its cited variants.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious comparison between this Nihongi account and
+    a nearby Kojiki version of the dragon-fly naming of Yamato, because the notes
+    identify the alternate ending as the Kojiki version.
+  claim_level: same_motif
+  target: Kojiki version of the Yamato Land of the Dragon-fly naming motif
+  evidence_refs:
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides only a brief variant and note, not the full Kojiki
+    context; no broader historical-contact claim is made.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19583-19594
+  quote_or_summary: The Great Lord hears something and stands at a throne entwined
+    with jewels and cloth while the speaker remains or stands waiting for game and
+    wild boar.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: quote
+  locator: lines 19596-19600
+  quote_or_summary: "“My arm ... Was stung by a gad-fly: / But soon a dragon-fly /
+    That gad-fly did bite.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text; excerpt shortened.
+- id: ev:3
+  type: quote
+  locator: lines 19602-19606
+  quote_or_summary: "“Even a creeping insect / Waits upon the Great Lord. / Thy form
+    it will bear, / O Yamato, land of the dragon-fly!”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: lines 19608-19624
+  quote_or_summary: The passage reports variant readings, including an alternate ending
+    in which Yamato is called the Land of the Dragon-fly.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: lines 19626-19628
+  quote_or_summary: "“Therefore in honour of the Dragon-fly this place was called
+    Akitsu no.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: note
+  locator: lines 19630-19648
+  quote_or_summary: Notes say the variant ending is the “Kojiki” version and gloss
+    Akitsu no as the moor of the Dragon-fly.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif assignment is more cautious
+    where it links the insect service scene to royal legitimacy; the place-name etiology
+    is more directly supported.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol reference was applied because the available symbol list does not include dragon-fly, gad-fly, throne, or place-name.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l19581-l19648
+  passage_sha256=198f70d2bf4f435bff692ec2d7a13fea88832d43bee1b2aff8437f4bbc2629c4
+

@@ -1,0 +1,272 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l16759-l16968
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: I. ABBREVIATIONS / TEPRSV / II. BIBLIOGRAPHY / BIBLIOGRAPHY , 349; lines
+    16759-16968
+  start: '16759'
+  end: '16968'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The selected passage is a bibliography section from Oceanic Mythology.
+    It lists authors, titles, publication venues, and dates for works on Oceanic and
+    adjacent folklore, ethnography, mythology, and traditions. It does not present
+    a continuous myth narrative.
+  language: English, with bibliographic titles in several languages
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The selected passage consists of bibliography entries rather than a continuous
+    mythic episode.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bibliography includes entries whose titles refer to Samoan creation stories.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The bibliography includes an entry whose title refers to a Samoan flood tale.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The bibliography includes entries whose titles refer to Philippine origin
+    myths and Bagobo myths.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The bibliography includes Hawaiian entries whose titles refer to the origin
+    of fire and to Maui snaring the sun.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The bibliography includes Hawaiian myth or legend titles naming Hiku, Kawelu,
+    Pele, Hitaka, and Kapeepeekauila.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Maui
+  description: Named in the title of a cited Hawaiian Annual item, "Legend of Maui
+    Snaring the Sun."
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Hiku
+  description: Named in the cited title "Myth of Hiku and Kawelu."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Kawelu
+  description: Named in the cited title "Myth of Hiku and Kawelu."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Pele
+  description: Named in the cited title "Pele and Hitaka; a Myth from Hawaii."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Hitaka
+  description: Named as printed in the cited title "Pele and Hitaka; a Myth from Hawaii."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Kapeepeekauila
+  description: Named in the cited title "The Legend of Kapeepeekauila, or the Rocks
+    of Kana."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named figure in cited myth or legend title
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: These names appear in titles of cited myths or legends; the passage gives
+    no further narrative actions for most of them.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: figure associated by title with snaring the sun
+  assigned_to:
+  - fig:1
+  basis: The cited title identifies Maui in connection with snaring the sun.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire in a cited title about a Hawaiian tradition of the origin of
+    fire.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sun
+  literal_form: Sun in the cited title "Legend of Maui Snaring the Sun."
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: bibliography listing with title-level myth topics
+  summary: The passage lists bibliographic works; some titles mention creation stories,
+    a flood tale, origin myths, fire-origin traditions, Maui snaring the sun, and
+    named Hawaiian myths or legends. No mythic action is narrated beyond title wording.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: creation or origin-story reference
+  taxonomy_refs: []
+  basis: Bibliographic titles in the passage explicitly refer to Samoan creation stories
+    and Philippine origin myths.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: low
+  cautions: The passage provides title-level references only; it gives no creation
+    sequence, cosmological structure, creator figure, or narrative details.
+- id: motif:2
+  label: flood-tale reference
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: A cited title is a Samoan flood tale.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: Only the flood-tale title is present. The passage does not describe inundation,
+    survival, destruction, or renewal episodes.
+- id: motif:3
+  label: origin of fire reference
+  taxonomy_refs: []
+  basis: A Hawaiian cited title refers to the origin of fire.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The passage does not state how fire originates or whether a culture hero,
+    theft, gift, or ritual action is involved.
+- id: motif:4
+  label: snaring the sun reference
+  taxonomy_refs: []
+  basis: A cited title identifies a legend of Maui snaring the sun.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The title names the action, but the passage supplies no narrative context,
+    motive, method, or outcome.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16759-16968
+  quote_or_summary: The passage is a bibliography section listing sources, authors,
+    publication details, and titles; it does not recount a continuous myth narrative.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 16759-16968; Bastian and von Bülow entries
+  quote_or_summary: '"Die samoanische Schopfungssage" / "Die samoanische Schdpfungssage"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short bibliographic title excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 16759-16968; von Bülow 1898 entry
+  quote_or_summary: '"Eine samoanische Fluthsage"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short bibliographic title excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 16759-16968; Beyer and Benedict entries
+  quote_or_summary: '"Origin Myths among the Mountain Peoples of the Philippines";
+    "Bagobo Myths"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short bibliographic title excerpts.
+- id: ev:5
+  type: quote
+  locator: lines 16759-16968; Forbes 1879 and 1881 entries
+  quote_or_summary: '"Hawaiian Tradition of the Origin of Fire"; "Legend of Maui Snaring
+    the Sun"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short bibliographic title excerpts.
+- id: ev:6
+  type: quote
+  locator: lines 16759-16968; Emerson entries
+  quote_or_summary: '"Myth of Hiku and Kawelu"; "Pele and Hitaka; a Myth from Hawaii"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short bibliographic title excerpts.
+- id: ev:7
+  type: quote
+  locator: lines 16759-16968; Forbes 1882 entry
+  quote_or_summary: '"The Legend of Kapeepeekauila, or the Rocks of Kana"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short bibliographic title excerpt.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is bibliographic rather than narrative. Title-level motif references
+    can be identified, but narrative motifs, roles, symbols, and comparisons remain
+    limited and require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were extracted because the passage lists sources without comparing myth patterns or traditions.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l16759-l16968
+  passage_sha256=c246741f113cd38e56aa7ad9daace26248346b8f1e9a2d2e6c58136b8b333d53
+

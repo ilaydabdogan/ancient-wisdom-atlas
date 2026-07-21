@@ -1,0 +1,200 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l14625-l14645
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: ZAMYAD VAST. 299 / ZAMYAD YAST. 3OI / ZAMYAD YAST. 303 / XIII.; lines 14625-14645
+  start: '14625'
+  end: '14645'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage invokes sacrifice to the awful kingly Glory made by Mazda.
+    It says this Glory clung to holy Zarathushtra, so that he thought according to
+    the Law; the supplied excerpt breaks off during a statement about his speech.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speakers sacrifice to the awful kingly Glory.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The kingly Glory is described as made by Mazda.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The kingly Glory clung to holy Zarathushtra.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Zarathushtra is called holy.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After the Glory clung to Zarathushtra, he thought according to the Law; the
+    statement about his speaking is incomplete in the supplied excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Awful kingly Glory
+  description: A kingly Glory made by Mazda, invoked as the recipient of sacrifice,
+    and said to cleave to Zarathushtra.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mazda
+  description: Named as the maker of the kingly Glory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Zarathushtra
+  description: Called holy; the kingly Glory cleaves to him, and he thinks according
+    to the Law.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The passage says, “We sacrifice unto” the kingly Glory.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: adhering kingly power
+  assigned_to:
+  - fig:1
+  basis: The Glory is said to have clung to Zarathushtra.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: maker of the Glory
+  assigned_to:
+  - fig:2
+  basis: The kingly Glory is described as made by Mazda.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: holy recipient of the Glory
+  assigned_to:
+  - fig:3
+  basis: Zarathushtra is called holy, and the Glory clings to him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: law-oriented thinker
+  assigned_to:
+  - fig:3
+  basis: The passage says he thought according to the Law.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Kingly Glory
+  literal_form: the awful kingly Glory made by Mazda
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sacrifice to kingly Glory
+  summary: The speakers offer sacrifice to the awful kingly Glory, which is described
+    as made by Mazda.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Glory cleaves to Zarathushtra
+  summary: The kingly Glory clings to holy Zarathushtra, after which he thinks according
+    to the Law; the speech clause is incomplete in the excerpt.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Kingly glory attached to a chosen holy figure
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage presents a divinely made kingly Glory that cleaves to holy Zarathushtra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not narrate enthronement or explicit royal rule; the
+    taxonomy link rests on the phrase “kingly Glory.”
+- id: motif:2
+  label: Sacred empowerment aligning thought with law
+  taxonomy_refs:
+  - wisdom
+  basis: The Glory clings to Zarathushtra, and the passage says that he thought according
+    to the Law.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage uses the language of Law rather than explicitly naming wisdom;
+    the line about speech is incomplete in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: XIII.78; lines 14625-14629
+  quote_or_summary: "“We sacrifice unto the awful kingly Glory, made by Mazda ....”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: XIII.79; lines 14630-14634
+  quote_or_summary: "“That clave unto the holy Zarathu^tra, so that he thought according
+    to the Law, spake according”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main passage is very short and ends mid-clause; extraction is limited
+    to the explicit invocation, divine making of Glory, its cleaving to Zarathushtra,
+    and the stated relation to Law. Editorial footnotes in the supplied range were
+    not used for motif extraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l14625-l14645
+  passage_sha256=d726aff2f461eeeb9072052b57cc040455d430e8157c514ddfce99791cb82398
+

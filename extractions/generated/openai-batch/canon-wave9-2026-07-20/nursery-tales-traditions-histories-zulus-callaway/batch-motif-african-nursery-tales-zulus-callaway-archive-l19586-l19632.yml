@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19586-l19632
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANF. / THE HYENA AND THE MOON. / IMPISI NENYANGA. / THE MAN AND
+    THE BREAD.; lines 19586-19632
+  start: '19586'
+  end: '19632'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives the conclusion of an animal tale: baboons judge a leopard
+    dangerous, pin its tail in a hole while distracting it by searching for vermin,
+    distribute sticks, beat it until it dies, and leave it. The passage then begins
+    the heading of another tale about a man who threw away bread.'
+  language: Zulu with English translation
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The baboons consider the leopard more active than themselves and believe it
+    will kill them unless they devise a plan.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The baboons finish a hole, put the leopard's tail into it, and ram earth tightly
+    around the tail.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: While pinning the tail, the baboons handle the leopard as if searching for
+    vermin so that he will not feel the pain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The baboons cut and bring sticks sufficient for all of them.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The baboons stop catching vermin, beat the leopard with sticks, and continue
+    until he cannot get up and dies.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A following tale heading introduces a man who threw away bread; the English
+    parenthetical translation is incomplete in the provided passage.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: leopard
+  description: A leopard regarded by the baboons as dangerous; its tail is pinned
+    in a hole and it is beaten to death.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: baboons
+  description: A group that plans against the leopard, pins its tail, pretends to
+    catch vermin, gathers sticks, and kills it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: unnamed man in following tale heading
+  description: A man mentioned only in the heading as having thrown away bread.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: perceived dangerous predator
+  assigned_to:
+  - fig:1
+  basis: The baboons believe the leopard will kill them unless they devise something.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collective plotters and attackers
+  assigned_to:
+  - fig:2
+  basis: The baboons execute the plan of trapping the leopard's tail, gathering sticks,
+    and beating it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: immobilized victim of trap
+  assigned_to:
+  - fig:1
+  basis: The leopard's tail is rammed into a hole so that it can no longer get up
+    during the beating.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: person who discarded bread
+  assigned_to:
+  - fig:3
+  basis: The following tale heading identifies a man who threw away bread.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: hole used as trap
+  literal_form: A hole into which the leopard's tail is placed and rammed down with
+    earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pinned tail
+  literal_form: The leopard's tail fixed in the hole by rammed earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sticks as weapons
+  literal_form: Sticks cut and brought for all the baboons, then used in the beating.
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: vermin-searching gesture
+  literal_form: Handling the leopard as if catching vermin while the tail is being
+    rammed down.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:5
+  label: bread
+  literal_form: Bread thrown away by the man in the following tale heading.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Baboons assess the leopard as a threat
+  summary: The baboons recognize the leopard as more active than they are and decide
+    they need a plan to avoid being killed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tail pinned under a grooming pretext
+  summary: The baboons put the leopard's tail in a hole and ram earth around it while
+    distracting him by handling him as though searching for vermin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Sticks gathered and leopard killed
+  summary: The baboons obtain sticks for all of them, stop the vermin-searching pretense,
+    beat the leopard until he can no longer rise, and leave him dead.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Heading of following bread tale
+  summary: The passage begins a new tale heading about a man who threw away bread.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dangerous predator overcome by collective trickery
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The baboons devise a plan against the stronger leopard, immobilize him by
+    pinning his tail while distracting him, and kill him with sticks.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: 'The taxonomy link is broad: the passage shows trickery, but no named
+    trickster figure or explicit boundary-crossing interpretation is given.'
+- id: motif:2
+  label: false grooming as cover for attack
+  taxonomy_refs: []
+  basis: The baboons handle the leopard as if searching for vermin so that he does
+    not feel his tail being rammed down, then stop the pretense and beat him.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a literal action-pattern in the passage; no wider symbolic meaning
+    is stated.
+- id: motif:3
+  label: discarded bread as tale premise
+  taxonomy_refs: []
+  basis: The following tale heading names a man who threw away bread; the narrative
+    itself is not included in the provided passage.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: Only the heading is present, and the English parenthetical is cut off,
+    so the full motif cannot be extracted from this passage alone.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19586-19632, animal-tale conclusion
+  quote_or_summary: The baboons know the leopard is more active than they are and
+    believe that, if they do not devise something, he will kill them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 19586-19632, animal-tale conclusion
+  quote_or_summary: The baboons finish the hole, put the leopard's tail in it, ram
+    earth tightly around it, and handle him as if searching for vermin so he will
+    not feel the pain.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 19586-19632, animal-tale conclusion
+  quote_or_summary: Some baboons are told to cut sticks; the sticks brought back are
+    sufficient for all the baboons.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 19586-19632, animal-tale conclusion
+  quote_or_summary: "“they beat him ... until they killed him, and he died. So they
+    left him.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: lines 19586-19632, following tale heading
+  quote_or_summary: "“the tale of a man who threw away some bread”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The animal-tale actions are clear in the English translation, but the passage
+    starts mid-sentence and ends with only a fragmentary heading for the next tale.
+    No passage-internal comparative claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Literal narrative elements are separated from candidate motif interpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19586-l19632
+  passage_sha256=42ea14c180c2d9cae495e3539687503505238eab5f36025182f37acbdd919b32
+

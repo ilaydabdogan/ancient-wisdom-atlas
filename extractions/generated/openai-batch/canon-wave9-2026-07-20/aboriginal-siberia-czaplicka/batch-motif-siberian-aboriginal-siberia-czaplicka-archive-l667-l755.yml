@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.siberian-aboriginal-siberia-czaplicka-archive-l667-l755
+source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+passage_locator:
+  label: GEOGRAPHY  6 / GEOGRAPHY  7 / GEOGRAPHY  9 / GEOGRAPHY  11; lines 667-755
+  start: '667'
+  end: '755'
+  translation: Aboriginal Siberia - A Study in Social Anthropology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Siberian physical geography and ecology: swampy
+    plains, tundra, tayga, marginal forest, steppe, mountains, vegetation zones, animals,
+    insects, seasonal accessibility, and a visual resemblance between the tundra and
+    an expanse of water.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Swamps, summer insects, and a local disease are described as making open-air
+    life uncomfortable, with insects forcing natives to wear masks.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Barabine Plain is described as containing marshes and birch forests rather
+    than being strictly a steppe.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Northern Asia is divided broadly into a northern Arctic zone including tundra
+    and tayga, and a southern sub-Arctic zone including steppe country, mountains,
+    and fertile valleys.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tundra is described as a frozen swamp-desert with sparse vegetation, including
+    mosses, lichens, small shrubs, willow-bushes, and small meadows in more favorable
+    places.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The tundra’s bluish hue and flat expanse are said to give a traveller the
+    illusion of seeing a great waste of waters or the sea, especially under moonlight
+    or wind-shaped snow.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The swampy frozen deserts are described as impassable except in winter, when
+    they are frozen over.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Tundra animals and birds include polar bear, arctic fox, lemming, polar hare,
+    reindeer, migratory birds, and many white-colored Arctic animals and birds; reptiles
+    are said not to live there.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The tayga is described as primeval forest on swampy ground, with a marginal
+    forest zone of bushes, dwarf birch, and willow trees between tundra and tayga.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Vegetation and animals change southward, with fir, birch, aspen, Altai mountain
+    slopes, bears, sables, squirrels, wolves, reptiles, insects, steppe animals, Amur-region
+    animals, and gold dust or nuggets in tayga soil mentioned.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: natives
+  description: People described as being forced by summer insects to wear masks.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: traveller
+  description: A viewer to whom the tundra’s hue and flatness present an illusion
+    of water or sea.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: mask-wearer under environmental pressure
+  assigned_to:
+  - fig:1
+  basis: The passage says annoying summer insects force the natives to wear masks.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: observer of tundra water-illusion
+  assigned_to:
+  - fig:2
+  basis: The passage says the tundra presents to the traveller an illusion of a great
+    waste of waters rather than a plain.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mask
+  literal_form: Masks worn by natives because of annoying summer insects.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water-like tundra surface
+  literal_form: Swamps, marshes, river mouths, and the tundra’s visual resemblance
+    to a great waste of waters or the sea.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: trees and forest
+  literal_form: Birch forests, willow trees, dwarf birch, shrubs, fir, aspen, and
+    primeval tayga forest.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: mountains
+  literal_form: Mountains and Altai mountain slopes, including neighboring mountains
+    from which gold is washed down.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Swampy plain and mask-wearing
+  summary: The passage describes swampy conditions, summer insects, a disease, and
+    native mask-wearing in relation to uncomfortable open-air life; the Barabine Plain
+    is characterized by marshes, birch forests, and salt.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Northern tundra description
+  summary: The tundra is presented as a frozen swamp-desert with sparse vegetation,
+    a sea-like visual illusion for a traveller, seasonal impassability, and Arctic
+    animals and birds.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Tayga and southern ecological transition
+  summary: The passage describes the marginal forest, tayga, southward changes in
+    trees, animals, insects, mountain slopes, steppe fauna, Amur fauna, and gold deposits
+    washed from mountains.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 667-755; opening paragraph on swamps and Barabine Plain
+  quote_or_summary: Swamps, summer insects, and disease make open-air life uncomfortable;
+    insects force natives to wear masks; the Barabine Plain contains marshes and birch
+    forests and is a source of salt.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 667-755; paragraph beginning 'We may distinguish two physical divisions'
+  quote_or_summary: The passage distinguishes a northern Arctic division of tundra
+    and tayga from a southern sub-Arctic division of steppe country, mountains, and
+    fertile valleys.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 667-755; section A tundra description
+  quote_or_summary: The tundra is described as a frozen swamp-desert with sparse vegetation;
+    its bluish hue and flatness can make it resemble a great waste of waters or the
+    sea, especially in moonlight or shaped snow.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 667-755; paragraph on tundra passability
+  quote_or_summary: The swampy surface of the frozen deserts makes them impassable
+    except in winter, when they freeze over.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 667-755; tundra animals and birds paragraph
+  quote_or_summary: The tundra fauna includes polar bear, arctic fox, lemming, polar
+    hare, reindeer, insects, and migratory birds; reptiles are absent, and most Arctic
+    animals and birds are white for much of the year.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 667-755; section B opening on tayga
+  quote_or_summary: South of the tundra is the tayga; between them is marginal forest
+    with bushes, dwarf birch, and willow trees; the tayga consists of primeval forests
+    on swampy ground.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 667-755; paragraph on Siberian trees, Altai slopes, and forest animals
+  quote_or_summary: The passage contrasts Siberian and eastern Russian trees, describes
+    vegetation on northern and southern Altai slopes, and lists forest and southern
+    animals and insects.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 667-755; closing paragraph on steppe, Amur, and gold
+  quote_or_summary: The Kirgiz steppe has domestic animals, wild horses, gazelles,
+    and marmots; the Amur region combines northern and central Asian vegetation; farther
+    south appear vultures and tigers; tayga soil may contain gold dust or nuggets
+    washed from mountains.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is primarily ethnogeographic rather than mythic. Literal landscape,
+    object, and ecological elements are extractable, but no passage-supported mythic
+    motif candidates or comparative claims are identified.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the supplied passage does not narrate a mythic event or explicitly support a comparative mythology pattern.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-aboriginal-siberia-czaplicka-archive__l667-l755
+  passage_sha256=a32c87aecb7d00f630a0cd3b4b69f17333d14136275b8ced99b439484e1a939d
+

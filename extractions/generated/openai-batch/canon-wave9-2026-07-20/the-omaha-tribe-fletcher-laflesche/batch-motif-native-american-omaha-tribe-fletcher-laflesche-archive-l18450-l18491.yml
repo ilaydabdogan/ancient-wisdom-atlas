@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l18450-l18491
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    WHITE    BUFFALO    HIDE / BUREAU   OF  AMERICAN    ETHNOLOGY / THE    WHITE    BUFFALO     HIDE
+    / THE    QUEST    OF    FOOD; lines 18450-18491
+  start: '18450'
+  end: '18491'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes gifts sent one at a time so they could be counted
+    toward one hundred, enabling a man to enter the Hon''hewachi and put a mark of
+    honor on his daughter. It also describes the tribal movement near buffalo herds:
+    the Sacred Tent led the people, and when it stopped and the buffalo was untied,
+    everyone stopped and saw the man present gifts to the Sacred Hide. A figure caption
+    identifies a pipe belonging to White Buffalo Hide.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Presents could be counted toward a total of one hundred.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A total of one hundred counted presents entitled a man to entrance into the
+    Hon'hewachi.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The same total entitled the man to put the mark of honor on his daughter.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The presents were sent one at a time so the man could state how many times
+    he had been to the Sacred Tent.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: If all presents were sent at once, they would count as one gift.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When the tribe was near buffalo herds, the people moved abreast rather than
+    in file.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Sacred Tent was always in advance during this movement.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When the Sacred Tent stopped and the buffalo was untied, all the people had
+    to stop.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The man was seen by the tribe as he made presents to the Sacred Hide.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: A figure caption identifies a pipe belonging to White Buffalo Hide.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed man
+  description: A man whose counted presents could entitle him to Hon'hewachi entrance
+    and to place a mark of honor on his daughter; he makes presents to the Sacred
+    Hide before the tribe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: daughter of the unnamed man
+  description: The man's daughter, on whom the man could put the mark of honor after
+    the required count of presents.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the tribe / people
+  description: The people move abreast near buffalo herds, stop when the Sacred Tent
+    stops and the buffalo is untied, and see the man make presents.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: gift-giver
+  assigned_to:
+  - fig:1
+  basis: The man sends presents and makes presents to the Sacred Hide.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: candidate for Hon'hewachi entrance
+  assigned_to:
+  - fig:1
+  basis: One hundred counted presents would entitle a man to entrance into the Hon'hewachi.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipient of mark of honor
+  assigned_to:
+  - fig:2
+  basis: The man would be entitled to put the mark of honor on his daughter.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: public witnesses
+  assigned_to:
+  - fig:3
+  basis: The man was seen by all the tribe as he made presents to the Sacred Hide.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Sacred Tent
+  literal_form: tent
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Sacred Hide
+  literal_form: hide
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: buffalo
+  literal_form: buffalo
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: presents / gifts
+  literal_form: presents counted and given
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: mark of honor
+  literal_form: honor mark placed on a daughter
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: pipe belonging to White Buffalo Hide
+  literal_form: pipe shown in figure caption
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Counting presents for entrance and honor mark
+  summary: Presents sent individually are counted toward one hundred, which entitles
+    a man to Hon'hewachi entrance and to put a mark of honor on his daughter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Public presentation near the buffalo herds
+  summary: Near buffalo herds, the people move abreast while the Sacred Tent leads.
+    When the Tent stops and the buffalo is untied, the people stop and see the man
+    make presents to the Sacred Hide.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Pipe caption
+  summary: A figure caption identifies a pipe belonging to White Buffalo Hide.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual gift-counting for status entrance
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links individually counted presents to entrance into the Hon'hewachi
+    and to the right to place a mark of honor on a daughter.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage gives ethnographic details of counting and entitlement but
+    does not explain the full ritual meaning of the exchange.
+- id: motif:2
+  label: public ritual presentation before sacred object
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The man makes presents to the Sacred Hide in view of the whole tribe after
+    the Sacred Tent stops and the buffalo is untied.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies the Sacred Tent and Sacred Hide but does not elaborate
+    their broader mythology in this excerpt.
+- id: motif:3
+  label: ritual admission through repeated visits and offerings
+  taxonomy_refs:
+  - initiation
+  basis: Repeated visits to the Sacred Tent, represented by individual gifts, contribute
+    toward entrance into the Hon'hewachi.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The excerpt states entitlement to entrance but does not describe an initiation
+    rite itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18450-18457
+  quote_or_summary: Presents could all be counted toward the one hundred that entitled
+    a man to entrance into the Hon'hewachi and to put the mark of honor on his daughter.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 18458-18472
+  quote_or_summary: Presents were sent one at a time so the man could say how many
+    times he had been to the Sacred Tent; if sent all at once, they counted as only
+    one gift.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 18480-18491
+  quote_or_summary: Near buffalo herds the people moved abreast. The Sacred Tent led;
+    when it stopped and the buffalo was untied, all stopped, and the man was seen
+    making presents to the Sacred Hide.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 18463-18467
+  quote_or_summary: The figure caption refers to a pipe belonging to White Buffalo
+    Hide.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif assignments are cautious
+    because the excerpt provides limited ritual context and no explicit comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare this material with another tradition or motif family beyond the extractable pattern of ritual gift exchange.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l18450-l18491
+  passage_sha256=c1c1043fadea714a3eed16f1baface6cf841e859a775433fc4418e59ea7279d0
+

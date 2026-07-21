@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l6454-l6475
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: XXL. 5. / XXI. 6. / XXI. 7. / SUJUN. 113; lines 6454-6475
+  start: '6454'
+  end: '6475'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The Land of Pékché sends envoys, Buddhist priests, Buddhist relics, tribute,
+    ascetics, temple carpenters, craft specialists, potters, and a painter. Notes
+    identify some artisans as metal-founders and suggest the painter was probably
+    connected with Buddhist pictures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Land of Pékché sends envoys together with Buddhist priests Hyé-song, Nyong-Keun,
+    and Hyé-sik, and sends Buddhist relics as a present.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Land of Pékché sends ranked persons Syu-sin, Ke-mun, and Pok-pu-m?-sin
+    with tribute and another present of Buddhist relics.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: 'The passage names additional religious personnel: Buddhist priest Nyéng-chyo
+    and ascetics Nyéng-wi, Hyé-chyung, Hyé-syuk, and To-6m.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage lists temple carpenters, a specialist in making braziers and chargers,
+    potters, and a painter.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note identifies the braziers-and-chargers specialists as metal-founders
+    with the rank Hakase, and another note says the painter was probably of Buddhist
+    pictures.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Land of Pékché
+  description: The polity described as sending envoys, tribute, Buddhist relics, religious
+    personnel, and specialists.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Envoys from Pékché
+  description: Unnamed envoys sent by the Land of Pékché.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hyé-song, Nyong-Keun, and Hyé-sik
+  description: Buddhist priests sent along with the envoys.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Syu-sin, Ke-mun, and Pok-pu-m?-sin
+  description: Ranked persons named as Eun-sol Syu-sin, Ték-sol Ke-mun, and Nasol
+    Pok-pu-m?-sin, sent with tribute and relics.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Nyéng-chyo
+  description: A Buddhist priest sent in the same passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Nyéng-wi, Hyé-chyung, Hyé-syuk, and To-6m
+  description: Ascetics listed among those sent by Pékché.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Ta-nyang Mi-ta and Mun-ko-ko-cha
+  description: Temple carpenters listed among the specialists sent by Pékché.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Péng-mé-syun
+  description: A Chyang-tok described as learned in the art of making braziers and
+    chargers; a note identifies such artisans as metal-founders.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:9
+  name_or_label: Mana Puno, Yang Kwi-mun, Neung Kwi-mun, and Syék-ma Tyé-mi
+  description: Men learned in pottery.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:10
+  name_or_label: Pek-ka
+  description: A painter named among the specialists; a note says probably a painter
+    of Buddhist pictures.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: sending polity
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly says the Land of Pékché sent envoys, tribute, relics,
+    religious personnel, and specialists.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: envoys
+  assigned_to:
+  - fig:2
+  basis: They are explicitly called envoys sent by the Land of Pékché.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Buddhist religious personnel
+  assigned_to:
+  - fig:3
+  - fig:5
+  - fig:6
+  basis: The passage identifies Buddhist priests and ascetics by name.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: tribute-bearing ranked persons
+  assigned_to:
+  - fig:4
+  basis: They are named with ranks and are said to have been sent with tribute and
+    Buddhist relics.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: temple carpenters
+  assigned_to:
+  - fig:7
+  basis: They are explicitly called temple carpenters.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: craft and art specialists
+  assigned_to:
+  - fig:8
+  - fig:9
+  - fig:10
+  basis: The passage lists a specialist in braziers and chargers, men learned in pottery,
+    and a painter.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Buddhist relics
+  literal_form: Buddhist relics presented by Pékché
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: tribute
+  literal_form: tribute sent by Pékché
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: specialized craft goods and skills
+  literal_form: braziers, chargers, pottery, temple carpentry, and painting
+  associated_figures:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pékché sends envoys, priests, and relics
+  summary: The Land of Pékché sends envoys accompanied by three Buddhist priests and
+    a present of Buddhist relics.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pékché sends tribute, relics, religious personnel, and specialists
+  summary: The Land of Pékché sends ranked persons with tribute and Buddhist relics,
+    together with a Buddhist priest, ascetics, temple carpenters, metal and pottery
+    specialists, and a painter.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Diplomatic presentation of sacred relics
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Buddhist relics are twice described as presents sent by Pékché, once with
+    envoys and once with tribute-bearing ranked persons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the event as chronicle-style diplomacy; it does not
+    state a reciprocal exchange or narrate a mythic ritual.
+- id: motif:2
+  label: Transmission of religious and craft specialists
+  taxonomy_refs: []
+  basis: The passage groups Buddhist priests, ascetics, temple carpenters, metal-related
+    specialists, potters, and a painter within Pékché's dispatch.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a cultural-transmission pattern rather than a clearly named mythological
+    motif in the supplied taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The dispatch of Buddhist relics as presents alongside tribute can be cautiously
+    compared by function to a sacred-exchange pattern.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not describe reciprocity, divine command, ritual efficacy,
+    or a narrative transformation resulting from the exchange.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6454-6457
+  quote_or_summary: Pékché sent envoys with Buddhist priests Hyé-song, Nyong-Keun,
+    and Hyé-sik, and "a present of Buddhist relics."
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 6457-6462
+  quote_or_summary: Pékché sent Eun-sol Syu-sin, Ték-sol Ke-mun, and Nasol Pok-pu-m?-sin
+    with tribute, Buddhist relics, the Buddhist priest Nyéng-chyo, and several ascetics.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6462-6467
+  quote_or_summary: The passage lists temple carpenters Ta-nyang Mi-ta and Mun-ko-ko-cha,
+    Péng-mé-syun as learned in making braziers and chargers, potters Mana Puno, Yang
+    Kwi-mun, Neung Kwi-mun, Syék-ma Tyé-mi, and painter Pek-ka.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: note
+  locator: lines 6470-6475
+  quote_or_summary: Notes identify the braziers-and-chargers artisans as metal-founders
+    called Hakase, and say the painter was probably of Buddhist pictures.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is straightforward, but several names contain OCR or diacritic
+    uncertainty and the motif interpretation is limited because the text is a chronicle
+    notice rather than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Names and spellings are preserved as provided.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l6454-l6475
+  passage_sha256=ad938e3ca634d1ef98326554d774ac3c2d6a682f889d4b7c326b37274b68b4c6
+

@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15798-l15843
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER VI, 3-6. 295 / CHAPTER VI, 7 -VII, I. 297 / Chapter VII. / CHAPTER
+    VII, 2-8. 299; lines 15798-15843
+  start: '15798'
+  end: '15843'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual prescriptions about reverencing the sun, washing
+    dirty hands, destroying corruption, angelic presence in the body, and the efficacy
+    of good works. It also describes permitted forms for propitiating fire and states
+    required acts and punishments for someone who extinguishes a fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If one does not reverence the sun, good works done that day are said not to
+    be one's own; some say there is no share in good works done within the law of
+    the good religion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If dirty hands are not washed, any good work performed is said not to be one's
+    own.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Failure to utterly destroy corruption is said to prevent the coming of angels
+    to the body.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage gives a sequence: no coming of angels to the body, no steadfastness
+    in the religion, and no good work reaching the person.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note identifies the corruption as a demon associated with filth of the nature
+    of dead matter until expelled or destroyed by cleansing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: For the propitiation of fire, it is allowable to perform one 'athro' by itself,
+    or to use two plus the 'ma^ vispaeibyo aterebyo' as three forms of propitiation.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A shnuman is described in a note as a short formula of praise that dedicates
+    prayers or a ceremony to the intended spirit's service.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A note says the fire propitiation consists of five sentences beginning with
+    'athro,' with the last also containing words meaning 'with all fires.'
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Whoever extinguishes a fire must gather ten fires, endure ten punishments,
+    destroy ten ants, and present holy-water to the sacred fire.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: generic ritual actor
+  description: The unnamed person addressed by the prescriptions about reverencing
+    the sun, washing dirty hands, performing good works, and propitiating fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: angels
+  description: Angels whose coming to the body is said to depend on the destruction
+    of corruption.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: demon of corruption
+  description: The footnote describes corruption as a demon that enters and resides
+    in filth of dead matter until cleansing expels or destroys it.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: fire or sacred fire
+  description: Fire is the object of propitiation; the sacred fire is the recipient
+    of holy-water after someone extinguishes a fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: fig:5
+  name_or_label: fire-extinguisher
+  description: The unnamed person who extinguishes a fire and is assigned tenfold
+    remedial acts and punishments.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritually obligated actor
+  assigned_to:
+  - fig:1
+  basis: The passage instructs an unnamed person about sun reverence, hand washing,
+    good works, and fire propitiation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: angelic visitors to the body
+  assigned_to:
+  - fig:2
+  basis: Angels are said to come to the body only when corruption has been destroyed.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: resident demon of corruption
+  assigned_to:
+  - fig:3
+  basis: The note says the demon of corruption enters and resides in filth of dead
+    matter until cleansed away.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: propitiated and receiving sacred fire
+  assigned_to:
+  - fig:4
+  basis: Fire is propitiated through ritual formulae, and the sacred fire receives
+    holy-water.
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: role:5
+  label: ritual offender against fire
+  assigned_to:
+  - fig:5
+  basis: The person who extinguishes fire is required to gather fires, endure punishments,
+    destroy ants, and present holy-water.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: sun reverence
+  literal_form: the sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dirty hands and corruption
+  literal_form: dirty hands; corruption (nasu); filth of dead matter
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire and sacred fire
+  literal_form: fire; sacred fire (atar-i Vahram)
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: propitiatory formula
+  literal_form: shnuman; 'athro'; 'ma^ vispaeibyo aterebyo'
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: holy-water
+  literal_form: holy-water (zohar)
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: tenfold requirement
+  literal_form: ten fires; ten punishments; ten ants
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: ants to be destroyed
+  literal_form: ten ants
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Sun reverence, cleanliness, and efficacy of good works
+  summary: The passage states that failing to reverence the sun or wash dirty hands
+    prevents good works from being one's own; corruption blocks angels from coming
+    to the body and leads to lack of religious steadfastness.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Propitiation of fire with formulae
+  summary: The passage permits specified forms of the fire propitiation using 'athro'
+    and related formulae, and the notes explain shnuman and the fire formula sequence.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Consequences for extinguishing fire
+  summary: A person who extinguishes a fire must gather ten fires, endure ten punishments,
+    destroy ten ants, and offer holy-water to the sacred fire.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Ritual purity as condition for effective good works
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts cleanliness and destruction of corruption with dirty
+    hands, blocked angelic presence, and ineffective good works.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy reference is broad; the passage is prescriptive
+    ritual instruction rather than a narrative myth.
+- id: motif:2
+  label: Angelic presence blocked by corruption
+  taxonomy_refs:
+  - duality
+  basis: The passage states that without the destruction of corruption there is no
+    coming of angels to the body, followed by lack of steadfastness in religion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The angelic sequence is explicit, but its broader mythic classification
+    remains interpretive.
+- id: motif:3
+  label: Sacred fire propitiation through formula and offering
+  taxonomy_refs: []
+  basis: The passage and notes describe fire propitiation with 'athro' formulae and
+    the presentation of holy-water to the sacred fire.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No exact motif-family taxonomy reference is supplied for fire propitiation;
+    only the fire symbol is directly available.
+- id: motif:4
+  label: Tenfold restitution for extinguishing fire
+  taxonomy_refs: []
+  basis: Extinguishing a fire requires ten fires to be gathered, ten punishments endured,
+    ten ants destroyed, and holy-water presented to the sacred fire.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage states a ritual-legal consequence; it does not explain a mythic
+    origin for the tenfold pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage's rule about using 'athro' sentences for fire propitiation is
+    explicitly connected in the supplied note with fire propitiation formulae in the
+    Sirozah and Atash Nyayish.
+  claim_level: same_function
+  target: Sirozah I, 9 and Atash Nyayish 5-6 fire propitiation formulae named in the
+    note
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the translator's explanatory note in the
+    supplied passage and does not establish broader historical contact or development.
+evidence:
+- id: ev:1
+  type: quote
+  locator: CHAPTER VII, 6
+  quote_or_summary: '"while one does not reverence the sun, the good works which they
+    do that day are not their own"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: CHAPTER VII, 7
+  quote_or_summary: Dirty hands make good works not one's own; without utterly destroying
+    corruption there is no coming of angels to the body, no steadfastness in religion,
+    and no good work reaches the person.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: note
+  locator: Footnote to CHAPTER VII, 7
+  quote_or_summary: The note explains corruption as a demon that enters and resides
+    in filth of the nature of dead matter until expelled or destroyed by cleansing.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER VII, 8
+  quote_or_summary: The passage permits fire propitiation with one 'athro' by itself,
+    or with two and the 'ma^ vispaeibyo aterebyo' as three forms of propitiation.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: Footnote to CHAPTER VII, 8, shnuman
+  quote_or_summary: A shnuman is defined as a short formula of praise reciting titles
+    of the spirit to be propitiated and dedicating prayers or ceremony to that spirit's
+    service.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: note
+  locator: Footnote to CHAPTER VII, 8, fire propitiation
+  quote_or_summary: The note connects the fire propitiation with Sirozah I, 9 and
+    Atash Nyayish 5-6, explaining that it consists of five sentences beginning with
+    'athro' and the last includes words meaning 'with all fires.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: CHAPTER VII, 9
+  quote_or_summary: Whoever extinguishes a fire must gather ten fires, endure ten
+    punishments, destroy ten ants, and present holy-water to the sacred fire.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage and notes.
+    Motif labels are cautious because the material is mainly ritual-legal instruction
+    rather than narrative myth.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnotes included in the supplied passage were treated as evidence. No external texts or taxonomy IDs beyond the provided lists were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15798-l15843
+  passage_sha256=287085514f0c947e4d9f8a9aa0def533bfa3b40eb21a0d4064f92381100ea541
+

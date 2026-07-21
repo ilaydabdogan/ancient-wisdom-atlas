@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l5094-l5141
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: THE  PRELUDE  103 / THE  PRELUDE  105 / THE  PRELUDE  107 / V.  8; lines
+    5094-5141
+  start: '5094'
+  end: '5141'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Deem not these legends lying fantasy”"
+  summary: The speaker frames the Shahnama as a compilation of earlier lore, defends
+    the value of legends, and describes an earlier paladin-antiquary who gathered
+    accounts of kings and heroes from learned archmages.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker says the material he tells has already been told before in the
+    field of lore.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker uses the image of gaining shelter or a footing beneath or upon
+    a lofty tree or shady cypress while leaving behind a history of famous kings as
+    a memorial.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker instructs the audience not to regard the legends as lying fantasy,
+    saying that most accord with sense or contain a moral.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: An Epic Cycle is said to have existed in former days among learned archmages.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A certain paladin of rustic birth is described as courageous, wise, ranked,
+    worthy, and as an antiquary who searched for legends of past ages.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The paladin called aged archmages from every clime to ask about the annals
+    of the throne, old heroes, past human actions, and daring enterprises.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The archmages told their legendary store, including how the world fared and
+    what kings undertook.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker or compiler
+  description: The first-person voice who says the lore has been told before and hopes
+    to leave a history of famous kings as a memorial.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: certain paladin of rustic birth
+  description: A courageous, wise, ranked, and worthy antiquary who searched for legends
+    of past ages.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: learned or hoar archmages
+  description: Learned figures among whom the Epic Cycle was spread and from whom
+    legendary accounts were requested and told.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: famous kings and heroes of old time
+  description: The kings and successful heroes whose annals and deeds are the subject
+    of the requested legendary accounts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: transmitter of earlier lore
+  assigned_to:
+  - fig:1
+  basis: The speaker says his material has already been told before and presents the
+    history of famous kings as his memorial.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: antiquary and collector of legends
+  assigned_to:
+  - fig:2
+  basis: The paladin is explicitly called an antiquary who searched for past legends
+    and summoned archmages to answer questions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: learned tradition-bearers
+  assigned_to:
+  - fig:3
+  basis: The Epic Cycle is said to have been spread among learned archmages, who later
+    told their legendary store.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: subjects of royal-heroic annals
+  assigned_to:
+  - fig:4
+  basis: The passage names famous kings, annals of the throne, successful heroes,
+    and what kings undertook as the content of the lore.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree as sheltering or memorial image
+  literal_form: fruit-tree, lofty tree, shady cypress
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Speaker frames inherited lore
+  summary: The speaker states that the lore has already been told, invokes the image
+    of shelter under a lofty tree, and presents the history of famous kings as a memorial
+    rather than as mere fantasy.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Paladin gathers ancient legendary history
+  summary: A paladin-antiquary seeks out old legends by summoning archmages and asking
+    them about royal annals, ancient heroes, past human actions, and kingly undertakings.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: compilation and transmission of ancient wisdom
+  taxonomy_refs:
+  - wisdom
+  basis: The passage emphasizes prior lore, learned archmages, the search for old
+    legends, and the telling of a legendary store.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a proemial and historiographic motif rather than a discrete mythic
+    episode.
+- id: motif:2
+  label: royal-heroic annals preserved as collective memory
+  taxonomy_refs: []
+  basis: The speaker describes a history of famous kings, while the paladin asks about
+    the annals of the throne, successful heroes, and what kings undertook.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage concerns preservation of royal-heroic memory, but it does
+    not explicitly claim royal legitimacy or divine sanction.
+- id: motif:3
+  label: shelter beneath the inherited tree of tradition
+  taxonomy_refs: []
+  basis: The speaker compares his place in earlier lore to receiving protection beneath
+    a lofty tree and perhaps finding footing on a shady cypress.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The tree image is metaphorical in this passage; no sacred-tree or world-axis
+    function is stated.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly aligns the present telling with an earlier Epic Cycle
+    preserved among learned archmages and later gathered through inquiry.
+  claim_level: same_function
+  target: earlier Epic Cycle among learned archmages
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the passage’s own account of textual inheritance; it is not
+    independent evidence of historical contact or a specific external source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5099-5112
+  quote_or_summary: The speaker says others have already worked in lore, that what
+    he tells has been told before, and uses tree imagery before describing a history
+    of famous kings as his memorial.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5113-5118
+  quote_or_summary: "“Deem not these legends lying fantasy”; most “accord with sense”
+    or “Contain a moral.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 5120-5128
+  quote_or_summary: In former days an Epic Cycle was spread among learned archmages;
+    a rustic-born paladin of courage, wisdom, rank, and worth searched for legends
+    of past ages.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 5130-5137
+  quote_or_summary: The paladin called aged archmages from every clime to ask about
+    royal annals, old heroes, past deeds, inherited misery, and daring enterprises.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5138-5140
+  quote_or_summary: The archmages told “their legendary store,” including “How this
+    world fared and what kings undertook.”
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is clear about compilation, inherited lore, and royal-heroic
+    annals. Motif labels are somewhat interpretive because the passage is a prelude
+    about transmission rather than a narrative myth episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were limited to explicitly supported available refs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l5094-l5141
+  passage_sha256=7d02a15051c955de66cff5929531d4afe75879e050c7da9a47a05a03b2571177
+

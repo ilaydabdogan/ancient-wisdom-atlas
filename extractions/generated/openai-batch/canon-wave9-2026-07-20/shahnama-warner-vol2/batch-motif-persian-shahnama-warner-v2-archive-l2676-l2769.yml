@@ -1,0 +1,455 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v2-archive-l2676-l2769
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+passage_locator:
+  label: KA1   KAUS  29 / KA1  KAUS  43 / THE   SEVEN   COURSES   OF  RUSTAM / THE  THIRD  COURSE;
+    lines 2676-2769
+  start: '2676'
+  end: '2769'
+  translation: The Shahnama of Firdausi, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: How Rustam fought with a Dragon
+  summary: In the third course, a dragon from a deadly waste repeatedly approaches
+    while Rustam sleeps. Rakhsh wakes him several times, first earning Rustam's anger
+    because the dragon remains unseen in the gloom. On the third warning, the dragon
+    roars and breathes fire; Rakhsh again alerts Rustam, the dragon becomes visible,
+    and Rustam challenges it. The dragon claims the waste as its ancient domain, Rustam
+    gives his lineage, and combat begins, with the outcome not included in the supplied
+    excerpt.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading identifies the passage as the third course and as an episode in
+    which Rustam fought a dragon.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A dragon comes from the waste; its haunt is there, and other powerful beings
+    or animals are said not to escape it.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The dragon sees Rustam asleep with a charger near him and becomes angry at
+    their presence.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Rakhsh wakes Rustam by running to him, stamping, whisking his tail, and neighing,
+    but Rustam initially cannot see the dragon in the darkness.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After repeated wakings, Rustam rebukes Rakhsh and threatens to behead him
+    if he disturbs him again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the third approach, the dragon roars and is described as breathing fire;
+    Rakhsh is afraid but alerts Rustam out of affection for him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Maker wills that the dragon be seen, and Rustam perceives it in the gloom
+    and draws his sword.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Rustam demands the dragon's name before taking its life.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The dragon says none escape it, claims the waste as its home for centuries,
+    and asks Rustam's name.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Rustam identifies himself as sprung from Zal, son of Sam, and connected with
+    Nariman; he names Rakhsh and threatens to lay the dragon's head in dust.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The dragon closes with Rustam and a fierce fight begins; the supplied passage
+    ends before the outcome is given.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Rustam
+  description: Hero, atheling, and paladin sleeping in the waste; he identifies himself
+    as sprung from Zal, son of Sam, and Nariman, and confronts the dragon with a sword.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Rakhsh
+  description: Rustam's glossy, docile, affectionate, watchful, and dauntless charger;
+    he repeatedly wakes Rustam by neighing and stamping.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Dragon
+  description: A fierce, fell, fearsome, and laidly dragon or worm from the waste;
+    it is said to destroy passers-by, roar, breathe fire, claim the waste, and fight
+    Rustam.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: The Maker
+  description: Named divine agency whose will makes the dragon visible to Rustam.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sleeping hero and dragon-combatant
+  assigned_to:
+  - fig:1
+  basis: Rustam sleeps in the dragon's territory, is awakened, sees the dragon, challenges
+    it, gives his lineage, and enters combat.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:2
+  label: loyal warning steed
+  assigned_to:
+  - fig:2
+  basis: Rakhsh repeatedly alerts Rustam to the unseen dragon through neighing, stamping,
+    and approaching him despite fear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: territorial draconic adversary
+  assigned_to:
+  - fig:3
+  basis: The dragon haunts the waste, claims it as its home for centuries, says none
+    escape it, and attacks Rustam.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: role:4
+  label: divine revealer of hidden danger
+  assigned_to:
+  - fig:4
+  basis: The passage states that the Maker willed the dragon to be seen by Rustam.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: dragon or worm
+  literal_form: A dragon, also called a worm, haunting the waste and fighting the
+    hero.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+- id: sym:2
+  label: fire breath and battle-fire
+  literal_form: The dragon is said to breathe fire, and Rustam's combat response fills
+    the earth with battle-fire.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: monster-haunted waste
+  literal_form: A waste that is the dragon's haunt and claimed home, where lions,
+    divs, elephants, eagles, and stars are said not to pass safely.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: night gloom concealing danger
+  literal_form: Darkness or gloom in which the dragon approaches unseen until the
+    Maker wills it visible.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dragon enters the waste and sees the sleeper
+  summary: The dragon comes from its waste-haunt, sees Rustam asleep with Rakhsh nearby,
+    and is angered by their presence in a place other beings fear to pass.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Rakhsh's first and second warnings
+  summary: Rakhsh wakes Rustam by stamping and neighing as the dragon approaches,
+    but Rustam sees only darkness and rebukes the horse, finally threatening him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Third warning and revelation of the dragon
+  summary: The dragon roars and breathes fire. Rakhsh, though afraid, alerts Rustam
+    again. The Maker wills the dragon visible, and Rustam draws his sword.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Exchange of names before combat
+  summary: Rustam demands the dragon's name; the dragon boasts that none escape it
+    and asks Rustam's name; Rustam gives his lineage and threatens to kill it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Combat begins
+  summary: The dragon closes with Rustam and battles him fiercely. Rakhsh sees the
+    dragon's might as the supplied excerpt ends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Hero confronts a dragon or serpentine monster
+  taxonomy_refs:
+  - serpent
+  basis: The passage centers on Rustam perceiving, challenging, and beginning combat
+    with a dragon or worm that haunts the waste.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The supplied excerpt ends before the dragon's defeat or survival is narrated.
+- id: motif:2
+  label: Loyal animal warns sleeping hero of hidden danger
+  taxonomy_refs: []
+  basis: Rakhsh repeatedly wakes Rustam through stamping and neighing while the dragon
+    is unseen, and persists despite Rustam's anger and his own fear.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the warning action clearly but does not describe the
+    full resolution of Rakhsh's role in the fight.
+- id: motif:3
+  label: Monster claims an impassable territory
+  taxonomy_refs:
+  - serpent
+  basis: The dragon's waste is described as a place where lions, divs, elephants,
+    eagles, and even stars do not pass safely, and the dragon claims it as its ancient
+    home.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The territorial language is strong, but broader cosmological or boundary
+    functions are not explained in this excerpt.
+- id: motif:4
+  label: Named heroic ordeal within a course or trial sequence
+  taxonomy_refs:
+  - initiation
+  basis: The heading calls the episode the third course, and the episode presents
+    a dangerous ordeal in which Rustam must confront a dragon.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy link to initiation is interpretive; the excerpt names a course
+    but does not explicitly call it an initiation.
+- id: motif:5
+  label: Name exchange before lethal combat
+  taxonomy_refs: []
+  basis: Before fighting, Rustam asks the dragon's name, the dragon asks Rustam's
+    name, and Rustam answers with lineage and a threat.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a formal combat pattern in the passage, but no broader comparison
+    is established by the excerpt alone.
+comparison_claims:
+- id: claim:1
+  claim: The episode can be cautiously compared to a serpent or dragon-combat motif
+    family because it features a draconic monster, a threatened hero, challenge speech,
+    and the beginning of combat.
+  claim_level: same_motif
+  target: serpent motif family / dragon-combat pattern
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not include the combat outcome, and the comparison
+    is limited to the dragon-combat features visible in the supplied passage.
+- id: claim:2
+  claim: Rakhsh's repeated warnings support comparison to an animal-helper warning
+    pattern, in which a nonhuman companion perceives or responds to danger before
+    the hero does.
+  claim_level: same_function
+  target: loyal animal-helper warns sleeping hero pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the warning function, but no external parallel
+    or historical link is supplied in the excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2676-2769, heading
+  quote_or_summary: '"THE THIRD COURSE"; "How Rustam fought with a Dragon"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2676-2769, opening dragon description
+  quote_or_summary: A dragon comes from the waste, where it has its haunt; lions,
+    divs, and elephants do not pass safely, and it sees the sleeping hero and charger.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2676-2769, first and second awakenings
+  quote_or_summary: Rakhsh runs to Rustam, stamps, paws, tramples, and neighs; Rustam
+    wakes, sees only gloom, rebukes Rakhsh, and threatens to behead him if disturbed
+    again.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2676-2769, third approach
+  quote_or_summary: The dragon roars and is said to breathe fire; Rakhsh fears approaching
+    Rustam but, out of affection, rushes to him, neighs, frets, paws, and stamps.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2676-2769, revelation of the dragon
+  quote_or_summary: The Maker wills that the dragon be seen; Rustam perceives it in
+    the gloom, draws his sword, and fills the earth with battle-fire.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2676-2769, dragon's speech
+  quote_or_summary: Rustam asks the dragon to tell its name before he kills it; the
+    dragon replies that none escape, that the waste has been its home for centuries,
+    and asks Rustam's name.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 2676-2769, Rustam's reply
+  quote_or_summary: Rustam says he is Rustam, sprung from Zal, son of Sam, and Nariman;
+    he says he is himself a host, names Rakhsh, and threatens to lay the dragon's
+    head in dust.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 2676-2769, combat opening
+  quote_or_summary: The dragon closes with Rustam and fights fiercely; Rakhsh sees
+    the dragon's might as the supplied passage breaks off before the result.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public-domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main figures, actions, and motifs are explicit in the passage. Motif
+    taxonomy links involving initiation and broader comparison claims require review
+    because the supplied excerpt gives only part of the episode and no external parallels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The passage ends mid-combat, so no outcome has been inferred.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v2-archive__l2676-l2769
+  passage_sha256=69584c18f72887098085384071c257b925d9eee47cd1c6f9a59e9522202dca73
+

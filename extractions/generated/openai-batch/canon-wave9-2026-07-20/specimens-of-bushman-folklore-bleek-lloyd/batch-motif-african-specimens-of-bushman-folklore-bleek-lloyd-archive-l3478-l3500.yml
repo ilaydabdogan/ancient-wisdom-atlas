@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l3478-l3500
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE SON OF THE WIND. / THE SON OF THE WIND. / THE HYENA'S EEVENGE. / THE
+    HYENA'S REVENGE.; lines 3478-3500
+  start: '3478'
+  end: '3500'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'In the second version of “The Hyena’s Revenge,” a male Hyena takes a pot
+    from the fire and intends to burn the Lion to death with hot soup, deceiving him
+    in response to the Lion’s withholding of quagga flesh. The passage also states
+    several same-kind animal marriage pairings: Lion with Lioness, Hyena with female
+    Hyena, leopard with leopardess, and hunting leopard with hunting leopardess.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure takes a pot off the fire while intending to kill the Lion by the
+    heat of the soup.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The intended killing is connected to the Lion having been niggardly toward
+    the figure about quagga flesh.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The figure deceives the Lion with ostrich flesh and intends to put the Lion’s
+    head into the pot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage identifies the figure as a male Hyena who has married a female
+    Hyena and is called “Decayed Arm.”
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Lion marries a Lioness because the Lion is a male Lion.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The Hyena marries a female Hyena because the Hyena is a male Hyena.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The leopard marries a leopardess because the leopard is a male leopard.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The hunting leopard marries a hunting leopardess because the hunting leopard
+    is a male hunting leopard.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: male Hyena / “Decayed Arm”
+  description: Male Hyena who has married a female Hyena; he takes the pot from the
+    fire, intends to burn the Lion to death with soup heat, and deceives the Lion.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Lion
+  description: The Lion is the intended victim of the hot soup plan; he is described
+    as having been niggardly about quagga flesh and as marrying a Lioness.
+  role_refs:
+  - role:2
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: female Hyena
+  description: Female Hyena married by the male Hyena.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Lioness
+  description: Lioness married by the male Lion.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: leopard
+  description: Male leopard who marries a leopardess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: leopardess
+  description: Female leopard married by the male leopard.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: hunting leopard
+  description: Male hunting leopard who marries a hunting leopardess.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: hunting leopardess
+  description: Female hunting leopard married by the male hunting leopard.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceiver and revenger
+  assigned_to:
+  - fig:1
+  basis: The passage title names revenge, and the male Hyena deceives the Lion while
+    planning to kill him with hot soup.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: intended victim
+  assigned_to:
+  - fig:2
+  basis: The Lion is the one whom the male Hyena intends to burn to death with soup
+    heat.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: withholder of quagga flesh
+  assigned_to:
+  - fig:2
+  basis: The Lion is said to have been niggardly toward the male Hyena about quagga
+    flesh.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: male animal spouse
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:7
+  basis: The passage presents the male Hyena, Lion, leopard, and hunting leopard as
+    marrying corresponding female animals of the same kind.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: female animal spouse
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: The female Hyena, Lioness, leopardess, and hunting leopardess are listed
+    as spouses of corresponding male animals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire under or near the pot
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: pot
+  literal_form: pot taken off from the fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: hot soup
+  literal_form: soup whose heat is intended to burn the Lion to death
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: quagga flesh
+  literal_form: quagga flesh withheld or dealt with niggardly by the Lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: ostrich flesh
+  literal_form: ostrich flesh used in the deception of the Lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hyena’s planned revenge through hot soup
+  summary: The male Hyena takes a pot from the fire, plans to burn the Lion to death
+    with the soup’s heat, and deceives him with ostrich flesh because of a grievance
+    over quagga flesh.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Same-kind animal marriages
+  summary: 'The passage lists male animals and their corresponding female spouses:
+    Lion and Lioness, Hyena and female Hyena, leopard and leopardess, and hunting
+    leopard and hunting leopardess.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: revenge through deceptive food preparation
+  taxonomy_refs: []
+  basis: The male Hyena responds to the Lion’s withholding of quagga flesh by deceiving
+    him with ostrich flesh and preparing a plan involving a pot, fire, and hot soup.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is fragmentary and does not narrate the outcome of the planned
+    revenge.
+- id: motif:2
+  label: attempted killing by heated cooking vessel
+  taxonomy_refs: []
+  basis: The male Hyena takes the pot from the fire and intends to burn the Lion to
+    death with the soup’s heat and to put the Lion’s head into the pot.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The extract states intention rather than completion.
+- id: motif:3
+  label: same-kind animal marriage pairing
+  taxonomy_refs: []
+  basis: 'The passage explicitly pairs male animals with female counterparts of the
+    same kind: Lion/Lioness, Hyena/female Hyena, leopard/leopardess, and hunting leopard/hunting
+    leopardess.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents the pairings as explanatory statements rather than
+    a developed narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3478-3480
+  quote_or_summary: "“THE HYENA'S REVENGE. Second Version.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 3481-3485
+  quote_or_summary: A figure takes the pot off the fire while intending to burn the
+    Lion to death with the soup’s heat.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3485-3489
+  quote_or_summary: The Lion had been niggardly about quagga flesh; the figure deceives
+    the Lion with ostrich flesh and intends to put the Lion’s head into the pot.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3489-3492
+  quote_or_summary: "“he had married a female Hyena ... he also is a male Hyena; therefore,
+    he is a ‘Decayed Arm’”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 3494-3500
+  quote_or_summary: The passage states that the Lion marries a Lioness, the Hyena
+    marries a female Hyena, the leopard marries a leopardess, and the hunting leopard
+    marries a hunting leopardess, each because the male is of that animal kind.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is short and contains OCR-like disruptions and fragmentary notation.
+    The main actions and relationship statements are clear, but identity links rely
+    on nearby wording within the extract.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a cross-text or historical comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l3478-l3500
+  passage_sha256=76459a0ae22ee5222c917523b3722623a6814270fc590bd9d00006bc9cc26f74
+

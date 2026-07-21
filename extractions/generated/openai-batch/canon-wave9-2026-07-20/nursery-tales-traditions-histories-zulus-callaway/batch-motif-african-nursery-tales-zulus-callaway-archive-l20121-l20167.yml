@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l20121-l20167
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: RIDDLES. / IZINCANEKWAUE. / KEY TO THE KIDDLES. / KEY TO THE RIDDLES.; lines
+    20121-20167
+  start: '20121'
+  end: '20167'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives explanatory keys to riddles: a cow represents a house,
+    with milk standing for the benefit or joy of dwelling in it; a village and its
+    paths are explained through branch, fruit, and pumpkin imagery; and a louse is
+    described as taken from a blanket and killed by squeezing it between two thumbs,
+    with an ox named in the riddle wording.'
+  language: English with a Zulu excerpt
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The key states that the riddle word “cow” means a house.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The milk of the cow is explained as the joy or benefit that a house gives
+    to those who live under it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The house is described as lasting a long time and preserving the people, but
+    as not rising again after it falls.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The word “cow” is said to make a person avoid thinking of a house and search
+    instead among cattle.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A village and the paths that pass from it are explained as branches that bear
+    fruit.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage says there is no path without a village, and that paths leave
+    homesteads and go to homesteads.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Pumpkins are identified as villages from which paths go out.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: A louse is described as taken from a blanket.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The louse cannot be killed with one thumb but is killed by bringing two thumbs
+    together and squeezing it between them.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:10
+  text: Both nails are described as becoming red or bloody after squeezing the louse.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:11
+  text: The passage says “ox” in the louse explanation, but the stated purpose clause
+    is incomplete in the supplied passage.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: riddle solver or man
+  description: A man is described as being led by the riddle word “cow” to search
+    among cattle, and also as taking a louse from his blanket.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: people living beneath a house
+  description: The people who live beneath the house are described as being preserved
+    by it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: louse / intwala
+  description: A louse is taken from a blanket and killed by being squeezed between
+    two thumbs.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: misdirected riddle solver
+  assigned_to:
+  - fig:1
+  basis: The passage says the word “cow” is used so that a man will not think of a
+    house but will keep searching among cattle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: protected inhabitants
+  assigned_to:
+  - fig:2
+  basis: The house is said to give benefit to those beneath it and to preserve the
+    people.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: domestic actor
+  assigned_to:
+  - fig:1
+  basis: The man takes a louse out of his blanket before killing it.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: riddle answer acted upon
+  assigned_to:
+  - fig:3
+  basis: The key identifies the answer as a louse and describes the action performed
+    on it.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cow as house riddle-term
+  literal_form: cow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: house as hidden answer
+  literal_form: house
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: milk as domestic benefit
+  literal_form: milk
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: village as source of paths
+  literal_form: village or homestead
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: paths as branches
+  literal_form: paths / branches bearing fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: pumpkins as villages
+  literal_form: pumpkins
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: louse as hidden answer
+  literal_form: louse / intwala
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: two thumbs as killing implement
+  literal_form: two thumbs and nails
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: red or bloody nails
+  literal_form: red or bloody nails
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:10
+  label: ox as louse-riddle term
+  literal_form: ox
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Key to the cow-house riddle
+  summary: The key explains that “cow” means house, that milk means the joy or benefit
+    of the house, and that the animal term is used to misdirect the solver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Key to the village-path riddle
+  summary: The key explains villages and paths through images of branches, fruit,
+    and pumpkins, emphasizing that paths go from and to homesteads.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Key to the louse riddle
+  summary: The key identifies a louse taken from a blanket, killed between two thumbs,
+    with both nails becoming red or bloody; the term “ox” appears in the riddle explanation.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:7
+  - sym:8
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: riddle key through metaphorical substitution
+  taxonomy_refs:
+  - wisdom
+  basis: The passage explicitly explains riddles by mapping misleading surface terms
+    such as cow, branches, pumpkins, and ox onto hidden answers or domestic realities.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is an explanatory riddle key rather than a narrative myth; the taxonomy
+    link to wisdom is broad.
+- id: motif:2
+  label: deliberate riddle misdirection
+  taxonomy_refs:
+  - wisdom
+  basis: The passage states that the word “cow” is chosen so that a man will not think
+    of the actual answer, a house, but will search among cattle.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The same pattern may apply to the ox/louse item, but the supplied passage
+    breaks off before the full explanation is given.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20121-20142
+  quote_or_summary: The key explains that “cow” means a house; milk is the joy or
+    benefit the house gives those beneath it; the house preserves people and does
+    not rise again after falling; the word “cow” misdirects a man toward cattle.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 20143-20155
+  quote_or_summary: The key explains a village and its paths as branches bearing fruit;
+    it says paths leave and lead to homesteads, and that pumpkins are villages from
+    which paths go out.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 20156-20167
+  quote_or_summary: The key identifies intwala as a louse taken from a blanket; it
+    is killed by squeezing it between two thumbs, making both nails red or bloody;
+    the passage then says “ox,” with the following clause truncated in the supplied
+    text.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is explicit as a riddle key, so literal extraction is strong.
+    Motif classification is limited because the passage is non-narrative and only
+    broad wisdom/riddle categories are available. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage ends mid-sentence after the louse/ox explanation, so no completion of that explanation has been inferred.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l20121-l20167
+  passage_sha256=a763ddcb4f66fb672dc7604d5320d0457882420e42a82830ba1aefb3f8aa93eb
+

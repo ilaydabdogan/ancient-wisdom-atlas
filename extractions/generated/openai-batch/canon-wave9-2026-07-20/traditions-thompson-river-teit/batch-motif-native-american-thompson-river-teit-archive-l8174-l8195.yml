@@ -1,0 +1,523 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l8174-l8195
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: IX. THE SUN AND HIS DAUGHTER. / X. THE HOT AND THE COLD WINDS. / XI. THE
+    MOSQUITO AND THE THUNDER. / XII. THE ORIGIN OF FIRE.; lines 8174-8195
+  start: '8174'
+  end: '8195'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a brief etiological account of why Thunder strikes tree-tops,
+    followed by two versions of an origin-of-fire tale. In the first, Swallow discovers
+    the fire owners at Lytton, and Eagle and Beaver use a clamshell, capture, distraction,
+    and flooding to take fire and escape. In the second, two brothers gain supernatural
+    powers; the elder undergoes killing, animal consumption, and revival, and the
+    brothers later transform into Eagle and Beaver before the rest follows the first
+    version.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Thunder desires to eat blood.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mosquito tells Thunder that blood is obtained from the tops of trees.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Thunder strikes tree-tops because of what Mosquito told him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Swallow is sent by Beaver and Eagle and discovers the owners of fire at Lytton.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Eagle flies away holding a clamshell.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Beaver allows himself to be caught by the fire owners, who begin to carve
+    him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When Eagle appears, the people run to shoot him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Eagle drops the shell into the house, Beaver fills it with fire, floods the
+    house, and both escape.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In the second version, two brothers obtain supernatural powers.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The elder brother asks the younger to kill him, allow animals to eat his body,
+    and catch an Eagle when it comes.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: After those actions are done, the elder brother revives.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The younger brother catches Beaver in the same manner, and the brothers transform
+    themselves into an Eagle and a Beaver.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thunder
+  description: A being who desires to eat blood and then strikes tree-tops.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mosquito
+  description: A being who tells Thunder that blood is obtained from the tops of trees.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Swallow
+  description: A bird sent by Beaver and Eagle who discovers the owners of fire at
+    Lytton.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Beaver
+  description: An animal figure who sends Swallow with Eagle, allows himself to be
+    caught, fills the shell with fire, floods the house, and escapes.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Eagle
+  description: An animal figure who sends Swallow with Beaver, flies holding a clamshell,
+    appears as a distraction, drops the shell into the house, and escapes with Beaver.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Owners of the fire at Lytton
+  description: People or beings identified as owners of fire; they catch Beaver and
+    begin to carve him.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:7
+  name_or_label: People in the house
+  description: People who run to shoot Eagle when he appears.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Elder brother
+  description: One of two brothers with supernatural powers; he asks to be killed,
+    eaten by animals, and later revives.
+  role_refs:
+  - role:9
+  - role:10
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:9
+  name_or_label: Younger brother
+  description: One of two brothers with supernatural powers; he follows the elder
+    brother's instructions and later catches Beaver in the same manner.
+  role_refs:
+  - role:9
+  - role:11
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: blood-seeking striker of tree-tops
+  assigned_to:
+  - fig:1
+  basis: Thunder desires blood and strikes tree-tops after Mosquito's statement.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: speaker directing Thunder to tree-tops
+  assigned_to:
+  - fig:2
+  basis: Mosquito tells Thunder that blood comes from the tops of trees.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: scout for fire owners
+  assigned_to:
+  - fig:3
+  basis: Swallow is sent and discovers the owners of fire at Lytton.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: agent in obtaining fire
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Beaver and Eagle coordinate the capture, distraction, shell, fire filling,
+    flooding, and escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: voluntary captive
+  assigned_to:
+  - fig:4
+  basis: Beaver allows himself to be caught by the fire owners.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: shell carrier and distraction
+  assigned_to:
+  - fig:5
+  basis: Eagle holds the clamshell, appears so people run to shoot him, and drops
+    the shell into the house.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:7
+  label: possessors of fire
+  assigned_to:
+  - fig:6
+  basis: They are explicitly called the owners of the fire.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: pursuers of Eagle
+  assigned_to:
+  - fig:7
+  basis: The people run to shoot Eagle when he appears.
+  evidence_refs:
+  - ev:4
+- id: role:9
+  label: brothers with supernatural powers
+  assigned_to:
+  - fig:8
+  - fig:9
+  basis: The second version states that two brothers obtain supernatural powers.
+  evidence_refs:
+  - ev:6
+- id: role:10
+  label: killed and revived brother
+  assigned_to:
+  - fig:8
+  basis: The elder brother asks to be killed and later revives after the requested
+    actions are done.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: younger catcher-helper
+  assigned_to:
+  - fig:9
+  basis: The younger brother carries out the elder's instructions and catches Beaver
+    in the same manner.
+  evidence_refs:
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: tree-tops
+  literal_form: tops of trees struck by Thunder
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: blood
+  literal_form: blood desired by Thunder and mentioned by Mosquito
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: fire
+  literal_form: fire owned at Lytton and placed in a shell by Beaver
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: clamshell
+  literal_form: shell held by Eagle and filled with fire by Beaver
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: flooded house
+  literal_form: house caused by Beaver to be flooded during the escape
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: eaten body
+  literal_form: elder brother's body to be eaten by animals before his revival
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: animal transformation
+  literal_form: brothers transform themselves into an Eagle and a Beaver
+  associated_figures:
+  - fig:8
+  - fig:9
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Mosquito explains blood to Thunder
+  summary: Thunder wants blood; Mosquito says it comes from tree-tops, and Thunder
+    consequently strikes tree-tops.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First version of the origin of fire
+  summary: Swallow locates the fire owners at Lytton; Eagle carries a shell, Beaver
+    submits to capture, Eagle distracts the people, and Beaver fills the shell with
+    fire, floods the house, and escapes with Eagle.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: 'Second version: brothers gain power and transform'
+  summary: Two brothers obtain supernatural powers; the elder asks to be killed and
+    eaten by animals before reviving, the younger catches Beaver similarly, and the
+    brothers transform into Eagle and Beaver before the story continues like the first
+    version.
+  figure_refs:
+  - fig:8
+  - fig:9
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  - sym:7
+  - sym:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: etiological explanation for Thunder striking tree-tops
+  taxonomy_refs: []
+  basis: The passage explicitly says Thunder strikes tree-tops because Mosquito told
+    him blood was obtained from tree-tops.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No supplied taxonomy reference directly matches this etiological natural-phenomenon
+    motif.
+- id: motif:2
+  label: origin of fire through animal agents and strategic taking
+  taxonomy_refs:
+  - sacred_theft
+  - culture_hero
+  basis: The tale is titled as an origin of fire; Swallow discovers the fire owners,
+    while Beaver and Eagle use capture, distraction, and a clamshell to obtain fire
+    and escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is a compressed synopsis and does not explicitly state the
+    final recipients or social distribution of the fire.
+- id: motif:3
+  label: voluntary death, animal consumption, and revival after supernatural power
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  - sacrifice
+  - initiation
+  basis: The elder brother, after obtaining supernatural powers, requests to be killed
+    and eaten by animals, and then revives.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The summary does not explain the ritual purpose beyond the brothers having
+    supernatural powers.
+- id: motif:4
+  label: transformation into Eagle and Beaver
+  taxonomy_refs:
+  - shapeshifter
+  basis: The second version states that the brothers transform themselves into an
+    Eagle and a Beaver.
+  evidence_refs:
+  - ev:8
+  confidence: high
+  cautions: The passage does not specify which brother becomes which animal.
+- id: motif:5
+  label: flooding as an escape device during the fire episode
+  taxonomy_refs: []
+  basis: After the shell is filled with fire, Beaver causes the house to be flooded,
+    and Beaver and Eagle escape.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The flooding is local to a house in this synopsis; it is not described
+    as a world flood or renewal event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8174-8177; XI. The Mosquito and the Thunder
+  quote_or_summary: Thunder wants blood; Mosquito tells him it comes from tree-tops,
+    which is given as the reason Thunder strikes tree-tops.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 8179-8182; XII. The Origin of Fire, First Version
+  quote_or_summary: Swallow, sent by Beaver and Eagle, discovers the owners of fire
+    at Lytton.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 8182-8183; XII. The Origin of Fire, First Version
+  quote_or_summary: Eagle flies away while holding a clamshell.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 8183-8185; XII. The Origin of Fire, First Version
+  quote_or_summary: Beaver allows himself to be caught; when the fire owners begin
+    carving him, Eagle appears and the people run to shoot him.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 8185-8187; XII. The Origin of Fire, First Version
+  quote_or_summary: Eagle drops the shell into the house; Beaver fills it with fire,
+    floods the house, and both escape.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 8188-8189; XII. The Origin of Fire, Second Version
+  quote_or_summary: Two brothers obtain supernatural powers.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 8189-8191; XII. The Origin of Fire, Second Version
+  quote_or_summary: The elder brother asks the younger to kill him, let animals eat
+    his body, and catch an Eagle; after this is done, the elder brother revives.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 8191-8195; XII. The Origin of Fire, Second Version
+  quote_or_summary: The younger brother catches Beaver in the same way; the brothers
+    transform into an Eagle and a Beaver, and the rest follows the first version.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a concise synopsis, so literal events are clear but some motif
+    interpretation is limited by lack of narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external tale-type or comparative claims were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l8174-l8195
+  passage_sha256=b00cd4ca8af563ca58eb91e69b9be0b4c308ae9db803e81667a163731fe6d0a6
+

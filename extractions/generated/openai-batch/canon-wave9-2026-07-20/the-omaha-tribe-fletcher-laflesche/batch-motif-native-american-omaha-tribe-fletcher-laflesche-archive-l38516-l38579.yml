@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l38516-l38579
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / SOCIETIES / OPENING  RITUAL / SOCIETIES; lines 38516-38579
+  start: '38516'
+  end: '38579'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: members moved about the lodge waving their eagle-feather fans and "shooting"
+    the pebble
+  summary: The passage describes songs of the Pebble society, their characteristic
+    rhythm, and a ritual action in which members move around the lodge with eagle-feather
+    fans while symbolically shooting a pebble whose magic power makes the person struck
+    fall rigid. One song text is translated as a statement that something has been
+    told and lies here; another song sends a moving arrow and is explained as comparing
+    the pebble to a swift-moving arrow.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The songs are described as belonging to the Pebble society and having a peculiar
+    rhythm.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The songs were sung while members moved around the lodge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Members waved eagle-feather fans during the movement around the lodge.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Members performed an action described as "shooting" the pebble.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The pebble is said to have magic power that caused the person shot to fall
+    rigid when the pebble was supposed to strike the body.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The first song's literal translation includes the statements "I have told
+    you" and "here it lies."
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A later song includes translated words for an arrow moving and being sent.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage explicitly states that in the song the pebble is compared to the
+    swift-moving arrow.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: members of the Pebble society
+  description: Society members who sing, move around the lodge, wave eagle-feather
+    fans, and shoot the pebble.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: the one "shot"
+  description: The person described as being shot and falling rigid when the pebble
+    is supposed to strike the body.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual singers and performers
+  assigned_to:
+  - fig:1
+  basis: They sing the society songs while moving around the lodge, waving fans, and
+    shooting the pebble.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: ritual target struck by pebble
+  assigned_to:
+  - fig:2
+  basis: The passage says the one shot falls rigid as the pebble is supposed to strike
+    the body.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: pebble
+  literal_form: pebble
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: eagle-feather fans
+  literal_form: eagle-feather fans
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: swift-moving arrow
+  literal_form: arrow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Pebble society lodge performance
+  summary: Members of the Pebble society sing while moving around the lodge, waving
+    eagle-feather fans and shooting the pebble.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pebble's magic impact
+  summary: The pebble's magic power is said to make the one shot fall rigid when it
+    is supposed to strike the body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Song comparison of pebble and arrow
+  summary: The translated song words refer to a moving arrow being sent, and the commentary
+    explains that the pebble is compared to a swift-moving arrow.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual shooting with a magically empowered small object
+  taxonomy_refs: []
+  basis: During the society performance, members shoot the pebble, and its magic power
+    causes the target to fall rigid as if struck.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level ritual pattern; no broader taxonomy family is
+    assigned from the available list.
+- id: motif:2
+  label: sacred object likened to a projectile
+  taxonomy_refs: []
+  basis: The song commentary states that the pebble is compared to the swift-moving
+    arrow, and the translated song includes arrow movement and sending.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The comparison is internal to the passage and should not be extended to
+    historical or cross-cultural claims without additional evidence.
+- id: motif:3
+  label: ritual song accompanying embodied society performance
+  taxonomy_refs: []
+  basis: The songs are tied to the Pebble society's rhythm and are sung as members
+    move around the lodge with fans and the pebble-shooting action.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes performance context but does not provide the full
+    ritual sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the pebble used in the ritual to a swift-moving
+    arrow, emphasizing a projectile-like function or image.
+  claim_level: same_function
+  target: swift-moving arrow
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an explicit internal comparison within the passage, not evidence
+    for historical contact or a wider motif distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 38516-38523
+  quote_or_summary: Songs recorded from members of the society are described as belonging
+    to the Pebble society and having a peculiar rhythm; the first song gives the general
+    theme in simple form.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 38523-38529
+  quote_or_summary: The songs were sung as members moved around the lodge, waving
+    eagle-feather fans and "shooting" the pebble; its magic power caused the one "shot"
+    to fall rigid as it was supposed to strike the body.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:3
+  type: summary
+  locator: 38532-38538
+  quote_or_summary: 'The literal translation of the first song gives: "I have told
+    you" and "here it lies," with notes on sentence endings and vowel prolongation.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary with brief quoted phrases used.
+- id: ev:4
+  type: summary
+  locator: 38547-38553
+  quote_or_summary: The literal translation of the later song glosses words as arrow,
+    moving, I send, and I send to you, with sentence-ending and vowel-prolongation
+    notes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 38553-38555
+  quote_or_summary: '"In this song the pebble is compared to the swift-moving arrow."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    conservative and passage-level only. The single comparison claim is limited to
+    the passage's explicit pebble-arrow comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage supports ritual and symbolic-object patterns but not a specific listed motif family without overinterpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l38516-l38579
+  passage_sha256=c90f84914581412bc09d560f84c777105eef56152240e14c1cca760911700592
+

@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l8082-l8116
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: IIKABBO'S JOURNEY IN THE RAILWAY TRAIN. 299 / IIKABBO'S JOUENEY IN THE EAILWAY
+    / IIKABBO'S INTENDED RETUBN HOME. / KILLED.; lines 8082-8116
+  start: '8082'
+  end: '8116'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“For, a gun is that which takes care of an old man”"
+  summary: A first-person speaker says he waits for a gun to be sent to him in a cart.
+    He explains that starvation made him turn back from following sheep, and that
+    he lived with another man in order to obtain a gun. He wants to shoot game for
+    himself rather than eat his companions' food, and says a gun enables an old man
+    to kill springbok and have food in cold wind.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker describes sitting at a place where he waits for a gun.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker expects an unnamed male figure to send the gun to him in a cart.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker says starvation was the reason he was bound and that, while starving,
+    he turned back from following sheep.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says he lived with the unnamed male figure so that he might get
+    and possess a gun.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker wants to shoot in order to feed himself and not eat his companions'
+    food.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker states that a gun takes care of an old man and is used to kill
+    springbok in cold wind.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The speaker says the gun satisfies a man with food in the middle of the cold.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: An unnamed first-person speaker who waits for a gun, wants to possess
+    it, and describes using it to feed himself.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: unnamed sender of the gun
+  description: An unnamed male figure who, according to the speaker, will send the
+    gun to him in a cart.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: companions
+  description: The speaker's companions, whose food he says he does not want to eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: springbok
+  description: Game animals said to be killed with the gun in the cold wind.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: expected recipient and would-be hunter
+  assigned_to:
+  - fig:1
+  basis: The speaker waits for the gun, wants to possess it, and says he will shoot
+    to feed himself.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: sender of gun
+  assigned_to:
+  - fig:2
+  basis: The passage says he will send the gun to the speaker in a cart.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: companions whose food is avoided
+  assigned_to:
+  - fig:3
+  basis: The speaker says he does not eat his companions' food because he eats his
+    own game.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: game animal
+  assigned_to:
+  - fig:4
+  basis: Springbok are identified as animals killed with the gun for food.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: gun
+  literal_form: gun
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cart
+  literal_form: cart
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: cold wind
+  literal_form: cold wind
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: springbok
+  literal_form: springbok
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Waiting for the gun
+  summary: The speaker sits at a place waiting for a gun, which he expects another
+    man to send in a cart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Reason for seeking the gun
+  summary: The speaker explains that starvation led him to turn back from following
+    sheep and that he lived with another man in order to obtain a gun for self-feeding.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gun as food-provider in cold weather
+  summary: The speaker generalizes that a gun takes care of an old man by enabling
+    the killing of springbok and satisfying a man with food in cold wind.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: weapon as provider of food and care
+  taxonomy_refs: []
+  basis: The passage states that a gun takes care of an old man and satisfies a man
+    with food by enabling the killing of springbok.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames the gun in practical subsistence terms; no sacred or
+    supernatural interpretation is stated.
+- id: motif:2
+  label: subsistence independence through possessing a hunting tool
+  taxonomy_refs: []
+  basis: The speaker wants to possess a gun so that he can shoot and feed himself
+    rather than eat his companions' food.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a social and practical pattern in the passage, not a named mythological
+    motif.
+- id: motif:3
+  label: starvation causing a turn back from pursuit or herding
+  taxonomy_refs: []
+  basis: The speaker says starvation caused him to be bound and that, while starving,
+    he turned back from following sheep.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary, and the larger narrative context for the turning
+    back is not supplied in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8082-8116, paragraph beginning “down. And thus”
+  quote_or_summary: The speaker says, “It is there that I sit waiting for the gun,”
+    and that another man “will send the gun to me there” in a cart.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 8082-8116, middle of first paragraph
+  quote_or_summary: The speaker says starvation was the cause and that he “starving
+    turned back from following the sheep.”
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8082-8116, end of first paragraph
+  quote_or_summary: The speaker says he lived with the unnamed man in order to get
+    and possess a gun, shoot for his own food, and avoid eating his companions' food.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 8082-8116, second paragraph
+  quote_or_summary: The passage says a gun “takes care of an old man,” kills springbok
+    in cold wind, and “satisfies a man with food in the very middle of the cold.”
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the fragmentary passage and surrounding headings.
+    Motif candidates are practical subsistence patterns rather than clearly mythological
+    or taxonomic motifs. No comparison claims are made because the excerpt itself
+    does not support comparison to another tradition or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not clearly support one from the supplied lists.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l8082-l8116
+  passage_sha256=087643d448b6f9c3ae2011b001de3cb41faf551b71131ce414066a0211075602
+

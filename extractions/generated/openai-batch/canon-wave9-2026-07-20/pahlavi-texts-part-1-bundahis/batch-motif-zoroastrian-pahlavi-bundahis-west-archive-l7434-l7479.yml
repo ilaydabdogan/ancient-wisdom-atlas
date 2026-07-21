@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l7434-l7479
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter XXVI. / CHAPTER XXVI, I-XXVII, 2. 99 / Chapter XXVII. / CHAPTER XXVII,
+    I 2-24. IO3; lines 7434-7479
+  start: '7434'
+  end: '7479'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage classifies plant products by scent, gumminess, timber, medicinal
+    use, and kinds of edible fruit. It also states that every individual flower is
+    appropriate to an angel, with a note linking these angels to the thirty names
+    assigned to days of the Parsi month.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Scented plant substances such as frankincense, sandalwood, cardamom, camphor,
+    and orange-scented mint are classified as scent.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Sticky material that comes out from plants is classified as gummy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Timber proceeding from trees, whether dry or wet, is classified as wood.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Plants of the described kinds are classified as medicinal.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The principal fruits are said to be thirty kinds, divided into categories
+    according to whether their inside and outside are fit to eat.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Every single flower is said to be appropriate to an angel or ameshospend.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note identifies the relevant set as thirty archangels and angels whose names
+    are applied to the thirty days of the Parsi month.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: angel or ameshospend
+  description: A class of angelic beings to which individual flowers are said to be
+    appropriate.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: thirty archangels and angels
+  description: A note describes these as archangels and angels whose names are applied
+    to the thirty days of the Parsi month.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: angelic correlate of a flower
+  assigned_to:
+  - fig:1
+  basis: The passage states that every single flower is appropriate to an angel or
+    ameshospend.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: calendar-name angelic group
+  assigned_to:
+  - fig:2
+  basis: The note connects thirty archangels and angels with the thirty named days
+    of the Parsi month.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: tree
+  literal_form: trees producing timber classified as wood
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: flower
+  literal_form: every single flower assigned as appropriate to an angel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: medicinal plant
+  literal_form: plants classified as medicinal
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: thirty fruits
+  literal_form: thirty principal kinds of fruit grouped by edible inside and outside
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Classification of plant substances
+  summary: Scented substances, plant gum, timber from trees, and medicinal plants
+    are identified by category.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Classification of fruit kinds
+  summary: Thirty principal fruit kinds are grouped by whether their outside, inside,
+    or both are fit to eat.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Flowers assigned to angels
+  summary: Each flower is described as appropriate to an angel, with the accompanying
+    note connecting the angelic set to named days of the Parsi month.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacred correspondence between flowers and angels
+  taxonomy_refs: []
+  basis: The passage states that every flower is appropriate to an angel or ameshospend.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The excerpt gives the correspondence but does not list specific flower-angel
+    pairings.
+- id: motif:2
+  label: ritual or cosmological plant classification
+  taxonomy_refs: []
+  basis: The passage organizes scents, gums, wood, medicinal plants, and fruits into
+    named categories, including a numbered fruit taxonomy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is classificatory rather than narrative, so motif status is
+    tentative.
+- id: motif:3
+  label: thirtyfold angelic-calendar ordering
+  taxonomy_refs: []
+  basis: A note links thirty archangels and angels with names applied to the thirty
+    days of the Parsi month.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This basis comes from a note in the provided passage rather than the main
+    translated sentence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7434-7442
+  quote_or_summary: Scented plant products are called scent; plant stickiness is called
+    gummy; timber from trees is called wood; such plants are called medicinal.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7443-7454
+  quote_or_summary: The principal fruits are thirty kinds, divided into fruits edible
+    inside and outside, outside but not inside, and inside but not outside, with examples
+    listed.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 7455-7457
+  quote_or_summary: "“every single flower is appropriate to an angel (ameshospend)”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; short quotation.
+- id: ev:4
+  type: note
+  locator: lines 7477-7479
+  quote_or_summary: A note says these are thirty archangels and angels whose names
+    are applied to the thirty days of the Parsi month.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text; summarized translator note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is largely taxonomic and contains few narrative actions. Motif
+    candidates are therefore descriptive and should be reviewed, especially the use
+    of the translator note about thirty angels and calendar days.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l7434-l7479
+  passage_sha256=2525a8916cd16095bf1f347484261b35e5b26c2a75d59b7435ec32643f619202
+

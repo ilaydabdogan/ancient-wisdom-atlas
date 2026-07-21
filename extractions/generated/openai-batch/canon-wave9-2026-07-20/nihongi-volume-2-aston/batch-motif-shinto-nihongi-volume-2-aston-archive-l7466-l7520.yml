@@ -1,0 +1,472 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l7466-l7520
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: 'NEXT IE- 13: / A.D. 605. / A.D. 606. / SUIKO. 135; lines 7466-7520'
+  start: '7466'
+  end: '7520'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records rewards to Tori for services involving a Buddha image
+    and temple construction, lectures by the Prince Imperial on Buddhist scriptures
+    rewarded by land grants, the establishment of a Mibu Be, and an imperial edict
+    commanding ministers to reverence the Gods of Heaven and Earth in continuity with
+    ancestral practice.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A completed image of Buddha could not initially be brought into the Hall,
+    and workmen considered breaking down the doorway before Tori managed to admit
+    it without doing so.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tori was granted the rank of Dainin and twenty cho of water-fields in Sakata,
+    Afumi, for his services.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: With revenue from the granted land, Tori built the Temple of Kongo-ji for
+    the Empress.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Empress requested the Prince Imperial to lecture on the Sho-man-gio, and
+    he completed the explanation in three days.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Prince Imperial lectured on the Hokke-kio in the Palace of Okamoto, and
+    the pleased Empress bestowed one hundred cho of water-fields in Harima, which
+    were added to the Temple of Ikaruga.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A Mibu Be was established on the first day of the second month in the fifteenth
+    year.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: An imperial edict says the Imperial ancestors revered the Gods of Heaven and
+    Earth, dedicated temples to mountains and rivers, and communed with the powers
+    of Nature.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The edict states that male and female elements became harmoniously developed
+    and civilizing influences blended together.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The edict commands ministers to reverence the Gods of Heaven and Earth with
+    their whole hearts.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Tori
+  description: A person credited with admitting the Buddha image into the Hall without
+    breaking the doorway and later building Kongo-ji with land revenue.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Empress
+  description: The reigning Empress who grants rank and land, requests lectures, is
+    pleased by the Prince Imperial's lecture, and issues or is associated with the
+    edict.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:9
+- id: fig:3
+  name_or_label: Prince Imperial
+  description: The Prince Imperial lectures on the Sho-man-gio and Hokke-kio and receives
+    a grant of water-fields.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Imperial ancestors
+  description: Ancestors described in the edict as having revered the Gods of Heaven
+    and Earth and dedicated temples to mountains and rivers.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Gods of Heaven and Earth
+  description: Deities to whom reverence is paid and whose worship is commanded in
+    the edict.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: fig:6
+  name_or_label: Ministers
+  description: Officials commanded in the edict to reverence the Gods of Heaven and
+    Earth.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: skilled service provider
+  assigned_to:
+  - fig:1
+  basis: Tori admits the Buddha image without breaking the doorway when others had
+    no plan.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: temple builder
+  assigned_to:
+  - fig:1
+  basis: Tori uses land revenue to build Kongo-ji for the Empress.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: royal patron
+  assigned_to:
+  - fig:2
+  basis: The Empress grants rank and fields and rewards the Prince Imperial with fields.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: requester of religious instruction
+  assigned_to:
+  - fig:2
+  basis: The Empress requests the Prince Imperial to lecture on the Sho-man-gio.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: scripture lecturer
+  assigned_to:
+  - fig:3
+  basis: The Prince Imperial lectures on Buddhist scriptures named in the passage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: ancestral model of worship
+  assigned_to:
+  - fig:4
+  basis: The edict presents Imperial ancestors as precedent for reverence to the Gods
+    of Heaven and Earth.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: objects of reverence
+  assigned_to:
+  - fig:5
+  basis: The Gods of Heaven and Earth are revered by ancestors and are to be worshipped
+    by ministers.
+  evidence_refs:
+  - ev:7
+  - ev:9
+- id: role:8
+  label: commanded worshippers
+  assigned_to:
+  - fig:6
+  basis: The edict directs ministers to reverence the Gods of Heaven and Earth.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: Buddha image
+  literal_form: completed image of Buddha
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: doorway of the Hall
+  literal_form: doorway through which the Buddha image is admitted without being broken
+    down
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: water-fields
+  literal_form: twenty cho in Sakata and one hundred cho in Harima
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: temple
+  literal_form: Kongo-ji and the Temple of Ikaruga; temples dedicated to mountains
+    and rivers in the edict
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:5
+  label: mountains
+  literal_form: mountains to which temples were dedicated
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: rivers
+  literal_form: rivers to which temples were dedicated
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: male and female elements
+  literal_form: male and female elements described as harmoniously developed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Admission of the Buddha image and reward to Tori
+  summary: After workmen cannot find a way to bring a Buddha image into a Hall, Tori
+    admits it without breaking the doorway and receives rank and land.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Construction of Kongo-ji
+  summary: Tori uses revenue from granted fields to build Kongo-ji for the Empress.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Prince Imperial's Buddhist lectures and royal grant
+  summary: The Prince Imperial lectures on two Buddhist scriptures; after the Hokke-kio
+    lecture the Empress grants water-fields that are added to the Temple of Ikaruga.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Edict on reverence to the Gods of Heaven and Earth
+  summary: The edict invokes ancestral practice of revering the Gods of Heaven and
+    Earth, dedicating temples to mountains and rivers, and commands ministers to continue
+    such worship.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: royal patronage of religious institutions
+  taxonomy_refs:
+  - royal_legitimacy
+  - sacred_exchange
+  basis: The Empress grants rank and land for religious services and temple support;
+    land revenue is used to build or support temples.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy labels are broad; the passage presents administrative and
+    religious patronage rather than an explicit mythic exchange formula.
+- id: motif:2
+  label: scriptural wisdom rewarded by the ruler
+  taxonomy_refs:
+  - wisdom
+  - sacred_exchange
+  basis: The Prince Imperial lectures on Buddhist scriptures, the Empress is pleased,
+    and a large land grant follows.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage records court religious instruction; it does not frame the
+    lecture as a quest or revelation.
+- id: motif:3
+  label: ancestral precedent for state worship
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The edict grounds present worship of the Gods of Heaven and Earth in the
+    conduct of Imperial ancestors and commands ministers to continue it.
+  evidence_refs:
+  - ev:7
+  - ev:9
+  confidence: high
+  cautions: The passage is an edict in a chronicle, not a narrative myth episode.
+- id: motif:4
+  label: harmonization of male and female elements through reverence to nature powers
+  taxonomy_refs:
+  - duality
+  basis: The edict connects ancestral temple dedication and communion with nature
+    powers to harmonious development of male and female elements.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The male and female elements are stated abstractly; the passage does not
+    personify them or narrate a union.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7466-7471
+  quote_or_summary: The completed Buddha image could not be brought into the Hall;
+    workmen considered breaking the doorway, but Tori admitted it without breaking
+    the doorway.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7471-7475
+  quote_or_summary: For these services, Tori is granted the rank of Dainin and twenty
+    cho of water-fields in Sakata, Afumi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 7475-7479
+  quote_or_summary: With revenue from this land, Tori built Kongo-ji for the Empress,
+    later known as the nunnery of Sakata in Minabuchi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 7480-7483
+  quote_or_summary: In the seventh month, the Empress requested the Prince Imperial
+    to lecture on the Sho-man-gio, and he completed the explanation in three days.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 7484-7489
+  quote_or_summary: The Prince Imperial lectured on the Hokke-kio in the Palace of
+    Okamoto; the pleased Empress bestowed one hundred cho of water-fields in Harima,
+    which were added to the Temple of Ikaruga.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 7490-7492
+  quote_or_summary: A Mibu Be was established in the fifteenth year, spring, second
+    month, first day.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 7493-7503
+  quote_or_summary: The edict says Imperial ancestors revered the Gods of Heaven and
+    Earth, dedicated temples to mountains and rivers, and held mysterious communion
+    with the powers of Nature.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 7503-7505
+  quote_or_summary: The edict states that male and female elements became harmoniously
+    developed and civilizing influences blended together.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 7505-7510
+  quote_or_summary: The edict asks whether worship of the Gods of Heaven and Earth
+    should be neglected and commands ministers to revere them with their whole hearts.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: note
+  locator: lines 7519-7520
+  quote_or_summary: A note says the edict is pure Chinese and sounds strange from
+    an Empress devoted to Buddhism.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are broad and should
+    be reviewed because the passage is chronicle material combining Buddhist patronage
+    with an edict on kami worship rather than a myth narrative. No comparison claims
+    were made because the passage itself does not explicitly support cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. Available taxonomy references were applied only where directly supported by passage language.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l7466-l7520
+  passage_sha256=479f1884e5cfe3a09fe86dd93599dd56b484a8fd70775658ca3af26ae58316cc
+

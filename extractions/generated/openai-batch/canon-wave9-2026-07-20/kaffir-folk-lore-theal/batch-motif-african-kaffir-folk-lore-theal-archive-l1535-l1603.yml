@@ -1,0 +1,398 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l1535-l1603
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: INTRODUCTORY  CHAPTER.  23 / INTRODUCTORY  CHAPTER,  25 / INTRODUCTORY  CHAPTER.  27
+    / STORY  OF  THE  BIRD  THAT  HADE  MILK.    I.; lines 1535-1603
+  start: '1535'
+  end: '1603'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage begins a tale about a poor household that gets milk by squeezing
+    a tree. The wife cultivates a garden, but after she leaves a bird sings commands
+    for the weeds to rise and the work to disappear. The woman returns to find her
+    work undone, marks the place, reports the event to her husband, is accused of
+    laziness and lying, and on the third day finds the grass restored again while
+    her marker sticks remain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'A poor man lives with his wife in a village, and they have three children:
+    two boys and a girl.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The household gets milk from a tree by squeezing it; the tree milk is said
+    to be less pleasant than cow's milk, and those who drink it are thin rather than
+    glossy or fat.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The woman goes to cultivate a garden, cuts grass with a pick, heaps the grass,
+    and goes home near sunset.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the woman leaves the garden, a bird comes to the place and sings words
+    commanding the garden weeds to spring up and the garden work to disappear.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that the bird's spoken commands take effect.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The next morning the woman sees that the cut grass is growing again; she works
+    again and puts sticks in the ground to mark the place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The woman tells her husband that the cut grass was found growing as before.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The husband rejects the woman's report, accuses her of laziness and falsehood,
+    and threatens to beat her.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: On the third day the woman returns sorrowfully, finds the grass growing as
+    before, and sees that the marker sticks remain although the result of her labor
+    is gone.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: poor man / husband
+  description: A poor man living with his wife and children in a village; he later
+    rejects his wife's report and threatens her.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:2
+  name_or_label: wife / woman
+  description: The wife of the poor man; she cultivates the garden, discovers the
+    repeated regrowth of the grass, marks the place, and reports the event.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: three children
+  description: The children of the poor man and his wife, specified as two boys and
+    a girl.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: bird
+  description: A bird that comes to the garden after the woman leaves and sings commands
+    for the weeds to rise and the work to disappear.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: poor household member
+  assigned_to:
+  - fig:1
+  basis: The passage describes a poor man living with his wife and children in a village.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: garden cultivator
+  assigned_to:
+  - fig:2
+  basis: The woman goes to cultivate the garden, cuts grass, heaps it, and repeats
+    the work.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: witness and reporter of the regrowth
+  assigned_to:
+  - fig:2
+  basis: She sees the grass growing again, marks the place, and tells her husband
+    what she found.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+- id: role:4
+  label: disbelieving husband
+  assigned_to:
+  - fig:1
+  basis: He calls the woman's explanation a falsehood, accuses her of not working,
+    and threatens her.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: children in the household
+  assigned_to:
+  - fig:3
+  basis: The passage names three children in the household, two boys and a girl.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: bird whose song changes the garden condition
+  assigned_to:
+  - fig:4
+  basis: The bird sings for weeds to spring up and work to disappear, followed by
+    the statement that it was so.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: tree milk
+  literal_form: Milk obtained from a tree by squeezing
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: milk-giving tree
+  literal_form: Tree that yields milk when squeezed
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: garden weeds and grass
+  literal_form: Grass or weeds in the woman's garden that are cut and then grow again
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: bird song
+  literal_form: 'Sung command: weeds spring up and garden work disappear'
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: marker sticks
+  literal_form: Sticks placed in the ground to mark the place after the first discovery
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: Poor household and tree milk
+  summary: A poor man, his wife, and their three children live in a village and get
+    inferior milk by squeezing a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: First day's garden work
+  summary: The woman begins cultivating a garden by cutting grass with a pick, heaping
+    it, and leaving for home near sunset.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bird's song over the garden
+  summary: After the woman leaves, a bird comes to the garden and sings for the weeds
+    to spring up and the work to disappear; the passage says this happens.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Discovery, marking, and report
+  summary: The woman returns, sees the grass restored, works again, sets marker sticks,
+    and tells her husband that the cut grass had grown back.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Disbelief and repeated regrowth
+  summary: The husband accuses the woman of laziness and lying; the woman returns
+    sorrowfully on the third day and again finds the grass growing as before while
+    her marker sticks remain.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Milk-producing tree
+  taxonomy_refs: []
+  basis: The household obtains milk directly from a tree by squeezing it.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the tree milk literally but does not explain its origin
+    or broader significance in this excerpt.
+- id: motif:2
+  label: Bird's song reverses human agricultural labor
+  taxonomy_refs: []
+  basis: A bird sings commands for weeds to spring up and work to disappear, and the
+    woman's cleared garden is found restored to its former grassy state.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not yet state the bird's motive or identify it beyond
+    being a bird.
+- id: motif:3
+  label: Disbelieved report of an impossible event
+  taxonomy_refs: []
+  basis: The woman reports that her cut grass grew back, and her husband calls the
+    report a falsehood and accuses her of laziness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This is a narrative pattern in the excerpt, not a claim of a fixed comparative
+    motif type.
+- id: motif:4
+  label: Marker test after inexplicable change
+  taxonomy_refs: []
+  basis: The woman places sticks in the ground to mark the garden area, and on the
+    next visit the sticks remain while her labor has disappeared.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage shows use of markers for verification, but the excerpt does
+    not state an explicit test or its intended conclusion.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1535-1545
+  quote_or_summary: A poor man and wife in a village have three children; they get
+    milk from a tree by squeezing it, and the milk is inferior to cow's milk.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 1546-1553
+  quote_or_summary: The woman goes to cultivate a garden, cuts grass with a pick,
+    makes a heap, and returns home as the sun is about to set.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: lines 1554-1569
+  quote_or_summary: 'A bird sings: "Weeds of this garden... Spring up" and "Work of
+    this garden... Disappear"; the passage adds, "It was so."'
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 1570-1576
+  quote_or_summary: The next morning the woman sees the change, wonders, restores
+    order again, and puts sticks in the ground to mark the place.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 1577-1580
+  quote_or_summary: In the evening the woman tells that she found the grass she had
+    cut growing just as before.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: quote
+  locator: lines 1581-1586
+  quote_or_summary: The husband says she was lazy, did not work, and told a falsehood,
+    and he orders her away or he will beat her.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; brief quoted content summarized.
+- id: ev:7
+  type: summary
+  locator: lines 1587-1603
+  quote_or_summary: On the third day she returns with a sorrowful heart and finds
+    the grass growing as before; the sticks remain, but no other sign of her labor
+    remains.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied excerpt. Motif labels are
+    descriptive and not mapped to a supplied motif-family taxonomy because no available
+    family clearly fits the passage without overinterpretation. No comparison claims
+    were made because the excerpt itself does not support a comparison to another
+    corpus or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The title in the supplied passage appears with OCR irregularity as "HADE"; no correction has been assumed.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l1535-l1603
+  passage_sha256=011bf75738e789e42ab0dfdfbae458a4b779a603b21e826a5a084268c21d4d9f
+

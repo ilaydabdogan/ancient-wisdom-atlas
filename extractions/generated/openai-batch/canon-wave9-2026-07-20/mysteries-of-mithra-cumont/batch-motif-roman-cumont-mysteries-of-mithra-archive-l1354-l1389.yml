@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l1354-l1389
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: BACTRIAN    COINS. / THE    ORIGINS    OF    MITHRAISM / TYPICAL   REPRESENTATION    OF   MITHRA.
+    / THE    ORIGINS    OF    MITHRAISM  23; lines 1354-1389
+  start: '1354'
+  end: '1389'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“TAUROCTONOUS MITHRA. Artistic Type (Second Century).”"
+  summary: The passage describes the adaptation of Mazdean divine or heroic figures
+    into forms shaped by Greek artistic ideals. It notes that earlier images, if present,
+    may have been crude imitations of Assyrian idols, and argues that Hellenizing
+    these figures made them more acceptable to Western/Roman audiences. A figure caption
+    identifies a second-century artistic type of Tauroctonous Mithra in white marble
+    at the Vatican.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Greek artists are said to have invested the Olympian gods with precise forms.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the referenced gods or heroes may not previously have
+    been represented in human form.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If earlier images existed in imitation of Assyrian idols, the passage describes
+    them as grotesque and crude.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says Mazdean heroes were given the seductiveness of the Hellenic
+    ideal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says this artistic adaptation modified the conception of the heroes’
+    character and made them more acceptable to Occidental peoples.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:6
+  text: A caption identifies a figure as Tauroctonous Mithra, an artistic type of
+    the second century, represented by a white marble group in the Vatican.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says that a sculptor of the school of Pergamon composed a work
+    connected with the success of the exotic religion in the Roman world.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: Named in the caption as “Tauroctonous Mithra,” represented as an artistic
+    type in a white marble group.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Mazdean heroes
+  description: Figures whose representation is described as being reshaped by the
+    Hellenic ideal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Greek artists
+  description: Artists credited with giving precise forms to the Olympian gods.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Sculptor of the school of Pergamon
+  description: An unnamed sculptor said to have composed a work toward the second
+    century before the era.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: represented deity or hero
+  assigned_to:
+  - fig:1
+  basis: The caption presents Mithra as the subject of a sculptural artistic type.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: Hellenized Mazdean figures
+  assigned_to:
+  - fig:2
+  basis: The passage says Mazdean heroes were given the seductiveness of the Hellenic
+    ideal and pruned of exotic features.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: artistic form-givers
+  assigned_to:
+  - fig:3
+  basis: Greek artists are described as investing gods with precise forms.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: composer of cult image type
+  assigned_to:
+  - fig:4
+  basis: The passage attributes the composition of a significant work to a sculptor
+    of the school of Pergamon.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: human divine form
+  literal_form: human form used for gods or heroes
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Tauroctonous Mithra image
+  literal_form: white marble sculptural group identified as Tauroctonous Mithra
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Hellenizing of Mazdean heroic images
+  summary: Mazdean heroes are described as being reshaped according to the Hellenic
+    artistic ideal, with exotic features removed, making them more acceptable to Western
+    peoples.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Captioned representation of Tauroctonous Mithra
+  summary: The passage includes a figure caption for a second-century artistic type
+    of Tauroctonous Mithra, a grand white marble group located in the Vatican.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Pergamene sculptural composition and Roman reception
+  summary: The passage states that, toward the second century before the era, a sculptor
+    of the school of Pergamon composed a work presented as important for the success
+    of the religion in the Roman world.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Hellenized divine image for cross-cultural religious reception
+  taxonomy_refs: []
+  basis: The passage explicitly links Greek artistic styling of Mazdean heroes with
+    their greater acceptability to Occidental peoples and the Roman world.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a modern scholarly description of artistic and religious transmission,
+    not a mythic narrative episode.
+- id: motif:2
+  label: Tauroctonous Mithra artistic type
+  taxonomy_refs: []
+  basis: The figure caption identifies the image as “Tauroctonous Mithra” and describes
+    it as a second-century artistic type represented by a white marble group.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage supplies only the caption and does not narrate or describe
+    the bull-slaying scene in detail.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1354-1356
+  quote_or_summary: "“the precise forms with which the Greek artists had invested
+    the Olympian gods”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1357-1364
+  quote_or_summary: The passage says the figures may never before have been represented
+    in human form, or that earlier images imitating Assyrian idols may have been grotesque
+    and crude.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 1365-1371
+  quote_or_summary: "“imparting to the Mazdean heroes all the seductiveness of the
+    Hellenic ideal”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1371-1377
+  quote_or_summary: The passage says the heroes’ character was modified, their exotic
+    features were pruned, and they became more readily acceptable to Occidental peoples.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 1359-1363 and caption block
+  quote_or_summary: "“TAUROCTONOUS MITHRA. Artistic Type (Second Century).” The caption
+    further describes the work as a grand white marble group in the Vatican."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt and caption summary used for evidence.
+- id: ev:6
+  type: summary
+  locator: lines 1378-1389
+  quote_or_summary: The passage says that one condition for the success of this exotic
+    religion in the Roman world was fulfilled when, toward the second century before
+    the era, a sculptor of the school of Pergamon composed a work; the sentence is
+    cut off in the supplied passage.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and scholarly rather than mythic; motif candidates
+    are therefore primarily art-historical and reception-pattern labels. The figure
+    caption supports Tauroctonous Mithra, but the scene is not described in the supplied
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy motif family was assigned because the passage does not narrate a supported mythic sacrifice or initiation scene.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l1354-l1389
+  passage_sha256=6521a361308dff3bb99487c6a4fe155a07ccabff3ffaf25977ebcc7b401d53f8
+

@@ -1,0 +1,201 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l17724-l17791
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: DUPLICATE TEXTS. / APPENDIX. / DUPLICATE TEXTS. / APPENDIX.; lines 17724-17791
+  start: '17724'
+  end: '17791'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A fragmentary appendix section headed as duplicate texts lists textual
+    witnesses and page references for Rigs-pula, Thulor, Hofudlausn Text C, and The
+    Lay of Arinbiorn. It includes garbled Old Norse poetic fragments and an English
+    editorial note explaining that an exact copy of part of the first column is lost,
+    though the results of the reading were incorporated into the text of Arinbiorn’s
+    Lay.
+  language: English with Old Norse/Icelandic poetic fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an appendix headed as duplicate texts and gives page-linked
+    entries for additional textual material.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The listed textual items include Rigs-pula, Thulor, Hofudlausn Text C, and
+    The Lay of Arinbiorn.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Hofudlausn Text C fragment includes terms rendered in the passage as blood,
+    wound or wounds, wolves, a raven, and the name Eirikr.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Arinbiorn section is identified as The Lay of Arinbiorn in AM. 132 and
+    is marked as a first-column fragment.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: An editorial note states that the editor’s exact copy of what could be read
+    in the blank of the first column is lost, but that the results were embodied in
+    the text of Arinbiorn’s Lay.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Eirikr
+  description: A named figure in the fragmentary Hofudlausn Text C excerpt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Arinbiorn
+  description: The named figure associated with the title The Lay of Arinbiorn and
+    also appearing in the fragmentary verse as arinbiarn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named figure in poetic fragment
+  assigned_to:
+  - fig:1
+  basis: The Hofudlausn Text C excerpt includes the name Eirikr in a fragmentary line.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: title-associated figure of a lay
+  assigned_to:
+  - fig:2
+  basis: The passage introduces a section titled The Lay of Arinbiorn and includes
+    the name in the fragmentary text.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: wolf or wolves
+  literal_form: ulfum in the Hofudlausn Text C fragment
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: raven
+  literal_form: hrafni in the Hofudlausn Text C fragment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: blood and wounds
+  literal_form: blods and ben in the Hofudlausn Text C fragment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Appendix list of duplicate texts
+  summary: The appendix identifies duplicate or additional textual materials and links
+    them to page references in the edition.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hofudlausn Text C fragment
+  summary: A fragmentary poetic excerpt from Hofudlausn Text C includes martial diction
+    involving blood, wounds, wolves, a raven, and the named figure Eirikr.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Arinbiorn fragment and editorial note
+  summary: The appendix introduces The Lay of Arinbiorn in AM. 132, gives fragmentary
+    first-column text, and adds a note about the loss of the editor’s exact copy of
+    part of the column reading.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: martial scavenger-animal imagery
+  taxonomy_refs: []
+  basis: The Hofudlausn Text C fragment combines blood and wound terms with wolf and
+    raven terms in a poetic excerpt that names Eirikr.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage is OCR-corrupted and fragmentary; the motif label is a cautious
+    description of co-occurring imagery, not a full narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17724-17756
+  quote_or_summary: Appendix section headed DUPLICATE TEXTS lists page-linked entries
+    including Rigs-pula in Cd. W., Thulor, Hofudlausn Text C, and The Lay of Arinbiorn
+    in AM. 132.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 17739-17749
+  quote_or_summary: Hofudlausn Text C is followed by a fragmentary excerpt containing
+    forms such as blods, ben, ulfum, hrafni, and Eirikr.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short lexical evidence summarized.
+- id: ev:3
+  type: summary
+  locator: 17755-17786
+  quote_or_summary: The Lay of Arinbiorn in AM. 132 is introduced as Ist COL.; the
+    fragmentary text includes the name arinbiarn.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 17789-17791
+  quote_or_summary: Editorial note says the editor’s exact copy of what could be read
+    in the blank of the first column is lost, but that the results of the reading
+    are embodied in the text of Arinbiorn’s Lay.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is fragmentary, OCR-corrupted, and primarily editorial apparatus.
+    Extraction is limited to named items, visible lexical imagery, and editorial notes.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; wolf, raven, blood, and wounds are recorded only as passage-level symbolic imagery without taxonomy IDs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l17724-l17791
+  passage_sha256=d9c6bd67a2552f91e5a4389a1e2525925723bd5f3ee951e04194ee193973772f
+

@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15352-l15405
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER III, 33-IV, I. 285 / Chapter IV. / CHAPTER IV, 2-9. 287 / CHAPTER
+    IV, 10-14, 289; lines 15352-15405
+  start: '15352'
+  end: '15405'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual/legal instructions about quantities of Tanaptihar
+    sin connected with walking or movement, then instructs that at night a person
+    lying down should wear the shirt and girdle. It says these protect the body and
+    benefit the soul. Before sleep, the person should utter one Ashem-vohti; each
+    breath then counts as a good work measured by Srosho-yaranams, and if death occurs
+    in that sleep, renunciation of sin is accomplished.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A named category of sin, Tanaptihar, is associated with walking or movement,
+    including a statement about the fourth step and walking thereafter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that if the person sits down and walks on, the sin is counted
+    as it would be from the starting point.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some authorities are reported as saying there is a Tanipuhar for each league.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: At night, when people lie down, the shirt and girdle are to be worn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The shirt and girdle are described as more protecting for the body and good
+    for the soul.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Before sleep, while lying down with the shirt and girdle, one Ashem-vohti
+    is to be uttered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Every coming and going of the breath is said to be a good work of three Srosho-yaranams.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: If death occurs in that sleep, the person’s renunciation of sin is said to
+    be accomplished.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A translator’s note explains Srosho-yaranam as originally one lash with a
+    scourge and later as a unit by which sins and good works were estimated.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed ritual subject
+  description: A generic person referred to as one who walks, lies down at night,
+    wears the shirt and girdle, utters the prayer, breathes during sleep, and may
+    die in that sleep.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ritual practitioner before sleep
+  assigned_to:
+  - fig:1
+  basis: The person is instructed to wear the shirt and girdle at night and utter
+    one Ashem-vohti before sleep.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: subject of sin and merit accounting
+  assigned_to:
+  - fig:1
+  basis: The passage relates the person’s walking, breathing, and possible death in
+    sleep to named measures of sin, good work, and renunciation of sin.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: protective shirt and girdle
+  literal_form: shirt and girdle worn when lying down at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Ashem-vohti utterance before sleep
+  literal_form: one Ashem-vohti spoken before sleep
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: breath as counted good work
+  literal_form: each coming and going of the breath
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: measured walking as sin unit
+  literal_form: movement, steps, and league used in statements about Tanaptihar/Tanipuhar
+    sin
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Srosho-yaranam measure
+  literal_form: three Srosho-yaranams assigned to each breath; translator’s note describes
+    the term as a lash/unit of estimation
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: sin measured through walking
+  summary: The passage describes Tanaptihar or Tanipuhar sin in relation to movement,
+    walking from a starting point, and walking a league.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: nighttime protection by garments
+  summary: When lying down at night, the person is instructed to wear the shirt and
+    girdle because they protect the body and benefit the soul.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: pre-sleep prayer and breath merit
+  summary: Before sleep, the person utters one Ashem-vohti; each breath is counted
+    as good work of three Srosho-yaranams, and death in that sleep completes renunciation
+    of sin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual clothing protects body and soul during sleep
+  taxonomy_refs: []
+  basis: The passage explicitly says the shirt and girdle are to be worn at night
+    when lying down and that they are protective for the body and good for the soul.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a ritual-instruction pattern rather than a narrative myth episode.
+- id: motif:2
+  label: pre-sleep prayer transforms breathing into accumulated merit
+  taxonomy_refs: []
+  basis: The person wearing the shirt and girdle is instructed to utter one Ashem-vohti
+    before sleep, and each breath is then counted as a good work of three Srosho-yaranams.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a doctrinal rule; no deity, vision, or mythic scene
+    is narrated.
+- id: motif:3
+  label: moral actions quantified by ritual/legal units
+  taxonomy_refs: []
+  basis: Walking is measured as Tanaptihar/Tanipuhar sin by step, starting point,
+    or league, and breathing after prayer is measured as good work by Srosho-yaranams.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The exact calculation of the walking sin is textually difficult in the
+    excerpt, and the Srosho-yaranam explanation comes from a translator’s note.
+- id: motif:4
+  label: death during ritually prepared sleep completes renunciation of sin
+  taxonomy_refs: []
+  basis: The passage states that if death occurs in that sleep, renunciation of sin
+    is accomplished.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not describe an afterlife journey or judgment scene;
+    it only states the effect of dying in that ritually prepared sleep.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15352-15360; Chapter IV, 10-12 context
+  quote_or_summary: Tanaptihar sin is linked to movement and walking; after the fourth
+    step, continued walking is counted, sitting down and walking on is counted from
+    the starting point, and some say there is a Tanipuhar for each league.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 15362-15365; Chapter IV, 13
+  quote_or_summary: At night, when they lie down, the shirt and girdle are to be worn,
+    because they are protective for the body and good for the soul.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt paraphrased from passage.
+- id: ev:3
+  type: summary
+  locator: lines 15365-15367; Chapter IV, 14
+  quote_or_summary: When lying down with the shirt and girdle, the person should utter
+    one Ashem-vohti before sleep.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15367-15369; Chapter IV, 14
+  quote_or_summary: Each coming and going of the breath is said to be a good work
+    of three Srosho-yaranams.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 15403-15405; Chapter IV, 14 continuation
+  quote_or_summary: If death occurs in that sleep, “his renunciation of sin is accomplished.”
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: note
+  locator: translator note within supplied passage after Chapter IV, 14
+  quote_or_summary: The note explains Srosho-yaranam as originally a lash with a scourge
+    and as a later unit for estimating the spiritual gravity of sins and good works.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized translator note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is primarily ritual/legal instruction rather than mythic narrative.
+    Motif candidates are therefore phrased as ritual patterns, with no external comparisons
+    asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not explicitly mention the provided taxonomy symbols or a clearly matching motif family.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15352-l15405
+  passage_sha256=851ef761ab7c7f049d5d662f88b26523087bbd744a96a38d5aab196a0ccbd6d0
+

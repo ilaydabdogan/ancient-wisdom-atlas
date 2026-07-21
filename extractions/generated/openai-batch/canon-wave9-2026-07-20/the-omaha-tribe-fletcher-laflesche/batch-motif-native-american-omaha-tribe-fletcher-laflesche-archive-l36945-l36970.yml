@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36945-l36970
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: TECOS'S    SONG    OF   REVENGE / SOCIETIES / THE    OMAHA    TRIBE / CEREMONIES  ON  THE  DEATH  OF  A  MEMBER;
+    lines 36945-36970
+  start: '36945'
+  end: '36970'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: death is not simulated, but real for one of the members has passed from this
+    life
+  summary: 'The passage describes ceremonies held by a society after the death of
+    a member: a meeting is called, the corpse is prepared and seated in the member’s
+    usual place, participants maintain ritual silence and bowed heads, outsiders fear
+    entering, the dead member’s regalia is removed and returned to his lodge, and
+    the body is then given ordinary burial.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: When a member died, a meeting of the society was called and the regular opening
+    ceremonies took place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the occasion involved real death rather than simulated
+    death, because one member had passed from life.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The deceased was dressed in his best clothes and had his face painted according
+    to society rules.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The body was carried to the society meeting dwelling and seated in the deceased
+    member’s accustomed place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: During the ceremony, no one spoke except as required by the rites, and inactive
+    members sat with bowed heads.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dead man was the only one whose head was erect.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Outsiders were said to be afraid to enter when the doors were opened because
+    onlookers in earlier times had been killed by magic.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Regalia that the dead member had purchased the right to wear was removed from
+    him and returned to his lodge; such items were not buried with him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: After the lodges had been dismissed, the body was removed and given the ordinary
+    form of burial.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: deceased society member
+  description: A dead member of the society whose body is prepared, seated in his
+    accustomed place, stripped of society regalia at the proper time, and then buried.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: society members
+  description: Members who convene after the death, perform the required ceremonies,
+    keep silence except when rites require speech, sit with bowed heads when inactive,
+    and dismiss the lodges.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: outsiders or onlookers
+  description: People outside the society who were afraid to enter during the ceremony,
+    with a reported tradition that onlookers had formerly been killed by magic.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceased participant
+  assigned_to:
+  - fig:1
+  basis: The dead member’s body is brought into the meeting place and seated in his
+    usual place during the ceremony.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ritual society participants
+  assigned_to:
+  - fig:2
+  basis: The society calls the meeting, carries out ceremonies, observes ritual silence
+    and bowed heads, and dismisses the lodges.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:3
+  label: excluded or fearful onlookers
+  assigned_to:
+  - fig:3
+  basis: Outsiders are described as afraid to enter when the doors are opened because
+    of reported magical danger to onlookers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: society regalia withheld from burial
+  literal_form: Regalia that the dead member had purchased the right to wear, removed
+    from him and returned to his lodge rather than buried.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: painted face and best clothes
+  literal_form: The deceased body arrayed in best clothes with face painted according
+    to society rules.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bowed heads and erect head
+  literal_form: Living members sit with bowed heads, while the dead man alone has
+    head erect.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: dangerous opened doors
+  literal_form: Opened doors of the meeting place, at which outsiders fear entering
+    because onlookers were said to have been killed by magic.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: society meeting after a member’s death
+  summary: After a member dies, the society calls a meeting and performs its opening
+    ceremonies, explicitly treating the death as real rather than simulated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: corpse seated among the society
+  summary: The deceased, prepared in best clothes and face paint, is brought to the
+    meeting dwelling and seated in his accustomed place while living members maintain
+    silence and bowed heads.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: fear of outsiders at the ritual threshold
+  summary: Outsiders fear entering when the doors are opened because of a reported
+    danger that onlookers had formerly been killed by magic.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: removal of regalia and burial
+  summary: The dead member’s regalia is removed and returned to his lodge, the lodges
+    are dismissed, and the body is removed for ordinary burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: funerary ceremony for a society member
+  taxonomy_refs: []
+  basis: The passage centers on a formal society meeting and rites performed after
+    a member’s death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: This is an ethnographic description of ritual procedure, not a narrative
+    myth.
+- id: motif:2
+  label: dead member seated in accustomed place among the living
+  taxonomy_refs: []
+  basis: The body is brought into the society dwelling and placed in the deceased
+    member’s usual seat while the living members sit silently with bowed heads.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the symbolic meaning of seating the dead
+    in this position.
+- id: motif:3
+  label: ritual regalia removed from the dead before burial
+  taxonomy_refs: []
+  basis: Regalia associated with purchased rights is removed from the dead member,
+    returned to his lodge, and not buried with him.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the rule but does not provide its rationale.
+- id: motif:4
+  label: ritual danger to unauthorized onlookers
+  taxonomy_refs: []
+  basis: Outsiders fear entering when the doors open because onlookers were said to
+    have been killed by magic in earlier times.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The account reports a belief about past magical danger but gives no specific
+    incident.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 36945-36950
+  quote_or_summary: A society meeting is called on a member’s death; regular opening
+    ceremonies occur, and the occasion is said to involve real rather than simulated
+    death because a member has passed from life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized with brief quoted wording.
+- id: ev:2
+  type: summary
+  locator: 36951-36956
+  quote_or_summary: The deceased is arrayed in best clothes, face painted according
+    to society rules, carried to the meeting dwelling, and seated in the member’s
+    accustomed place.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 36956-36960
+  quote_or_summary: During the ceremony in the presence of the dead, speech is limited
+    to ritual requirements; inactive members sit with bowed heads, and the dead man
+    alone has head erect.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 36960-36963
+  quote_or_summary: Outsiders fear entering when doors are opened because it is said
+    that in earlier times onlookers had been killed by magic.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: 36963-36968
+  quote_or_summary: All regalia that the dead member had purchased the right to wear
+    is removed at the proper time and returned to his lodge; none is buried with him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: 36968-36970
+  quote_or_summary: After the lodges are dismissed, the dead body is removed and given
+    the ordinary form of burial.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The ritual sequence is explicit in the passage. Motif labels are descriptive
+    and not assigned to supplied motif-family taxonomy because the passage does not
+    support those categories directly. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs are directly supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36945-l36970
+  passage_sha256=cc3b540d9a0c8df44d232f461fe3360407f769721b2b65de542ba75951f3c764
+

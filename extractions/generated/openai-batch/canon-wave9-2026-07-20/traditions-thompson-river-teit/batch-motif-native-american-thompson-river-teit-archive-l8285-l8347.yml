@@ -1,0 +1,413 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l8285-l8347
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: XVI. THE DOG AND THE GIRL. / XVII. THE OWL. / XVIII. MARTEN AND FISHER. /
+    XIX. THE HARE AND THE GRIZZLY BEARS.; lines 8285-8347
+  start: '8285'
+  end: '8347'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Hare and his grandmother live across a river from a family of Grizzly Bears.
+    Hare steals their dried fish, mocks and evades the female bear, and kills her
+    with the help of smoke from pitchwood thrown into the fire by his grandmother.
+    He kills the male bear in the same way after the male discovers the female's paws
+    in Hare's house, and he kills three of the young bears. The text notes that if
+    all had been killed there would be no grizzly bears. Hare then cohabits with his
+    grandmother and kills her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hare and his grandmother live on one side of a river, while the Grizzly Bears
+    and their four children live on the other side.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hare steals dried fish from the Grizzly Bears.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A female Grizzly Bear crosses the river and asks Hare about the stolen provisions.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Hare mocks the female Grizzly Bear, and when she attacks he evades her paws.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hare's grandmother throws pitchwood into the fire.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Smoke blinds the female Grizzly Bear, and Hare kills her.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The male Grizzly Bear discovers the female's death by seeing her paws in Hare's
+    house.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Hare kills the male Grizzly Bear in the same manner as the female.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Hare kills three of the young Grizzly Bears; the passage states that if all
+    had been killed, there would be no Grizzly Bears.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Hare cohabits with his grandmother and thereby kills her.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hare
+  description: Animal figure living with his grandmother; he steals dried fish, mocks
+    and evades a Grizzly Bear, kills adult and young Grizzly Bears, and later cohabits
+    with and kills his grandmother.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Hare's grandmother
+  description: Household elder living with Hare; she throws pitchwood into the fire
+    and is later killed by Hare after cohabitation.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: fig:3
+  name_or_label: Female Grizzly Bear
+  description: One of the Grizzly Bears across the river; she crosses to ask about
+    stolen provisions, attacks Hare, is blinded by smoke, and is killed.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Male Grizzly Bear
+  description: Grizzly Bear who discovers the female's death by seeing her paws in
+    Hare's house and is then killed in the same manner.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: Young Grizzly Bears
+  description: Four children of the Grizzly Bears; three are killed by Hare, while
+    the passage notes that killing all would have left no Grizzly Bears.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+roles:
+- id: role:1
+  label: provision thief
+  assigned_to:
+  - fig:1
+  basis: Hare steals dried fish from the Grizzly Bears.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: killer of Grizzly Bears
+  assigned_to:
+  - fig:1
+  basis: Hare kills the female and male Grizzly Bears and three of the young Grizzly
+    Bears.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: helper with fire-smoke action
+  assigned_to:
+  - fig:2
+  basis: The grandmother throws pitchwood into the fire before smoke blinds the female
+    Grizzly Bear.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: wronged provision owners and victims
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The Grizzly Bears possess the stolen dried fish and are killed by Hare.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:5
+  label: cohabiting kin pair ending in death
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says Hare cohabits with his grandmother and thus kills her.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river boundary
+  literal_form: river separating Hare's household from the Grizzly Bears' household
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: stolen dried fish
+  literal_form: dried fish / stolen provisions
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: fire and blinding smoke
+  literal_form: pitchwood thrown in the fire, producing smoke that blinds the bear
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: paws as sign of death
+  literal_form: female Grizzly Bear's paws seen in Hare's house
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Households across the river and theft of fish
+  summary: Hare and his grandmother live across a river from the Grizzly Bears and
+    their four children; Hare steals their dried fish.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Female Grizzly Bear blinded and killed
+  summary: The female Grizzly Bear crosses to question Hare about the stolen provisions.
+    Hare mocks her and evades her attack; the grandmother throws pitchwood into the
+    fire, smoke blinds the bear, and Hare kills her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Male Grizzly Bear discovers the death and is killed
+  summary: The male Grizzly Bear sees the female's paws in Hare's house, recognizes
+    her death, and is killed by Hare in the same manner.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Young Grizzly Bears partly destroyed
+  summary: Hare kills three of the young Grizzly Bears, and the text notes that killing
+    all of them would have meant no Grizzly Bears remained.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Hare and grandmother cohabit and she dies
+  summary: Hare cohabits with his grandmother and thereby kills her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: food theft from a neighboring animal household
+  taxonomy_refs: []
+  basis: Hare steals dried fish from the Grizzly Bears, who live across the river
+    with their children.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage describes theft of provisions but does not frame the fish
+    as sacred or ritually charged.
+- id: motif:2
+  label: small animal adversary defeats stronger predators through evasion and smoke
+  taxonomy_refs: []
+  basis: Hare mocks and evades the attacking female bear; smoke from fire blinds her,
+    and he kills her. The male is killed in the same manner.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The abstract gives a compressed account and does not explicitly call Hare
+    a trickster.
+- id: motif:3
+  label: partial extermination explains continued existence of a species
+  taxonomy_refs: []
+  basis: Hare kills three young Grizzly Bears, and the passage states that if he had
+    killed all of them there would be no Grizzly Bears.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage states the explanatory consequence directly but does not elaborate
+    a full origin account.
+- id: motif:4
+  label: cohabitation with grandmother causes her death
+  taxonomy_refs: []
+  basis: The passage states that Hare cohabits with his grandmother and thus kills
+    her.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The abstract does not explain the circumstances, taboo status, or mechanism
+    of death.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8285-8347, XIX opening
+  quote_or_summary: Hare and his grandmother live on one side of the river; the Grizzly
+    Bears, with four children, live on the other.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary.
+- id: ev:2
+  type: quote
+  locator: lines 8285-8347, XIX
+  quote_or_summary: The Hare steals dried fish from the Grizzly Bears.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 8285-8347, XIX
+  quote_or_summary: A female Grizzly Bear crosses, asks Hare about the stolen provisions,
+    is mocked by him, attacks, and has her paws evaded.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary.
+- id: ev:4
+  type: summary
+  locator: lines 8285-8347, XIX
+  quote_or_summary: Hare's grandmother throws pitchwood into the fire; smoke blinds
+    the female Bear, who is then killed by Hare.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary.
+- id: ev:5
+  type: summary
+  locator: lines 8285-8347, XIX
+  quote_or_summary: The male Bear discovers his wife's death by seeing her paws in
+    Hare's house and is killed in the same manner.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary.
+- id: ev:6
+  type: summary
+  locator: lines 8285-8347, XIX
+  quote_or_summary: Hare kills three young Grizzly Bears; the passage says that if
+    he had killed all of them there would be no Grizzly Bears.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary.
+- id: ev:7
+  type: quote
+  locator: lines 8285-8347, XIX close
+  quote_or_summary: The Hare cohabits with his grandmother and thus kills her.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:8
+  type: note
+  locator: lines 8285-8347, after XIX abstract
+  quote_or_summary: The remaining text in the supplied passage consists of disconnected
+    OCR/page-fragment artifacts and a page header; it is not used as narrative evidence.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; editorial extraction note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The coherent abstract is short and usable, but the supplied range includes
+    garbled OCR/page-fragment material after the narrative. Motif labels are therefore
+    conservative and based only on explicit actions and stated consequences.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external tradition-level context or comparisons were added. Available taxonomy symbol refs were used only for literal river/water and fire imagery.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l8285-l8347
+  passage_sha256=4a32abe8bdea1ce18ee8a2e41b4219a545c253baeb0179157143653d8d3e6286
+

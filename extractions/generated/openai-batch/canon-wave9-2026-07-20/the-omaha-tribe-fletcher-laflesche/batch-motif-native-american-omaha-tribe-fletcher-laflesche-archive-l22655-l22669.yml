@@ -1,0 +1,175 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l22655-l22669
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: S     S3 / OJ         -M   O / S     2 / THE    OMAHA   TRIBE; lines 22655-22669
+  start: '22655'
+  end: '22669'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: children were carefully trained in these forms
+  summary: The passage explains that Omaha modes of address were difficult for outsiders
+    to master, that mistakes were considered impolite and embarrassing, and that children
+    were trained in these forms. It also states that these address customs aided storytelling
+    because relationship terms and accents clarified who was speaking or how figures
+    related to the hero without interrupting the narrative.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Proper modes of address were described as difficult for a person not born
+    to their usage to master.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mistakes in modes of address were regarded as impolite and embarrassing.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Children were carefully trained in the forms of address.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The custom of address facilitated storytelling by avoiding interruptions such
+    as explicit speech tags or explanations of a figure's relationship to the hero.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The form or accent of relationship terms made narrative relationships clear.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: children
+  description: Children trained in the forms of address.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: one not born to their usage
+  description: A person not born to the usage of the proper modes of address, for
+    whom mastery was difficult.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: hero of the tale
+  description: The narrative hero whose relationships to other figures could be made
+    clear through terms of relationship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: trainees in address forms
+  assigned_to:
+  - fig:1
+  basis: The passage says children were carefully trained in these forms.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: outsider to address usage
+  assigned_to:
+  - fig:2
+  basis: The passage contrasts one not born to the usage with those who know the proper
+    modes of address.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: narrative reference figure
+  assigned_to:
+  - fig:3
+  basis: The passage refers to the hero of the tale as the figure to whom relationship
+    terms clarify other figures' relations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Training and narrative use of address forms
+  summary: The passage describes a social practice in which children learn difficult
+    forms of address, and those forms help oral narrative flow by making relationships
+    clear without added explanations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Kinship address clarifies oral narrative relationships
+  taxonomy_refs: []
+  basis: The passage states that terms of relationship, through form or accent, allowed
+    listeners to understand relationships to the hero without interrupting the story.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is an ethnographic note on language and storytelling practice, not
+    a mythic episode; no available taxonomy motif family is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22655-22660
+  quote_or_summary: Proper modes of address were difficult for someone not born to
+    the usage, and mistakes were considered impolite and embarrassing.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 22660-22662
+  quote_or_summary: '"children were carefully trained in these forms"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 22662-22667
+  quote_or_summary: The address custom facilitated storytelling because narratives
+    did not need to be broken by expressions such as "he says" or "she says" or by
+    explanations of relations to the hero.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized with minimal quoted terms from passage.
+- id: ev:4
+  type: summary
+  locator: lines 22667-22669
+  quote_or_summary: The form or accent of relationship terms made the relevant relationship
+    clear.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ethnographic content is clear. Motif labeling is limited because
+    the passage concerns narrative address conventions rather than a mythic story
+    or symbolic episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol or motif family from the supplied lists is directly supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l22655-l22669
+  passage_sha256=d0d22ecb64ce7cf4ed70f089bda2eb6ec78d291bb8df39103841dc06227bf2a2
+

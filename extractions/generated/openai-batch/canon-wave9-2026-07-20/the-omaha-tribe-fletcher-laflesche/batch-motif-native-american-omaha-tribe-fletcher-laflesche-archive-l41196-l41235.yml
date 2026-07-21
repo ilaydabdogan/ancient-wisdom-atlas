@@ -1,0 +1,290 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l41196-l41235
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: RECENT    HISTORY / WORK  OF  MISSIONARIES / THE  MISSION / THE    OMAHA   TRIBE;
+    lines 41196-41235
+  start: '41196'
+  end: '41235'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the lightning stroke had cut short the life of the unfaithful person.
+  summary: The passage describes Omaha mission churches, Christian Omaha members,
+    the difficulty created by a perceived contradiction between Christian teaching
+    and the behavior of white people, and an Omaha religious teaching that false speech
+    or action risked supernatural punishment, with remembered cases of lightning killing
+    an unfaithful person.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A church met in the school assembly room and included many native men and
+    women among its members.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Christian Omaha are described as attempting to apply Christian precepts taught
+    at the mission and school to their daily lives.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Missionary teachers faced difficulty because the Indian observed a contradiction
+    between Christian principles taught and the conduct of many white people encountered.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Indian regarded all white persons as Christians and looked to their lives
+    as examples of their beliefs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The old religion taught that a person who spoke or acted falsely was in danger
+    of supernatural punishment.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The people knew instances in which a lightning stroke had ended the life of
+    an unfaithful person.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Christian Omaha
+  description: Native men and women in the church membership, described as applying
+    Christian precepts to daily life.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: missionary teachers
+  description: Teachers whose efforts were hindered by the contradiction between Christian
+    teaching and the conduct of many white people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: white people encountered by the Indian
+  description: White persons whom the Indian regarded as Christians and whose lives
+    were viewed as examples of Christian beliefs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: the Indian
+  description: A collective or generic figure who regarded white persons as Christians
+    and evaluated their conduct in relation to Christian teaching.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: unfaithful person
+  description: A person whose life was said to have been cut short by a lightning
+    stroke.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: Christian adherents
+  assigned_to:
+  - fig:1
+  basis: They are church members and are described as applying Christian precepts
+    taught at the mission and school.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: religious teachers
+  assigned_to:
+  - fig:2
+  basis: They taught Christian principles and encountered difficulty in their missionary
+    work.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: perceived exemplars of Christian conduct
+  assigned_to:
+  - fig:3
+  basis: The Indian regarded white persons as Christians and looked to their lives
+    for exemplification of belief.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: observer of moral contradiction
+  assigned_to:
+  - fig:4
+  basis: The passage describes the Indian comparing Christian teaching with the conduct
+    of white people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: recipient of supernatural punishment
+  assigned_to:
+  - fig:5
+  basis: The unfaithful person is described as dying by lightning stroke in remembered
+    instances of supernatural punishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: church and mission setting
+  literal_form: church, school assembly room, mission building
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lightning stroke
+  literal_form: lightning stroke
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: supernatural punishment
+  literal_form: danger of supernatural punishment for false speech or false action
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Mission church life
+  summary: A church connected with the mission includes native men and women, and
+    Christian Omaha are described as applying mission-taught precepts to daily life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contradiction between teaching and conduct
+  summary: Missionary teachers face difficulty because the Indian observes that the
+    behavior of many white people does not match the Christian principles being taught.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Old religious sanction against falsehood
+  summary: The old religion teaches that false speech or false action risks supernatural
+    punishment, and remembered cases include lightning killing an unfaithful person.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: supernatural punishment for falsehood or unfaithfulness
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage states that the old religion taught danger of supernatural punishment
+    for false speech or false action, with remembered lightning deaths of unfaithful
+    persons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: No specific deity, judge, ritual context, or full narrative is given;
+    the passage reports a belief and remembered instances rather than a complete myth.
+- id: motif:2
+  label: lightning as punitive force
+  taxonomy_refs:
+  - divine_judgment
+  basis: Lightning is described as cutting short the life of an unfaithful person
+    in the context of supernatural punishment.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not name lightning as a deity or personified agent; it
+    only associates lightning deaths with supernatural punishment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 41196-41208
+  quote_or_summary: The church met in the school assembly room, had many native men
+    and women as members, and Christian Omaha sought to apply Christian precepts taught
+    at the mission and school.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 41214-41220
+  quote_or_summary: Missionary teachers were hindered by the contradiction between
+    Christian principles taught and the conduct of most white people with whom the
+    Indian came into contact.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 41220-41225
+  quote_or_summary: The Indian regarded all white persons as Christians and looked
+    to their lives for exemplification of their beliefs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 41225-41230
+  quote_or_summary: The old religion taught that a person who spoke or acted falsely
+    was in danger of supernatural punishment.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: quote
+  locator: 41230-41233
+  quote_or_summary: '"the lightning stroke had cut short the life of the unfaithful
+    person"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The historical and ethnographic details are explicit. Motif identification
+    is limited to the passage's brief statement of old religious teaching about supernatural
+    punishment and lightning; no external comparisons were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. No external taxonomy IDs beyond supplied motif family labels were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l41196-l41235
+  passage_sha256=4edf171f9608cb4a07f9e3291f2021d43bc3016f39f054d525985b317c15af1a
+

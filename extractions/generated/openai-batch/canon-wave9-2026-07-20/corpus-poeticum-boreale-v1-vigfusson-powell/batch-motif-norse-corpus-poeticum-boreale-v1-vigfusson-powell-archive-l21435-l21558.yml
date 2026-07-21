@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21435-l21558
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 431 / ON THE OLD NORTHERN AND TEUTONIC METRE. / OLD
+    NORTHERN AND TEUTONIC METRE. 433 / AND TEUTONIC METRE. 435; lines 21435-21558
+  start: '21435'
+  end: '21558'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"a four-measured line, 2:2"'
+  summary: The passage is an editorial discussion of the old Northern and Teutonic
+    metre, especially the Caedmonian line. It lists English, German, and Scandinavian
+    examples, describes stress and slur patterns, gives runic and Old English verse
+    examples, and offers metrical comparisons to hexameter and Miltonic verse.
+  language: English with Old English and early Germanic verse examples
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies a type of old Teutonic verse line as the Caedmonian
+    line and associates it with the Caedmon manuscript and the Lay of the Rood.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists English, German, and Scandinavian poems or texts in which
+    this old metre appears.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that this line is the parent of every other native Teutonic
+    metre.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes the line as four-measured, arranged 2:2, with letter-stresses
+    and a possible slur of several words.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says a strict and regular finish before pauses helps the hearer
+    recognize the end of the half-line.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage gives early inscriptional examples that include a horn, stones,
+    and forms of the word for runes.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Rood example lines include a sign or beacon, a young hero identified in
+    the line with God almighty, Heaven's lord, bright stone, and a sorrow-song.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage compares the mental effect of the old epic line to the weightier
+    lines of Milton.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Caedmon / Cedmon
+  description: Named in the prose discussion as associated with the Caedmonian line
+    and the Lay of the Rood, and later as preferring a particular placement for the
+    slur.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: God almighty / Heaven's lord / victory-wielder
+  description: A divine figure named in the Rood example lines by Old English designations
+    including God almighty, Heaven's lord, and victory-wielder.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: named poetic and metrical authority
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the Lay of the Rood to Caedmon and uses his name for
+    the Caedmonian line; it also comments on Caedmon's preferred placement of the
+    slur.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: divine figure in Rood metrical example
+  assigned_to:
+  - fig:2
+  basis: The Rood example lines include divine titles and describe the figure in connection
+    with resting and a sorrow-song.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: 2:2 four-measure line
+  literal_form: four-measured line, 2:2
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: slur
+  literal_form: a slur of several words at the beginning of a line or half-line
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: horn
+  literal_form: Horna in the Golden Horn example line
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: runes
+  literal_form: runoz / runaz in the inscriptional examples
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: Rood sign or beacon
+  literal_form: Rood; bedcen
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: bright stone
+  literal_form: Beorhtum stane
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Survey of old Teutonic metre
+  summary: The passage surveys the survival of the old metre in English, German, and
+    Scandinavian texts and presents the Caedmonian line as a principal ancestral form.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of line mechanics
+  summary: The passage describes the Caedmonian line as a 2:2 four-measure structure
+    with letter-stresses, variable stress placement, and a low recitative slur.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Runic inscription examples
+  summary: The passage supplies early inscriptional verse examples, including the
+    Golden Horn and Tune-Stone material, with references to horn, stone, and runes.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Rood metrical example
+  summary: The passage gives Old English example lines from the Rood, including a
+    sighted sign, a young hero identified with God almighty, Heaven's lord resting,
+    bright stone, and a sorrow-song.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Caedmonian four-measure alliterative long-line pattern
+  taxonomy_refs: []
+  basis: The passage explicitly describes the line as four-measured, 2:2, with letter-stresses
+    and a slur, and calls it the parent of native Teutonic metres.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a literary-metrical pattern, not a narrative mythic motif.
+- id: motif:2
+  label: regular closure before metrical pause
+  taxonomy_refs: []
+  basis: The passage explains that a strict and regular finish before each pause helps
+    signal the end of the half-line and compares this functional need to the hexameter
+    ending.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The motif is formal and auditory rather than mythological.
+- id: motif:3
+  label: Rood divine-hero lament pattern
+  taxonomy_refs: []
+  basis: The Rood example lines include a sign or beacon, a young hero identified
+    with God almighty, Heaven's lord, and a sorrow-song.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The passage quotes the lines as metrical examples and does not provide
+    a full narrative translation or explanation.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Caedmonian line as the parent form of native Teutonic
+    metres.
+  claim_level: common_inheritance
+  target: every other native Teutonic metre
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the edition's metrical-history claim; the passage itself supplies
+    no external demonstration beyond its survey and pedigree statement.
+- id: claim:2
+  claim: The passage compares the regular finish before a Caedmonian half-line pause
+    to the regular ending of the hexameter as serving a similar closure-signaling
+    function.
+  claim_level: same_function
+  target: hexameter regular ending
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is functional and metrical, not mythological.
+- id: claim:3
+  claim: The passage says the old epic line's mental effect has its nearest modern
+    parallel in the weightier lines of Milton.
+  claim_level: same_function
+  target: Milton's weightier lines
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is an aesthetic analogy made by the editor, not a formal
+    proof of metrical identity.
+- id: claim:4
+  claim: The passage states that the dialect of the early inscriptional examples is
+    near the Gothic of Wulfila.
+  claim_level: linguistic_similarity
+  target: Gothic of Wulfila
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives the linguistic comparison without detailed analysis
+    in this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21435-21454
+  quote_or_summary: The passage names the Caedmonian line, associates it with the
+    Lay of the Rood and the Caedmon manuscript, and lists English, German, and Scandinavian
+    works that use the old metre.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: quote
+  locator: lines 21455-21460
+  quote_or_summary: '"this line is the parent of every other native Teutonic metre"'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: lines 21461-21476
+  quote_or_summary: '"a four-measured line, 2:2" with letter-stresses and a "slur"
+    of several words placed at the beginning of a line or half-line.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt and summary.
+- id: ev:4
+  type: summary
+  locator: lines 21477-21487
+  quote_or_summary: The passage discusses preferred half-line endings, explains the
+    usefulness of a regular finish before each pause, and compares this need to the
+    regular ending of the hexameter.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: lines 21496-21515
+  quote_or_summary: The passage introduces lines on the Golden Horn and Tune-Stone,
+    says the dialect is near the Gothic of Wulfila, and gives forms including Horna,
+    Worohto runoz, and warait runaz.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary with short forms.
+- id: ev:6
+  type: quote
+  locator: lines 21516-21519
+  quote_or_summary: '"There is a fine solemnity" in the old Epic line, with its nearest
+    modern parallel in "the weightier of Milton''s lines."'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:7
+  type: summary
+  locator: lines 21520-21534
+  quote_or_summary: The Rood examples include phrases such as geseah ... bedcen, geong-hæled,
+    God ... mihtig, Heofenes-dryhten, Beorhtum stane, and Sorg-ledd galan.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; brief quoted forms within summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly a metrical and philological discussion rather than
+    a mythic narrative. Formal patterns are well supported; mythic-symbolic extraction
+    from the Rood example is limited because the lines are quoted chiefly as metre
+    examples and not fully translated in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was applied because the passage does not directly support those controlled terms without importing external context.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21435-l21558
+  passage_sha256=d13b05c0a8a741206cc9c3e2815c5bc7579f451273233ed398340e0a5f66adc5
+

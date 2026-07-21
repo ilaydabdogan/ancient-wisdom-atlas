@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l9978-l10019
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD VIII. IO5 / I06 VENDIDAD. / FARGARD VIII. 107 / I08 VENDIDAD.; lines
+    9978-10019
+  start: '9978'
+  end: '10019'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage prescribes a sprinkling order for an unclean man or woman,
+    then presents a repeated question-and-answer sequence in which Ahura Mazda states
+    where the Druj Nasu rushes as the good waters reach successive lower body parts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: For an unclean male subject, sprinkling is prescribed first behind and then
+    before; for an unclean female subject, first before and then behind.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the good waters reach the sexual parts, Ahura Mazda says the Druj Nasu
+    rushes to the right thigh.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the good waters reach the right thigh, Ahura Mazda says the Druj Nasu
+    rushes to the left thigh.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: When the good waters reach the left thigh, Ahura Mazda says the Druj Nasu
+    rushes to the right knee.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: When the good waters reach the right knee, Ahura Mazda says the Druj Nasu
+    rushes to the left knee.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When the good waters reach the left knee, Ahura Mazda says the Druj Nasu rushes
+    to the right leg.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: When the good waters reach the right leg, Ahura Mazda says the Druj Nasu rushes
+    to the left leg.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage uses a repeated question addressed to the Holy One followed by
+    an answer from Ahura Mazda.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The named speaker who answers the repeated questions about the movement
+    of the Druj Nasu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Druj Nasu
+  description: The entity described as rushing from one body part to another as the
+    good waters reach successive parts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: unclean male subject
+  description: A man described as unclean and as a recipient of the prescribed sprinkling
+    order.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: unclean female subject
+  description: A woman described as unclean and as a recipient of the prescribed sprinkling
+    order.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: answering ritual authority
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda is repeatedly named as the one who answers where the Druj Nasu
+    rushes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: moving impurity entity
+  assigned_to:
+  - fig:2
+  basis: The Druj Nasu is repeatedly described as rushing to successive body parts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:3
+  label: ritual subject of sprinkling
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage gives distinct sprinkling instructions for an unclean man and
+    an unclean woman.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: good waters
+  literal_form: waters that reach the body parts during the described procedure
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: lower-body displacement sequence
+  literal_form: sexual parts, right thigh, left thigh, right knee, left knee, right
+    leg, left leg
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Sprinkling order for unclean subjects
+  summary: The passage prescribes different first directions of sprinkling for an
+    unclean man and an unclean woman.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Druj Nasu moves as good waters advance
+  summary: In a repeated dialogue, Ahura Mazda states that the Druj Nasu rushes from
+    one lower body part to the next as the good waters reach each preceding location.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: ritual purification by sprinkling water
+  taxonomy_refs: []
+  basis: The passage prescribes sprinkling an unclean person and repeatedly describes
+    good waters reaching body parts during the procedure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The available motif-family taxonomy does not include a dedicated purification
+    motif; the water taxonomy is available only as a symbol reference.
+- id: motif:2
+  label: sequential displacement of impurity through the body
+  taxonomy_refs: []
+  basis: The Druj Nasu is described as rushing to a new body part each time the good
+    waters reach the previous part.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives only part of the sequence within the supplied line range.
+- id: motif:3
+  label: opposition of good waters and polluting Druj Nasu
+  taxonomy_refs:
+  - duality
+  basis: The wording contrasts the action of the good waters with the movement of
+    the Druj Nasu away to successive locations.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The link to the broad duality motif family is cautious; this excerpt does
+    not itself state a full cosmological dualism.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9980-9982
+  quote_or_summary: 'Instruction: sprinkle an unclean man first behind and then before;
+    sprinkle an unclean woman first before and then behind.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:2
+  type: summary
+  locator: lines 9984-9988
+  quote_or_summary: Question about where the Druj Nasu rushes when the good waters
+    reach the sexual parts; Ahura Mazda answers that it rushes to the right thigh.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:3
+  type: summary
+  locator: lines 9990-9994
+  quote_or_summary: Question about where the Druj Nasu rushes when the good waters
+    reach the right thigh; Ahura Mazda answers that it rushes to the left thigh.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:4
+  type: summary
+  locator: lines 9996-10000
+  quote_or_summary: Question about where the Druj Nasu rushes when the good waters
+    reach the left thigh; Ahura Mazda answers that it rushes to the right knee.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:5
+  type: summary
+  locator: lines 10002-10006
+  quote_or_summary: Question about where the Druj Nasu rushes when the good waters
+    reach the right knee; Ahura Mazda answers that it rushes to the left knee.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:6
+  type: summary
+  locator: lines 10008-10012
+  quote_or_summary: Question about where the Druj Nasu rushes when the good waters
+    reach the left knee; Ahura Mazda answers that it rushes to the right leg.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:7
+  type: summary
+  locator: lines 10014-10019
+  quote_or_summary: Question about where the Druj Nasu rushes when the good waters
+    reach the right leg; Ahura Mazda answers that it rushes to the left leg.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; neutral summary.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal sequence and speaker attributions are explicit. Motif labeling is
+    limited to the supplied excerpt and available taxonomy; no external comparison
+    claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage shows OCR or typographic variation in the printed form of Druj Nasu; the label has been normalized minimally for record consistency.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l9978-l10019
+  passage_sha256=e8db3a86d11bfacc78aac0b7de48463ad76de0fc33d4f0c562c3c7b7da141226
+

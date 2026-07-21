@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.siberian-aboriginal-siberia-czaplicka-archive-l11493-l11510
+source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+passage_locator:
+  label: THE   ACCESSORIES   OF  THE  SHAMAN  221 / THE   ACCESSORIES  OF  THE   SHAMAN  223
+    / THE   ACCESSORIES   OF  THE   SHAMAN  225 / THE   ACCESSORIES   OF  THE   SHAMAN  227;
+    lines 11493-11510
+  start: '11493'
+  end: '11510'
+  translation: Aboriginal Siberia - A Study in Social Anthropology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Lapp shaman drums: their preferred birch or pine
+    wood, two physical forms, red drawings of spirits and cosmological elements, accessories
+    such as metal rings and reindeer-horn drum-sticks, careful storage in furs, and
+    a restriction that women do not touch the drum.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The drum was made of birch or pine wood, preferably from a tree grown in a
+    sunny spot, because such a tree was said to be acceptable to the sun and good
+    spirits.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Two kinds of drum are described: a wooden hoop with two cross-pieces covered
+    with hide, and an egg-shaped flat box hollowed from a tree trunk and covered with
+    hide.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The most significant ornaments on the drum are red drawings representing good
+    and bad spirits, the sun, stars, animals, lakes, forests, and men.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A division between this world and the upper world is clearly shown on the
+    drum.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Among the symbolic figures on the drum is an image of a noaida, identified
+    in the passage as a shaman.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Each drum has a metal ring with small pendants and a drum-stick of reindeer
+    horn.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Lapps take great care of their drums and wrap the drums and drum-sticks
+    in furs when not in use.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: No woman dares to touch the drum.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: good spirits
+  description: Spirits represented in the drum drawings; also named as beings for
+    whom the sunny-grown tree would be acceptable.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: bad spirits
+  description: Spirits represented in the red drawings on the drum.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: sun
+  description: The sun is represented in the drum drawings and is also named as accepting
+    a tree grown in a sunny spot.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: noaida (shaman)
+  description: An image of a noaida, glossed as a shaman, appears among the symbolic
+    figures on the drum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Lapps
+  description: The people described as taking great care of the drums and wrapping
+    them and the drum-sticks in furs when not in use.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: women
+  description: Women are described only in relation to the prohibition or avoidance
+    of touching the drum.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: represented beings on the drum
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The red drum drawings are said to represent good and bad spirits and the
+    sun, among other things.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: represented shaman figure
+  assigned_to:
+  - fig:4
+  basis: The passage states that an image of a noaida, identified as a shaman, appears
+    among the symbolic figures.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: caretakers of the ritual drum
+  assigned_to:
+  - fig:5
+  basis: The Lapps are described as taking great care of drums and wrapping them and
+    their sticks in furs.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: acceptors of selected drum wood
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: A tree grown in a sunny spot is described as acceptable to the sun and good
+    spirits.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: persons prohibited or unwilling to touch the drum
+  assigned_to:
+  - fig:6
+  basis: The passage states that no woman dares to touch the drum.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shaman drum
+  literal_form: A drum made of birch or pine wood and hide, in either hoop form or
+    egg-shaped hollowed box form.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: selected birch or pine tree wood
+  literal_form: Birch or pine wood from a tree grown, if possible, in a sunny spot.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: red drawings on the drum
+  literal_form: Red drawings representing spirits, the sun, stars, animals, lakes,
+    forests, men, and a noaida image.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: division between this world and upper world
+  literal_form: A clearly shown division between this world and the upper world on
+    the drum surface.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: metal ring with pendants
+  literal_form: A metal ring with small pendants attached to each drum.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: reindeer-horn drum-stick
+  literal_form: A drum-stick made of reindeer horn, stored with the drum when not
+    in use.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:7
+  label: fur wrapping
+  literal_form: Furs used to wrap drums and drum-sticks when not in use.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Selection and construction of the drum
+  summary: The passage describes the preferred wood for the drum and gives two construction
+    types, both covered with hide.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Drum surface as represented cosmos
+  summary: The red drawings on the drum represent spirits, celestial bodies, animals,
+    landscapes, men, a shaman image, and a division between this world and the upper
+    world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Accessories, storage, and touch restriction
+  summary: Each drum has a metal ring, pendants, and a reindeer-horn drum-stick; the
+    Lapps wrap drums and sticks in furs when unused, and women do not touch the drum.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ritual drum as cosmological display
+  taxonomy_refs: []
+  basis: The drum’s red drawings represent spirits, celestial bodies, animals, landscapes,
+    men, a shaman image, and a clear division between this world and the upper world.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes the represented elements but does not narrate a
+    journey or ritual performance using the drum.
+- id: motif:2
+  label: Sacred selection of ritual-object material
+  taxonomy_refs: []
+  basis: The drum wood is preferably taken from birch or pine grown in a sunny place,
+    because such a tree is said to be acceptable to the sun and good spirits.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives the acceptability rationale but does not provide a fuller
+    myth explaining the tree or selection process.
+- id: motif:3
+  label: Protected and carefully stored ritual instrument
+  taxonomy_refs: []
+  basis: The Lapps are described as taking great care of their drums and wrapping
+    the drums and drum-sticks in furs when not in use.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not specify the ritual reason for wrapping or storage.
+- id: motif:4
+  label: Gendered taboo around ritual object
+  taxonomy_refs: []
+  basis: The passage states that no woman dares to touch the drum.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the restriction but does not explain its origin or
+    consequences.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11493-11510
+  quote_or_summary: The drum is made of birch or pine wood, preferably from a sunny-grown
+    tree, because such a tree would be acceptable to the sun and good spirits.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:2
+  type: summary
+  locator: lines 11493-11510
+  quote_or_summary: 'Two drum forms are described: a wooden hoop with two internal
+    cross-pieces and hide covering, and an egg-shaped flat box hollowed from a tree
+    trunk and hide-covered.'
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: summary
+  locator: lines 11493-11510
+  quote_or_summary: The drum’s red drawings represent good and bad spirits, the sun,
+    stars, animals, lakes, forests, men, a division between this world and the upper
+    world, and an image of a noaida or shaman.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:4
+  type: summary
+  locator: lines 11493-11510
+  quote_or_summary: Each drum has a metal ring with small pendants and a drum-stick
+    made of reindeer horn.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:5
+  type: summary
+  locator: lines 11493-11510
+  quote_or_summary: The Lapps take great care of drums, wrap drums and drum-sticks
+    in furs when not in use, and no woman dares to touch the drum.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strongly supported by the passage. Motif labels are
+    descriptive and passage-level; no broader comparison claims are made because the
+    passage does not itself establish cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference was limited to the available symbol ref 'tree' where directly supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-aboriginal-siberia-czaplicka-archive__l11493-l11510
+  passage_sha256=5ec84a99c2684764b705ecf9fae5e8315bd936503973e58725e0d4006eedc62b
+

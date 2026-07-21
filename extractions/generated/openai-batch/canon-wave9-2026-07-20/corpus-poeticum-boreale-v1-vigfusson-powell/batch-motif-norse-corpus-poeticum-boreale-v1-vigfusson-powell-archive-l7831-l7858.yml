@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l7831-l7858
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: THE LESSON OF LODDFAEFNI. / FRAGMENT OF A LOST LAY. / FRAGMENTS OF A SPELL
+    SONG. / LAY OF THEODRICK THE GOTH.; lines 7831-7858
+  start: '7831'
+  end: '7858'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: No man can live over the evening when the word of the Fates has gone forth.
+  summary: The passage introduces the Lay of Theodrick the Goth as a fragment on the
+    Rokstone. It includes runic transliteration, a warrior speech about fighting,
+    slain Goths, reputation, and death under the Fates, a brief notice of Sorli and
+    Hamtheow falling at a hall or house, and a description of Theodrick ruling Redmere's
+    Strand and sitting armed on his steed.
+  language: English with Old Norse runic transliteration
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the material as a fragment on an ancient Runic stone
+    known as the Rokstone in East Gothland, Sweden, and relates it editorially to
+    a lost lay.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The editor states that the stone has no word-division, never doubles a letter,
+    and uses “A” as a nasal a.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The runic transcription includes forms naming Theodrick and describing a figure
+    sitting armed, shield-girt, at Redmere's Strand.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A first-person plural group says they have fought well, stand on slaughtered
+    Goths and sword-sated slain, have gained good report, and may die that day or
+    the next.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same speech says no man can live beyond evening once the word of the Fates
+    has gone forth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Sorli falls at the gable of the hall, and Hamtheow sinks down at the back
+    of the house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Theodrick is described as daring of mood, lord of seamen, ruler of Redmere's
+    Strand, Prince of the Mzrings, and seated in full war-gear on a shield-girt steed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Theodrick the Goth
+  description: A daring ruler, lord of seamen, Prince of the Mzrings, associated with
+    Redmere's Strand and shown sitting armed on his steed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Unnamed warrior speakers
+  description: A first-person plural group who says they have fought well, stand among
+    slain Goths, and may die soon.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: The Fates
+  description: A collective power whose word, once gone forth, determines that no
+    man can live beyond evening.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Sorli
+  description: A named figure who falls at the gable of the hall.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Hamtheow
+  description: A named figure who sinks down at the back of the house.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Slaughtered Goths / sword-sated slain
+  description: Dead combatants on whom the speakers say they stand.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: armed ruler or prince
+  assigned_to:
+  - fig:1
+  basis: Theodrick is called ruler of Redmere's Strand and Prince of the Mzrings,
+    and is described as sitting in full war-gear on a shield-girt steed.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: warrior speakers facing death
+  assigned_to:
+  - fig:2
+  basis: The speakers report fighting, standing among the slain, gaining good report,
+    and possibly dying that day or the next.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: fate-declaring powers
+  assigned_to:
+  - fig:3
+  basis: The speech states that life cannot continue beyond evening when the word
+    of the Fates has gone forth.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: fallen named warriors
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Sorli and Hamtheow are each described as falling or sinking at parts of a
+    hall or house.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: slain combatants
+  assigned_to:
+  - fig:6
+  basis: The speakers describe slaughtered Goths and sword-sated slain beneath them.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: runic stone fragment
+  literal_form: The Rokstone, an ancient Runic stone preserving the fragment.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: slain battlefield bodies
+  literal_form: Slaughtered Goths and sword-sated slain beneath the speakers.
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: eagles on a perch
+  literal_form: The speakers compare themselves to eagles on their perch.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: word of the Fates
+  literal_form: The utterance or decree of the Fates that has gone forth.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hall and house positions
+  literal_form: The gable of the hall and the back of the house where Sorli and Hamtheow
+    fall.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: mounted war-gear
+  literal_form: Steed, shield, and full war-gear associated with Theodrick.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Inscriptional frame for a lost lay
+  summary: The passage presents the Theodrick material as a fragment preserved on
+    the Rokstone and gives editorial notes about its relation to a lost lay and other
+    textual witnesses.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Warrior speech among the slain
+  summary: The unnamed speakers declare that they have fought well, stand on slain
+    Goths like eagles on a perch, have gained good report, and face death under the
+    Fates' decree.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sorli and Hamtheow fall at the hall or house
+  summary: Sorli falls at the gable of the hall, while Hamtheow sinks down at the
+    back of the house.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Theodrick armed on his steed
+  summary: Theodrick, ruler of Redmere's Strand and Prince of the Mzrings, is depicted
+    sitting in full war-gear on a shield-girt steed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: fate-decreed mortality after battle
+  taxonomy_refs:
+  - wisdom
+  basis: The warrior speech states that no man can live over the evening after the
+    word of the Fates has gone forth.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage gives a gnomic fate statement
+    rather than an extended wisdom episode.
+- id: motif:2
+  label: heroic reputation in the face of imminent death
+  taxonomy_refs: []
+  basis: The speakers say they have fought a good fight, gotten a good report, and
+    may die that day or the next.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The speakers are unnamed in this excerpt, and the surrounding narrative
+    context is fragmentary.
+- id: motif:3
+  label: warriors falling at marked parts of a hall or house
+  taxonomy_refs: []
+  basis: Sorli and Hamtheow are each located at a specific part of the hall or house
+    when they fall or sink down.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only a brief sentence survives here; the cause and full battle context
+    are not given in the passage.
+- id: motif:4
+  label: armed mounted ruler
+  taxonomy_refs: []
+  basis: Theodrick is described as a ruler and prince sitting in full war-gear on
+    a shield-girt steed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The image is clear, but the fragment does not explain its narrative function.
+- id: motif:5
+  label: inscribed stone as remnant of a lost heroic lay
+  taxonomy_refs: []
+  basis: The passage describes the Rokstone fragment as standing in relation to a
+    lost lay and supplies inscriptional details.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a textual-transmission pattern rather than a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The editor compares the Rokstone's relation to the lost Lay of Theodrick
+    with the Ruthwell Cross's relation to the Lay of the Rood.
+  claim_level: same_function
+  target: Ruthwell Cross and the Lay of the Rood
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns preservation or textual relation, not shared
+    narrative content or a shared mythic motif.
+- id: claim:2
+  claim: The editor assumes an identity between this Theodrick/Maringa material and
+    the Theodrick and Mzringaburg material in the Old English Deer's Lay on the basis
+    of name and place correspondence.
+  claim_level: linguistic_similarity
+  target: Old English Deer's Lay
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage reports an editorial assumption; it does not provide the
+    Deer's Lay episode itself for independent comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7831-7840
+  quote_or_summary: The passage introduces the Lay of Theodrick the Goth as a fragment
+    on the early tenth-century Rokstone in East Gothland, compares its relation to
+    a lost lay with the Ruthwell Cross and Lay of the Rood, links it to Old English
+    Deer's Lay by correspondence of names, and notes inscriptional features.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 7842-7846
+  quote_or_summary: The runic transcription includes Theodrick's name and phrases
+    corresponding to Redmere's Strand, sitting armed, and shield-girt status.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: summary
+  locator: lines 7848-7852
+  quote_or_summary: The speakers say they have fought a good fight, stand on slaughtered
+    Goths and sword-sated slain like eagles on a perch, have gotten good report, and
+    cannot outlive the evening when the Fates' word has gone forth.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: quote
+  locator: lines 7854-7855
+  quote_or_summary: "“Sorli fell at the gable of the hall, and Hamtheow sank down
+    at the back of the house.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 7857-7858
+  quote_or_summary: Theodrick is described as daring of mood, lord of seamen, ruler
+    of Redmere's Strand, Prince of the Mzrings, and as sitting in full war-gear on
+    his shield-girt steed.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and fragmentary. Literal extraction is straightforward,
+    while motif labeling is cautious because the narrative context is incomplete and
+    some comparison statements are editorial rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were left empty except for the broad fate-speech mapping to wisdom.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l7831-l7858
+  passage_sha256=19bb0ccaaf9de6df49ee3e6061f717e97552715b4b8ee9e1c64f93adf85c658b
+

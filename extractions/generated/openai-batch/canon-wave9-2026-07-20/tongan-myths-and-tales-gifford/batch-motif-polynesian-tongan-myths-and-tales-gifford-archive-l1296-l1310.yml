@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.polynesian-tongan-myths-and-tales-gifford-archive-l1296-l1310
+source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+passage_locator:
+  label: CONTENTS / INTRODUCTION / COSMOGONY / EXPLOITS OF THE MAUI; lines 1296-1310
+  start: '1296'
+  end: '1310'
+  translation: Tongan Myths and Tales
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Then he killed his two sons and threw them into the sea.
+  summary: Maui says he will plant food, digs between Ngaunoho and Utungake so forcefully
+    that the land rocks, hears his wife and children crying from fear, returns, and
+    then kills his two sons Mosolahi and Mososii, throwing them into the sea, where
+    they become two little islets named after them.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Maui says he will go and plant something for them to eat.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Maui goes between Ngaunoho and Utungake and digs the soil there.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Maui digs so hard that the land rocks, and his children and wife cry.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Maui returns, asks why they are crying, and they tell him they are frightened.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Maui kills his two sons and throws them into the sea.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The two boys are named Mosolahi and Mososii, and two little islets are called
+    after them because they were transformed into those islets after being cast into
+    the sea.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Maui
+  description: A named figure who speaks, goes to plant food, digs the soil, returns
+    to his family, and kills and casts his two sons into the sea.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Maui's wife
+  description: Maui's wife cries with his children after the land rocks and is among
+    those who say they are frightened.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mosolahi
+  description: One of Maui's two sons; he is killed, cast into the sea, and transformed
+    into one of the two little islets named after the boys.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Mososii
+  description: One of Maui's two sons; he is killed, cast into the sea, and transformed
+    into one of the two little islets named after the boys.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: speaker and planter-digger
+  assigned_to:
+  - fig:1
+  basis: Maui says he will plant something to eat and then digs the soil.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: father of the named sons
+  assigned_to:
+  - fig:1
+  basis: The boys Mosolahi and Mososii are identified as Maui's two sons.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: killer and caster into the sea
+  assigned_to:
+  - fig:1
+  basis: Maui kills his two sons and throws them into the sea.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: frightened wife
+  assigned_to:
+  - fig:2
+  basis: Maui's wife cries after the land rocks, and the family tells Maui they are
+    frightened.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: sons killed and cast into the sea
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Mosolahi and Mososii are the two boys identified as Maui's sons who are killed
+    and cast into the sea.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: transformed islet namesakes
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The two boys are said to have been transformed into two little islets that
+    are called after them.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sea
+  literal_form: The sea into which Maui throws the two boys.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: two little islets
+  literal_form: Two little islets called after Mosolahi and Mososii.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: rocking land
+  literal_form: The land that rocks when Maui digs the soil.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: dug soil for planting food
+  literal_form: Soil between Ngaunoho and Utungake that Maui digs in order to plant
+    food.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Maui digs for planting and the land rocks
+  summary: Maui announces he will plant food, goes between Ngaunoho and Utungake,
+    and digs the soil so forcefully that the land rocks and his wife and children
+    cry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Family fear explained
+  summary: Maui hears the crying, returns to ask what is wrong, and is told that they
+    are frightened; he replies that they are frightened because he went to plant food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Sons cast into the sea and changed into islets
+  summary: Maui kills his two sons, throws them into the sea, and the boys Mosolahi
+    and Mososii are transformed into two little islets that bear their names.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Landform origin through human transformation
+  taxonomy_refs: []
+  basis: The passage explains that Mosolahi and Mososii became two little islets after
+    being cast into the sea, and that the islets are called after them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the transformation result but does not explain the mechanism
+    in detail.
+- id: motif:2
+  label: Named islets as transformed children
+  taxonomy_refs: []
+  basis: The named sons of Maui are directly linked to the names and existence of
+    two little islets.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an etiological reading of the passage's explicit naming explanation.
+- id: motif:3
+  label: Earth-shaking digging for planting food
+  taxonomy_refs: []
+  basis: Maui's attempt to plant food involves digging so forcefully that the land
+    rocks and frightens his family.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents the action vividly but does not state a broader cosmological
+    consequence beyond the family's fear.
+- id: motif:4
+  label: Parent kills sons after frightened response
+  taxonomy_refs: []
+  basis: After the family says they are frightened, Maui kills his two sons and casts
+    them into the sea.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly state Maui's motive for killing the sons
+    beyond the preceding exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1296-1299
+  quote_or_summary: Maui says he will plant something for them to eat, goes between
+    Ngaunoho and Utungake, and begins digging the soil there.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1299-1301
+  quote_or_summary: Maui digs so hard that the land rocks, and his children and wife
+    cry.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1306-1309
+  quote_or_summary: Maui hears them, returns, asks why they are crying, is told they
+    are frightened, and says they are frightened because he went to plant food.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1309-1310
+  quote_or_summary: "“Then he killed his two sons and threw them into the sea.”"
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 1310-1310
+  quote_or_summary: The boys are named Mosolahi and Mososii; two little islets are
+    called after them because, when cast into the sea, they were transformed into
+    those islets.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence and named figures are explicit. Motif labels are cautious
+    because the passage does not give a full interpretive explanation of Maui's motive
+    or the transformation mechanism. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The bibliographic footnote embedded in the line range was not treated as narrative evidence.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:polynesian-tongan-myths-and-tales-gifford-archive__l1296-l1310
+  passage_sha256=f0599fcfc7f11d8a14d733d9025f902ccb41d3121763ec5d78fabcb1681f143c
+

@@ -1,0 +1,521 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l12126-l12177
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINCANEKWANE. / THE TWO BROTHERS. / IZELAMANI. / THE TWO BROTHERS.; lines
+    12126-12177
+  start: '12126'
+  end: '12177'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In a tale of two brothers, the elder lets the younger down by a rope to
+    drink water and abandons him at the bottom, then drives away the cattle and lies
+    to their parents. A bird comes in the morning and repeatedly tells the family
+    that their child has been put into the water. The parents follow the bird to the
+    place, where the younger brother explains that his brother left him there and
+    recounts an earlier encounter with a little old woman whom the elder refused to
+    help.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The younger brother asks to be tied with a rope and lowered so that he may
+    drink.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The elder brother ties the rope around the younger, lowers him to the bottom,
+    leaves him there, and drives off the cattle.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At home, the elder brother tells his parents that his brother had returned
+    before him and that an old woman gave him the cattle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A bird arrives in the morning and says that the parents' child has been put
+    into the water.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The people compare the bird's behavior to a honey-bird calling men to honey
+    and decide to follow it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The bird leads the father and mother to the place where the brothers had gone
+    down to drink.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The father looks over the precipice and asks what placed the younger brother
+    there.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The younger brother says his brother left him in the water after the younger
+    had first lowered and raised the elder.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The younger brother says the elder refused to turn up pots, after which a
+    little old woman came out and asked for help going to a certain country.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The younger brother says the elder refused the old woman's request and that
+    he himself agreed to go when asked.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: elder brother
+  description: The older of the two brothers, who is lowered and raised, then lowers
+    and abandons the younger brother and later speaks to the parents.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: fig:2
+  name_or_label: younger brother
+  description: The younger brother, lowered into the water and left there; later found
+    by his parents and able to explain what happened.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+  - ev:9
+- id: fig:3
+  name_or_label: father
+  description: A parent who follows the bird and looks over the precipice to address
+    the younger brother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: mother
+  description: A parent who follows the bird to the place where the child is in the
+    water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: bird-messenger
+  description: A bird that repeatedly announces that the child has been put into the
+    water and leads the people to the place.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: little old woman
+  description: A little old woman who came out after the elder refused to turn up
+    the pots and asked to be taken to a certain country.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:7
+  name_or_label: people or men
+  description: People present with the parents who hear the bird and propose following
+    it.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: abandoning sibling
+  assigned_to:
+  - fig:1
+  basis: He lowers the younger brother, leaves him at the bottom, and drives away
+    the cattle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: abandoned sibling
+  assigned_to:
+  - fig:2
+  basis: He is put into the water and explains that his brother left him there.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: searching parents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: They follow the bird to the place where their child is trapped.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: false reporter
+  assigned_to:
+  - fig:1
+  basis: He tells the parents that the younger brother returned before him and claims
+    the cattle came from an old woman.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: truthful witness
+  assigned_to:
+  - fig:2
+  basis: He recounts to his father how he was left and what preceded the abandonment.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:6
+  label: messenger and guide
+  assigned_to:
+  - fig:5
+  basis: The bird announces the child's danger and leads the family to the place.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:7
+  label: old woman requesting aid
+  assigned_to:
+  - fig:6
+  basis: She asks first the elder and then the younger to accompany her and take her
+    to another country.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:8
+  label: community hearers
+  assigned_to:
+  - fig:7
+  basis: They hear the bird and suggest following it because it behaves like a honey-bird.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: water-place
+  literal_form: water at the bottom below a precipice, reached by being lowered by
+    rope
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: rope
+  literal_form: rope tied around the brothers to lower them and draw them up
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: sym:3
+  label: bird-messenger
+  literal_form: bird that cries 'Tshiyo' and announces the child's location
+  associated_figures:
+  - fig:5
+  - fig:3
+  - fig:4
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: honey-bird comparison
+  literal_form: the bird is compared to a honey-bird calling men to honey
+  associated_figures:
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: cattle
+  literal_form: cattle driven away by the elder brother and later mentioned in his
+    explanation to his parents
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: pots
+  literal_form: pots the elder refused to turn up before the little old woman came
+    out
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Lowering and abandonment at the water
+  summary: After the elder has been drawn up, the younger asks to be lowered to drink;
+    the elder lowers him, leaves him at the bottom, and drives away the cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Elder brother's report at home
+  summary: The elder returns to his parents and says that the younger brother came
+    home before him and that an old woman gave him the cattle.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bird announces the trapped child
+  summary: In the morning a bird repeatedly says that the parents' child has been
+    put into the water; the people hear it and decide to follow it.
+  figure_refs:
+  - fig:5
+  - fig:7
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Parents led to the precipice
+  summary: The bird leads the parents to the place where the brothers went down to
+    drink, and the father looks over the precipice and speaks to the younger brother.
+  figure_refs:
+  - fig:5
+  - fig:3
+  - fig:4
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:5
+  label: Younger brother's explanation
+  summary: The younger brother explains that the elder abandoned him after being helped
+    first, and he recounts the old woman's request and his own acceptance after the
+    elder's refusal.
+  figure_refs:
+  - fig:2
+  - fig:1
+  - fig:6
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: hostile sibling abandonment
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage centers on two brothers, one of whom abandons the other in the
+    water after receiving help from him.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The taxonomy reference is broad; the available list does not include a
+    specific betrayal or abandonment motif.
+- id: motif:2
+  label: animal messenger reveals hidden danger
+  taxonomy_refs: []
+  basis: A bird announces that the child is in the water and leads the family to the
+    place where he is trapped.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: No matching taxonomy reference was supplied for an animal messenger.
+- id: motif:3
+  label: kind younger sibling accepts old woman's request after elder refuses
+  taxonomy_refs:
+  - sibling_pair
+  basis: The younger brother reports that the elder refused the old woman's request,
+    while he accepted it when asked.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The practical result of the younger brother's kindness is only partially
+    visible in this line range; the supplied footnote describes the broader pattern.
+- id: motif:4
+  label: descent to water by rope
+  taxonomy_refs: []
+  basis: Both brothers are lowered to a water-place by rope, and the younger is stranded
+    there.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: This is a literal scene pattern in the passage; no supplied taxonomy family
+    directly matches it.
+comparison_claims:
+- id: claim:1
+  claim: The editor's footnote compares this kind of tale to a wider pattern in which
+    a younger sibling gains advantage by readily performing an act of kindness while
+    an elder suffers for churlishness.
+  claim_level: same_motif
+  target: widespread tale pattern of kind younger sibling rewarded and churlish elder
+    punished
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the note, not demonstrated within this excerpt
+    by examples from named traditions; the present line range only partially preserves
+    the outcome of the younger brother's kindness.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12126-12139
+  quote_or_summary: The younger asks to be tied with a rope and lowered to drink;
+    the elder lowers him, leaves him at the bottom, and drives off the cattle.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12139-12148
+  quote_or_summary: The elder returns to his parents and says his brother returned
+    before him, while he went with an old woman who gave him the cattle.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 12152-12157
+  quote_or_summary: A bird came, saying, 'Tshiyo, tshiyo, tshiyo; your child has been
+    put into the water.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 12157-12164
+  quote_or_summary: The men hear the bird, and the people say to follow it because
+    it cries like the honey-bird when calling men to honey.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 12164-12170
+  quote_or_summary: The father and mother follow the bird as it repeats that their
+    child is in the water; it descends to the place where the brothers had gone down
+    to drink.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 12170-12173
+  quote_or_summary: At the bottom the bird still cries; the father looks over the
+    precipice and asks what placed the younger brother there.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 12173-12177
+  quote_or_summary: The younger brother says his brother left him there when they
+    were drinking water; he had first let the elder down and drawn him up again, but
+    the elder then let him down and left him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 12177 and following in supplied passage
+  quote_or_summary: The younger brother says the elder refused to turn up the pots,
+    and a little old woman came out and asked the elder to accompany her and take
+    her to a certain country.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 12177 and following in supplied passage
+  quote_or_summary: The younger brother says the elder refused the old woman's request;
+    she then asked him, and he went.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: footnote 61 in supplied passage
+  quote_or_summary: 'The note says this kind of tale is common among other people:
+    a younger sibling or step-sibling gains advantages by readily performing an act
+    of kindness, while the elder suffers for churlishness.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage begins and ends mid-narrative, so some causal links and outcomes
+    are incomplete. Literal actions in the line range are clear, while motif interpretation
+    is limited to patterns directly visible or stated in the editor's note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. No external tale parallels were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l12126-l12177
+  passage_sha256=59e75973a35bb3d9ba1e5ed67d029b60349d1fc7a5bd7ab395c3cffb9b1474a0
+

@@ -1,0 +1,335 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l6681-l6769
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: IV. C- / FARGARD IV. 33 / FARGARD IV. 35 / FARGARD IV. 37; lines 6681-6769
+  start: '6681'
+  end: '6769'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A repeated dialogue asks what happens if a man breaks different kinds of
+    contracts. Ahura Mazda answers with graded collective atonement obligations and
+    graded corporal penalties using named implements. Translator notes gloss some
+    atonements as years in hell and some penalties as tanafuhr and dirhem equivalents.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage repeatedly asks what follows if a man breaks a sheep-contract,
+    ox-contract, man-contract, or field-contract.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ahura Mazda says the man's sin makes his Nabanazdiitas answerable for seven
+    hundredfold, eight hundredfold, nine hundredfold, and thousand-fold atonements
+    for the listed contract breaches.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage asks the penalty for breaking the word-contract, hand-contract,
+    sheep-contract, ox-contract, and man-contract.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Ahura Mazda assigns penalties of three hundred, six hundred, seven hundred,
+    eight hundred, and nine hundred stripes with the Aspahe-astra and the Sraosho-karana
+    for successive contract breaches.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: Translator notes attached to the atonement sequence say the offender's soul
+    abides in hell for seven hundred, eight hundred, nine hundred, or one thousand
+    years.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Translator notes attached to the stripe penalties equate several penalties
+    with tanafuhr and dirhem amounts.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At the end of the supplied passage, the question about the field-contract
+    penalty is introduced, but its answer is not included in the supplied excerpt.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named respondent who answers the repeated questions about contract-breaking,
+    atonement, and penalties.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: man who breaks a contract
+  description: Hypothetical offender introduced in repeated questions as a man who
+    breaks different kinds of contracts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Nabanazdiitas
+  description: Group made answerable for graded atonements by the contract-breaker's
+    sin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine legal respondent
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers the questions and states the required atonements and
+    penalties.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: hypothetical contract-breaker
+  assigned_to:
+  - fig:2
+  basis: Each question asks what happens if a man breaks a specified contract.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:3
+  label: answerable associated group
+  assigned_to:
+  - fig:3
+  basis: The passage says the man's sin makes his Nabanazdiitas answerable for graded
+    atonements.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: contract categories
+  literal_form: word-contract, hand-contract, sheep-contract, ox-contract, man-contract,
+    field-contract
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: punitive implements
+  literal_form: Aspahe-astra and Sraosho-karana, named as the implements with which
+    stripes are administered
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: graded penalty numbers
+  literal_form: seven hundredfold, eight hundredfold, nine hundredfold, thousand-fold;
+    three hundred to nine hundred stripes
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: hell-duration glosses in notes
+  literal_form: seven hundred, eight hundred, nine hundred, and one thousand years
+    in hell
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Collective atonement for broken contracts
+  summary: The questioner asks about several contract breaches, and Ahura Mazda answers
+    that the offender's sin makes the Nabanazdiitas answerable for escalating atonements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Corporal penalties for broken contracts
+  summary: The questioner asks the penalties for breaking several contract types,
+    and Ahura Mazda answers with escalating numbers of stripes using two named implements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Field-contract penalty question left open in excerpt
+  summary: The supplied passage begins the question about the field-contract penalty
+    but does not include Ahura Mazda's answer within the provided range.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: broken contract creates graded liability
+  taxonomy_refs:
+  - covenant
+  basis: The passage repeatedly treats contract-breaking as sin and assigns escalating
+    atonement according to the contract type.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage is a legal/casuistic contract
+    section rather than a narrative covenant episode.
+- id: motif:2
+  label: divine adjudication of legal penalties
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ahura Mazda answers the questions and states specific atonements and stripe
+    penalties.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents instruction in law and penalty, not a narrative trial
+    or final judgment scene.
+- id: motif:3
+  label: escalating numerical punishment scale
+  taxonomy_refs: []
+  basis: Atonements and stripes increase by contract category, from seven hundredfold
+    to thousand-fold atonement and from three hundred to nine hundred stripes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a formal legal pattern rather than a mythic narrative motif.
+- id: motif:4
+  label: afterlife duration as punitive gloss
+  taxonomy_refs: []
+  basis: Translator notes gloss several atonements as the offender's soul abiding
+    in hell for corresponding graded durations.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: This appears in notes quoting or referencing another source, not in the
+    main dialogue of the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage can be cautiously compared by function to a covenant-obligation
+    pattern: breach of a binding relation incurs religious or legal liability.'
+  claim_level: same_function
+  target: covenant motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text concerns contract law and penalties, not an explicit mythic
+    covenant narrative or cross-cultural parallel.
+- id: claim:2
+  claim: The passage can be cautiously compared by function to divine-judgment patterns
+    because a divine figure states the consequences of wrongdoing.
+  claim_level: same_function
+  target: divine_judgment motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: There is no narrative judgment scene; the format is a legal question-and-answer
+    instruction.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6681-6700
+  quote_or_summary: Questions about sheep-, ox-, man-, and field-contract breaches;
+    Ahura Mazda makes Nabanazdiitas answerable for seven hundredfold through thousand-fold
+    atonements.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: note
+  locator: 6701-6719
+  quote_or_summary: Footnotes gloss the graded atonements as the soul abiding in hell
+    for seven hundred, eight hundred, nine hundred, and one thousand years.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: 6720-6748
+  quote_or_summary: 'Ahura Mazda gives penalties for word-, hand-, and sheep-contract
+    breaches: three hundred, six hundred, and seven hundred stripes with the named
+    implements.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: 6749-6760
+  quote_or_summary: Ahura Mazda gives eight hundred and nine hundred stripe penalties
+    for ox- and man-contract breaches; the field-contract penalty question begins
+    at the end.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: note
+  locator: 6761-6769
+  quote_or_summary: Footnotes equate the stripe penalties with tanafuhr and dirhem
+    amounts, ranging from one and a half to four and a half tanafuhrs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The legal structure, named respondent, and graded penalties are clear. Motif
+    and comparison assignments are cautious because the passage is casuistic law rather
+    than mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Footnote material was treated separately from the main dialogue where relevant.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l6681-l6769
+  passage_sha256=6dbb774619642458233904e01760ad5f6a8edeb273dc2478165d4e0345d4ec4f
+

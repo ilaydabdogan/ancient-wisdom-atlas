@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l9185-l9230
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: PLATE XVIII / RPL RLE LET BEE LEAD / MYTHS OF ORIGINS AND THE DELUGE 183
+    / MYTHS OF ORIGINS AND THE DELUGE 185; lines 9185-9230
+  start: '9185'
+  end: '9230'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first recounts an accidental discovery of fire and cooking:
+    a man imitates a dog warming itself by rubbing against a creeper and then learns
+    that food near fire tastes better. It then introduces Indonesian animal trickster
+    tales in comparison with the Polynesian Maui cycle and begins a Javanese mouse-deer
+    episode in which the mouse-deer, threatened by a tiger, pretends to guard dung
+    as the king''s food.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man and a dog are in the jungle and become drenched by rain.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The dog warms itself by rubbing against a huge creeper called Aka Rawa.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The man rubs a stick rapidly against the Aka Rawa and obtains fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Food accidentally dropped near the fire becomes more agreeable to taste, leading
+    to discovery of cooking.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The text says Polynesian Maui tales formed a widely current cycle and Indonesian
+    trickster tales correspond to it in universality, characteristic quality, and
+    popularity while differing in type.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Indonesian trickster tales are described as centering on the mouse-deer, the
+    tarsier ape, or the tortoise.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The mouse-deer usually plays the leading part in Borneo, Java, Sumatra, and
+    among Malays of the Malay Peninsula; in Celebes and Halmahera similar exploits
+    are often attributed to the ape.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The order of incidents varies by region, but the series usually begins with
+    a tricky exploit that causes enmity and pursuit.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: In the Javanese beginning, the kantjil hears a tiger approaching, fears for
+    his life, takes a large leaf, and fans a nearby pile of dung.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: When the tiger asks what he is doing, the mouse-deer says he is guarding food
+    belonging to the king.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: man
+  description: Unnamed man who imitates the dog's rubbing action and obtains fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: dog
+  description: Animal companion whose warming behavior shows the man how fire may
+    be produced.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Maui
+  description: Hero whose Polynesian exploit cycle is mentioned as widely current.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: mouse-deer / kantjil / pelanduk
+  description: Animal trickster figure associated with Indonesian tales and specifically
+    the Javanese episode.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:5
+  name_or_label: tarsier ape
+  description: Animal figure named as a center of Indonesian trickster tales and as
+    recipient of similar exploits in Celebes and Halmahera.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:6
+  name_or_label: tortoise
+  description: Animal figure named as a center of some Indonesian trickster tales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: tiger
+  description: Predator approaching the kantjil in the Javanese beginning and asking
+    what he is doing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: fig:8
+  name_or_label: king
+  description: Figure invoked in the mouse-deer's speech as owner of the supposed
+    food.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: accidental fire and cooking discoverer
+  assigned_to:
+  - fig:1
+  basis: The man obtains fire by rubbing a stick against the creeper and later discovers
+    cooking after food is dropped near fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: animal demonstrator
+  assigned_to:
+  - fig:2
+  basis: The dog warms itself by rubbing against the creeper, prompting the man's
+    imitation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: Polynesian hero-cycle figure
+  assigned_to:
+  - fig:3
+  basis: The passage identifies Maui as the hero of a widespread Polynesian cycle.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: animal trickster protagonist
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage says Indonesian trickster tales center on the mouse-deer, tarsier
+    ape, or tortoise, with regional variation.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:5
+  label: predatory threat and questioner
+  assigned_to:
+  - fig:7
+  basis: The tiger approaches the kantjil, causing fear, and asks what the kantjil
+    is doing.
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: role:6
+  label: claimed royal owner
+  assigned_to:
+  - fig:8
+  basis: The mouse-deer says the nearby object is food belonging to the king.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire obtained by friction and used near food
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: rain
+  literal_form: rain drenching the man and dog in the jungle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Aka Rawa creeper
+  literal_form: huge creeper rubbed by dog and man
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: dung presented as royal food
+  literal_form: pile of dung fanned with a large leaf and described as food belonging
+    to the king
+  associated_figures:
+  - fig:4
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:5
+  label: large leaf
+  literal_form: leaf used by the kantjil to fan the dung
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Accidental discovery of fire
+  summary: In the rain-soaked jungle, the dog rubs against a huge creeper to warm
+    itself; the man imitates the action with a stick and obtains fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Accidental discovery of cooking
+  summary: Food falls near the fire and is found to taste better, leading the man
+    to discover cooking.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Comparative introduction to animal trickster cycles
+  summary: The text compares the widespread Polynesian Maui cycle with Indonesian
+    trickster tales centered on mouse-deer, ape, or tortoise, while noting differences
+    of type and regional variation.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Javanese mouse-deer begins deception of tiger
+  summary: The kantjil fears an approaching tiger, fans a pile of dung with a leaf,
+    and tells the curious tiger that it is food belonging to the king which he is
+    guarding.
+  figure_refs:
+  - fig:4
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: accidental discovery of fire by imitating an animal
+  taxonomy_refs: []
+  basis: The dog warms itself by rubbing against a creeper, and the man imitates with
+    a stick and obtains fire.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives no named culture hero for this episode and describes
+    the discovery as accidental.
+- id: motif:2
+  label: accidental discovery of cooking
+  taxonomy_refs: []
+  basis: Food accidentally dropped near fire tastes better, leading to the art of
+    cooking.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: Only the discovery sequence is present; no broader ritual or cultural
+    consequences are given in the excerpt.
+- id: motif:3
+  label: animal trickster tale cycle
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage identifies Indonesian trickster tales centered on mouse-deer,
+    tarsier ape, or tortoise, and says such series commonly begin with a tricky exploit
+    causing pursuit.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The taxonomy assignment is broad; the passage itself uses the term trickster
+    but does not elaborate a boundary-crossing interpretation.
+- id: motif:4
+  label: small trickster deceives predator with false guardianship claim
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The kantjil, fearing a tiger, performs a staged action over dung and claims
+    to be guarding the king's food.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The episode is truncated before the tiger's response or the trick's full
+    outcome.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Indonesian trickster tales as corresponding to the Polynesian
+    Maui cycle in universality, characteristic quality, and popularity, while differing
+    entirely in type.
+  claim_level: same_function
+  target: Polynesian Maui cycle and Indonesian animal trickster tale cycles
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs:
+  - ev:4
+  confidence: high
+  limitations: The comparison is made by the secondary author at the level of cycle
+    prominence, not as a claim that the tales share the same plot or historical origin.
+- id: claim:2
+  claim: The passage states that exploits attributed to the mouse-deer in some regions
+    are often attributed to the ape in Celebes and Halmahera.
+  claim_level: same_motif
+  target: Regional attribution of Indonesian trickster exploits to mouse-deer or ape
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The specific exploits are not enumerated in this excerpt, so the claim
+    remains general.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9185-9190
+  quote_or_summary: "“the man and the dog were in the jungle together, and got drenched
+    by rain,” and the dog “warmed himself by rubbing against a huge creeper” called
+    Aka Rawa."
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9190-9193
+  quote_or_summary: The man “took a stick and rubbed it rapidly against the Aka Rawa”
+    and “obtained fire.”
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9193-9197
+  quote_or_summary: Some food was accidentally dropped near the fire; the man found
+    it tasted better and discovered cooking.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9200-9208
+  quote_or_summary: The Maui tales are described as a widespread Polynesian hero cycle;
+    Indonesian trickster tales are said to correspond in universality, characteristic
+    quality, and popularity, but to differ entirely in type.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source summarized for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 9208-9213
+  quote_or_summary: Indonesian trickster tales center about “the mouse-deer (kantjil
+    or pelanduk), the tarsier ape, or the tortoise.”
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9215-9221
+  quote_or_summary: The mouse-deer is usually the leading figure in Borneo, Java,
+    Sumatra, and among Malays of the Malay Peninsula; in Celebes and Halmahera the
+    same exploits are often attributed to the ape.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source summarized for extraction evidence.
+- id: ev:7
+  type: summary
+  locator: lines 9222-9225
+  quote_or_summary: The order of incidents varies across regions, but the series usually
+    starts with a tricky exploit that rouses enmity and pursuit.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source summarized for extraction evidence.
+- id: ev:8
+  type: summary
+  locator: lines 9225-9229
+  quote_or_summary: In the Javanese opening, the kantjil hears a tiger approach, fears
+    for his life, takes a large leaf, and fans a nearby pile of dung.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source summarized for extraction evidence.
+- id: ev:9
+  type: quote
+  locator: lines 9229-9230
+  quote_or_summary: When the tiger asks what he is doing, the mouse-deer says, “This
+    is food belonging to the king. I am guarding it.”
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong for the fire, cooking, and trickster-cycle material.
+    Motif labels are cautious because the excerpt is secondary and the Javanese mouse-deer
+    episode is cut off before its outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external tale endings or taxonomy identifiers were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l9185-l9230
+  passage_sha256=f2d88ea7ed6ef6b92ceb5f4343898992996d2035b56a9b9fd977536e23581d59
+

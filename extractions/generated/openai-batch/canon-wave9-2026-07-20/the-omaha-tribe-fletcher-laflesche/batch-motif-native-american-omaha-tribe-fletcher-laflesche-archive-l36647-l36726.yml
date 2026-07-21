@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36647-l36726
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / ANOTHER / THE    OMAHA   TRIBE / TECOS'S    SONG    OF   REVENGE;
+    lines 36647-36726
+  start: '36647'
+  end: '36726'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: This song refers to the killing of a horse by magic because the owner had
+    offended one of the members of the society.
+  summary: The passage gives the text and explanation of Tecos's song of revenge.
+    The explanation says the song concerns a horse killed by magic after its owner
+    offended a society member. It notes that only the word shonge, meaning horse,
+    remains recognizable in the song text. The passage also begins the next song section,
+    described as a fast song for dramatic movement in “shooting” members.
+  language: English with Omaha song syllables
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies a piece titled “Tecos's Song of Revenge.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory note says the song refers to the killing of a horse by magic.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanatory note gives the reason for the killing as the horse owner having
+    offended one member of the society.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The incident is said to have occurred early in the last century relative to
+    the source's account.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The note states that shonge, meaning horse, is the only recognizable word
+    in the song, while the other words are obscured by syllables.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A following heading introduces a “Seventh Song” described as a fast song for
+    dramatic movement in “shooting” members.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tecos
+  description: Named in the title as associated with the song of revenge.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: horse
+  description: A horse referred to in the song explanation as killed by magic; shonge
+    is glossed as horse.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: owner of the horse
+  description: The owner of the horse is said to have offended one member of the society.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: one member of the society
+  description: A society member whom the horse owner offended.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: song-associated named person
+  assigned_to:
+  - fig:1
+  basis: The title names the song as Tecos's song of revenge.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: magically killed animal
+  assigned_to:
+  - fig:2
+  basis: The explanatory note says a horse was killed by magic.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: offending owner
+  assigned_to:
+  - fig:3
+  basis: The note says the horse owner had offended a society member.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: offended society member
+  assigned_to:
+  - fig:4
+  basis: The note identifies one member of the society as the person offended by the
+    horse owner.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: horse
+  literal_form: horse / shonge
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tecos's revenge song and explanation
+  summary: The passage presents the repeated song text and explains that it concerns
+    a horse killed by magic after the horse owner offended a society member.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Opening of following fast song section
+  summary: The passage then begins a separate section headed as a fast song for dramatic
+    movement in “shooting” members, with musical and transcription notes.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: revenge enacted through magical killing of an animal
+  taxonomy_refs: []
+  basis: The passage explicitly identifies the song as a song of revenge and explains
+    that a horse was killed by magic because its owner offended a society member.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief explanatory note and does not describe
+    the magical act in detail or identify the actor who performed it.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 36647-36726, title area
+  quote_or_summary: "“TECOS'S SONG OF REVENGE”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: 36647-36726, explanatory note after song text
+  quote_or_summary: "“This song refers to the killing of a horse by magic because
+    the owner had offended one of the members of the society. The incident is said
+    to have occurred early in the last century.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: 36647-36726, explanatory note after song text
+  quote_or_summary: "“The only recognizable word is shonge, horse; the others are
+    obscured by syllables.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: 36647-36726, following heading and music note
+  quote_or_summary: A following section is headed “Seventh Song — Fast Song for Dramatic
+    Movement in ‘Shooting’ Members,” marked M.M. J = 160, sung in octaves, and transcribed
+    by Edwin S. Tracy.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal explanation of the song is clear, but the brief note limits interpretation
+    of the magical killing and its ritual context. No comparison claims are made because
+    the passage itself does not support a comparison to another tradition or motif
+    family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned; the passage supports a local motif label but not a supplied taxonomy mapping.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36647-l36726
+  passage_sha256=196d1bbfdb7de81314401d5a0d0c2be20282ec35cdfd95f38aa61050be1f1450
+

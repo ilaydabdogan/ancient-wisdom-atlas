@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l24040-l24093
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: SACRIFICE-OFFERINGS TO DEVILS. 449 / A GUILT-OFFERING AT TANKAR,! / ITS CHRONOLOGICAL
+    BASIS, 451 / ASTROLOGY AND DIVINATION.; lines 24040-24093
+  start: '24040'
+  end: '24093'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents an astrology and divination section with a table of
+    Tibetan era year-names formed from animal and element terms, followed by an explanation
+    that Lama-astrologers interpret these animal and element names to cast horoscopes
+    and prescribe worship and offerings to counteract evils indicated by unlucky combinations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage includes a table aligning A.D. years with Tibetan era year-names
+    made from element-animal compounds.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text states that years are named after several animals and elements.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Lama-astrologers are described as giving realistic meaning to the named animals
+    and elements and using combinations of attraction and repulsion in casting horoscopes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that astrologers prescribe worship and offerings to counteract
+    evils brought to light by the horoscope process.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The animals are described as more or less antagonistic to each other, with
+    certain combinations called most unlucky.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Lama-astrologers
+  description: Practitioners who interpret animal and element year-names, cast horoscopes,
+    and prescribe worship and offerings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: horoscope caster
+  assigned_to:
+  - fig:1
+  basis: The passage says the practitioners use animal and element meanings and combinations
+    of attraction and repulsion in casting horoscopes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ritual prescriber
+  assigned_to:
+  - fig:1
+  basis: The passage says they prescribe worship and offerings to counteract evils
+    revealed by horoscope interpretation.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: animal year-names
+  literal_form: Animal names used in year compounds, including forms such as Horse,
+    Sheep, Ape, Bird, Dog, Hog, Mouse, Ox, Tiger, Hare, Dragon, and Serpent.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Fire element year-name
+  literal_form: Fire as an element term in year-names, such as Fire-Tiger and Fire-Mouse.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: Water element year-name
+  literal_form: Water as an element term in year-names, such as Water-Dog and Water-Dragon.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: other element year-names
+  literal_form: Element terms in the table including Earth, Iron, and Wood.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Tibetan calendrical year-name table
+  summary: A table lists A.D. years alongside Tibetan era year-names formed from element
+    and animal terms.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Astrological interpretation and ritual response
+  summary: Lama-astrologers interpret animal and element year-names through attraction,
+    repulsion, and antagonism, cast horoscopes, and prescribe worship and offerings
+    against indicated evils.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: calendrical animal-element horoscope divination
+  taxonomy_refs: []
+  basis: The passage describes years named after animals and elements and says Lama-astrologers
+    interpret these names through attraction and repulsion when casting horoscopes.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The excerpt does not provide an example of an actual horoscope calculation
+    or interpretation.
+- id: motif:2
+  label: ritual offerings to counteract revealed evils
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage says worship and offerings are prescribed as necessary to counteract
+    evils brought to light by astrological interpretation.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The recipients, contents, and sequence of the offerings are not specified
+    in this excerpt.
+- id: motif:3
+  label: antagonistic animal signs and unlucky combinations
+  taxonomy_refs: []
+  basis: The passage states that the animals are mutually antagonistic to varying
+    degrees and that some combinations are especially unlucky.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The list of unlucky combinations is introduced but not included in the
+    supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 24040-24083
+  quote_or_summary: The section heading is astrology and divination, followed by a
+    table aligning A.D. years with Tibetan era and compound year-names such as Earth-Horse,
+    Water-Dragon, Fire-Dog, and Iron-Mouse.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 24085-24090
+  quote_or_summary: The passage says Lama-astrologers give realistic meaning to the
+    animals and elements after which years are named, producing combinations of attraction
+    and repulsion for casting horoscopes.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 24090-24093
+  quote_or_summary: The passage says astrologers prescribe worship and offerings to
+    counteract evils revealed by horoscopes, and that the animals are antagonistic
+    with especially unlucky combinations.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The basic ritual-astrological practice is explicit. Motif taxonomy mapping
+    is limited because the excerpt emphasizes divination and horoscope logic, while
+    available taxonomy has no direct divination family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR noise is present in the table; extraction relies on the clear recurring element-animal year-name pattern and the explanatory paragraph.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l24040-l24093
+  passage_sha256=488b89a2fe3f17b6e95305598dff7c83cdb4a2b537af65628fba98f4b2bfec65
+

@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l17845-l17899
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: NET. 222 / A.D 400. / THE EMPEROR MIDZUHAWAKE.' / HANSHO TENNO.); lines 17845-17899
+  start: '17845'
+  end: '17899'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: At his birth his teeth were like one bone, and his appearance was beautiful.
+  summary: The passage records the burial of the preceding emperor, introduces Emperor
+    Midzuhawake as a younger brother of Emperor Izaho-wake, describes his unusual
+    teeth and beauty at birth, explains his naming from a flower that fell into the
+    well used to wash him, notes related glosses and parallels, and records his accession
+    after Izaho-wake's death.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The preceding emperor was buried on the Plain of Mozu no Mimi in winter of
+    A.D. 400.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Midzuhawake is described as a younger brother by the same mother of Emperor
+    Izaho-wake.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Midzuhawake was appointed Prince Imperial in the second year of Emperor Izaho-wake.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Midzuhawake was born in the Palace of Ahaji.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At birth, Midzuhawake's teeth were like one bone, and his appearance was beautiful.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Water from a well called Midzu no wi was drawn to wash the child identified
+    in the passage as the Heir to the Throne.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A tajihi flower fell into the well, and this incident became the basis for
+    the Heir to the Throne's name.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage identifies the tajihi flower with the later itadori flower.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: After Emperor Izaho-wake died, the Heir Apparent assumed the Imperial Dignity
+    in the first month of the first year.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A note glosses Midzu ha as meaning beautiful teeth.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: A note says the Bamboo Books mention an ancient Chinese king whose teeth were
+    one piece of bone, and that the Kojiki describes this emperor's teeth as matching
+    like jewels strung together.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:12
+  text: A note says the Seishi roku connects the tajihi well incident with the establishment
+    of Tajihi Be villages in all provinces for the hot baths of Imperial Princes.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Emperor Midzuhawake / Tajihi no Midzuhawake
+  description: Younger brother by the same mother of Emperor Izaho-wake; born at the
+    Palace of Ahaji; described at birth as having teeth like one bone and a beautiful
+    appearance; appointed Prince Imperial and later assumed the Imperial Dignity.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Emperor Izaho-wake
+  description: Earlier emperor; elder brother by the same mother of Midzuhawake; died
+    in spring of the sixth year of his reign.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: Ancient Chinese king mentioned in the Bamboo Books
+  description: A note says this king's teeth were one piece of bone.
+  role_refs: []
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: imperial heir
+  assigned_to:
+  - fig:1
+  basis: The passage says Midzuhawake was appointed Prince Imperial and later refers
+    to the Heir Apparent assuming the Imperial Dignity.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: unusual royal child
+  assigned_to:
+  - fig:1
+  basis: The passage marks his birth by teeth like one bone and a beautiful appearance.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: named ruler
+  assigned_to:
+  - fig:1
+  basis: The passage explains the names Midzuhawake and Tajihi no Midzuhawake through
+    the beautiful teeth gloss and the well-flower incident.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: predecessor emperor and brother
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Izaho-wake as Midzuhawake's brother and says he died
+    before the Heir Apparent's accession.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: beautiful well
+  literal_form: Midzu no wi, a well whose water was drawn to wash the heir
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: tajihi flower
+  literal_form: A tajihi flower that fell into the well and became the basis of the
+    heir's name
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: one-bone teeth
+  literal_form: Teeth described as like one bone at birth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: imperial burial place
+  literal_form: Mausoleum or burial on the Plain of Mozu no Mimi
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Burial on the Plain of Mozu no Mimi
+  summary: The preceding emperor is buried in winter on the Plain of Mozu no Mimi.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Birth of Midzuhawake
+  summary: Midzuhawake is born in the Palace of Ahaji and is described as beautiful,
+    with teeth like one bone.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:3
+  label: Washing and naming at the well
+  summary: Water is drawn from the beautiful well to wash the heir; after a tajihi
+    flower falls into the well, the flower becomes part of his name.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Accession after Izaho-wake's death
+  summary: After Emperor Izaho-wake dies, the Heir Apparent assumes the Imperial Dignity.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal legitimacy through lineage and formal accession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage identifies Midzuhawake as the same-mother younger brother of
+    the preceding emperor, notes his appointment as Prince Imperial, and records his
+    assumption of Imperial Dignity after the predecessor's death.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a chronicle succession notice rather than an extended mythic legitimation
+    narrative.
+- id: motif:2
+  label: unusual birth mark of a royal child
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: At birth Midzuhawake is marked by teeth like one bone and a beautiful appearance;
+    notes gloss his name by beautiful teeth and compare the tooth feature with other
+    texts.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly describe the birth as divine or miraculous;
+    the motif assignment rests on the unusual birth attribute.
+- id: motif:3
+  label: naming from a natural sign at water
+  taxonomy_refs: []
+  basis: A flower falls into the well used for washing the heir, and the incident
+    becomes the basis for his name Tajihi no Midzuhawake.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No direct taxonomy reference is available for this naming pattern; interpretation
+    should remain close to the reported etiological naming incident.
+comparison_claims:
+- id: claim:1
+  claim: The passage's own note places Midzuhawake's one-bone teeth alongside an ancient
+    Chinese king in the Bamboo Books whose teeth were one piece of bone.
+  claim_level: same_motif
+  target: Ancient Chinese king mentioned in the Bamboo Books
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note reports a parallel feature only; it does not establish historical
+    contact or shared origin.
+- id: claim:2
+  claim: The passage's note identifies a nearby textual parallel in the Kojiki, where
+    the emperor's teeth are described as exactly corresponding like jewels strung
+    together.
+  claim_level: same_motif
+  target: Kojiki account of Midzuhawake's teeth
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the unusual tooth description supplied
+    in the note.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17845-17849
+  quote_or_summary: 'Winter, tenth month, fourth day: the emperor was buried on the
+    Plain of Mozu no Mimi.'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 17855-17863
+  quote_or_summary: Midzuhawake is introduced as younger brother by the same mother
+    of Izaho-wake, appointed Prince Imperial, born in the Palace of Ahaji, and at
+    birth having teeth like one bone and a beautiful appearance.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 17863-17872
+  quote_or_summary: A well called Midzu no wi supplied water to wash the heir; a tajihi
+    flower fell into the well, leading to the heir's name; the tajihi flower is identified
+    with the itadori flower.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 17874-17878
+  quote_or_summary: Izaho-wake died in spring of the sixth year; in the first year,
+    first month, second day, the Heir Apparent assumed the Imperial Dignity.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: line 17880
+  quote_or_summary: A note explains Midzu ha as meaning beautiful teeth.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 17884-17891
+  quote_or_summary: A note says the Bamboo Books mention an ancient Chinese king whose
+    teeth were one piece of bone, and says the Kojiki describes the emperor's teeth
+    as matching like jewels strung together.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 17896-17899
+  quote_or_summary: A note states that, because of the tajihi incident, Tajihi Be
+    were established in all provinces as villages for the hot baths of the Imperial
+    Princes.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction relies on explicit chronicle statements and notes. Motif labels
+    for unusual birth and naming from a well are interpretive and should be reviewed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l17845-l17899
+  passage_sha256=d0dde0abcc32ac61ab5d020d1aef3ba357651a4674f2ae2bc134a552332060f6
+

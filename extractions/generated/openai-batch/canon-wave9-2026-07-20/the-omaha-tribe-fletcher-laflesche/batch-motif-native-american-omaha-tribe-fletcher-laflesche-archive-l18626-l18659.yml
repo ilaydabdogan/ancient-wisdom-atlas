@@ -1,0 +1,288 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l18626-l18659
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    QUEST    OF    FOOD / THE  RITUAL  OF  THE  WHITE  BUFFALO  HIDE /
+    WHITE  BUFFALO  HIDE / THE    OMAHA   TRIBE; lines 18626-18659
+  start: '18626'
+  end: '18659'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“The holy Pipe... Now it appears before you... behold ye!”"
+  summary: The passage glosses an Omaha phrase meaning “Behold ye,” gives a free translation
+    of a song in which the holy Pipe appears before the people, and explains that
+    the Pipe is represented as speaking through its keeper-priest, acting by its own
+    power, possessing life-like movement, and bearing human supplication to Wakon'da.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Omaha phrase discussed is glossed as a command equivalent to “Behold ye.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The free translation names the holy Pipe, states that it appears before the
+    addressed group, and commands them to behold it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanatory note says the pipe is not addressed in the song but speaks
+    through its keeper-priest.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The explanatory note says the pipe appears by its own power rather than by
+    human agency.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: The pipe is described as acting or appearing, not as being acted upon or made
+    to appear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The pipe is represented as infused with “movement,” described as a special
+    attribute of life.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The pipe is described as becoming the bearer of human supplication to Wakon'da.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The music is described as forming a majestic opening to the ritual.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: holy Pipe
+  description: A sacred pipe represented in the song as appearing, speaking through
+    its keeper-priest, acting by its own power, and bearing supplication to Wakon'da.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: keeper-priest
+  description: The person through whom the pipe is said to speak.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: men addressed
+  description: The people commanded by the pipe to behold.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wakon'da
+  description: The named recipient toward whom human supplication is borne by the
+    pipe.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: sacred speaking object
+  assigned_to:
+  - fig:1
+  basis: The passage says the pipe speaks through its keeper-priest.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: self-acting sacred object
+  assigned_to:
+  - fig:1
+  basis: The passage says the pipe appears by its own power and acts rather than being
+    acted upon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: bearer of supplication
+  assigned_to:
+  - fig:1
+  basis: The pipe is described as the bearer of human supplication to Wakon'da.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: ritual intermediary speaker
+  assigned_to:
+  - fig:2
+  basis: The pipe speaks through the keeper-priest.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: addressed ritual audience
+  assigned_to:
+  - fig:3
+  basis: The pipe commands men to behold.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipient of supplication
+  assigned_to:
+  - fig:4
+  basis: Human supplication is said to be borne to Wakon'da.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: holy Pipe
+  literal_form: Pipe
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: movement as life attribute
+  literal_form: movement
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song of the holy Pipe appearing
+  summary: The free translation presents the holy Pipe as holy, appearing before those
+    addressed, and commanding them to behold.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Explanation of the Pipe’s ritual agency
+  summary: The explanatory prose states that the Pipe speaks through its keeper-priest,
+    appears by its own power, is associated with movement as an attribute of life,
+    and bears human supplication to Wakon'da.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred object acting by its own power
+  taxonomy_refs: []
+  basis: The passage explicitly says the Pipe appears by its own power and acts rather
+    than being acted upon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an ethnographic explanation of a ritual song, not a narrative
+    episode.
+- id: motif:2
+  label: ritual object as bearer of prayer to a sacred recipient
+  taxonomy_refs: []
+  basis: The Pipe is described as becoming the bearer of human supplication to Wakon'da.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No exchange, bargain, or answered prayer is described in the supplied
+    passage.
+- id: motif:3
+  label: life-like movement attributed to a sacred object
+  taxonomy_refs: []
+  basis: The Pipe is said to be infused with “movement,” identified in the passage
+    as an attribute of life.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage attributes life-like agency to the Pipe but does not describe
+    full personhood or transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18626-18631
+  quote_or_summary: The phrase don'ba iga is explained as equivalent to “Behold ye!”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 18633-18640
+  quote_or_summary: "“The holy Pipe!... Now it appears before you, The holy Pipe,
+    behold ye!”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 18642-18647
+  quote_or_summary: The note explains that the pipe is not addressed but speaks through
+    its keeper-priest, is named by function, appears by its own power, and commands
+    men to behold.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 18648-18652
+  quote_or_summary: The word ethonbe is said to show that “the Pipe acts, ‘appears;’
+    it is not acted upon or made to appear.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: quote
+  locator: 18653-18658
+  quote_or_summary: The pipe is “infused with ‘movement,’” an attribute of life, and
+    “appears” to become the bearer of supplication to Wakon'da.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 18658-18659
+  quote_or_summary: The music is said to fit the expressed thought and to make a majestic
+    opening to the ritual.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: uncertain
+  notes: Extraction is limited to the supplied passage. No comparison claims are made
+    because the passage does not itself support a cross-textual or historical comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy symbol refs do not include pipe; no taxonomy symbol reference was assigned.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l18626-l18659
+  passage_sha256=7ecfb1a9941717a401ba370716a08cc2914082ef7941709570f00b8a08215d76
+

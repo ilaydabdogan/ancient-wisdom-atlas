@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l10730-l10763
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: HATS AND COWLS. 7 / THE ROBES. / ROBES. 201 / WATER-BOTTLE WALLET.; lines
+    10730-10763
+  start: '10730'
+  end: '10763'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage inventories Tibetan monastic dress and carried objects: a
+    holy-water bottle on the left side of the girdle with a red or yellow sect-coloured
+    flap, stiff felt boots, girdle-carried cases and ritual items, coat-flap pocket
+    items, and nuns’ dress resembling monks’ dress with shaved head and no ornaments.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A holy-water bottle called Ch’ab-lug hangs from the left side of the girdle.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The holy-water bottle is fringed by a flap of cloth coloured red or yellow
+    according to the sect.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The boots are described as stiff red and particoloured felt, with soles of
+    hide or Yak-hair.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Objects hanging from the girdle include the holy-water bottle, a pen-case,
+    a purse with condiments and dice, sometimes the rosary, and an amulet box.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The upper flap of the coat forms a breast pocket holding a prayer-wheel, drinking-cup,
+    booklets, charms, and similar items.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The dress of nuns generally resembles that of monks; nuns’ heads are shaved
+    and no ornaments are worn.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: monks / male monastic wearer
+  description: Monks are named as the dress model for nuns; the preceding inventory
+    describes a male wearer carrying objects from the girdle and in the coat flap.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: nuns
+  description: Nuns are described as dressing generally like monks, shaving the head,
+    and wearing no ornaments.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: monk
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly refers to monks as the comparison for nuns’ dress.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: carrier of girdle and coat-pocket implements
+  assigned_to:
+  - fig:1
+  basis: The passage lists items hanging from the girdle and items thrust into the
+    upper flap of the coat of a male wearer.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: nun
+  assigned_to:
+  - fig:2
+  basis: The passage explicitly describes the dress and grooming of nuns.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: holy-water bottle
+  literal_form: Ch’ab-lug holy-water bottle hanging from the left side of the girdle
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: sect-coloured cloth flap
+  literal_form: red or yellow cloth flap fringing the holy-water bottle, with colour
+    according to sect
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: felt boots
+  literal_form: stiff red and particoloured felt boots with hide or Yak-hair soles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: girdle-carried implement set
+  literal_form: pen-case, purse with condiments and dice, sometimes rosary, and amulet
+    box hanging from the girdle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: breast-pocket implement set
+  literal_form: prayer-wheel, drinking-cup, booklets, charms, and similar items in
+    the upper coat flap
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: shaved unornamented head
+  literal_form: nuns’ shaved head and absence of ornaments
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Holy-water bottle and sect-coloured flap
+  summary: The holy-water bottle is described as hanging from the left side of the
+    girdle and having a red or yellow cloth flap according to sect.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Footwear description
+  summary: The boots are described by material, colour, stiffness, and sole material.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Girdle and coat-pocket inventory
+  summary: Additional items are listed as hanging from the girdle, while other ritual
+    and personal objects are kept in the upper flap of the coat as a breast pocket.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Nuns’ dress and grooming
+  summary: Nuns’ dress is compared to monks’ dress, with shaved head and no ornaments
+    specified.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: portable ritual accoutrements worn on the body
+  taxonomy_refs: []
+  basis: The passage lists a holy-water bottle, rosary, amulet box, prayer-wheel,
+    booklets, and charms as objects carried on the girdle or in the coat flap.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a descriptive ritual-equipment pattern, not a narrative myth motif
+    in the passage.
+- id: motif:2
+  label: sectarian colour marking on religious dress equipment
+  taxonomy_refs: []
+  basis: The cloth flap on the holy-water bottle is coloured red or yellow according
+    to sect.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage states the colour distinction but does not explain its doctrinal
+    or symbolic meaning.
+- id: motif:3
+  label: renunciant grooming and absence of ornament
+  taxonomy_refs: []
+  basis: Nuns are described as having shaved heads and wearing no ornaments.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief ethnographic description and does not elaborate
+    symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10730-10737
+  quote_or_summary: The holy-water bottle, Ch’ab-lug, hangs on the left side of the
+    girdle and has a red or yellow cloth flap according to sect.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 10738-10745
+  quote_or_summary: Boots are described as stiff red and particoloured felt with soles
+    of hide or Yak-hair.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 10746-10755
+  quote_or_summary: From the girdle hang the holy-water bottle, pen-case, purse with
+    condiments and dice, sometimes the rosary, and the amulet box; the coat flap holds
+    a prayer-wheel, drinking-cup, booklets, charms, and similar items.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 10756-10763
+  quote_or_summary: Nuns’ dress generally resembles monks’ dress; the head is shaved
+    and ornaments are not worn.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal clothing and object extraction is well supported. Motif candidates
+    are descriptive patterns from an ethnographic passage rather than narrative mythology.
+    No broader comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition comparison is inferred from this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l10730-l10763
+  passage_sha256=1c29bf7756330a2fce4090c24d628e2099ea20dd7667694493b2e5c2e537ab38
+

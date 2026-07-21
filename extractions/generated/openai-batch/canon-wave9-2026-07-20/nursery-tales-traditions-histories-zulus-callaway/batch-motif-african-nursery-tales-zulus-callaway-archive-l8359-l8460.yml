@@ -1,0 +1,416 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l8359-l8460
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE GIRL AND THE CANNIBALS. / THE GIRL AND THE CANNIBALS. / ADDITION TO THE
+    FOREGOING TALE BY ANOTHER NATIVE. / THE GIRL AND THE CANNIBALS.; lines 8359-8460
+  start: '8359'
+  end: '8460'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A brother and sister use a rope to draw a cannibal upward, let him fall,
+    then raise him into their house. They roast and eat meat in his presence, deny
+    him food, stop him from taking ox-stomach contents at night, and continue eating
+    while giving him nothing. A note compares the rope trick to a jackal-and-lion
+    episode in Bleek's Hottentot Fables.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The brother and sister throw a rope down to the cannibal and tell him to hold
+    it and climb.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cannibal says the rope is small and may break, but he takes hold of it
+    and climbs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When the cannibal is midway between above and below, the brother proposes
+    letting him fall, while the sister proposes raising him so they can harass him
+    because cannibals have harassed them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The brother lets go of the cannibal; the cannibal falls, complains of injured
+    loins, and the brother says the rope slipped.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On a later attempt, the cannibal climbs the rope and is raised to where the
+    siblings are and placed in the house.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The siblings roast three strips of flesh and eat them while the cannibal watches
+    and his mouth waters; the brother threatens to stab him if his mouth waters.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: At night the cannibal lies near the fireplace, the flesh is near the doorway,
+    and the siblings lie at the upper part of the house.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The cannibal stealthily takes a handful of the contents of an ox's stomach;
+    the sister wakes the brother, and the brother orders the cannibal to put it down.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The siblings remain many days eating the meat, give the cannibal nothing,
+    cast bones down to the earth, and watch the cannibal.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the brother / the youth
+  description: A youth identified as the girl's brother; he handles the rope, lets
+    the cannibal fall, eats meat, threatens the cannibal, and orders him to put down
+    the ox-stomach contents.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: the girl / sister
+  description: The brother's sister; she argues that the cannibal should be raised
+    so they can harass him and later wakes the brother when the cannibal takes food
+    at night.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:3
+  name_or_label: the cannibal
+  description: A cannibal who is induced to climb a rope, dropped, raised into the
+    house, watched while the siblings eat, and denied food.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The figures are called brother and sister and act together in the rope trick
+    and food-denial scenes.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:2
+  label: captors and food controllers
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: They raise the cannibal into the house, eat meat before him, prevent him
+    from taking food, and give him nothing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:3
+  label: hungry captive cannibal
+  assigned_to:
+  - fig:3
+  basis: The cannibal is placed in the house, watches the siblings eat, attempts to
+    take food at night, and receives nothing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+symbols:
+- id: sym:1
+  label: rope
+  literal_form: rope used to draw the cannibal upward and then release or raise him
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: fireplace and roasting fire
+  literal_form: fireplace near which the cannibal lies and fire used to roast flesh
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: withheld meat
+  literal_form: roasted strips of flesh, ox-stomach contents, and bones withheld from
+    the cannibal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: house
+  literal_form: house into which the cannibal is placed, with doorway, fireplace,
+    and upper part mentioned
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rope trick and fall
+  summary: The siblings lower a rope, persuade the cannibal to climb, and the brother
+    lets go so that the cannibal falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Raising into the house and eating before him
+  summary: The cannibal climbs again, is raised into the house, and watches the siblings
+    roast and eat meat while he is threatened for showing hunger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Night attempt to take food
+  summary: At night the cannibal lies near the fireplace, tries to take ox-stomach
+    contents, and is stopped by the siblings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Continued denial of food
+  summary: Over many days the siblings eat meat, give the cannibal nothing, cast bones
+    down to the earth, and watch him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Sibling pair acting together against a cannibal
+  taxonomy_refs:
+  - sibling_pair
+  basis: The brother and sister coordinate the rope trick, confinement, and food control
+    directed at the cannibal.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This passage is an excerpt from a larger tale; the broader narrative roles
+    are not fully visible here.
+- id: motif:2
+  label: Deceptive rope ascent and fall
+  taxonomy_refs:
+  - ascent
+  basis: The cannibal is persuaded to climb a rope from the earth toward the siblings;
+    when midway he is released and falls, then is later raised by the rope.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy term 'ascent' is broad; the passage presents a
+    practical trap rather than an explicitly sacred or cosmic ascent.
+- id: motif:3
+  label: Dangerous eater tantalized with withheld food
+  taxonomy_refs: []
+  basis: The siblings eat roasted meat in the cannibal's presence, threaten him when
+    his mouth waters, stop him from taking ox-stomach contents, and give him nothing
+    over many days.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: No supplied taxonomy family directly names this food-withholding pattern.
+- id: motif:4
+  label: Trick used against a dangerous predator figure
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The siblings deceive the cannibal with the rope and use controlled access
+    to height, house, and food against him; the passage note compares this to a jackal
+    trick against a lion.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:9
+  confidence: medium
+  cautions: The main figures are not explicitly called tricksters; the taxonomy reference
+    is a broad functional fit.
+comparison_claims:
+- id: claim:1
+  claim: The passage's note identifies a similar trick in Bleek's Hottentot Fables,
+    where a jackal draws a lion upward by a thong toward a tower and cuts or releases
+    the support repeatedly.
+  claim_level: same_function
+  target: Bleek's Hottentot Fables jackal-and-lion tower/thong episode
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the editor's note within the passage.
+    It supports functional similarity of the rope/thong trick but does not by itself
+    establish historical contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8359-8460, section headed 'They devise a plan for drawing up a cannibal'
+  quote_or_summary: The siblings throw most of a rope down to the cannibal and tell
+    him to hold it and climb; he fears it is small and may break, but climbs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8359-8460, rope-climb scene
+  quote_or_summary: When the cannibal is halfway between above and below, the youth
+    suggests letting him fall; the girl says they should raise him and harass him
+    because cannibals have harassed them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8359-8460, end of first rope attempt
+  quote_or_summary: The brother lets go, the cannibal falls and complains of injured
+    loins, and the brother says the rope slipped and that a stronger rope will be
+    thrown.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8359-8460, section headed 'They tantalise the cannibal by eating
+    in his presence'
+  quote_or_summary: The cannibal catches the rope, climbs, is raised to where the
+    siblings are, and is placed in the house.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8359-8460, eating-in-presence scene
+  quote_or_summary: The siblings roast three strips of flesh, eat them, and the cannibal
+    watches with his mouth watering; the brother tells him not to let his mouth water
+    and threatens to stab him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8359-8460, section headed 'The cannibal is prevented from appeasing
+    his hunger'
+  quote_or_summary: At night the cannibal lies near the fireplace, the flesh is near
+    the doorway, and the siblings lie at the upper part of the house.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 8359-8460, night food-taking scene
+  quote_or_summary: The cannibal stealthily takes a handful of ox-stomach contents;
+    the sister wakes the brother, who orders the cannibal to put it down and says
+    he could stab him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 8359-8460, section headed 'The cannibal dies'
+  quote_or_summary: After daybreak the siblings remain many days eating meat; they
+    give the cannibal nothing, cast bones down to the earth, and watch him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 8359-8460, footnote 76
+  quote_or_summary: 'The note says Bleek''s Hottentot Fables has a similar trick:
+    a jackal draws a lion up by a thong toward a tower and cuts or releases it when
+    the lion is nearly at the top, repeating the trick several times.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are candidate-level and should be reviewed, especially broad taxonomy matches
+    such as ascent and trickster_boundary.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, symbols, or historical relationships beyond the supplied passage and its footnote have been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l8359-l8460
+  passage_sha256=b22d4c30dcfc1e826bc3df18e6f12d7e267f42c0ee25ff9608cd8ee1e900cd15
+

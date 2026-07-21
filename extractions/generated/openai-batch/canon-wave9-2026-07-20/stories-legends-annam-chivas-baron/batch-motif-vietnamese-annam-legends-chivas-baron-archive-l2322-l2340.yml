@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.vietnamese-annam-legends-chivas-baron-archive-l2322-l2340
+source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+passage_locator:
+  label: THE    TREASURE    OF   THE    CHAM    CHIEFTAIN / THE    DEATH    OF   MY   LORD    TIGER
+    / IN    THE    DRAGON    KINGDOM / THE  BETEL  AND  THE  ARECA-TREE; lines 2322-2340
+  start: '2322'
+  end: '2340'
+  translation: Stories and Legends of Annam
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A thirsty king finds no fruit nearby to relieve him. He notices green nuts
+    in two areca trees and orders them gathered. While servants work slowly, he chews
+    a betel leaf; when an areca nut is brought to him, the combination relieves his
+    thirst and makes his lips cool and fragrant.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: No surrounding tree bears fruit that can relieve the king's thirst.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A sea breeze shakes the lofty heads of two areca trees.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The king sees green nuts among the lance-shaped leaves and orders them gathered.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The servants find the gathering difficult and work slowly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The king chews a betel leaf while waiting for an areca nut.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: After the areca nut is brought to him, the king's thirst disappears and his
+    lips become cool and sweet-scented.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the king
+  description: A thirsty ruler who observes the areca nuts, orders them gathered,
+    chews betel, and receives an areca nut.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the king's servants
+  description: Servants ordered to gather the green areca nuts; they do not proceed
+    quickly because the task is difficult.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: thirsty royal recipient
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the king's thirst, his command to gather nuts, and
+    the relief he experiences after betel and areca are combined.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:2
+  label: delayed gatherers
+  assigned_to:
+  - fig:2
+  basis: The servants are charged with gathering areca nuts, but the work is difficult
+    and slow.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: two areca trees
+  literal_form: two lofty areca trees with lanceolated leaves and green nuts
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: betel leaf
+  literal_form: a leaf of betel chewed by the king
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: areca nut
+  literal_form: a green areca nut gathered for the king
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: thirst and its relief
+  literal_form: royal thirst that vanishes after the king receives the areca nut while
+    chewing betel
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: The king notices areca nuts near the sea breeze
+  summary: With no fruit-bearing trees nearby to relieve him, the king observes green
+    nuts in two areca trees moved by the sea breeze and orders the nuts gathered.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Betel and areca relieve the king's thirst
+  summary: The servants take time to gather the areca nuts. The king chews a betel
+    leaf while waiting, and when an areca nut is brought, his thirst disappears and
+    his lips become cool and fragrant.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: discovery of betel and areca as a refreshing combination
+  taxonomy_refs: []
+  basis: The passage presents a sequence in which chewing betel followed by receiving
+    an areca nut produces immediate relief from thirst and fragrant coolness.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly state a broader origin myth or ritual
+    meaning within this excerpt; the motif label is limited to the literal discovery-like
+    sequence shown here.
+- id: motif:2
+  label: plant remedy for royal thirst
+  taxonomy_refs: []
+  basis: The king's unsatisfied thirst is relieved only after plant materials, a betel
+    leaf and an areca nut, are used together.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The text describes thirst relief but does not frame the event as medicine,
+    miracle, or sacred intervention in the provided lines.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2322-2323
+  quote_or_summary: No tree around bears fruit capable of slaking the royal thirst.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2325-2326
+  quote_or_summary: A sea breeze shakes the high heads of two areca trees.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2328-2331
+  quote_or_summary: The king sees green nuts among the lanceolated leaves and orders
+    them gathered.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2333-2335
+  quote_or_summary: Gathering the nuts is difficult, and the king's servants do not
+    go swiftly to work.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2335-2338
+  quote_or_summary: In impatience, the king begins chewing a betel leaf; it remains
+    in his mouth when an areca nut is brought.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: quote
+  locator: lines 2339-2340
+  quote_or_summary: '"The burning thirst vanished" and the king''s lips became cool
+    and sweet-scented.'
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal sequence is clear in the supplied passage. Motif candidates are
+    limited because the excerpt gives little explicit interpretive or comparative
+    framing. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata; taxonomy references are limited to the available symbol ref for tree.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:vietnamese-annam-legends-chivas-baron-archive__l2322-l2340
+  passage_sha256=6bf98b0885065c244f4443c92c9e495ae7a97c0512cb1443f494ae293c3d4727
+

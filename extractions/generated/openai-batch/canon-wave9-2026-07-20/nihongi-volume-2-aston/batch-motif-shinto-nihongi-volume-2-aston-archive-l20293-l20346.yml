@@ -1,0 +1,382 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l20293-l20346
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: X XIX. 27. / DOSING 28. / A.D. 682. / A.D. 683.; lines 20293-20346
+  start: '20293'
+  end: '20346'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An annalistic passage records grants of the title Muraji to named Houses,
+    an imperial hunting trip, a command for provincial military training, a Silla
+    tribute mission, and the beginning of an imperial dispatch of Prince Ise and other
+    named ranked persons. A translator's note states that whole Uji or Houses, rather
+    than individual persons, were raised in these title grants.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: On a 23rd day, the title of Muraji was granted to thirty-eight named Houses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In winter, on the 5th day of the month rendered in the excerpt as "roth,"
+    the title of Muraji was granted to fourteen named houses.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: On a 13th day, the Emperor went hunting at Kurahashi.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On the 4th day of the 11th month, an Imperial command ordered all provinces
+    to engage in military training.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On the 13th day, Silla sent Kim Chu-san and Kim Chang-chi, each identified
+    by rank, to offer tribute.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: On the 23rd day of the 12th month, the Emperor sent Prince Ise and other named
+    ranked persons; the supplied excerpt ends before the purpose or destination is
+    stated.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note states that, unlike previous rank promotions of individuals, these
+    promotions raised whole Uji or Houses at once, explaining why no personal names
+    are given.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: The Emperor
+  description: The ruler who goes hunting, issues an Imperial command, and sends Prince
+    Ise with other named ranked persons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Thirty-eight named Houses
+  description: Corporate Houses listed as recipients of the title Muraji on the 23rd
+    day.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: fig:3
+  name_or_label: Fourteen named houses
+  description: Corporate houses listed as recipients of the title Muraji on the winter
+    5th day entry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:4
+  name_or_label: All provinces
+  description: The provinces addressed by the Imperial command to engage in military
+    training.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Silla
+  description: The polity that sent Kim Chu-san and Kim Chang-chi to offer tribute.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Kim Chu-san
+  description: A Silla delegate of Sason rank sent to offer tribute.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Kim Chang-chi
+  description: A Silla delegate of Té-nama rank sent to offer tribute.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Prince Ise and accompanying named ranked persons
+  description: A group beginning with Prince Ise and including named persons such
+    as Yakuni, Homuchi, and Ohoshima, sent by the Emperor in the final entry of the
+    excerpt.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: imperial actor
+  assigned_to:
+  - fig:1
+  basis: The passage attributes hunting, commanding provincial military training,
+    and sending ranked persons to the Emperor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+- id: role:2
+  label: recipients of Muraji title
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says the title of Muraji was granted to the listed Houses or
+    houses.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: role:3
+  label: provincial addressees of imperial military command
+  assigned_to:
+  - fig:4
+  basis: All provinces are commanded to engage in military training.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: tribute-sending polity
+  assigned_to:
+  - fig:5
+  basis: Silla is named as sending two delegates to offer tribute.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: tribute delegates
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Kim Chu-san and Kim Chang-chi are the ranked persons sent by Silla to offer
+    tribute.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: persons sent by the Emperor
+  assigned_to:
+  - fig:8
+  basis: The final entry states that the Emperor sent Prince Ise and other named ranked
+    persons, though the supplied excerpt is incomplete.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: status title
+  literal_form: title of Muraji
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: sym:2
+  label: tribute
+  literal_form: tribute offered by Silla's delegates
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Muraji title granted to thirty-eight Houses
+  summary: A dated entry lists thirty-eight Houses receiving the title Muraji.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Muraji title granted to fourteen houses
+  summary: A later winter dated entry lists fourteen houses receiving the title Muraji.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Imperial hunt at Kurahashi
+  summary: The Emperor goes hunting at Kurahashi.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Imperial order for military training
+  summary: An Imperial command directs all provinces to engage in military training.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Silla tribute mission
+  summary: Silla sends Kim Chu-san and Kim Chang-chi to offer tribute.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Imperial dispatch of Prince Ise and others
+  summary: The Emperor sends Prince Ise and other named ranked persons; the excerpt
+    stops before the mission is fully described.
+  figure_refs:
+  - fig:1
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: corporate rank bestowal by sovereign authority
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The title Muraji is granted to two groups of named Houses, and the note says
+    whole Uji or Houses were raised at once rather than individual persons.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: medium
+  cautions: This is an annalistic administrative record, not a mythic narrative. The
+    royal_legitimacy taxonomy reference is used cautiously for status ordering under
+    sovereign authority.
+- id: motif:2
+  label: foreign tribute mission to court
+  taxonomy_refs: []
+  basis: Silla sends two ranked delegates to offer tribute.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe a reciprocal exchange, ritual procedure,
+    or sacred framing.
+- id: motif:3
+  label: centralized military command over provinces
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: An Imperial command is issued to all provinces to engage in military training.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The entry records political administration; it does not explicitly discuss
+    legitimation ideology or ritual sanction.
+comparison_claims:
+- id: claim:1
+  claim: The Muraji title grants in this passage share the same rank-promotion function
+    as previous promotions mentioned by the translator's note, but differ by raising
+    whole Uji or Houses rather than named individuals.
+  claim_level: same_function
+  target: rank-promotion records noted in the passage's translator note
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison supported by the supplied note, not
+    a cross-cultural or historical-contact claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20293-20315
+  quote_or_summary: A 23rd-day entry says the title Muraji was granted to thirty-eight
+    named Houses.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 20316-20327
+  quote_or_summary: A winter 5th-day entry says the title Muraji was granted to fourteen
+    named houses.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: line 20328
+  quote_or_summary: A 13th-day entry records that the Emperor went hunting to Kurahashi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 20329-20330
+  quote_or_summary: An 11th-month 4th-day entry records an Imperial command to all
+    provinces to engage in military training.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:5
+  type: summary
+  locator: lines 20331-20333
+  quote_or_summary: A 13th-day entry says Silla sent Kim Chu-san of Sason rank and
+    Kim Chang-chi of Té-nama rank to offer tribute.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:6
+  type: summary
+  locator: lines 20334-20340
+  quote_or_summary: A 12th-month 23rd-day entry begins by saying the Emperor sent
+    Prince Ise and other named ranked persons; the supplied excerpt stops before completing
+    the sentence.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:7
+  type: summary
+  locator: lines 20343-20346
+  quote_or_summary: A note explains that previous promotions in rank were of individuals,
+    whereas here the whole Uji or House was raised at once, accounting for the absence
+    of personal names.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is straightforward annalistic prose, but it contains apparent
+    OCR or formatting artifacts and ends mid-sentence after the 12th-month entry.
+    Motif assignment is cautious because the passage is administrative and diplomatic
+    rather than mythic.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item such as cave, fire, milk, mountain, serpent, tree, or water is directly present in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l20293-l20346
+  passage_sha256=abccf6ed9af7984e3cccea97183bec43a4f034f862a3d92c620120ad29d207c8
+

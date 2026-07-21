@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.sufi-rumi-masnavi-whinfield-archive-l1429-l1469
+source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+passage_locator:
+  label: TEACHINGS OF RUMI / THE MASHAVI. / THE MASHAVL / PROLOGUE.; lines 1429-1469
+  start: '1429'
+  end: '1469'
+  translation: 'Masnavi i Ma''navi: Teachings of Rumi'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A Vazir secretly gives different and contradictory religious instruction
+    books to twelve captains, withdraws into a cave, commands each captain to claim
+    succession and kill rivals, then kills himself. The captains make competing succession
+    claims, dividing the Christians into hostile sects, though one faithful band adheres
+    to the name Ahmad mentioned in the Gospel and is saved. A following verse describes
+    crowds of Christians gathering around the Vazir as he preaches Gospel mysteries
+    and religious duties, while inwardly acting like a decoy and fowler.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Vazir secretly gives each captain a volume of religious directions and
+    makes the directions different from and contradictory to one another.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The differing volumes include directions such as fasting, charity, faith,
+    and works.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Vazir withdraws into a cave and refuses to come out to instruct his disciples
+    despite their entreaties.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Vazir secretly instructs each captain to set himself up as successor,
+    follow the volume entrusted to him, and kill other claimants to the apostolic
+    office.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: After giving these directions, the Vazir kills himself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Each captain claims to be the Vazir's successor, and the Christians are split
+    into many mutually hostile sects.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: One faithful band adheres to the name Ahmad, said to be mentioned in the Gospel,
+    and is saved from the ruin of the rest.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Myriads of Christians gather around the Vazir while he preaches mysteries
+    of the Gospel and religious observances.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Vazir's teaching is characterized as outwardly religious speech but inwardly
+    a decoy call and fowler.
+  category: attribute
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Vazir
+  description: A religious instructor and plotter who gives contradictory secret volumes
+    to captains, withdraws into a cave, orders rival succession claims and killings,
+    and then kills himself.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+  - ev:9
+- id: fig:2
+  name_or_label: Twelve captains
+  description: Captains at the heads of twelve legions who receive secret contradictory
+    volumes and later each claim to be the Vazir's successor.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: Christians
+  description: The religious community that gathers around the Vazir and is later
+    divided into many hostile sects.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: fig:4
+  name_or_label: Faithful band
+  description: A group that adheres to the name Ahmad mentioned in the Gospel and
+    is saved from the ruin affecting the rest.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: deceptive plotter
+  assigned_to:
+  - fig:1
+  basis: The Vazir secretly distributes contradictory directions, plans rival succession
+    claims, and the passage says the sectarian division occurs as he intended.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+- id: role:2
+  label: outward religious preacher
+  assigned_to:
+  - fig:1
+  basis: Christians gather around him while he preaches Gospel mysteries and religious
+    observances.
+  evidence_refs:
+  - ev:8
+- id: role:3
+  label: successor-claimant sect leaders
+  assigned_to:
+  - fig:2
+  basis: Each captain is told to become the Vazir's successor and later each does
+    so, leading to divided sects.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: divided religious community
+  assigned_to:
+  - fig:3
+  basis: The Christians are split into many sects at enmity with one another after
+    the captains' claims.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: faithful remnant
+  assigned_to:
+  - fig:4
+  basis: One faithful band keeps to the name Ahmad mentioned in the Gospel and is
+    saved from the ruin of the rest.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: cave of withdrawal
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: secret contradictory volumes
+  literal_form: volumes of religious directions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: name of Ahmad
+  literal_form: the name Ahmad mentioned in the Gospel
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: Gospel
+  literal_form: Gospel
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: sym:5
+  label: decoy call and fowler
+  literal_form: decoy call and fowler
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: twelvefold command structure
+  literal_form: twelve legions and twelve captains
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Secret distribution of contradictory directions
+  summary: The Vazir gives each of the twelve captains a secret religious volume,
+    ensuring that the teachings differ and contradict one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Withdrawal into the cave
+  summary: The Vazir retires to a cave and refuses further instruction to his disciples
+    despite their pleas.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Secret succession commands and self-killing
+  summary: The Vazir privately commands each captain to claim succession, follow his
+    entrusted volume, and slay rival claimants; after this, he kills himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Schism and faithful remnant
+  summary: The captains all claim succession, dividing the Christians into hostile
+    sects, while one faithful band remains attached to the name Ahmad in the Gospel
+    and is saved.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Public preaching as hidden snare
+  summary: Crowds of Christians gather around the Vazir as he preaches religious mysteries
+    and duties, but the passage depicts his inward function as a decoy and fowler.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Secret contradictory teachings create division
+  taxonomy_refs: []
+  basis: The Vazir gives each captain a private volume with teachings that contradict
+    the others, producing rival claims and sectarian hostility.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage presents this as a deliberate malicious scheme rather than
+    an accidental doctrinal divergence.
+- id: motif:2
+  label: False succession multiplies rival claimants
+  taxonomy_refs: []
+  basis: Each captain is secretly instructed to claim the apostolic office and later
+    each presents himself as the Vazir's successor.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: No legitimate succession mechanism is described in this excerpt beyond
+    the Vazir's deceptive instructions.
+- id: motif:3
+  label: Teacher withdraws into a cave before final commands
+  taxonomy_refs: []
+  basis: The Vazir retreats into a cave, refuses public instruction, and then issues
+    secret commands to the captains.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The cave is literal in the passage; no explicit initiation, descent, or
+    revelation symbolism is stated.
+- id: motif:4
+  label: False preacher as trapper or fowler
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage contrasts the Vazir's outward preaching of religious duties with
+    an inward identity as a decoy call and fowler.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The taxonomy link is functional and approximate; the Vazir is a malicious
+    deceiver, not necessarily a trickster in a full mythic cycle.
+- id: motif:5
+  label: Faithful remnant saved by adhering to a sacred name
+  taxonomy_refs: []
+  basis: One band is saved from general ruin because it cleaves to the name Ahmad
+    mentioned in the Gospel.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The excerpt does not elaborate the theology or narrative consequences
+    of this salvation.
+comparison_claims:
+- id: claim:1
+  claim: The Vazir's outwardly religious teaching and inwardly predatory deception
+    can be compared at the motif-family level to a deceiver or boundary-crossing trickster
+    function.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself frames the figure as malicious and sectarian rather
+    than as an ambivalent or comic trickster; no historical contact or common inheritance
+    is implied.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1429-1435
+  quote_or_summary: The Vazir gives each captain a secret volume of religious directions
+    and deliberately makes the directions different from and contradictory to the
+    others.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 1435-1438
+  quote_or_summary: 'The passage gives examples of the different instructions: one
+    volume commands fasting, another charity, another faith, another works, and so
+    on.'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 1438-1441
+  quote_or_summary: After distributing the volumes, the Vazir withdraws into a cave
+    and refuses to come out to instruct his disciples despite their requests.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 1441-1446
+  quote_or_summary: The Vazir calls the captains to him and privately tells each to
+    set himself up as successor, follow his entrusted volume, and slay all other claimants
+    to the apostolic office.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 1446-1447
+  quote_or_summary: After giving these directions, the Vazir kills himself.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 1447-1452
+  quote_or_summary: Each captain claims to be the Vazir's successor, and the Christians
+    are split into many hostile sects, fulfilling the Vazir's intention.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 1452-1455
+  quote_or_summary: The scheme does not fully succeed because one faithful band adheres
+    to the name Ahmad, said to be mentioned in the Gospel, and is saved from the ruin
+    of the rest.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: 1459-1464
+  quote_or_summary: A verse section says myriads of Christians gather around the Vazir
+    while he preaches mysteries of the Gospel, stoles, and prayers.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:9
+  type: summary
+  locator: 1465-1468
+  quote_or_summary: The passage describes the Vazir's religious speech as outwardly
+    correct or instructional, but inwardly like a decoy call and a fowler.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative sequence is clear, but the supplied passage contains OCR
+    corruption and uncertain spellings. Motif labels are descriptive and require human
+    review; no historical-contact or common-inheritance claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to the provided available taxonomy refs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sufi-rumi-masnavi-whinfield-archive__l1429-l1469
+  passage_sha256=0484a370682fc65693105771165fe65ca4885cc49286f01fcafcfb29590b967f
+

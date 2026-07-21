@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l5637-l5686
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZIXGANEKWAXE. / ULANGALASENHLA NOLANGALASENZANTSI. / ULANGALASENHLA NOLANGALASENZANTSI.
+    / UBABUZE.26; lines 5637-5686
+  start: '5637'
+  end: '5686'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage begins the tale of Ubabuze: a king wishes to visit a maiden
+    despite his parents'' objection and his father''s warning that no one returns
+    from her place. His father eventually permits the journey, gives him cattle and
+    men, and warns him to avoid the road up the mountain. At the fork, Ubabuze takes
+    the forbidden mountain road instead. The line range also contains an editorial
+    comparative note about magical rods dividing water in European tales, plus source
+    notes on the tale''s Amabakca teller and dialect.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A king named Ubabuze wishes to visit a damsel.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ubabuze's father and mother object to the visit; the father warns that no
+    one goes there and returns.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After Ubabuze insists, his father assents, gives him many cattle, bids him
+    goodbye, and gives him men to accompany him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Before departure, the father tells Ubabuze not to take the road that goes
+    up the mountain, but to take the road that runs around it.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: At the separation of the two roads, Ubabuze takes the road his father told
+    him not to take.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An editorial note in the passage describes European tale episodes in which
+    a magical rod strikes sea or water and opens a passage.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A note states that this tale was told by a woman of the Amabakca and printed
+    in their dialect.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ubabuze
+  description: A king who wishes to visit a damsel, receives permission and provisions
+    from his father, sets out with men, and chooses the forbidden mountain road.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Ubabuze's father
+  description: Parent who objects to the visit, warns of danger, later permits the
+    journey, gives cattle and companions, and instructs Ubabuze about which road to
+    take.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Ubabuze's mother
+  description: Parent who objects to Ubabuze's proposed visit to the damsel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Damsel / maiden
+  description: The maiden whom Ubabuze wishes to visit; the father's warning associates
+    her place with non-return.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Ubabuze's accompanying men
+  description: Men given by Ubabuze's father to accompany him on the journey.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: departing seeker
+  assigned_to:
+  - fig:1
+  basis: Ubabuze insists on visiting the damsel and sets out despite warnings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: warning and provisioning father
+  assigned_to:
+  - fig:2
+  basis: The father warns against the visit and the mountain road, but also gives
+    cattle and companions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: objecting mother
+  assigned_to:
+  - fig:3
+  basis: The mother is named among those who object to the visit.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: sought maiden
+  assigned_to:
+  - fig:4
+  basis: Ubabuze wishes to visit her, and the father presents the destination as dangerous.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: journey companions
+  assigned_to:
+  - fig:5
+  basis: The father gives men to accompany Ubabuze.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Mountain road
+  literal_form: The road that goes up the mountain, explicitly prohibited by the father.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Forked roads
+  literal_form: The separation of two roads, one running around the mountain and one
+    going up it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Cattle gift
+  literal_form: Many cattle given by the father to Ubabuze before departure.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Water divided by rod in editorial comparison
+  literal_form: Sea or waters struck with a magical rod and divided to create a passage.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Permission to visit the maiden
+  summary: Ubabuze wants to visit a damsel. His parents object, and his father warns
+    that no one returns from that place. Ubabuze insists, and his father permits the
+    journey, giving cattle and companions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The forbidden mountain road chosen
+  summary: Ubabuze's father instructs him to avoid the road up the mountain and take
+    the road around it. At the fork, Ubabuze takes the forbidden road.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorial comparison of water-dividing rods
+  summary: The passage's editorial note compares tale episodes in which a rod strikes
+    sea or water and opens a dry passage.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Departure with parental warning and provisions
+  taxonomy_refs:
+  - departure
+  basis: Ubabuze receives permission, cattle, and companions from his father before
+    setting out, despite parental warnings.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: Only the beginning of the journey is included in this passage.
+- id: motif:2
+  label: Forbidden route chosen at a fork
+  taxonomy_refs: []
+  basis: The father explicitly forbids the mountain road, but Ubabuze takes it at
+    the separation of the two roads.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The consequences of the disobedience are not included in the provided
+    passage.
+- id: motif:3
+  label: Journey toward a dangerous maiden's place
+  taxonomy_refs: []
+  basis: Ubabuze seeks a damsel whose place is described by the father as one from
+    which no one returns.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The damsel is only mentioned as the intended destination; no encounter
+    with her occurs in this excerpt.
+- id: motif:4
+  label: Ascent by mountain road
+  taxonomy_refs:
+  - ascent
+  basis: The selected forbidden path is the road going up the mountain.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage says the road goes up the mountain, but does not yet narrate
+    an ascent episode or its outcome.
+- id: motif:5
+  label: Magical rod opens a passage through water
+  taxonomy_refs: []
+  basis: The editorial note describes rod-striking episodes in which sea or waters
+    divide and permit passage.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: This motif appears in an editorial comparative note within the line range,
+    not in the Ubabuze narrative segment itself.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares episodes in European tales where a magical rod
+    divides sea or waters to create a passage.
+  claim_level: same_function
+  target: Scotch legend and Bechstein's "The Three Musicians" water-dividing rod episodes
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is an editorial aside in the supplied line range and
+    appears detached from the Ubabuze narrative excerpt; the isolated passage does
+    not establish historical contact or a shared origin.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5639-5653
+  quote_or_summary: Ubabuze, a king, wishes to visit a damsel. His parents object,
+    and his father warns that no one goes there and comes back; after Ubabuze insists,
+    the father permits the trip, gives cattle, says goodbye, and assigns men to accompany
+    him.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:2
+  type: summary
+  locator: lines 5655-5668
+  quote_or_summary: Ubabuze sets out with his men. His father tells him not to take
+    the road up the mountain but the road around it; at the fork, Ubabuze takes the
+    prohibited road.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:3
+  type: summary
+  locator: lines 5670-5680
+  quote_or_summary: 'An editorial note discusses European tale parallels: a magician''s
+    daughter helps a lad by striking the sea with a rod to make a way, and in another
+    tale a dwarf uses a magical rod to divide waters and create a dry passage.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized without extended quotation.
+- id: ev:4
+  type: summary
+  locator: lines 5682-5686
+  quote_or_summary: A note says this tale was told by a woman of the Amabakca and
+    printed in their dialect, followed by an orthographic note about representing
+    sounds in Amabakca words.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized without extended quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The Ubabuze narrative extraction is straightforward, but the provided line
+    range also contains editorial comparative and linguistic notes that may belong
+    partly to surrounding text; those elements are retained with cautions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures, motifs, or taxonomy references beyond the supplied passage and available taxonomy list have been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l5637-l5686
+  passage_sha256=212247266d91000017854f2713499f2b5e1d5516111defa29d48dc65718f210b
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.siberian-chukchee-mythology-bogoras-archive-l1217-l1238
+source_text_path: texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+passage_locator:
+  label: Chukchee Mythology; lines 1217-1238
+  start: '1217'
+  end: '1238'
+  translation: Chukchee Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An isolated orphan is repeatedly beaten by people and neighbors. At a thanksgiving
+    ceremonial he says he lacks shamanistic knowledge, is told to sing, sings a short
+    refrain, and is thrashed twice. Later, in the dark, he sings into an ancient empty
+    jaw-bone house, and a ke'fc inside answers with the same refrain.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An orphan child lived quite by himself.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Numerous people and neighbors repeatedly struck or beat the orphan and treated
+    him violently.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Some people arranged a thanksgiving ceremonial, and the orphan came to the
+    house with other guests.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The people told him to take part in the ceremonial; he replied that he had
+    no shamanistic knowledge and was wholly ignorant.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: After being told to sing a little, he sang the refrain, “Ototototototoi',
+    otatatatatatai'!”
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The people objected to the song, called it bad, thrashed him, ordered him
+    to take part again, and thrashed him again after he repeated the song.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An old jaw-bone house was described as quite ancient and empty.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The orphan went to the jaw-bone house in the dark and sang into it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: From within the dark house, the ke'fc answered by repeating the song.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: orphan child
+  description: A child who lives alone, is beaten by others, says he has no shamanistic
+    knowledge, sings at the ceremonial, and later sings into the old jaw-bone house.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: people and neighbors
+  description: The surrounding people who beat the orphan; some arrange the thanksgiving
+    ceremonial, tell him to participate, criticize his song, and thrash him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: ke'fc
+  description: A being or named presence within the old jaw-bone house that answers
+    the orphan’s song from the dark interior.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: solitary orphan
+  assigned_to:
+  - fig:1
+  basis: The passage states that the orphan child lived quite by himself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defenseless target of violence
+  assigned_to:
+  - fig:1
+  basis: The passage states that others repeatedly beat him and that he was defenceless
+    when thrashed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: coercive ceremonial group
+  assigned_to:
+  - fig:2
+  basis: The people arrange the ceremonial, tell him to participate, object to his
+    song, and thrash him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: unseen answering presence
+  assigned_to:
+  - fig:3
+  basis: The ke'fc answers the orphan’s song from within the dark jaw-bone house.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ceremonial singer without stated knowledge
+  assigned_to:
+  - fig:1
+  basis: The orphan says he has no shamanistic knowledge but is told to sing and then
+    repeats a refrain.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: repeated song-refrain
+  literal_form: "“Ototototototoi', otatatatatatai'!”"
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: thanksgiving ceremonial
+  literal_form: thanksgiving ceremonial arranged by some of the people
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: old jaw-bone house
+  literal_form: old, quite ancient, empty jaw-bone house
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: dark interior
+  literal_form: the dark; from within the house
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: isolated orphan among violent neighbors
+  summary: The orphan child lives alone in a place with many people, and the neighbors
+    repeatedly strike him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: arrival at thanksgiving ceremonial
+  summary: The orphan comes to the ceremonial with other guests. The people tell him
+    to take part, and he says he has no shamanistic knowledge.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: song and thrashing
+  summary: The orphan sings the short refrain; the people call it a bad song, beat
+    him, order him to participate again, and beat him again after he repeats it.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: answer from the old jaw-bone house
+  summary: In the dark, the orphan goes to the ancient empty jaw-bone house and sings
+    into it; the ke'fc inside answers with the same refrain.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: persecuted solitary orphan
+  taxonomy_refs: []
+  basis: The central child is explicitly an orphan living alone and is repeatedly
+    beaten by people and neighbors.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage segment does not yet state the outcome of the orphan’s persecution.
+- id: motif:2
+  label: initiation-like ceremonial ordeal through song
+  taxonomy_refs:
+  - initiation
+  basis: The orphan is pressed to participate in a thanksgiving ceremonial despite
+    saying he lacks shamanistic knowledge; he sings, is beaten, repeats the performance,
+    and later receives an answer from a ke'fc.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The passage does not explicitly say he is initiated, instructed, transformed,
+    or accepted; the initiation taxonomy link is only a cautious family-level candidate.
+- id: motif:3
+  label: supernatural call-and-response to a chant
+  taxonomy_refs: []
+  basis: The orphan sings into an ancient empty house in the dark, and the ke'fc inside
+    answers by repeating the same refrain.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain who or what the ke'fc is, nor the consequence
+    of the response.
+- id: motif:4
+  label: encounter at an ancient abandoned house
+  taxonomy_refs: []
+  basis: The episode moves from the communal ceremonial setting to an old, ancient,
+    empty jaw-bone house in the dark, where an answering presence is heard.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The symbolic or ritual status of the jaw-bone house is not explained in
+    the passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The sequence can be compared cautiously to an initiation-like ordeal pattern:
+    a marginal person is brought into a ceremonial context, professes lack of shamanistic
+    knowledge, undergoes beating after ritualized song, and then receives a response
+    from a nonhuman or unseen presence.'
+  claim_level: same_function
+  target: initiation motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The text does not explicitly identify the episode as an initiation
+    or state any resulting new status or knowledge.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1217-1220
+  quote_or_summary: The passage introduces an orphan child living alone; numerous
+    people and neighbors repeatedly beat and violently treat him.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:2
+  type: summary
+  locator: 1221-1228
+  quote_or_summary: Some people arrange a thanksgiving ceremonial. The orphan arrives
+    with guests, is told to take part, says he has no shamanistic knowledge and is
+    wholly ignorant, and is told to sing a little.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:3
+  type: summary
+  locator: 1229-1234
+  quote_or_summary: After the orphan sings the refrain, the people call it a bad little
+    song, thrash him, order him to take part again, and thrash him again when he repeats
+    the refrain.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+- id: ev:4
+  type: summary
+  locator: 1235-1238
+  quote_or_summary: The orphan goes in the dark to an old, ancient, empty jaw-bone
+    house, sings the refrain into it, and the ke'fc answers from within with the same
+    refrain.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md
+  rights_note: Public domain; passage supplied with full-text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is straightforward. Motif interpretation is cautious because
+    the passage segment ends before explaining the ke'fc response or any later transformation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs were applied, because the supplied symbol list items are not literally present in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-chukchee-mythology-bogoras-archive__l1217-l1238
+  passage_sha256=b83f26aaafadfcbdbada2f23a3115b14bff0b2b23a7bc8b4b970d23a52de0a56
+

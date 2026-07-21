@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l232-l274
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: CONTENTS. / Chapter I. / INTRODUCTION. / FARGARD V 48; lines 232-274
+  start: '232'
+  end: '274'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents passage lists topics in Fargard V and the beginning
+    of Fargard VI: defilement of fire, earth, ground, water, Haoma, sacrificial implements,
+    and corpses; disposal of the dead; Dakhma cleansing by heavenly water; purity
+    and recovery of purity; the defiling power of the Nasu; treatment of a woman delivered
+    of a still-born child; and places for corpses.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The contents state that involuntary or unconscious defilement of fire or earth
+    by a man is not a sin.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents state that water and fire do not kill.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents include disposal of the dead during winter and cleansing of Dakhmas
+    by water from the heavens.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The contents identify purity as excellent and refer to a law that shows how
+    to recover purity when lost.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The contents describe the defiling power of the Nasu as greater or less according
+    to the dignity of the being that dies.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The contents mention sacrificial implements defiled by the dead.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The contents mention treatment of a woman delivered of a still-born child
+    and treatment of her clothes.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The contents for Fargard VI include the duration of earth uncleanness when
+    defiled by the dead, penalties for defiling ground with dead matter, and purification
+    of different sorts of water and of Haoma.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The contents identify a place for corpses, the Dakhmas.
+  category: setting
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: a man who defiles fire or earth involuntarily or unconsciously
+  description: A man mentioned in relation to involuntary or unconscious defilement
+    of fire or earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Nasu
+  description: The Nasu is mentioned by name in connection with defiling power.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: being that dies
+  description: A dead being whose dignity is linked to the degree of the Nasu's defiling
+    power.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: woman delivered of a still-born child
+  description: A woman mentioned as requiring treatment after delivery of a still-born
+    child.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: still-born child
+  description: A still-born child mentioned in connection with the woman's treatment
+    and her clothes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: involuntary or unconscious defiler
+  assigned_to:
+  - fig:1
+  basis: The man is described as defiling fire or earth involuntarily or unconsciously,
+    with no sin assigned.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defiling agent or force
+  assigned_to:
+  - fig:2
+  basis: The Nasu is described through its defiling power.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: dead being associated with defilement
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The passage links death, dead matter, or a still-born child with defilement
+    or required treatment.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:4
+  label: ritual-treatment subject
+  assigned_to:
+  - fig:4
+  basis: The woman is mentioned as the subject of prescribed treatment after delivering
+    a still-born child.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: earth or ground
+  literal_form: earth; ground
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: sym:3
+  label: water
+  literal_form: water; water from the heavens; different sorts of water
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+- id: sym:4
+  label: Dakhmas
+  literal_form: Dakhmas, places for corpses
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:9
+- id: sym:5
+  label: dead matter and corpses
+  literal_form: dead; dead matter; corpses
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: sym:6
+  label: sacrificial implements
+  literal_form: sacrificial implements defiled by the dead
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: Haoma
+  literal_form: Haoma
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Involuntary defilement of fire or earth
+  summary: A man defiles fire or earth involuntarily or unconsciously, and the contents
+    state that this is no sin.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Water, fire, and corpse-related purification
+  summary: The contents list water and fire as not killing, disposal of the dead during
+    winter, and cleansing of Dakhmas by heavenly water.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Purity lost and recovered
+  summary: The contents refer to the excellence of purity and to a law for recovering
+    purity after it has been lost.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Nasu and graded defiling power
+  summary: The Nasu's defiling power is said to vary according to the dignity of the
+    being that dies.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Ritual handling of defiled implements and childbirth death
+  summary: The contents list management of sacrificial implements defiled by the dead
+    and treatment of a woman delivered of a still-born child and her clothes.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:6
+  label: Fargard VI topics on defiled earth, water, Haoma, and corpse places
+  summary: The contents list earth remaining unclean after contact with the dead,
+    penalties for defiling ground with dead matter, purification of waters and Haoma,
+    and the Dakhmas as places for corpses.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:7
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: involuntary ritual defilement without sin
+  taxonomy_refs: []
+  basis: The contents explicitly state that involuntary or unconscious defilement
+    of fire or earth by a man is no sin.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a contents summary, not the full legal passage.
+- id: motif:2
+  label: death pollution and corpse-related impurity
+  taxonomy_refs: []
+  basis: Multiple headings concern dead bodies, dead matter, the Nasu's defiling power,
+    defiled implements, unclean earth, and corpse places.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The headings identify topics but do not provide full ritual details.
+- id: motif:3
+  label: purity lost and recovered by ritual law
+  taxonomy_refs: []
+  basis: The contents refer to the excellence of purity and to a law that shows how
+    to recover purity when lost.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not specify the law's procedure.
+- id: motif:4
+  label: purification by heavenly water
+  taxonomy_refs: []
+  basis: The contents describe Dakhmas as cleansed by water from the heavens and also
+    mention purification of different sorts of water.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: Only the contents headings are available; the mechanism and ritual context
+    are not described in full.
+- id: motif:5
+  label: graded impurity according to the status of the dead
+  taxonomy_refs: []
+  basis: The Nasu's defiling power is said to be greater or less according to the
+    greater or less dignity of the being that dies.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives the principle but not the categories of dignity.
+- id: motif:6
+  label: ritual management of stillbirth impurity
+  taxonomy_refs: []
+  basis: The contents include treatment of a woman delivered of a still-born child
+    and instructions concerning her clothes.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The heading indicates ritual treatment but does not state the prescribed
+    actions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 232-237
+  quote_or_summary: '"If a man defile the fire or the earth involuntarily, or unconsciously,
+    it is no sin"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; short excerpt used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 238-239
+  quote_or_summary: '"Water and fire do not kill"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; short excerpt used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 240-245
+  quote_or_summary: The contents list disposal of the dead during winter and cleansing
+    of Dakhmas by water from the heavens.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata.
+- id: ev:4
+  type: summary
+  locator: lines 246-248
+  quote_or_summary: The contents list the excellence of purity and the law showing
+    how purity can be recovered when lost.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata.
+- id: ev:5
+  type: summary
+  locator: lines 249-252
+  quote_or_summary: The contents list the defiling power of the Nasu as greater or
+    less according to the dignity of the being that dies.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata.
+- id: ev:6
+  type: summary
+  locator: lines 253-255
+  quote_or_summary: The contents list management of sacrificial implements defiled
+    by the dead.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata.
+- id: ev:7
+  type: summary
+  locator: lines 256-259
+  quote_or_summary: The contents list treatment of a woman delivered of a still-born
+    child and what is to be done with her clothes.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata.
+- id: ev:8
+  type: summary
+  locator: lines 260-272
+  quote_or_summary: The beginning of Fargard VI lists earth's uncleanness when defiled
+    by the dead, penalties for defiling ground with dead matter, purification of different
+    sorts of water, and purification of Haoma.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata.
+- id: ev:9
+  type: quote
+  locator: lines 273-274
+  quote_or_summary: '"The place for corpses ; the Dakhmas"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source metadata; short excerpt used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a table-of-contents passage rather than full narrative
+    or legal prose. Motif candidates are therefore topic-level and require review
+    against the full Fargard text. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy comparisons were asserted beyond available symbol refs for fire and water.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l232-l274
+  passage_sha256=8beb9264934045f204c7c38e75f13dba787a01fca998563eac3c9c363395ff10
+

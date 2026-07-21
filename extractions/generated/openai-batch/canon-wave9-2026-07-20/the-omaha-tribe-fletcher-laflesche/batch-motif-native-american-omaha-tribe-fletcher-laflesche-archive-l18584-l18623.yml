@@ -1,0 +1,215 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l18584-l18623
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    WHITE    BUFFALO     HIDE / THE    QUEST    OF    FOOD / THE  RITUAL  OF  THE  WHITE  BUFFALO  HIDE
+    / WHITE  BUFFALO  HIDE; lines 18584-18623
+  start: '18584'
+  end: '18623'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a section headed “WHITE BUFFALO HIDE,” with a ritual
+    song text and explanatory glosses. The glosses identify Thani'ba as an old form
+    for pipe, Xu'be as a consecrated object set apart from ordinary use and used as
+    a medium of communication with Wakon'da, and Erihonbe as something appearing by
+    its own volition from a covered place so that all can see it.
+  language: English with Omaha ritual terms and transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “WHITE BUFFALO HIDE” and presents a short ritual song
+    text with numbered terms and explanatory glosses.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Thani'ba is glossed as an old form of nini'ba, meaning pipe.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The gloss notes that the Osage use the form Thani'ba in daily speech.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Xu'be is glossed as part of waxu'be, an object set apart from ordinary usage
+    and made holy.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The consecrated thing described by Xu'be is used as a medium of communication
+    with the supernatural, with Wakon'da.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hehe or ehe is glossed as “I say,” with an added h for euphony in singing.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Erihonbe is glossed as appearing or coming into view by its own volition from
+    a covered place, so as to be seen by all.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Wakon'da
+  description: Named in the gloss as the supernatural with whom a consecrated object
+    serves as a medium of communication.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supernatural being or power addressed through a consecrated medium
+  assigned_to:
+  - fig:1
+  basis: The passage says the consecrated thing is used as a medium of communication
+    with the supernatural, with Wakon'da.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: White Buffalo Hide
+  literal_form: Section title naming the White Buffalo Hide
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Pipe
+  literal_form: Thani'ba / nini'ba, glossed as pipe
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Consecrated object
+  literal_form: Xu'be / waxu'be, an object set apart from ordinary usage and made
+    holy
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Covered place
+  literal_form: A covered place from which something appears or comes into view
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: White Buffalo Hide song gloss
+  summary: 'The passage gives a song text and glosses key terms: a pipe is named,
+    a holy object is described as a medium of communication with Wakon''da, and the
+    verb of appearing is explained as coming into view from a covered place for all
+    to see.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Consecrated object as medium with the supernatural
+  taxonomy_refs: []
+  basis: Xu'be is explained as a holy object set apart from ordinary usage and used
+    as a medium of communication with Wakon'da.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a lexical and ritual gloss rather than a narrative episode.
+- id: motif:2
+  label: Sacred appearance from concealment
+  taxonomy_refs: []
+  basis: Erihonbe is explained as something that appears by its own volition from
+    a covered place so that all can see it.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not identify what appears in this gloss, and the covered
+    place is not further described.
+comparison_claims:
+- id: claim:1
+  claim: The gloss makes a linguistic comparison between the Omaha ritual term Thani'ba
+    and Osage daily speech usage of the same form.
+  claim_level: linguistic_similarity
+  target: Osage daily speech form Thani'ba
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a lexical comparison only; the passage does not establish a
+    shared ritual motif or historical contact beyond the stated usage note.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18584-18623; heading and song presentation
+  quote_or_summary: "“WHITE  BUFFALO  HIDE” followed by syllabified and numbered song
+    text."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: quote
+  locator: 18584-18623; literal translation note 1
+  quote_or_summary: "“Thani'ba, an old form of nini'ba, pipe. The Osage use this form
+    in daily speech.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: 18584-18623; literal translation note 2
+  quote_or_summary: "“Xu'be, part of waxu'be, an object set apart from ordinary usage
+    and made holy,” used as “a medium of communication with the supernatural, with
+    Wakon'da.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: 18584-18623; literal translation note 2
+  quote_or_summary: "“Hehe, ehe, I say; the added h is for euphony in singing.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: 18584-18623; literal translation note 3
+  quote_or_summary: "“Erihonbe, appears, comes into view, of its own volition, from
+    a covered place, so as to be seen by all.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The lexical glosses are explicit, but motif identification is limited because
+    the passage is a song excerpt with explanatory notes rather than a full narrative
+    scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs were assigned; the passage does not mention any of the supplied symbol taxonomy terms directly.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l18584-l18623
+  passage_sha256=f04200c0b626d1e0daecaf3827eabf70d7327312ac20fefae6946b3cf77608c8
+

@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l69-l229
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: AT THE CLARENDON PRESS / CONTENTS. / Chapter I. / INTRODUCTION.; lines 69-229
+  start: '69'
+  end: '229'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Front matter and table of contents for James Darmesteter's translation
+    of The Vendidad. The contents list introductory chapters and early Vendidad Fargards,
+    including a creation-opposition catalogue of lands and plagues, myths of Yima,
+    teachings about the Earth, and legal sections on contracts and outrages.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage identifies the work as The Zend-Avesta, Part I: The Vendidad,
+    translated by James Darmesteter.'
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list introductory chapters on the discovery, interpretation,
+    formation, and origin of the Avesta religion, and on the Vendidad.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fargard I is described as an enumeration of sixteen lands created by Ahura
+    Mazda and an equal number of plagues created in opposition by Angra Mainyu.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Fargard II is listed as containing myths of Yima.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Fargard III is titled The Earth and includes subsections about where the Earth
+    feels joy, where it feels sorrow, what rejoices it, and a rule that corpses ought
+    not be buried in it.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Fargard IV is titled Contracts and Outrages and includes topics such as classification
+    of contracts, penalties, false oaths, and praise of physical well-being.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named in the contents as the creator of sixteen lands in Fargard I.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: angra mainyu
+  description: Named in the contents as creating an equal number of plagues in opposition.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Yima
+  description: Named as the subject of the myths in Fargard II.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: The Earth
+  description: Named as the subject of Fargard III and described as feeling joy and
+    sorrow, being rejoiced, and not being a proper place for buried corpses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: creator of lands
+  assigned_to:
+  - fig:1
+  basis: The contents say sixteen lands were created by Ahura Mazda.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: opposing creator of plagues
+  assigned_to:
+  - fig:2
+  basis: The contents say as many plagues were created in opposition by Angra Mainyu.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: named mythic subject
+  assigned_to:
+  - fig:3
+  basis: Fargard II is listed as Myths of Yima.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: personified Earth affected by conduct
+  assigned_to:
+  - fig:4
+  basis: The contents describe the Earth as feeling joy and sorrow and as being rejoiced
+    by certain things.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sixteen lands
+  literal_form: The sixteen lands created by Ahura Mazda in the Fargard I contents
+    summary.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: opposing plagues
+  literal_form: The equal number of plagues created in opposition by Angra Mainyu.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Earth
+  literal_form: The Earth as a named subject that feels joy and sorrow and should
+    not receive buried corpses.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: opposed creation of lands and plagues
+  taxonomy_refs:
+  - duality
+  basis: Fargard I is summarized as sixteen lands created by Ahura Mazda and corresponding
+    plagues created in opposition by Angra Mainyu.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a table-of-contents summary, not the full Fargard narrative.
+- id: motif:2
+  label: numbered catalogue of created places and counter-plagues
+  taxonomy_refs: []
+  basis: The contents describe an enumeration of sixteen lands and an equal number
+    of opposing plagues.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the catalogue structure is visible in this passage; the individual
+    lands and plagues are not given here.
+- id: motif:3
+  label: Yima myth cycle
+  taxonomy_refs: []
+  basis: Fargard II is titled Myths of Yima.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No actions or narrative details about Yima are present in this line range.
+- id: motif:4
+  label: personified Earth responding to human conditions
+  taxonomy_refs: []
+  basis: Fargard III subsections refer to the Earth feeling joy and sorrow and being
+    rejoiced by certain things.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The contents do not specify the five places or five things, so interpretation
+    should remain limited.
+- id: motif:5
+  label: corpse burial prohibition in the Earth
+  taxonomy_refs: []
+  basis: A Fargard III subsection states that corpses ought not be buried in the Earth.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a heading and does not state the ritual reasoning.
+comparison_claims:
+- id: claim:1
+  claim: 'The Fargard I contents support comparison with the supplied duality motif
+    family because two named beings are associated with opposed creative acts: lands
+    by Ahura Mazda and corresponding plagues by Angra Mainyu.'
+  claim_level: same_motif
+  target: duality
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The evidence comes from a contents heading rather than the full mythic
+    passage; no broader historical or intertextual claim is supported here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 69-229, title/front matter
+  quote_or_summary: 'The front matter identifies the book as The Zend-Avesta, Part
+    I: The Vendidad, translated by James Darmesteter.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain metadata supplied; summary used.
+- id: ev:2
+  type: summary
+  locator: 'lines 69-229, contents: Introduction'
+  quote_or_summary: 'The contents list introductory topics: discovery, interpretation,
+    formation, origin of the Avesta religion, and the Vendidad.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain metadata supplied; summary used.
+- id: ev:3
+  type: quote
+  locator: 'lines 69-229, contents: Fargard I'
+  quote_or_summary: '"Fargard I. An enumeration of sixteen lands created by Ahura
+    Mazda, and of as many plagues created in opposition by angra mainyu"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain metadata supplied; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: 'lines 69-229, contents: Fargard II'
+  quote_or_summary: '"Fargard II. Myths of Yima"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain metadata supplied; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 'lines 69-229, contents: Fargard III'
+  quote_or_summary: Fargard III is titled The Earth and includes headings on the Earth
+    feeling joy and sorrow, things that rejoice the Earth, and the rule that corpses
+    ought not be buried in the Earth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain metadata supplied; summary used.
+- id: ev:6
+  type: summary
+  locator: 'lines 69-229, contents: Fargard IV'
+  quote_or_summary: Fargard IV is titled Contracts and Outrages and lists contracts,
+    damages, penalties, menaces, assaults, wounds, manslaughter, false oaths, and
+    praise of physical weal.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain metadata supplied; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on front matter and contents headings, not a continuous
+    mythic narrative. Motif candidates are therefore limited to patterns explicitly
+    named or summarized in the contents.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the passage is a title page and table of contents. Motif and symbol entries are constrained to wording present in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l69-l229
+  passage_sha256=fa6e599ac77654fd5872ceb4dcdb9c503a1baf8be55ef16697653e2325a44c80
+

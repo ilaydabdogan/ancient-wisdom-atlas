@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l23798-l23810
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / ETIQUETTE / AVOCATIONS  OF  MEN / AVOCATIONS  OF  WOMEN;
+    lines 23798-23810
+  start: '23798'
+  end: '23810'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes women's work as conserving life by transforming raw
+    materials supplied by men into food, clothing, shelter, and the home. It also
+    describes women bringing wood for the fire using a burden strap worn across the
+    chest with thongs to tie the wood.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that women's avocations pertained to the conservation of
+    life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A woman transformed raw material provided by a man into food, raiment, and
+    shelter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The home is described as the product of women's labor, and its duties are
+    assigned to women.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Bringing wood for the fire is described as part of a woman's task.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: For carrying wood, a woman used a burden strap with a broad band worn across
+    the chest and long thongs for tying the wood.
+  category: object
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: women / woman
+  description: Women are described collectively as performing life-conserving domestic
+    work, producing the home, and bringing wood for the fire.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: man
+  description: The man is mentioned as providing raw material that the woman transforms
+    into food, raiment, and shelter.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: life-conservation worker
+  assigned_to:
+  - fig:1
+  basis: Women's avocations are said to pertain to the conservation of life.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: domestic transformer and home maker
+  assigned_to:
+  - fig:1
+  basis: The woman transforms raw material into food, raiment, and shelter, and the
+    home is described as the product of her labor.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: raw-material provider
+  assigned_to:
+  - fig:2
+  basis: The raw material is described as provided by the man.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: wood carrier for the fire
+  assigned_to:
+  - fig:1
+  basis: Bringing wood for the fire is stated to be part of the woman's task.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wood for the fire
+  literal_form: wood tied and carried for the fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: burden strap
+  literal_form: burden strap with a broad band worn across the chest and long thongs
+    used to tie wood
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: home
+  literal_form: home as the product of the woman's labor
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Women's life-conserving domestic production
+  summary: Women's work is described as conserving life by transforming raw materials
+    supplied by men into food, raiment, shelter, and the home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Carrying wood for the fire
+  summary: A woman brings wood for the fire using a burden strap worn across the chest,
+    with thongs used to tie the wood.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: life conservation through women's domestic labor
+  taxonomy_refs: []
+  basis: The passage explicitly frames women's avocations as conserving life and describes
+    their work producing food, raiment, shelter, and the home.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic description of labor roles, not a myth narrative;
+    no sacred or ritual interpretation is stated in the passage.
+- id: motif:2
+  label: domestic fire maintained through wood carrying
+  taxonomy_refs: []
+  basis: The passage identifies bringing wood for the fire as part of women's tasks
+    and describes the carrying apparatus used.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions fire as a domestic need only; it does not state a
+    symbolic or ritual meaning for the fire.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23798-23803
+  quote_or_summary: Women's avocations are described as conserving life; the woman
+    transforms raw material provided by the man into food, raiment, and shelter, and
+    the home and its duties belong to her labor.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 23805-23809
+  quote_or_summary: Bringing wood for the fire is part of the woman's task; she uses
+    a burden strap worn across the chest, with long thongs to tie the wood.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are treated as social-pattern
+    labels because the passage is ethnographic and does not present a mythic narrative
+    or explicit sacred interpretation. No comparison claims are generated because
+    the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The terminal page number in the supplied passage was not treated as passage content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l23798-l23810
+  passage_sha256=2c83ac8ca92a5c5b37b4972a21abd994ba90a7288c38fc177c0a09a71c357e4f
+

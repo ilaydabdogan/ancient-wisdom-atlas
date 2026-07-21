@@ -1,0 +1,256 @@
+---
+record_id: batch.motif.african-yoruba-speaking-peoples-ellis-archive-l3346-l3373
+source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+passage_locator:
+  label: I I I / CHAPTER III. / CHAPTER IV. / REMARKS ON THE FOREGOING.; lines 3346-3373
+  start: '3346'
+  end: '3373'
+  translation: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their
+    Religion, Manners, Customs, Laws, Language, Etc.'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A tradition says tribute of cowries was promised, a palm sprang from water
+    at the place that became Ife, and three brothers later left Ife in different directions,
+    leaving the slave Adimu to rule in their absence. The commentator describes the
+    tradition as vague and interprets the water-covered region as supporting a memory
+    of southward migration into lagoon country.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A payment arrangement is described as a tribute of 200 cowries apiece at stipulated
+    periods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A palm is said to have sprung up from water at the place that afterwards became
+    Ife.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Three brothers set out from Ife in different directions to make fresh discoveries.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The brothers left a slave named Adimu to rule Ife during their absence.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The commentator summarizes the tradition as involving people migrating southward
+    from the interior and finding a region covered with water.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The commentator connects the water detail to shallow lagoon waters extended
+    by rainy-season inundation around low-lying country.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A note glosses Adimu as “a tight grasp, hold-fast.”
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: three brothers
+  description: Three brothers who leave Ife in different directions to make fresh
+    discoveries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Adimu
+  description: A slave left to rule Ife during the brothers’ absence; the note glosses
+    the name as “a tight grasp, hold-fast.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: migrating persons
+  description: A certain number of persons who, in the commentator’s summary, migrated
+    southward from the interior and found a region covered with water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: departing explorers
+  assigned_to:
+  - fig:1
+  basis: They set out in different directions to make fresh discoveries.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: appointed temporary ruler
+  assigned_to:
+  - fig:2
+  basis: Adimu is left to rule Ife during the brothers’ absence.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: southward migrants
+  assigned_to:
+  - fig:3
+  basis: The commentator says the tradition’s main point is migration southward from
+    the interior to a water-covered region.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: palm from water
+  literal_form: A palm that sprang up from the water at the place that afterwards
+    became Ife.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water-covered region
+  literal_form: A region covered with water, later explained by the commentator in
+    relation to shallow lagoon waters and rainy-season inundation.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cowrie tribute
+  literal_form: A stipulated tribute of 200 cowries apiece.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Palm and origin of Ife
+  summary: A palm springs up from water, and the place afterwards becomes Ife.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Brothers depart from Ife
+  summary: Three brothers leave Ife in different directions to make discoveries and
+    leave Adimu to rule during their absence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Commentary on migration and lagoon waters
+  summary: The commentator says the tradition preserves a vague account of southward
+    migration from the interior into a water-covered region, and links the memory
+    to lagoon inundation.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: origin place marked by palm emerging from water
+  taxonomy_refs: []
+  basis: The place where the palm sprang up from water afterwards became Ife.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explain the palm’s sacred status or provide more
+    narrative context.
+- id: motif:2
+  label: brothers departing in different directions to discover new places
+  taxonomy_refs:
+  - departure
+  basis: Three brothers set out from Ife in different directions to make fresh discoveries.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief action and does not name the brothers or
+    describe the discoveries.
+- id: motif:3
+  label: migration into a water-covered landscape
+  taxonomy_refs:
+  - departure
+  basis: The commentator summarizes the tradition as people migrating southward from
+    the interior and finding a region covered with water.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is partly the commentator’s reconstruction of the vague tradition,
+    not a fully narrated mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3346-3350
+  quote_or_summary: A tribute of 200 cowries apiece is promised; the place where a
+    palm sprang up from water afterwards became Ife.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 3350-3355
+  quote_or_summary: Three brothers leave Ife in different directions to make discoveries,
+    leaving the slave Adimu to rule Ife during their absence.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 3357-3363
+  quote_or_summary: The commentator calls the tradition vague and says its main points
+    are southward migration from the interior and discovery of a region covered with
+    water.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 3363-3370
+  quote_or_summary: The commentator links the water detail to shallow lagoon stretches
+    enlarged by rainy-season inundation, contrasting them with interior plateaus and
+    mountain ranges.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: '3372'
+  quote_or_summary: "“Adimu, a tight grasp, hold-fast.”"
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary at the start and includes an authorial interpretation.
+    Motif candidates are limited to clearly stated actions and images.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare the material to another tradition or motif family beyond the commentator’s historical-migration explanation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-yoruba-speaking-peoples-ellis-archive__l3346-l3373
+  passage_sha256=8d100a7cbd2be10daf6858e5ab00c9bc9cedf416ee747b404441ea4235a7ff44
+

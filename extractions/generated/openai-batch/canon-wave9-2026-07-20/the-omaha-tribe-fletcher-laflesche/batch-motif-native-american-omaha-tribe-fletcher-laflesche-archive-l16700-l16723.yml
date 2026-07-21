@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l16700-l16723
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / THE  HE'DEWACHI / THE    OMAHA    TRIBE / THE    OMAHA    TRIBE;
+    lines 16700-16723
+  start: '16700'
+  end: '16723'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“four strokes on the drums”"
+  summary: 'The passage describes a ceremonial moment: rattles and drums accompany
+    singers at the foot of a pole; men who will give away horses ride among the people;
+    four drum strokes signal the ceremony’s beginning, after which a sung call is
+    performed. A nearby caption notes a painting on a warrior’s face, and a footnote
+    describes the musical notation and vocal/drum effects.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Four rattles struck on pillows and two drums accompany singers positioned
+    at the foot of a pole.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The only riders are men who are going to give away horses, and they dash about
+    among the people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The people become increasingly impatient while waiting for the signal that
+    will begin the ceremony.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: The signal for the beginning of the ceremony is four drum strokes; after the
+    four beats, a call is sung.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A footnote describes the musical presentation as including an aria, harmonized
+    piano staves, drum tremolo, echoing cadences, fading voices, and voices rising
+    again with a call to rejoice.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A figure caption identifies a painting on a warrior’s face.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: singers
+  description: The singers take their places at the foot of the pole, are accompanied
+    by rattles and drums, and sing the call after the drum beats.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: men giving away horses
+  description: These men are the only riders and dash about among the people before
+    the ceremony begins.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: people
+  description: The people wait for the drum signal and become more impatient.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: warrior in figure caption
+  description: A warrior is mentioned only through the caption describing painting
+    on a warrior’s face.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual singers
+  assigned_to:
+  - fig:1
+  basis: They are accompanied by rattles and drums, stand at the foot of the pole,
+    and sing the call.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:2
+  label: horse-giving riders
+  assigned_to:
+  - fig:2
+  basis: They are described as the men who will give away horses and as the only riders.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: attending people
+  assigned_to:
+  - fig:3
+  basis: They are the people among whom the riders dash and who wait for the signal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: depicted warrior
+  assigned_to:
+  - fig:4
+  basis: The figure caption refers to painting on a warrior’s face.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rattles
+  literal_form: four rattles struck on pillows
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: drums and four beats
+  literal_form: two drums used for accompaniment; four strokes or beats give the signal
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: pole
+  literal_form: the pole at whose foot the singers stand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: horses to be given away
+  literal_form: horses intended as gifts by the riders
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: warrior face painting
+  literal_form: painting on a warrior’s face, noted in the figure caption
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: singers and instruments at the pole
+  summary: Rattles and drums accompany singers who stand at the foot of the pole.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: horse-giving riders among the people
+  summary: The men who are to give away horses ride and dash among the waiting people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: drum signal and sung call
+  summary: Four drum strokes announce the beginning of the ceremony, and after the
+    four beats a call is sung.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ceremonial horse give-away
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage places the planned giving away of horses within the ceremony
+    and identifies the horse-givers as the only riders.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain reciprocal obligations, sacred value, or
+    the outcome of the gift-giving.
+- id: motif:2
+  label: ritual opening by four drum beats
+  taxonomy_refs: []
+  basis: The ceremony begins only after a signal of four strokes on the drums, after
+    which a call is sung.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not state a symbolic meaning for the number four.
+- id: motif:3
+  label: instrumental accompaniment and sung call
+  taxonomy_refs: []
+  basis: The passage describes rattles, drums, singers, a sung call, and musical effects
+    associated with drum tremolo and voices fading and rising.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The musical function is described, but broader mythic or ritual interpretation
+    is not supplied in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16700-16704
+  quote_or_summary: "“Four rattles, struck on pillows, and two drums were used to
+    accompany the singers, who took their places at the foot of the pole.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; quoted excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 16704-16708
+  quote_or_summary: "“The men who were going to give away horses were the only riders.
+    They dashed about among the people...”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; quoted excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 16708-16712
+  quote_or_summary: "“waiting for the signal — four strokes on the drums — to announce
+    the beginning of the ceremony. After the four drum beats had been given, the following
+    ‘call’ was sung”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; quoted excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 16709-16710
+  quote_or_summary: "“FIG. 03. Painting on warrior's face.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; quoted excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 16716-16723
+  quote_or_summary: A note says the upper music staff gives the aria, while lower
+    staves harmonize it for piano, representing drum tremolo, echoing cadences, voices
+    dying away, and voices rising again with the call to “Rejoice.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are procedural
+    and cautious because the excerpt gives little explicit interpretation. No comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Running headers, a figure caption, and a music-note excerpt are included in the supplied line range; extraction is limited to those materials.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l16700-l16723
+  passage_sha256=1f26e3204b6de3c3dfa27156d8af9c28d9d8b3085953a8434691e966e9bc5367
+

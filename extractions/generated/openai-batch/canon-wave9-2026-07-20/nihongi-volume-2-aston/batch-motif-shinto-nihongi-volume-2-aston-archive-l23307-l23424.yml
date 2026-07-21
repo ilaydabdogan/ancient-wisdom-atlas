@@ -1,0 +1,547 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l23307-l23424
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: 'A.D 693. / ROO 22: / XXX. 31. / XXX. 32.; lines 23307-23424'
+  start: '23307'
+  end: '23424'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Annalistic entries record imperial decrees, ritual prayers for rain at
+    shrines and to named deities, visits by the Empress to Yoshino, Fujihara, and
+    Tamu no Mine, Buddhist congregations, official punishments and pardons, a solar
+    eclipse, military equipment inspections, sutra exposition, funeral contributions,
+    and diplomatic gifts.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A present was made for the funeral expenses of the King of Silla.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An Imperial decree directed encouragement of mulberry, hemp, pears, chestnuts,
+    and greens as auxiliaries to the five grains.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Daibu were sent as envoys to visit shrines and pray for rain.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:4
+  text: Envoys were sent to pray to the Great Abstinence Deity of Hirose and to the
+    Wind-gods of Tatsuta.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: obs:5
+  text: Several officials were convicted of dishonest practices or complicity, reduced
+    in rank, dismissed from office, and the proceeds were confiscated; one clerk was
+    pardoned because of campaign service.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Empress repeatedly visited the Palace of Yoshino and returned to the palace.
+  category: sequence
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:12
+- id: obs:7
+  text: Public Buddhist great-congregations were held within the inner precincts.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:9
+- id: obs:8
+  text: A public great-congregation was held on behalf of the Kiyomibara Emperor,
+    and all prisoners were released.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:9
+  text: There was an eclipse of the sun.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: An Imperial decree required inspections of stored arms and specified armour,
+    swords, bows, arrows, elbow-pads, and saddle-horses according to rank.
+  category: object
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: The Jin-no Sutra was expounded in the hundred provinces and concluded after
+    four days.
+  category: action
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Presents of various values were given to the Prince and Prime Minister of
+    Tamna.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: the Empress
+  description: The ruling sovereign who issues decrees and travels to Yoshino, Fujihara,
+    and Tamu no Mine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:12
+- id: fig:2
+  name_or_label: Daibu envoys
+  description: Officials sent as envoys to shrines to pray for rain.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:3
+  name_or_label: Great Abstinence Deity of Hirose
+  description: Named deity to whom envoys were sent to pray.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:4
+  name_or_label: Wind-gods of Tatsuta
+  description: Named wind deities to whom envoys were sent to pray.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: fig:5
+  name_or_label: King of Silla
+  description: Foreign king for whose funeral expenses a present was made.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: Ohotomo no Wobito and implicated treasury personnel
+  description: Officials and clerks convicted of dishonest practices or complicity
+    in theft-related conduct.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Kiyomibara Emperor
+  description: Deceased emperor on whose behalf a public great-congregation was held.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:9
+- id: fig:8
+  name_or_label: prisoners
+  description: Prisoners released after the congregation held on behalf of the Kiyomibara
+    Emperor.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:9
+- id: fig:9
+  name_or_label: Prince and Prime Minister of Tamna
+  description: Foreign dignitaries who received presents of various values.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:12
+roles:
+- id: role:1
+  label: imperial ruler
+  assigned_to:
+  - fig:1
+  basis: The passage attributes decrees, travel, and court actions to the Empress.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: role:2
+  label: ritual emissaries
+  assigned_to:
+  - fig:2
+  basis: The Daibu are sent as envoys to shrines to pray for rain.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:3
+  label: recipient deities of prayer
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Envoys are sent to pray to these named deities.
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: role:4
+  label: foreign recipients of gifts or support
+  assigned_to:
+  - fig:5
+  - fig:9
+  basis: The King of Silla receives funeral-expense support, and Tamna dignitaries
+    receive presents.
+  evidence_refs:
+  - ev:1
+  - ev:12
+- id: role:5
+  label: punished officials
+  assigned_to:
+  - fig:6
+  basis: They are convicted, reduced in rank, dismissed, or otherwise disciplined.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: deceased imperial figure ritually commemorated
+  assigned_to:
+  - fig:7
+  basis: A great-congregation is held on behalf of the Kiyomibara Emperor.
+  evidence_refs:
+  - ev:9
+- id: role:7
+  label: released captives
+  assigned_to:
+  - fig:8
+  basis: All prisoners are released after the congregation.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: rain
+  literal_form: rain prayed for by envoys at shrines and before named deities
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: shrines
+  literal_form: various shrines visited by envoys for rain-prayer
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: mulberry tree and cultivated plants
+  literal_form: mulberry tree, hemp, pears, chestnuts, greens, and the five grains
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: mountain peak
+  literal_form: Peak of Tamu no Mine visited by the Empress
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+- id: sym:5
+  label: solar eclipse
+  literal_form: eclipse of the sun
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: arms in store
+  literal_form: armour, sword, bow, arrows, elbow-pad, and saddle-horse assigned according
+    to rank
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+- id: sym:7
+  label: Buddhist sutra
+  literal_form: Jin-no Sutra expounded in the hundred provinces
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:11
+scenes:
+- id: scene:1
+  label: Imperial agricultural decree
+  summary: The Empress issues a decree encouraging cultivation of several crops as
+    auxiliaries to the five grains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: State prayers for rain
+  summary: Envoys visit shrines and pray for rain, including prayers to the Great
+    Abstinence Deity of Hirose and the Wind-gods of Tatsuta; similar rain-prayers
+    recur later in the year.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: scene:3
+  label: Punishment for dishonest practices
+  summary: Treasury officials and clerks are punished for dishonest practices or complicity,
+    though one is pardoned for previous campaign service; illicit proceeds are confiscated.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Imperial journeys and returns
+  summary: The Empress visits Yoshino multiple times, goes to the Fujihara palace
+    site, and visits Tamu no Mine before returning to the palace.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:8
+  - ev:12
+- id: scene:5
+  label: Buddhist congregation and release of prisoners
+  summary: A great-congregation is held on behalf of the Kiyomibara Emperor, followed
+    by the release of all prisoners.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:9
+- id: scene:6
+  label: Solar eclipse recorded
+  summary: The chronicle records an eclipse of the sun without giving an interpretation
+    in this passage.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:8
+- id: scene:7
+  label: Inspection and provisioning of arms
+  summary: An imperial decree orders inspections of arms kept in store and defines
+    required military equipment by rank.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:10
+- id: scene:8
+  label: Sutra exposition in the provinces
+  summary: The Jin-no Sutra is expounded in the hundred provinces over four days.
+  figure_refs: []
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:11
+- id: scene:9
+  label: Diplomatic and funerary gifts
+  summary: The court makes a funeral-expense present for the King of Silla and later
+    gives presents to Tamna dignitaries.
+  figure_refs:
+  - fig:5
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: state-sponsored prayer for rain
+  taxonomy_refs: []
+  basis: Officials are repeatedly sent to shrines and named deities to pray for rain.
+  evidence_refs:
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage records ritual action but does not narrate a resulting rainfall
+    or divine response.
+- id: motif:2
+  label: imperial ruler as organizer of ritual and social order
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Empress issues decrees, sends envoys for prayer, sponsors or is associated
+    with public religious gatherings, travels to palace and mountain sites, and orders
+    arms inspections.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:8
+  - ev:10
+  confidence: medium
+  cautions: The annalistic passage implies imperial authority but does not explicitly
+    make a mythic legitimacy claim.
+- id: motif:3
+  label: religious assembly linked with amnesty
+  taxonomy_refs: []
+  basis: A public great-congregation held on behalf of the Kiyomibara Emperor is followed
+    by release of all prisoners.
+  evidence_refs:
+  - ev:9
+  confidence: high
+  cautions: The passage does not explain the doctrinal or ritual rationale for the
+    prisoner release.
+- id: motif:4
+  label: celestial event recorded in royal annals
+  taxonomy_refs: []
+  basis: The text records a solar eclipse among court and ritual events.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: No omen interpretation or consequence is given in the passage.
+- id: motif:5
+  label: courtly gift-giving to foreign rulers and dignitaries
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The court makes a funeral-expense present for the King of Silla and gives
+    presents to Tamna dignitaries.
+  evidence_refs:
+  - ev:1
+  - ev:12
+  confidence: low
+  cautions: The gifts are diplomatic or funerary in the passage; a sacred or mythic
+    exchange function is not explicit.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 23310-23312
+  quote_or_summary: A present is made for funeral expenses of the King of Silla.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 23313-23316
+  quote_or_summary: An imperial decree encourages cultivation of mulberry, hemp, pears,
+    chestnuts, and greens as auxiliaries to the five grains.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 23318-23322
+  quote_or_summary: Daibu are sent as envoys to shrines to pray for rain, and envoys
+    are sent to the Great Abstinence Deity of Hirose and Wind-gods of Tatsuta.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 23323-23337
+  quote_or_summary: Ohotomo no Wobito, clerks, and an auditor are punished for dishonest
+    practices or complicity; Oisome no Ohoku is pardoned for campaign service, and
+    proceeds are confiscated.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 23339-23346
+  quote_or_summary: The Empress visits and returns from Yoshino; a public Buddhist
+    great-congregation is held within the inner precinct.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 23348-23355
+  quote_or_summary: The Koryé priest Pok-ka is restored to the laity, and ranks are
+    bestowed on seven named persons.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 23357-23367
+  quote_or_summary: In the seventh month the Empress visits Yoshino; envoys pray to
+    the Great Abstinence Deity and Wind-gods, and Daibu are sent twice to shrines
+    to pray for rain.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 23369-23382
+  quote_or_summary: The Empress goes to the Fujihara palace site, visits Yoshino,
+    returns, a solar eclipse is recorded, and she visits Tamu no Mine and returns.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 23383-23385
+  quote_or_summary: A public great-congregation is held on behalf of the Kiyomibara
+    Emperor, and all prisoners are released.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 23391-23402
+  quote_or_summary: A decree orders inspections of stored arms and specifies required
+    armour, weapons, arrows, elbow-pads, and saddle-horses by rank.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: lines 23404-23406
+  quote_or_summary: The Jin-no Sutra is begun to be expounded in the hundred provinces
+    and ends after four days.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:12
+  type: summary
+  locator: lines 23408-23414
+  quote_or_summary: The Empress goes to Yoshino; presents are given to the Prince
+    and Prime Minister of Tamna; the imperial car returns to the palace.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is annalistic and supplies clear actions and named figures. Motif
+    assignments are cautious because many events are administrative or ritual records
+    without explicit mythic interpretation. No comparison claims were made because
+    the passage itself does not support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage and metadata. Footnote material was not treated as an independent mythic passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l23307-l23424
+  passage_sha256=25d49af9dc0e1f415397a3e0b3806c1ad959553d706e27ddf2a9616ae952232a
+

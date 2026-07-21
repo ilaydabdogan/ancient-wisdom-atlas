@@ -1,0 +1,308 @@
+---
+record_id: batch.motif.polynesian-tongan-myths-and-tales-gifford-archive-l4600-l4621
+source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+passage_locator:
+  label: TALES ABOUT THE ORIGIN OF GEOGRAPHIC / FEATURES / THE ORIGIN OF ISLANDS /
+    THE ORIGIN OE TANOA ISLAND 71; lines 4600-4621
+  start: '4600'
+  end: '4621'
+  translation: Tongan Myths and Tales
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A tale explains that the little island of Tanoa was once in the middle
+    of Nomuka lagoon. The god Haelefeke, from the Otutolu islands, stole it and began
+    carrying it away. Near Fonoifua, Tafakula produced an eastern light from his anus;
+    Haelefeke mistook it for sunrise, dropped the island, and fled, leaving Tanoa
+    beside Fonoifua.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The story concerns the little island of Tanoa, formerly situated in the middle
+    of the lagoon of Nomuka.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Haelefeke is identified as a god from the Otutolu islands, where he lived.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Haelefeke came and stole Tanoa from the middle of the lagoon and began taking
+    it toward Otutolu.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:4
+  text: When Haelefeke was opposite Fonoifua island, Tafakula turned his anus toward
+    the direction from which the sun rises.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Haelefeke saw light from Tafakula’s anus in the east and thought the sun was
+    rising.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Haelefeke dropped the island and ran away.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The tale gives this event as the reason Tanoa stands beside Fonoifua.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage notes that another version of the tale appears elsewhere in the
+    same work.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Haelefeke
+  description: A god from the Otutolu islands who steals Tanoa island, mistakes an
+    eastern light for sunrise, drops the island, and runs away.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Tafakula
+  description: A figure who turns his anus toward the sunrise direction, producing
+    a light that Haelefeke mistakes for sunrise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: god island-taker
+  assigned_to:
+  - fig:1
+  basis: Haelefeke is called a god and is said to have stolen Tanoa from the lagoon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: misled carrier and dropper of the island
+  assigned_to:
+  - fig:1
+  basis: Haelefeke sees the eastern light, thinks the sun is rising, drops the island,
+    and runs away.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: producer of misleading eastern light
+  assigned_to:
+  - fig:2
+  basis: Tafakula turns his anus toward the sunrise direction; Haelefeke sees the
+    resulting light in the east and mistakes it for sunrise.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Tanoa island
+  literal_form: The little island of Tanoa, formerly in the middle of Nomuka lagoon
+    and later beside Fonoifua.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: Nomuka lagoon
+  literal_form: The lagoon of Nomuka, from whose middle Tanoa is stolen.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: eastern light mistaken for sunrise
+  literal_form: Light from Tafakula’s anus in the east, interpreted by Haelefeke as
+    the rising sun.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Fonoifua island
+  literal_form: The island near which Haelefeke drops Tanoa; Tanoa is said to stand
+    beside it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tanoa stolen from Nomuka lagoon
+  summary: The story introduces Tanoa in the middle of Nomuka lagoon and says Haelefeke,
+    a god from Otutolu, comes and steals it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Misleading eastern light near Fonoifua
+  summary: As Haelefeke carries Tanoa near Fonoifua, Tafakula produces an eastern
+    light from his anus; Haelefeke mistakes it for sunrise.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tanoa left beside Fonoifua
+  summary: Haelefeke drops the island and runs away, explaining why Tanoa stands beside
+    Fonoifua.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: origin of an island’s present location through relocation
+  taxonomy_refs: []
+  basis: The tale explains Tanoa’s current position beside Fonoifua by recounting
+    its removal from Nomuka lagoon and its being dropped near Fonoifua.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names etiological geography or island
+    relocation.
+- id: motif:2
+  label: theft of a landform by a god
+  taxonomy_refs:
+  - sacred_theft
+  basis: A god named Haelefeke is explicitly said to steal Tanoa island from the middle
+    of the lagoon.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage describes theft by a god
+    but does not frame the island as ritually sacred.
+- id: motif:3
+  label: false dawn or deceptive eastern light causes abandonment
+  taxonomy_refs: []
+  basis: Haelefeke mistakes light from Tafakula’s anus in the east for sunrise and
+    responds by dropping the island and fleeing.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the mistaken perception and result, but does not explicitly
+    explain why sunrise would force Haelefeke to abandon the island.
+- id: motif:4
+  label: bodily source of extraordinary light
+  taxonomy_refs: []
+  basis: The light that misleads Haelefeke comes from Tafakula’s anus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a literal image in the passage; its broader symbolic meaning is
+    not stated.
+comparison_claims:
+- id: claim:1
+  claim: At a broad motif-family level, the passage fits a sacred-theft pattern because
+    a named god steals an island.
+  claim_level: same_motif
+  target: sacred_theft motif family
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports divine theft, but it does not explicitly call
+    the island sacred or provide ritual context.
+- id: claim:2
+  claim: The passage itself identifies another version of the same Tanoa island tale
+    elsewhere in the work.
+  claim_level: same_motif
+  target: another version of this tale on pages 86 and 87 of the same source
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The compared version is only referenced, not included in the supplied
+    passage, so no motif-level differences can be assessed here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4600-4607
+  quote_or_summary: The story is about Tanoa, formerly in the middle of Nomuka lagoon;
+    Haelefeke, a god from the Otutolu islands, came and stole it from the lagoon.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4608-4613
+  quote_or_summary: Haelefeke began taking the island to Otutolu. Opposite Fonoifua,
+    Tafakula turned his anus toward the sunrise direction; Haelefeke saw the eastern
+    light, thought the sun was rising, dropped the island, and ran away.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4613-4614
+  quote_or_summary: The tale states that this is why Tanoa stands beside Fonoifua.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: line 4616
+  quote_or_summary: The passage refers readers to another version of the tale on pages
+    86 and 87.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: citation
+  locator: lines 4620-4621
+  quote_or_summary: 'Collector note: told by John Hafoka of Nomuka island, Haapai.'
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized citation note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the supplied taxonomy has no direct category for etiological geographic-origin
+    tales or island relocation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Footnote citation evidence was recorded but not used for motif interpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:polynesian-tongan-myths-and-tales-gifford-archive__l4600-l4621
+  passage_sha256=beef2fa419bcc1c51ee47951bc44427432026570264db9581335b79528cd616c
+

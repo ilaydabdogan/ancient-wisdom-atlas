@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.native-american-traditions-caddo-dorsey-archive-l2106-l2156
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+passage_locator:
+  label: MBDICINB'SCRBBCH-OWL. 4 1 / TRADITIONS OF THR CADDO. / MBDICINB-SCRBBCH-OWL.
+    43 / TRADITIONS OF THE CADDO,; lines 2106-2156
+  start: '2106'
+  end: '2156'
+  translation: Traditions of the Caddo
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Medicine-Screech-Owl, described as a boy, asks to fish and repeatedly catches
+    large fish. Some people fear him because his father is unknown and enlist a Medicine-Man
+    to kill him. The Medicine-Man sends Thunder and later a Cannibal monster, but
+    the boy withstands the lightning and kills the monster. He then travels, kills
+    monsters and ferocious animals, heals the sick, announces he will leave, and disappears.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A lake near the village is used by men for fishing, and children go there
+    to watch.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Medicine-Screech-Owl asks his mother for permission to fish, takes his little
+    bow and arrows, and repeatedly returns with a big fish.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many people dislike and fear the boy because they do not know who his father
+    is, and they ask a powerful Medicine-Man to kill him.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While fishing at the lake, the boy sees a big black cloud reflected in the
+    water and understands that the Medicine-Man is sending Thunder to kill him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Lightning strikes at the boy, and he raises his bow so that the lightning
+    rolls from it into the water; repeated lightning shafts are caught on the bow
+    and hurled into the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Medicine-Man gives up after realizing that the boy has more power over
+    Thunder than he has.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In his lodge, the boy senses that something will happen, takes his bow and
+    arrows, lies down, and sings.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Medicine-Man sends a Cannibal monster to destroy the boy; the monster
+    roars like thunder, has hot breath, leaps upon the lodge, falls through, and is
+    killed by the boy.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Medicine-Screech-Owl travels from place to place, killing monsters and ferocious
+    animals and healing the sick.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Where Medicine-Screech-Owl is, death cannot come, and people are healed when
+    he places his hand on the diseased place.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: After a long time with the people, Medicine-Screech-Owl calls them together,
+    says he is going to leave, disappears, and is not seen again.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Medicine-Screech-Owl
+  description: A boy who fishes successfully, withstands Thunder, kills a Cannibal
+    monster, travels killing monsters and ferocious animals, heals the sick, and finally
+    disappears.
+  role_refs:
+  - role:1
+  - role:2
+  - role:8
+  - role:10
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Medicine-Screech-Owl's mother
+  description: The boy's mother, who first laughs that he is too little to fish but
+    eventually gives permission.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: many people / the people
+  description: People in the village who fear the boy and ask the Medicine-Man to
+    kill him; later Medicine-Screech-Owl calls the people together before leaving.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:4
+  name_or_label: powerful Medicine-Man
+  description: A powerful Medicine-Man among the people who is asked to use his powers
+    against the boy and who sends Thunder and a Cannibal monster.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Thunder
+  description: A power or being sent by the Medicine-Man to try to kill the boy, associated
+    in the episode with thunder and lightning shafts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Cannibal monster
+  description: A monster sent to destroy the boy; it roars like thunder, has hot breath,
+    leaps upon the lodge, falls through, and is killed.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: monsters and ferocious animals
+  description: Opponents killed by Medicine-Screech-Owl during his travels from place
+    to place.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: the sick
+  description: People healed by Medicine-Screech-Owl, especially when he places his
+    hand on the diseased place.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: young successful fisherman
+  assigned_to:
+  - fig:1
+  basis: He is called too little to fish but repeatedly returns with a big fish.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: feared boy of unknown father
+  assigned_to:
+  - fig:1
+  basis: Many people dislike and fear him because they do not know who his father
+    is.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mother who grants permission
+  assigned_to:
+  - fig:2
+  basis: She initially laughs at the request to fish but finally allows him to go
+    and later gives consent for another day.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: hostile community members
+  assigned_to:
+  - fig:3
+  basis: Many people decide to kill the boy and ask the Medicine-Man to act against
+    him.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: ritual antagonist
+  assigned_to:
+  - fig:4
+  basis: The Medicine-Man is asked to use his powers against the boy and sends Thunder
+    and the Cannibal monster.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: sent destructive power
+  assigned_to:
+  - fig:5
+  basis: Thunder is sent by the Medicine-Man to try to kill the boy.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: attacking monster
+  assigned_to:
+  - fig:6
+  basis: The Cannibal monster is sent to destroy the boy and attacks his lodge before
+    being killed.
+  evidence_refs:
+  - ev:4
+- id: role:8
+  label: monster-killer and healer
+  assigned_to:
+  - fig:1
+  basis: Medicine-Screech-Owl travels killing monsters and ferocious animals and healing
+    the sick.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: travel adversaries
+  assigned_to:
+  - fig:7
+  basis: The monsters and ferocious animals are killed during Medicine-Screech-Owl's
+    travels.
+  evidence_refs:
+  - ev:5
+- id: role:10
+  label: departing figure
+  assigned_to:
+  - fig:1
+  basis: He announces that he will leave, disappears, and is not seen again.
+  evidence_refs:
+  - ev:6
+- id: role:11
+  label: healing recipients
+  assigned_to:
+  - fig:8
+  basis: The sick are healed by Medicine-Screech-Owl's touch.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: lake and water
+  literal_form: The village lake, the water reflecting the black cloud, and the water
+    into which lightning is hurled.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: little bow and arrows
+  literal_form: Medicine-Screech-Owl's little bow and arrows, used when he goes fishing
+    and raised against lightning.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: big fish
+  literal_form: The big fish repeatedly brought home by the boy.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: black cloud, thunder, and lightning
+  literal_form: A big black cloud reflected in the water, thunder, and shafts of lightning
+    sent against the boy.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lodge and song
+  literal_form: The lodge where the boy lies down and sings before the Cannibal monster
+    attacks.
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: healing hand or touch
+  literal_form: Medicine-Screech-Owl's hand placed on a diseased place, by which people
+    are healed.
+  associated_figures:
+  - fig:1
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fishing at the village lake
+  summary: Medicine-Screech-Owl asks to fish, is allowed by his mother, takes his
+    little bow and arrows, and repeatedly returns with a big fish, gaining fame in
+    the village.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fearful people enlist the Medicine-Man
+  summary: Many people dislike and fear the boy because his father is unknown, decide
+    to kill him, and ask a powerful Medicine-Man to use his powers against him.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thunder attack at the lake
+  summary: At the lake, the boy sees a black cloud reflected in the water, recognizes
+    that Thunder has been sent against him, enters the water, and deflects lightning
+    with his bow into the water until the Medicine-Man gives up.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Cannibal monster attacks the lodge
+  summary: The boy senses danger, lies in his lodge singing with his bow and arrows,
+    waits while the Cannibal monster approaches and crashes through the lodge, then
+    kills it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Travels as monster-killer and healer
+  summary: Medicine-Screech-Owl travels from place to place, kills monsters and ferocious
+    animals, heals the sick, and prevents death from coming where he is.
+  figure_refs:
+  - fig:1
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Departure and disappearance
+  summary: After a long time with the people, Medicine-Screech-Owl calls them together,
+    says he will leave, disappears, and is not seen again.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: extraordinary child proves power through fishing and survival
+  taxonomy_refs:
+  - miraculous_child
+  basis: The boy is considered too little to fish but repeatedly catches big fish
+    and later survives attacks by Thunder and a Cannibal monster.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not include a birth account or explicitly supernatural
+    parentage; the unknown father is mentioned only as a reason others fear him.
+- id: motif:2
+  label: powerful child targeted by fearful community and ritual specialist
+  taxonomy_refs: []
+  basis: People fear the boy, decide to kill him, and ask a Medicine-Man to use powers
+    against him; the Medicine-Man sends Thunder and a Cannibal monster.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this episode-level pattern.
+- id: motif:3
+  label: lightning attack deflected into water by bow
+  taxonomy_refs: []
+  basis: Lightning shafts repeatedly strike at the boy, who catches them on his bow
+    and hurls them into the water.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a literal episode pattern in the passage; no available taxonomy
+    reference for thunder or lightning is supplied.
+- id: motif:4
+  label: monster-slaying healer benefactor
+  taxonomy_refs:
+  - culture_hero
+  basis: Medicine-Screech-Owl kills a Cannibal monster, travels killing monsters and
+    ferocious animals, heals the sick, and prevents death from coming where he is.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage segment does not describe broader acts of social institution-building;
+    the culture-hero classification rests on monster-slaying and healing benefaction.
+- id: motif:5
+  label: healing touch and absence of death
+  taxonomy_refs: []
+  basis: The passage states that death could not come where he was and that people
+    were healed when he placed his hand on the diseased place.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The healing power is stated briefly, without ritual details or explanation.
+- id: motif:6
+  label: benefactor announces departure and disappears
+  taxonomy_refs:
+  - departure
+  basis: After being with the people for a long time, he calls them together, says
+    he is going to leave, disappears, and is not seen again.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The destination, reason for leaving, and manner of disappearance are not
+    given in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2108-2118
+  quote_or_summary: A lake near the village is used for fishing; Medicine-Screech-Owl
+    asks his mother to fish, takes his little bow and arrows, repeatedly returns with
+    a big fish, and gains fame as a fisherman.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 2120-2124
+  quote_or_summary: Many people dislike and fear the boy because they do not know
+    who his father is; they decide to kill him and ask a powerful Medicine-Man to
+    use his powers against him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 2126-2136
+  quote_or_summary: At the lake, the boy sees a big black cloud reflected in the water,
+    understands that the Medicine-Man is sending Thunder, walks into the water, catches
+    lightning on his bow, hurls it into the water, and the Medicine-Man gives up after
+    recognizing the boy's greater power over Thunder.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 2138-2147
+  quote_or_summary: In his lodge, the boy senses danger, takes his bow and arrows,
+    lies down singing, recognizes that the Medicine-Man is sending a Cannibal monster,
+    waits as it approaches with thunder-like roar and hot breath, and kills it after
+    it crashes through the lodge.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 2149-2153
+  quote_or_summary: Medicine-Screech-Owl went from place to place, "killing monsters
+    and ferocious animals and healing the sick"; "Where he was, death could not come,"
+    and people were healed by his hand on the diseased place.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: 2153-2155
+  quote_or_summary: After a long time with the people, Medicine-Screech-Owl calls
+    them together, says he is going to leave, disappears, and has not been seen since.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif candidates are conservative
+    and limited to passage evidence and supplied taxonomy references; no cross-text
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied passage were not normalized except in concise summaries and labels.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-caddo-dorsey-archive__l2106-l2156
+  passage_sha256=7806365f52e8b5d46f82f75079a17e67c06374612b5880667a0be7977313d672
+

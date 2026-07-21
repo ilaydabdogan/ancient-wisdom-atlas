@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4254-l4273
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER VII, I I -VIII, 2. 29 / Chapter VIII. / Chapter IX. / CHAPTER VIII,
+    3-X, I. 31; lines 4254-4273
+  start: '4254'
+  end: '4273'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An angel prepares plants with water, Tii-tar makes the water rain over
+    the whole earth, plants grow everywhere, special plant kinds counter diseases
+    produced by the evil spirit, and two trees connected with plant germs and world
+    perfection arise in the wideformed ocean.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An angel, associated with vegetation, pounds plants small and mixes them with
+    water.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tii-tar seizes the water and makes it rain down upon the whole earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Plants grow over the whole earth like hair on human heads.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ten thousand plant kinds are described as keeping away ten thousand disease
+    species produced by the evil spirit for creatures.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: From the ten thousand plant kinds, 100,000 species of plants grow forth.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: From the same germ of plants, the tree of all germs grows in the wideformed
+    ocean, and the germs of all species of plants increase from it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Near the tree of all germs, the Gokar tree is produced to keep away deformed
+    decrepitude, and the full perfection of the world arises from it.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: angel
+  description: A being described as having vegetation as his own; he pounds plants
+    and mixes them with water.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tii-tar
+  description: A named figure who seizes water and makes it rain upon the whole earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: evil spirit
+  description: A figure said to have produced disease species for creatures.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: vegetation possessor
+  assigned_to:
+  - fig:1
+  basis: The passage states that the vegetation was the angel's own.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: plant preparer
+  assigned_to:
+  - fig:1
+  basis: The angel pounds plants small and mixes them with water.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rain-maker
+  assigned_to:
+  - fig:2
+  basis: Tii-tar seizes the water and makes it rain down upon the whole earth.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: producer of diseases
+  assigned_to:
+  - fig:3
+  basis: The evil spirit is said to have produced ten thousand disease species for
+    creatures.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water sent as rain
+  literal_form: Water mixed with pounded plants, seized by Tii-tar, and rained down
+    upon the whole earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: plants and plant germs
+  literal_form: Plants pounded small, mixed with water, grown over the earth, and
+    multiplied into many species.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: tree of all germs
+  literal_form: A tree from the germ of plants, growing in the wideformed ocean, from
+    which germs of all plant species increase.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wideformed ocean
+  literal_form: The ocean in which the tree of all germs grows.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Gokar tree
+  literal_form: A tree produced near the tree of all germs, described as keeping away
+    deformed decrepitude and as the source from which full perfection of the world
+    arises.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Plant-water preparation and world rain
+  summary: The angel prepares plants with water, and Tii-tar makes that water rain
+    down upon the whole earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Worldwide plant growth and disease-countering species
+  summary: Plants grow everywhere on earth; specified plant kinds keep away diseases
+    produced by the evil spirit, and plant species multiply.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Trees of germs and perfection in the ocean
+  summary: The tree of all germs grows in the wideformed ocean, and the nearby Gokar
+    tree is produced against decrepitude and linked to the world's full perfection.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Rain disperses plant life over the whole earth
+  taxonomy_refs: []
+  basis: Plant material mixed with water is rained upon the whole earth, after which
+    plants grow everywhere.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe a seasonal cycle explicitly.
+- id: motif:2
+  label: Protective plants counter diseases made by an evil being
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts disease species produced by the evil spirit with plant
+    kinds that keep those diseases away.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The broader dualistic theology is not supplied in this excerpt; the motif
+    is inferred only from the opposition stated here.
+- id: motif:3
+  label: All-plant germ tree in a cosmic ocean
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: A tree of all germs grows in the wideformed ocean and serves as the source
+    from which germs of all plant species increase.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a sacred or cosmic tree-like source, but does not
+    explicitly call it an axis or world center.
+- id: motif:4
+  label: Anti-decrepitude tree linked to world perfection
+  taxonomy_refs: []
+  basis: The Gokar tree is produced to keep away deformed decrepitude, and the full
+    perfection of the world arises from it.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the mechanism of perfection or connect it
+    explicitly to a named resurrection or renewal motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4254-4258
+  quote_or_summary: The angel pounds plants small and mixes them with water; Tii-tar
+    seizes that water and makes it rain upon the whole earth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary only.
+- id: ev:2
+  type: quote
+  locator: 4258-4260
+  quote_or_summary: '"On the whole earth plants grew up like hair upon the heads of
+    men."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 4260-4265
+  quote_or_summary: Ten thousand plant kinds keep away ten thousand disease species
+    produced by the evil spirit, and from those plant kinds 100,000 plant species
+    grow forth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary only.
+- id: ev:4
+  type: summary
+  locator: 4267-4270
+  quote_or_summary: From the same germ of plants, the tree of all germs grows in the
+    wideformed ocean, and all plant-species germs increase from it.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary only.
+- id: ev:5
+  type: summary
+  locator: 4270-4273
+  quote_or_summary: Near the tree of all germs, the Gokar tree is produced to keep
+    away deformed decrepitude; the world's full perfection arises from it.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal entities and actions are clear in the excerpt. Motif labels involving
+    sacred-tree or duality taxonomy require review because the excerpt is brief and
+    does not supply the wider doctrinal context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage and metadata; taxonomy references limited to supplied motif families and symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4254-l4273
+  passage_sha256=710230c7ccce360220323fecc0eb32360ee5525f37518b265968db7a45d241e1
+

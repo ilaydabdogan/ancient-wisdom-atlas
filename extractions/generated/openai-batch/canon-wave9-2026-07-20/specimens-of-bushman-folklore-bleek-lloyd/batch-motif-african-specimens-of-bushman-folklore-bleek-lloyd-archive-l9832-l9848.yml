@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l9832-l9848
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: WHARA AND TTO. / HOW TTO IS OBTAINED. / HOW TTO IS OBTAINED. / DEATH.; lines
+    9832-9848
+  start: '9832'
+  end: '9848'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: they throw up earth (into the air)
+  summary: In a passage headed “Death,” unnamed people become tired and stagger along.
+    As their fatigue passes and they become cool after being hot and perspiring, they
+    feel they may not reach home. They sit down and throw earth into the air so that
+    the people at home may see the dust.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Death.”
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Unnamed people are tired and go staggering along from fatigue.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Their fatigue goes out, and they become cool after previously being hot and
+    perspiring.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: They do not feel as if they will reach home, so they sit down.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: They throw earth into the air for the people at home, wishing that the people
+    at home may perceive the dust.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed tired people
+  description: A group referred to as “they,” tired, staggering, cooling, and uncertain
+    of reaching home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: people at home
+  description: People at home whom the tired group wishes to perceive the dust.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: fatigued travelers or returners
+  assigned_to:
+  - fig:1
+  basis: They go along staggering from fatigue and do not feel as if they will reach
+    home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: intended observers of dust signal
+  assigned_to:
+  - fig:2
+  basis: The tired group throws earth into the air and wishes that the people at home
+    may perceive the dust.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: earth thrown into the air
+  literal_form: earth
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: dust perceived from home
+  literal_form: dust
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: fatigue, failed progress, and dust signal
+  summary: The unnamed group staggers with fatigue, becomes cool after heat and perspiration,
+    doubts reaching home, sits down, and throws earth upward so people at home may
+    see the dust.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: distress or location signal made by raising dust
+  taxonomy_refs: []
+  basis: The group throws earth into the air with the stated wish that people at home
+    may perceive the dust.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the action and intention but does not explain whether
+    the dust is a formal signal, ritual act, or practical attempt to be noticed.
+- id: motif:2
+  label: exhausted attempt to reach home
+  taxonomy_refs:
+  - return
+  basis: The group staggers from fatigue and does not feel as if it will reach home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: low
+  cautions: The available lines are fragmentary and do not show whether a return-journey
+    motif is developed beyond the immediate situation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 9832-9834
+  quote_or_summary: 'Passage heading “DEATH.” with collection note: given in January
+    1876 in the Katkop dialect by Dialkwain.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; short citation used.
+- id: ev:2
+  type: summary
+  locator: lines 9835-9841
+  quote_or_summary: When tired, the unnamed people stagger along; fatigue goes out,
+    and they become cool after previously being hot and still perspiring.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9842-9844
+  quote_or_summary: They stagger while not feeling as if they should reach home; therefore,
+    they sit down.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9844-9848
+  quote_or_summary: They “throw up earth (into the air)” for the people at home, wishing
+    that the people at home “may perceive the dust.”
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The literal sequence is clear enough, but the passage appears fragmentary
+    and gives little context for the heading “Death” or the larger narrative function
+    of the dust-raising action.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another text or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l9832-l9848
+  passage_sha256=2bbf403887d10bfd4ada44d56b0728606c55c94591c1c909d7c8db9bf3420dd4
+

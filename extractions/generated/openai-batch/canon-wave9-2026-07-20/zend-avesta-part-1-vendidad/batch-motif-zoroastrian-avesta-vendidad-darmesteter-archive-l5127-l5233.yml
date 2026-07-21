@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l5127-l5233
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: GREEK. / MODERN NAME. / FARGARD I. / FARGARD I.; lines 5127-5233
+  start: '5127'
+  end: '5233'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists several good lands and countries created by Ahura Mazda
+    and pairs each with a harmful counter-creation made by Angra Mainyu: a serpent
+    in the river and winter in Airyana Vaejo, a cattle-killing fly in Sughdha, sinful
+    lusts in Mouru, the Bravara in Bakhdhi, and unbelief in Nisaya. The winter of
+    Airyana Vaejo is described as long, cold, and plague-ridden.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Ahura Mazda is the first-person speaker who says he created Airyana Vaejo
+    by the good river Daitya.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Angra Mainyu is described as all death and as counter-creating, by witchcraft,
+    the serpent in the river and winter.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Winter in Airyana Vaejo is described as lasting ten months, with two summer
+    months, and as cold for waters, earth, and trees.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Winter is said to fall there with the worst of its plagues.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ahura Mazda created the plains in Sughdha, and Angra Mainyu counter-created
+    the fly Skaitya, which brings death to cattle.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ahura Mazda created strong, holy Mouru, and Angra Mainyu counter-created sinful
+    lusts.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Ahura Mazda created beautiful Bakhdhi with high-lifted banners, and Angra
+    Mainyu counter-created the Bravara.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A translator note glosses Bravara as corn-carrying ants.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Ahura Mazda created Nisaya between Mouru and Bakhdhi, and Angra Mainyu counter-created
+    the sin of unbelief.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: A translator note says the serpent in the river was originally the mythical
+    Serpent Az'is, associated with the killing of Yima, and later identified with
+    snakes near the Araxes.
+  category: other
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The speaking creator of the good lands and countries.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: Angra Mainyu
+  description: Described as all death; he counter-creates harmful beings, conditions,
+    and sins by witchcraft.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:3
+  name_or_label: Daevas
+  description: Winter is called a work of the Daevas.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Serpent in the river
+  description: A serpent in the river, counter-created by Angra Mainyu.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: fig:5
+  name_or_label: Fly Skaitya
+  description: A fly counter-created by Angra Mainyu that brings death to cattle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Cattle
+  description: Animals to which the fly Skaitya brings death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Bravara
+  description: A counter-creation of Angra Mainyu; a note glosses it as corn-carrying
+    ants.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: creator of good lands
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda repeatedly states that he created the good lands and countries
+    named in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:2
+  label: deathly counter-creator
+  assigned_to:
+  - fig:2
+  basis: Angra Mainyu is called all death and repeatedly counter-creates harmful things
+    by witchcraft.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: harmful counter-created being
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  basis: The serpent, Skaitya fly, and Bravara are each presented as counter-creations
+    made by Angra Mainyu.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:4
+  label: demonic associated beings
+  assigned_to:
+  - fig:3
+  basis: Winter is described as a work of the Daevas.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: affected domestic animals
+  assigned_to:
+  - fig:6
+  basis: The fly Skaitya is said to bring death to cattle.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: good river / waters
+  literal_form: The good river Daitya and the waters made cold by winter.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: serpent in the river
+  literal_form: A serpent placed in the river as Angra Mainyu's counter-creation.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: winter plague
+  literal_form: A long winter with cold waters, earth, and trees, and the worst of
+    its plagues.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: cattle-killing fly
+  literal_form: The fly Skaitya, which brings death to cattle.
+  associated_figures:
+  - fig:2
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Airyana Vaejo and its counter-creations
+  summary: Ahura Mazda creates Airyana Vaejo by the good river Daitya; Angra Mainyu
+    counter-creates the serpent in the river and winter, which is described as long
+    and plague-ridden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Sughdha and the death-bringing fly
+  summary: Ahura Mazda creates the plains in Sughdha, and Angra Mainyu counter-creates
+    the fly Skaitya, which brings death to cattle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Mouru and sinful lusts
+  summary: Ahura Mazda creates strong, holy Mouru, and Angra Mainyu counter-creates
+    sinful lusts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Bakhdhi and the Bravara
+  summary: Ahura Mazda creates beautiful Bakhdhi with high-lifted banners, and Angra
+    Mainyu counter-creates the Bravara.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: Nisaya and unbelief
+  summary: Ahura Mazda creates Nisaya between Mouru and Bakhdhi, and Angra Mainyu
+    counter-creates the sin of unbelief.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: creation opposed by counter-creation
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly pairs Ahura Mazda's creation of a good land with Angra
+    Mainyu's harmful counter-creation by witchcraft.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The passage gives a formulaic sequence of opposed acts; broader theological
+    interpretation should be reviewed by a specialist.
+- id: motif:2
+  label: death-bringing hostile serpent in water
+  taxonomy_refs:
+  - serpent
+  basis: Angra Mainyu counter-creates a serpent in the river, and a note connects
+    it with the mythical Serpent Az'is.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: medium
+  cautions: The Az'is identification comes from a translator note rather than the
+    translated Vendidad sentence itself.
+- id: motif:3
+  label: harmful beings and plagues as anti-cosmic intrusions
+  taxonomy_refs:
+  - chaos
+  basis: Angra Mainyu's counter-creations include winter plague, a cattle-killing
+    fly, sinful lusts, Bravara, and unbelief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The taxonomy label 'chaos' is a broad comparative category; the passage
+    itself uses the language of counter-creation rather than the term chaos.
+comparison_claims:
+- id: claim:1
+  claim: The translator note identifies the serpent in the river with the mythical
+    Serpent Az'is in Iranian tradition, associated there with the killing of Yima.
+  claim_level: same_motif
+  target: Serpent Az'is / Yima tradition as cited in the translator note
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs:
+  - ev:2
+  confidence: low
+  limitations: This claim rests on the editorial note, not on the translated Vendidad
+    sentence alone; the excerpt does not provide the full Az'is-Yima narrative.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5127-5131; Fargard I.3
+  quote_or_summary: Ahura Mazda says he created Airyana Vaejo by the good river Daitya.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5132-5136; Fargard I.3
+  quote_or_summary: Angra Mainyu, described as all death, counter-created by witchcraft
+    the serpent in the river and winter, a work of the Daevas.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5137-5141; Fargard I.4 (9)
+  quote_or_summary: The land has ten winter months and two summer months; the cold
+    affects waters, earth, and trees, and winter brings severe plagues.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5143-5180; Fargard I.5 (13)
+  quote_or_summary: Ahura Mazda created the plains in Sughdha; Angra Mainyu counter-created
+    the fly Skaitya, which brings death to cattle.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5182-5190; Fargard I.6 (17)
+  quote_or_summary: Ahura Mazda created strong, holy Mouru; Angra Mainyu counter-created
+    sinful lusts.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5192-5200; Fargard I.7 (21)
+  quote_or_summary: Ahura Mazda created beautiful Bakhdhi with high-lifted banners;
+    Angra Mainyu counter-created the Bravara.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: translator note to Fargard I.7 (21)
+  quote_or_summary: The note glosses Bravara as corn-carrying ants.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized translator note.
+- id: ev:8
+  type: summary
+  locator: lines 5202-5233; Fargard I.8 (25)
+  quote_or_summary: Ahura Mazda created Nisaya between Mouru and Bakhdhi; Angra Mainyu
+    counter-created the sin of unbelief.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: translator note to Fargard I.3
+  quote_or_summary: The note states that the river serpent was originally the mythical
+    Serpent Az'is, who overthrew and killed Yima, and was later identified with snakes
+    near the Araxes.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized translator note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: Literal extraction is strong for the repeated creation/counter-creation pattern.
+    Motif labels and the comparison to Az'is need human review because they rely partly
+    on broad taxonomy terms and translator notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Editorial footnotes were treated as notes rather than as primary narrative content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l5127-l5233
+  passage_sha256=cabc6bddb37192f028868a8dc2395a70240b6bebe4271ee0f95e0293a17bcd7f
+

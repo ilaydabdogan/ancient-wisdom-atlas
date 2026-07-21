@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l11021-l11044
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: SELECTIONS OF ZAD-SPARAM, IX, 3- 10. I 79 / Chapter X. / SELECTIONS OF ZA25-SPARAM,
+    IX, 20-X, 5. 1 83 / Chapter XI.; lines 11021-11044
+  start: '11021'
+  end: '11044'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: As he (Aharman) came seventhly to fire, which was all together against him,
+    the fire separated into five kinds
+  summary: Aharman comes to fire, which opposes him and separates into five named
+    kinds. The Propitious fire is located in heaven and manifested in earthly burning
+    fire. The Good diffuser is located in men and animals and is associated with digestion
+    and sleep.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Aharman comes seventhly to fire, and the fire is described as all together
+    against him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The fire separates into five kinds with named forms: Propitious, Good diffuser,
+    Aurvazti-t, Vazii''t, and a fifth name printed in a corrupted form beginning with
+    “Supremely-”.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Propitious fire is produced in heaven, and its manifestation is in the
+    fire burning on earth.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Propitious fire is described as propitious because all the kinds are of
+    its nature.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Good diffuser is in men and animals and is associated with digestion of
+    food and sleep.
+  category: attribute
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Aharman
+  description: The figure who comes seventhly to fire.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: being opposed by fire
+  assigned_to:
+  - fig:1
+  basis: The passage says the fire was all together against Aharman when he came to
+    it.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire that opposes Aharman, separates into five kinds, has a heavenly
+    Propitious form and an earthly burning manifestation, and includes a bodily Good
+    diffuser form.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: five kinds of fire
+  literal_form: 'The five named kinds of fire: Propitious, Good diffuser, Aurvazti-t,
+    Vazii''t, and a corrupted fifth “Supremely-” form.'
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Aharman encounters opposing fire
+  summary: Aharman comes to fire; the fire is against him and separates into five
+    kinds.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Heavenly and earthly Propitious fire
+  summary: The Propitious fire is said to be in heaven, to appear in earthly burning
+    fire, and to be the nature shared by all kinds of fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bodily Good diffuser fire
+  summary: The Good diffuser is identified as present in men and animals, where its
+    business includes digestion and sleep.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: opposition between Aharman and fire
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly describes fire as being altogether against Aharman
+    when he comes to it.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a brief cosmological statement rather than a developed
+    narrative conflict.
+- id: motif:2
+  label: fire differentiated into multiple sacred forms
+  taxonomy_refs: []
+  basis: The fire separates into five named kinds, and the passage describes functions
+    and locations for at least two of them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The fifth name is corrupted in the supplied text, and the excerpt ends
+    before the full account of the Good diffuser is complete.
+- id: motif:3
+  label: heavenly archetype and earthly manifestation of fire
+  taxonomy_refs: []
+  basis: The Propitious fire is produced in heaven, while its manifestation is identified
+    with fire burning on earth.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No broader comparative claim is made by the passage itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 11021-11026
+  quote_or_summary: "“As he (Aharman) came seventhly to fire, which was all together
+    against him, the fire separated into five kinds” and the five names are then listed."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11026-11030
+  quote_or_summary: The Propitious fire is produced in heaven; its manifestation is
+    the fire burning on earth; all the kinds are said to be of its nature.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: summary
+  locator: lines 11030-11033
+  quote_or_summary: The Good diffuser is said to be in men and animals, with business
+    consisting in digestion of food and sleep; the sentence is truncated in the supplied
+    excerpt.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied English passage. Motif labels
+    are conservative; the passage is short, contains OCR-corrupted names, and ends
+    mid-sentence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or imply a specific cross-textual comparison beyond its own cosmological classification of fire.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l11021-l11044
+  passage_sha256=27455d53acd7c8d07433c151ffd6c9ed4dbff8a529229289a89e5cd683faa9c7
+

@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l21764-l21791
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: CHARMS AGAINST ENEMIES. 407 / PRAYER-FLAGS. 409 / PRAYER AND LUCK-FLAGS.
+    411 / LUCK-FLAGS, 413; lines 21764-21791
+  start: '21764'
+  end: '21791'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: These luck-commanding or “ prayer-flags” are of four kinds
+  summary: The passage describes luck-commanding or prayer-flags obtainable from Lamas,
+    notes that a Lama is not necessarily required for planting the flag and its rites,
+    and begins describing the Lung-ta type as a small nearly square flag bearing a
+    horse with the mystic jewel Norbu on its back.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The flags are described as obtainable by purchase from Lamas.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Lama is said not to be necessarily needed for the actual planting of the
+    flag and its attendant rites.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The luck-commanding or prayer-flags are said to be of four kinds.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lung-ta proper is described as almost square and about four to six inches
+    long.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Lung-ta proper contains a central figure of a horse with the mystic jewel
+    Norbu on its back.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Lamas
+  description: Religious specialists from whom the flags may be purchased; not necessarily
+    required for planting the flag and its attendant rites.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: horse on Lung-ta flag
+  description: A horse figure shown in the centre of the Lung-ta proper with the mystic
+    jewel Norbu on its back.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: supplier of ritual object
+  assigned_to:
+  - fig:1
+  basis: The passage says the flags are obtainable on purchase from Lamas.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: central depicted animal
+  assigned_to:
+  - fig:2
+  basis: The passage says the Lung-ta contains the figure of a horse in the centre.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: luck-commanding prayer-flag
+  literal_form: flag
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Lung-ta proper
+  literal_form: almost square flag, about four to six inches long
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: horse bearing Norbu
+  literal_form: central horse figure with the mystic jewel Norbu on its back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mystic jewel Norbu
+  literal_form: jewel on the horse’s back
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Acquisition and planting of luck-commanding flags
+  summary: Luck-commanding prayer-flags may be purchased from Lamas, while the actual
+    planting of the flag and accompanying rites does not necessarily require a Lama.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of the Lung-ta proper
+  summary: One kind of luck-commanding prayer-flag, the Lung-ta proper, is described
+    as a small almost square flag bearing a central horse with the mystic jewel Norbu
+    on its back.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: luck-commanding ritual flag
+  taxonomy_refs: []
+  basis: The passage explicitly calls the flags luck-commanding or prayer-flags and
+    associates them with planting and attendant rites.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage fragment gives only a brief ritual description and does not
+    explain the full rite.
+- id: motif:2
+  label: horse carrying a mystic jewel
+  taxonomy_refs: []
+  basis: The Lung-ta flag is described as containing a central horse with the mystic
+    jewel Norbu on its back.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the meaning of the horse or jewel beyond
+    naming the jewel as mystic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21764-21767
+  quote_or_summary: "“obtainable on purchase from the Limas, but no Lama is necessarily
+    needed for the actual planting of the flag and its attendant rites.”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 21768-21769
+  quote_or_summary: "“These luck-commanding or ‘prayer-flags’ are of four kinds”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 21770-21775
+  quote_or_summary: The Lung-ta proper is described as almost square, about four to
+    six inches long, and containing at its centre a horse with the mystic jewel Norbu
+    on its back.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and includes OCR/image remnants after the Lung-ta
+    description; extraction is limited to legible supplied text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy references or comparison claims were assigned because the passage itself does not support them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l21764-l21791
+  passage_sha256=b6cb1f96c0ef3424b08ce55c3d8544b26cbacbf5aee1236bca4962dcf57aea5a
+

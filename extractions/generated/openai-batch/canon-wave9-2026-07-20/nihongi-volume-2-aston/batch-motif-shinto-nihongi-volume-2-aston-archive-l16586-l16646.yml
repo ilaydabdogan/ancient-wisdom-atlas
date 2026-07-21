@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l16586-l16646
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: TENCHI. 291 / A.D. 670. / TENCHI. 293 / A.D. 671.; lines 16586-16646
+  start: '16586'
+  end: '16646'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records a tortoise described with yellow above and black beneath,
+    later explained as an inverted Heaven-and-Earth color sign of a change of reign.
+    It then notes an envoy sent to Silla, the making of water-mills used in iron smelting,
+    a New Year congratulatory audience, an announcement of Kami matters, and appointments
+    of high ministers and censorate officials.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A tortoise is described as yellow above and black beneath and about six inches
+    long.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An accompanying note identifies yellow and black as the colors of Earth and
+    Heaven according to a Chinese scheme, says the tortoise's colors were inverted,
+    and states that this was regarded as a sign of a change of reign.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Tsuratari, Adzumi no Muraji, was sent to Silla in autumn, ninth month, first
+    day.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Water-mills were made in this year and were used in connection with iron smelting.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Soga no Akaye no Omi and Kose no Hito no Omi advanced in front of the Palace
+    and offered New Year congratulations.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Nakatomi no Kane no Muraji made an announcement of Kami matters.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Imperial Prince Ohotomo and several named officials received high government
+    appointments on the same day.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Tsuratari, Adzumi no Muraji
+  description: Person sent to Silla.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Soga no Akaye no Omi
+  description: Official of Upper Daikin rank who offered New Year congratulations
+    and was appointed Prime Minister of the Left.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:3
+  name_or_label: Kose no Hito no Omi
+  description: Official of Lower Daikin rank who offered New Year congratulations
+    and was appointed Daibu of the Censorate.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: Nakatomi no Kane no Muraji
+  description: Official of Upper Daikin rank who announced Kami matters and was appointed
+    Prime Minister of the Right.
+  role_refs:
+  - role:5
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: Imperial Prince Ohotomo
+  description: Imperial prince appointed Dajodaijin.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Soga no Hatayasu no Omi
+  description: Official appointed Daibu of the Censorate.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Ki no Ushi no Omi
+  description: Official appointed Daibu of the Censorate.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: envoy to Silla
+  assigned_to:
+  - fig:1
+  basis: The passage says Tsuratari was sent to Silla.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: New Year congratulator before the Palace
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage says Soga no Akaye and Kose no Hito advanced before the Palace
+    and offered New Year congratulations.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: newly appointed high minister
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: The passage records appointments to Dajodaijin, Prime Minister of the Left,
+    and Prime Minister of the Right.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: newly appointed censorate official
+  assigned_to:
+  - fig:3
+  - fig:6
+  - fig:7
+  basis: The passage records these figures as made Daibu of the Censorate.
+  evidence_refs:
+  - ev:7
+- id: role:5
+  label: announcer of Kami matters
+  assigned_to:
+  - fig:4
+  basis: The passage says Nakatomi no Kane no Muraji made an announcement of Kami
+    matters.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: inverted Heaven-and-Earth colors on tortoise
+  literal_form: Tortoise with yellow above and black beneath
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: water-mills used for iron smelting
+  literal_form: Water-mills and iron smelting process
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tortoise omen of change of reign
+  summary: A tortoise is described with yellow above and black beneath; the note explains
+    this as an inversion of Heaven-and-Earth colors and as a sign of a change of reign.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Envoy sent to Silla
+  summary: Tsuratari, Adzumi no Muraji, is sent to Silla.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Water-mills and iron smelting
+  summary: The chronicle notes the making of water-mills and their use in iron smelting.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: New Year congratulations and appointments
+  summary: Two officials offer New Year congratulations before the Palace; on a nearby
+    date, Kami matters are announced and high offices are assigned to the imperial
+    prince and other officials.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: omen indicating change of reign
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage's note states that the tortoise's inverted Heaven-and-Earth colors
+    were regarded as a sign of a change of reign.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The interpretation is supplied in the translator's note within the passage,
+    not developed narratively in the chronicle entry itself.
+- id: motif:2
+  label: ritual announcement of Kami matters in court setting
+  taxonomy_refs: []
+  basis: The passage records an official announcement of Kami matters on the same
+    day as major court appointments.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The note says the meaning is unclear and only probably some kind of Shinto
+    religious celebration; no broader motif family is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16586-16589
+  quote_or_summary: "“yellow above and black beneath” and about six inches in length."
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 16618-16622
+  quote_or_summary: Translator's note says yellow and black are the colors of Earth
+    and Heaven according to the Chinese; in the tortoise they were inverted, and this
+    was regarded as a sign of a change of reign.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16590-16592
+  quote_or_summary: In autumn, ninth month, first day, Tsuratari, Adzumi no Muraji,
+    was sent to Silla.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 16593-16594 and 16624-16635
+  quote_or_summary: The chronicle says water-mills were made and iron smelted with
+    them; the note discusses the term as something for pounding or grinding and concludes
+    that smelting is intended.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 16595-16599
+  quote_or_summary: On the tenth year, spring, first month, second day, Soga no Akaye
+    no Omi and Kose no Hito no Omi advanced in front of the Palace and offered New
+    Year congratulations.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16600-16602 and 16637-16639
+  quote_or_summary: On the fifth day, Nakatomi no Kane no Muraji made an announcement
+    of Kami matters; a note says the meaning is not quite clear, probably some kind
+    of Shinto religious celebration.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16603-16613 and 16640-16646
+  quote_or_summary: On the same day, Imperial Prince Ohotomo was appointed Dajodaijin;
+    Soga no Akaye was made Prime Minister of the Left; Nakatomi no Kane was made Prime
+    Minister of the Right; Soga no Hatayasu, Kose no Hito, and Ki no Ushi were made
+    Daibu of the Censorate. Notes gloss these offices.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Administrative chronology and translator notes are clear enough for literal
+    extraction. Motif identification is limited mainly to the explicit omen interpretation
+    in the note; no comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Apparent OCR spellings such as 'gth,' 'ist,' and 'roth' were summarized neutrally rather than corrected in quotations.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l16586-l16646
+  passage_sha256=cf817268ba7041bfaebad7311fe924cca0d141e187514301dc2b66bf44988ce5
+

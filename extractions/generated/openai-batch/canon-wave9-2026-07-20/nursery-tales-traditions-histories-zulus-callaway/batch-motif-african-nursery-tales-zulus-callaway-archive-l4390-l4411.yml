@@ -1,0 +1,404 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l4390-l4411
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: APPENDIX. / MONSTERS. / UNTOMBINDE. / Book ii. c. 12.; lines 4390-4411
+  start: '4390'
+  end: '4411'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is an appendix note citing Olaus Magnus on northern sea-monster
+    reports: a huge-eyed fish, a ship-upsetting prister or whirlpool, a sea-serpent
+    that comes ashore and snatches men from ships, and a speculation that vanishing
+    islands might be parts of a kraken.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies Olaus Magnus, Archbishop of Upsal, as an authority
+    cited for stories about sea-monsters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A fish seen on the coast of Norway is described as having eyes eight or ten
+    cubits in circumference that look like red fiery lamps from dark water-depths.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A being called the whirlpool or prister is described as two hundred cubits
+    long and cruel.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The prister upsets ships by entangling them in the windings of its long tail.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The prister is said to be more readily driven away by a war trumpet than by
+    cannon balls.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A sea-serpent is described as going ashore on clear summer nights to eat calves,
+    lambs, and hogs.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The sea-serpent raises its head like a pillar and catches men from the decks
+    of ships.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The passage raises the possibility that vanishing northern islands might be
+    visible parts of a kraken.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Olaus Magnus
+  description: Archbishop of Upsal in Sweden, described as a sixteenth-century authority
+    for sea-monster stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Norwegian-coast fish with fiery eyes
+  description: A fish whose huge eyes appear like red and fiery lamps from dark water-depths.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Whirlpool or prister
+  description: A two-hundred-cubit sea-being that upsets ships by entangling them
+    in its long tail.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Sea-serpent
+  description: A sea-serpent that goes ashore to eat livestock and snatches men from
+    ship decks.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Kraken
+  description: A stupendous kraken proposed as a possible explanation for vanishing
+    islands in northern seas.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: cited sea-monster authority
+  assigned_to:
+  - fig:1
+  basis: The passage calls Olaus Magnus one of the chief authorities supporting stories
+    about sea-monsters.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sea monster or marine marvel
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each figure is presented in the passage among sea-monsters or oceanic marvels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: threat to ships or people at sea
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The prister upsets ships, and the sea-serpent catches men from ship decks.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: possible hidden source of vanishing islands
+  assigned_to:
+  - fig:5
+  basis: The kraken is mentioned as a possible explanation for islands that appear
+    and disappear.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fiery eyes
+  literal_form: Huge eyes appearing like red and fiery lamps in dark water-depths
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: long entangling tail
+  literal_form: The windings of the prister's long tail used to fasten ships
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: war trumpet
+  literal_form: A trumpet of war whose sound drives off the prister
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: sea-serpent
+  literal_form: A serpent-like sea creature that comes ashore and attacks people from
+    ships
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: vanishing islands
+  literal_form: Islands in northern seas that appear and disappear, possibly parts
+    of a kraken
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: ocean depths
+  literal_form: Black chasmy water-depths and northern seas where the monsters appear
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Citation of sea-monster lore
+  summary: The note introduces Olaus Magnus as a principal authority for stories once
+    circulated about sea-monsters.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Huge-eyed fish in dark water
+  summary: A Norwegian-coast fish is described with enormous eyes shining like red
+    fiery lamps from the depths.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:6
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Prister attacking ships
+  summary: The prister is described as a huge cruel being that overturns ships by
+    wrapping them in its tail and is repelled by a war trumpet.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Sea-serpent raids shore and ships
+  summary: The sea-serpent goes ashore at night to eat livestock and raises its head
+    to seize men from ships.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Vanishing islands and kraken speculation
+  summary: The passage cautions that little is known about ocean life and asks whether
+    vanishing northern islands might be protruding parts of a kraken.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Sea monster as danger to ships and sailors
+  taxonomy_refs: []
+  basis: The prister upsets ships, and the sea-serpent snatches men from decks.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage reports these as cited marvels rather than narrating a Zulu
+    tale episode.
+- id: motif:2
+  label: Sea-serpent predator
+  taxonomy_refs:
+  - serpent
+  basis: The sea-serpent comes ashore to eat livestock and catches men from ships.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only the sea-serpent detail supports the serpent taxonomy reference.
+- id: motif:3
+  label: Monster mistaken for or appearing as an island
+  taxonomy_refs: []
+  basis: The passage suggests that appearing and disappearing islands might be prominent
+    parts of a stupendous kraken.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage phrases this as a speculative question rather than a settled
+    narrative event.
+- id: motif:4
+  label: Sound repels sea monster
+  taxonomy_refs: []
+  basis: The prister is described as being most readily put to flight by the sound
+    of a war trumpet.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives only one example and no broader ritual or narrative
+    context.
+- id: motif:5
+  label: Fiery-eyed creature rising from dark waters
+  taxonomy_refs: []
+  basis: The fish's huge eyes appear like red and fiery lamps from black water-depths.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage presents a visual description, not a full plot motif.
+comparison_claims:
+- id: claim:1
+  claim: The sea-serpent episode belongs cautiously with serpent-monster imagery because
+    the creature is explicitly called a sea-serpent and acts as a marine predator.
+  claim_level: same_motif
+  target: serpent motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not provide a full serpent myth; it gives a reported
+    marvel within an appendix note.
+- id: claim:2
+  claim: The passage itself compares the sea-serpent to a recently discussed 'phantom
+    of the deep,' indicating visual or topical similarity to other sea-serpent reports
+    known to the quoted author.
+  claim_level: visual_similarity
+  target: recent sea-serpent or 'phantom of the deep' reports
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The other reports are not identified in the supplied passage.
+- id: claim:3
+  claim: The vanishing-island detail is cautiously comparable to a monster-as-island
+    pattern because the passage asks whether such islands are visible parts of a kraken.
+  claim_level: same_motif
+  target: monster appearing as island pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states the comparison as speculation, not as a witnessed
+    or narrated transformation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4394-4397
+  quote_or_summary: Olaus Magnus, Archbishop of Upsal, is named as a chief authority
+    for stories about sea-monsters.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: quote
+  locator: 4397-4400
+  quote_or_summary: A fish is described with eyes that appear like “red and fiery
+    lamps” from “black chasmy waterdepths.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: 4400-4404
+  quote_or_summary: The whirlpool or prister is two hundred cubits long, cruel, and
+    upsets ships by entangling them in its long tail.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: 4403-4405
+  quote_or_summary: The prister is said to be put to flight by the sound of a war
+    trumpet, while cannon balls are ineffective.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: quote
+  locator: 4405-4409
+  quote_or_summary: A sea-serpent goes ashore to eat livestock and “puts up his head
+    like a pillar, and catcheth away men” from ships.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied passage.
+- id: ev:6
+  type: summary
+  locator: 4409-4411
+  quote_or_summary: The passage asks whether vanishing islands in northern seas might
+    be prominent parts of a stupendous kraken.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about the described sea-monsters, but motif interpretation
+    is limited because this line range is an appendix note citing European sea-monster
+    lore rather than a self-contained Zulu narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  This extraction uses only the supplied line range. The passage appears within a Zulu collection but the content here is an appendix discussion of Olaus Magnus and northern sea-monster traditions.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l4390-l4411
+  passage_sha256=cdd2ff407b3c651e9de138a8635bd8369a45c968c4dfe878836b1a1f48ec6cf1
+

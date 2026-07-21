@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35117-l35129
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA    TRIBE / SOCIETIES / THE    OMAHA    TRIBE / SOCIETIES; lines
+    35117-35129
+  start: '35117'
+  end: '35129'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Participants reach the south side where gifts of goods are spread, place
+    shells in their mouths, and fall prone on the goods; the act is said to represent
+    the death of children in a story. A drum is placed before the u'zhu, a minor officer
+    begins a slow-time 'rest song,' and four 'children' stand motionless before the
+    fire during the song.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Gifts of goods were spread on the south side.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Participants put shells into their mouths and each fell prone on the goods.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The described action represented the death of the children in the story.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A drum was put before the u'zhu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: One of the minor officers started a slow-time song called a 'rest song.'
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: During the singing, the four 'children' stood motionless before the fire.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Participants who fall prone on the goods
+  description: Persons who put shells in their mouths and fall prone on the goods.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Four 'children'
+  description: Four figures called 'children' who stand motionless before the fire
+    during the rest song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: u'zhu
+  description: Figure or office before whom the drum was placed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Minor officer
+  description: One minor officer starts the slow-time rest song.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual actors enacting prone fall
+  assigned_to:
+  - fig:1
+  basis: They put shells into their mouths and fell prone on the goods.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: children represented in ritual action
+  assigned_to:
+  - fig:2
+  basis: The passage says the action represented the death of children in the story,
+    and later refers to four 'children' standing before the fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: recipient or focal person before drum
+  assigned_to:
+  - fig:3
+  basis: The drum was put before the u'zhu.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: song leader
+  assigned_to:
+  - fig:4
+  basis: A minor officer started the rest song.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: shells in mouths
+  literal_form: shells placed into the mouths of participants
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gifts of goods
+  literal_form: goods spread on the south side
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: drum
+  literal_form: drum placed before the u'zhu
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: fire
+  literal_form: fire before which the four 'children' stood
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: rest song
+  literal_form: slow-time song called a 'rest song'
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prone fall on goods representing children's death
+  summary: At the south side, where gifts of goods are spread, participants place
+    shells in their mouths and fall prone on the goods; this is explicitly said to
+    represent the death of the children in the story.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rest song before fire
+  summary: A drum is placed before the u'zhu, a minor officer begins a slow-time rest
+    song, and the four 'children' stand motionless before the fire during the singing.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual dramatization of children's death
+  taxonomy_refs: []
+  basis: The passage explicitly states that the action of putting shells in the mouth
+    and falling prone on the goods represented the death of children in the story.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only this segment of the ritual and does not identify
+    the full story or broader narrative outcome.
+- id: motif:2
+  label: motionless children before ritual fire during song
+  taxonomy_refs: []
+  basis: The four 'children' stand motionless before the fire while the slow-time
+    rest song is sung.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explain the symbolic meaning of the fire, motionlessness,
+    or song beyond naming the song type.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35117-35120
+  quote_or_summary: At the south side, gifts of goods are spread; participants put
+    shells in their mouths, fall prone on the goods, and the act represents the death
+    of the children in the story.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 35121-35125
+  quote_or_summary: A drum is put before the u'zhu, and a minor officer starts a slow-time
+    song called a rest song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 35125-35129
+  quote_or_summary: During the rest song, four 'children' stand motionless before
+    the fire.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual actions and objects are explicit in the passage. Motif candidates
+    are limited to directly described ritual representation; no broader comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage mentions represented death but not rebirth, initiation, sacrifice, or another available motif family explicitly enough for confident mapping.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35117-l35129
+  passage_sha256=7591704646602fd66c3139375ab0b40081eed747944365d774f6695157386310
+

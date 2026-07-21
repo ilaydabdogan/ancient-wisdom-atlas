@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l19553-l19561
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: KUMUSH AND HIS DAUGHTER / NOTES 383 / STEALING FIRE / HOW SICKNESS CAME INTO
+    THE WORLD; lines 19553-19561
+  start: '19553'
+  end: '19561'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A note describes a Modoc version of how sickness spread through the world:
+    the Glatc6was brothers are unidentified by informants, the little men have shapeshifting
+    power, Keis angrily makes poisonous diseases, Wfiwenkee says sickness belongs
+    to Nfibiks and was only loaned to Keis, but Keis does not listen and sickness
+    spreads worldwide.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a version of how sickness scattered over the world.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Glatc6was brothers are mentioned, but the note says it is not known who
+    they were, and Modoc respondents said the name was just a name.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The little men are said to possess great power and to be able to turn into
+    any conceivable thing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Keis becomes angry and makes poisonous diseases.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Wfiwenkee reproaches Keis and says sickness belongs to Nfibiks, was only loaned
+    to Keis, and should not have been let out.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Keis does not listen, and sickness spreads over the world as a result of his
+    rage.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Glatc6was brothers
+  description: Brothers whose identity is stated to be unknown; Modoc respondents
+    said the name was just a name.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: little men
+  description: Powerful beings able to turn into any conceivable thing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Keis / Kfiis
+  description: Figure who becomes angry, makes poisonous diseases, does not heed Wfiwenkee,
+    and whose rage results in sickness spreading over the world.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:4
+  name_or_label: Wfiwenkee
+  description: Figure who reproaches Keis and states that sickness belongs to Nfibiks
+    and was only loaned to Keis.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Nfibiks
+  description: Figure said by Wfiwenkee to be the owner of sickness.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: unidentified named brothers
+  assigned_to:
+  - fig:1
+  basis: The note says it is not known who the Glatc6was brothers were, and informants
+    identify the term only as a name.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: powerful shapeshifters
+  assigned_to:
+  - fig:2
+  basis: The little men possess great power and can turn into any conceivable thing.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: angry maker and releaser of disease
+  assigned_to:
+  - fig:3
+  basis: Keis makes poisonous diseases in anger, does not listen, and sickness spreads
+    as a result of his rage.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:4
+  label: reproving speaker
+  assigned_to:
+  - fig:4
+  basis: Wfiwenkee reproaches Keis and states limits on his right to release sickness.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: owner of sickness
+  assigned_to:
+  - fig:5
+  basis: Wfiwenkee says sickness belonged to Nfibiks.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: sickness
+  literal_form: sickness scattered or spread over the world
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: poisonous diseases
+  literal_form: poisonous diseases made by Keis
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: shapeshifting power
+  literal_form: ability to turn into any conceivable thing
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Introductory note on the origin of sickness
+  summary: The passage frames the account as a version of how sickness scattered over
+    the world and notes uncertainty about the Glatc6was brothers.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Power of the little men
+  summary: The little men are described as powerful beings able to transform into
+    any conceivable thing.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Release of sickness
+  summary: Keis angrily makes poisonous diseases; Wfiwenkee says sickness belongs
+    to Nfibiks and was only loaned to Keis, but Keis does not listen and sickness
+    spreads over the world.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: origin of sickness in the world
+  taxonomy_refs: []
+  basis: The passage explicitly presents the account as explaining how sickness scattered
+    over the world and concludes with sickness spreading worldwide.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: No specific available taxonomy reference directly names an origin-of-disease
+    motif.
+- id: motif:2
+  label: anger causing the release of harmful disease
+  taxonomy_refs: []
+  basis: Keis becomes angry, makes poisonous diseases, refuses correction, and sickness
+    spreads as a result of his rage.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is brief and gives little narrative context for Keis's anger.
+- id: motif:3
+  label: improper release of a loaned harmful power
+  taxonomy_refs: []
+  basis: Wfiwenkee says sickness belongs to Nfibiks, was loaned to Keis, and that
+    Keis had no right to let it out.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text uses the language of loan and ownership, but does not explain
+    the original loan or any formal exchange.
+- id: motif:4
+  label: powerful shapeshifting beings
+  taxonomy_refs:
+  - shapeshifter
+  basis: The little men possess great power and can turn into any conceivable thing.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not specify whether the little men are the same as the
+    named Glatc6was brothers.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19553-19555
+  quote_or_summary: The passage is headed as an account of how sickness came into
+    the world and says this version of how sickness scattered over the world is noteworthy.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 19555-19557
+  quote_or_summary: '"It is not known who the Glatc6was brothers were"; when asked,
+    Modocs said, "Glatc6was is just a name."'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 19557-19558
+  quote_or_summary: The little men possessed great power and could turn into any conceivable
+    thing.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 19558-19559
+  quote_or_summary: Keis became angry and made poisonous diseases.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 19559-19560
+  quote_or_summary: Wfiwenkee reproached Keis, saying sickness belonged to Nfibiks,
+    was only loaned to Keis, and that Keis had no right to let it out.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 19560-19561
+  quote_or_summary: Keis did not listen, and sickness spread over the world as a result
+    of his rage.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short editorial note rather than a full narrative.
+    Name forms appear with diacritics or possible OCR variation, so figure labels
+    are kept close to the passage text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this account with another text, tradition, or motif family beyond its own etiological framing.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l19553-l19561
+  passage_sha256=0632dfb58c6a0a80bdf54d7efd340164dd83875f2549947444e49d2b68d07fe4
+

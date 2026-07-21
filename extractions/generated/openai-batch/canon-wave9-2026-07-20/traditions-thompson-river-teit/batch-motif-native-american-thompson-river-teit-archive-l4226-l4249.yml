@@ -1,0 +1,347 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l4226-l4249
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: INTRODUCTION. / COLLECTED BY JAMES TEIT. / I, THE COYOTE AND THE FLOOD. /
+    VI. THE ORIGIN OF THE DEER.; lines 4226-4249
+  start: '4226'
+  end: '4249'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A large burning log on a mountain gives off light and heat. Grizzly Bear
+    tries to extinguish it with earth, while Chipmunk adds sticks to keep it burning.
+    After a long contest, the fire burns more brightly. Grizzly Bear attacks Chipmunk,
+    who hides in a hollow log; Grizzly tears stripes of skin from Chipmunk's back
+    before Chipmunk escapes. The fate of the fire is unknown.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A large log burns on top of a named mountain and produces great light and
+    heat.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Grizzly Bear sees the light, finds the warmth and light disagreeable, and
+    tries to put out the fire by throwing earth on it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Chipmunk gathers sticks and throws them on the fire in order to keep the light
+    and warmth present.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Grizzly Bear and Chipmunk contend for a long time over whether the fire will
+    be extinguished or kept burning.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The log begins to burn more brightly after the prolonged contest.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Grizzly Bear attacks Chipmunk by throwing earth on him, and Chipmunk retaliates
+    by throwing wood-dust.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Chipmunk runs away and hides in a hollow log nearby.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: As Chipmunk enters the hollow log, Grizzly Bear strikes him and tears the
+    skin off his back in stripes.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Chipmunk reaches safety inside the hollow log.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The passage ends by saying that no one knows what became of the fire afterward.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Grizzly Bear
+  description: An animal figure who dislikes the burning log's warmth and light, attempts
+    to extinguish it, attacks Chipmunk, and chases him to a hollow log.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Chipmunk
+  description: An animal figure who adds sticks to the burning log to preserve its
+    light and warmth, resists Grizzly Bear, flees, and is marked with stripes on his
+    back.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: extinguisher of fire
+  assigned_to:
+  - fig:1
+  basis: Grizzly Bear tries to put out the fire because its warmth and light are disagreeable
+    to him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: preserver of fire
+  assigned_to:
+  - fig:2
+  basis: Chipmunk gathers and throws sticks on the fire because he wants the light
+    and warmth to remain.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: pursuer and attacker
+  assigned_to:
+  - fig:1
+  basis: Grizzly Bear attacks Chipmunk, chases him, and strikes at him as he enters
+    the hollow log.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:4
+  label: fugitive marked by injury
+  assigned_to:
+  - fig:2
+  basis: Chipmunk runs away, hides in a hollow log, and has the skin torn from his
+    back in stripes.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: burning large log producing light and heat
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: mountain
+  literal_form: top of the mountain called Yekatwau'xus Cuxcu’x
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: hollow log refuge
+  literal_form: hollow log close by, used by Chipmunk as a hiding place
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: striped back injury
+  literal_form: skin torn off Chipmunk's back in stripes
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Burning log on the mountain
+  summary: A large log burns on a mountain, giving off strong light and heat.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Contest over the fire
+  summary: Grizzly Bear throws earth to extinguish the fire while Chipmunk adds sticks
+    to keep it burning; after a long struggle the log burns more brightly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Attack and escape into the hollow log
+  summary: Grizzly Bear attacks Chipmunk, Chipmunk retaliates and flees, then hides
+    in a hollow log; Grizzly tears stripes from Chipmunk's back, but Chipmunk escapes
+    into safety.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Unknown fate of the fire
+  summary: The passage states that no one knows what happened to the fire afterward.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: animal contest over keeping or extinguishing fire
+  taxonomy_refs: []
+  basis: The passage centers on Grizzly Bear's effort to smother the burning log and
+    Chipmunk's opposing effort to keep it burning with sticks.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not say the fire was acquired, stolen, or given to humans;
+    it is only a contest over an existing fire.
+- id: motif:2
+  label: animal marking through conflict
+  taxonomy_refs: []
+  basis: Chipmunk receives stripes on his back when Grizzly Bear strikes him during
+    the chase.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage describes the striped injury but does not explicitly state
+    that this explains the present appearance of chipmunks.
+- id: motif:3
+  label: small animal defeats or frustrates larger animal
+  taxonomy_refs: []
+  basis: Chipmunk's repeated addition of sticks makes Grizzly Bear's extinguishing
+    efforts futile, and the fire burns more brightly despite Grizzly Bear's work.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage presents a successful resistance rather than a complete victory;
+    Chipmunk still flees and is injured.
+- id: motif:4
+  label: refuge in a hollow log
+  taxonomy_refs: []
+  basis: Chipmunk escapes Grizzly Bear by entering a hollow log, where he is safe
+    in retreat.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: No broader cosmological or ritual meaning is stated for the hollow log.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared to etiological animal-marking tales
+    because it narrates how Chipmunk's back is marked with stripes during a mythic
+    animal encounter.
+  claim_level: same_motif
+  target: etiological animal-marking pattern
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The text does not explicitly state that the injury is the origin of
+    all chipmunk stripes, so the comparison remains pattern-level and requires human
+    review.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4226-4229
+  quote_or_summary: A large log burns on top of the mountain called Yekatwau'xus Cuxcu’x
+    and throws out great light and heat.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 4228-4233
+  quote_or_summary: Grizzly Bear sees the light, dislikes the warmth and light, scrapes
+    earth with his paws, and throws it on the fire to put it out.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 4232-4238
+  quote_or_summary: Chipmunk comes along, throws sticks on the fire, and wants the
+    light and warmth to remain.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 4238-4242
+  quote_or_summary: Grizzly Bear and Chipmunk contend for a long time; Chipmunk's
+    effort appears successful, and the log begins to burn more brightly.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 4242-4245
+  quote_or_summary: Grizzly Bear becomes angry, attacks Chipmunk by throwing earth,
+    and Chipmunk retaliates with wood-dust.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 4245-4248
+  quote_or_summary: Chipmunk flees into a nearby hollow log; Grizzly Bear strikes
+    at him and tears the skin off his back in stripes, but Chipmunk reaches safety
+    inside the log.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: '4249'
+  quote_or_summary: The passage states that no one knows what became of the fire afterward.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal events are clear in the supplied passage. Motif identification is
+    more tentative where the passage implies but does not explicitly announce an etiological
+    explanation for chipmunk stripes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage title metadata mentions 'The Origin of the Deer,' but the provided passage text concerns Grizzly Bear, Chipmunk, a burning log, and a striped-back injury; extraction uses only the passage text.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l4226-l4249
+  passage_sha256=b5ccdc0a740498f8390c17812b1cad0800eaffda50cec2d9ffd29a62d378cc5f
+

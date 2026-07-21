@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l41264-l41286
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / RECENT    HISTORY / NEW  RESERVATION  AND  AGENCY
+    / THE    OMAHA    TRIBE; lines 41264-41286
+  start: '41264'
+  end: '41286'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the placement of agency buildings on the new Omaha
+    reservation, the Omaha settlement into three villages, the statement that this
+    settlement division had no tribal significance, the continued unified camp formation
+    during the annual buffalo hunt, and the location of the Middle village and its
+    last earth lodge.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Agency buildings on the new reservation were placed about three miles west
+    of the Missouri River on a road known as the military road.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Within a year or two, the Omaha divided and settled in three villages on different
+    parts of the reservation.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the village division had no tribal significance.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the tribe went on its annual buffalo hunt, the people camped as one body,
+    forming the hii'thnga, and the old tribal organization was not affected.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Middle village, near the agency, was on the stream now known as Blackbird
+    Creek.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A picture in plate 19 is said to show the last of the earth lodges, erected
+    when the Middle village was built.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Omaha people / Omaha tribe
+  description: The people who divided into three villages and who camped as one body
+    during the annual buffalo hunt.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: settling community
+  assigned_to:
+  - fig:1
+  basis: The Omaha divided and settled in three villages on the new reservation.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: unified annual hunting camp community
+  assigned_to:
+  - fig:1
+  basis: During the annual buffalo hunt, the people camped as one body, forming the
+    hii'thnga.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Agency placement on the new reservation
+  summary: Agency buildings are placed west of the Missouri River on the military
+    road connecting trading posts.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Settlement into three villages
+  summary: 'The Omaha settle in three villages: one in the southeastern part of the
+    reservation, the largest near the agency, and a third to the northeast near the
+    Missouri; the passage says this division had no tribal significance.'
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Annual buffalo hunt camp formation
+  summary: On the annual buffalo hunt, the Omaha camp as one body, forming the hii'thnga,
+    without affecting the old tribal organization.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Middle village and last earth lodge
+  summary: The Middle village is identified with Blackbird Creek, and a plate image
+    is described as showing the last earth lodge from the time the village was built.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: annual communal re-formation during buffalo hunt
+  taxonomy_refs: []
+  basis: The passage describes a recurring annual movement for the buffalo hunt in
+    which the people camped as one body and maintained the old tribal organization.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic social-organization pattern rather than a mythic
+    narrative motif; no supplied taxonomy reference is directly assigned.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 41264-41270
+  quote_or_summary: Agency buildings were placed about three miles west of the Missouri
+    River on the road known as the military road.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: lines 41270-41278
+  quote_or_summary: The Omaha divided and settled in three villages; the passage states
+    this division had no tribal significance.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: lines 41278-41281
+  quote_or_summary: On the annual buffalo hunt, the people camped as one body, forming
+    the hii'thnga, and the old tribal organization was not affected.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:4
+  type: summary
+  locator: lines 41281-41286
+  quote_or_summary: The Middle village was on Blackbird Creek; plate 19 is said to
+    show the last earth lodge, built when the Middle village was built.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The historical and ethnographic details are explicit. The only candidate
+    motif is treated cautiously as a social pattern, not a mythic motif. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbolic taxonomy refs or comparative claims were assigned because the passage is primarily a historical-reservation and social-organization description.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l41264-l41286
+  passage_sha256=694f385094c9e66f676398f4d32ce9457a906df13231a0ce3db39808af4ba7dd
+

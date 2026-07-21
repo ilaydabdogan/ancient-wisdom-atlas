@@ -1,0 +1,466 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34721-l34770
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OPENING    CEREMONY / SOCIETIES / SOCIETIES / THE    OMAHA    TRIBE;
+    lines 34721-34770
+  start: '34721'
+  end: '34770'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes part of an Omaha society opening ceremony: ceremonial
+    figures called “children” pass around a fire, stand at the west facing east, drink
+    water in four-sip turns from a shared bowl that is then passed around the membership,
+    and then circle the fire while songs are sung to the four directions. The passage
+    also notes movement of the drum and goods and ends with the “eldest son” turning
+    north to sing.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A group passes around the fire, the “youngest son” joins behind the “daughter,”
+    and five participants pass around the fire before stopping at the west and facing
+    east.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The officer leading the “children” hands a bowl of water to the “eldest son,”
+    followed in order by the “second son,” the “daughter,” and the “youngest son”;
+    each takes four sips.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: After the “children” drink, the officer gives the bowl to the member at the
+    left of the row; each member takes four sips and passes the bowl leftward until
+    it reaches its keeper.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the drum was moved back and the goods were spread
+    toward the south.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The four “children” circle the fire in a series of movements while a song
+    is sung to each of the four directions; they shift places and finally return to
+    their beginning position.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: With all standing at the west, the “eldest son” turns to face north and begins
+    to sing.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The diagram/caption in the passage identifies gifts, servants, and “children”
+    ejecting shells on gifts after encircling the lodge four times.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: officer who led the “children”
+  description: An officer leads the “children,” hands the water bowl to the “eldest
+    son,” and later carries the bowl to the seated members.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: "“eldest son”"
+  description: A ceremonial figure called the “eldest son” receives the water bowl
+    first, takes four sips, passes it on, and later turns north to sing.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: "“second son”"
+  description: A ceremonial figure called the “second son” receives the bowl after
+    the “eldest son” and takes four sips.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: "“daughter”"
+  description: A ceremonial figure called the “daughter” is followed by the “youngest
+    son” in the procession and takes four sips from the bowl.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: "“youngest son”"
+  description: A ceremonial figure called the “youngest son” joins the procession
+    behind the “daughter” and later takes four sips from the bowl.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: seated members
+  description: Members seated in a row receive the water bowl in sequence, each taking
+    four sips and passing it to the left.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: member at the left who first combed her hair
+  description: The member seated at the left of the row, identified as the one who
+    first combed her hair, receives the water bowl from the officer and takes four
+    sips.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: keeper of the bowl
+  description: The final recipient to whom the bowl is given after it has gone around
+    the row of members.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ceremonial officer and leader
+  assigned_to:
+  - fig:1
+  basis: The officer is described as leading the “children,” distributing the water
+    bowl, and carrying it to the seated members.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: ceremonial “child” role
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: The passage groups the “eldest son,” “second son,” “daughter,” and “youngest
+    son” under the term “children” and describes their ordered movements and drinking.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: member recipient in water-passing sequence
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The member at the left and the other seated members receive the bowl, take
+    four sips, and pass it leftward.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: keeper of the bowl
+  assigned_to:
+  - fig:8
+  basis: The passage says the bowl was finally given to its keeper.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: direction-facing singer
+  assigned_to:
+  - fig:2
+  basis: The “eldest son” turns to face north and sings.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire around which the participants pass and circle
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: water
+  literal_form: water in a bowl from which participants take four sips
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: shared bowl
+  literal_form: bowl of water passed among the “children” and then around the seated
+    members
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: fourfold number pattern
+  literal_form: four sips by each drinker, four “children,” songs to four directions,
+    and encircling noted as four times in the caption
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: cardinal orientation
+  literal_form: west-facing position toward east, song to four directions, and the
+    “eldest son” facing north
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: drum and rattles
+  literal_form: drum and rattles noted in the diagram/caption; the drum is moved back
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: gifts, goods, and shells
+  literal_form: goods spread toward the south; gifts and shells named in the diagram/caption
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: procession around the fire and westward halt
+  summary: The “children” procession incorporates the “youngest son,” circles the
+    fire, and stops at the west facing east.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: four-sip water passing
+  summary: The officer passes a water bowl to the four “children,” each of whom takes
+    four sips; the bowl is then passed through the row of members, each also taking
+    four sips, until it reaches its keeper.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: drum, goods, and circling for the four directions
+  summary: After the water-passing sequence, the drum is moved back, goods are spread
+    southward, and the four “children” circle the fire while songs are sung to the
+    four directions.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: eldest son faces north to sing
+  summary: All stand at the west, and the “eldest son” turns north and sings.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: ceremonial circumambulation of a fire
+  taxonomy_refs: []
+  basis: Participants repeatedly pass or circle around the fire, including a later
+    series of circlings by the four “children.”
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage describes ritual action but does not explain its meaning.
+- id: motif:2
+  label: fourfold ritual drinking from a shared vessel
+  taxonomy_refs: []
+  basis: The water bowl is passed in a fixed sequence, and each named “child” and
+    each member takes four sips.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state the symbolism of the water or the number four.
+- id: motif:3
+  label: songs to the four directions
+  taxonomy_refs: []
+  basis: During the circling of the fire, a song is sung to each of the four directions.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: Only the beginning of the subsequent song sequence is included in this
+    line range.
+- id: motif:4
+  label: ritual reorientation at cardinal points
+  taxonomy_refs: []
+  basis: The participants halt at the west facing east, songs are directed to the
+    four directions, and the “eldest son” turns north to sing.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage records orientations but does not provide an explicit interpretation.
+- id: motif:5
+  label: placing or ejecting shells on gifts after encircling
+  taxonomy_refs: []
+  basis: The diagram/caption refers to “children” ejecting shells on gifts after encircling
+    the lodge four times, and the narrative notes goods spread toward the south.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This detail appears in OCR-interleaved caption text, so its sequence and
+    phrasing need human verification.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34721-34725
+  quote_or_summary: Four participants pass around the fire and go to the “youngest
+    son”; after he joins behind the “daughter,” five pass around the fire and stop
+    at the west facing east.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 34726-34734
+  quote_or_summary: The officer who led the “children” gives a bowl of water to the
+    “eldest son,” who takes four sips and passes it to the “second son”; the “second
+    son,” “daughter,” and “youngest son” each likewise take four sips.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 34735-34747
+  quote_or_summary: The officer carries the bowl to the member sitting at the left
+    of the row, the one who first combed her hair; she and the members after her each
+    take four sips and pass the bowl leftward until it is given to its keeper.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 34748-34757
+  quote_or_summary: The passage’s interleaved diagram/caption and narrative refer
+    to drum and rattles, gifts, servants, “children” ejecting shells on gifts after
+    encircling the lodge four times, the drum being moved back, and goods being spread
+    toward the south.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized; OCR/caption interleaving noted.
+- id: ev:5
+  type: summary
+  locator: lines 34758-34767
+  quote_or_summary: A series of circlings of the fire by the four “children” begins;
+    a song is sung to each of the four directions, the “children” shift places, and
+    finally return to their initial position.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 34768-34770
+  quote_or_summary: All stand at the west; the “eldest son” turns, faces north, and
+    sings the following song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Main ritual sequence is clear. Confidence is reduced by OCR/caption interleaving
+    around the diagram text concerning drum, goods, shells, and servants. No external
+    comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy refs are limited to explicit available symbol refs for fire and water; no motif-family taxonomy ref was assigned because the passage does not explicitly state a broader mythic function.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34721-l34770
+  passage_sha256=4906d2e1ff3dbf55803eda4a6137ae317c049216d69c0627f98a3094db4f43dd
+

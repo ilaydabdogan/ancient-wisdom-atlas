@@ -1,0 +1,360 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19382-l19424
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE ABATWA. / ABATWA UKWESABEKA KWABO. / THE HYRAX. / FABLES.; lines 19382-19424
+  start: '19382'
+  end: '19424'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage first explains that the Abatwa are feared because their arrows
+    are smeared with poison that causes severe bleeding and death. It then gives a
+    fable explaining why the hyrax lacks a tail: when tails were distributed on a
+    rainy day, the hyrax stayed in its hole and asked other animals to bring a tail
+    for it; they returned with tails, but the hyrax remained tailless and cannot brush
+    away flies.'
+  language: English, with Zulu headings/titles
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Abatwa bow is said not to kill by itself; its arrow point is smeared with
+    poison.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poison is described as causing blood to flow from the whole body and the
+    person to die quickly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Many kinds of the Abatwa poison are said to be known to elephant hunters.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Abatwa are described as dreaded because of this poison.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In the fable, the hyrax is said to have gone without a tail because it sent
+    other animals for one.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the day tails were distributed, the sky became clouded, and other animals
+    went to the place where tails were given away.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The hyrax did not go with the other animals and stayed in its hole because
+    it was raining.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The hyrax asked its neighbours to bring back its tail for it.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The other animals returned with tails, but the hyrax never received a tail.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says a tail is useful for driving away flies, and the hyrax has
+    nothing with which to brush them off.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Abatwa
+  description: A group whose arrows are smeared with poison and who are described
+    as dreaded.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: hunters of the elephant
+  description: Hunters said to know many kinds of the Abatwa poison.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: hyrax / imbila
+  description: An animal in the fable that remains in its hole during rain, sends
+    other animals for a tail, and remains without one.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: other animals / neighbours with tails
+  description: Animals that go to fetch tails on the day tails are distributed and
+    return with tails.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: poison-arrow users
+  assigned_to:
+  - fig:1
+  basis: Their arrows are described as smeared with poison that kills.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dreaded group
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Abatwa are dreaded because of their poison.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: knowers of poison varieties
+  assigned_to:
+  - fig:2
+  basis: Elephant hunters are said to know many kinds of the poison.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: tailless animal who delegates the errand
+  assigned_to:
+  - fig:3
+  basis: The hyrax sends other animals for its tail, stays in its hole because of
+    rain, and remains without a tail.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: tail-fetching animals
+  assigned_to:
+  - fig:4
+  basis: The other animals go to the tail-distribution place and return with tails.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: poisoned arrow
+  literal_form: bow and arrow with poisoned point
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: poison
+  literal_form: poison smeared on arrow points
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: tail
+  literal_form: animal tail distributed and used to drive away flies
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: rain
+  literal_form: clouded sky and rain on the day tails were distributed
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: hole
+  literal_form: the hyrax's hole
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: flies
+  literal_form: flies that a tail would brush away
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Abatwa poison-arrow explanation
+  summary: The passage explains that Abatwa arrows kill because their points are poisoned,
+    and that this poison makes the Abatwa feared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Tail distribution during rain
+  summary: On a rainy, clouded day when tails are distributed, the other animals go
+    to receive tails while the hyrax stays in its hole and asks them to bring one
+    back for it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Hyrax remains without a tail
+  summary: The other animals return with tails, but the hyrax has none and therefore
+    lacks a tail for brushing away flies.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: poisoned projectile as cause of dread
+  taxonomy_refs: []
+  basis: The Abatwa are feared because their poisoned arrows cause severe bleeding
+    and death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is presented as an explanatory description rather than a full narrative
+    episode; no supplied motif-family taxonomy directly matches it.
+- id: motif:2
+  label: animal etiological fable explaining absence of tail
+  taxonomy_refs: []
+  basis: The fable explicitly explains that the hyrax lacks a tail because it sent
+    others to fetch one and did not go out in the rain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied motif-family taxonomy directly names etiological animal-trait
+    fables.
+- id: motif:3
+  label: loss through avoiding a necessary journey
+  taxonomy_refs: []
+  basis: The hyrax avoids going to the tail-distribution place because of rain and
+    consequently loses the advantages of having a tail.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The practical consequence is explicit, but any moral lesson about laziness
+    or avoidance is not directly stated beyond the hyrax being disinclined to go out
+    in the rain.
+comparison_claims:
+- id: claim:1
+  claim: The hyrax episode functions as an etiological animal fable explaining a physical
+    trait, namely why the hyrax has no tail.
+  claim_level: same_function
+  target: animal etiological fable pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a functional pattern claim only; the passage does not state
+    historical contact, inheritance, or comparison with any external tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19382-19395
+  quote_or_summary: The Abatwa bow kills because its arrow point is smeared with poison;
+    when it enters, blood flows from the whole body and the person dies.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 19396-19401
+  quote_or_summary: Many kinds of the poison are known to elephant hunters, and this
+    is given as the reason the Abatwa are dreaded.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:3
+  type: summary
+  locator: 19404-19413
+  quote_or_summary: The fable says the hyrax went without a tail because it sent other
+    animals; on the day tails were distributed, the sky was clouded and other animals
+    went to fetch tails.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:4
+  type: quote
+  locator: 19413-19418
+  quote_or_summary: "“do you bring back my tail for me, for I cannot go out of my
+    hole, because it is raining.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+- id: ev:5
+  type: summary
+  locator: 19419-19424
+  quote_or_summary: The others returned with tails, but the hyrax never had one because
+    it did not go out in the rain; a tail is useful for driving away flies, and the
+    hyrax has nothing to brush them off with.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labeling
+    is cautious because the available taxonomy does not include a direct etiological
+    animal-fable category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or inheritance claims are made; comparison is limited to a functionally similar fable pattern.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19382-l19424
+  passage_sha256=941b6e55337f1b9f91e8beb1149ed4cd2efcc7a4f39de57fa944868eb935e31a
+

@@ -1,0 +1,384 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l14110-l14159
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: MYTHS OF THE MODOCS 269 / MYTHS OF THE MODOCS 271 / COLTZ AND WUS / CHARACTERS;
+    lines 14110-14159
+  start: '14110'
+  end: '14159'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Creep into my mouth; I won''t chew you."'
+  summary: The passage lists characters, then describes Coltz beginning a journey,
+    being stopped by a deep river, waiting by the water, and being offered help by
+    an old Won man who proposes ways to carry him across. Coltz fears falling or drowning,
+    and finally enters Won's mouth and sits by his heart.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The character list identifies Coltz as Porcupine, Won as Elk, and Wus as Fox.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coltz starts to travel and comes to a deep river where he cannot find a crossing
+    place.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Coltz sits on the riverbank for three days looking at the water and wondering
+    why it is so deep.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Some Won people come to the river to cross, and an old man among them travels
+    more slowly than the rest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the other Won people have crossed, the old man asks Coltz why he is
+    sitting by the water and why he does not cross.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Coltz says he cannot cross because the water is deep and he is scared.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The old Won man offers several ways to carry Coltz: on his back, behind his
+    head, in his ear, or holding his neck.'
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Coltz rejects the proposed carrying methods because he fears being dropped,
+    shaken out, getting tired, or drowning.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The old Won man says he does not want to leave Coltz there and tells him to
+    creep into his mouth, promising not to chew him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Coltz creeps into Won's mouth, goes down, and sits by Won's heart.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Coltz
+  description: Porcupine named in the character list; a traveler stopped by a deep
+    river who fears crossing and enters Won's mouth.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Won / old Won man
+  description: Elk named in the character list; an old man among the Won people who
+    lags behind and offers to carry Coltz across the river.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Won people
+  description: A group who come to the river to cross; they cross before the old man
+    speaks with Coltz.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Wus
+  description: Fox named in the character list; no action is described for Wus in
+    this excerpt.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: traveler
+  assigned_to:
+  - fig:1
+  basis: Coltz starts to travel and encounters the river during his journey.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: fearful would-be river crosser
+  assigned_to:
+  - fig:1
+  basis: Coltz says the water is deep and he is scared, and repeatedly fears falling
+    or drowning.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: enclosed passenger
+  assigned_to:
+  - fig:1
+  basis: Coltz enters Won's mouth and sits by Won's heart.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: elder helper
+  assigned_to:
+  - fig:2
+  basis: The old Won man waits after the others cross and offers to take Coltz over.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:5
+  label: river-crossing carrier
+  assigned_to:
+  - fig:2
+  basis: Won offers his back, head, ear, neck, and mouth as ways for Coltz to be carried.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: river-crossing group
+  assigned_to:
+  - fig:3
+  basis: The Won people come to the river to cross and leave the old man behind.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: listed character
+  assigned_to:
+  - fig:4
+  basis: Wus is named as Fox in the character list, but does not act in the excerpt.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: deep river water
+  literal_form: deep river and water blocking Coltz's path
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: mouth as carrying place
+  literal_form: Won tells Coltz to creep into his mouth and promises not to chew him
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: heart-place inside helper
+  literal_form: Coltz sits right by Won's heart
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: three-day waiting period
+  literal_form: Coltz sits by the water for three days
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Character listing
+  summary: The passage identifies Coltz as Porcupine, Won as Elk, and Wus as Fox.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Coltz blocked by deep river
+  summary: Coltz begins a journey, cannot find a crossing place at a deep river, and
+    waits on the bank for three days.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Won people cross and old man speaks
+  summary: Won people come to cross the river; an old man lags behind, waits after
+    the others cross, and asks Coltz why he does not cross.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Negotiation over carrying methods
+  summary: Won offers several ways to carry Coltz across, while Coltz refuses each
+    because he fears falling, tiring, or drowning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Coltz enters Won's mouth
+  summary: Won urges Coltz not to remain by the water and tells him to enter his mouth;
+    Coltz enters and sits by Won's heart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: journey interrupted by impassable water
+  taxonomy_refs:
+  - departure
+  basis: Coltz starts to travel, reaches a deep river, cannot find a crossing, and
+    waits there for three days.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage shows a journey beginning and obstruction by water, but gives
+    no broader quest or destination in this excerpt.
+- id: motif:2
+  label: river crossing aided by an animal elder
+  taxonomy_refs: []
+  basis: An old Won man, identified with Elk in the character list, offers to take
+    Coltz across the deep river.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The excerpt ends before the actual crossing is completed.
+- id: motif:3
+  label: safe enclosure inside helper's body
+  taxonomy_refs: []
+  basis: Won tells Coltz to creep into his mouth and promises not to chew him; Coltz
+    then goes down and sits by Won's heart.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The later outcome of entering Won's body is not included in the supplied
+    passage.
+- id: motif:4
+  label: fearful refusals of escalating rescue offers
+  taxonomy_refs: []
+  basis: Coltz repeatedly refuses proposed methods of transport because each seems
+    dangerous to him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the excerpt rather than a matched
+    taxonomy motif.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode functions like a water-boundary crossing pattern: a traveler
+    is stopped by deep water and requires a helper to cross.'
+  claim_level: same_function
+  target: river-crossing helper pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not support claims of historical contact, common inheritance,
+    afterlife geography, or a completed crossing.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14110-14116
+  quote_or_summary: 'Character list: Coltz is identified as Porcupine, Won as Elk,
+    and Wus as Fox.'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:2
+  type: summary
+  locator: lines 14117-14123
+  quote_or_summary: Coltz begins traveling, reaches a deep river, cannot find a crossing
+    place, and sits on the bank looking at the water for three days.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:3
+  type: summary
+  locator: lines 14123-14129
+  quote_or_summary: Won people come to cross the river; an old man travels more slowly,
+    waits after the rest have crossed, and asks Coltz why he does not cross.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:4
+  type: summary
+  locator: lines 14130-14149
+  quote_or_summary: Coltz says the water is deep and he is scared. Won offers his
+    back, head, ear, and neck as ways to carry him, but Coltz fears falling or drowning.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief summary used.
+- id: ev:5
+  type: quote
+  locator: lines 14150-14159
+  quote_or_summary: Won says, "Creep into my mouth; I won't chew you." Coltz creeps
+    in, goes down, and sits by Won's heart.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal extraction is straightforward. Motif labels are candidate descriptions
+    because the passage is a short excerpt and the crossing is not completed within
+    the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; no external comparisons or unsupported taxonomy identifiers were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l14110-l14159
+  passage_sha256=05a866818013438ace29d880d13ed0a9901c097b958795bed1683ff66634973a
+

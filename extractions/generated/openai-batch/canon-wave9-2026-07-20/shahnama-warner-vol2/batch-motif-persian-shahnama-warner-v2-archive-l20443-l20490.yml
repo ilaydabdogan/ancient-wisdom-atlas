@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v2-archive-l20443-l20490
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+passage_locator:
+  label: VOL.  II.  2  B / V.  733 / V.  734 / KAI  KATJS; lines 20443-20490
+  start: '20443'
+  end: '20490'
+  translation: The Shahnama of Firdausi, Vol. II
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An unnamed figure seats Khusrau on the Shah's own seat, crowns him, descends
+    from the ivory throne, offers jewels, and blesses Siyawush, whose image Khusrau
+    is said to be. The nobles and leaders bless Khusrau as Shah and scatter gold and
+    jewels over him. A gnomic passage follows on the world's caprice, generosity,
+    enjoyment, divine provision, and the image of a child as a sucker from a parent
+    tree.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed figure sets Khusrau on the Shah's own seat, has the royal crown
+    brought, kisses and crowns him, then leaves the ivory throne and sits below.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same figure brings emeralds and royal jewels as an offering and repeatedly
+    invokes blessings on Siyawush, whose image Khusrau is said to be.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Nobles, chiefs, leaders, and great men assemble, bless Khusrau as their Shah,
+    and sprinkle gold and jewels over him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the world's custom is to take with one hand and give
+    with the other, and that people alternate between summit and abyss because of
+    its caprice.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage counsels the addressee to take pleasure while possible, provide
+    well, give the rest away, avoid sadness, enjoy wealth, and not be niggardly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says God gave to the addressee and will give to the addressee's
+    child, described as a sucker springing from the parent tree.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage describes the earth as stored with wealth and good things and
+    says the Lord does not diminish His bounteousness.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Khusrau
+  description: He is placed on the Shah's seat, crowned, described as the image of
+    Siyawush, blessed as Shah, and showered with gold and jewels.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unnamed enthroning figure
+  description: He seats Khusrau, orders the royal crown brought, kisses and crowns
+    Khusrau, sits below the throne, offers jewels, and invokes blessings on Siyawush.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Treasurer
+  description: The treasurer is ordered to bring forth the royal crown.
+  role_refs: []
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Siyawush
+  description: Blessings are invoked on him, and Khusrau is described as his image.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Nobles, chiefs, leaders, and great men
+  description: They assemble, bless Khusrau as Shah, and sprinkle gold and jewels
+    over him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: God / the Lord
+  description: God is named as the giver to the addressee and child; the Lord's bounteousness
+    is said not to diminish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: enthroning benefactor
+  assigned_to:
+  - fig:2
+  basis: He places Khusrau on the Shah's seat, crowns him, sits below, and gives jewels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: newly recognized Shah
+  assigned_to:
+  - fig:1
+  basis: Khusrau is crowned and blessed by assembled nobles as their Shah.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: ancestral or exemplary image invoked in blessing
+  assigned_to:
+  - fig:4
+  basis: Blessings are invoked on Siyawush, and Khusrau is called his image.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: recognizing assembly
+  assigned_to:
+  - fig:5
+  basis: The nobles and leaders assemble and bless Khusrau as Shah.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: divine giver
+  assigned_to:
+  - fig:6
+  basis: God is said to give to the addressee and child, and the Lord's bounty is
+    said not to diminish.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: royal crown
+  literal_form: the royal crown brought by the treasurer and placed on Khusrau
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Shah's seat and ivory throne
+  literal_form: the Shah's own seat and splendid ivory throne
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gold, emeralds, and royal jewels
+  literal_form: emeralds, royal jewels, gold, and jewels offered or sprinkled
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: summit and abyss
+  literal_form: the paired image of summit and abyss used for worldly reversal
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: parent tree and sucker
+  literal_form: a child described as a sucker springing from the parent tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Khusrau enthroned and crowned
+  summary: An unnamed figure seats Khusrau on the Shah's seat, orders the crown brought,
+    crowns and kisses him, and then sits below the ivory throne.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Blessing, offering, and noble recognition
+  summary: The enthroning figure offers emeralds and royal jewels and blesses Siyawush;
+    the assembled nobles bless Khusrau as Shah and scatter gold and jewels over him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Gnomic counsel on fortune, wealth, and bounty
+  summary: The passage reflects on worldly caprice, urges enjoyment and generosity,
+    and attributes continuing provision to God and the Lord's undiminished bounty.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: royal enthronement and legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Khusrau is placed on the Shah's seat, crowned with the royal crown, blessed
+    as Shah by nobles, and showered with wealth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage does not identify the unnamed enthroning figure within the
+    supplied excerpt.
+- id: motif:2
+  label: royal largesse and public gift display
+  taxonomy_refs: []
+  basis: Emeralds and royal jewels are offered, and gold and jewels are sprinkled
+    over Khusrau during public recognition.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents gift display and wealth scattering but does not explicitly
+    frame it as a formal exchange system.
+- id: motif:3
+  label: wisdom counsel on fortune and generosity
+  taxonomy_refs:
+  - wisdom
+  basis: The passage gives explicit counsel about the world's caprice, pleasure, generosity,
+    wealth, sadness, and divine bounty.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a gnomic reflection within the passage rather than a separate
+    narrative episode.
+- id: motif:4
+  label: child as offshoot of parent tree
+  taxonomy_refs: []
+  basis: The child is described through the image of a sucker springing from the parent
+    tree.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The image is brief and metaphorical; the passage does not develop it into
+    a full tree myth or axis motif.
+comparison_claims:
+- id: claim:1
+  claim: The coronation scene functions as a royal legitimacy pattern through throne
+    placement, crowning, noble recognition, and public blessing.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is functional and motif-level only; the supplied excerpt
+    does not support claims about historical contact or broader tradition beyond this
+    passage.
+- id: claim:2
+  claim: The gnomic closing aligns with a wisdom pattern in which worldly instability
+    is answered by moderation, generosity, and trust in divine bounty.
+  claim_level: same_function
+  target: wisdom motif family
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a broad wisdom-function comparison, but it does
+    not compare itself to another named text or tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20443-20450
+  quote_or_summary: Khusrau is set on the Shah's seat; the treasurer is told to bring
+    the royal crown; he is kissed and crowned; the enthroning figure leaves the ivory
+    throne and sits below.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 20451-20457
+  quote_or_summary: The enthroning figure brings emeralds and royal jewels as an offering,
+    invokes blessings on Siyawush, and the passage says Khusrau is Siyawush's image.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 20457-20463
+  quote_or_summary: Nobles, chiefs, leaders, and great men assemble, bless Khusrau
+    as their Shah, and sprinkle gold and jewels over him.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 20464-20470
+  quote_or_summary: The passage says the world's fashion is to take with one hand
+    and give with the other, and that people alternate between summit and abyss because
+    of its caprice.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 20471-20481
+  quote_or_summary: The passage counsels gladness, pleasure while possible, provision,
+    giving the rest away, avoiding sadness, enjoying wealth, and not being niggardly.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: 20482-20485
+  quote_or_summary: "“God gave to thee and will give to thy child — / That sucker
+    springing from the parent tree.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; short quotation from supplied passage.
+- id: ev:7
+  type: summary
+  locator: 20486-20490
+  quote_or_summary: The passage says earth is furnished with wealth and good things,
+    that the Lord's bounteousness does not diminish, and urges the addressee to turn
+    from sorrow toward joy.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md
+  rights_note: Public domain translation; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Narrative actions and figures are clear in the supplied excerpt, but the
+    unnamed enthroning figure is not identified and some motif labels are broad functional
+    classifications.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references limited to provided motif families and symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v2-archive__l20443-l20490
+  passage_sha256=b764b31709ceb0e6c3fa8850b8a3bd5245d22360171071e642ab3a2de3c041dd
+

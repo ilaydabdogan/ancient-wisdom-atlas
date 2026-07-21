@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l7019-l7134
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA    TETBE / HISTORIC    VILLAGES    AND    PLACES / TRIBES  KNOWN  TO  THE  OMAHA
+    / BIRDS; lines 7019-7134
+  start: '7019'
+  end: '7134'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A bird glossary gives English bird names, Omaha names, occasional descriptive
+    glosses, a food-use marker, one mythic allusion explaining the blue-winged teal
+    as a “betrayer duck,” and a note that the head of an identified bird is used on
+    tribal and Wa'wan pipes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is headed “BIRDS” and gives Wazhin'ga as the general term for
+    bird.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An initial note states that an asterisk marks birds used for food.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: obs:3
+  text: The list supplies English bird names with Omaha names and, for some entries,
+    glosses based on size, color, body part, behavior, or resemblance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The blue-winged teal entry gives an alternate Omaha name glossed as “betrayer
+    duck” and explains it by saying the bird betrayed a water monster in the myth
+    of Haxegi.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A footnote says the head of “this bird” is used on the tribal and Wa'wan pipes.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Birds / Wazhin'ga
+  description: The collective bird category named by the glossary.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Asterisk-marked birds
+  description: Bird entries marked with an asterisk to indicate use for food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Blue-winged teal / “betrayer duck”
+  description: A duck entry with an Omaha name glossed as blue wing and an alternate
+    name glossed as betrayer duck.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Water monster in the myth of Haxegi
+  description: A water monster mentioned only as the being betrayed in the mythic
+    explanation of the blue-winged teal name.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unspecified bird whose head is used on pipes
+  description: The footnote refers to “this bird,” but the excerpt does not securely
+    identify the antecedent.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named animal category
+  assigned_to:
+  - fig:1
+  basis: The passage gives a general Omaha term for bird and then lists many bird
+    entries.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: food-use category
+  assigned_to:
+  - fig:2
+  basis: The passage states that asterisks identify birds used for food and marks
+    multiple entries with asterisks.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:3
+  label: betrayer in named mythic allusion
+  assigned_to:
+  - fig:3
+  basis: The blue-winged teal is also called betrayer duck because it betrayed the
+    water monster in the myth of Haxegi.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: betrayed water being
+  assigned_to:
+  - fig:4
+  basis: The water monster is described as the being betrayed by the blue-winged teal
+    in the mythic allusion.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: source of bird head used on pipes
+  assigned_to:
+  - fig:5
+  basis: A footnote states that the head of this bird is used on tribal and Wa'wan
+    pipes.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Bird category
+  literal_form: Birds listed under Wazhin'ga
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Food-use asterisk
+  literal_form: Asterisk marking bird entries used for food
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:3
+  label: Betrayer duck
+  literal_form: Blue-winged teal named as “betrayer duck”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Water monster
+  literal_form: Water monster in the myth of Haxegi
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Bird head on pipes
+  literal_form: Head of this bird used on tribal and Wa'wan pipes
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bird glossary and food marker
+  summary: The passage introduces the Omaha general term for bird and explains that
+    asterisks mark birds used for food, then lists many bird entries.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Blue-winged teal linked to the Haxegi myth
+  summary: The blue-winged teal receives an alternate name glossed as betrayer duck
+    because it betrayed a water monster in the myth of Haxegi.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Bird head used on tribal and Wa'wan pipes
+  summary: A footnote states that the head of the referenced bird is used on the tribal
+    and Wa'wan pipes.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Trait-based animal naming
+  taxonomy_refs: []
+  basis: Several bird names are glossed by visible traits, behavior, size, color,
+    or resemblance, such as looking upward, big/little forms, colored body parts,
+    or laughing/fooling associations.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a lexical and ethnographic pattern in the passage, not a full
+    narrative motif.
+- id: motif:2
+  label: Birds classified by food use
+  taxonomy_refs: []
+  basis: The passage explicitly states that asterisks mark birds used for food and
+    marks numerous bird entries that way.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: This is a subsistence-classification pattern rather than a mythic episode.
+- id: motif:3
+  label: Animal betrays a water monster
+  taxonomy_refs: []
+  basis: The blue-winged teal is called betrayer duck because it betrayed a water
+    monster in the myth of Haxegi.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only a brief allusion is present; the full mythic episode and the nature
+    of the water monster are not included in this passage.
+- id: motif:4
+  label: Bird head incorporated into named pipes
+  taxonomy_refs: []
+  basis: A footnote says the head of the referenced bird is used on tribal and Wa'wan
+    pipes.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The antecedent of “this bird” and the ceremonial or practical function
+    of the use are not fully explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7019-7022
+  quote_or_summary: The section is titled BIRDS, gives Bird as Wazhin'ga, and states
+    that an asterisk indicates birds used for food.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 7023-7128
+  quote_or_summary: The glossary lists many birds by English name, Omaha name, and
+    occasional glosses describing appearance, size, color, behavior, or resemblance.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: blue-winged teal entry, within lines 7019-7134
+  quote_or_summary: The blue-winged teal is given an alternate name meaning betrayer
+    duck because it betrayed the water monster in the myth of Haxegi.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: footnote near end of passage, within lines 7019-7134
+  quote_or_summary: A footnote says that the head of this bird is used on the tribal
+    and Wa'wan pipes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: asterisked entries throughout lines 7019-7134
+  quote_or_summary: Multiple bird entries carry asterisks, which the opening note
+    defines as marking birds used for food.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The glossary entries are straightforward, but OCR artifacts and the ambiguous
+    footnote antecedent limit certainty for the pipe-related figure and motif. No
+    external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external taxonomy IDs or comparisons were added beyond the explicit water symbol reference in “water monster.”
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l7019-l7134
+  passage_sha256=325d5a4a93e004be9fb3d8b39f4386bd1c8c5b71aab236dfc2ada2911d74a783
+

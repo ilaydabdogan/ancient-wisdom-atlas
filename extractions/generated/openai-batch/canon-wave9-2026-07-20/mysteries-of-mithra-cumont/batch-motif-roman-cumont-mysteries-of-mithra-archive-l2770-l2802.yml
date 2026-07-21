@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l2770-l2802
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    MYSTERIES    OF    MITHRA / MITHRAISM    IN    THE    ROMAN    EMPIRE
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE  57 / MITHRAISM    IN    THE    ROMAN    EMPIRE  59;
+    lines 2770-2802
+  start: '2770'
+  end: '2802'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Oriental, specifically Syrian, mercantile diaspora
+    spreading through many Roman provinces and maintaining enterprise over time. It
+    states that Syrians were notably zealous in religion, defended their idols against
+    Christians, and organized their national cults when founding colonies, sometimes
+    with subsidies from the mother country.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists numerous places in Italy, Dalmatia, Spain, Dacia, Pannonia,
+    and Gaul reached by an Oriental mercantile population.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: Their mercantile activity is said to have led them inland wherever profit
+    appeared possible.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says this population filled the Roman world and that later barbarian
+    invasions did not dampen their spirit of enterprise.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Syrians were distinguished by religious zeal and defended
+    their idols against Christians.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: When Syrians founded a colony, their first care is described as organizing
+    their national cults.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The mother country is said to have frequently granted generous subsidies for
+    the performance of this religious duty.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Oriental mercantile population
+  description: A mobile population associated with trade, appearing across Roman Italy,
+    Dalmatia, Spain, Dacia, Pannonia, and Gaul.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Syrians
+  description: A people described as religiously zealous, defenders of idols, and
+    organizers of national cults in colonies.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Christians
+  description: A group against whom the Syrians are said to have defended their idols.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Mother country
+  description: The homeland said to have sometimes provided subsidies for colonial
+    cult obligations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Saracens
+  description: A group whose destruction of Mediterranean navigation is said to have
+    checked the emigration.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: commercial diaspora
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage connects the population’s spread with mercantile activity and
+    emigration across the Roman world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: religious defenders
+  assigned_to:
+  - fig:2
+  basis: The Syrians are described as defending their idols against Christians.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: colonial cult organizers
+  assigned_to:
+  - fig:2
+  basis: The Syrians are said to organize national cults when founding a colony.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: religious opponents
+  assigned_to:
+  - fig:3
+  basis: The Christians are named as those against whom the Syrians defended their
+    idols.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: cult subsidy provider
+  assigned_to:
+  - fig:4
+  basis: The mother country is said to allow generous subsidies for the pious duty
+    of cult organization.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: navigation-disrupting force
+  assigned_to:
+  - fig:5
+  basis: The Saracens are said to have destroyed Mediterranean navigation, checking
+    emigration.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: idols
+  literal_form: idols
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: national cults
+  literal_form: organized national cults in colonies
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Mediterranean navigation
+  literal_form: navigation of the Mediterranean
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mercantile spread through Roman provinces
+  summary: An Oriental mercantile population is described as moving through coastal
+    and inland regions from Italy and Dalmatia to Spain, the Danube lands, and Gaul.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Persistence and eventual check of emigration
+  summary: The population is said to have filled the Roman world, continued its enterprise
+    despite barbarian invasions, and had its emigration checked only after Saracens
+    destroyed Mediterranean navigation.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Syrian religious zeal and colonial cult organization
+  summary: Syrians are described as zealous defenders of idols against Christians
+    and as organizing national cults when founding colonies, sometimes with subsidies
+    from the mother country.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: religious cult carried by mercantile diaspora
+  taxonomy_refs: []
+  basis: The passage links commercial migration with the founding of colonies and
+    the organization of national cults.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is a historical pattern in modern scholarship rather than a mythic
+    narrative motif.
+- id: motif:2
+  label: defense of ancestral idols against rival religion
+  taxonomy_refs: []
+  basis: The passage states that Syrians defended their idols with great pertinacity
+    against Christians.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage reports a religious-historical conflict; it does not narrate
+    a specific mythic episode.
+- id: motif:3
+  label: homeland support for diaspora cult practice
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The mother country is said to grant subsidies toward the performance of the
+    colony’s pious duty to organize national cults.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The taxonomy reference is tentative because the passage concerns institutional
+    funding, not a mythic exchange.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2770-2780
+  quote_or_summary: The passage lists Ravenna, Aquileia, Tergeste, Salonae, Malaga,
+    Sarmizegetusa, Apulum, and Sirmium as places reached by an Oriental mercantile
+    population, including inland travel wherever profit was possible.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 2780-2793
+  quote_or_summary: In Gaul the population is described as dense, reaching Bordeaux,
+    the Rhone, Lyons, and Treves; it is said to have filled the Roman world, persisted
+    under later conditions, and had emigration checked when Saracens destroyed Mediterranean
+    navigation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:3
+  type: quote
+  locator: lines 2794-2798
+  quote_or_summary: "“The Syrians were distinguished in all epochs by their ardent
+    zeal” and defended “their idols” against Christians."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation supplied.
+- id: ev:4
+  type: summary
+  locator: lines 2798-2802
+  quote_or_summary: When Syrians founded a colony, the passage says their first care
+    was to organize their national cults, and that the mother country frequently allowed
+    generous subsidies for this pious duty.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage is historical scholarship about migration, commerce, and cult
+    organization rather than a myth narrative. Literal extraction is relatively secure,
+    while motif classification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied passage were not normalized except in summaries.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l2770-l2802
+  passage_sha256=7b206ed3c5906664bbb8737f4a389e68f77045f55e08e78e109f19758f7cb4a2
+

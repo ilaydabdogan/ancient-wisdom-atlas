@@ -1,0 +1,346 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19482-l19584
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: FABLES. / IZINGANEKWANF. / THE HYENA AND THE MOON. / IMPISI NENYANGA.; lines
+    19482-19584
+  start: '19482'
+  end: '19584'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“it threw away the bone, and caught at nothing, because it saw the moon
+    in the water.”"
+  summary: A hyena carrying a bone sees the moon reflected in still water, drops the
+    bone, and tries repeatedly to seize the reflection, thinking it is fat meat or
+    flesh. He catches only water, while another hyena takes the bone. The tale ends
+    by saying that a laughed-at person may be compared to this hyena.
+  language: English translation with Zulu headings
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An hyena finds a bone, takes it up, and carries it in his mouth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The moon is shining brightly and the water is still, allowing the hyena to
+    see the moon in the water.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The hyena throws down the bone and tries to catch the moon in the water, thinking
+    it is fat meat or flesh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hyena sinks into the water, disturbs it, later waits for it to clear,
+    springs again, catches only water, and muddies the water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: Another hyena comes and takes the discarded bone while the first hyena remains
+    at the water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Morning arrives, daylight dulls the moon, and the deceived hyena is described
+    as worsted; he returns on another day until the place is trampled bare.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'The tale is applied proverbially: a person who is laughed at may be compared
+    to the hyena that threw away a bone and caught nothing after seeing the moon in
+    the water.'
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: An editorial note explicitly states that the tale is similar to “The Dog and
+    the Shadow” and to the “Hibernian Moon-rakers.”
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A surrounding editorial comparison cites other animal tales from Bornu, European
+    wolf/Reynard material, and Central America involving deception, bait, moon-reflection,
+    or tail-loss elements.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: first hyena
+  description: The hyena who carries the bone, mistakes the moon’s reflection for
+    meat, loses the bone, and becomes an object of laughter.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: another hyena
+  description: A second hyena who comes and takes the bone left by the first hyena.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: deceived animal protagonist
+  assigned_to:
+  - fig:1
+  basis: The first hyena mistakes the moon reflected in water for meat or flesh and
+    repeatedly tries to seize it.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: opportunistic taker of abandoned food
+  assigned_to:
+  - fig:2
+  basis: The second hyena takes the bone after the first hyena has thrown it down.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: proverbial object of ridicule
+  assigned_to:
+  - fig:1
+  basis: The tale says that a laughed-at person may be compared to the hyena that
+    threw away the bone and caught nothing.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: bone
+  literal_form: A bone carried in the hyena’s mouth, thrown down, and later taken
+    by another hyena.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: moon in the water
+  literal_form: The moon seen as a reflection in still water and mistaken for fat
+    meat or flesh.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: water
+  literal_form: Still and clear water that reflects the moon, then becomes disturbed
+    and muddy when the hyena plunges into it.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Moonlit reflection and discarded bone
+  summary: The hyena carries a bone beside still water under bright moonlight, sees
+    the moon in the water, and throws away the bone to seize what he thinks is meat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Repeated failed attempts in the water
+  summary: The hyena plunges into the water, catches only water, waits for the reflection
+    to return, and repeats the attempt, muddying the water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Bone taken and hyena worsted
+  summary: Another hyena takes the abandoned bone; daylight dulls the moon, and the
+    deceived hyena continues returning to the fruitless place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Proverbial application
+  summary: 'The tale is used as a comparison for someone laughed at: the person is
+    likened to the hyena who gave up a real bone for the moon’s reflection.'
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Mistaking a reflection for food
+  taxonomy_refs: []
+  basis: The hyena sees the moon in still water and tries to catch it because he thinks
+    it is fat meat or flesh.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No exact supplied taxonomy family matches this reflection-deception motif.
+- id: motif:2
+  label: Losing a real possession while grasping an illusion
+  taxonomy_refs: []
+  basis: The hyena throws away a real bone to seize the reflected moon, catches nothing,
+    and another hyena takes the bone.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The motif is inferred from the narrated sequence, not assigned to a supplied
+    taxonomy reference.
+- id: motif:3
+  label: Animal fable as ridicule or proverb
+  taxonomy_refs: []
+  basis: The ending states that a laughed-at person may be told he is like the hyena
+    who threw away the bone and caught nothing.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a functional motif of proverbial application rather than a named
+    taxonomy item in the supplied list.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s editorial note explicitly compares this fable to “The Dog and
+    the Shadow” and to the “Hibernian Moon-rakers”; the supported comparison is at
+    the level of a reflection or illusory object being mistaken for something desirable.
+  claim_level: same_motif
+  target: "“The Dog and the Shadow”; “Hibernian Moon-rakers”"
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial rather than part of the narrated Zulu tale,
+    and it does not establish historical contact or common inheritance.
+- id: claim:2
+  claim: A surrounding comparative note places nearby animal tales from Bornu, European
+    wolf/Reynard material, and Central America in relation to deception, bait, moon-reflection,
+    or tail-loss patterns; this only weakly supports comparison with the present hyena
+    tale’s reflection-deception element.
+  claim_level: same_motif
+  target: Bornu Hyena/Weasel, European wolf/Reynard, and Central American animal-tail
+    tales cited in the editorial note
+  evidence_refs:
+  - ev:2
+  - ev:7
+  counter_evidence_refs:
+  - ev:5
+  confidence: low
+  limitations: The note appears as interleaved editorial material; the main Zulu narrative
+    summarized in the proverb does not itself narrate tail loss.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19488-19493, opening action and setting
+  quote_or_summary: "“an hyena found a bone”; the moon shines with beautiful light
+    and “the water being still.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 19493-19504, first attempt
+  quote_or_summary: The hyena “threw down the bone when he saw the moon in the water,”
+    caught at the moon, and thought it was “fat meat” or “flesh.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 19504-19508, repeated attempt and muddy water
+  quote_or_summary: The hyena catches only water; the water runs out of his mouth,
+    becomes muddy, and he goes back to the bank.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated.
+- id: ev:4
+  type: summary
+  locator: lines 19510-19518, second hyena and aftermath
+  quote_or_summary: Another hyena takes the bone. Morning comes, daylight dulls the
+    moon, the first hyena is worsted, and he later returns until the place is trampled
+    bare.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated.
+- id: ev:5
+  type: quote
+  locator: closing proverb within lines 19482-19584
+  quote_or_summary: "“So-and-so, you are like the hyena; it threw away the bone, and
+    caught at nothing, because it saw the moon in the water.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: editorial footnote 15 within lines 19482-19584
+  quote_or_summary: "“This is precisely similar to our The Dog and the Shadow, or
+    to The Hibernian Moon-rakers.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: interleaved comparative note within lines 19482-19584
+  quote_or_summary: The supplied text includes a comparative note citing Bornu, European
+    wolf/Reynard, and Central American examples involving hyena, weasel, wolf, stag,
+    rabbit, bait, moon-reflection, or tail-loss elements.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary generated.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The main fable is clear, but the supplied passage contains interleaved editorial
+    footnotes and begins the next tale, so editorial comparisons and tail-loss material
+    require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied text continues into the beginning of “The baboons and the leopard”; this extraction focuses on the labeled “The Hyena and the Moon” material and attached editorial notes.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19482-l19584
+  passage_sha256=f3780ae35839c01605d51cb03141b8be91fa08bac70299bfb8f53819e7518913
+

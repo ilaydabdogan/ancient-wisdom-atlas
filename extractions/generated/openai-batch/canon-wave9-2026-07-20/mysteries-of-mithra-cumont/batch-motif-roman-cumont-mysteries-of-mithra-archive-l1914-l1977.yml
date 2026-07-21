@@ -1,0 +1,340 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l1914-l1977
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    ORIGINS    OF    MITHRAISM  3! / MITHRAISM    IN    THE    ROMAN    EMPIRE  35
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE  37 / MITHRAISM    IN    THE    ROMAN    EMPIRE;
+    lines 1914-1977
+  start: '1914'
+  end: '1977'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the limited evidence for local histories of Mithraism,
+    presents a caption for a second-century marble group of Tauroctonous Mithra in
+    which wheat issues from the bull’s wound, and states that Mithraic theory derived
+    wheat and the vine from the sacrificed animal. It then describes the army and
+    soldiers, including the initiate grade called milites, as principal agents in
+    the diffusion of Mithraism in the Roman Empire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Epigraphic texts and sculptured monuments are said to provide imperfect information
+    about the local history of Mithraism.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure caption identifies a second-century marble group in the British Museum
+    as Tauroctonous Mithra.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The caption states that three spikes of wheat, rather than blood, issue from
+    the wound of the bull.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that, according to Mithraic theory, wheat and the vine
+    sprang from the spinal cord and blood of the sacrificed animal.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The army is described as the principal agent of the diffusion of Mithraism.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mithraic religion is described as predominantly a religion of soldiers.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The name milites is said to have been given to a certain grade of initiates.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that centurions were often transferred to foreign stations
+    or new garrisons.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Tauroctonous Mithra
+  description: Named in the caption as the subject of a second-century marble group.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: bull / sacrificed animal
+  description: The bull has a wound from which three spikes of wheat issue; the related
+    Mithraic theory calls it the sacrificed animal.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: army / soldiers
+  description: Collective group described as the principal agent of Mithraic diffusion
+    and as closely associated with the religion.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: milites
+  description: A name given to a certain grade of Mithraic initiates.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: centurions
+  description: Military officers described as commonly transferred after promotion
+    and service.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: named bull-slaying figure
+  assigned_to:
+  - fig:1
+  basis: The caption labels the marble group as Tauroctonous Mithra.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: sacrificed animal
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the bull’s wound and to the sacrificed animal in Mithraic
+    theory.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: principal agent of diffusion
+  assigned_to:
+  - fig:3
+  basis: The army is explicitly described as the principal agent of Mithraism’s diffusion.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: initiate grade
+  assigned_to:
+  - fig:4
+  basis: The passage states that milites was the name of a certain grade of initiates.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: mobile military officer
+  assigned_to:
+  - fig:5
+  basis: Centurions are described as being transferred to foreign stations and new
+    garrisons.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: bull as sacrificed animal
+  literal_form: bull / sacrificed animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: three spikes of wheat
+  literal_form: three spikes of wheat issuing from the bull’s wound
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: wheat and vine from animal body
+  literal_form: wheat and vine springing from the spinal cord and blood of the sacrificed
+    animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: blood and spinal cord
+  literal_form: blood and spinal cord of the sacrificed animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tauroctonous marble group and plant emergence
+  summary: A caption describes a marble group of Tauroctonous Mithra in which the
+    bull’s wound issues three spikes of wheat; the accompanying explanation states
+    that Mithraic theory derived wheat and the vine from the sacrificed animal’s body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Military diffusion of Mithraism
+  summary: The passage identifies the army as the main agent of Mithraism’s spread
+    and describes Mithraism as a religion especially associated with soldiers and
+    an initiate grade called milites.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Movement of centurions between garrisons
+  summary: The passage explains that promoted soldiers serving as centurions were
+    often transferred to foreign stations and later to new garrisons, providing a
+    context for military mobility.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacrificed animal generating cultivated plants
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage states that wheat and the vine sprang from the spinal cord and
+    blood of the sacrificed animal, and the caption shows wheat issuing from the bull’s
+    wound.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This extraction is based on Cumont’s summary and a figure caption, not
+    on a full primary ritual narrative in this passage.
+- id: motif:2
+  label: military initiation grade
+  taxonomy_refs:
+  - initiation
+  basis: The passage states that milites was the name of a certain grade of Mithraic
+    initiates and connects Mithraism strongly with soldiers.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage gives only the name and general military association, not
+    details of the initiation rite.
+- id: motif:3
+  label: religious diffusion through soldiers
+  taxonomy_refs: []
+  basis: The army is described as the principal agent of the diffusion of Mithraism,
+    with soldiers and centurions implicated in its spread.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: This is a historical transmission pattern rather than a mythic narrative
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1914-1977, paragraph after Fig. 10 caption
+  quote_or_summary: The passage says epigraphic texts and sculptured monuments provide
+    imperfect light on the local history of Mithraism and that only broad outlines
+    of propagation can be indicated.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; summarized evidence
+- id: ev:2
+  type: quote
+  locator: lines 1914-1977, Fig. 10 caption
+  quote_or_summary: "“TAUROCTONOUS MITHRA. (Marble group of the second century, British
+    Museum.)”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; short excerpt
+- id: ev:3
+  type: quote
+  locator: lines 1914-1977, Fig. 10 caption
+  quote_or_summary: "“not blood, but three spikes of wheat, issue from the wound of
+    the bull.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; short excerpt
+- id: ev:4
+  type: quote
+  locator: lines 1914-1977, Fig. 10 caption
+  quote_or_summary: "“wheat and the vine sprang from the spinal cord and the blood
+    of the sacrificed animal”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; short excerpt
+- id: ev:5
+  type: quote
+  locator: lines 1914-1977, paragraph beginning “The principal agent”
+  quote_or_summary: "“The principal agent of its diffusion was undoubtedly the army.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; short excerpt
+- id: ev:6
+  type: quote
+  locator: lines 1914-1977, paragraph beginning “The principal agent”
+  quote_or_summary: "“The Mithraic religion is predominantly a religion of soldiers”
+    and “the name of milites was given to a certain grade of initiates.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; short excerpt
+- id: ev:7
+  type: summary
+  locator: lines 1914-1977, paragraph on legions and recruitment
+  quote_or_summary: The passage notes that legions were generally stationary and locally
+    recruited, while also describing exceptions involving Asiatic troops in Dalmatia,
+    Moesia, and Africa.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; summarized evidence
+- id: ev:8
+  type: summary
+  locator: lines 1914-1977, paragraph on centurions
+  quote_or_summary: The passage states that a soldier promoted to centurion was typically
+    transferred to a foreign station and later often assigned to a new garrison.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: public domain; summarized evidence
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the figure caption and military diffusion
+    statements. Motif candidates are limited because the passage is modern historical
+    exposition and a caption, not a complete mythic narrative. No comparison claims
+    were made because the passage itself does not support a specific cross-traditional
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Available symbol taxonomy did not include bull, wheat, vine, blood, or spinal cord, so symbol taxonomy_refs were left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l1914-l1977
+  passage_sha256=f9125fb7261388b6123ddb6284423d935b82b3360ac05c89383055c72c5cc091
+

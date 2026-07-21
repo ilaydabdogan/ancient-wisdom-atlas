@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34377-l34393
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE    OMAHA    TRIBE / REGULAR  MEETINGS / SOCIETIES; lines
+    34377-34393
+  start: '34377'
+  end: '34393'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes preparations for a society meeting: pipe-related
+    articles, food, gifts, and ritual implements are placed in assigned locations;
+    servants announce readiness; members enter, pass around the fire by the left,
+    sit with their lodges, and the host enters last to take his accustomed seat.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Articles connected with pipes belonging to a lodge pack are placed in the
+    host's appointed seat in the lodge.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Food is placed outside the dwelling where the society meets and is made ready
+    for cooking.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gifts are spread within the dwelling, and a bowl, drum, and rattles are deposited
+    in their proper places.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Servants obtain the bowl, drum, and rattles from their keepers and are sent
+    to tell the members that all is ready.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Members enter the dwelling, pass around the fire by the left, and take places
+    with their respective lodges.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The host is last to enter and takes his accustomed seat.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Host
+  description: The person whose appointed or accustomed seat is mentioned and who
+    enters last.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Servants
+  description: Attendants who obtain implements from keepers, deposit them, and announce
+    readiness to members.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Society members
+  description: Participants who enter the dwelling, pass around the fire by the left,
+    and sit with their respective lodges.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Keepers
+  description: Persons from whom the servants obtain the bowl, drum, and rattles.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Host
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the host's appointed or accustomed seat and says the
+    host enters last.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Ritual attendants and messengers
+  assigned_to:
+  - fig:2
+  basis: The servants obtain implements, place them, and announce readiness to members.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Meeting participants arranged by lodge
+  assigned_to:
+  - fig:3
+  basis: Members enter, pass around the fire, and take places with their respective
+    lodges.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: Custodians of implements
+  assigned_to:
+  - fig:4
+  basis: The bowl, drum, and rattles are obtained from their keepers.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Fire
+  literal_form: Fire in the meeting dwelling around which members pass by the left.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Pipe-related lodge pack articles
+  literal_form: Articles used for pipes belonging to the pack of a ti, or lodge.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Food prepared outside
+  literal_form: Food placed outside the meeting dwelling and made ready for cooking.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Gifts spread within
+  literal_form: Gifts spread inside the meeting dwelling.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: Bowl, drum, and rattles
+  literal_form: A bowl, drum, and rattles obtained from keepers and placed in proper
+    locations.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Preparation of meeting space
+  summary: Before the society members enter, pipe-related articles, food, gifts, and
+    implements are arranged in specified places, and servants announce that preparations
+    are complete.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ordered entry and seating
+  summary: The members enter, pass around the fire by the left, and sit with their
+    lodges; the host enters last and sits in his accustomed seat.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Prepared ritual meeting space
+  taxonomy_refs: []
+  basis: The passage describes objects, food, gifts, and implements being arranged
+    in proper or appointed places before the meeting begins.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is an ethnographic procedure rather than a mythic narrative;
+    symbolic meanings are not explained.
+- id: motif:2
+  label: Prescribed movement around a fire
+  taxonomy_refs: []
+  basis: Members enter and pass around the fire by the left before taking their seats.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not state the ritual meaning of the fire or the leftward
+    movement.
+- id: motif:3
+  label: Ordered seating by lodge and host precedence
+  taxonomy_refs: []
+  basis: Members sit with their respective lodges, while the host enters last and
+    takes an accustomed seat.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage provides sequence and placement but not broader mythological
+    interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34377-34383
+  quote_or_summary: Pipe-related articles are put in the host's appointed seat; food
+    is prepared outside; gifts are spread within; the bowl, drum, and rattles are
+    placed properly.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 34383-34387
+  quote_or_summary: Servants obtain the bowl, drum, and rattles from keepers, deposit
+    them, and tell the members "all is ready."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 34388-34393
+  quote_or_summary: Members enter the dwelling, pass around the fire by the left,
+    sit with their lodges, and the host enters last to take his accustomed seat.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage clearly supports ritual-sequence extraction. Motif labels are
+    descriptive because no explicit mythic interpretation or comparative frame is
+    provided. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external Omaha ritual context has been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34377-l34393
+  passage_sha256=7e43271f6d714d6339f9b33457d72e6ad1eb66de83791e0ae565fac9e6a94276
+

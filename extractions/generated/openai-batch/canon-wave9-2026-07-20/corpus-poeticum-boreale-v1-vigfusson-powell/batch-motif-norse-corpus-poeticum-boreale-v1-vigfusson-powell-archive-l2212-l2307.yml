@@ -1,0 +1,468 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l2212-l2307
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: INTRODUCTION. / DANISH SCHOLARS. XXV / XXX INTRODUCTION. / XXXIV INTRODUCTION.;
+    lines 2212-2307
+  start: '2212'
+  end: '2307'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an editorial introduction discussing cultural, material,
+    linguistic, and geographic indications in Eddic songs. It mentions Fairhair's
+    western expedition as a cause of migration to Iceland; describes halls, courts,
+    fortifications, furnishings, food, fuel, agriculture, animals, hunting, trees,
+    and dress; lists place names and imagined geography; and compares the Hymi Lay's
+    giant-house details with the chamber and stone bowls of the New Grange tomb in
+    Ireland.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says Fairhair's expedition to the West drove people from Caithness,
+    the Hebrides, and Orkneys to Arctic Iceland.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes a hall-and-court setting with a bower, hall, court or
+    homefield, games and ceremonies, a fort with walls, gateway, gate, garth, and
+    a watch-tower.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage lists hall furnishings and food-drink objects, including tables,
+    a cupboard, cans, cups, beer, wine, roast birds, grains, a cooking-vessel or brewing-vat,
+    bread, and boiled veal.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that peat is the fuel and uses the mention of peat to argue
+    against a Norwegian tenth- or eleventh-century setting for such a poem.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage describes agriculture and domestic animals, including carts, wheeled
+    wagons, ploughs, geese, tame pigs, goats, a goat-keeper with a hazel stick, wolves,
+    oxen, and neat cattle.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says dogs are used as watch-dogs and hunting dogs, and it names
+    wolves, harts, bears, a white bear, reindeer, and the hart as animals of the described
+    landscape.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage states that there is plenty of wood, naming oak for the pyre,
+    yew and elm for the bow, and similes involving ash, thorn, willow, fire, and garlick.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage lists geographic indications and imagined place names, including
+    Fife, Norway, Denmark, Limbfrith, a Russian name, Holy-river, Joy-bay, Sun-fell,
+    Morva-land, Havada-fiall, and Jordan.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The passage says the pillars, shelves, and stone cauldrons of the giant's
+    house in the Hymi Lay recall the chamber of the giant-tomb at New Grange, Ireland,
+    with its stone-slabbed chamber and broad stone bowls.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: The passage lists dress, textile, metal, harp, and Welsh/Celtic lexical items
+    and says these evidence constant intercourse with Celtic people.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Fairhair
+  description: A named figure whose western expedition is said to have driven people
+    from Caithness, the Hebrides, and Orkneys to Iceland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: People driven to Iceland
+  description: Unnamed people said to have been driven from Caithness, the Hebrides,
+    and Orkneys to Arctic Iceland.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tapestry-poet
+  description: A poetic source cited for the fortified court, the hart, the Fife indication,
+    the Russian name, and dress or material terms.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:6
+  - ev:8
+  - ev:10
+- id: fig:4
+  name_or_label: Helgi-poet
+  description: A poetic source cited for goats, the goat-keeper, wolves, reindeer,
+    the hart, and phantasy geography.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: Giant of the Hymi Lay
+  description: A giant associated in the passage with a house containing pillars,
+    shelves, and stone cauldrons.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: expedition-associated agent
+  assigned_to:
+  - fig:1
+  basis: The passage attributes the western expedition to Fairhair.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: displaced migrants or settlers
+  assigned_to:
+  - fig:2
+  basis: The passage says they were driven from western island regions to Iceland.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: poetic source for cultural and geographic details
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage repeatedly cites the Tapestry-poet and Helgi-poet for settings,
+    animals, geography, and material terms.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:10
+- id: role:4
+  label: giant householder or inhabitant
+  assigned_to:
+  - fig:5
+  basis: The passage refers to the giant's house in the Hymi Lay and its architectural
+    objects.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: fortified court and gateway
+  literal_form: Court or homefield, fort, high walls, gateway, gate, garth, and watch-tower.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hall vessels and drinking setting
+  literal_form: Tables, cupboard, cans, mounted cups, beer, and wine in the hall.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: fuel, pyre, and fire
+  literal_form: Peat fuel; oak for the pyre; willow stripped by wind or fire.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: hunting animals and wild landscape
+  literal_form: Wolves, harts, bears, white bear, reindeer, hunting dogs, hills, and
+    wilderness.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: trees and wood
+  literal_form: Oak, yew, elm, ash, thorn, and willow.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: water place names
+  literal_form: Holy-river, Joy-bay, and Jordan.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+- id: sym:7
+  label: fell and mountain geography
+  literal_form: Sun-fell, Havada-fiall, hills, and the Carpathian-like comparison
+    in the editorial note.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:8
+- id: sym:8
+  label: giant's stone house or tomb-like chamber
+  literal_form: Pillars, shelves, stone cauldrons, stone-slabbed chamber, and broad
+    stone bowls.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Forced movement toward Iceland
+  summary: Fairhair's western expedition is presented as causing people from Caithness,
+    the Hebrides, and Orkneys to move to Arctic Iceland.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Court and hall material setting
+  summary: The passage describes a court with ceremonies, a fortified enclosure, and
+    an interior hall equipped with furniture, vessels, drink, and food.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Agricultural and hunting landscape
+  summary: The passage presents carts, ploughs, domestic animals, goat-herding, watch
+    and hunting dogs, wolves, harts, bears, reindeer, and wooded materials as part
+    of the poetic environment.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Named and imagined geography
+  summary: The passage lists concrete and phantasy place names, including Fife, Norway,
+    Denmark, Holy-river, Joy-bay, Sun-fell, Morva-land, Havada-fiall, and Jordan.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Giant house compared with New Grange
+  summary: The passage reports that details of a giant's house in the Hymi Lay recall
+    the chamber and stone bowls of the New Grange giant-tomb in Ireland.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Forced departure to a new land after a western expedition
+  taxonomy_refs:
+  - departure
+  basis: The passage says Fairhair's expedition to the West drove people from Caithness,
+    the Hebrides, and Orkneys to Arctic Iceland.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is presented as historical-cultural explanation in an introduction,
+    not as a self-contained mythic narrative episode.
+- id: motif:2
+  label: Giant dwelling rendered as a stone chamber with cauldrons
+  taxonomy_refs: []
+  basis: The passage identifies pillars, shelves, and stone cauldrons in the giant's
+    house of the Hymi Lay and compares them with a stone-slabbed tomb chamber and
+    broad stone bowls at New Grange.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage supports a material and visual resemblance only; it does not
+    provide a narrative function for the giant's house.
+- id: motif:3
+  label: Imagined sacred or idealized geography through place names
+  taxonomy_refs: []
+  basis: The passage describes the Helgi-poet's geography as phantasy and lists names
+    such as Holy-river, Joy-bay, and Sun-fell.
+  evidence_refs:
+  - ev:8
+  confidence: low
+  cautions: Only place names are given; no plot or ritual action is described in the
+    supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the Tapestry-poet's fortified court or borg, with walls,
+    gateway, gate, garth, and watch-tower, to a late Irish liss or rath and to a feudal
+    peel or keep-and-bailey.
+  claim_level: visual_similarity
+  target: late Irish liss/rath and feudal peel or keep-and-bailey
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns material and architectural resemblance in editorial
+    commentary; it does not establish a shared mythic narrative or direct transmission.
+- id: claim:2
+  claim: The passage says the Hymi Lay's giant-house details recall the chamber of
+    the New Grange giant-tomb in Ireland.
+  claim_level: visual_similarity
+  target: New Grange giant-tomb, Ireland
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The supported claim is resemblance in stone-chamber features and bowls;
+    the passage does not demonstrate historical borrowing or identical ritual meaning.
+- id: claim:3
+  claim: The passage explicitly states that Welsh/Celtic material terms in the Tapestry-poet
+    evidence constant intercourse with Celtic people.
+  claim_level: historical_contact
+  target: Celtic/Welsh cultural milieu
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is based on lexical and material-culture indicators in the
+    passage; no specific shared myth episode is identified.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2212-2215
+  quote_or_summary: Fairhair's expedition to the West is said to have driven people
+    from Caithness, the Hebrides, and Orkneys to Arctic Iceland.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 2219-2230
+  quote_or_summary: A bower, hall, court, games, ceremonies, borg or fort, walls,
+    gateway, gate, garth, and watch-tower are described; the passage likens the picture
+    to an Irish liss or rath and to a feudal peel/keep-and-bailey.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 2232-2246
+  quote_or_summary: The hall interior includes tables, a cupboard, cans, cups, beer,
+    wine, roast birds, grains, a cooking-vessel or brewing-vat, bread, and boiled
+    veal.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 2247-2256
+  quote_or_summary: Peat is named as the fuel, and the passage argues that such mention
+    of peat is hard to reconcile with Norway in the tenth or eleventh century.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 2258-2264
+  quote_or_summary: The passage describes agriculture, carts, wheeled wagons, ploughs,
+    geese, tame pigs, goats on hills, a goat-keeper with a hazel stick guarding goats
+    from wolves, and frequent oxen and neat cattle.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 2265-2279
+  quote_or_summary: Dogs are used for watching and hunting; wolves, harts, bears,
+    a white bear, reindeer, and the hart are described, with the hart and related
+    animals associated by the passage with the Western Islands and not Iceland.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 2282-2287
+  quote_or_summary: The passage names oak for the pyre, yew and elm for bows, and
+    similes involving ash, thorn, willow stripped by wind or fire, and garlick.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:8
+  type: quote
+  locator: lines 2289-2296
+  quote_or_summary: The passage gives 'Sudr 4 Fifi' and describes Helgi-poet geography
+    as phantasy, including 'Holy-river, Joy-bay, Sun-fell,' with additional names
+    such as Morva-land, Havada-fiall, and Jordan.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 2296-2300
+  quote_or_summary: The pillars, shelves, and stone cauldrons of the giant's house
+    in the Hymi Lay are said to recall the giant-tomb at New Grange, with its huge
+    stone-slabbed chamber and broad stone bowls.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 2302-2307
+  quote_or_summary: The passage lists dress, stuffs, metals, harp, Welsh-metal, Welsh-stuff,
+    Welsh swords, Welsh-woman, and says constant intercourse with Celtic people is
+    evidenced by such terms.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is an editorial-cultural discussion rather than a continuous
+    mythic narrative. Literal extraction is strong, but motif candidates are cautious
+    and mostly concern migration, imagined geography, and giant-dwelling imagery.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available IDs and applied only where the literal passage supported them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l2212-l2307
+  passage_sha256=87baaafc2181715914cd6e688d9548de0e3fbbc882dbbf3da5518f8c9b1c5ff9
+

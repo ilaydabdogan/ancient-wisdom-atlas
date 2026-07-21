@@ -1,0 +1,505 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l11456-l11628
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: EXC 1. / XXV. 12. / XXV.13. / A.D. 646.; lines 11456-11628
+  start: '11456'
+  end: '11628'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In A.D. 646, after New Year ceremonies, the Emperor issues a reform edict.
+    The edict abolishes certain older private holdings and dependent people, grants
+    sustenance fiefs and presents, regulates the capital and Home provinces, establishes
+    governors, barriers, post-horses and bell-tokens, defines local officials and
+    district sizes, orders registers and land-account systems, sets township duties,
+    fixes rice-land measures and taxes, and replaces old taxes and forced labour with
+    commuted taxes in textiles.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After the New Year congratulatory ceremonies, the Emperor promulgates an edict
+    of reforms.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The edict orders abolition of certain people established by ancient Emperors
+    as representatives of children, the Miyake in various places, serfs owned by named
+    elite groups, and farmsteads in various places.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Fiefs are granted for sustenance to those of the rank of Daibu and above,
+    and cloth and silk-stuff presents are distributed to officials and people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The edict states that governing the people is the business of the Daibu and
+    connects proper performance of this duty with public trust and revenue.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The capital is to be regulated for the first time, governors are to be appointed
+    for the Home provinces and districts, and barriers, outposts, guards, post-horses,
+    bell-tokens, and regulated mountains and rivers are to be provided.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wards in the capital are to have aldermen and chief aldermen, selected for
+    character and capacity, to supervise population and examine criminal matters.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Home provinces are geographically delimited by named rivers, mountains,
+    and places, and districts are classified by the number of townships they contain.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The number of special or ordinary post-horses is to follow the marks on posting
+    bell-tokens, which are held by chief officials or assistants at provinces and
+    barriers.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: obs:9
+  text: The edict orders the first provision of population registers, books of account,
+    and a system for receipt and re-granting of distribution-land.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Every fifty houses are to form a township, with one alderman responsible for
+    population supervision, agriculture, mulberry cultivation, offences, taxes, and
+    forced labour.
+  category: relationship
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Rice-land is measured in tan and cho, with specified rice-tax rates, while
+    precipitous, remote, or sparsely populated places may receive convenient arrangements.
+  category: relationship
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Old taxes and forced labour are abolished and replaced by commuted taxes in
+    locally produced fine silk, coarse silk, raw silk, floss silk, and cloth.
+  category: action
+  evidence_refs:
+  - ev:12
+figures:
+- id: fig:1
+  name_or_label: the Emperor
+  description: The ruler who promulgates the reform edict in A.D. 646.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: ancient Emperors
+  description: Earlier rulers mentioned as having established certain people as representatives
+    of children.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Daibu and higher-ranking officials
+  description: Officials of Daibu rank and above who receive sustenance fiefs; the
+    Daibu are described as responsible for governing the people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: officials and people
+  description: Recipients of cloth and silk-stuff presents; the people are also the
+    population to be governed, registered, taxed, and supervised.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:10
+  - ev:12
+- id: fig:5
+  name_or_label: Wake, Omi, Muraji, Tomo no Miyakko, Kuni no Miyakko, and Mura no
+    Obito
+  description: Named elite groups whose ownership of serfs is to be abolished; Kuni
+    no Miyakko of suitable character may also serve as district authorities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: fig:6
+  name_or_label: aldermen and chief aldermen
+  description: Local ward or township officials appointed to supervise population
+    and related administrative matters.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: fig:7
+  name_or_label: chief provincial and barrier officials
+  description: Officials who hold bell-tokens at provinces and barriers, with assistants
+    acting in their absence.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: promulgating sovereign
+  assigned_to:
+  - fig:1
+  basis: The Emperor issues the reform edict after New Year ceremonies.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ranked governing officials and fief recipients
+  assigned_to:
+  - fig:3
+  basis: Daibu and higher ranks receive sustenance fiefs, and Daibu are charged with
+    governing the people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: old privilege holders affected by abolition
+  assigned_to:
+  - fig:5
+  basis: The edict abolishes serfs owned by these named groups and abolishes related
+    holdings.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: local administrative supervisors
+  assigned_to:
+  - fig:6
+  basis: Aldermen and chief aldermen supervise population, criminal matters, agriculture,
+    offences, taxes, and labour.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:5
+  label: subject population and taxpayers
+  assigned_to:
+  - fig:4
+  basis: The people are governed, registered by township, and subject to taxes or
+    commuted taxes.
+  evidence_refs:
+  - ev:3
+  - ev:10
+  - ev:12
+- id: role:6
+  label: custodians of transit authorization tokens
+  assigned_to:
+  - fig:7
+  basis: Chief officials, or assistants in their absence, hold bell-tokens at provinces
+    and barriers.
+  evidence_refs:
+  - ev:8
+- id: role:7
+  label: past instituting rulers
+  assigned_to:
+  - fig:2
+  basis: Ancient Emperors are named as the ones who established certain people later
+    abolished by the reform edict.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: posting bell-token
+  literal_form: Small globular bell-token with marks indicating post-horse entitlement.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: barriers, outposts, guards, and post-horses
+  literal_form: Administrative transit-control installations and horses provided for
+    official movement.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: sym:3
+  label: mountains and rivers as boundaries
+  literal_form: River Yokogaha, Mount Senoyama, Mount Afusaka-yama, and regulated
+    mountains and rivers marking provincial limits or passes.
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:4
+  label: capital and Home provinces
+  literal_form: The capital and the bounded region designated as the Home provinces.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:5
+  label: registers and account books
+  literal_form: Population registers, books of account, and distribution-land records.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: sym:6
+  label: tribute and tax materials
+  literal_form: Rice sheaves and bundles, fine silk, coarse silk, raw silk, floss
+    silk, cloth, and silk stuffs.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:11
+  - ev:12
+scenes:
+- id: scene:1
+  label: Imperial promulgation and abolition of old holdings
+  summary: The Emperor issues the reform edict, abolishes older dependent populations
+    and holdings, and redistributes support and gifts to ranked officials and people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Regulation of capital, provinces, boundaries, and posting system
+  summary: The edict regulates the capital and Home provinces, defines regional boundaries,
+    appoints governors, provides barriers and post-horses, and governs official movement
+    by bell-token marks.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: scene:3
+  label: Registration, township administration, and commuted taxation
+  summary: The edict institutes population registers, account books, land distribution
+    records, fifty-house townships with aldermen, measured rice-land taxation, and
+    commuted textile taxes.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+candidate_motifs:
+- id: motif:1
+  label: imperial re-ordering of society by edict
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage centers on an Emperor's reform edict that abolishes older holdings,
+    creates or regulates offices, and reorganizes land, taxation, and administrative
+    authority.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:9
+  - ev:12
+  confidence: medium
+  cautions: The passage presents legal-administrative reforms rather than a mythic
+    scene; it does not state divine sanction or sacred kingship explicitly.
+- id: motif:2
+  label: boundary-marking and controlled passage
+  taxonomy_refs: []
+  basis: The edict orders barriers, outposts, guards, post-horses, bell-tokens, and
+    regulation of mountains and rivers, while defining the Home provinces by named
+    geographic limits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is an administrative control pattern; no mythological boundary crossing
+    is narrated.
+- id: motif:3
+  label: registration, measurement, and redistribution of land and tribute
+  taxonomy_refs: []
+  basis: The edict establishes registers, account books, distribution-land procedures,
+    township units, measured rice-land, tax rates, and commuted textile taxes.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  - ev:11
+  - ev:12
+  confidence: high
+  cautions: The motif is bureaucratic and social rather than explicitly symbolic or
+    mythic.
+comparison_claims:
+- id: claim:1
+  claim: The passage's translator note states that the bell-token institution was
+    borrowed from China.
+  claim_level: historical_contact
+  target: Chinese posting bell-token institution
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is supported only by a translator's note within the passage;
+    no Chinese source or detailed parallel is provided here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11456-11628; XXV.14 opening
+  quote_or_summary: After New Year congratulatory ceremonies, the Emperor promulgates
+    an edict of reforms in A.D. 646.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 11456-11628; edict I
+  quote_or_summary: The edict abolishes certain people established by ancient Emperors,
+    Miyake, privately owned serfs of named elite groups, and farmsteads; fiefs and
+    cloth or silk-stuff presents are then granted.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 11456-11628; edict I continuation
+  quote_or_summary: The edict says it is the business of the Daibu to govern the people,
+    and that good performance produces public trust and benefits the people through
+    increased revenue.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 11456-11628; edict II opening
+  quote_or_summary: The capital is to be regulated, governors appointed, and barriers,
+    outposts, guards, post-horses, bell-tokens, and regulated mountains and rivers
+    provided.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:5
+  type: note
+  locator: lines 11456-11628; note on bell-tokens
+  quote_or_summary: The note describes bell-tokens as small globular bells whose shape
+    and number indicated how many horses the bearer was entitled to, and says the
+    institution was borrowed from China.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation and note; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 11456-11628; ward administration provisions
+  quote_or_summary: Each capital ward receives an alderman, four wards receive a chief
+    alderman, and these officials supervise population and criminal matters; candidates
+    are chosen for character, firmness, uprightness, and capacity.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 11456-11628; Home provinces and district provisions
+  quote_or_summary: The Home provinces are bounded by the River Yokogaha, Mount Senoyama,
+    Kushibuchi, and Mount Afusaka-yama; districts are classified as Greater, Middle,
+    or Lesser by township count, with suitable Kuni no Miyakko and clerks appointed.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:8
+  type: summary
+  locator: lines 11456-11628; post-horse and bell-token provisions
+  quote_or_summary: The number of post-horses follows the marks on bell-tokens, which
+    are to be held by chief provincial or barrier officials, or assistants when chiefs
+    are absent.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:9
+  type: summary
+  locator: lines 11456-11628; edict III opening
+  quote_or_summary: The edict orders population registers, books of account, and a
+    system for receiving and re-granting distribution-land.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:10
+  type: summary
+  locator: lines 11456-11628; township alderman provisions
+  quote_or_summary: Every fifty houses make a township, with one alderman responsible
+    for population, sowing, mulberry cultivation, offences, taxes, and forced labour.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:11
+  type: summary
+  locator: lines 11456-11628; rice-land and tax measurement provisions
+  quote_or_summary: Rice-land is measured by tan and cho, with specified rice-tax
+    rates; special arrangements are allowed for precipitous, remote, or sparsely populated
+    areas.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+- id: ev:12
+  type: summary
+  locator: lines 11456-11628; edict IV opening
+  quote_or_summary: Old taxes and forced labour are abolished and replaced by commuted
+    taxes consisting of local textile products such as fine silk, coarse silk, raw
+    silk, floss silk, and cloth.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The administrative content is clear, but most candidate motifs are social-political
+    patterns rather than explicit mythological motifs. The only comparison claim relies
+    on a translator note about China.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No divine beings or mythic narrative actions are present in this passage; extraction emphasizes administrative figures, objects, boundary patterns, and the translator's stated Chinese borrowing for bell-tokens.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l11456-l11628
+  passage_sha256=590e4db8d5d370d45bfa3e3f0840f4105a8210b96e34cbbfe55d939094917474
+

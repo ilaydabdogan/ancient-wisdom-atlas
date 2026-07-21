@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l13755-l13768
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: MONASTERY OF CHOGORTAN,! / THE SITE AND NAME. 257 / THE NAMES. 259 / TASHI-LHUNPUO
+    MONASTERY.; lines 13755-13768
+  start: '13755'
+  end: '13768'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: small cairns, surmounted by a few sticks, to which rags are attached
+  summary: The passage describes small cairns called Lab-ch’a, topped with sticks
+    and rags attached by passers-by as offerings to a local spirit. It states that
+    sacred objects and these monuments should be passed on the right hand as a sign
+    of respect, and that prayer-cylinders should be turned in the same direction.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Small cairns are surmounted by a few sticks, and rags are attached to them
+    by passers-by.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The rags attached to the cairns are described as offerings to the genius loci.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The cairns are called Lab-ch’a.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage compares the Lab-ch’a to the “rag-bushes” of India.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Sacred objects and these monuments are said to be passed on the right hand
+    according to an ancient custom of showing respect.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Prayer-cylinders are said to be turned in the same right-hand direction.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: passers-by
+  description: People who attach rags to the cairns as offerings.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: genius loci
+  description: The local spirit or presence to whom the rag offerings are directed.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: offering-makers
+  assigned_to:
+  - fig:1
+  basis: Passers-by attach rags to the cairns as offerings.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of offerings
+  assigned_to:
+  - fig:2
+  basis: The offerings are described as being made to the genius loci.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Lab-ch’a cairn
+  literal_form: small cairn surmounted by sticks with attached rags
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: rag offering
+  literal_form: rags attached to sticks on cairns
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: right-hand passage
+  literal_form: passing sacred objects and monuments on the right hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: prayer-cylinder rotation
+  literal_form: prayer-cylinders turned in the right-hand direction
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Rag offerings at Lab-ch’a cairns
+  summary: Passers-by attach rags to small stick-topped cairns called Lab-ch’a as
+    offerings to the genius loci; the passage compares them to Indian rag-bushes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Right-hand respect for sacred objects
+  summary: Sacred objects and monuments are to be passed on the right hand, and prayer-cylinders
+    are to be turned in that direction.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Offering rags at a wayside sacred cairn
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes rags attached by passers-by as offerings to a genius
+    loci.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is ethnographic and brief; it does not explain the expected
+    reciprocal benefit of the offering.
+- id: motif:2
+  label: Right-hand orientation around sacred objects
+  taxonomy_refs: []
+  basis: The passage states that sacred objects and monuments must be passed on the
+    right hand as a custom of respect, and links this direction to prayer-cylinder
+    turning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader narrative or mythic setting is supplied in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The Lab-ch’a cairns are explicitly compared in the passage to Indian “rag-bushes.”
+  claim_level: visual_similarity
+  target: "“rag-bushes” of India"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage states likeness but gives no detailed description of the
+    Indian rag-bushes or historical relationship.
+- id: claim:2
+  claim: The Lab-ch’a and Indian rag-bushes appear to share the practice of attaching
+    rags to a sacred or spirit-associated object.
+  claim_level: same_function
+  target: "“rag-bushes” of India"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The function of the Indian rag-bushes is not independently described
+    in this excerpt, so shared function is inferred only from the author’s comparison.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 13755-13758
+  quote_or_summary: "“small cairns, surmounted by a few sticks, to which rags are
+    attached by passers by as offerings to the genius loci” and compared to Indian
+    “rag-bushes”; called Lab-ch’a."
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 13760-13762
+  quote_or_summary: "“these monuments must always be passed on the right hand” according
+    to a custom of showing respect."
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 13762-13763
+  quote_or_summary: The passage states that prayer-cylinders must always be turned
+    in the same direction.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized evidence from public domain passage.
+- id: ev:4
+  type: citation
+  locator: line 13768
+  quote_or_summary: Footnote gloss includes “pradakshina” for the right-hand circumambulatory
+    practice.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; citation note only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal ritual details are explicit. Motif classification is cautious because
+    the passage is descriptive and not a mythic narrative. The comparison to Indian
+    rag-bushes is explicit but under-described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy refs were applied only where directly supportable.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l13755-l13768
+  passage_sha256=2c684075224490ebac9274e009364a10b4d8b300c09758507b2042d22f55cade
+

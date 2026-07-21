@@ -1,0 +1,249 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34772-l34794
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / SOCIETIES / THE    OMAHA    TRIBE / ELDEST   SON'S   SONG; lines
+    34772-34794
+  start: '34772'
+  end: '34794'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: FIG. 112. Diagram showing arrangement and four ceremonial movements of officers
+    at meeting of Shell society.
+  summary: The passage presents an “Eldest Son's Song,” gives musical performance
+    and transcription information, includes a figure caption for a diagram of the
+    Shell society meeting arrangement and four ceremonial movements of officers, and
+    prints repeated song syllables.
+  language: English with Omaha song syllables or vocables
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed “Eldest Son's Song.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song is marked with a metronome indication, described as sung in octaves,
+    and credited as transcribed by Edwin S. Tracy.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A figure caption identifies a diagram showing the arrangement and four ceremonial
+    movements of officers at a meeting of the Shell society.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The diagram labels include a fireplace, an entrance facing east, u'zhu, and
+    lodges of the “eldest son” and “second son.”
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The printed song text consists of repeated syllables or words beginning with
+    forms such as “Ha-gu-di.”
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: officers of the Shell society
+  description: Officers whose arrangement and four ceremonial movements are represented
+    in the diagram for a Shell society meeting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: eldest son
+  description: Named in the song title and as the occupant or label of one lodge in
+    the diagram caption.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: second son
+  description: Named as the occupant or label of one lodge in the diagram caption.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ceremonial officers
+  assigned_to:
+  - fig:1
+  basis: The caption says the diagram shows ceremonial movements of officers at a
+    Shell society meeting.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: eldest son
+  assigned_to:
+  - fig:2
+  basis: The passage title is “Eldest Son's Song,” and the diagram caption lists a
+    lodge of the “eldest son.”
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: second son
+  assigned_to:
+  - fig:3
+  basis: The diagram caption lists a lodge of the “second son.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fireplace
+  literal_form: Fireplace
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: east-facing entrance
+  literal_form: Entrance facing the east
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: u'zhu
+  literal_form: u'zhu
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lodge of the eldest son
+  literal_form: Lodge of “eldest son”
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lodge of the second son
+  literal_form: Lodge of “second son”
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Eldest Son's Song presentation
+  summary: The passage presents a song titled “Eldest Son's Song,” with performance
+    notation and repeated syllables or words.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Shell society meeting diagram
+  summary: A diagram caption describes the arrangement and four ceremonial movements
+    of Shell society officers, including marked places such as the fireplace, east-facing
+    entrance, u'zhu, and lodges of the eldest and second son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual song with repeated syllables
+  taxonomy_refs: []
+  basis: The passage presents a named song with musical notation and repeated song
+    text.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage does not translate the syllables or explain their ritual meaning.
+- id: motif:2
+  label: ceremonial lodge arrangement and movement
+  taxonomy_refs: []
+  basis: The figure caption explicitly describes an arrangement and four ceremonial
+    movements of officers at a Shell society meeting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The actual diagram is only partially represented in the passage text,
+    and the meaning of the movements is not explained here.
+- id: motif:3
+  label: ranked son lodges in ritual setting
+  taxonomy_refs: []
+  basis: The diagram caption distinguishes lodges of an “eldest son” and “second son,”
+    and the passage title centers the eldest son.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage gives labels but does not explain whether these are kinship
+    persons, ritual offices, or symbolic positions.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 34772-34778
+  quote_or_summary: "“ELDEST SON'S SONG”; the heading includes metronome information,
+    “Sung in octaves,” and “Transcribed by Edwin S. Tracy.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for documentation.
+- id: ev:2
+  type: quote
+  locator: lines 34780-34783
+  quote_or_summary: "“FIG. 112. Diagram showing arrangement and four ceremonial movements
+    of officers at meeting of Shell society.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for documentation.
+- id: ev:3
+  type: summary
+  locator: lines 34783-34789
+  quote_or_summary: The caption lists diagram elements including fireplace, entrance
+    facing east, u'zhu, lodge of “eldest son,” and lodge of “second son.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 34790-34794
+  quote_or_summary: Song text includes repeated forms such as “Ha-gu-di tha the ha
+    the” and “shu-tha ha tha he tha ha.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for documentation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and includes a partially broken figure caption
+    and untranslated song syllables; literal features are clear, but ritual interpretation
+    is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family references or comparison claims were assigned because the passage does not itself explain a connection to the available comparative motif families.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34772-l34794
+  passage_sha256=506a8ee6ca8e40d001dbf34b4399c1636c10dff0452f8f97594249ba36288f57
+

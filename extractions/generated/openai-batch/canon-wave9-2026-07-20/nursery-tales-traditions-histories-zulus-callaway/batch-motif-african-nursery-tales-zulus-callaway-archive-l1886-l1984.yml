@@ -1,0 +1,419 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l1886-l1984
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UHLAKANYANA. / UHLAKANYANA. / UIILAKANYANA. / UHLAKANYANA.; lines 1886-1984
+  start: '1886'
+  end: '1984'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Uthlakanyana deceives a leopard mother by controlling access to her cubs,
+    cooks a buck for her, is entrusted with the cubs, constructs a house with a narrow
+    doorway and an escape burrow, eats one cub, manipulates the mother with the remaining
+    cub, and sets four shortened assagais at the doorway so that the leopard is pierced
+    and dies when pursuing him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uthlakanyana makes the leopard hand back one cub before giving her the other,
+    then skins and boils a buck for the leopard and her young to eat.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The leopard tells Uthlakanyana to stay and keep things safe, entrusting her
+    children to him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Uthlakanyana builds a house with a very small doorway.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Uthlakanyana digs a long burrow with a distant outlet and cuts the hafts of
+    four assagais.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the leopard returns with a buck, only one cub remains because Uthlakanyana
+    has eaten one of the cubs.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Uthlakanyana repeatedly gives the leopard the single remaining cub and asks
+    for it back, while refusing to bring both cubs together.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Uthlakanyana intends the leopard to be delayed by the narrow doorway while
+    he escapes through the long hole.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The leopard enters the house, finds only one child, and concludes that Uthlakanyana
+    has eaten the missing child.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The leopard follows Uthlakanyana into the hole, while Uthlakanyana exits first,
+    returns to the house, and fixes assagais in the ground at the doorway.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: When the leopard reaches the doorway, she is pierced by the four assagais
+    and dies.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana
+  description: The named figure who controls the cub exchange, cooks the buck, is
+    entrusted with the cubs, builds the trap-house and burrow, eats a cub, escapes,
+    and sets the assagais.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the leopard
+  description: A mother leopard who asks for her children, entrusts them to Uthlakanyana,
+    eats the cooked buck, enters the narrow doorway, pursues him, and is killed by
+    the assagais.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: the leopard's cubs / children
+  description: The leopard's young, initially suckled and entrusted to Uthlakanyana;
+    one is eaten, and one remains for the deceptive exchange.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: deceptive caretaker
+  assigned_to:
+  - fig:1
+  basis: The leopard entrusts her children to Uthlakanyana, but he eats one and conceals
+    this through a repeated exchange with the remaining cub.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: trap-maker and escapee
+  assigned_to:
+  - fig:1
+  basis: He constructs a house with a small doorway, digs a long burrow, and sets
+    assagais at the doorway after escaping through the hole.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:3
+  label: mother seeking her children
+  assigned_to:
+  - fig:2
+  basis: The leopard demands that both children be brought together and later asks
+    Uthlakanyana to bring her children.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:4
+  label: pursuer killed by trap
+  assigned_to:
+  - fig:2
+  basis: She follows Uthlakanyana into the hole and is pierced by four assagais at
+    the doorway.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:5
+  label: entrusted children and victims
+  assigned_to:
+  - fig:3
+  basis: The cubs are entrusted to Uthlakanyana; one is eaten, and one remains.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: narrow doorway
+  literal_form: a very small doorway of the house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: escape burrow
+  literal_form: a long burrow or hole with a distant outlet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: four assagais
+  literal_form: four assagais with shortened hafts fixed in the earth at the doorway
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: single remaining cub
+  literal_form: one cub used in repeated handover after the other cub has been eaten
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: buck as meal
+  literal_form: a buck brought by the leopard, skinned, boiled, and eaten
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Controlled suckling exchange and cooked buck
+  summary: Uthlakanyana requires the leopard to return one cub before receiving the
+    other, then skins and boils a buck, which the leopard and her young eat before
+    sleeping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Entrustment and preparation of trap-house
+  summary: The leopard entrusts her children to Uthlakanyana. He builds a house with
+    a very small doorway, digs a long burrow with a distant outlet, and prepares four
+    shortened assagais.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Concealment of the eaten cub
+  summary: After eating one cub, Uthlakanyana uses the single remaining cub in a repeated
+    handover to prevent the leopard from seeing both children together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Pursuit through hole and death at doorway
+  summary: The leopard enters the narrow doorway, discovers the missing cub, follows
+    Uthlakanyana into the hole, and is killed by the four assagais that he has fixed
+    at the doorway.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: trickster deceives caretaker or host through substitution
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Uthlakanyana uses the single remaining cub to simulate the presence of both
+    cubs and avoid revealing that one has been eaten.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The taxonomy reference is broad; the passage supports a trickster-deception
+    pattern but not a more specific indexed motif.
+- id: motif:2
+  label: trap-house with narrow entry and hidden escape route
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Uthlakanyana constructs a house with a very small doorway and a long burrow
+    so he can flee while the leopard is delayed entering.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The house and burrow are literal devices in the tale; no cosmological
+    or ritual interpretation is supplied by the passage.
+- id: motif:3
+  label: pursuer killed by prepared weapons at threshold
+  taxonomy_refs:
+  - trickster_boundary
+  basis: After escaping through the hole, Uthlakanyana fixes four assagais at the
+    doorway; the pursuing leopard is pierced and dies there.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage supports a pursuit-and-trap motif, but not a broader historical
+    comparison.
+- id: motif:4
+  label: betrayal of entrusted children
+  taxonomy_refs: []
+  basis: The leopard explicitly entrusts her children to Uthlakanyana, who eats one
+    of them and deceives the mother about it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy family exactly names this motif; classification is
+    descriptive.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage supports classifying Uthlakanyana''s actions as a trickster-boundary
+    pattern: he violates entrusted care, manipulates household access, and survives
+    by crossing through a hidden passage while the pursuer is trapped at the doorway.'
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports the functional pattern but does not itself compare
+    Uthlakanyana to other trickster corpora or state a historical relationship.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1886-1984, opening exchange before subheading
+  quote_or_summary: Uthlakanyana insists that the leopard return one cub before receiving
+    the other; then he skins and boils a buck, and the leopard and her little ones
+    eat and sleep.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 1886-1984, after subheading 'Uthlakanyana eats the leopard and her
+    cubs'
+  quote_or_summary: 'The leopard says: “Stay here, and keep things safe. I trust my
+    children to you; preserve them.”'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 1886-1984, trap preparation
+  quote_or_summary: Uthlakanyana builds a house with a very small doorway, digs a
+    long burrow with a distant outlet, and cuts off the hafts of four assagais.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1886-1984, leopard returns with buck
+  quote_or_summary: After the leopard returns, one cub has already been eaten. Uthlakanyana
+    gives her the one remaining cub, asks for it back, and repeats the exchange because
+    there is only one child.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 1886-1984, explanation of narrow doorway and hole
+  quote_or_summary: Uthlakanyana has designed the doorway so the leopard will be compressed
+    while entering; he plans to go down the long hole and be far from the house by
+    the time she gets in.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 1886-1984, discovery and pursuit
+  quote_or_summary: The leopard enters, finds only one child, says Uthlakanyana has
+    eaten the other, and follows him into the hole; he exits first, returns to the
+    house, and fixes assagais in the earth at the doorway.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 1886-1984, leopard's death
+  quote_or_summary: "“When she came to the doorway, she was pierced by the four assagais,
+    and died.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence is explicit. Motif labels are descriptive and use only
+    broad supplied taxonomy where applicable; no historical contact or cross-textual
+    inheritance is inferred.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnote material inside the line range was not treated as part of the tale action except as source context; extraction focuses on the narrative events in the supplied passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l1886-l1984
+  passage_sha256=7d071c7bcb5768b29e78aac212783297d6bd082dba9712973126732600e2b0b0
+

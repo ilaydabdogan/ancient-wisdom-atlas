@@ -1,0 +1,263 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l3127-l3168
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: THE ORIGINAL CREATION. / OBSERVATIONS. / Chapter I. / BUNDAHIS-.; lines 3127-3168
+  start: '3127'
+  end: '3168'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Auharmazd in the region called endless light and
+    Aharman in darkness and the abyss called endlessly dark. It presents revelation
+    as the explanation of both spirits together, contrasts Auharmazd's goodness and
+    enduring region, religion, and time with Aharman's destructive desire, and identifies
+    an empty space or air between them where their meeting occurs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The region of light is described as the place of Auharmazd and is called endless
+    light.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Auharmazd is described as unrivalled, omniscient, and good; his omniscience
+    and goodness are associated with what is called revelation.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Revelation is described as the explanation of both spirits together.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Auharmazd and his region, religion, and time are said to have been, to be,
+    and to continue to be.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Aharman is described as being in darkness and in the abyss, with backward
+    understanding and desire for destruction.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The place of destruction and darkness is called endlessly dark.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Between the two is empty space, called air, where their meeting is now located.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says both are limited and unlimited spirits, with endless light
+    as the supreme region and the abyss as endlessly dark.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Auharmazd
+  description: Auharmazd is located in the region of light called endless light and
+    is described as unrivalled, omniscient, and good.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Aharman
+  description: Aharman is located in darkness and the abyss, has backward understanding
+    and desire for destruction, and is associated with the endlessly dark place.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: light-associated good and omniscient spirit
+  assigned_to:
+  - fig:1
+  basis: Auharmazd's place is the region called endless light, and his omniscience
+    and goodness are named in the passage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: darkness-associated destructive spirit
+  assigned_to:
+  - fig:2
+  basis: Aharman is described as in darkness and the abyss, with backward understanding
+    and desire for destruction.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: one of the two spirits explained together
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage states that revelation explains both spirits together and then
+    contrasts Auharmazd with Aharman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: endless light
+  literal_form: Region of light; place of Auharmazd
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: endlessly dark abyss
+  literal_form: Darkness, abyss, and place of destruction associated with Aharman
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: empty space or air
+  literal_form: Void or air between Auharmazd and Aharman, where their meeting occurs
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opposed spirits separated by void
+  summary: Auharmazd is placed in endless light and Aharman in endlessly dark abyssal
+    darkness, with empty space or air between them where their meeting occurs.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Opposed spirits of light and darkness
+  taxonomy_refs:
+  - duality
+  basis: The passage explicitly treats two spirits together and contrasts Auharmazd
+    in endless light, associated with goodness and permanence, with Aharman in darkness
+    and the abyss, associated with destruction.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is theological-cosmological exposition rather than a narrative
+    episode.
+- id: motif:2
+  label: Primordial void between opposed realms
+  taxonomy_refs:
+  - chaos
+  basis: The text describes an empty space, air, or void between endless light and
+    the endlessly dark abyss.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not itself use the term chaos; the taxonomy link is based
+    only on the stated void/abyssal setting.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits the provided duality motif family by presenting two opposed
+    spirits in contrasting light and dark regions, separated by empty space.
+  claim_level: same_motif
+  target: duality motif family
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a motif-family classification only; it does not assert historical
+    contact, common inheritance, or dependence on any other tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3127-3133, opening description
+  quote_or_summary: "“the region of light is the place of Auharmazd, which they call
+    ‘endless light’”; the passage also names the omniscience and goodness of Auharmazd."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 3133-3138, §3
+  quote_or_summary: Revelation is presented as the explanation of both spirits together;
+    Auharmazd and his region, religion, and time are said to have been, to be, and
+    ever to be.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3138-3142, §3
+  quote_or_summary: Aharman is described as being in darkness and the abyss, with
+    backward understanding and desire for destruction; the place of that destruction
+    and darkness is called endlessly dark.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 3142-3144, §4
+  quote_or_summary: "“between them was empty space,” called “air,” in which “their
+    meeting” now occurs."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 3145-3148, §5
+  quote_or_summary: The passage says both are limited and unlimited spirits, identifies
+    the supreme with endless light and the abyss with endlessly dark, and states that
+    a void is between them.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Core oppositions of light/dark, Auharmazd/Aharman, and intervening void are
+    explicit. Confidence is reduced because the supplied passage includes translator
+    notes indicating that the construction of §3 is obscure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided available motif families.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l3127-l3168
+  passage_sha256=e06ead94cebd49f6c774c382a0cea7428b8a176f327e6b6c21c491e7b91b69d7
+

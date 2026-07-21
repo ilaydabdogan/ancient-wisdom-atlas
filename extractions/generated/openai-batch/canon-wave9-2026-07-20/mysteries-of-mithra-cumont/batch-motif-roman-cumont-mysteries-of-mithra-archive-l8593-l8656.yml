@@ -1,0 +1,294 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l8593-l8656
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAIC    ART  221 / TIME. / MITHRA1C    ART / BIRTH    OF    ERICHTHONIOS.;
+    lines 8593-8656
+  start: '8593'
+  end: '8656'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Mithra issuing from the rock" is compared with "the birth of Erichthonios"
+    on Greek vases.'
+  summary: The passage discusses Mithraic art as largely dependent on earlier Hellenistic
+    forms. It compares a Mithraic image of Mithra issuing from a rock with Greek vase
+    images of the birth of Erichthonios, then argues that Mithraic iconographic innovations
+    were artistically weak and that Mazdean gods under the Roman Empire often took
+    Olympian form and dress. It concludes that Mithraism valued religious emotion
+    rather than beauty of plastic form.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Roman marble-cutters imitated or combined elements
+    from earlier artistic models, though the originals cannot always be rediscovered.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage labels Fig. 50 as the Birth of Erichthonios from a Greek vase.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage compares a group of Mithra issuing from a rock with Greek vase
+    depictions of the birth of Erichthonios.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes the Mithra image as lifeless and the Erichthonios image
+    as animated, while calling their theme similar.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that many Mazdean gods under the Roman Empire were made
+    to take on the form and garb of Olympian figures.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says Mithraism was not presented as a cult of beauty and that
+    religious emotion was central to its adherents.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: A figure in Mithraic art described as issuing from a rock in a group
+    identified elsewhere as Fig. 30.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Erichthonios
+  description: A figure whose birth is portrayed on Greek vases and illustrated in
+    the passage as Fig. 50.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mazdean gods
+  description: A collective group of gods said to have taken on the form and garb
+    of the denizens of Olympus under the Roman Empire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rock-emerging figure
+  assigned_to:
+  - fig:1
+  basis: Mithra is described as issuing from the rock.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: figure in birth depiction
+  assigned_to:
+  - fig:2
+  basis: The passage identifies a depiction of the birth of Erichthonios on Greek
+    vases.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: subject of compared birth or emergence image
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage explicitly compares Mithra issuing from the rock with the birth
+    of Erichthonios as a similar theme.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: deities adapted to Olympian visual form
+  assigned_to:
+  - fig:3
+  basis: The passage says Mazdean gods were compelled to take on Olympian form and
+    garb.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rock
+  literal_form: rock from which Mithra issues
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Olympian form and garb
+  literal_form: form and garb of the denizens of Olympus
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mithra issuing from the rock
+  summary: A Mithraic group represents Mithra as issuing from a rock.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:2
+  label: Birth of Erichthonios on Greek vases
+  summary: Greek vases portray the birth of Erichthonios, cited by the passage as
+    a comparable artistic theme.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Mazdean gods in Olympian visual form
+  summary: The passage describes Mazdean gods under the Empire as represented in the
+    form and dress of Olympian figures.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: birth or emergence from rock
+  taxonomy_refs:
+  - sacred_birth
+  basis: Mithra is described as issuing from the rock, and this image is compared
+    with a birth scene of Erichthonios.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage treats the material as art-historical comparison rather than
+    narrating a full myth of Mithra's birth.
+- id: motif:2
+  label: depicted birth of a mythic figure
+  taxonomy_refs:
+  - sacred_birth
+  basis: The passage identifies the Birth of Erichthonios as a Greek vase image and
+    uses it as a comparison for a similar theme.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: No narrative details of Erichthonios' birth are supplied in this passage.
+- id: motif:3
+  label: foreign gods represented through Olympian iconographic forms
+  taxonomy_refs: []
+  basis: The passage states that many Mazdean gods were made to take on the form and
+    garb of Olympian figures.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is an iconographic adaptation pattern, not a mythic narrative motif
+    from the available taxonomy.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly treats Mithra issuing from the rock and Greek vase
+    depictions of the birth of Erichthonios as visually and thematically comparable
+    images.
+  claim_level: visual_similarity
+  target: Birth of Erichthonios on Greek vases compared with Mithra issuing from the
+    rock
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: high
+  limitations: The comparison is aesthetic and thematic; the passage does not claim
+    shared origin, direct borrowing for this specific image, or identical mythic meaning.
+- id: claim:2
+  claim: The passage presents Mithraic iconography as drawing on or adapting earlier
+    Hellenistic artistic elements in general.
+  claim_level: historical_contact
+  target: Hellenistic artistic models and Roman Mithraic marble-cutters
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage says the originals or combined elements cannot always be
+    rediscovered, so the claim remains general rather than object-specific.
+- id: claim:3
+  claim: The passage says Mazdean gods were visually assimilated to Olympian figures
+    in form and garb under the Roman Empire.
+  claim_level: visual_similarity
+  target: Mazdean gods and the denizens of Olympus
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns iconographic appearance, not equivalence of deities
+    or doctrines.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8593-8601
+  quote_or_summary: The passage states that in the Hellenistic artistic context the
+    Roman marble-cutter imitated originals or combined elements, though these cannot
+    always be identified.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 8602-8607
+  quote_or_summary: '"BIRTH OF ERICHTHONIOS. From a Greek vase."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 8608-8620
+  quote_or_summary: The passage compares the "lifeless group of Mithra issuing from
+    the rock" with the "animated picture of the birth of Erichthonios" on Greek vases,
+    calling it a "similar theme."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation with summary.
+- id: ev:4
+  type: summary
+  locator: lines 8621-8644
+  quote_or_summary: The passage says Mithraic iconographic innovations were poor,
+    and that under the Empire many Mazdean gods took on the form and garb of Olympian
+    figures; newly invented types are described as commonplace.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 8645-8656
+  quote_or_summary: The passage says Mithraism was "not a cult of beauty" and that
+    "Religious emotion alone was of consequence" to its adherents.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is explicit about iconographic comparison and adaptation, but
+    it is a modern art-historical discussion rather than a myth narrative. Motif identifications
+    are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No taxonomy refs were assigned for rock or Olympian garb because they are not among the provided symbol taxonomy entries.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l8593-l8656
+  passage_sha256=86a79364f07477219c74a3b3450b8369ad42563af42400149e0e85402167d4d7
+

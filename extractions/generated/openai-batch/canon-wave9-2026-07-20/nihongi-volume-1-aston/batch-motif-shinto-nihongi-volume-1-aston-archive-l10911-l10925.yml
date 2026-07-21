@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l10911-l10925
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: BC, 2. / SUININ. 183 / A.D. 10. / VIL. 24.; lines 10911-10925
+  start: '10911'
+  end: '10925'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Translator's notes discuss Tajima Mori's selection for a mission because
+    of descent from a king of Silla; the possible identification of Tokoyo no Kuni,
+    or Eternal Land, with China rather than Korea in relation to the orange; and chronological
+    and textual uncertainties, including an obscure Kojiki parallel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tajima Mori is said to have been apparently selected for a mission because
+    of his descent from a king of Silla.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states a descent relationship between Tajima Mori and an unnamed
+    king of Silla.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Tokoyo no Kuni is glossed as the Eternal Land.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The note argues that Tokoyo no Kuni was unlikely to be Korea and was more
+    likely China, based on the stated distribution of the orange.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The orange is separately referenced with a citation to Ch. K., p. 198.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The chronology is explicitly described as not bearing investigation.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The translator says the meaning of the rendered characters is doubtful and
+    that a corresponding Kojiki passage is corrupt and obscure.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The final supplied line appears garbled or nonsemantic in the provided passage
+    text.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tajima Mori
+  description: A person apparently selected for a mission because of descent from
+    a king of Silla.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: unnamed king of Silla
+  description: A royal ancestor from whom Tajima Mori is said to descend.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Motoodri
+  description: A commentator or scholar whose attempt to clarify the obscure passage
+    is said not to be certainly satisfactory.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: selected mission-bearer
+  assigned_to:
+  - fig:1
+  basis: Tajima Mori is described as apparently selected for a mission.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: royal ancestor
+  assigned_to:
+  - fig:2
+  basis: The king of Silla is named as the source of Tajima Mori's descent.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: commentarial interpreter
+  assigned_to:
+  - fig:3
+  basis: Motoodri is described as having brought learning to bear on an obscure passage,
+    though the translator is unconvinced.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: descendant of Silla king
+  assigned_to:
+  - fig:1
+  basis: Tajima Mori's descent from a king of Silla is given as the reason for his
+    selection.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: Tokoyo no Kuni / Eternal Land
+  literal_form: named distant land or realm
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Orange
+  literal_form: fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Commentarial identification of the mission destination
+  summary: The note links Tajima Mori's mission selection to Silla descent and discusses
+    whether Tokoyo no Kuni, or Eternal Land, should be identified with Korea or China,
+    using the orange as part of the reasoning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Text-critical note on obscure wording
+  summary: The translator states that the rendered characters are doubtful, that a
+    corresponding Kojiki passage is corrupt and obscure, and that Motoodri's explanation
+    is not certainly satisfactory.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: mission to an Eternal Land
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: The passage refers to Tajima Mori being selected for a mission and immediately
+    discusses Tokoyo no Kuni, glossed as Eternal Land.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The supplied passage is a footnote/commentary fragment and does not narrate
+    the mission itself or its objective in full.
+- id: motif:2
+  label: distant-land fruit association
+  taxonomy_refs: []
+  basis: The orange is used in the note to reason about the identity of Tokoyo no
+    Kuni and is separately cited as a topic.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage does not explicitly state the fruit's ritual, mythic, or narrative
+    function.
+comparison_claims:
+- id: claim:1
+  claim: The note states that there is a corresponding passage in the Kojiki, but
+    characterizes that parallel as corrupt and obscure.
+  claim_level: linguistic_similarity
+  target: Kojiki corresponding passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: No wording from the Kojiki parallel is supplied here, and the passage
+    itself warns that the text is obscure; this is a textual-parallel claim, not a
+    secure motif match.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10911-10914
+  quote_or_summary: Tajima Mori is said to have been apparently selected for a mission
+    because of descent from a king of Silla; Tokoyo no Kuni/Eternal Land is considered
+    unlikely to be Korea and more likely China because of the orange.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: citation
+  locator: '10916'
+  quote_or_summary: The note references the orange and cites Ch. K., p. 198.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: '10918'
+  quote_or_summary: The chronology, as usual, will not bear investigation.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 10920-10923
+  quote_or_summary: The translator says the rendered characters are doubtful, the
+    corresponding Kojiki passage is corrupt and obscure, and Motoodri's attempted
+    clarification is not certainly satisfactory.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: note
+  locator: '10925'
+  quote_or_summary: The supplied line appears garbled or nonsemantic in the provided
+    text.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; no quotation needed.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is mainly translator's commentary and textual notes rather than
+    a full narrative episode. Motif extraction is limited by fragmentary context,
+    explicit uncertainty about the wording, and a garbled final line.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to supplied available motif families; no symbol taxonomy reference was assigned to orange or Tokoyo no Kuni because no matching supplied symbol ID was available.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l10911-l10925
+  passage_sha256=2284be52a1723ac648c07b2029ed2c92df98510f5604f7bef06d284d1324bc1f
+

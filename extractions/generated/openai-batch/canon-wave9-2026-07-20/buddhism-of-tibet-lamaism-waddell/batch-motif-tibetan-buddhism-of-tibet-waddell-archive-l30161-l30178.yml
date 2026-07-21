@@ -1,0 +1,205 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l30161-l30178
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: NAN-SA. 559 / NAN-SA. 561 / NAN-SA. 563 / PAINE SUA. 565; lines 30161-30178
+  start: '30161'
+  end: '30178'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: After the play, people of all ages discuss its theme and moral lessons.
+    They are impressed by Nan-sa and other pious persons' self-sacrifice and by depictions
+    of wrongdoers inevitably paying for misdeeds. The passage compares these Tibetan
+    plays' moral instruction to that of the Western stage.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People described as old and young discuss the theme of the play and its moral
+    lessons among themselves.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The audience is described as profoundly impressed by the self-sacrifice of
+    Nan-sa and other pious persons.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The play is said to show vivid pictures of evildoers inexorably paying the
+    penalty for their misdeeds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that these Tibetan plays teach moral lessons similar to
+    those of the Western stage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: people, old and young
+  description: A mixed-age group discussing the play's theme and moral lessons.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Nan-sa
+  description: Named figure whose self-sacrifice impresses the people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: other pious persons
+  description: Pious persons whose self-sacrifice, along with Nan-sa's, impresses
+    the people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: evil-doers
+  description: Wrongdoers depicted as paying the penalty for their misdeeds.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: moral audience and discussants
+  assigned_to:
+  - fig:1
+  basis: They discuss the play's theme and moral lessons after the performance.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: self-sacrificing pious exemplars
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: They are described as pious persons whose self-sacrifice impresses the people.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: wrongdoers receiving penalty
+  assigned_to:
+  - fig:4
+  basis: They are described as evildoers who must pay the penalty for misdeeds.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Audience reflects on the play's moral lessons
+  summary: After the play, people of all ages discuss its theme and moral lessons,
+    especially the self-sacrifice of pious figures and the punishment of wrongdoers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: self-sacrifice of pious exemplars
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly says the people are impressed by the self-sacrifice
+    of Nan-sa and other pious persons.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage summarizes moral reception rather than narrating the sacrificial
+    act itself.
+- id: motif:2
+  label: wrongdoers inevitably pay for misdeeds
+  taxonomy_refs: []
+  basis: The passage describes vivid pictures of evildoers inexorably paying the penalty
+    of their misdeeds.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No divine judge or specific afterlife mechanism is stated in this passage,
+    so no narrower taxonomy reference is assigned.
+- id: motif:3
+  label: dramatic performance as moral instruction
+  taxonomy_refs:
+  - wisdom
+  basis: The play prompts discussion of its theme and moral lessons and is compared
+    to moral lessons taught by the Western stage.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy has no specific theatrical-didactic motif; the
+    wisdom reference is broad.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the moral lessons of these Tibetan plays to moral lessons
+    taught by the Western stage.
+  claim_level: same_function
+  target: Western stage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the source author at a general functional
+    level; it does not identify a specific shared narrative motif or historical connection.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 30161-30164
+  quote_or_summary: '"The people, old and young, now discuss amongst themselves the
+    theme of the play and its moral lessons."'
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: 30164-30166
+  quote_or_summary: '"profoundly impressed by the self-sacrifice of Nan-sa and the
+    other pious persons"'
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: 30166-30168
+  quote_or_summary: '"evil-doers must inexorably pay the penalty of their misdeeds"'
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: 30168-30172
+  quote_or_summary: '"these crude Tibetan plays point ... very much the same moral
+    lessons as are taught by the Western Stage"'
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a brief authorial summary of audience response and moral content,
+    not a full narrative episode. Motif candidates are therefore limited to moral
+    themes explicitly stated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbol entries were created because the passage contains no concrete symbolic object, place, being, number, gesture, or image from the available symbol list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l30161-l30178
+  passage_sha256=94fffc1b3b5aa8720c4e7f155dec2454261be36d4e20a472d6aa1a2ad5057ed9
+

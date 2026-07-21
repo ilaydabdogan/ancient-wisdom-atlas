@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l14733-l14787
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter II. / CHAPTER 11,8-11. 249 / CHAPTER II, IO5-II6. 273 / CHAPTER II,
+    II 7-1 22. 275; lines 14733-14787
+  start: '14733'
+  end: '14787'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives ritual-purity rules for foods and fruit touched by dead
+    matter. It distinguishes degrees of pollution for corn, connected fruits such
+    as walnut and pomegranate, dates with or without attached stalks, fruits with
+    perceptible rind, and foods for which no washing is prescribed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Corn is said to be polluted in the space where dead matter comes upon it,
+    while differing opinions are noted for corn lowered into pits or scattered in
+    such a place.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Soshyans says that corn in such a place is polluted only as much as dead matter
+    has come upon it; Gogosp says that it and its straw are all polluted.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A walnut is described as all polluted through its mode of connection, and
+    both shell and kernel are to be washed like wood.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A pomegranate is described as being of the same nature as a walnut.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: For a date, pollution depends on whether stalk, stone, and date are connected
+    and on where contact occurs.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Certain fruits with a perceptible rind are said not to become polluted when
+    dead matter comes upon them; if the rind is not perceptible, washing is like that
+    of corn.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Meat, butter, milk, cheese, and preserves are said to have no washing.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Soshyans
+  description: Named speaker who gives an opinion on the extent of pollution affecting
+    corn.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Gogosp
+  description: Named speaker who gives a different opinion on the extent of pollution
+    affecting corn and straw.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ritual-opinion speaker
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Both figures are introduced as saying opinions about pollution caused by
+    dead matter.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: limited-pollution opinion giver
+  assigned_to:
+  - fig:1
+  basis: Soshyans limits pollution to the amount of corn contacted by dead matter.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: total-pollution opinion giver
+  assigned_to:
+  - fig:2
+  basis: Gogosp says the corn and straw are all polluted.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: dead matter
+  literal_form: dead matter contacting food or fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: corn
+  literal_form: corn affected by dead matter, pits, scattering, and washing rules
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:3
+  label: pits
+  literal_form: pits into which corn is lowered or intended to be lowered
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: connected fruit
+  literal_form: walnut shell and kernel; pomegranate; date with stalk, stone, and
+    date connected
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: fruit rind
+  literal_form: perceptible rind on pomegranate, citron, quince, apple, pear, and
+    other fruit
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: milk
+  literal_form: milk listed among foods for which there is no washing
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Opinions on corn pollution
+  summary: The passage reports differing named opinions on whether corn touched or
+    affected by dead matter is partially or wholly polluted, including corn in pits
+    or scattered at the place.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Pollution of connected fruits
+  summary: Walnut, pomegranate, and date are treated according to whether their parts
+    are connected, with connectedness affecting whether the whole is polluted.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Rind and non-washable foods
+  summary: Fruits with perceptible rind may avoid pollution from dead matter, while
+    foods such as meat, butter, milk, cheese, and preserves are said to have no washing.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: corpse-contact pollution and purification rules
+  taxonomy_refs:
+  - duality
+  basis: The passage repeatedly distinguishes polluted and clean states caused by
+    contact with dead matter and specifies washing or absence of washing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The taxonomy link to duality is limited to the clean/polluted opposition;
+    the passage is ritual prescription rather than narrative mythology.
+- id: motif:2
+  label: part-whole contamination through connection
+  taxonomy_refs: []
+  basis: Walnut is wholly polluted through connection; date pollution depends on whether
+    stalk, stone, and date are connected.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is extracted as a ritual-purity pattern, not as a narrative motif.
+- id: motif:3
+  label: protective rind boundary
+  taxonomy_refs: []
+  basis: Fruits with perceptible rind are said not to be polluted when dead matter
+    comes upon them, while fruits without perceptible rind require washing like corn.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical purity rule; symbolic boundary interpretation
+    should remain tentative.
+comparison_claims:
+- id: claim:1
+  claim: An editorial note links the corn and fodder rule to Pahlavi Vendidad VII,
+    83-93, where polluted corn and fodder are treated like polluted firewood.
+  claim_level: same_function
+  target: Pahlavi Vendidad VII, 83-93 regulations on polluted corn and fodder
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The current passage supplies the comparison only through a note and
+    does not quote the full parallel text.
+- id: claim:2
+  claim: An editorial note links the fruit classifications to Pahlavi Vendidad VII,
+    93, which classifies almond with walnut and date with pomegranate.
+  claim_level: same_function
+  target: Pahlavi Vendidad VII, 93 fruit classification
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on the supplied note; the parallel passage
+    itself is not included here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14733-14748; section 119
+  quote_or_summary: Corn is polluted where dead matter comes upon it; for corn in
+    pits or scattered there are differing opinions, with Soshyans limiting pollution
+    to the contacted portion and Gogosp saying all corn and straw are polluted.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 14749-14752; section 120
+  quote_or_summary: A walnut is all polluted through its connection, and washing its
+    shell and kernel is like washing wood.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 14753-14766; sections 121-122
+  quote_or_summary: A pomegranate is treated like a walnut; date pollution varies
+    depending on whether the stalk, stone, and date are connected and where contact
+    occurs.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 14767-14775; section 123
+  quote_or_summary: Pomegranate, citron, quince, apple, pear, and other fruit are
+    not polluted by dead matter when bearing and when rind is perceptible; without
+    perceptible rind, washing is like that of corn; citron is said always to have
+    rind.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 14776-14777; section 124
+  quote_or_summary: "“For meat, butter, milk, cheese, and preserves ... there is no
+    washing.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:6
+  type: summary
+  locator: footnote to section 119
+  quote_or_summary: A note says Pahlavi Vendidad VII, 83-93 treats polluted corn and
+    fodder like polluted firewood, with cutting instructions.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from supplied passage note.
+- id: ev:7
+  type: summary
+  locator: footnote to sections 120-122
+  quote_or_summary: A note says Pahlavi Vendidad VII, 93 classes almond with walnut
+    and date with pomegranate.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized from supplied passage note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are framed as ritual-purity
+    patterns rather than narrative myths. Comparison claims depend on supplied editorial
+    notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage appears to be a ritual/legal purity section with embedded notes and page artifacts; extraction uses only the provided text and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l14733-l14787
+  passage_sha256=b2be61111af8b13e2645bed97352b12186e84dfaddd9d27ab8753d046c115316
+

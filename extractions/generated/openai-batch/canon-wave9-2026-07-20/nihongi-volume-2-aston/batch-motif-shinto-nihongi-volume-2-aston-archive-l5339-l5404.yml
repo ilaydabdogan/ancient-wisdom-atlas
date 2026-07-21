@@ -1,0 +1,492 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l5339-l5404
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: BIDATSU. 95 / A.D. 576. / A.D. 579. / A.D. 580.; lines 5339-5404
+  start: '5339'
+  end: '5404'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Annalistic entries report the arrival of Buddhist books, specialists, and
+    images from Pékché and Silla; an appointment of Imperial Princess Uji to the shrine
+    of Ise that is cancelled after an intrigue; and a frontier crisis in which Yemishi
+    chiefs are summoned, threatened according to imperial precedent, and swear an
+    oath after rinsing their mouths in the Hatsuse river while facing Mount Mimoro.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The King of Pékché presented religious books and six religious or technical
+    specialists to the Emperor through returning envoys.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says that the Temple of Prince Ohowake of Naniha was eventually
+    founded.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Imperial Princess Uji was appointed to attend the shrine of Ise, but the appointment
+    was cancelled after an intrigue with Imperial Prince Ikenobe came to light.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Silla sent Chi-cheul-chéng Nami with tribute and a Buddhist image.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Silla later sent Ato Nami and Chil-syo Nami to offer tribute, but the tribute
+    was dismissed without being received.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Several thousand Yemishi were hostile on the frontier, and their chiefs were
+    summoned.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Emperor cited a precedent from the reign of Emperor Oho-tarashihiko in
+    which some Yemishi were killed and others pardoned.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Ayakasu and the other chiefs became fearful, went into the middle stream of
+    the Hatsuse river, rinsed their mouths, faced Mount Mimoro, and made an oath.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Yemishi oath promises loyalty from the speakers, their children, and their
+    children’s children onward.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: King of the Land of Pékché
+  description: Foreign ruler who presents religious books and specialists to the Emperor.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Emperor
+  description: Recipient of foreign religious gifts and ruler who summons the Yemishi
+    chiefs and issues commands.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: Prince Ohowake
+  description: Returning envoy through whom the Pékché gifts are presented; later
+    associated with the Temple of Prince Ohowake of Naniha.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Religious and technical specialists from Pékché
+  description: 'Six persons: an ascetic, a meditative monk, a nun, a reciter of mantras,
+    a maker of Buddhist images, and a temple architect.'
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Imperial Princess Uji
+  description: Imperial princess appointed to attend the shrine of Ise; appointment
+    cancelled after an intrigue.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Imperial Prince Ikenobe
+  description: Imperial prince involved in an intrigue with Imperial Princess Uji.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Chi-cheul-chéng Nami
+  description: Envoy sent by Silla to bring tribute and a Buddhist image.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: Ato Nami and Chil-syo Nami
+  description: Envoys sent by Silla to offer tribute that was not received.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Yemishi chiefs, including Ayakasu
+  description: Chiefs of the Yemishi; Ayakasu and others are summoned, fear the Emperor’s
+    command, and swear an oath after purification.
+  role_refs:
+  - role:8
+  - role:9
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:10
+  name_or_label: Emperor Oho-tarashihiko
+  description: Earlier emperor whose treatment of the Yemishi is cited as precedent.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: foreign donor
+  assigned_to:
+  - fig:1
+  basis: The King of Pékché presents books and specialists to the Emperor.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imperial recipient
+  assigned_to:
+  - fig:2
+  basis: The Emperor receives the Pékché presentation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: envoy
+  assigned_to:
+  - fig:3
+  - fig:7
+  - fig:8
+  basis: Prince Ohowake returns as an envoy; Silla sends named persons with tribute.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: religious specialist
+  assigned_to:
+  - fig:4
+  basis: The passage lists an ascetic, meditative monk, nun, mantra reciter, image
+    maker, and temple architect.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: commanding ruler
+  assigned_to:
+  - fig:2
+  basis: The Emperor summons the Yemishi chiefs and gives commands concerning punishment
+    of ringleaders.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:6
+  label: shrine attendant appointee
+  assigned_to:
+  - fig:5
+  basis: Imperial Princess Uji is made to attend the shrine of Ise before the appointment
+    is cancelled.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: participant in intrigue
+  assigned_to:
+  - fig:6
+  basis: Imperial Prince Ikenobe is named in the intrigue with Imperial Princess Uji.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: frontier chiefs
+  assigned_to:
+  - fig:9
+  basis: Ayakasu and others are identified as chiefs of the hostile Yemishi.
+  evidence_refs:
+  - ev:5
+- id: role:9
+  label: oath-takers
+  assigned_to:
+  - fig:9
+  basis: The Yemishi chiefs rinse their mouths and swear a promise for themselves
+    and descendants.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:10
+  label: precedent ruler
+  assigned_to:
+  - fig:10
+  basis: His reign is cited by the Emperor as a precedent for killing or pardoning
+    Yemishi.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: religious books
+  literal_form: volumes of religious books
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Buddhist image
+  literal_form: Buddhist image
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Temple of Prince Ohowake of Naniha
+  literal_form: temple
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: shrine of Ise
+  literal_form: shrine
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Hatsuse river water
+  literal_form: middle stream of the Hatsuse river used for mouth-rinsing
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Mount Mimoro
+  literal_form: mountain faced during oath-making
+  associated_figures:
+  - fig:9
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Pékché presentation and temple foundation
+  summary: The King of Pékché sends Buddhist-related books and specialists through
+    returning envoys, and the passage links this to the eventual founding of a temple
+    at Naniha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Cancelled Ise shrine attendance
+  summary: Imperial Princess Uji is appointed to attend the shrine of Ise, but the
+    appointment is cancelled after an intrigue with Imperial Prince Ikenobe becomes
+    known.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Silla tribute with Buddhist image
+  summary: Silla sends an envoy with tribute and a Buddhist image.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Rejected Silla tribute
+  summary: Silla sends two envoys to offer tribute, but the tribute is dismissed without
+    being received.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Yemishi summons, command, and oath
+  summary: After frontier hostility, the Emperor summons Yemishi chiefs, invokes earlier
+    imperial precedent for killing or pardoning them, and the chiefs respond by purifying
+    their mouths in the Hatsuse river while facing Mount Mimoro and swearing a promise
+    for themselves and descendants.
+  figure_refs:
+  - fig:2
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: sacred diplomatic exchange
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Foreign rulers or polities send religious books, specialists, tribute, and
+    Buddhist images to the Emperor.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is annalistic and political; the sacred dimension is clearest
+    where the objects are explicitly religious or Buddhist.
+- id: motif:2
+  label: oath of submission after purification
+  taxonomy_refs:
+  - covenant
+  basis: The Yemishi chiefs rinse their mouths in a river, face a mountain, and make
+    a promise binding themselves and descendants.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage calls it an oath but does not describe a reciprocal covenant
+    or divine witness.
+- id: motif:3
+  label: imperial legitimacy through precedent
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Emperor grounds his intended punishment of Yemishi ringleaders in the
+    precedent of an earlier emperor.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage presents this as political-legal precedent rather than an
+    explicit mythic legitimation scene.
+- id: motif:4
+  label: sacred service compromised by intrigue
+  taxonomy_refs: []
+  basis: An imperial princess is assigned to shrine attendance, but the role is cancelled
+    when an intrigue with an imperial prince becomes known.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives no ritual details beyond shrine attendance and the cancellation.
+comparison_claims:
+- id: claim:1
+  claim: The Emperor explicitly frames his treatment of the Yemishi as following a
+    prior imperial precedent in the reign of Emperor Oho-tarashihiko.
+  claim_level: same_function
+  target: Earlier treatment of the Yemishi under Emperor Oho-tarashihiko
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal historical comparison made in the passage, not
+    evidence of broader cross-cultural contact or inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5347-5354
+  quote_or_summary: The King of Pékché presents volumes of religious books and six
+    persons—an ascetic, meditative monk, nun, mantra reciter, Buddhist image maker,
+    and temple architect—through returning envoys; a temple of Prince Ohowake of Naniha
+    is later founded.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5356-5359
+  quote_or_summary: Imperial Princess Uji is made to attend the shrine of Ise, but
+    the appointment is cancelled after an intrigue with Imperial Prince Ikenobe is
+    revealed.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5361-5363
+  quote_or_summary: Silla sends Chi-cheul-chéng Nami with tribute and also sends a
+    Buddhist image.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 5365-5367
+  quote_or_summary: Silla sends Ato Nami and Chil-syo Nami to offer tribute, but they
+    are dismissed without the tribute being received.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5369-5372
+  quote_or_summary: Several thousand Yemishi show hostility on the frontier; their
+    chiefs, including Ayakasu, are summoned.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5372-5378
+  quote_or_summary: The Emperor addresses the Yemishi, citing the reign of Emperor
+    Oho-tarashihiko as precedent for killing those meet to kill and pardoning those
+    deserving forgiveness, and says he intends to put ringleaders to death.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5378-5382
+  quote_or_summary: Ayakasu and the others are filled with fear and awe, enter the
+    middle stream of the Hatsuse river, turn their faces toward Mount Mimoro, rinse
+    their mouths, and make oath.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 5382-5384
+  quote_or_summary: The oath says the Yemishi promise from that time forward for themselves,
+    their children, and their children’s children.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The annalistic passage provides clear figures and actions, but motif assignment
+    is interpretive and should be checked against the surrounding lines, especially
+    because the oath text is truncated in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; Japanese terms and historical identifications were not expanded beyond the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l5339-l5404
+  passage_sha256=98e7ad18b6dd23a3217ddadf331853083cbf50473ccd36e1c42a7345a49a2210
+

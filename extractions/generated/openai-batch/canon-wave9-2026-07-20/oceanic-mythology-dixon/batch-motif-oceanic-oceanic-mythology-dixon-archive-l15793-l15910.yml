@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l15793-l15910
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: NOTES 323 / NOTES 325 / NOTES 327 / NOTES 333; lines 15793-15910
+  start: '15793'
+  end: '15910'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a notes section listing bibliographic references for comparative
+    versions. Two explicit narrative variant summaries mention a captive escaping
+    from a crocodile by making it laugh or open its mouth, and a crocodile hiding
+    in a trickster’s house but betraying itself by answering when called.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage primarily consists of bibliographic references to variants from
+    multiple regions, including Borneo, Java, Sumatra, Celebes, Sangir Islands, Halmahera,
+    Cambodia, Annam, India, New Guinea, Banks Islands, Funafuti, and the Philippines.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In some versions, a captive makes a crocodile laugh or open its mouth to give
+    the conqueror’s cry, and then escapes.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: In some versions, the crocodile hides in the trickster’s house instead of
+    floating in a stream.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The trickster says that if it is his house, it will answer when he calls.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The crocodile answers the trickster’s call and thereby betrays itself.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: One note states that details vary slightly but the idea is the same in all
+    listed versions, without specifying the idea in the supplied passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the captive
+  description: A captive who, in some versions, causes the crocodile to laugh or open
+    its mouth and escapes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the crocodile
+  description: A crocodile involved in the captive’s escape; in another variant, it
+    hides in the trickster’s house, answers a call, and betrays itself.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the trickster
+  description: A trickster whose house the crocodile may hide in; he calls to the
+    house as a test.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: captive escapee
+  assigned_to:
+  - fig:1
+  basis: The captive makes the crocodile laugh or open its mouth and then escapes.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: deceived crocodile
+  assigned_to:
+  - fig:2
+  basis: The crocodile is made to laugh or open its mouth, and in another variant
+    answers and exposes itself.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: trickster tester
+  assigned_to:
+  - fig:3
+  basis: The trickster tests the house by saying it will answer when called if it
+    is his house.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: hidden intruder
+  assigned_to:
+  - fig:2
+  basis: The crocodile hides in the trickster’s house and betrays itself by answering.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: crocodile
+  literal_form: crocodile
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: open mouth or laughter
+  literal_form: the crocodile laughing or opening its mouth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: trickster’s house
+  literal_form: the trickster’s house
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stream
+  literal_form: stream
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Captive escapes from crocodile
+  summary: In some cited versions, a captive induces a crocodile to laugh or open
+    its mouth for a conqueror’s cry, which enables the captive to escape.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Crocodile exposed in the trickster’s house
+  summary: In some cited versions, the crocodile hides in the trickster’s house rather
+    than floating in a stream; the trickster calls to the house, and the crocodile
+    answers, revealing itself.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Escape by making a crocodile open its mouth
+  taxonomy_refs: []
+  basis: The captive causes the crocodile to laugh or open its mouth and then escapes.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The supplied passage gives only a note-level variant summary, not a full
+    narrative context.
+- id: motif:2
+  label: Hidden intruder betrays itself by answering
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The crocodile hides in the trickster’s house, but the trickster’s call elicits
+    an answer that exposes it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies the figure as a trickster, but provides only a
+    compressed bibliographic note.
+- id: motif:3
+  label: Crocodile deceived by speech or performance
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Across the two explicit variant summaries, the crocodile is defeated through
+    induced speech, laughter, mouth-opening, or answering.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This combines two nearby note summaries; the passage does not provide
+    a complete tale sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the crocodile escape episode as a variant pattern occurring
+    in multiple cited versions across Java, Sunda, Sumatra, Batak, Borneo, Bajau,
+    Celebes, Sangir Islands, Halmahera, Cambodia, the Malay Peninsula, and India.
+  claim_level: same_motif
+  target: Versions cited in note 11 concerning the captive and crocodile escape
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note says only that this occurs in some versions; it does not identify
+    exactly which listed versions contain the described detail or provide full narratives.
+- id: claim:2
+  claim: The passage presents the hidden crocodile answering from the trickster’s
+    house as a variant pattern among several cited versions, including sources from
+    Java, Sumatra, Borneo, Celebes, Sangir Islands, Halmahera, Cambodia, and India.
+  claim_level: same_motif
+  target: Versions cited in note 12 concerning the crocodile hidden in the trickster’s
+    house
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is a secondary note and does not provide the complete version
+    texts or specify every source in which the variant occurs.
+- id: claim:3
+  claim: One note explicitly states that details vary slightly while the idea remains
+    the same across its listed versions, but the supplied passage does not identify
+    the idea being compared.
+  claim_level: same_function
+  target: Versions cited in note 14
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Because the actual narrative content of note 14 is not included here,
+    the comparison cannot be assigned to a specific motif beyond the note’s own assertion.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15793-15910, notes section overall
+  quote_or_summary: The supplied notes list many regional sources and versions, including
+    Borneo, Java, Sumatra, Celebes, Sangir Islands, Halmahera, Cambodia, Annam, India,
+    New Guinea, Banks Islands, Funafuti, and the Philippines.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: quote
+  locator: lines 15827-15840, note 11
+  quote_or_summary: "“In some of the versions the captive either makes the crocodile
+    laugh or open his mouth to give the conqueror’s cry, and so escapes.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short quoted excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 15842-15849, note 12
+  quote_or_summary: "“In some of these versions the crocodile, instead of floating
+    in the stream, hides in the trickster’s house. When the latter comes, he says,
+    ‘If it is my house, it will answer when I call,’ and the crocodile, answering,
+    betrays himself.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short quoted excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 15858-15864, note 14
+  quote_or_summary: "“The details vary slightly, but the idea is the same in all.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short quoted excerpt.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly bibliographic notes rather than a complete myth narrative.
+    Motif extraction is strongest where the notes explicitly summarize narrative variants
+    involving the captive, crocodile, trickster, house, and stream.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only motifs and symbols directly supported by the supplied passage were extracted. No historical-contact or common-inheritance claim is made.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l15793-l15910
+  passage_sha256=e5edcc023ea21b3488776babe76b4f2243a3e97191ee90d5c6186ff5d1786dc1
+

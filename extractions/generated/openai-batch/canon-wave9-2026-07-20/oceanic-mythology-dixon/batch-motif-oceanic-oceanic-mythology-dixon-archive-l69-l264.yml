@@ -1,0 +1,181 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l69-l264
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: Oceanic Mythology / THE MYTHOLOGY OF ALL RACES; lines 69-264
+  start: '69'
+  end: '264'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Prayers and offerings were made to him by the Kahunas, or shamans, when trying
+    to cure patients.
+  summary: The passage is front matter for Volume IX, Oceanic, of The Mythology of
+    All Races, and includes a plate caption identifying Kuila-moku as a Hawaiian patron
+    deity of medicine whose image is shown; the caption says Kahunas or shamans made
+    prayers and offerings to him when attempting to cure patients.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies the work as Volume IX, Oceanic, of The Mythology of
+    All Races.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A plate caption describes an image of Kuila-moku.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kuila-moku is described as one of the Hawaiian patron deities of medicine.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Kahunas, glossed in the passage as shamans, made prayers and offerings to
+    Kuila-moku.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The stated purpose of the prayers and offerings was trying to cure patients.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Kuila-moku
+  description: One of the Hawaiian patron deities of medicine.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Kahunas
+  description: Practitioners glossed as shamans who made prayers and offerings to
+    Kuila-moku when trying to cure patients.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: patients
+  description: Persons whom the Kahunas were trying to cure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: patron deity of medicine
+  assigned_to:
+  - fig:1
+  basis: The caption explicitly calls Kuila-moku one of the Hawaiian patron deities
+    of medicine.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ritual healer or shaman
+  assigned_to:
+  - fig:2
+  basis: The caption says Kahunas, or shamans, made prayers and offerings while trying
+    to cure patients.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: recipient of attempted cure
+  assigned_to:
+  - fig:3
+  basis: The caption refers to patients whom Kahunas were trying to cure.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: image of a medicine deity
+  literal_form: Image of Kuila-moku
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: prayers and offerings
+  literal_form: Prayers and offerings made to Kuila-moku
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Healing appeal to Kuila-moku
+  summary: Kahunas or shamans make prayers and offerings to Kuila-moku when attempting
+    to cure patients.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual appeal to a healing deity through prayer and offerings
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes prayers and offerings made to a medicine patron deity
+    in the context of curing patients.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a plate caption rather than a full mythic narrative; the taxonomy
+    reference is a broad fit based on offering-and-request structure.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 69-264, title/front matter
+  quote_or_summary: The passage identifies the book as The Mythology of All Races,
+    Volume IX, Oceanic.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; concise citation/summary.
+- id: ev:2
+  type: quote
+  locator: lines 69-264, Plate I caption
+  quote_or_summary: "“Image of Kuila-moku, one of the Hawaiian patron deities of medicine.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 69-264, Plate I caption
+  quote_or_summary: "“Prayers and offerings were made to him by the Kahunas, or shamans,
+    when trying to cure patients.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal caption is clear, but motif extraction is limited because the
+    passage is front matter and a plate caption, not a narrative myth passage. No
+    comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The source passage is largely bibliographic/title-page material; extraction focuses on the plate caption concerning Kuila-moku.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l69-l264
+  passage_sha256=469e6de1e99fe79840152a649ecf5ee16fafcca2b525558825a20b03ce3f9524
+

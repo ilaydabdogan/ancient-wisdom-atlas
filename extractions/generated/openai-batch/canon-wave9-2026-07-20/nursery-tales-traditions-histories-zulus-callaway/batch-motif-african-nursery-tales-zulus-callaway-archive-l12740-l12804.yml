@@ -1,0 +1,377 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l12740-l12804
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZIXGANEKWANE. / UBONCOPA-KAMAGADIILELA. / UBONGOPA-KAMAGADHLELA. / UBONGOPA-KAMAGADHLELA.;
+    lines 12740-12804
+  start: '12740'
+  end: '12804'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: This bullock had magical properties; all matters connected with it differ
+    from those of other cattle.
+  summary: In this fragment, thieves or men attempt to kill, skin, and roast the ox
+    or bullock named Ubongopa-kamagadhlela. Their weapons and cutting actions injure
+    them until a boy is asked to speak formulaic words to the animal. The bullock
+    is described as having magical properties, and the men seek to wash away a bad
+    omen before roasting it.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A thief is given an assagai and stabs at the ox, but the assagai pierces the
+    thief.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The men ask a boy to speak so that the ox may die, and the boy addresses Ubongopa-kamagadhlela
+    with repeated lines telling it to die.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: After the boy's speech, the assagai pierces TJbongopa and he falls down.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:4
+  text: When men take knives to skin the fallen animal, a man cutting the skin cuts
+    himself.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: After the boy is again told to speak and gives words telling the animal to
+    be skinned, the skinning is completed.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: The men call for a large fire, but the thieves propose delaying the roasting
+    until they have washed their bodies to remove the bad omen.
+  category: sequence
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: obs:7
+  text: The bullock is explicitly said to have magical properties and to differ from
+    other cattle in matters connected with it.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: When the end of the tail is cut off, a man cuts himself, and the men again
+    tell the boy to speak.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ubongopa-kamagadhlela / TJbongopa-kamagadhlela
+  description: An ox or bullock addressed by name; the assagai pierces him and he
+    falls, his body is skinned, and he is said to have magical properties.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: the boy
+  description: A boy repeatedly told to speak; his words address the ox and precede
+    its death, skinning, and the cutting of its tail.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: fig:3
+  name_or_label: the thieves or men of another tribe
+  description: A group attempting to kill, skin, roast, and cut the tail of the ox;
+    their members are pierced or cut, and they seek to wash away a bad omen.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  - ev:9
+roles:
+- id: role:1
+  label: magical bullock
+  assigned_to:
+  - fig:1
+  basis: The passage states that the bullock had magical properties and differed from
+    other cattle.
+  evidence_refs:
+  - ev:8
+- id: role:2
+  label: slaughtered animal
+  assigned_to:
+  - fig:1
+  basis: The animal is stabbed, falls down, is skinned, and is prepared for roasting.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+- id: role:3
+  label: required speaker
+  assigned_to:
+  - fig:2
+  basis: The men repeatedly tell the boy to speak before the animal's death, skinning,
+    and tail cutting can proceed.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+- id: role:4
+  label: thieves processing the ox
+  assigned_to:
+  - fig:3
+  basis: The passage names thieves of another tribe and shows the group stabbing,
+    skinning, and intending to roast the ox.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: role:5
+  label: injured attackers
+  assigned_to:
+  - fig:3
+  basis: Members of the group are pierced or cut while attempting to stab, skin, or
+    cut the tail of the ox.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:9
+symbols:
+- id: sym:1
+  label: magical bullock
+  literal_form: The ox or bullock named Ubongopa-kamagadhlela, described as having
+    magical properties.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:2
+  label: assagai
+  literal_form: The assagai used to stab at the ox, which first pierces a thief and
+    later pierces TJbongopa.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: knives and skinning
+  literal_form: Knives used to skin the ox; the man dividing the skin cuts himself.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: large fire
+  literal_form: A large fire called for in order to roast the ox.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: washing against bad omen
+  literal_form: Bathing or washing bodies before roasting, to get rid of the bad omen
+    or evil influence.
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:8
+scenes:
+- id: scene:1
+  label: Failed stabbing and death of the ox
+  summary: A thief stabs at the ox with an assagai, but the weapon pierces the thief.
+    The men ask the boy to speak, and after he addresses Ubongopa-kamagadhlela, the
+    assagai pierces the animal and it falls.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Skinning after injury and speech
+  summary: Men take knives to skin the fallen animal, but a man cuts himself while
+    dividing the skin. The boy is told to speak again, and after his words the skinning
+    is completed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Bad omen, washing, fire, and tail cutting
+  summary: The men call for a large fire to roast the ox, but the thieves delay in
+    order to wash away the bad omen connected with the magical bullock. When the end
+    of the tail is cut off, a man cuts himself and the boy is again told to speak.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Magical animal injures those who attempt to slaughter it
+  taxonomy_refs: []
+  basis: The bullock is said to have magical properties; attempts to stab, skin, and
+    cut its tail result in injuries to the thieves or men.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: The available taxonomy list has no exact motif family for a magical slaughtered
+    animal; no broader comparative claim is made.
+- id: motif:2
+  label: Verbal prompting enables stages of slaughter
+  taxonomy_refs: []
+  basis: The men repeatedly ask the boy to speak before the ox dies, before skinning
+    is completed, and before the tail-cutting episode proceeds.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:9
+  confidence: high
+  cautions: The passage does not explain why the boy's speech has efficacy; this is
+    a descriptive motif label only.
+- id: motif:3
+  label: Purifying wash after bad omen from magical animal
+  taxonomy_refs: []
+  basis: The thieves delay roasting the ox in order to wash their bodies and get rid
+    of the bad omen associated with the magical bullock.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not fully define the bad omen or the
+    evil influence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12740-12804; opening statement
+  quote_or_summary: '"They go to bathe, to wash away"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 12740-12804; stabbing episode
+  quote_or_summary: '"he stabbed at the ox with the assagai; but it pierced the thief."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 12740-12804; boy's first speech
+  quote_or_summary: The men say, "Speak, boy," and the boy tells Ubongopa to die,
+    saying they are killed by thieves of another tribe.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized with brief quotation.
+- id: ev:4
+  type: quote
+  locator: lines 12740-12804; death of Ubongopa
+  quote_or_summary: '"The assagai pierced TJbongopa; he fell down."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 12740-12804; skinning begins
+  quote_or_summary: '"They took knives to skin him. A man divided the skin; he cut
+    himself."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 12740-12804; boy's skinning speech
+  quote_or_summary: The boy tells Ubongopa to be skinned, and the passage says they
+    accomplished the skinning.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: quote
+  locator: lines 12740-12804; fire and roasting
+  quote_or_summary: '"Light a large fire"; the thieves say to omit roasting the ox
+    for a time.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:8
+  type: quote
+  locator: lines 12740-12804; bad omen and magical properties
+  quote_or_summary: '"wash our bodies to get rid of the bad omen. This bullock had
+    magical properties"'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short excerpt.
+- id: ev:9
+  type: summary
+  locator: lines 12740-12804; tail-cutting episode
+  quote_or_summary: When the end of the tail is cut off, a man cuts himself, and the
+    men again say, "Speak, boy."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized with brief quotation.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and OCR-like, and the wider tale context is not
+    included. Extraction is limited to the provided lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the provided passage itself does not support a specific external comparison. Names preserve the passage's spellings, including Ubongopa-kamagadhlela and TJbongopa.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l12740-l12804
+  passage_sha256=5d267e0cbf36d4b163dadc44b93a112b0249d5c0b735750d20a2aa39f67fb44d
+

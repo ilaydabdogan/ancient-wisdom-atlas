@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35505-l35590
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    PUBLIC    CEREMONY / THE    OMAHA   TRIBE / SOCIETIES / THE    OMAHA   TRIBE;
+    lines 35505-35590
+  start: '35505'
+  end: '35590'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Behold the possessions I have sought and gained by the magic given by the
+    mysterious stranger"'
+  summary: The passage gives a literal translation and explanation of an Omaha society
+    song. The explanation says the singer displays possessions gained through magic
+    from a mysterious stranger and people gathered with that stranger's help; it also
+    states that the song refers to magic help given to initiates in the society.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage glosses song elements as including 'I have sought,' 'behold these,'
+    'people,' and a cry of magic animals, along with vocables and magic cries.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory note states that the song concerns possessions sought and
+    gained by magic given by a mysterious stranger.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanatory note states that people were gathered about the speaker by
+    the mysterious stranger's help.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage explicitly says the song refers to magic help given to the initiated
+    in the society.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage identifies the piece as the initial song of the lodge of the 'Daughter'
+    and says it was transcribed by Edwin S. Tracy.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: song speaker
+  description: The first-person speaker implied by the gloss 'I have sought' and by
+    the explanation describing possessions and people gathered about 'me.'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: mysterious stranger
+  description: A stranger described as giving magic and helping the speaker gather
+    people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the initiated in the society
+  description: Initiated members who receive magic help in the society context of
+    the song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: people gathered about the speaker
+  description: People said to have been gathered about the speaker by the stranger's
+    help.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: magic animals
+  description: Animals referenced through a gloss identifying a cry of magic animals.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: recipient and announcer of gained possessions
+  assigned_to:
+  - fig:1
+  basis: The explanation presents the speaker as saying to behold possessions sought
+    and gained, and people gathered about the speaker.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: giver of magic help
+  assigned_to:
+  - fig:2
+  basis: The mysterious stranger is said to have given magic and helped gather people.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: initiated recipients of magic help
+  assigned_to:
+  - fig:3
+  basis: The passage states that the song refers to magic help given to the initiated
+    in the society.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: gathered people
+  assigned_to:
+  - fig:4
+  basis: The explanation says the speaker has gathered people about them by the stranger's
+    help.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: source of magic cries in song gloss
+  assigned_to:
+  - fig:5
+  basis: The literal translation notes a cry of magic animals and magic cries.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: magic help
+  literal_form: magic given by the mysterious stranger; magic help given to the initiated
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: magic animal cry
+  literal_form: cry of magic animals; vocables and magic cries
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: gained possessions
+  literal_form: possessions sought and gained by magic
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: song explanation of magical gain
+  summary: The song is explained as the speaker calling attention to possessions sought
+    and gained through magic from a mysterious stranger and to people gathered through
+    that stranger's help.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: society initiation context
+  summary: The song is said to refer to magic help given to initiated members of the
+    society.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: initial song of the lodge of the Daughter
+  summary: The passage presents a transcribed initial song for the lodge of the 'Daughter,'
+    including repeated vocables and magic cries.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiation with magic help
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly connects the song with magic help given to the initiated
+    in the society.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is an ethnographic explanation of a ritual song, not a full
+    initiation narrative.
+- id: motif:2
+  label: mysterious helper grants magic aid
+  taxonomy_refs: []
+  basis: The song is explained as describing possessions gained by magic given by
+    a mysterious stranger and people gathered with that stranger's help.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not identify the stranger further or describe an encounter
+    narrative.
+- id: motif:3
+  label: magic cries in ritual song
+  taxonomy_refs: []
+  basis: The literal translation notes a cry of magic animals, vocables, and magic
+    cries in the song.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The function of the cries is not explained beyond their occurrence in
+    the song gloss.
+- id: motif:4
+  label: seeking and gaining through sacred or magical aid
+  taxonomy_refs:
+  - mystical_quest
+  basis: The gloss and explanation emphasize seeking and gaining possessions through
+    magic from a mysterious stranger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: low
+  cautions: The passage uses the language of seeking, but it does not narrate a journey
+    or quest; the taxonomy link is tentative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 35505-35514
+  quote_or_summary: The literal translation glosses terms as 'I have sought,' 'behold
+    these,' 'people,' and 'cry of magic animals; vocables and magic cries.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 35515-35518
+  quote_or_summary: 'The song means: ''Behold the possessions I have sought and gained
+    by the magic given by the mysterious stranger.'''
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 35515-35518
+  quote_or_summary: The explanation says the singer has gathered people about them
+    by the mysterious stranger's help.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 35518-35520
+  quote_or_summary: The passage says there is a 'Reference ... to the magic help given
+    to the initiated in the society.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: 35521-35590
+  quote_or_summary: The passage labels the following material as the initial song
+    of the lodge of the 'Daughter,' transcribed by Edwin S. Tracy, and presents repeated
+    song text and vocables.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward because the passage contains an explicit
+    explanatory note. Motif assignment is strongest for initiation and magic help;
+    broader quest-like classification is tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself compare this song to another text, tradition, or motif family beyond the extractable candidate motif categories.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35505-l35590
+  passage_sha256=5b9ff2e0a7fb30c0a87b185372389a28b82dcd3de31df7a7da2c3dcc949a708c
+

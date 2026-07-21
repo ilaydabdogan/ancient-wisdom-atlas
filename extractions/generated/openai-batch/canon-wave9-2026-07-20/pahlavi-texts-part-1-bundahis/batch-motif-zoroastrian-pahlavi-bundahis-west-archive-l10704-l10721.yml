@@ -1,0 +1,182 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l10704-l10721
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: SELECTIONS OF ZAD-SPARAM, VII, 2-12. I75 / Chapter VIII. / IX, 4- / SELECTIONS
+    OF ZAD-SPARAM, VIII, I - IX, 2. I 77; lines 10704-10721
+  start: '10704'
+  end: '10721'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"the reviver of the dead, and the immortaHzer of the hving"; "This was the
+    fourth contest, about the plants."'
+  summary: The excerpt contains textual-critical notes, then describes an unnamed
+    referent as reviving the dead and making the living immortal. It also identifies
+    a fourth contest as concerning plants.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An unnamed referent is described as the reviver of the dead and the immortalizer
+    of the living.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A numbered statement identifies this as the fourth contest and says it is
+    about plants.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The excerpt includes textual-critical notes about manuscript readings, including
+    a reading of "120,000" considered probably wrong and a note on a manuscript form
+    read as a blunder.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed reviver and immortalizer
+  description: An unnamed referent described as reviving the dead and immortalizing
+    the living.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the dead
+  description: A collective group identified as those to be revived.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the living
+  description: A collective group identified as those to be immortalized.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: reviver of the dead
+  assigned_to:
+  - fig:1
+  basis: The passage describes the unnamed referent as "the reviver of the dead."
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: immortalizer of the living
+  assigned_to:
+  - fig:1
+  basis: The passage describes the unnamed referent as "the immortalizer of the living,"
+    with OCR spelling in the supplied text.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipients of revival
+  assigned_to:
+  - fig:2
+  basis: The dead are named as the group revived by the unnamed referent.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: recipients of immortalization
+  assigned_to:
+  - fig:3
+  basis: The living are named as the group made immortal by the unnamed referent.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: plants
+  literal_form: plants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Fourth contest concerning plants
+  summary: A brief statement identifies a fourth contest and gives its subject as
+    plants.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: revival of the dead
+  taxonomy_refs:
+  - resurrection
+  basis: The passage explicitly describes an unnamed referent as "the reviver of the
+    dead."
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt is fragmentary and does not name the referent or narrate the
+    act of revival.
+- id: motif:2
+  label: immortalization of the living
+  taxonomy_refs: []
+  basis: The passage describes an unnamed referent as immortalizing the living.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: No broader narrative context, means, or outcome is supplied in the excerpt.
+- id: motif:3
+  label: numbered contest about plants
+  taxonomy_refs: []
+  basis: The passage states that this was the fourth contest and that it was about
+    plants.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The contestants, stakes, and result of the contest are not present in
+    the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 10717-10718
+  quote_or_summary: '"the reviver of the dead, and the immortaHzer of the hving"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:2
+  type: quote
+  locator: line 10720
+  quote_or_summary: '"This was the fourth contest, about the plants."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 10706-10713
+  quote_or_summary: Textual-critical notes mention a manuscript reading of "120,000"
+    considered probably wrong and discuss a manuscript form treated as a likely copyist's
+    blunder.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is limited by the fragmentary passage and OCR irregularities.
+    Motif identification is based on explicit phrases but lacks surrounding narrative
+    context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference was applied only where directly supported by the phrase "reviver of the dead."
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l10704-l10721
+  passage_sha256=996720ab261e32b5208509b5a982426ac16f701e260936ca261125894699070c
+

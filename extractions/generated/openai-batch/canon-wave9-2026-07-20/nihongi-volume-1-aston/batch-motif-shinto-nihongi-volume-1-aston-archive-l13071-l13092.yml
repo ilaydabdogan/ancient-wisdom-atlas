@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l13071-l13092
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: VIL. 85 / A.D. 2CC. / VIII. 9. / EX 3;; lines 13071-13092
+  start: '13071'
+  end: '13092'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“My mind is at peace now that we have taken Kuma-washi.”"
+  summary: On the 20th day, an unnamed female leader arrives at the Moor of Sosoki,
+    takes up arms, kills and destroys Hashiro Kuma-washi, and tells her courtiers
+    that her mind is at peace because Kuma-washi has been taken; the place is therefore
+    called Yasu. On the 25th day, she proceeds to the district of Yamato and puts
+    to death a Tsuchi-gumo whose name is cut off in the supplied passage.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female figure arrives at the Moor of Sosoki on the 20th day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She takes up arms and smites and destroys Hashiro Kuma-washi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: She addresses her courtiers after the taking of Kuma-washi.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The place is called Yasu because of her statement that her mind is at peace.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the 25th day, she goes from there to the district of Yamato.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In Yamato she puts to death a Tsuchi-gumo; the supplied passage ends before
+    the name is given.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: unnamed female leader
+  description: The female figure who travels, takes up arms, kills Hashiro Kuma-washi,
+    addresses courtiers, and later kills a Tsuchi-gumo.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Hashiro Kuma-washi
+  description: A named figure smitten and destroyed at the Moor of Sosoki.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: courtiers
+  description: The group addressed by the female leader after Kuma-washi is taken.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: unnamed Tsuchi-gumo
+  description: A Tsuchi-gumo in the district of Yamato who is put to death; the name
+    is not present in the supplied passage.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: armed victor
+  assigned_to:
+  - fig:1
+  basis: She takes up arms and destroys Hashiro Kuma-washi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: place-name speaker
+  assigned_to:
+  - fig:1
+  basis: Her words about peace are given as the reason the place was called Yasu.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: defeated opponent
+  assigned_to:
+  - fig:2
+  - fig:4
+  basis: Hashiro Kuma-washi is smitten and destroyed, and the Tsuchi-gumo is put to
+    death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: addressed retinue
+  assigned_to:
+  - fig:3
+  basis: The courtiers are explicitly addressed by the female leader.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: arms
+  literal_form: weapons or military equipment taken up by the female leader
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Yasu as peace-place name
+  literal_form: place name Yasu, linked in the passage to the leader’s statement that
+    her mind is at peace
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Moor of Sosoki
+  literal_form: moor where Hashiro Kuma-washi is defeated
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: district of Yamato
+  literal_form: district reached on the 25th day, where a Tsuchi-gumo is killed
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Defeat of Hashiro Kuma-washi at Sosoki
+  summary: On the 20th day, the female leader arrives at the Moor of Sosoki, takes
+    up arms, and destroys Hashiro Kuma-washi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Naming of Yasu after peace
+  summary: After Kuma-washi is taken, the female leader tells her courtiers that her
+    mind is at peace, and the place is therefore called Yasu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Killing of a Tsuchi-gumo in Yamato
+  summary: On the 25th day, the female leader proceeds to Yamato and puts to death
+    a Tsuchi-gumo whose name is not included in the supplied excerpt.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: armed female leader defeats local opponents
+  taxonomy_refs: []
+  basis: The passage presents a female leader taking up arms, destroying Hashiro Kuma-washi,
+    and later putting a Tsuchi-gumo to death.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The wider identity and status of the female leader are not named within
+    the supplied passage.
+- id: motif:2
+  label: place-name etiology from victory and peace
+  taxonomy_refs: []
+  basis: The place is named Yasu after the leader states that her mind is at peace
+    because Kuma-washi has been taken.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only the immediate explanation of the name and does
+    not elaborate a broader naming tradition.
+- id: motif:3
+  label: sequential pacification journey
+  taxonomy_refs: []
+  basis: The dated sequence moves from Sosoki, where Kuma-washi is destroyed, to Yamato,
+    where a Tsuchi-gumo is killed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: Only two stops in the sequence are present in this passage, and the second
+    event is incomplete at the excerpt boundary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13071-13073
+  quote_or_summary: On the 20th day, she arrives at the Moor of Sosoki, takes up arms,
+    smites Hashiro Kuma-washi, and destroys him.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 13073-13075
+  quote_or_summary: She says to her courtiers, “My mind is at peace now that we have
+    taken Kuma-washi,” and the place is therefore called Yasu.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: lines 13077-13079
+  quote_or_summary: On the 25th day, she goes on to the district of Yamato and puts
+    to death a Tsuchi-gumo; the supplied passage cuts off after “named.”
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: note
+  locator: lines 13088-13092
+  quote_or_summary: Footnotes in the supplied passage gloss terms including “Feather-white
+    bear-eagle” and “Peaceful,” but their exact attachment is not fully resolved in
+    this extraction except where the narrative explicitly links Yasu with peace.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; note summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions and place-name explanation are clear. The identity of the
+    female figure and the name of the Tsuchi-gumo are not supplied in the excerpt.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy references are left empty because the excerpt does not directly support a listed motif family or symbol ref beyond general narrative patterns.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l13071-l13092
+  passage_sha256=270009e142656cb48054fe068386111fffb8dbe1e66417bd0f6cabd95c56056d
+

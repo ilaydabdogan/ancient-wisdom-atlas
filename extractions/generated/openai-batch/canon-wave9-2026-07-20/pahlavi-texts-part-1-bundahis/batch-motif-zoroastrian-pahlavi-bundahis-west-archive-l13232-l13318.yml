@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l13232-l13318
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: MISCELLANY OF TRADITIONAL MEMORANDA. / OBSERVATIONS. / Chapter I. / CHAPTER
+    I, 2. 241; lines 13232-13318
+  start: '13232'
+  end: '13318'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists graded quantities for named categories of offence or
+    sin, with explanatory notes on dirhams and stirs. The notes explain that the offence
+    scale was extended to all sins and to good works that counterbalance them. A further
+    note describes these amounts as the weights of sins in the golden scales of the
+    angel Rashnu when the soul is called to account after the third night after death;
+    sins are weighed against good works, and the soul is sent to heaven, hell, or
+    an intermediate place. The notes also compare the scale to the Avesta/Vendidad
+    graduated scale of assaults and temporal punishments by lashes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage gives a graded list of named categories and quantities, including
+    that each stir is four dirhams and that Areduj, Khor, Ba^'ai, Yat, and Tanaptihar
+    are assigned increasing numbers of stirs.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A bleeding wound is described as a wound from the beginning and as including
+    what results from it, regardless of where, how, how much, or with what it is inflicted.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The explanatory note says the scale of offences was extended to all classes
+    of sins and to good works that are supposed to counterbalance them.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The explanatory note says the amounts are supposed weights of sins in the
+    golden scales of the angel Rashnu when the soul is called to account for actions
+    during life after the third night after death.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The explanatory note says sins are weighed against good works and that the
+    soul is sent to heaven, hell, or an intermediate place according to whether good
+    works or sins preponderate, or whether they are equal.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The explanatory note describes the Vendidad source as a graduated scale of
+    assaults ranging from lifting the hand to smite through manslaughter.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The explanatory note describes temporal punishments as lashes with a horse-whip
+    or scourge, ranging from five to two hundred lashes according to offence and repetition.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Angel Rashnu
+  description: An angel whose golden scales are said to weigh the sins of the soul
+    after death.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: The soul after death
+  description: The soul is called to account for actions during life after the third
+    night after death and is assigned to heaven, hell, or an intermediate place according
+    to the weighing of sins and good works.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: afterlife weigher of sins
+  assigned_to:
+  - fig:1
+  basis: Rashnu is named as the angel whose golden scales weigh the sins.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: accountable dead soul
+  assigned_to:
+  - fig:2
+  basis: The soul is called to account after the third night after death and receives
+    a destination based on the balance of deeds.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: golden scales of judgment
+  literal_form: golden scales of the angel Rashnu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: punitive scourge
+  literal_form: horse-whip or scourge used to inflict lashes
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Graded scale of offences and moral weights
+  summary: The passage lists named categories with quantities measured in dirhams
+    and stirs, and the notes state that this offence scale was extended to sins and
+    good works.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: After-death weighing of deeds
+  summary: After the third night after death, the soul is called to account; sins
+    are weighed against good works in Rashnu's golden scales, and the soul is assigned
+    to heaven, hell, or an intermediate place according to the balance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Temporal punishment scale for assaults
+  summary: The note describes the Vendidad scale of assaults and a corresponding graduated
+    series of lashes with a horse-whip or scourge.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: weighing of sins and good works after death
+  taxonomy_refs:
+  - divine_judgment
+  basis: The soul is called to account after death, and its sins are weighed against
+    good works in Rashnu's golden scales to determine its destination.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The description occurs in an explanatory note within the passage.
+- id: motif:2
+  label: afterlife destination assigned by moral balance
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: 'The passage gives a postmortem timing and three possible destinations: heaven,
+    hell, or an intermediate place, determined by the balance of sins and good works.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives judgment timing and destinations but does not describe
+    a full journey route.
+- id: motif:3
+  label: measured moral economy of sins and merits
+  taxonomy_refs: []
+  basis: The offence scale is extended to all sins and to good works that counterbalance
+    them, and the deeds are assigned measurable weights.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is an expository doctrinal/legal pattern rather than a narrative
+    episode.
+- id: motif:4
+  label: graduated punishment for repeated assaults
+  taxonomy_refs: []
+  basis: The note describes a scale of assaults and corresponding punishments that
+    increase by offence type and repetition, up to two hundred lashes.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is primarily a legal-ritual classification, not a mythic narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the moral weight system as an extension of an Avesta/Vendidad
+    graduated assault scale to all sins and good works.
+  claim_level: historical_contact
+  target: Avesta/Vendidad graduated scale of assaults
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim rests on the passage's explanatory note; no independent comparison
+    outside the supplied text is used.
+- id: claim:2
+  claim: The note links the after-death accounting and Rashnu's scales to a nearby
+    Middle Persian afterlife-account tradition cited as Mkh. II, 114-122.
+  claim_level: same_motif
+  target: Mkh. II, 114-122 after-death accountability tradition
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The supplied passage gives only a citation to Mkh. II, 114-122 and
+    does not include that text's wording.
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER I, 2. 241; lines 13232-13239
+  quote_or_summary: The passage states that each stir is four dirhams and lists named
+    categories with increasing quantities, including Areduj, Khor, Ba^'ai, Yat, and
+    Tanaptihar.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: CHAPTER I, 2. 241; lines 13240-13243
+  quote_or_summary: A bleeding injury is described as a wound from the beginning and
+    as including what will result from it, regardless of place, manner, amount, or
+    instrument.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: CHAPTER I, 2. 241; lines 13244-13248
+  quote_or_summary: An explanatory note says the offence scale was later extended
+    to all classes of sins and to good works supposed to counterbalance them.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: CHAPTER I, 2. 241; note on last five degrees of sin; lines 13276-13284
+  quote_or_summary: The amounts are described as the supposed weights of sins in the
+    golden scales of the angel Rashnu when the soul is called to account for actions
+    during life after the third night after death.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: CHAPTER I, 2. 241; note on afterlife judgment; lines 13284-13289
+  quote_or_summary: Sins are weighed against good works, and the soul is sent directly
+    to heaven, hell, or an intermediate place according to whether good works or sins
+    preponderate, or whether both are equal.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: CHAPTER I, 2. 241; note on Vendidad assault scale; lines 13289-13297
+  quote_or_summary: The Avesta/Vendidad source is described as a graduated scale of
+    assaults, from first lifting the hand to smite up to manslaughter.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: CHAPTER I, 2. 241; note on temporal punishments; lines 13297-13316
+  quote_or_summary: For each degree of assault, temporal punishments are prescribed
+    as lashes with a horse-whip or scourge, ranging from a minimum of five to a maximum
+    of two hundred lashes, with escalation for repeated or unatoned offences.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is largely doctrinal and legal-expository, with afterlife-judgment
+    material appearing in translator notes. Motif identifications are therefore strongest
+    for the explicit weighing-of-deeds passage and more cautious for broader afterlife-map
+    or comparison claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported taxonomy symbol references were assigned; available symbol refs such as fire, water, tree, serpent, cave, milk, and mountain are not present in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l13232-l13318
+  passage_sha256=ea4e588c84d2aae1778b0b66e6e372eb9e89d649a9e03b6816461a3a0ec72d33
+

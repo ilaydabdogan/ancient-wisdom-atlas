@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l9493-l9506
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: CEREMONIAL    INTRODUCTION    TO   INDIVIDUAL    LIFE    AND    TO    THE
+    / SUPERNATURAL / THE    OMAHA    TEIBE / TRIBAL   ORGANIZATION; lines 9493-9506
+  start: '9493'
+  end: '9506'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a tabular list of Omaha tribal divisions, gentes, subgentes,
+    and subdivisions. It names two divisions, lists numbered social units and their
+    subdivisions, and ends with three named tents associated with war, a sacred pole,
+    and a sacred white buffalo hide.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage opens by naming two divisions: INSHTA''CUNDA and HO^''GASHEN-U.'
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage enumerates named gentes or social units and records whether they
+    have subgens, subgentes, subdivisions, none, or no subdivisions.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: The TAPA' entry includes subdivisions named Tapa'xte, Thunder rites, Star
+    rites, and Nini'bato.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists a Sacred Tent of War, a Tent of Sacred Pole, and a Tent
+    of Sacred White Buffalo Hide.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The name Nini'bato appears as a subgens, subgentes, or subdivision under multiple
+    entries.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: INSHTA'CUNDA division
+  description: A division named at the start of the organizational list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: HO^'GASHEN-U division
+  description: A division named at the start of the organizational list.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: TAPA'
+  description: A numbered entry with subdivisions including Tapa'xte, Thunder rites,
+    Star rites, and Nini'bato.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named tribal division
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage labels INSHTA'CUNDA and HO^'GASHEN-U as divisions.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: social unit with ritual subdivisions
+  assigned_to:
+  - fig:3
+  basis: The TAPA' entry is listed with subdivisions that include Thunder rites and
+    Star rites.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Thunder rites
+  literal_form: rites named as a TAPA' subdivision
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Star rites
+  literal_form: rites named as a TAPA' subdivision
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Sacred Tent of War
+  literal_form: sacred tent associated with war
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Sacred Pole
+  literal_form: pole named in the Tent of Sacred Pole
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Sacred White Buffalo Hide
+  literal_form: white buffalo hide named in the Tent of Sacred White Buffalo Hide
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Tabular tribal organization list
+  summary: A list organizes Omaha social units into divisions, gentes, subgentes,
+    and subdivisions, and includes named ritual or sacred items within that organization.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ritual subdivisions within tribal organization
+  taxonomy_refs: []
+  basis: The TAPA' entry lists Thunder rites and Star rites among its subdivisions.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage only names the rites; it does not describe their content,
+    performance, or mythic narrative context.
+- id: motif:2
+  label: Sacred tent as ceremonial locus
+  taxonomy_refs: []
+  basis: The passage lists a Sacred Tent of War, a Tent of Sacred Pole, and a Tent
+    of Sacred White Buffalo Hide.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage supplies names only and does not explain the ritual function
+    of the tents.
+- id: motif:3
+  label: Sacred pole associated with a tent
+  taxonomy_refs: []
+  basis: One entry is named Tent of Sacred Pole.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe the pole's form, symbolism, ritual use,
+    or relation to any wider axis or tree motif.
+- id: motif:4
+  label: Sacred white buffalo hide associated with a tent
+  taxonomy_refs: []
+  basis: One entry is named Tent of Sacred White Buffalo Hide.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not describe the hide's ritual use or mythic associations.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9493-9493
+  quote_or_summary: '"A. INSHTA''CUNDA DIVISION. B. HO^''GASHEN-U DIVISION."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: lines 9493-9497
+  quote_or_summary: The list begins numbered entries 1-5, naming WE'ZHiNsHTE, I^KE'gABE,
+    HOX/GA, THA'TADA, and KoN'fE, with subgens, subgentes, subdivisions, or none recorded.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9499-9503
+  quote_or_summary: The list continues entries 6-10; the TAPA' entry includes Tapa'xte,
+    Thunder rites, Star rites, and Nini'bato as subdivisions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 9503-9506
+  quote_or_summary: '"Sacred Tent of War. 12. Tent of Sacred Pole. 13. Tent of Sacred
+    White Buffalo Hide."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The organizational names and sacred items are explicit in the passage. Motif
+    identification is cautious because the passage is a list and provides little narrative
+    or ritual explanation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the passage does not explicitly support the available motif or symbol taxonomy labels.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l9493-l9506
+  passage_sha256=9ca0bec908ae5e0cdaebfb9a6ac932625bcd6305000b3d8e436545e7492bfcd4
+

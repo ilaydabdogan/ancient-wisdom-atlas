@@ -1,0 +1,301 @@
+---
+record_id: batch.motif.chinese-chuang-tzu-giles-archive-l2653-l2666
+source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+passage_locator:
+  label: B.C.  1766. / B   2 / CHAPTER  II. / CHAPTER   III.; lines 2653-2666
+  start: '2653'
+  end: '2666'
+  translation: 'Chuang Tzŭ: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"The fuel is consumed, but the fire may be transmitted"'
+  summary: The passage states that lamentation and sorrow have no place in relation
+    to death, reports an ancient image of death as God cutting down a man suspended
+    in the air, compares consumed fuel with transmitted fire, and summarizes Chuang
+    Tzu’s view that a properly nourished soul may become immortal and return to the
+    Great Unknown from which it came.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that lamentation and sorrow have no place.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The ancients are said to have spoken of death as God cutting down a man suspended
+    in the air.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that fuel is consumed while fire may be transmitted, and
+    that its end is not known.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage attributes to Chuang Tzu the view that the soul, if properly nourished
+    and not worn out with the body in mortal pursuits, may become immortal.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The soul is described as able to return beatified to the Great Unknown from
+    which it came.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the ancients
+  description: A group cited as having spoken about death through an image of God
+    cutting down a suspended man.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: God
+  description: The agent in the reported ancient image, described as cutting down
+    a man suspended in the air.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: man suspended in the air
+  description: A man in the ancient image of death, suspended in the air and cut down
+    by God.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: the soul
+  description: The soul is described as capable, if duly nourished and not worn out
+    with the body, of becoming immortal and returning beatified to the Great Unknown.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: the body
+  description: The body is associated with the pursuits of mortality and with the
+    danger that the soul may wear itself out with it.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Chuang Tzu
+  description: The teaching about the soul is attributed to Chuang Tzu in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: traditional speakers
+  assigned_to:
+  - fig:1
+  basis: They are cited as speaking about death through a figurative image.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: death-cutting agent in image
+  assigned_to:
+  - fig:2
+  basis: God is described as cutting down a suspended man in the ancient image of
+    death.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: mortal person in death image
+  assigned_to:
+  - fig:3
+  basis: The man is suspended in the air and is cut down in the image used for death.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: potentially immortal returner
+  assigned_to:
+  - fig:4
+  basis: The soul may become immortal and return beatified to the Great Unknown.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: mortal bodily counterpart
+  assigned_to:
+  - fig:5
+  basis: The soul is contrasted with the body and its mortal pursuits.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: attributed teacher
+  assigned_to:
+  - fig:6
+  basis: The passage says the teaching about the soul is according to Chuang Tzu.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: transmitted fire
+  literal_form: fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: consumed fuel
+  literal_form: fuel
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Great Unknown
+  literal_form: the Great Unknown
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: suspended man cut down
+  literal_form: a man suspended in the air cut down by God
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Death pictured as cutting down
+  summary: Ancient speakers describe death through the image of God cutting down a
+    man suspended in the air.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Fuel consumed and fire transmitted
+  summary: The passage compares consumed fuel with fire that may be transmitted and
+    whose end is unknown.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Soul becomes immortal and returns
+  summary: The passage attributes to Chuang Tzu the idea that a duly nourished soul
+    may avoid being worn out with the body, become immortal, and return beatified
+    to the Great Unknown.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: immortal return to original source
+  taxonomy_refs:
+  - return
+  basis: The soul may become immortal and return beatified to the Great Unknown from
+    which it came.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states return to an origin, but does not describe a journey
+    sequence in detail.
+- id: motif:2
+  label: continuity after bodily consumption
+  taxonomy_refs: []
+  basis: The passage contrasts consumed fuel with fire that may be transmitted and
+    whose end is unknown, alongside the claim that the soul may become immortal.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The connection between the fire image and the soul doctrine is suggested
+    by proximity, but the passage does not explicitly equate fire with the soul.
+- id: motif:3
+  label: death as release from suspension
+  taxonomy_refs: []
+  basis: The ancient saying presents death as God cutting down a man suspended in
+    the air.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a brief reported image, not a full narrative motif.
+- id: motif:4
+  label: spiritual preservation through discipline
+  taxonomy_refs:
+  - wisdom
+  basis: The soul may become immortal if duly nourished and not allowed to wear itself
+    out with the body in mortal pursuits.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify the practices by which the soul is nourished.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2653-2654
+  quote_or_summary: '"lamentation and sorrow have no place"'
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2654-2656
+  quote_or_summary: The ancients spoke of death as God cutting down a man suspended
+    in the air.
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain translation; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2656-2658
+  quote_or_summary: '"The fuel is consumed, but the fire may be transmitted"; the
+    passage adds that its end is not known.'
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain translation; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2660-2665
+  quote_or_summary: According to Chuang Tzu, the soul, if duly nourished and not worn
+    out with the body in mortal pursuits, may become immortal and return beatified
+    to the Great Unknown from which it came.
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain translation; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage is brief and partly expository rather than narrative. No comparison
+    claims are made beyond available motif-family tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to provided available taxonomy entries.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-chuang-tzu-giles-archive__l2653-l2666
+  passage_sha256=50e31848bb969671929a9cccf8f834013e991eb41141fa32e00e0fbc6a6ccd7b
+

@@ -1,0 +1,369 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l8298-l8357
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE GIRL AND THE CANNIBALS. / THE GIRL AND THE CANNIBALS. / THE GIRL AND
+    THE CANNIBALS. / ADDITION TO THE FOREGOING TALE BY ANOTHER NATIVE.; lines 8298-8357
+  start: '8298'
+  end: '8357'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: her brother also ascended the tree, and saw a very beautiful country
+  summary: A brother ascends a tree with his sister and reaches a beautiful upper
+    country with a green house. They fear returning to the distant earth because of
+    cannibals. They kill and roast an ox, and the smell alerts the cannibals below.
+    The sister suggests drawing a cannibal up because the brother has a spear, and
+    the brother cuts the oxhide into strips to make a rope.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The brother ascends the tree with his sister and sees a beautiful country.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: They find a green house with a burnished floor in a beautiful upper region.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They see the earth far below and do not go down because they fear cannibals
+    seeking food on the earth.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: They find a large ox, drive it to the house, kill and flay it, spread the
+    skin in the sun, and light a fire in the house.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cannibals smell the meat, look around and upward, and see the house.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The youth says that one cannibal resembles the one who pursued them on the
+    earth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The sister proposes drawing the cannibal up and says the brother's spear will
+    frighten him because cannibals fear a spear.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The brother cuts the moist hide into long strips to make a hide rope.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: brother / youth
+  description: The girl's brother ascends the tree, accompanies his sister, carries
+    an assagai, and cuts the hide into strips.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: sister
+  description: The sister accompanies her brother in the upper country and suggests
+    drawing the cannibal up because her brother has a spear.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: cannibals
+  description: Cannibals are seen on the earth seeking food; they smell the meat and
+    see the house above.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: bullock / large ox
+  description: A large ox is found, driven to the house, killed, flayed, roasted for
+    meat, and its hide is cut into rope-strips.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage identifies the two companions as brother and sister acting together
+    after the ascent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: armed brother
+  assigned_to:
+  - fig:1
+  basis: The sister says her brother has a spear, and the brother goes out with his
+    assagai.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: adviser
+  assigned_to:
+  - fig:2
+  basis: The sister proposes drawing the cannibal up and gives the reason that cannibals
+    fear a spear.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: cannibal threat
+  assigned_to:
+  - fig:3
+  basis: The siblings fear the cannibals below, and the cannibals seek food and detect
+    the meat smell.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: animal used for meat and hide
+  assigned_to:
+  - fig:4
+  basis: The ox is killed and roasted, and its skin is cut into strips for a rope.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: tree ascent route
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: upper country and green house
+  literal_form: beautiful upper region with a green house and burnished floor
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: oxhide rope
+  literal_form: moist oxhide cut into long strips
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: fire for roasting meat
+  literal_form: fire lit in the house
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spear / assagai
+  literal_form: spear or assagai carried by the brother
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Ascent to the upper country
+  summary: The brother ascends the tree with his sister, finds a beautiful upper region
+    and green house, and sees the earth far below where cannibals move about seeking
+    food.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Killing the ox and detection by smell
+  summary: The siblings find a large ox, bring it to the house, kill and flay it,
+    spread the skin in the sun, and light a fire. The cannibals smell the meat and
+    see the house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Plan to draw up the cannibal
+  summary: The sister suggests drawing the cannibal up because the brother has a spear.
+    The brother decides to cut the moist hide into strips and makes a long hide rope.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ascent by tree to an upper region
+  taxonomy_refs:
+  - ascent
+  basis: The brother ascends the tree with his sister and reaches a beautiful upper
+    country above the distant earth.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the cosmological status of the upper country
+    beyond describing it as an upper region reached by tree.
+- id: motif:2
+  label: sibling pair in flight or refuge
+  taxonomy_refs:
+  - sibling_pair
+  basis: Brother and sister act together in the upper country and avoid the earth
+    because of cannibals below.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This passage is an addition to a foregoing tale, so the broader flight
+    context is only partly visible here.
+- id: motif:3
+  label: cannibals detect hidden victims by smell of cooked meat
+  taxonomy_refs: []
+  basis: After the siblings light a fire and roast meat, the cannibals smell the odour
+    and see the house above.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The detection is clear, but the passage does not complete the subsequent
+    encounter.
+- id: motif:4
+  label: improvised rope from animal hide
+  taxonomy_refs: []
+  basis: The brother cuts the still-moist oxhide into long strips to make a rope for
+    drawing the cannibal up.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The intended outcome of drawing the cannibal up is not included in the
+    supplied line range.
+- id: motif:5
+  label: weapon feared by man-eaters
+  taxonomy_refs: []
+  basis: The sister states that the cannibal will be afraid because the brother has
+    a spear and that cannibals fear a spear.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is based on a character's statement within the tale and is not externally
+    confirmed in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 8298-8304
+  quote_or_summary: "“The brother goes up the tree with his sister, and they find
+    a beautiful country.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used for passage evidence.
+- id: ev:2
+  type: summary
+  locator: 8305-8321
+  quote_or_summary: The brother sees a beautiful country; the siblings find a green
+    house with a burnished floor in the upper region, see the earth far below, and
+    fear cannibals seeking food there.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 8322-8339
+  quote_or_summary: The siblings find a large ox, bring it to the house, kill and
+    flay it, spread the skin in the sun, and light a fire; the cannibals smell the
+    meat, look up, and see the house.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 8340-8349
+  quote_or_summary: The sister says they should draw the cannibal up; because the
+    brother has a spear, the cannibal will be afraid, since cannibals fear a spear.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 8350-8357
+  quote_or_summary: The brother goes out with his assagai and cuts the still-moist
+    skin into strips until the whole skin has become a very long rope.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are limited to passage-level patterns and available taxonomy references; no comparison
+    claims are made because the passage itself does not support cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied line range and metadata were used. Footnote references in the excerpt were not expanded.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l8298-l8357
+  passage_sha256=a088b3bd374bba6cf9fc2d04bb11c3495273e7cd3ef1d84737584f299953cb36
+

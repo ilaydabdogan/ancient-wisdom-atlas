@@ -1,0 +1,267 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l5140-l5152
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: TIPIS / WESTERN    MOVEMENTS / FLETCHER-LA  FLESCHEJ    ENVIRONMENT  ;    RESULTANT   INFLUENCES  73
+    / CONTACT    WITH    THE    ARIKARA; lines 5140-5152
+  start: '5140'
+  end: '5152'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses bark huts as forest-people dwellings remembered in
+    Omaha legend and traditions, compares them with Winnebago bark houses, contrasts
+    them with Arikara dwelling practice, and notes uncertainty about whether Omaha
+    maize knowledge came from the Arikara.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The bark hut is described as a dwelling type belonging to a forest people.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Omaha are said to have formerly lived in bark houses according to an ancient
+    Legend and other Omaha traditions.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the Omaha were aware that they once lived in bark houses
+    like those used by the Winnebago at the time of writing.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Arikara are described as not being a forest people and as not using the
+    bark hut.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage states that such details show how a story may take on coloring
+    and become modified when passing from one culture to another.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Arikara are described as long knowing and practicing maize cultivation,
+    as shown by their rites, traditions, and customs when first known historically.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that it is very doubtful that the Omaha first learned of
+    maize from the Arikara.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Omaha people
+  description: People whose traditions are said to remember former residence in bark
+    houses.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Winnebago
+  description: People described as using bark houses at the time of writing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Arikara
+  description: People contrasted with forest peoples and described as non-users of
+    bark huts and long-time maize cultivators.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: Former bark-house dwellers in tradition
+  assigned_to:
+  - fig:1
+  basis: The passage says the Omaha once lived in bark houses, as told in their Legend
+    and traditions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: Present comparandum for bark-house use
+  assigned_to:
+  - fig:2
+  basis: The passage compares former Omaha bark houses with those in use among the
+    Winnebago at the time of writing.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: Non-bark-hut people in contrast
+  assigned_to:
+  - fig:3
+  basis: The Arikara are described as not a forest people and not users of bark huts.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Long-time maize cultivators
+  assigned_to:
+  - fig:3
+  basis: The passage says maize cultivation was long known and practiced by the Arikara,
+    as evidenced by rites, traditions, and customs.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Bark hut
+  literal_form: A bark dwelling associated with forest people and remembered in Omaha
+    tradition.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: Maize
+  literal_form: A cultivated plant discussed as long known to the Arikara and as a
+    doubtful source of first knowledge for the Omaha.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Bark hut as cultural and narrative detail
+  summary: The passage identifies the bark hut as a forest-people dwelling, says Omaha
+    traditions remember such houses, compares them with Winnebago houses, and contrasts
+    them with Arikara practice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Maize knowledge and doubtful transmission
+  summary: The passage notes that the Arikara long cultivated maize but treats the
+    idea that Omaha first learned of maize from them as very doubtful.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Cultural detail preserved or altered in transmitted tradition
+  taxonomy_refs: []
+  basis: The passage explicitly says bark-hut details illustrate how a story takes
+    on coloring and is modified as it passes between peoples of different cultures.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is an ethnographic interpretive pattern, not a mythic episode narrated
+    in the passage.
+- id: motif:2
+  label: Dwelling type as marker of former cultural environment
+  taxonomy_refs: []
+  basis: The bark hut is treated as a forest-people dwelling remembered in Omaha traditions
+    and compared with Winnebago usage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage presents the bark hut as cultural evidence rather than as
+    a symbolic object with explicit ritual meaning.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a comparison between former Omaha bark-house use in
+    tradition and Winnebago bark houses in use at the time of writing.
+  claim_level: visual_similarity
+  target: Winnebago bark houses
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage states likeness and use but does not establish historical
+    derivation or shared origin.
+- id: claim:2
+  claim: The passage cautions against a firm historical-contact explanation that Omaha
+    first learned maize from the Arikara.
+  claim_level: historical_contact
+  target: Arikara as a proposed source for Omaha maize knowledge
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage only states that this proposed source is very doubtful;
+    it does not provide an alternative source.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5140-5143
+  quote_or_summary: Bark huts are described as forest-people dwellings, and Omaha
+    former residence in such houses is attributed to an ancient Legend and other Omaha
+    traditions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 5144-5146
+  quote_or_summary: The Omaha are said to know they once lived in bark houses like
+    present Winnebago houses; the Arikara are described as not forest people and not
+    users of bark huts.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 5146-5149
+  quote_or_summary: The passage says such details illustrate how a story takes on
+    coloring and is modified when passing between peoples of different cultures.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 5149-5152
+  quote_or_summary: The passage says Arikara maize cultivation was long known from
+    their rites, traditions, and customs, but that Omaha first knowledge of maize
+    from them is very doubtful.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is ethnographic commentary rather than a myth narrative; extraction
+    emphasizes cultural objects and transmission patterns explicitly stated in the
+    passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not explicitly support those taxonomy categories.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l5140-l5152
+  passage_sha256=a7dc770c6c2d93beee08d3087bda984536124242d0f08cf1f63c583a535204eb
+

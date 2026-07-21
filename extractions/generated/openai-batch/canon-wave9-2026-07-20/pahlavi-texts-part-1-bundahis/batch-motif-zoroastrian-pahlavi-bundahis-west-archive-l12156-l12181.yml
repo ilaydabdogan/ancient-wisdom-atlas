@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l12156-l12181
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER I, 7-II, 3. 195 / I, 26). / CHAPTER 11, 13-19. 199 / XII, 2, 17).;
+    lines 12156-12181
+  start: '12156'
+  end: '12181'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that one who reverently performs much worship for Auharmazd
+    is known by Auharmazd through righteousness and receives remuneration and reward
+    for duty and good works. The supplied editorial note identifies the section as
+    a Pahlavi version of an Avesta formula appended to many Yasna chapters, marking
+    a chapter close, and gives an Avesta text with a translation about reverencing
+    males and females known by Ahuramazda through righteousness in worship. Other
+    editorial footnotes mention a textual number variant and a mountainous region
+    south of the Caspian, but their main referents are outside the supplied excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A person among existing beings performs much worship for Auharmazd with reverence
+    toward the good.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Auharmazd is described as aware of the worshipper through righteousness.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Auharmazd gives remuneration and reward for duty and good works.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: An editorial note identifies the section as a Pahlavi version of an Avesta
+    formula appended to many Yasna chapters and used to indicate the close of a chapter.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The translated Avesta formula says that males and females known by Ahuramazda
+    through righteousness in worship are reverenced.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Editorial footnotes mention a number variant between 'seven' and 'seventeen'
+    and identify a mountainous region south of the Caspian.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Auharmazd / Ahuramazda
+  description: Divine figure who is worshipped, knows through righteousness, and gives
+    reward; also named in the Avesta formula translation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Reverent worshipper among existing beings
+  description: Generic person described as performing much worship for Auharmazd with
+    reverence toward the good.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Males and females in the formula
+  description: Male and female existences said in the translated formula to be reverenced
+    when known by Ahuramazda through righteousness in worship.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: divine recipient of worship and giver of reward
+  assigned_to:
+  - fig:1
+  basis: Auharmazd is the object of worship, is aware through righteousness, and gives
+    remuneration and reward.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: reverent performer of worship and good works
+  assigned_to:
+  - fig:2
+  basis: The passage describes whoever performs much worship and receives reward for
+    duty and good works.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reverenced beings in ritual formula
+  assigned_to:
+  - fig:3
+  basis: The formula translation states that both males and females known through
+    righteousness in worship are reverenced.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Worship and divine reward
+  summary: A reverent worshipper performs much worship for Auharmazd; Auharmazd knows
+    this through righteousness and grants reward for duty and good works.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Closing reverence formula
+  summary: The section is identified as a Pahlavi version of an Avesta formula that
+    reverences males and females known by Ahuramazda through righteousness in worship
+    and functions as a chapter close.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: divine recompense for worship and good works
+  taxonomy_refs:
+  - divine_judgment
+  basis: Auharmazd is said to be aware through righteousness and to give remuneration
+    and reward for duty and good works.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage emphasizes reward and divine awareness, not an explicit trial,
+    punishment, or detailed judgment scene.
+- id: motif:2
+  label: worship linked to sacred reward
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage links reverent worship, duty, and good works with remuneration
+    from Auharmazd.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The exchange is expressed in terms of reward for worship and good works;
+    no concrete offering or reciprocal ritual transaction is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage is explicitly presented as a Pahlavi version of an Avesta formula
+    with only minor verbal deviations.
+  claim_level: linguistic_similarity
+  target: Avesta formula appended to chapters of the Yasna
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This depends on the supplied editorial note rather than an independent
+    philological comparison within the extraction.
+- id: claim:2
+  claim: The formula is said to serve the same chapter-closing function as the formula
+    appended to many Yasna chapters.
+  claim_level: same_function
+  target: Yasna chapter-closing formula
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The functional comparison is limited to the editor's statement in the
+    supplied passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12156-12159
+  quote_or_summary: A reverent worshipper of Auharmazd is known by Auharmazd through
+    righteousness and receives remuneration and reward for duty and good works.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 12168-12173
+  quote_or_summary: An editorial note states that the section is the Pahlavi version
+    of an Avesta formula appended to nearly two-thirds of the chapters of the Yasna
+    and that it indicates the close of the chapter, with only minor verbal deviations.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 12174-12181
+  quote_or_summary: The supplied Avesta formula and translation concern males and
+    females among the existences whom Ahuramazda knows through righteousness in worship
+    and whom 'we reverence.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: note
+  locator: lines 12161-12166
+  quote_or_summary: Editorial footnotes mention a variant reading of a number as 'seven'
+    or 'seventeen' and identify a mountainous region south of the Caspian.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The devotional reward and Yasna-formula comparison are directly supported.
+    The excerpt is fragmentary at the beginning and includes footnotes whose main
+    referents are outside the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No concrete symbols from the available symbol taxonomy are extracted. The editorial mention of a mountainous region is treated as a note, not as a symbolic mountain motif.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l12156-l12181
+  passage_sha256=137bd36b458286265a4343c92738de280ba092d85870e9d3dfef224799fe3f96
+

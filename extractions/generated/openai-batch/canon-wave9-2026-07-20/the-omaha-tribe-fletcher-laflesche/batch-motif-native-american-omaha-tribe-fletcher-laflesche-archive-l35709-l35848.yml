@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35709-l35848
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / SOCIETIES / THE    OMAHA   TRIBE / SOCIETIES; lines
+    35709-35848
+  start: '35709'
+  end: '35848'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives Omaha society song texts with literal glosses and explanations.
+    One song is explained as a speaker rising to take a path pointed out by a mysterious
+    messenger or stranger; the path is explained as the path of life and its avocations.
+    A second stanza concerns possessions or hunting products gained through magic
+    imparted by the mysterious stranger. A dismissal song of the “Second Son” is explained
+    as longing to follow a brother who has gone along opened paths. The excerpt then
+    begins a dismissal song of the “Daughter” without providing an explanation in
+    the supplied range.
+  language: English with Omaha song terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The literal gloss identifies a term for “path” and glosses “wakonda” as mysterious,
+    referring to the stranger.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first song is explained as a speaker rising to take the path pointed out
+    by a mysterious messenger or stranger; the path is identified as the path of life
+    with its avocations.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The second stanza uses a word glossed as possessions, described as products
+    of hunting gained through magic imparted by the mysterious stranger to bring animals.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The “Second Son” dismissal song is explained as saying that the other one,
+    identified as the speaker’s brother, has gone, and that the speaker longs to follow
+    him along opened paths.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The excerpt begins a “Daughter” dismissal song with music and syllabic text,
+    but no explanatory meaning for that song is included in the supplied passage.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: speaker of the path song
+  description: A first-person song voice explained as rising to take the path pointed
+    out by the mysterious messenger or stranger.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: mysterious messenger or stranger
+  description: A mysterious figure who points out the path and is also said to impart
+    magic that brings animals for hunting.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the other one / brother
+  description: The one who has gone in the “Second Son” dismissal song, explained
+    as the speaker’s brother.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: speaker of the “Second Son” dismissal song
+  description: The song voice who has a longing to follow the brother along the paths
+    opened before them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: path-taker
+  assigned_to:
+  - fig:1
+  basis: The song explanation says the speaker rises to take the path pointed out
+    to them.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mysterious guide or messenger
+  assigned_to:
+  - fig:2
+  basis: The path is said to be pointed out by a mysterious messenger or stranger.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: imparter of hunting magic
+  assigned_to:
+  - fig:2
+  basis: The second stanza explanation says hunting products were gained through magic
+    imparted by the mysterious stranger to bring animals.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: departed brother
+  assigned_to:
+  - fig:3
+  basis: The dismissal song explanation identifies the one who has gone as the speaker’s
+    brother.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: longing follower
+  assigned_to:
+  - fig:4
+  basis: The speaker says they long to follow the brother along the opened paths.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: path of life / opened paths
+  literal_form: hozhonge, path; the path pointed out by the mysterious stranger; the
+    paths opened before the siblings
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: hunting possessions
+  literal_form: washige, possessions; products of hunting gained through magic
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Taking the path pointed out by the stranger
+  summary: A song is explained as a speaker rising to take the life path shown by
+    a mysterious messenger or stranger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Possessions gained through hunting magic
+  summary: The second stanza is explained as referring to hunting possessions obtained
+    through magic imparted by the mysterious stranger to bring animals.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Second Son dismissal and longing to follow the brother
+  summary: The “Second Son” dismissal song is explained as a speaker longing to follow
+    a brother who has gone along opened paths.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: guided taking of a life path
+  taxonomy_refs:
+  - departure
+  basis: The song explanation says the speaker rises to take a path pointed out by
+    a mysterious messenger or stranger, and the path is identified as the path of
+    life.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage frames the path as life and avocations, not as a full journey
+    narrative; the taxonomy link to “departure” is broad.
+- id: motif:2
+  label: mysterious helper grants hunting magic
+  taxonomy_refs: []
+  basis: The second stanza explanation says hunting products are gained through magic
+    imparted by the mysterious stranger to bring animals.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not narrate the original encounter or any exchange with
+    the stranger.
+- id: motif:3
+  label: longing to follow a departed brother
+  taxonomy_refs:
+  - sibling_pair
+  - departure
+  basis: The “Second Son” dismissal song is explained as a brother having gone and
+    the speaker longing to follow him along opened paths.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not specify the destination or whether the brother’s
+    departure is death, travel, or a ritualized absence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35709-35848, Ayonge song literal translation paragraph
+  quote_or_summary: The literal translation glosses terms including “hozhonge” as
+    path and “wakonda” as mysterious, referring to the stranger.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 35709-35848, explanation of Ayonge song
+  quote_or_summary: The song is explained to mean that the speaker rises to take the
+    path pointed out by the mysterious messenger or stranger; the path is explained
+    as the path of life with avocations.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 35709-35848, second stanza explanation
+  quote_or_summary: The second stanza is said to differ by using “washige,” meaning
+    possessions, described as hunting products gained through magic imparted by the
+    mysterious stranger to bring animals.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 35709-35848, “DISMISSAL SONG OF THE ‘SECOND SON’” explanation
+  quote_or_summary: The dismissal song is glossed as the other one being gone and
+    is explained as the speaker’s brother having gone, with the speaker longing to
+    follow him along opened paths.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 35709-35848, “DISMISSAL SONG OF THE ‘DAUGHTER’” heading and opening
+  quote_or_summary: The passage begins the “Daughter” dismissal song with music and
+    syllabic text, but the supplied excerpt does not include an explanatory meaning
+    for it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage provides explicit ethnographic explanations for the path song,
+    the hunting-possessions stanza, and the “Second Son” dismissal song. Motif-family
+    assignments are cautious because the excerpt is song commentary rather than a
+    full narrative, and the “Daughter” song is incomplete in the supplied range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another text, tradition, or motif family beyond the candidate motifs inferred from its own explanations.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35709-l35848
+  passage_sha256=0416c25cb75af72b6d32395a053556651c763cfa69e2b237dbc5ba619378134f
+

@@ -1,0 +1,344 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l19847-l19858
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: THE BAD BROTHER / MINK AND WEASEL / NOTES 389 / PITOIOIS; lines 19847-19858
+  start: '19847'
+  end: '19858'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A note mentions pursuit of W6n, a tree-top-biting creature, and wrestling
+    with Sukas, a man-eater who draws people in with his breath and swallows them.
+    A separate Pitoiois note says Pitoiois is now a bird, identifies the old father-in-law
+    as lightning, and states that his life is in a stone mortar that can be restored
+    if broken but kills him if buried under water.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: W6n is described as a creature that had to bend down to bite off the tops
+    of trees.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Someone pursued W6n.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Sukas is described as a man-eater.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Sukas drew people in with his breath and swallowed them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Pitoiois is now a bird whose English name is unknown.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The old father-in-law is identified as lightning.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The old father-in-law's life is in the stone mortar.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The old father-in-law throws the stone mortar at persons whom he wishes to
+    kill.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: If the mortar is broken, the old father-in-law presses the pieces to his breast
+    and the mortar becomes whole again.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: If the mortar is buried in the ground under water, the old father-in-law dies.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: W6n
+  description: A creature that had to bend down to bite off the tops of trees.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Sukas
+  description: A man-eater who drew people in with his breath and swallowed them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Pitoiois
+  description: Now a bird; English name unknown.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: old father-in-law
+  description: Identified as lightning; his life is in a stone mortar.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: pursued creature
+  assigned_to:
+  - fig:1
+  basis: The note says W6n was pursued and describes W6n as a large tree-top-biting
+    creature.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: man-eater
+  assigned_to:
+  - fig:2
+  basis: Sukas is explicitly called a man-eater who draws people in and swallows them.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: bird-identified figure
+  assigned_to:
+  - fig:3
+  basis: The note states that Pitoiois is now a bird.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: lightning father-in-law
+  assigned_to:
+  - fig:4
+  basis: The note identifies the old father-in-law as lightning.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: holder of external life-object
+  assigned_to:
+  - fig:4
+  basis: The note says his life is in the stone mortar, and his death depends on what
+    happens to it.
+  evidence_refs:
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: stone mortar
+  literal_form: Stone mortar containing the old father-in-law's life and used as a
+    thrown killing object.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:2
+  label: lightning
+  literal_form: The old father-in-law is identified as lightning.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: water
+  literal_form: Water under which the mortar is buried in the ground, causing the
+    old father-in-law's death.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: breath
+  literal_form: Breath by which Sukas draws people in before swallowing them.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bird
+  literal_form: Pitoiois is now a bird of unknown English name.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Pursuit of W6n
+  summary: A creature named W6n is pursued; W6n is described as having to bend down
+    to bite off tree tops.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Encounter with Sukas
+  summary: Sukas, a man-eater, wrestles with an unnamed opponent and is described
+    as drawing people in with his breath and swallowing them.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Pitoiois and the lightning father-in-law
+  summary: Pitoiois is said to be a bird. The old father-in-law is lightning, and
+    his life resides in a stone mortar that he throws at intended victims; the mortar
+    can be restored if broken, but burial under water kills him.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: life hidden in an external object
+  taxonomy_refs: []
+  basis: The old father-in-law's life is in a stone mortar, and his death depends
+    on the mortar being buried under water.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage is a brief note and does not narrate the full story context.
+- id: motif:2
+  label: self-repairing life-object
+  taxonomy_refs: []
+  basis: When the mortar is broken, the old father-in-law presses the pieces to his
+    breast and it becomes whole again.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The note does not explain the mechanism beyond the stated action.
+- id: motif:3
+  label: man-eater draws victims by breath and swallows them
+  taxonomy_refs: []
+  basis: Sukas is called a man-eater who draws people in with his breath and swallows
+    them.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage provides only a note, not a full episode.
+- id: motif:4
+  label: human or named being now identified as a bird
+  taxonomy_refs: []
+  basis: Pitoiois is stated to be now a bird of unknown English name.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not directly narrate the transformation event or cause.
+- id: motif:5
+  label: lightning personified as old father-in-law
+  taxonomy_refs: []
+  basis: The note states that the old father-in-law is lightning.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The relationship to Pitoiois is implied by placement in the Pitoiois note
+    but not expanded in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19847-19849
+  quote_or_summary: W6n is described as a pursued creature that had to bend down to
+    bite off the tops of trees.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 19849-19851
+  quote_or_summary: Sukas is described as a man-eater who drew people in with his
+    breath and swallowed them; the note also mentions wrestling with him.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 19854-19856
+  quote_or_summary: Pitoiois is now a bird, with English name unknown.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 19856-19857
+  quote_or_summary: The old father-in-law is lightning, and his life is in a stone
+    mortar.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 19857-19858
+  quote_or_summary: The old father-in-law throws the stone mortar at persons he wishes
+    to kill.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 19858
+  quote_or_summary: If the mortar is broken, he presses the pieces to his breast and
+    it becomes whole again.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 19858
+  quote_or_summary: If the mortar is buried in the ground under water, he dies.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage consists of short notes rather than a continuous narrative, so
+    motif extraction is limited to explicitly stated details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparative claim beyond local motif identification.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l19847-l19858
+  passage_sha256=e99403f75c8beb9b7c0ad48a20650ac0807722f236017716241bfbd4b90b1021
+

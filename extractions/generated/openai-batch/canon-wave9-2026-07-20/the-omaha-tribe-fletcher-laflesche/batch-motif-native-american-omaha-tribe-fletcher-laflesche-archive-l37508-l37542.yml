@@ -1,0 +1,278 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l37508-l37542
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA    TRIBE / SOCIETIES / SOCIETIES / SOCIETIES; lines 37508-37542
+  start: '37508'
+  end: '37542'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Omaha society whose members sang with intense
+    earnestness, notes that its organization was known only as a division into four
+    groups or lodges, describes its sickness treatments by bleeding, sucking out a
+    disturbing object, and a painful massage technique, and states that its rituals
+    were incompletely known. A part of the opening ritual was obtained from the former
+    leader Waki'dezhinga and is said to deal with Creation and cosmic forces.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sound made by the society was unpleasant to an outsider, but the members
+    appeared intensely earnest and each man maintained his own song despite neighboring
+    songs.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The exact organization of the society was not definitely learned, except that
+    it was divided into four groups or lodges.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Members of the society treated sickness by mechanical means.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The treatment methods named are bleeding, sucking out a disturbing object,
+    and kneading and pulling the region below the ribs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The massage-like operation is described as severe and painful and is given
+    an Omaha name in the passage.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The rituals of the society could not be fully obtained; each group seems to
+    have had its own ritual, and the complete set may not have been known to any living
+    Omaha.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A part of the opening ritual was obtained from Waki'dezhinga, a former leader
+    who was dead at the time of writing.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The obtained opening ritual part is said to deal with Creation and cosmic
+    forces.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Waki'dezhinga
+  description: Former leader of the society; named as the source from whom part of
+    the opening ritual was obtained; described as now dead.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Members of the society
+  description: Collective members who sang, belonged to the four groups or lodges,
+    and treated sickness by mechanical means.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: ritual singers
+  assigned_to:
+  - fig:2
+  basis: Members are described as each holding to his own song despite neighboring
+    songs.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: sickness-treaters
+  assigned_to:
+  - fig:2
+  basis: Members are described as treating sickness through bleeding, extraction,
+    and massage-like manipulation.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: members of a four-lodge society
+  assigned_to:
+  - fig:2
+  basis: The society is said to have been divided into four groups or lodges.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: former leader and ritual source
+  assigned_to:
+  - fig:1
+  basis: Waki'dezhinga is identified as a former leader from whom part of the opening
+    ritual was obtained.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: four-lodge division
+  literal_form: four groups or lodges
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: illness-associated disturbing object
+  literal_form: disturbing object sucked out during treatment
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Simultaneous individual singing
+  summary: An outsider hears the society's sound as disorderly, while the members
+    earnestly maintain their own songs alongside others.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fourfold organization of the society
+  summary: The society's exact organization is not fully known, but it is reported
+    to have four groups or lodges.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Treatment of sickness
+  summary: Members treat sickness by bleeding, sucking out a disturbing object, and
+    performing a painful kneading and pulling operation below the ribs.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Fragmentary opening ritual
+  summary: The society's rituals are incompletely known; a portion of the opening
+    ritual obtained from former leader Waki'dezhinga is said to concern Creation and
+    cosmic forces.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Maintaining individual song amid simultaneous singing
+  taxonomy_refs: []
+  basis: The passage emphasizes each man keeping to his own song against equally loud
+    neighboring songs.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not give the song texts or explain the ritual function
+    of the simultaneous singing.
+- id: motif:2
+  label: Sickness treated by extraction of a disturbing object
+  taxonomy_refs: []
+  basis: The society treats sickness by sucking out a disturbing object, alongside
+    bleeding and painful massage-like manipulation.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage calls the treatment mechanical and does not provide a mythic
+    explanation for the disturbing object.
+- id: motif:3
+  label: Fourfold lodge organization
+  taxonomy_refs: []
+  basis: The only definite organizational detail reported is division into four groups
+    or lodges.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage explicitly states that the exact organization could not be
+    definitely learned.
+- id: motif:4
+  label: Opening ritual concerning Creation and cosmic forces
+  taxonomy_refs: []
+  basis: The obtained part of the opening ritual is described as dealing with Creation
+    and cosmic forces.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not include the ritual text itself, so specific creation
+    motifs cannot be identified.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 37508-37514
+  quote_or_summary: The society's sound is described as disagreeable to an outsider,
+    but members are intensely earnest and each holds to his own song despite neighboring
+    songs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 37515-37517
+  quote_or_summary: The society was "divided into four groups or lodges."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 37518-37525
+  quote_or_summary: Members treated sickness by bleeding, sucking out a disturbing
+    object, and a severe kneading and pulling operation below the ribs named in Omaha.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 37526-37534
+  quote_or_summary: The rituals were not fully obtained; each group seems to have
+    had a ritual, the complete set may no longer have been known, and part of the
+    opening ritual was obtained from the former leader Waki'dezhinga, now dead.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 37534-37542
+  quote_or_summary: The opening ritual part "deals with Creation and the cosmic forces."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the supplied passage. Motif candidates
+    are limited because the actual ritual text is not included, and no comparison
+    claims are asserted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family was applied because the passage gives only general references to Creation and cosmic forces, without specific mythic content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l37508-l37542
+  passage_sha256=897b37dc65c1d2b8cf98fa47cd158aa518ae1b88fe8fbf3b45db444eff08c5d9
+

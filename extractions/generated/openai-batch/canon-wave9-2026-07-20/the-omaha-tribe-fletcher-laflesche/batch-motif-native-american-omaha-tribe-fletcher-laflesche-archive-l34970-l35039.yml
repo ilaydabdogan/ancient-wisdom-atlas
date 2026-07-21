@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34970-l35039
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: ELDEST   SON'S   SONG / SOCIETIES / THE    OMAHA    TRIBE / SOCIETIES; lines
+    34970-35039
+  start: '34970'
+  end: '35039'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: In, stone; thon, round; eabe, it is, they say.
+  summary: The passage gives a song text and a literal translation of selected terms,
+    then states that the song refers to a mother finding a shell, here called a round
+    stone. The editors note a possible relation between the Shell and Pebble societies.
+    After the song, the figure called the daughter leads south, others follow in single
+    file, she circles the fire alone, and then stands at the right of the second son.
+    The youngest son faces west and begins another song.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The literal translation identifies in as stone, thon as round, and eabe as
+    it is or they say.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song is described as referring to the mother finding the shell.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The shell is described in the passage as a round stone.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the song and related story elements raise a question
+    about the relation between the Shell and Pebble societies.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the song, the daughter led toward the south and the others followed
+    her in single file.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The daughter left her place, circled the fire alone, returned, and took her
+    place on the right of the second son.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The youngest son turned, faced the west, and sang the following song.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mother
+  description: A mother referred to as finding the shell in the story connected with
+    the song.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: daughter
+  description: A ritual figure called the daughter who leads south, circles the fire
+    alone, and stands at the right of the second son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: others
+  description: Other participants who followed the daughter in single file.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: second son
+  description: A ritual figure at whose right the daughter takes her place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: youngest son
+  description: A ritual figure who turns, faces west, and sings the following song.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: finder of the shell
+  assigned_to:
+  - fig:1
+  basis: The passage says the song refers to the mother finding the shell.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: ritual leader and solitary fire-circler
+  assigned_to:
+  - fig:2
+  basis: The daughter leads south, is followed by others, circles the fire alone,
+    and returns to a place beside the second son.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: single-file followers
+  assigned_to:
+  - fig:3
+  basis: The others follow the daughter in single file.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: positional reference figure
+  assigned_to:
+  - fig:4
+  basis: The daughter takes her place on the right of the second son.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: west-facing singer
+  assigned_to:
+  - fig:5
+  basis: The youngest son turns, faces west, and sings.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shell as round stone
+  literal_form: shell described as a round stone
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: fire circled by the daughter
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: southward movement
+  literal_form: the daughter led toward the south
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: westward orientation
+  literal_form: the youngest son faced the west
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song gloss and shell reference
+  summary: A song is glossed with terms for stone, round, and it is or they say; the
+    passage explains that the song refers to the mother finding the shell, which is
+    described as a round stone.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Daughter’s southward procession and fire-circling
+  summary: After the song, the daughter leads south, the others follow in single file,
+    she leaves her place, circles the fire alone, and returns to stand at the right
+    of the second son.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Youngest son faces west and sings
+  summary: The youngest son turns to the west and sings the next song.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: found shell described as a round stone
+  taxonomy_refs: []
+  basis: The passage explicitly links the song to the mother finding the shell and
+    notes that the shell is spoken of as a round stone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not provide the full story of the finding, only a brief
+    reference to it.
+- id: motif:2
+  label: ritual procession and solitary circling of fire
+  taxonomy_refs: []
+  basis: The daughter leads a single-file procession, then circles the fire alone
+    before returning to her place.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage reports the action but does not explain its symbolic meaning.
+- id: motif:3
+  label: directional orientation in ritual performance
+  taxonomy_refs: []
+  basis: The daughter leads toward the south, and the youngest son turns to face the
+    west before singing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage gives directions but does not state what the directions signify.
+- id: motif:4
+  label: ritual dramatization of a society foundation story
+  taxonomy_refs: []
+  basis: The passage says the song and other points in the story it dramatizes relate
+    to the story on which the Shell society is said to be founded.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage mentions the broader story but does not narrate it in this
+    excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself raises a cautious possible relationship between the Shell
+    and Pebble societies, partly through the shell being spoken of as a round stone.
+  claim_level: same_motif
+  target: Shell society and Pebble society
+  evidence_refs:
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: The passage frames the relation as a question and states only that,
+    if they are related, the Pebble society appears older; it does not establish a
+    definite historical or ritual connection.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 34970-35039; literal translation sentence
+  quote_or_summary: "“In, stone; thon, round; eabe, it is, they say.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 34970-35039; paragraph beginning “This song refers”
+  quote_or_summary: "“This song refers to the mother finding the shell. It is to be
+    noted that the shell is here spoken of as a round stone.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 34970-35039; paragraph on Shell and Pebble societies
+  quote_or_summary: The passage says the song and the story it dramatizes raise the
+    question of a relation between the Shell and Pebble societies; if related, the
+    Pebble society bears marks of being older and its rituals deal with more fundamental
+    conceptions.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: quote
+  locator: lines 34970-35039; paragraph beginning “After the song”
+  quote_or_summary: "“After the song the ‘daughter’ led toward the south, and the
+    others followed her in single file.” She then “circled the fire alone” and returned
+    to the right of the “second son.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 34970-35039; paragraph beginning “The ‘youngest son’”
+  quote_or_summary: "“The ‘youngest son’ then turned and faced the west, and sang
+    the following song.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual actions and named figures are clear. Motif labels are conservative
+    and mostly non-taxonomic because the passage does not explain the symbolism. The
+    comparison between Shell and Pebble societies is explicitly tentative in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs were added beyond the provided fire symbol reference.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34970-l35039
+  passage_sha256=86bf7ae45e2603fa325f0340025a7754f61037f7d4b96b6fa34d3eb52ae5a885
+

@@ -1,0 +1,193 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l6963-l7017
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: EARTH     LODGE-FRAMEWORK    AND    STRUCTURE / THE    OMAHA    TETBE / HISTORIC    VILLAGES    AND    PLACES
+    / TRIBES  KNOWN  TO  THE  OMAHA; lines 6963-7017
+  start: '6963'
+  end: '7017'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is an English glossary of animal names and Omaha terms. It
+    includes a note that Ishtin/thinke, glossed as monkey, was a mythical, mischievous,
+    capricious being representing the wind, and that its name was later transferred
+    to the monkey when the Omaha first saw that animal. The list also records snake,
+    turtle, and other animal terms with occasional descriptive translations.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage lists animal names with corresponding Omaha terms, including mammals,
+    reptiles, amphibians, and other creatures.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ishtin/thinke is described as a mythical, mischievous, capricious being representing
+    the wind.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the name Ishtin/thinke was transferred to the monkey when
+    the Omaha first saw that animal.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: 'The passage lists a generic snake term and several named snake types: black
+    snake, bull snake, garter snake, moccasin snake, and rattlesnake.'
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists tortoise and turtle terms, including turtle, diamond-back
+    turtle or terrapin, snapping turtle, and soft-shell turtle.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Several entries include parenthetical descriptive glosses, such as mole as
+    hands turned backward, mule as big ears, rat as big mouse, and toad as his grandmother
+    is dead.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ishtin/thinke
+  description: A mythical, mischievous, capricious being representing the wind; its
+    name was transferred to the monkey when the Omaha first saw that animal.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: mythical wind being
+  assigned_to:
+  - fig:1
+  basis: The passage directly describes Ishtin/thinke as a mythical being representing
+    the wind.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: mischievous and capricious being in myths
+  assigned_to:
+  - fig:1
+  basis: The passage calls the being mischievous and capricious and refers to its
+    acts in myths.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source of transferred animal name
+  assigned_to:
+  - fig:1
+  basis: The passage states that the being's name was transferred to the monkey when
+    the Omaha first saw that animal.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: wind
+  literal_form: Wind represented by the mythical being Ishtin/thinke.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: serpent or snake
+  literal_form: 'Generic snake and named snake types: black, bull, garter, moccasin,
+    and rattle.'
+  associated_figures: []
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: turtle
+  literal_form: Tortoise and turtle types, including diamond-back, snapping, and soft-shell
+    turtles.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: mischievous mythic wind-being mapped onto an animal name
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Ishtin/thinke is described as a mythical, mischievous, capricious being representing
+    the wind, whose mythic acts led to the name being applied to monkeys when the
+    Omaha encountered them.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage gives no narrative episode and does not explicitly call the
+    being a trickster; the taxonomy link is suggested only by the mischievous and
+    capricious description.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 6963-7017
+  quote_or_summary: The passage is a glossary-style list of animal names with Omaha
+    terms, running from mink and mole through wolf.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain according to source metadata.
+- id: ev:2
+  type: quote
+  locator: 6967-6969
+  quote_or_summary: 'Monkey, Ishtin/thinke: described as “a mythical, mischievous,
+    capricious being, representing the wind”; its name was transferred to the monkey
+    when the Omaha first saw that animal.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain according to source metadata.
+- id: ev:3
+  type: summary
+  locator: 6994-7000
+  quote_or_summary: The passage gives the Omaha term for snake and lists black snake,
+    bull snake, garter snake, moccasin snake, and rattlesnake entries.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain according to source metadata.
+- id: ev:4
+  type: summary
+  locator: 7006-7014
+  quote_or_summary: The passage lists toad, tortoise, turtle, diamond-back turtle
+    or terrapin, snapping turtle, and soft-shell turtle entries with Omaha terms and
+    glosses.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain according to source metadata.
+- id: ev:5
+  type: summary
+  locator: 6965, 6971, 6986, 7006
+  quote_or_summary: Examples of parenthetical glosses include mole as hands turned
+    backward, mule as big ears, rat as big mouse, and toad as his grandmother is dead.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain according to source metadata.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: The literal glossary entries are clear. Motif extraction is limited because
+    the passage contains almost no narrative, except for the brief note on Ishtin/thinke.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Source metadata identifies the text as public domain and full-text use as allowed. Extraction is based only on the supplied passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l6963-l7017
+  passage_sha256=c0cd017e5d912418c0c143bb4515702358a427d3a2daaa2f4def026a634afa7a
+

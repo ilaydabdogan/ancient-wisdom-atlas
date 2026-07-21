@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l3047-l3099
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: USIKULUMI. / UZEMBENI. / UZEMBENI;46 / IZIXGAXEKWAXE.; lines 3047-3099
+  start: '3047'
+  end: '3099'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“for our mother eats men.”"
+  summary: A fragment says daughters escaped because of the bitterness of flesh. Usikulumi,
+    a king’s son, comes by day to court Uzembeni’s two daughters while Uzembeni is
+    away hunting. Uzembeni, also called Long-toe, is identifiable by her very long
+    toe, which raises dust before she appears. The daughters and Usikulumi love one
+    another, but the daughters weep and warn him that their mother eats men and that
+    they do not know where to hide him; one daughter points to an injury on her cheek
+    as her mother’s doing.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A preceding fragment states that daughters escaped from their mother because
+    flesh was bitter.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Usikulumi is introduced as a young man and king’s son who came to select a
+    pretty girl among Uzembeni’s daughters.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Usikulumi arrives by day when Uzembeni is away hunting.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Uzembeni is also called Long-toe because her toe is very long and raises dust
+    before she appears.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Usikulumi finds two damsels, sees that they are beautiful, and mutual love
+    is described between him and them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The daughters weep and warn Usikulumi that he has come to a dangerous place
+    because their mother eats men.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:7
+  text: One daughter points to her cheek and says the injury is her mother’s doing.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Usikulumi
+  description: A young man, the child of a king, who comes to select a pretty girl
+    from Uzembeni’s daughters.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Uzembeni / Long-toe
+  description: Mother of the two damsels; she hunts, eats men, and is recognized by
+    a very long toe that raises dust before she appears.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Uzembeni’s two daughters
+  description: Two beautiful damsels found by Usikulumi; they love him, weep for him,
+    and warn him about their mother.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: royal suitor
+  assigned_to:
+  - fig:1
+  basis: Usikulumi is called a king’s son and comes to select a pretty girl among
+    the daughters.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: dangerous mother who eats men
+  assigned_to:
+  - fig:2
+  basis: The daughters identify their mother as a man-eater and are troubled about
+    where to put or hide Usikulumi.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: endangered daughters and warners
+  assigned_to:
+  - fig:3
+  basis: The daughters weep, warn Usikulumi of danger, and one shows injury attributed
+    to her mother.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: long toe as identifying mark
+  literal_form: Uzembeni’s very long toe, which raises dust and comes first to the
+    place she is going.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: injured cheek as mark of maternal violence
+  literal_form: A daughter’s cheek injury, pointed out as her mother’s doing.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: bitter flesh enabling escape
+  literal_form: Flesh described as bitter, through which daughters escaped.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: escape through bitterness
+  summary: In a fragmentary preceding episode, daughters escape from their mother
+    because flesh is bitter.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: royal youth arrives while Uzembeni hunts
+  summary: Usikulumi, a king’s son, comes by day to court or select one of Uzembeni’s
+    daughters while Uzembeni is absent hunting; Uzembeni is described as Long-toe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: daughters warn the suitor
+  summary: Usikulumi and the two daughters are mutually attracted, but the daughters
+    weep and warn him that their mother eats men and that they do not know where to
+    place him; one shows a cheek injury attributed to her mother.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: sibling pair in danger from a parent
+  taxonomy_refs:
+  - sibling_pair
+  basis: The two daughters act together as a pair and describe their shared trouble
+    under a mother who eats men.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage presents two sisters, but does not develop a full sibling-pair
+    episode within this line range.
+- id: motif:2
+  label: royal suitor enters a dangerous household
+  taxonomy_refs: []
+  basis: A king’s son comes to court the daughters while their dangerous mother is
+    away, and the daughters warn that he has come to a place of danger.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: No broader outcome of the courtship is included in the supplied passage.
+- id: motif:3
+  label: man-eating mother as household threat
+  taxonomy_refs: []
+  basis: The daughters explicitly say their mother eats men and that they do not know
+    where they can put Usikulumi.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage reports the threat through the daughters’ speech; this excerpt
+    does not show Uzembeni eating anyone.
+- id: motif:4
+  label: bodily mark identifies a dangerous figure
+  taxonomy_refs: []
+  basis: Uzembeni is recognized by her long toe, which raises dust before she appears.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The mark is explicitly identifying, but its narrative function beyond
+    recognition is not fully shown in this excerpt.
+- id: motif:5
+  label: escape enabled by bitter flesh
+  taxonomy_refs: []
+  basis: The fragment says daughters escaped through the bitterness of flesh.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The beginning of the episode is fragmentary in the supplied passage, so
+    the exact mechanism and participants are uncertain.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3047-3052
+  quote_or_summary: A fragment states that someone did not understand why flesh was
+    bitter and that her daughters escaped from her through that bitterness.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3054-3062
+  quote_or_summary: Usikulumi, a young man and king’s son, comes to select a pretty
+    girl from Uzembeni’s daughters, arriving by day while Uzembeni is away hunting.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3062-3074
+  quote_or_summary: Uzembeni is also named Long-toe because her very long toe raises
+    dust and allows her to be recognized before she appears.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3074-3082
+  quote_or_summary: Usikulumi finds the two damsels beautiful; he loves them and they
+    love him, and he is described as a good-looking king’s son.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 3082-3093
+  quote_or_summary: The daughters weep for Usikulumi and say, “We are troubled; we
+    do not know where we can put you; for our mother eats men.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: lines 3093-3099 and note 48
+  quote_or_summary: One daughter tells Usikulumi to look at her cheek; the note explains
+    that she is saying the injury is her mother’s doing.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: note 47
+  quote_or_summary: The note explains the idiom translated as “You have come nowhere”
+    as meaning that a person has come to a place where no good and possible danger
+    will be found.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main scene and figures are clear, but one opening fragment is incomplete
+    and some motif labels require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support a comparison beyond its own narrative pattern.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l3047-l3099
+  passage_sha256=97871e08647e7b1d43028140b40fd2ec747ff11e25502acf954c84bbf529fea7
+

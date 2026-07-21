@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19426-l19480
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: ABATWA UKWESABEKA KWABO. / THE HYRAX. / FABLES. / IZINGANEKWANF.; lines 19426-19480
+  start: '19426'
+  end: '19480'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains a Zulu tale and proverb about the hyrax having no
+    tail because he sent someone else to fetch it. The saying is used to rebuke people
+    who avoid effort, especially in bad weather, and ask others to bring things for
+    them. The narrator adds that the hyrax is said to fear cloudy weather and not
+    go out unless there is sunshine. A note compares this tale generally with other
+    animal fables explaining taillessness.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the hyrax went without a tail because he sent for it rather
+    than going himself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that other animals have tails while the hyrax has none.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says the hyrax did not literally speak the words attributed to
+    him; the saying arose as an explanation of his taillessness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says the hyrax is afraid of a cloudy sky and does not go out unless
+    there are gleams of sunshine.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The saying is applied to people who do not trouble themselves to obtain what
+    others like and who ask others to act for them.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The saying is used to refuse someone who asks another person to fetch something
+    for him.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A footnote says other people have fables accounting for the tailless condition
+    of certain animals.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: hyrax
+  description: Animal said to have gone without a tail because he sent for it; described
+    as afraid of cloudy weather.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: other animals
+  description: Animals contrasted with the hyrax because they have tails.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: person who asks another to fetch
+  description: A person who says 'bring for me' and is answered with the hyrax proverb.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: person who refuses the request
+  description: A person who answers the request by invoking the hyrax and refusing
+    to fetch the item.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: tailless animal explained by tale
+  assigned_to:
+  - fig:1
+  basis: The passage explains that the hyrax has no tail and frames this as though
+    he went without one because he sent for it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: proverbial warning example
+  assigned_to:
+  - fig:1
+  basis: The hyrax is used as an example in a saying directed at people who ask others
+    to act for them.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: tail-bearing contrast group
+  assigned_to:
+  - fig:2
+  basis: The narrator contrasts other animals having tails with the hyrax having none.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: requester avoiding personal effort
+  assigned_to:
+  - fig:3
+  basis: The saying is applied to those who ask others to bring or fetch for them
+    instead of going themselves.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: speaker of corrective proverb
+  assigned_to:
+  - fig:4
+  basis: The respondent refuses the request by saying that the hyrax went without
+    a tail because he sent for it.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: missing tail
+  literal_form: the hyrax's lack of a tail
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: cloudy sky
+  literal_form: cloudy sky or foul weather
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: sunshine
+  literal_form: gleams of sunshine
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: request to bring something
+  literal_form: the phrase 'bring for me' or 'do you bring it for me'
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Explanation of the hyrax's missing tail
+  summary: The passage gives an etiological explanation that the hyrax lacks a tail
+    because he sent for it instead of going himself, while other animals have tails.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hyrax avoids cloudy weather
+  summary: The hyrax is described as fearing cloudy skies and staying in unless there
+    are gleams of sunshine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Use of the hyrax saying in human speech
+  summary: A person who asks another to fetch something is refused with the saying
+    that the hyrax went without a tail because he sent for it.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: etiology of a tailless animal
+  taxonomy_refs: []
+  basis: The tale explains why the hyrax has no tail by narrating that he sent for
+    it rather than obtaining it himself.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the story as a saying and explanatory fable rather
+    than a full narrative episode.
+- id: motif:2
+  label: animal proverb used to correct human laziness
+  taxonomy_refs:
+  - wisdom
+  basis: The hyrax saying is used as practical instruction against asking others to
+    do one's work or fetch things for one.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The available taxonomy term 'wisdom' is broad; the passage is specifically
+    a proverb or fable about effort and self-reliance.
+- id: motif:3
+  label: weather avoidance as animal trait
+  taxonomy_refs: []
+  basis: The hyrax is described as afraid of cloudy weather and unwilling to go out
+    unless sunlight appears.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a stated trait supporting the proverb, not a developed independent
+    mythic episode in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself notes a broader pattern in which fables account for the
+    tailless condition of certain animals.
+  claim_level: same_motif
+  target: other fables explaining why certain animals are tailless
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note does not provide full details of the other fables within the
+    supplied passage, and the following Norse comparison is truncated.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19426-19480
+  quote_or_summary: The proverb says the hyrax went without a tail because he sent
+    for it, and people are told not to act like the hyrax but to go for themselves.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 19426-19480
+  quote_or_summary: The narrator says the hyrax did not actually speak the request;
+    the saying arose because other animals have tails but the hyrax has none.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 19426-19480
+  quote_or_summary: The passage says the hyrax is afraid of a cloudy sky and does
+    not go out unless there are gleams of sunshine.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 19426-19480
+  quote_or_summary: The words of the hyrax are applied to people who do not trouble
+    themselves about what others like and who tell others to act for them.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 19426-19480
+  quote_or_summary: When someone says 'bring for me,' another may refuse by answering
+    that the hyrax went without a tail because he sent for it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: footnote 14 within 19426-19480
+  quote_or_summary: A footnote states that other people have other fables accounting
+    for the tailless condition of certain animals, and calls this a Zulu myth of the
+    hyrax.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage clearly supports the hyrax proverb, tailless-animal etiology,
+    and weather-avoidance observations. Motif taxonomy alignment is limited because
+    the provided taxonomy does not include a specific etiological animal-fable category.
+    The comparison claim is restricted to the explicit footnote and avoids relying
+    on the truncated Norse reference.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures or taxonomy identifiers were added beyond the supplied passage and available taxonomy list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19426-l19480
+  passage_sha256=e9f0f2c9adf67d090aea6242c9376a1603e761daf8f6ade067af8b33d153ffc8
+

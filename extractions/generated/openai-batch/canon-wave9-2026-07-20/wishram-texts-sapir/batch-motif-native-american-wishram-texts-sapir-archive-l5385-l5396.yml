@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.native-american-wishram-texts-sapir-archive-l5385-l5396
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+passage_locator:
+  label: I. - - MYTHS. / II. CUSTOMS. / III. LETTERS.1 / IV. NON-MYTHICAL NARRATIVES.;
+    lines 5385-5396
+  start: '5385'
+  end: '5396'
+  translation: Wishram Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Strange people will bring us such things. White people with mustaches on
+    their faces will come from the east. Do you people be careful!"'
+  summary: A group dances for days and nights without hunger. During or after the
+    dancing, they see items such as an ax, hatchet, knife, and stove, and a speaker
+    foretells the coming of white people with mustaches from the east who will bring
+    such things. The narration says this later proved true and identifies the vision
+    as the old man's dream. It notes that before then there were no cattle or horses,
+    only dogs locally, with buffaloes farther upstream, and says this happened long
+    ago among river-dwelling people.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The people danced for days and nights and were said not to be hungry.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage lists an ax, hatchet, knife, and stove among the things seen.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A speech foretells that strange people, identified as white people with mustaches,
+    will come from the east and bring such things.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker warns the people to be careful.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the speech, the people again jump up and down and exert themselves strongly.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The narrator says the foretold things are so in the present and that the old
+    man dreamt in that way.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage states that before that time there were no cattle and that white
+    people later brought them.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage says buffaloes existed farther upstream.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The passage states there were no horses then, only dogs.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The event is placed long ago among people dwelling along the river.
+  category: setting
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: dancing people
+  description: The group who danced for days and nights, jumped up and down, and were
+    addressed by the warning.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: old man
+  description: The person whom the narrator identifies as having dreamt the events
+    or vision.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: strange people / white people with mustaches
+  description: People foretold as coming from the east and bringing the listed things;
+    later said to have brought cattle.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:4
+  name_or_label: people dwelling along the river
+  description: The community among whom the long-ago event is said to have happened.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: ritual dancers and warned audience
+  assigned_to:
+  - fig:1
+  basis: They dance for days and nights, are addressed with the warning to be careful,
+    and resume jumping up and down.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: dreamer of future events
+  assigned_to:
+  - fig:2
+  basis: The narrator says the old man dreamt just that way and that the things later
+    became true.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: future bringers of new goods and livestock
+  assigned_to:
+  - fig:3
+  basis: They are foretold as coming from the east with objects and later described
+    as bringing cattle.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: river-dwelling community
+  assigned_to:
+  - fig:4
+  basis: The closing sentence locates the long-ago occurrence among people dwelling
+    along the river.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: manufactured goods seen in vision
+  literal_form: ax, hatchet, knife, stove
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: eastward arrival
+  literal_form: white people with mustaches coming from the east
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: new livestock
+  literal_form: cattle brought by white people; horses absent at the earlier time
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:4
+  label: local animals before the arrival
+  literal_form: dogs locally; buffaloes farther upstream
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: prolonged dance
+  literal_form: dancing for days and nights; jumping up and down
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:6
+  label: river setting
+  literal_form: people dwelling along the river
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Prolonged dancing without hunger
+  summary: The people dance for days and nights, are not hungry, and exert themselves
+    in dancing.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Vision and warning of eastern newcomers
+  summary: The people see manufactured items, and a speech says strange white people
+    with mustaches will come from the east bringing such things and warns the people
+    to be careful.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dream confirmed by later conditions
+  summary: The narrative says the foretold state of affairs exists in the present
+    and describes the old man's dream as accurate.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Earlier animal conditions along the river
+  summary: The passage contrasts the earlier absence of cattle and horses with the
+    presence of dogs locally and buffaloes farther upstream, and locates the event
+    long ago among river people.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: prophetic dream of future newcomers
+  taxonomy_refs: []
+  basis: The passage explicitly says the old man dreamt events that the narrator says
+    later became true, including the arrival of white people from the east bringing
+    goods and cattle.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not provide a named taxonomy category for this motif.
+- id: motif:2
+  label: ritual dance associated with visionary knowledge
+  taxonomy_refs: []
+  basis: The vision or prophecy occurs in a context where people dance for days and
+    nights, do not feel hunger, and resume intense jumping after the warning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The exact ritual status and causal relation between dancing and dreaming
+    are not explained in the excerpt.
+- id: motif:3
+  label: arrival of new material culture and animals
+  taxonomy_refs: []
+  basis: The passage frames axes, hatchets, knives, a stove, cattle, and horses as
+    absent or newly introduced through later white newcomers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level contact/change motif rather than one of the supplied
+    high-level myth taxonomy families.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5385-5386
+  quote_or_summary: '"For days and nights they danced. They were not at all hungry"
+    and they did their best in dancing.'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 5386-5387
+  quote_or_summary: '"Everything they saw — ax, hatchet, knife, stove."'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 5387-5390
+  quote_or_summary: '"Strange people will bring us such things. White people with
+    mustaches on their faces will come from the east. Do you people be careful!"'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 5390-5391
+  quote_or_summary: After the warning, they again jump up and down and do their best
+    strongly.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 5391-5392
+  quote_or_summary: The narrator says things are now as foretold and that the old
+    man dreamt in that way.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 5392-5394
+  quote_or_summary: Up to that time there were no cattle; later white people brought
+    them, and buffaloes were only farther upstream.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 5394-5395
+  quote_or_summary: There were no horses either, only dogs.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 5395-5396
+  quote_or_summary: The event is said to have happened long ago to the people dwelling
+    along the river.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are candidate descriptions
+    because the excerpt does not name a traditional motif category or provide broader
+    narrative context. No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference to water is limited to the literal river setting.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-wishram-texts-sapir-archive__l5385-l5396
+  passage_sha256=3ba0a117bf3181cb6854733bb7e1ef24df333b5843a17991aba904d51682d6d3
+

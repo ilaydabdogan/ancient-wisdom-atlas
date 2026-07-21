@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l3091-l3124
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: XXU PAHLAVI TEXTS. / THE ORIGINAL CREATION. / OBSERVATIONS. / Chapter I.;
+    lines 3091-3124
+  start: '3091'
+  end: '3124'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Auharmazd is supreme in omniscience and goodness,
+  summary: The passage opens Chapter I in the name of Auharmazd, describes the Zand-akas
+    as concerning Auharmazd's original creation, the antagonism of the evil spirit,
+    and the nature of creatures from creation until the future existence, and states
+    that Mazdayasnian religion declares Auharmazd supreme in omniscience and goodness.
+    Footnotes identify the evil spirit with Avesta Angra-mainyu and discuss related
+    Pahlavi forms.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The chapter begins with an invocation in the name of the creator Auharmazd.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Zand-akas is described as first concerning Auharmazd's original creation
+    and the antagonism of the evil spirit.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The work is also described as concerning the nature of creatures from the
+    original creation until the end, identified as the future existence.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Mazdayasnian religion is cited as declaring Auharmazd supreme in omniscience
+    and goodness.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A footnote identifies the evil spirit with Avesta Angra-mainyu and describes
+    that spirit as causing adversity or anxiety.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Auharmazd
+  description: Named as creator; associated with original creation; declared supreme
+    in omniscience and goodness.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: evil spirit / Angra-mainyu
+  description: Named as the evil spirit in antagonism to Auharmazd; the footnote identifies
+    this figure with Avesta Angra-mainyu, the spirit causing adversity or anxiety.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:5
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: Auharmazd is called the creator, and the passage refers to Auharmazd's original
+    creation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: supreme omniscient and good deity
+  assigned_to:
+  - fig:1
+  basis: The passage states that Auharmazd is supreme in omniscience and goodness.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: evil antagonist spirit
+  assigned_to:
+  - fig:2
+  basis: The passage names the antagonism of the evil spirit, and the footnote identifies
+    the spirit as Angra-mainyu, who causes adversity or anxiety.
+  evidence_refs:
+  - ev:2
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Chapter opening and scope of doctrine
+  summary: The chapter opens in the name of Auharmazd and frames the work as treating
+    original creation, the opposition of the evil spirit, the nature of creatures,
+    and the future existence.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Footnote identification of the evil spirit
+  summary: The footnote connects the evil spirit to Avesta Angra-mainyu and explains
+    Pahlavi naming and transliteration issues.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Original creation by a supreme creator
+  taxonomy_refs: []
+  basis: The passage explicitly names Auharmazd as creator and refers to Auharmazd's
+    original creation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is programmatic rather than a detailed creation narrative.
+- id: motif:2
+  label: Antagonism between creator and evil spirit
+  taxonomy_refs:
+  - duality
+  basis: The passage frames original creation together with the antagonism of the
+    evil spirit, while also describing Auharmazd as supremely good.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The short passage states the antagonism but does not narrate a conflict
+    episode.
+- id: motif:3
+  label: Cosmic history from creation to future existence
+  taxonomy_refs: []
+  basis: The passage says the work treats the nature of creatures from original creation
+    until the end, identified as future existence.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage names this temporal scope but does not describe the end or
+    future existence in detail.
+- id: motif:4
+  label: Divine omniscience and goodness
+  taxonomy_refs:
+  - wisdom
+  basis: Auharmazd is declared supreme in omniscience and goodness.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy link to wisdom is broad; the passage states omniscience but
+    does not present a wisdom quest or instruction scene.
+comparison_claims:
+- id: claim:1
+  claim: The translator's footnote identifies the evil spirit of the passage with
+    Avesta Angra-mainyu and discusses the Pahlavi form as a likely transliteration
+    of the Avesta name.
+  claim_level: linguistic_similarity
+  target: Avesta Angra-mainyu / Pahlavi Ganrak-mainok
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is supplied by the translator's philological note;
+    the chapter excerpt itself does not narrate an Avestan parallel.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 3091-3093
+  quote_or_summary: '"In the name of the creator Auharmazd."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: 3094-3099
+  quote_or_summary: '"Auharmazd''s original creation and the antagonism of the evil
+    spirit"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: summary
+  locator: 3099-3104
+  quote_or_summary: The passage says the work later concerns the nature of creatures
+    from the original creation until the end, called the future existence.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 3104-3106
+  quote_or_summary: '"Auharmazd is supreme in omniscience and goodness"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: 3108-3124
+  quote_or_summary: The footnote identifies the evil spirit as Avesta Angra-mainyu,
+    describes him as causing adversity or anxiety, and discusses Pahlavi forms including
+    Ganrak-mainok.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Main figures and doctrinal claims are explicit. Motif candidates are limited
+    because the excerpt is an opening programmatic statement with translator's notes
+    rather than a full narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol such as fire, water, tree, mountain, cave, serpent, or milk appears in this passage, so symbols are left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l3091-l3124
+  passage_sha256=953726415f78bcfd0394383cf4eee5ee0c34d6f33ea3ecf1ff29357194ef85a2
+

@@ -1,0 +1,172 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l338-l356
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: PREFACE. / YURIAKU TENNO / CONTENTS. / INTRODUCTION.; lines 338-356
+  start: '338'
+  end: '356'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives bibliographic and editorial information about the Nihongi:
+    it lacks a title-page or preface; later sources report that it was completed and
+    presented to Empress Gemmio in A.D. 720 by Prince Toneri and Yasumaro Futo no
+    Ason; it once included a now-lost genealogy book; and its wording and structure
+    suggest compilation from selected materials arranged chronologically.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the Nihongi has no title-page or preface, and that
+    information on its date and authorship comes from other sources.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A commentary called the Kénin Shiki is reported to say that the work was completed
+    and laid before Empress Gemmio in A.D. 720 by Prince Toneri and Yasumaro Futo
+    no Ason.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says that, besides the thirty books that survive, there was originally
+    a now-lost book of genealogies of the Emperors.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that the Shiki uses the term “selected afresh” for the work’s
+    preparation, and the author presents this as pointing to compilation rather than
+    original composition.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage describes the work as consisting of detached passages linked by
+    chronological sequence, with some effort to make a consistent whole, but with
+    a patchwork appearance.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Empress Gemmio
+  description: The Empress before whom the completed work was reportedly laid in A.D.
+    720.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Prince Toneri
+  description: One of the named persons said to have completed and laid the work before
+    Empress Gemmio.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Yasumaro Futo no Ason
+  description: One of the named persons said to have completed and laid the work before
+    Empress Gemmio.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: imperial recipient
+  assigned_to:
+  - fig:1
+  basis: The completed work was reportedly laid before Empress Gemmio.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: named completer or presenter of the work
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage reports that Prince Toneri and Yasumaro Futo no Ason completed
+    and laid the work before the Empress.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Bibliographic notice on the Nihongi’s completion and compilation
+  summary: The passage discusses the Nihongi’s lack of title-page or preface, reports
+    later testimony about its completion and presentation in A.D. 720, notes a lost
+    genealogy book, and characterizes the extant work as a chronologically arranged
+    compilation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 338-341
+  quote_or_summary: The Nihongi is said to have no title-page or preface; information
+    about its date and authorship is derived from other sources.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 342-347
+  quote_or_summary: The Kénin Shiki commentary reports that the work was completed
+    and presented to Empress Gemmio in A.D. 720 by Prince Toneri and Yasumaro Futo
+    no Ason.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 347-350
+  quote_or_summary: The passage says that the surviving thirty books were originally
+    accompanied by a now-lost book of genealogies of the Emperors.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 350-353
+  quote_or_summary: The Shiki’s term for the preparation is quoted as “selected afresh,”
+    which the passage says points to compilation rather than original composition.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: lines 353-356
+  quote_or_summary: The passage describes the work as detached passages linked chronologically,
+    with some effort toward consistency but an overall patchwork appearance.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: This is a bibliographic/editorial passage rather than a mythic narrative;
+    no symbols, motif candidates, or comparison claims are extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparative mythology motif is asserted from this passage; the content concerns textual date, authorship, and compilation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l338-l356
+  passage_sha256=44c2d8c60391fef077a8886bd3c2b83a99412fb326c751b1c62bfece6167b507
+

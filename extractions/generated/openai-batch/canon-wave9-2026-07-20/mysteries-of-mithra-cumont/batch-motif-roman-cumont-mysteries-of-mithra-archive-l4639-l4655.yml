@@ -1,0 +1,243 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l4639-l4655
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    MYSTERIES    OF    MITHRA / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          IOQ
+    / THE    MYSTERIES    OF    MITHRA / MITHRAIC    LEONTOCEPHALOUS    KRONOS.; lines
+    4639-4655
+  start: '4639'
+  end: '4655'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A caption describes a white marble bas-relief titled Mithraic leontocephalous
+    Kronos. The figure is partly clothed, extends its arms, holds a torch in each
+    hand, has four wings with a serpent around each, and stands before a circular
+    burning altar. A band representing breath extends from the god's mouth to the
+    altar fire. A following sentence fragment says an unspecified subject was sometimes
+    confounded with eternal Destiny.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the object as a white marble bas-relief titled Mithraic
+    leontocephalous Kronos.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bas-relief was found in the same mithraeum as the statue of Figure 22.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The figure is naked to the waist, has limbs clothed in wide trousers, and
+    has extended arms.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The figure holds a torch in each hand.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Four wings issue from the figure's back, with two pointing upward and two
+    downward.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A serpent is around each wing.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A circular burning altar stands before the god.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A band representing the god's breath extends from his mouth to the altar fire.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A sentence fragment states that an unspecified subject appears at times to
+    have been confounded with eternal Destiny.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mithraic leontocephalous Kronos
+  description: God shown on a white marble bas-relief, naked to the waist, wearing
+    wide trousers on the limbs, arms extended, holding a torch in each hand, with
+    four wings from the back and serpents around the wings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: god
+  assigned_to:
+  - fig:1
+  basis: The caption names the figure as Mithraic leontocephalous Kronos and later
+    refers to him as the god before the altar.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: torch-bearing figure
+  assigned_to:
+  - fig:1
+  basis: The figure is described as holding a torch in each hand.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: altar fire
+  literal_form: circular burning altar and the fire of the altar
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: serpents around wings
+  literal_form: a serpent around each wing
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: torch pair
+  literal_form: a torch in each hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: four wings
+  literal_form: four wings issuing from the back, two pointing upward and two downward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: breath band
+  literal_form: a band representing breath extending from the mouth to the altar fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of the leontocephalous Kronos bas-relief
+  summary: The caption describes the god on a white marble bas-relief with extended
+    arms, torches, four wings encircled by serpents, and a burning altar before him;
+    a band representing breath runs from his mouth to the altar fire.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Winged divine figure with serpents
+  taxonomy_refs:
+  - serpent
+  basis: The divine figure has four wings, and each wing has a serpent around it.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The taxonomy reference is limited to the literal serpent imagery; no narrative
+    function is stated in the passage.
+- id: motif:2
+  label: Divine breath directed to altar fire
+  taxonomy_refs: []
+  basis: A band representing the god's breath extends from his mouth to the fire of
+    a circular burning altar.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage is an image caption and does not explain the ritual or theological
+    function of the breath-fire connection.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4639-4644
+  quote_or_summary: Caption identifies the image as Mithraic leontocephalous Kronos,
+    a white marble bas-relief found in the same mithraeum as the statue of Figure
+    22.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4644-4648
+  quote_or_summary: The figure is described as naked to the waist, with limbs clothed
+    in wide trousers, arms extended, and a torch in each hand.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4648-4651
+  quote_or_summary: Four wings issue from the back, two upward and two downward, and
+    a serpent is around each wing.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4651-4654
+  quote_or_summary: Before the god is a circular burning altar, and a band representing
+    his breath extends from his mouth to the altar fire.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4654-4655
+  quote_or_summary: An incomplete sentence says that an unspecified subject appears
+    at times to have been confounded with eternal Destiny.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a descriptive image caption. Motif candidates are
+    limited because the passage gives visual details but little narrative or ritual
+    explanation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy references applied only where the passage literally supports fire or serpent imagery.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l4639-l4655
+  passage_sha256=bed6a16f34b83c84e4f31b24fd96a147cbe50890ff68f1df38044bc33989cf42
+

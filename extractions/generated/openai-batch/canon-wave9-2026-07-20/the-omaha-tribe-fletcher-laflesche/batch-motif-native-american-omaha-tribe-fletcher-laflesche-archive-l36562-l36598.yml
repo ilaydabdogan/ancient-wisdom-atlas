@@ -1,0 +1,227 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36562-l36598
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA    TRIBE / M.  M.    '-100 / SOCIETIES / SOCIETIES; lines 36562-36598
+  start: '36562'
+  end: '36598'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The magic power is here spoken of as an arrow.
+  summary: A society song is presented with Omaha terms and literal translation. It
+    addresses a wife, asks what she fears, mentions crying, and uses phrases translated
+    as “my arrow” and “my medicine.” The note says the song has a double meaning,
+    is phallic in character, and that this phase of the society was disapproved by
+    some older men as encouraging licentiousness among young people.
+  language: English with Omaha terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song is marked to be sung twice or more.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The term “Kutha” is glossed as an affectionate term applied only to a wife.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The translated song text includes an address to the wife, a question about
+    what she is afraid of, and a statement that she cries.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One line is glossed with “mon” as arrow and “wita” as my.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The second stanza changes the line to ask what else the wife is afraid of
+    and includes a phrase glossed as “my medicine.”
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note states that the magic power is spoken of as an arrow.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The song is said to have a double meaning and to be phallic in character.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A class of older men in the tribe disapproved this phase of the society because
+    it was viewed as tending to licentiousness among young people.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: wife addressed in the song
+  description: A wife addressed by the affectionate Omaha term “Kutha.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: older men of the tribe
+  description: A class of older men who disapproved this phase of the society.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: young people
+  description: Young people among whom the disapproved phase was thought to tend toward
+    licentiousness.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: addressed spouse
+  assigned_to:
+  - fig:1
+  basis: The term “Kutha” is glossed as an affectionate term applied only to a wife,
+    and the song asks the wife what she fears.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: disapproving elders
+  assigned_to:
+  - fig:2
+  basis: The passage says a class of older men disapproved this phase of the society.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: youth affected by perceived licentiousness
+  assigned_to:
+  - fig:3
+  basis: The older men’s disapproval is explained as concern over licentiousness among
+    young people.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: arrow as magic power
+  literal_form: arrow
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: medicine or physic possessed by the speaker
+  literal_form: medicine, glossed as physic rather than magic
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: address to wife in society song
+  summary: The song addresses a wife and asks what she is afraid of while referring
+    to crying and to the speaker’s arrow or medicine.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: interpretive and social note on the song
+  summary: The note identifies the song as having a double, phallic meaning and records
+    disapproval by older men because of perceived effects on young people.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: coded phallic meaning in ritual society song
+  taxonomy_refs: []
+  basis: The passage explicitly says the song has a double meaning and is phallic
+    in character, with the magic power represented as an arrow.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not connect this pattern to a broader named motif family
+    or to another tradition; taxonomy references are therefore left empty.
+- id: motif:2
+  label: elders objecting to ritualized sexual license
+  taxonomy_refs: []
+  basis: The passage says older men disapproved this phase of the society as tending
+    to licentiousness among young people.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The account is brief and framed as an ethnographic note rather than a
+    narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 36562-36572
+  quote_or_summary: The song is introduced under “SOCIETIES” and marked “Sung twice
+    or more,” followed by Omaha song lines.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 36573-36580
+  quote_or_summary: "“Kutha, a term of affection applied only to a wife”; the glosses
+    include “afraid of,” “you cry,” “mon arrow,” and “wita, my.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: 36580-36590
+  quote_or_summary: The second stanza asks, “Wife, what else are you afraid of?” and
+    glosses “monkon” as “medicine (not magic, but physic)”; “The magic power is here
+    spoken of as an arrow.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: 36591-36596
+  quote_or_summary: "“This song is said to have a double meaning and to be phallic
+    in character”; older men disapproved it as tending to licentiousness among young
+    people."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive rather
+    than taxonomy-linked because the passage does not establish a broader comparative
+    motif family. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36562-l36598
+  passage_sha256=d92121556834904b100bb608a89b8726bb7a21e18b68407d91c1a612a8b6ba47
+

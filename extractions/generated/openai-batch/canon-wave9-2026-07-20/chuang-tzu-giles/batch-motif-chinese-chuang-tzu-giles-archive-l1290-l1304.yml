@@ -1,0 +1,270 @@
+---
+record_id: batch.motif.chinese-chuang-tzu-giles-archive-l1290-l1304
+source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+passage_locator:
+  label: HERBERT  A.  GILES. / A.  L.  M. / CHAPTER    I. / B.C.  1766.; lines 1290-1304
+  start: '1290'
+  end: '1304'
+  translation: 'Chuang Tzŭ: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: At the barren north there is a great sea, the Celestial Lake.
+  summary: A speaker addresses Chi and describes a great northern sea called the Celestial
+    Lake. Within it is an enormous fish called the Leviathan. A bird called the Rukh
+    is also described, with a back compared to Mount T'ai, wings compared to clouds,
+    and an ascent on a typhoon to a height of ninety thousand.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A speaker addresses Chi.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage locates a great sea called the Celestial Lake at the barren north.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A fish in the Celestial Lake is described as several thousand li in breadth
+    and of unknown length, and is called the Leviathan.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A bird called the Rukh is described with a back like Mount T'ai.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage notes Mount T'ai as China's most famous mountain, situated in
+    Shantung.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Rukh has wings compared to clouds across the sky.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The Rukh soars upward on a typhoon to a height of ninety thousand.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed speaker
+  description: The speaker who addresses Chi and describes the northern sea, the Leviathan,
+    and the Rukh.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Chi
+  description: The addressee of the speaker's account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Leviathan
+  description: A fish in the Celestial Lake, several thousand li in breadth and of
+    unknown length.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Rukh
+  description: A bird with a back like Mount T'ai and wings like clouds across the
+    sky; it soars upward on a typhoon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: narrating speaker
+  assigned_to:
+  - fig:1
+  basis: The passage says the speaker spoke to Chi and then gives the described account.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: addressee
+  assigned_to:
+  - fig:2
+  basis: Chi is the person to whom the speaker speaks.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: enormous fish of the Celestial Lake
+  assigned_to:
+  - fig:3
+  basis: The fish is located in the Celestial Lake and described with extraordinary
+    dimensions.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: enormous ascending bird
+  assigned_to:
+  - fig:4
+  basis: The bird is described with immense features and as soaring upward on a typhoon.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Celestial Lake
+  literal_form: great sea at the barren north
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Mount T'ai
+  literal_form: mountain used as comparison for the Rukh's back
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: typhoon
+  literal_form: storm wind upon which the Rukh soars upward
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cloud-like wings
+  literal_form: wings like clouds across the sky
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Description of the northern Celestial Lake
+  summary: The speaker tells Chi of a great sea in the barren north called the Celestial
+    Lake and an immense fish within it called the Leviathan.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description and ascent of the Rukh
+  summary: The speaker describes the Rukh as an immense bird with a mountain-like
+    back and cloud-like wings, then says it soars on a typhoon to a height of ninety
+    thousand.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: storm-assisted ascent of a giant bird
+  taxonomy_refs:
+  - ascent
+  basis: The Rukh is said to soar upward upon a typhoon to a very great height.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt ends after the phrase 'ninety thousand,' so the unit or continuation
+    is not available in the supplied passage.
+- id: motif:2
+  label: enormous creature in a remote cosmic water body
+  taxonomy_refs:
+  - water
+  basis: The Celestial Lake at the barren north contains a fish described as several
+    thousand li in breadth and of unknown length.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a descriptive pattern rather than a specific listed motif family;
+    no transformation or narrative outcome is included in the supplied lines.
+- id: motif:3
+  label: mountain-scale body of a bird
+  taxonomy_refs:
+  - mountain
+  basis: The Rukh's back is compared to Mount T'ai, and its wings are compared to
+    clouds across the sky.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage uses simile; it does not state that the bird is itself a mountain
+    or axis mundi.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1290-1291
+  quote_or_summary: '"spoke to Chi, as follows"'
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 1291-1296
+  quote_or_summary: '"At the barren north there is a great sea, the Celestial Lake.
+    In it there is a fish, several thousand li in breadth... It is called the Leviathan."'
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1296-1302
+  quote_or_summary: A bird called the Rukh is described as having a back like Mount
+    T'ai; the note identifies Mount T'ai as China's most famous mountain in Shantung.
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 1303-1304
+  quote_or_summary: '"wings like clouds across the sky. Upon a typhoon it soars up
+    to a height of ninety thousand"'
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the short line range and the passage ending mid-description
+    after 'ninety thousand.' No comparison claims are made because the supplied passage
+    alone does not establish contact, inheritance, or a named comparative tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to available terms directly supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-chuang-tzu-giles-archive__l1290-l1304
+  passage_sha256=996ce8b61be582bc12f524c0ea6fab402dcda5b9497c58644a5a9ab71b52a4bd
+

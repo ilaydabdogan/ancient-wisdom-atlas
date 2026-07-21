@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l8186-l8213
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: IIKABBO'S INTENDED RETUBN HOME. / KILLED. / KILLED. / THE THUNDEESTOKM.;
+    lines 8186-8213
+  start: '8186'
+  end: '8213'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In a passage titled “THE THUNDEESTOKM.”, the first-person speaker says
+    an unnamed group sent him to fetch water. While he was at the water after tying
+    up his leveret, they killed the leveret. He returned and cried, saying they had
+    deceived him and that he had intended the leveret to live in peace. They refused
+    to seek another leveret and then calmed him with the story of the lizard so that
+    he would listen quietly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed group tells the first-person speaker to fetch water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The speaker ties up the leveret before going to fetch water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The unnamed group kills the speaker’s leveret while the speaker is at the
+    water.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker returns and cries about the killed leveret.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker says the group must have deceived him and says he had meant to
+    let the leveret live in peace.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The group says they will not get another leveret, even when the speaker wants
+    them to seek leverets.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The group calms the speaker with the story of the lizard and wants him to
+    listen quietly.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The “I” who is sent to fetch water, owns or cares for the leveret,
+    returns, and cries over its killing.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed group
+  description: The “they” who send the speaker to fetch water, kill the leveret, refuse
+    to get another, and calm the speaker with a story.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: speaker’s leveret
+  description: A leveret tied up by the speaker and killed while the speaker is at
+    the water.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: lizard
+  description: A lizard is named only as the subject of the story used to calm the
+    speaker.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: first-person narrator
+  assigned_to:
+  - fig:1
+  basis: The passage is narrated in the first person by the one sent to fetch water
+    and grieving the leveret.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: water-fetcher
+  assigned_to:
+  - fig:1
+  basis: The group tells the speaker to fetch water, and the speaker goes to the water.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: leveret keeper and mourner
+  assigned_to:
+  - fig:1
+  basis: The speaker ties up the leveret, wanted it left alive, and cries after it
+    is killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: errand-senders and killers
+  assigned_to:
+  - fig:2
+  basis: The group sends the speaker to fetch water and kills the leveret while the
+    speaker is away.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: refusal speakers and consolers
+  assigned_to:
+  - fig:2
+  basis: The group says another leveret will not be obtained and then calms the speaker
+    with a lizard story.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: killed protected animal
+  assigned_to:
+  - fig:3
+  basis: The leveret is tied up by the speaker and later killed by the group.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:7
+  label: subject of calming story
+  assigned_to:
+  - fig:4
+  basis: The lizard appears as the named subject of the story used to calm the speaker.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water errand
+  literal_form: water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: leveret
+  literal_form: tied-up leveret killed in the speaker’s absence
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: lizard story
+  literal_form: the story of the lizard
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Sent to fetch water
+  summary: The unnamed group instructs the speaker to fetch water. The speaker ties
+    up the leveret and goes to the water.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Leveret killed and mourned
+  summary: While the speaker is at the water, the group kills the speaker’s leveret.
+    The speaker returns, cries, and says the group deceived him, since he had meant
+    the leveret to live in peace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: No replacement and lizard story
+  summary: The group says another leveret will not be gotten and then calms the speaker
+    with the story of the lizard so that he will listen quietly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: deceptive errand enabling harm to a protected animal
+  taxonomy_refs: []
+  basis: The group sends the speaker to fetch water; while he is away, they kill his
+    leveret, and he says they must have been deceiving him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not identify the group as tricksters or provide a wider
+    comparative frame.
+- id: motif:2
+  label: animal cared for by speaker killed in absence
+  taxonomy_refs: []
+  basis: The speaker ties up the leveret, leaves for water, and returns to find that
+    it has been killed by others.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not state whether the leveret has ritual, kinship, or
+    symbolic status beyond being cared for by the speaker.
+- id: motif:3
+  label: consolation through an embedded animal story
+  taxonomy_refs: []
+  basis: After the speaker cries over the killed leveret and is denied another, the
+    group calms him with the story of the lizard.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The lizard story itself is not included in this passage, so its content
+    and function remain only partly visible.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8186-8188
+  quote_or_summary: 'Passage title: “THE THUNDEESTOKM.” The note says it was related
+    in December 1875 in the Katkop dialect by Dfajkw|in.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 8190-8195
+  quote_or_summary: "“they told me to fetch water”; the speaker tied up the leveret,
+    went to fetch water, and “they killed (my) leveret” while he was at the water."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 8196-8202
+  quote_or_summary: The speaker came back and cried, says he thought they would leave
+    the leveret alone, says they must have been deceiving him, and says he had meant
+    the leveret to live in peace.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 8203-8206
+  quote_or_summary: The group says they will not get another leveret, even when the
+    speaker wants them to seek leverets for him.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; summary used.
+- id: ev:5
+  type: quote
+  locator: lines 8208-8211
+  quote_or_summary: "“they soothing calmed (?) me with the (story of the) lizard”
+    and wished the speaker to listen quietly."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The actions and figures are explicit in the passage. Motif labels are passage-level
+    pattern candidates only. No comparison claims are made because the passage itself
+    does not support a comparison to another corpus or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The title suggests a thunderstorm, but the supplied passage content concerns the killing of a leveret and consolation with a lizard story; no thunderstorm action is described in the provided lines.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l8186-l8213
+  passage_sha256=b5052e199cd36fbd8624737273211b7cfb42d1d4e86c4edea813114fb901505e
+

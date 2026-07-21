@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l20032-l20044
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 403 / OF THE OLD NORTHMEN. 405 / OF THE OLD NORTHMEN.
+    407 / OF THE OLD NORTHMEN. 409; lines 20032-20044
+  start: '20032'
+  end: '20044'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes state that a sacrifice is considered authentic, while the
+    word “son” may be an interpolation absent from the best Landnama text but present
+    in Hauks-bok and as a gloss in Gisli’s Saga. A further note says Tacitus correctly
+    reports deserters being hung as devoted to Woden and offenders being drowned as
+    devoted to a water-god, though his explanation is judged wrong.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that the sacrifice is authentic enough, but that the word
+    “son” appears to be an interpolation.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the word “son” is absent in the best text of Landnama but
+    present in Hauks-bok and in a gloss in Gisli’s Saga.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage reports that deserters who tried to break Woden’s battle-laws
+    were hung and devoted to him.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage reports that persons guilty of foul offences were drowned and
+    devoted to a water-god.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says Tacitus’ fact is right but his reason is wrong, because he
+    explains the practices on moral and analytic rather than historical grounds.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Woden
+  description: A deity whose battle-laws are mentioned and to whom hung deserters
+    are said to be devoted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: water-god
+  description: A deity to whom drowned offenders are said to be devoted.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: deserters
+  description: Persons described as trying to break Woden’s battle-laws and being
+    hung.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: those guilty of foul offences
+  description: Persons described as being drowned and devoted to a water-god.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Tacitus
+  description: Authorial figure whose report is discussed; the passage says his fact
+    is right but his explanation is wrong.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: recipient of hanging-devotion
+  assigned_to:
+  - fig:1
+  basis: Hung deserters are described as devoted to Woden.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: recipient of drowning-devotion
+  assigned_to:
+  - fig:2
+  basis: Drowned offenders are described as devoted to a water-god.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: deserters punished by hanging
+  assigned_to:
+  - fig:3
+  basis: Deserters who tried to break Woden’s battle-laws are said to have been hung.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: offenders punished by drowning
+  assigned_to:
+  - fig:4
+  basis: Those guilty of foul offences are said to have been drowned.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: external commentator
+  assigned_to:
+  - fig:5
+  basis: Tacitus’ report and explanation are evaluated by the note.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: drowning and devotion to a water-god
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: hanging
+  literal_form: deserters were hung and devoted to Woden
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Textual note on sacrifice and interpolation
+  summary: An editorial note treats the sacrifice as authentic while judging the term
+    “son” to be an interpolation, with differing manuscript or saga evidence cited.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Tacitus on hanging and drowning devotions
+  summary: A note says Tacitus correctly records deserters being hung and offenders
+    being drowned, interpreting these as devotions respectively to Woden and to a
+    water-god, though Tacitus’ own reasoning is rejected.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrifice or devotion through execution
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly names a sacrifice and describes hanging and drowning
+    as forms of devotion to named divine recipients.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage is an editorial note and does not narrate the full ritual
+    context; the exact sacrifice narrative is not included in this line range.
+- id: motif:2
+  label: water-associated divine devotion
+  taxonomy_refs: []
+  basis: Offenders are described as drowned and devoted to a water-god.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only a brief explanatory note is provided; the water-god is unnamed and
+    no ritual details are given.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares textual witnesses for a sacrifice narrative, stating
+    that the “son” element is absent from the best Landnama text but present in Hauks-bok
+    and in a Gisli’s Saga gloss.
+  claim_level: same_motif
+  target: Landnama, Hauks-bok, and Gisli’s Saga witness to the sacrifice narrative
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a textual-witness comparison within an editorial note; the
+    surrounding narrative is not supplied, so the precise motif content cannot be
+    fully evaluated.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20032-20035
+  quote_or_summary: "“The sacrifice is authentic enough, only the ‘son’ appears to
+    be an interpolation,” absent in Landnama but found in Hauks-bok and as a gloss
+    in Gisli’s Saga."
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 20039-20040
+  quote_or_summary: "“Tacitus’ reason is wrong here, but his fact is right.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 20040-20042
+  quote_or_summary: Tacitus notices deserters who tried to break Woden’s battle-laws
+    being hung and devoted to Woden, and those guilty of foul offences being drowned
+    and devoted like women to a water-god.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+- id: ev:4
+  type: summary
+  locator: lines 20042-20043
+  quote_or_summary: The note says Tacitus explains the practices on moral and analytic
+    grounds, not historical grounds.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized evidence from public domain text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a set of editorial notes rather than a continuous mythic narrative;
+    extraction is limited to explicitly stated sacrifice, hanging, drowning, and textual-witness
+    details.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy IDs beyond supplied motif family and symbol labels were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l20032-l20044
+  passage_sha256=a5bbe1aca544dd1a1cb67ce528cba6421c64f8727aaa768aa9e8aa186a81c1a1
+

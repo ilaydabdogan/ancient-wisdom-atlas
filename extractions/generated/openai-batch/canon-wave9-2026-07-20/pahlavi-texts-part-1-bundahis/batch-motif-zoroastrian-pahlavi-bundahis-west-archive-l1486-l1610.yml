@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l1486-l1610
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: INTRODUCTION. XXXIU / XXXIV PAHLAVI TEXTS. / INTRODUCTION. XXXV / INTRODUCTION.
+    XXXIX; lines 1486-1610
+  start: '1486'
+  end: '1610'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is chiefly an editorial introduction about Bundahis manuscript
+    witnesses. It describes a two-folio old manuscript fragment containing the last
+    sentences of the final chapter and a colophon. The translated fragment gives a
+    royal chronology, including Kai-Kayus's going to the sky, Kai-Vistasp's reign
+    at the coming of the religion, a one-thousand-year total and millennial transition
+    to Capricornus, Zaratuhast bringing tidings from the creator Auharmazd to King
+    Vistasp, and later dynastic spans.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The introduction reports a small old Bundahis manuscript fragment of two folios
+    containing the last sentences of the last chapter and a colophon, with some additional
+    details not found in the Indian manuscripts.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated fragment gives reign lengths for several rulers; Kai-Kayus's
+    time is counted up to and after his going to the sky.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kai-Vistasp's reign is marked by the coming of the religion, followed by a
+    stated total of one thousand years and a millennium reign associated with Capricornus.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Zaratuhast the Spitaman is said to come to King Vistasp with tidings from
+    the creator Auharmazd.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Vistasp is said to reign ninety years after receiving the religion.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fragment continues with later rulers and dynastic spans, including Vohuman,
+    Humai, Darai, Alexander, the Askanians, Artakhshatar, the Sasanians, and the Arabs.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Kai-Kayus
+  description: Ruler in the translated chronology whose reign is counted before and
+    after his going to the sky.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Kai-Vistasp / King Vistasp
+  description: King associated with the coming of the religion and with receiving
+    Zaratuhast's message.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Zaratuhast the Spitaman
+  description: Bearer of tidings from the creator Auharmazd to King Vistasp.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Auharmazd
+  description: The creator named as the source of the tidings brought by Zaratuhast.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: sky-going ruler
+  assigned_to:
+  - fig:1
+  basis: Kai-Kayus's reign is divided by the phrase describing his going to the sky.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: royal recipient of religion
+  assigned_to:
+  - fig:2
+  basis: King Vistasp receives the religion after Zaratuhast comes to him with tidings.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: bearer of creator's tidings
+  assigned_to:
+  - fig:3
+  basis: Zaratuhast is described as coming with tidings from Auharmazd.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: creator and source of message
+  assigned_to:
+  - fig:4
+  basis: Auharmazd is explicitly called the creator and source of the tidings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: Sky as the destination or sphere of Kai-Kayus's going.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Capricornus
+  literal_form: Capricornus as the sign to which the millennium reign comes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: one-thousand-year span
+  literal_form: The stated total of one thousand years and the following millennium
+    reign.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Kai-Kayus's sky-going in the royal chronology
+  summary: The translated fragment counts Kai-Kayus's reign as seventy-five years
+    until his going to the sky and seventy-five years afterward, within a broader
+    list of rulers and reign lengths.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Zaratuhast brings the creator's tidings to Vistasp
+  summary: After the chronology reaches the coming of the religion and a millennial
+    transition to Capricornus, Zaratuhast comes from Auharmazd to King Vistasp, who
+    receives the religion and reigns afterward.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ruler going to the sky
+  taxonomy_refs:
+  - ascent
+  basis: Kai-Kayus is explicitly described as going to the sky, and his reign is counted
+    before and after that event.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a chronological notice, not a narrative of the
+    ascent, its cause, or its outcome.
+- id: motif:2
+  label: divine tidings brought to a king
+  taxonomy_refs:
+  - wisdom
+  basis: Zaratuhast comes to King Vistasp with tidings from the creator Auharmazd,
+    and Vistasp receives the religion.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The content of the tidings is not elaborated in this passage; the taxonomy
+    link to wisdom is broad.
+- id: motif:3
+  label: millennial astrological transition
+  taxonomy_refs: []
+  basis: The fragment states a total of one thousand years and says the millennium
+    reign came to Capricornus.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as chronology; it does not provide a full mythic
+    episode or cyclical cosmology in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1496-1515
+  quote_or_summary: A small old Bundahis manuscript fragment of two folios is described
+    as containing the last sentences of the last chapter, a colophon, and some additional
+    details not found in the Indian manuscripts.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: translated manuscript fragment within lines 1517-1540
+  quote_or_summary: '"Kai-Kayus, till his going to the sky, seventy-five years, and
+    after that, seventy-five years, altogether a hundred and fifty years"; the fragment
+    also lists Kai-Khusrobo and Kai-Loharasp with reign lengths.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:3
+  type: quote
+  locator: translated manuscript fragment within lines 1538-1548
+  quote_or_summary: '"Kai-Vistasp, till the coming of the religion, thirty years;
+    [total ... one thousand years. Then the millennium reign came to Capricornus".'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: quote
+  locator: translated manuscript fragment within lines 1544-1552
+  quote_or_summary: '"Zaratuhast the Spitaman, with tidings from the creator Auharmazd,
+    came to King Vistasp; and Vistasp was king, after receiving the religion, ninety
+    years."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:5
+  type: summary
+  locator: translated manuscript fragment following the Vistasp notice, within lines
+    1553-1570
+  quote_or_summary: The fragment continues with Vohuman, Humai, two figures named
+    Darai, Alexander, the Askanians, Artakhshatar son of Papak, the Sasanians, and
+    the Arabs, assigning reigns or dynastic spans.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is clear, but motif classification is limited because
+    the passage is primarily an introduction and manuscript discussion; the mythic
+    elements occur only in a brief translated chronological fragment. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Motif candidates are based on the quoted Bundahis fragment, not on the surrounding scholarly manuscript discussion.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l1486-l1610
+  passage_sha256=1a4c7497fdeda1d8d44951fa6778024ad97baffce3bd339703e902a07813fb12
+

@@ -1,0 +1,337 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l20054-l20119
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: RIDDLES. / RIDDLES. / RIDDLES. / IZINCANEKWAUE.; lines 20054-20119
+  start: '20054'
+  end: '20119'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A riddle passage describes an unnamed “it” as bullock-like: it stands
+    still unless pushed, resists going uphill, can be driven down, does not cross
+    a river unless pushed, hides in deep water, can be used in relation to paying
+    a debt, and is dangerous to drivers when forced uphill.'
+  language: English with Zulu excerpt
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The supplied passage is located under a riddle heading and begins with the
+    Zulu title “IZINCANEKWAUE.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unnamed subject stands still until someone pushes it; it resists being
+    driven up a steep place but allows itself to be pushed down.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The subject is described as a bullock that does not like to go uphill and
+    prefers to be made to go down.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At a river, the subject stands still on one side; if someone wants it to cross,
+    he must push it with great strength.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: If the water is very deep, the subject will not cross but hides in the water
+    so that the person can no longer see it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A place where the bottom can be seen is chosen so the subject can be seen
+    and pushed forward.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says there is only one mode of eating it, by paying a debt if
+    a man has a debt that can be paid by it.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The subject is called a very fierce bullock, and the men who drive it are
+    on guard when it is pushed uphill.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: One of the drivers warns the others that the bullock dislikes going uphill
+    and may gore them while it is above them and they are below.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: If the subject refuses to go up and wants to come back, the men may make way
+    for it; it may run away to a place good for it but bad for the men, leaving them
+    beaten.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:11
+  text: The passage ends with the name “Umpengula Mbanda.”
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed subject described as a bullock
+  description: The repeated “it” in the riddle; described as a bullock that resists
+    uphill movement, can be pushed down, hides in deep water, and is fierce when driven
+    uphill.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: men who drive or push it
+  description: Human handlers who push or drive the subject, including those who are
+    warned to be on guard when driving it uphill.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: man with a debt
+  description: A conditional man whose debt can be paid by the subject.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: riddle subject
+  assigned_to:
+  - fig:1
+  basis: The passage is identified as a riddle and describes an unnamed “it” throughout.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: fierce reluctant bullock
+  assigned_to:
+  - fig:1
+  basis: The subject is explicitly called a bullock that dislikes going uphill and
+    is later called very fierce.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: drivers or pushers
+  assigned_to:
+  - fig:2
+  basis: The passage describes people pushing it across or uphill and men who drive
+    it being on guard.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: debt payer
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a man with a debt that can be paid by it.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water as concealment place
+  literal_form: river and deep water
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: bullock image
+  literal_form: bullock
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: steep place or uphill path
+  literal_form: steep place; up hill; down
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+scenes:
+- id: scene:1
+  label: Reluctant movement on steep ground
+  summary: The subject stands still unless pushed, resists being driven up a steep
+    place, and permits being pushed down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: River crossing and hiding in water
+  summary: At a river, the subject must be pushed with great strength to cross; in
+    very deep water it hides from view, so a visible-bottom place is chosen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Debt-payment use
+  summary: The passage states that the only mode of eating it is by paying a debt
+    that can be paid by it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Dangerous uphill driving
+  summary: When the fierce bullock is pushed uphill, the drivers guard themselves
+    and warn that it may gore them; if it turns back, they may let it pass and not
+    follow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Riddle description as wisdom puzzle
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is located under a riddle heading and presents an unnamed subject
+    through enigmatic attributes and actions.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The exact answer or referent of the riddle is not supplied within this
+    extracted line range.
+- id: motif:2
+  label: Personified object as a fierce bullock
+  taxonomy_refs: []
+  basis: The unnamed subject is described as a bullock with preferences, resistance,
+    fierceness, and capacity to endanger people.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage may be figurative because it is a riddle, but the underlying
+    referent is not identified here.
+- id: motif:3
+  label: Hiding in deep water to avoid crossing
+  taxonomy_refs: []
+  basis: The subject refuses to cross when water is very deep and hides in the water
+    so that it can no longer be seen.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No broader mythic comparison is stated in the passage.
+- id: motif:4
+  label: Dangerous reversal when driven uphill
+  taxonomy_refs: []
+  basis: The drivers fear the bullock will gore them from above while they are below,
+    and they may yield when it turns back.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is a passage-level action pattern; no named mythic taxonomy family
+    is directly supported.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: passage label; line 20054
+  quote_or_summary: The supplied locator identifies the selection as a riddle passage;
+    the text begins with “IZINCANEKWAUE.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; brief excerpt and metadata used.
+- id: ev:2
+  type: summary
+  locator: lines 20065-20073
+  quote_or_summary: The subject stands still until pushed, resists being driven up
+    a steep place, allows itself to be pushed down, and is called a bullock that dislikes
+    going uphill.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20075-20086
+  quote_or_summary: At a river it stands on one side and must be pushed with strength;
+    in very deep water it hides and cannot be seen, so a visible-bottom place is chosen.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20088-20092
+  quote_or_summary: The passage states that the only mode of eating it is by paying
+    a debt, if a man has a debt payable by it, and that this is the only work it can
+    do.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20094-20117
+  quote_or_summary: It is called a very fierce bullock; drivers warn one another about
+    being gored when it is above them on a hill, and may let it pass if it turns back
+    and runs away.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: line 20119
+  quote_or_summary: "“Umpengula Mbanda.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The surface actions and images are clear, but the extracted range appears
+    to contain only part of a riddle description and does not provide an explicit
+    answer or external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims are made because the passage itself does not state a comparison to another text or tradition. Taxonomy use is limited to the riddle/wisdom setting and the literal water symbol.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l20054-l20119
+  passage_sha256=6ecb7053a5501c3cdd61121e77e7516de7a14f35e3d5509b9a03e2ed36a4b696
+

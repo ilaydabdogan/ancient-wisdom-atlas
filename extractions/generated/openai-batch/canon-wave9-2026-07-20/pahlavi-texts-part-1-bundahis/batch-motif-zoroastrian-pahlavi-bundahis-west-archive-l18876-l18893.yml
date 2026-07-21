@@ -1,0 +1,234 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l18876-l18893
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER XIII, 6-9. 357 / CHAPTER XIII, 10-15. 359 / CHAPTER XIII, 16-22.
+    361 / CHAPTER XIII, 30-40. 365; lines 18876-18893
+  start: '18876'
+  end: '18893'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage delimits and counts the Gathas, listing their opening and closing
+    words and numerical totals for stanzas, lines, words, and smaller textual units.
+    It begins a breakdown of collected Gatha stanzas, including the Ahunavaiti Gatha
+    and the Yasna of seven chapters. A note discusses the uncertain inclusion of the
+    remainder of Yasna LVII and describes its recitation in seven sections from seven
+    ritual positions associated with assistant priests around a ceremonial area.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states the beginning and end of the Gathas by citing opening and
+    closing phrases and Yasna references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The passage gives numerical totals for the Gathas: 278 stanzas, 1016 lines,
+    5567 words, 9999 marik, and 16,554 khur^ak^.'
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The collected lines and stanzas include one hundred stanzas of the Ahunavaiti
+    Gatha, with each stanza having three lines.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage begins to list forty stanzas of the Yasna of seven chapters.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note says that whether the remainder of Yasna LVII pertains to the Gathas
+    is uncertain.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The note says Yasna LVII is recited in seven sections by the assistant priest,
+    with each section recited from a different position.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The seven positions are described as stations of seven assistant priests supposed
+    to be spiritually present.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The spiritually present assistant priests are arranged three on each side
+    and one at the south end of the ceremonial area, while the chief officiating priest
+    occupies the north end.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: assistant priest
+  description: The priest who recites Yasna LVII in seven sections, each from a different
+    position.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: seven assistant priests
+  description: Seven assistant priests who are supposed to be present spiritually
+    at seven stations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: chief officiating priest
+  description: The priest occupying the north end of the ceremonial area.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: ritual reciter
+  assigned_to:
+  - fig:1
+  basis: The note states that Yasna LVII is recited in seven sections by the assistant
+    priest.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: spiritually present station holders
+  assigned_to:
+  - fig:2
+  basis: The seven positions are described as stations of seven assistant priests
+    supposed to be spiritually present.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: north-end officiant
+  assigned_to:
+  - fig:3
+  basis: The chief officiating priest is said to occupy the north end of the ceremonial
+    area.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: seven ritual positions
+  literal_form: Seven positions or stations used for the recitation of seven sections.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: ceremonial spatial arrangement
+  literal_form: Three assistant-priest stations on each side, one station at the south
+    end, and the chief officiating priest at the north end of the ceremonial area.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Enumeration of the Gathas
+  summary: The passage identifies the beginning and end of the Gathas and gives counts
+    for their stanzas, lines, words, and smaller textual units, then begins listing
+    component Gatha sections.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sevenfold recitation arrangement
+  summary: A note describes Yasna LVII as recited in seven sections by an assistant
+    priest from seven positions, understood as stations of seven spiritually present
+    assistant priests arranged around a ceremonial area with the chief priest at the
+    north end.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sevenfold ritual recitation stations
+  taxonomy_refs: []
+  basis: The note describes a ritual recitation divided into seven sections, each
+    performed from a different position corresponding to seven assistant-priest stations.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is primarily liturgical/editorial rather than mythic narrative;
+    it does not explicitly state symbolic meaning for the number seven or for the
+    spatial arrangement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18876-18880
+  quote_or_summary: The passage says the Gathas begin with Ahya-yasa and end with
+    drigave vahyo, and gives totals of 278 stanzas, 1016 lines, 5567 words, 9999 marik,
+    and 16,554 khur^ak^.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 18880-18884
+  quote_or_summary: The passage says the collected Gatha lines and stanzas include
+    one hundred stanzas of the Ahunavaiti Gatha, each three lines, and begins listing
+    forty stanzas of the Yasna of seven chapters.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 18885-18890
+  quote_or_summary: A note states that whether the remainder of Yasna LVII belongs
+    to the Gathas is uncertain, and that it is recited in seven sections by the assistant
+    priest, each from a different position.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18890-18893
+  quote_or_summary: The seven positions are described as stations of seven assistant
+    priests supposed to be spiritually present, arranged three on each side and one
+    at the south end of the ceremonial area, while the chief officiating priest occupies
+    the north end.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but the passage is not a myth narrative.
+    The only candidate motif is a cautious ritual-pattern extraction from the note;
+    no comparison claims are supported by the passage itself.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the passage does not explicitly support one from the provided taxonomy. Comparison claims were omitted.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l18876-l18893
+  passage_sha256=83fddcaeb425b4d30c110d3227dafb5fd87e2ce15df01af9ab427e77bd51fe73
+

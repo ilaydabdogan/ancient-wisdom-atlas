@@ -1,0 +1,385 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l14645-l14730
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTERS I, 4-II, 2. 245 / Chapter II. / CHAPTER 11,8-11. 249 / CHAPTER II,
+    IO5-II6. 273; lines 14645-14730
+  start: '14645'
+  end: '14730'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A prescriptive ritual-legal passage classifies materials contaminated by
+    dead matter and gives cleansing procedures using bull's urine, dust, and water.
+    It assigns different washing counts to gold, silver, iron, steel, stone, quicksilver,
+    amber, jewels, wood-like substances, earthen and horny articles, and other unused
+    substances. It also prescribes cutting and drying firewood for a year without
+    water before ordinary fire use, citing named authorities and the Avesta.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The excerpt opens with an incomplete preceding rule that compares liability
+    to a leathern bag containing dead matter.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gold touched by dead matter is washed once with bull's urine, dried once with
+    dust, washed once with water, and then is clean.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Silver is assigned two such washings, iron three, steel four, and stone six.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Afarg says quicksilver is liable like gold, amber like stone, and all jewels
+    like iron.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Pearl, amber, ruby, turquoise, agate, coral-stone, bone, and other unmentioned
+    substances are to be washed like wood.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage distinguishes substances taken into use, substances not taken
+    into use, earthen and horny articles, and other unused substances with respect
+    to whether they receive washing or are declared out of use.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Green firewood is to be cut to a span in length, while dry firewood is to
+    be cut to a span and two finger-breadths.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Prepared firewood is deposited for a year in a place where water is not dropped
+    on it, and is drawn out after the year.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Soshyans says the prepared firewood is proper for ordinary fires.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Ktashtano-bujert says the firewood rule is as declared in the Avesta.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Afarg
+  description: A named authority who speaks about the liability of quicksilver, amber,
+    and jewels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Soshyans
+  description: A named authority who says the prepared wood is proper as firewood
+    for ordinary fires.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Ktashtano-bujert
+  description: A named authority who says the firewood rule is as declared in the
+    Avesta.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named authority on ritual prescriptions
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: Each figure is introduced as giving a statement about the prescribed treatment
+    or status of substances.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: authority endorsing firewood for ordinary fires
+  assigned_to:
+  - fig:2
+  basis: Soshyans says the prepared wood is proper as firewood for ordinary fires.
+  evidence_refs:
+  - ev:6
+- id: role:3
+  label: authority appealing to Avesta declaration
+  assigned_to:
+  - fig:3
+  basis: Ktashtano-bujert says the firewood prescription is just as declared in the
+    Avesta.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: dead matter
+  literal_form: dead matter contaminating or affecting materials
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bull's urine
+  literal_form: bull's urine used as a washing agent
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dust
+  literal_form: dust used to make the object dry during purification
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: water
+  literal_form: water used for washing contaminated materials and excluded from stored
+    firewood
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:5
+  label: metals and stone
+  literal_form: gold, silver, iron, steel, stone, quicksilver, and amber as classified
+    materials
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:6
+  label: jewels and other substances
+  literal_form: pearl, ruby, turquoise, agate, coral-stone, bone, earthen articles,
+    horny articles, and other substances
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:7
+  label: firewood
+  literal_form: wood cut to prescribed lengths, stored for a year, and used for ordinary
+    fires
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:8
+  label: fire
+  literal_form: ordinary fires for which prepared firewood is deemed proper
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+- id: sym:9
+  label: graded washing counts
+  literal_form: one, two, three, four, and six washings assigned to different materials
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Graded cleansing of materials touched by dead matter
+  summary: The passage assigns washing, drying, and water-washing procedures to gold,
+    silver, iron, steel, and stone, with different counts for each material; Afarg
+    extends the classifications to quicksilver, amber, and jewels.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Rules for wood-like, earthen, horny, and unused substances
+  summary: The passage lists jewels, bone, and other substances to be washed like
+    wood, and distinguishes items taken into use, items not taken, earthen and horny
+    articles, and other unused substances.
+  figure_refs: []
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Preparation of firewood for ordinary fires
+  summary: Firewood is cut to prescribed lengths, stored for a year without water
+    being dropped upon it, and then judged proper for ordinary fires by Soshyans,
+    while Ktashtano-bujert connects the rule to the Avesta.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: death-contamination requiring graded ritual purification
+  taxonomy_refs: []
+  basis: Materials affected by dead matter are assigned distinct cleansing procedures
+    and washing counts before being clean or classified as out of use.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a prescriptive purity rule rather than a narrative mythic episode;
+    no available motif-family taxonomy item exactly matches ritual purity after corpse-contamination.
+- id: motif:2
+  label: purification through sequential agents
+  taxonomy_refs: []
+  basis: The cleansing sequence for several materials uses bull's urine, dust, and
+    water in prescribed order and number.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The motif is extracted as a ritual pattern; symbolic meanings of the agents
+    are not stated in the passage.
+- id: motif:3
+  label: firewood prepared by measured cutting, year-long drying, and exclusion of
+    water
+  taxonomy_refs: []
+  basis: Firewood is cut to measured lengths, stored for a year without water, and
+    then deemed proper for ordinary fires.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage concerns ordinary fires, not a cosmological or world-destroying
+    fire motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage links its purification and firewood prescriptions to Avestan
+    or Vendidad ritual-legal material, especially through the statement that the firewood
+    rule is as declared in the Avesta and through notes identifying related Vendidad
+    prescriptions.
+  claim_level: same_function
+  target: Avesta/Vendidad purification prescriptions
+  evidence_refs:
+  - ev:6
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to textual and ritual-functional correspondence
+    stated in the passage and notes; it does not establish a broader mythic motif,
+    historical contact mechanism, or full equivalence of details.
+evidence:
+- id: ev:1
+  type: summary
+  locator: opening lines before §112; lines 14645-14647
+  quote_or_summary: The excerpt begins mid-rule with a comparison to a leathern bag
+    in which there is dead matter.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:2
+  type: summary
+  locator: Chapter II, §§112-114; lines 14648-14655
+  quote_or_summary: Gold, silver, iron, steel, and stone that have dead matter upon
+    them are assigned one, two, three, four, and six cycles respectively of washing
+    with bull's urine, drying with dust, and washing with water before being clean.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: Chapter II, §115; lines 14655-14659
+  quote_or_summary: Afarg says quicksilver is liable like gold, amber like stone,
+    and all jewels like iron.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:4
+  type: summary
+  locator: Chapter II, §§116-117; lines 14659-14673
+  quote_or_summary: Pearl, amber, ruby, turquoise, agate, coral-stone, bone, and other
+    unmentioned substances are to be washed like wood; the passage then distinguishes
+    articles taken into use, not taken into use, earthen and horny articles, and other
+    unused substances.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:5
+  type: summary
+  locator: Chapter II, §118; lines 14674-14683
+  quote_or_summary: Green and dry firewood are cut to prescribed lengths, deposited
+    for a year, protected from water being dropped on them, and drawn out after a
+    year.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:6
+  type: summary
+  locator: Chapter II, §118; lines 14683-14689
+  quote_or_summary: Soshyans says the treated wood is proper as firewood for ordinary
+    fires, and Ktashtano-bujert says the rule is just as declared in the Avesta.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+- id: ev:7
+  type: note
+  locator: notes to §§112-118; lines 14659-14730
+  quote_or_summary: Editorial notes identify related Vendidad prescriptions for the
+    purification of golden vessels, silver vessels, stone, and firewood, including
+    points where the transmitted texts differ or omit material.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is based on explicit prescriptive statements. Motif labels
+    are cautious because the passage is ritual-legal rather than narrative myth. The
+    single comparison claim is limited to Avestan/Vendidad links stated in the passage
+    and notes.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No broader symbolic meanings were inferred beyond literal ritual objects, agents, and procedures stated in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l14645-l14730
+  passage_sha256=042ac913b764b4e7fe2676a0b59fb10bb13fb1da3775593cf63f4b283f585d79
+

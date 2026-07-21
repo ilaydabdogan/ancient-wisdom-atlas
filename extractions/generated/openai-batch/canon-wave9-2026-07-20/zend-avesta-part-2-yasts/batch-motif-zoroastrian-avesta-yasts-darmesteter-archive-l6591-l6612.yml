@@ -1,0 +1,260 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l6591-l6612
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: MIHIR YA5T. I 27 / I30 YA5TS AND SIROZAHS. / MIHIR VAST. 131 / XIII.; lines
+    6591-6612
+  start: '6591'
+  end: '6612'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage invokes sacrifice to Mithra, describes him as sleepless and
+    ever awake, and presents him lifting his hands to Ahura Mazda. In his speech,
+    Mithra calls himself the kind keeper and maintainer of all creatures, but says
+    that men do not worship him by name as they worship other gods by their names.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a sacrificial invocation to Mithra, called the lord
+    of wide pastures.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mithra is described as sleepless and ever awake.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Mithra is described as lifting his hands and crying out to Ahura Mazda.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In his speech, Mithra calls himself the kind keeper and kind maintainer of
+    all creatures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Mithra says that men do not worship him with a sacrifice in which he is invoked
+    by his own name.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Mithra contrasts this lack of named worship with the way men worship other
+    gods by their own names.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: The deity addressed in sacrifice; described as lord of wide pastures,
+    sleepless, ever awake, and as speaking to Ahura Mazda.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ahura Mazda
+  description: The figure to whom Mithra cries while lifting his hands.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: men
+  description: Humans whom Mithra says do not worship him by his own name, though
+    they worship other gods by their names.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: other gods
+  description: Other deities said to receive sacrifices in which they are invoked
+    by their own names.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: all creatures
+  description: The beings whom Mithra says he keeps and maintains kindly.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The passage says, “We sacrifice unto Mithra.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: keeper and maintainer of creatures
+  assigned_to:
+  - fig:1
+  basis: Mithra calls himself the kind keeper and kind maintainer of all creatures.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine speaker or petitioner
+  assigned_to:
+  - fig:1
+  basis: Mithra lifts his hands and cries to Ahura Mazda.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: divine addressee
+  assigned_to:
+  - fig:2
+  basis: Mithra directs his cry to Ahura Mazda.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: human worshippers contrasted by Mithra
+  assigned_to:
+  - fig:3
+  basis: Mithra says men do not worship him by name but do worship other gods by name.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: recipients of named sacrifices
+  assigned_to:
+  - fig:4
+  basis: Mithra says the other gods are worshipped with sacrifices in which they are
+    invoked by their own names.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: beings under Mithra’s care
+  assigned_to:
+  - fig:5
+  basis: Mithra describes all creatures as those he keeps and maintains.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lifted hands
+  literal_form: hands lifted up
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sacrificial invocation of Mithra
+  summary: The passage invokes sacrifice to Mithra and describes him with epithets
+    of wide dominion and wakefulness.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Mithra’s appeal to Ahura Mazda
+  summary: Mithra lifts his hands, cries to Ahura Mazda, declares himself keeper and
+    maintainer of all creatures, and complains that men do not worship him by his
+    own name as they do other gods.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: named sacrificial invocation to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage centers on sacrifice to Mithra and on Mithra’s complaint that
+    he is not worshipped with a sacrifice invoking his own name.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is fragmentary at the end of the supplied excerpt, so the
+    full consequence of such worship is not included.
+- id: motif:2
+  label: deity petitions a higher deity about neglected worship
+  taxonomy_refs: []
+  basis: Mithra lifts his hands and cries to Ahura Mazda, stating that men do not
+    worship him by his own name.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a passage-level pattern rather than a supplied taxonomy family.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly presents Mithra’s desired named sacrifice as functionally
+    comparable to the sacrifices offered to other gods, because both are described
+    as sacrifices in which a deity is invoked by that deity’s own name.
+  claim_level: same_function
+  target: sacrifices to the other gods mentioned in the passage
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The other gods and their specific rites are not identified in the supplied
+    excerpt.
+evidence:
+- id: ev:1
+  type: quote
+  locator: XIII.53; lines 6591-6594
+  quote_or_summary: "“We sacrifice unto Mithra, the lord of wide pastures, .... sleepless,
+    and ever awake”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: XIII.54; lines 6595-6601
+  quote_or_summary: Mithra, with hands lifted up, cries to Ahura Mazda and says he
+    is the kind keeper and maintainer of all creatures.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: XIII.54-55; lines 6601-6607
+  quote_or_summary: "“men worship me not with a sacrifice in which I am invoked by
+    my own name, as they worship the other gods”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main actions and speech are explicit. Motif labels beyond the supplied
+    sacrifice taxonomy are kept descriptive and require review. The excerpt ends mid-sentence
+    after “If men would worship me,” so extraction avoids completing that thought.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnote material in the supplied passage was not used for motif extraction except as part of the source context; no external cross-references were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l6591-l6612
+  passage_sha256=e84e5a09f28f1a01b8322e2f414d4975824e16e4f5066a5f44f1a8afa370d1d2
+

@@ -1,0 +1,202 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4315-l4340
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter IX. / CHAPTER VIII, 3-X, I. 31 / Chapter X. / Chapter XI.; lines
+    4315-4340
+  start: '4315'
+  end: '4340'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage states that revelation describes thirty-three kinds of land.
+    It says that when Tt^''tar produced rain and seas arose from it, the whole place
+    became half water and was converted into seven portions: one middle portion as
+    much as one-half, with six portions around it, the six together being as much
+    as Khvaniras. Editorial notes include manuscript and interpretive variants for
+    the number and for the referent of “this portion.”'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Revelation is cited as saying that there are thirty-three kinds of land.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tt^'tar is said to have produced rain.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Seas arose from the rain, and the whole place is described as half taken up
+    by water.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The whole place was converted into seven portions.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: One portion is described as the middle and as much as one-half; six portions
+    are around it, and those six together are as much as Khvaniras.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: An editorial note reports a manuscript variant reading thirty-two kinds instead
+    of thirty-three.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An editorial note says the expression translated as “this portion” may refer
+    to Khvaniras or may mean “one portion.”
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Tt^'tar
+  description: Named agent who produced the rain in the cosmographic sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: producer of rain
+  assigned_to:
+  - fig:1
+  basis: The passage says that, on the day in question, Tt^'tar produced the rain.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: rain, seas, and water
+  literal_form: Rain produced by Tt^'tar; seas arising from it; water taking up half
+    the place.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: seven portions
+  literal_form: The whole place converted into seven portions.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: middle portion and surrounding six portions
+  literal_form: A middle portion as much as one-half, with six portions around it;
+    the six together are as much as Khvaniras.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rain, seas, and sevenfold division of the earth
+  summary: After an initial statement about kinds of land, Tt^'tar produces rain;
+    seas arise from the rain; the place becomes half water and is divided into seven
+    portions, arranged with one middle portion and six surrounding portions.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: sevenfold terrestrial division around a middle portion
+  taxonomy_refs:
+  - world_center
+  basis: The passage presents a cosmographic arrangement in which the whole place
+    is divided into seven portions, with one middle portion and six portions around
+    it.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: 'The world_center taxonomy reference is approximate: the passage describes
+    a middle portion but does not explicitly call it a sacred center or axis.'
+- id: motif:2
+  label: cosmic waters reshaping the land
+  taxonomy_refs: []
+  basis: Tt^'tar produces rain, seas arise from it, half the place is occupied by
+    water, and the place is subsequently divided into portions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives a cosmographic water-and-land sequence, but it does
+    not explicitly describe a flood, chaos battle, or renewal narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XI.1; lines 4315-4340
+  quote_or_summary: Revelation is cited for the statement that the earth has thirty-three
+    kinds of land.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:2
+  type: summary
+  locator: Chapter XI.2; lines 4315-4340
+  quote_or_summary: On the day Tt^'tar produced the rain, seas arose from it, and
+    the whole place was half taken up by water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:3
+  type: summary
+  locator: Chapter XI.2; lines 4315-4340
+  quote_or_summary: 'The place was converted into seven portions: a middle portion
+    as much as one-half, with six portions around; the six together are as much as
+    Khvaniras.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:4
+  type: note
+  locator: Footnote to Chapter XI.1; lines 4315-4340
+  quote_or_summary: The note reports that one manuscript has “thirty-two kinds” where
+    the main text has thirty-three kinds.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:5
+  type: note
+  locator: Footnote to Chapter XI.2; lines 4315-4340
+  quote_or_summary: The note says the phrase rendered “this portion” may mean Khvaniras
+    or may be read as “one portion.”
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summary generated.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    because the passage is short and chiefly cosmographic; no cross-text comparison
+    claim was extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage text includes editorial notes; only notes directly relevant to the extracted Chapter XI material were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4315-l4340
+  passage_sha256=0f84b3c7b76e32481d5e66db56162dd03fe9082150862eef8e3afecccd896138
+

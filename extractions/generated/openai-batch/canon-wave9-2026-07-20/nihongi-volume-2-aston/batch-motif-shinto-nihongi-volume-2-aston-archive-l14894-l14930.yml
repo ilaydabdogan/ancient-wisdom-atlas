@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l14894-l14930
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: A.D. 660. / XXVI. 16 / XXVI. 17. / SAIMEI. 265; lines 14894-14930
+  start: '14894'
+  end: '14930'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records a Ninwo Hanya meeting with raised seats and Nokesa
+    garments; the Prince Imperial making a clepsydra so people could know the hours;
+    Abe no Hikida no Omi presenting more than fifty people described as savages to
+    the Empress; and the construction of a Mount Sumi near the pond of Iso no Kami,
+    where forty-seven men of Su-shén were entertained.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A Ninwo Hanya meeting was held with one hundred raised seats and one hundred
+    Nokesa.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: The Prince Imperial made a clepsydra for the first time.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: The clepsydra enabled the people to know the hours.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Abe no Hikida no Omi presented more than fifty people described in the translation
+    as savages to the Empress.
+  category: action
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:5
+  text: A Mount Sumi was built near the pond of Iso no Kami and was as high as a pagoda.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: Forty-seven men of Su-shén were entertained on the occasion of the Mount Sumi
+    construction.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Prince Imperial
+  description: The Prince Imperial is said to have made a clepsydra for the first
+    time.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: the people
+  description: The people were caused to know the hours by means of the clepsydra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Abe no Hikida no Omi
+  description: Abe no Hikida no Omi presented more than fifty people described as
+    savages to the Empress.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Empress
+  description: The Empress received the presentation from Abe no Hikida no Omi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: more than fifty people described as savages
+  description: More than fifty people, identified by the translator's note as probably
+    Ainos or Yemishi, were presented to the Empress.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: forty-seven men of Su-shén
+  description: Forty-seven men of Su-shén were entertained on the occasion when Mount
+    Sumi was built.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: maker of clepsydra
+  assigned_to:
+  - fig:1
+  basis: The passage says the Prince Imperial for the first time made a clepsydra.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: recipients of time knowledge
+  assigned_to:
+  - fig:2
+  basis: The clepsydra caused the people to know the hours.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: presenter to the Empress
+  assigned_to:
+  - fig:3
+  basis: Abe no Hikida no Omi presented more than fifty people to the Empress.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: royal recipient
+  assigned_to:
+  - fig:4
+  basis: The Empress is the recipient of the people presented by Abe no Hikida no
+    Omi.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: presented group
+  assigned_to:
+  - fig:5
+  basis: The passage describes more than fifty people as being presented to the Empress.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: entertained foreign group
+  assigned_to:
+  - fig:6
+  basis: The passage states that forty-seven men of Su-shén were entertained.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: raised seats
+  literal_form: one hundred raised seats, explained in a note as square daises from
+    which priests delivered lectures
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: Nokesa garments
+  literal_form: one hundred Nokesa, explained in a note as a kind of Buddhist priestly
+    garment
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: clepsydra
+  literal_form: water clock made by the Prince Imperial to mark the hours
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Mount Sumi
+  literal_form: a constructed Mount Sumi near the pond of Iso no Kami, as high as
+    a pagoda
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: pond of Iso no Kami
+  literal_form: pond near which Mount Sumi was built
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Ninwo Hanya meeting
+  summary: A Ninwo Hanya meeting is held with one hundred raised seats and one hundred
+    Nokesa garments; notes identify the meeting as connected with reading the Ninwo
+    Hanya Sutra.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: First clepsydra made
+  summary: The Prince Imperial makes a clepsydra, which lets the people know the hours.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Presentation to the Empress
+  summary: Abe no Hikida no Omi presents more than fifty people described as savages
+    to the Empress.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Mount Sumi and entertained Su-shén men
+  summary: A Mount Sumi is built near the pond of Iso no Kami, and forty-seven men
+    of Su-shén are entertained on that occasion.
+  figure_refs:
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: institution of timekeeping for the populace
+  taxonomy_refs:
+  - wisdom
+  basis: The Prince Imperial makes a clepsydra and uses it to enable the people to
+    know the hours.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage frames this as a courtly technological first rather than an
+    explicit mythic revelation; the taxonomy link to wisdom is functional and should
+    be reviewed.
+- id: motif:2
+  label: Buddhist royal ritual assembly
+  taxonomy_refs: []
+  basis: The passage records a Ninwo Hanya meeting using raised seats and Nokesa garments,
+    with notes connecting the meeting to a sutra reading.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage supplies ritual details but does not explicitly state the
+    ritual's purpose beyond the meeting and sutra reading.
+- id: motif:3
+  label: constructed sacred mountain display
+  taxonomy_refs: []
+  basis: A Mount Sumi is built near a pond and becomes the occasion for entertaining
+    men of Su-shén.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: low
+  cautions: The passage names Mount Sumi and gives its setting and height, but does
+    not explain its cosmological meaning in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14894-14897
+  quote_or_summary: The passage says there were one hundred raised seats and one hundred
+    Nokesa, and that a Ninwo Hanya meeting was held.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: note
+  locator: lines 14914-14923
+  quote_or_summary: Notes explain raised seats as square daises for priestly lectures,
+    Nokesa as a Buddhist priestly garment, and Hanya as Prajna; the meeting was to
+    hear the Ninwo Hanya Sutra.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 14899-14901
+  quote_or_summary: The Prince Imperial first made a clepsydra, by which he caused
+    the people to know the hours.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:4
+  type: summary
+  locator: lines 14903-14905
+  quote_or_summary: Abe no Hikida no Omi presented more than fifty people described
+    as savages to the Empress.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:5
+  type: note
+  locator: line 14930
+  quote_or_summary: The translator's note says the people described as savages were
+    probably Ainos or Yemishi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:6
+  type: summary
+  locator: lines 14907-14912
+  quote_or_summary: A Mount Sumi was built near the pond of Iso no Kami, as high as
+    a pagoda.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:7
+  type: summary
+  locator: lines 14912-14913
+  quote_or_summary: On the occasion of the Mount Sumi construction, forty-seven men
+    of Su-shén were entertained.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is mostly direct, but the excerpt is a chronicle notice
+    with OCR/page artifacts and limited context. Motif identifications are cautious
+    because the passage does not explicitly interpret the ritual, clepsydra, or Mount
+    Sumi.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. No comparison claims were added because the passage itself does not make comparative claims.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l14894-l14930
+  passage_sha256=92754d11ed4def2be737089c2ef26cec540a5c5d4023738b0b9acc285f600beb
+

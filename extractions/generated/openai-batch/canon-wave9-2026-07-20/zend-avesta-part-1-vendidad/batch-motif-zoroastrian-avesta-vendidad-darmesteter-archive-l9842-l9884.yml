@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l9842-l9884
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: IOO VENDIDAD. / FARGARD VIII. 101 / FARGARD VIII. / FARGARD VIII. IO5; lines
+    9842-9884
+  start: '9842'
+  end: '9884'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives part of a cleansing procedure: hands must be washed
+    first, then water is sprinkled on the forepart of the skull. A question-and-answer
+    sequence asks where the Druj/Drug Nasu rushes when the good waters reach successive
+    parts of the head. Ahura Mazda answers with body locations, and a note summarizes
+    the Nasu as expelled symmetrically downward through the body.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: If the hands are not washed first, the whole body is made unclean.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After the hands have been washed three times, water is to be sprinkled on
+    the forepart of the skull.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage repeatedly asks where the Druj/Drug Nasu rushes when the good
+    waters reach a particular body part.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:4
+  text: Ahura Mazda answers that the Nasu rushes successively to locations including
+    between the brows, the back of the skull, the jaws, and the right ear.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:5
+  text: A note states that the Nasu is expelled symmetrically, from right to left,
+    from forepart to back parts, and downward from the top of the head to the tips
+    of the toes.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named answerer in the question-and-answer sequence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Druj/Drug Nasu
+  description: Named presence that rushes from one body location to another when the
+    good waters reach those places; the note describes the Nasu as expelled.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Unnamed person being washed
+  description: The person whose hands, body, skull, brows, jaws, and ear are involved
+    in the cleansing sequence.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine respondent
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda is named as the one who answers the ritual questions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: expelled contaminating presence
+  assigned_to:
+  - fig:2
+  basis: The Nasu rushes from body part to body part as the good waters reach them,
+    and the note states that the Nasu is expelled.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: body undergoing cleansing
+  assigned_to:
+  - fig:3
+  basis: The passage describes the washing of the person's hands and the sprinkling
+    or reaching of water on parts of the person's head.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: good waters
+  literal_form: Water used in washing and sprinkling, described as reaching successive
+    body parts.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: threefold hand washing
+  literal_form: The hands are washed three times before water is sprinkled on the
+    skull.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: body-part path of expulsion
+  literal_form: Forepart of skull, between the brows, back of skull, jaws, right ear,
+    and the downward path from head to toes described in the note.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Initial washing and sprinkling instruction
+  summary: The procedure requires washing the hands first; after three washings, water
+    is sprinkled on the forepart of the skull.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question-and-answer on the movement of the Nasu
+  summary: Questions ask where the Nasu rushes as the good waters reach successive
+    head locations, and Ahura Mazda answers with the next locations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Summary note on symmetric expulsion
+  summary: The note explains the overall pattern as a symmetric expulsion of the Nasu
+    downward through the body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual purification by water
+  taxonomy_refs: []
+  basis: The passage links hand washing, sprinkling with water, and the movement or
+    expulsion of the Nasu as the good waters reach body parts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The supplied motif-family taxonomy does not include a dedicated purification
+    category, so no motif-family taxonomy ref is assigned.
+- id: motif:2
+  label: sequential displacement of impurity through the body
+  taxonomy_refs: []
+  basis: The Nasu is described as rushing from one bodily location to another, and
+    the note summarizes a right-to-left, fore-to-back, downward expulsion pattern.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The exact body-part sequence is only partly contained in this passage
+    range; the note indicates a larger sequence beyond the excerpt.
+- id: motif:3
+  label: clean and unclean opposition
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts uncleanness of the body with the action of the good
+    waters and the expelled Nasu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage supports a ritual clean/unclean contrast, but it does not
+    explicitly state a broad cosmic dualism in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9842-9846
+  quote_or_summary: If hands are not washed first, the body becomes unclean; after
+    the hands are washed three times, water is sprinkled on the forepart of the skull.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:2
+  type: summary
+  locator: 9847-9855
+  quote_or_summary: A question asks where the Druj/Drug Nasu rushes when the good
+    waters reach the forepart of the skull; Ahura Mazda answers that it rushes in
+    front, between the brows.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:3
+  type: summary
+  locator: 9856-9864
+  quote_or_summary: When the good waters reach between the brows, Ahura Mazda says
+    the Nasu rushes to the back part of the skull; when the waters reach the back
+    of the skull, it rushes in front on the jaws.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:4
+  type: summary
+  locator: 9865-9877
+  quote_or_summary: When the good waters reach the jaws, Ahura Mazda says the Nasu
+    rushes upon the right ear; the next question asks where it rushes when the waters
+    reach the right ear.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+- id: ev:5
+  type: summary
+  locator: 9878-9884
+  quote_or_summary: A note explains that the Nasu is expelled symmetrically, from
+    limb to limb, right side to left, forepart to back parts, and downward from the
+    head to the toes.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized rather than extensively quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal ritual sequence is clear, though OCR variants affect the printed
+    form of the Nasu name. Motif labels are descriptive and should be reviewed, especially
+    the optional linkage to the broad duality taxonomy family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains OCR-like variants for the name rendered here as Druj/Drug Nasu. No cross-tradition comparison claims were extracted because the passage itself does not provide comparative evidence.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l9842-l9884
+  passage_sha256=86bbde9f227ac11f15a7d589a4f077e741bc1c6b9a67f8a0d4b3004bcbb43a52
+

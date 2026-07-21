@@ -1,0 +1,550 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l21479-l21534
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 481. / A.D. 482. / XV. 6. / K ENZO. 377; lines 21479-21534
+  start: '21479'
+  end: '21534'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage records court events near the end of one emperor’s reign:
+    overseas envoys bring tribute, are feasted, and receive presents; a five-day national
+    drinking festival is held; prisoners are inspected; the Yemishi and Hayato render
+    homage; an archery gathering is held; the emperor dies and is buried. It then
+    introduces Emperor Woke by alternate name and genealogy.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Various outlying provinces beyond the sea sent envoys with tribute.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The envoys were feasted in the Audience Hall and received presents of varying
+    value.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A national drinking festival lasted five days.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Emperor personally inspected prisoners.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: On the same day as the inspection, the Yemishi and Hayato together rendered
+    homage.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Emperor was present in the Hall of Archery, invited functionaries and
+    envoys from beyond the sea to join in shooting, and distributed presents.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Emperor died in the Palace and was later buried in the misasagi on the
+    Sakato plain in Kahachi.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Emperor Woke is introduced with the alternate name Kume no Wakako and with
+    named grandfather, father, and mother.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A note mentions that the history of the Chinese Emperor Ming Ti records a
+    great drinking festival lasting five days.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: The Emperor in the Kenzo annals
+  description: The reigning emperor who hosts or oversees court events, inspects prisoners,
+    attends the archery hall, dies in the palace, and is buried on the Sakato plain.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Envoys from outlying provinces beyond the sea
+  description: Envoys who come with tribute, are feasted, receive presents, and are
+    invited to join in shooting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: Functionaries
+  description: Court functionaries invited to join in shooting at the Hall of Archery.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Prisoners
+  description: Prisoners personally inspected by the Emperor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Yemishi
+  description: A group that rendered homage together with the Hayato.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Hayato
+  description: A group that rendered homage together with the Yemishi.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Emperor Woke / Kume no Wakako
+  description: The emperor introduced after the burial notice; he is identified by
+    alternate name and genealogy.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Emperor Ohoye no Izaho-wake
+  description: Named as the grandfather of Emperor Woke.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Imperial Prince Ichinobe no Oshiha
+  description: Named as the father of Emperor Woke.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: Hayehime
+  description: Named as the mother of Emperor Woke.
+  role_refs:
+  - role:10
+  evidence_refs:
+  - ev:7
+- id: fig:11
+  name_or_label: Chinese Emperor Ming Ti
+  description: Mentioned in a note as the emperor whose history records a great drinking
+    festival lasting five days.
+  role_refs:
+  - role:11
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: reigning emperor
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly identifies actions of 'The Emperor' in the Kenzo annals
+    and records his death and burial.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: court host and gift distributor
+  assigned_to:
+  - fig:1
+  basis: The emperor’s court feasts envoys, distributes presents, and convenes an
+    archery gathering.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: tribute-bearing envoys and court guests
+  assigned_to:
+  - fig:2
+  basis: The envoys bring tribute, attend the Audience Hall feast, receive presents,
+    and join in shooting.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:4
+  label: court functionaries invited to shoot
+  assigned_to:
+  - fig:3
+  basis: Functionaries are invited to join in shooting at the Hall of Archery.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: prisoners under royal inspection
+  assigned_to:
+  - fig:4
+  basis: The Emperor personally holds an inspection of prisoners.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: homage-rendering groups
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The Yemishi and Hayato together render homage.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: genealogically introduced emperor
+  assigned_to:
+  - fig:7
+  basis: Emperor Woke is identified by alternate name and by descent from named imperial
+    and maternal figures.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: imperial grandfather
+  assigned_to:
+  - fig:8
+  basis: Emperor Ohoye no Izaho-wake is named as the grandfather of Emperor Woke.
+  evidence_refs:
+  - ev:7
+- id: role:9
+  label: imperial father
+  assigned_to:
+  - fig:9
+  basis: Imperial Prince Ichinobe no Oshiha is named as the father of Emperor Woke.
+  evidence_refs:
+  - ev:7
+- id: role:10
+  label: mother of the emperor
+  assigned_to:
+  - fig:10
+  basis: Hayehime is named as Emperor Woke’s mother.
+  evidence_refs:
+  - ev:7
+- id: role:11
+  label: comparative ruler in note
+  assigned_to:
+  - fig:11
+  basis: A note cites Chinese Emperor Ming Ti in connection with another five-day
+    drinking festival.
+  evidence_refs:
+  - ev:8
+symbols:
+- id: sym:1
+  label: tribute
+  literal_form: tribute sent by envoys from outlying provinces beyond the sea
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: presents of varying value
+  literal_form: presents given to envoys and later to archery participants
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: Audience Hall
+  literal_form: the hall where envoys were feasted
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: five-day drinking festival
+  literal_form: a national drinking festival lasting five days; a note also mentions
+    a great drinking festival lasting five days in Ming Ti’s history
+  associated_figures:
+  - fig:11
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:5
+  label: homage
+  literal_form: homage rendered by the Yemishi and Hayato
+  associated_figures:
+  - fig:1
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: Hall of Archery and shooting
+  literal_form: the Hall of Archery and the shooting joined by functionaries and envoys
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: misasagi on the Sakato plain
+  literal_form: the emperor’s burial place on the Sakato plain in Kahachi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Overseas tribute and Audience Hall feast
+  summary: Envoys from outlying provinces beyond the sea bring tribute, are feasted
+    in the Audience Hall, and receive presents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Five-day national drinking festival
+  summary: A national drinking festival is held and lasts five days.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Prisoner inspection and homage
+  summary: The Emperor personally inspects prisoners, and the Yemishi and Hayato render
+    homage on the same day.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Archery hall gathering
+  summary: The Emperor attends the Hall of Archery, invites functionaries and envoys
+    from beyond the sea to join in shooting, and gives presents.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Imperial death and burial
+  summary: The Emperor dies in the Palace and is later buried in the misasagi on the
+    Sakato plain in Kahachi.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Introduction of Emperor Woke by lineage
+  summary: Emperor Woke, also called Kume no Wakako, is introduced through his grandfather,
+    father, and mother.
+  figure_refs:
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Tributary embassy and royal redistribution
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Envoys from beyond the sea bring tribute, are received at court, and receive
+    presents; later functionaries and envoys receive presents at an archery gathering.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage presents administrative court ritual rather than an explicit
+    mythic episode; the royal-legitimacy taxonomy is inferred from tribute reception
+    and court distribution.
+- id: motif:2
+  label: Homage by frontier or outside groups
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Yemishi and Hayato together render homage to the Emperor on the day he
+    inspects prisoners.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the political or ritual background of the
+    homage.
+- id: motif:3
+  label: Five-day public drinking festival
+  taxonomy_refs: []
+  basis: The annal records a national drinking festival lasting five days, and the
+    note points to another five-day drinking festival in the history of Chinese Emperor
+    Ming Ti.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The passage gives duration and type of festival but does not describe
+    ritual meaning, participants, or origin.
+- id: motif:4
+  label: Royal inspection of prisoners
+  taxonomy_refs: []
+  basis: The Emperor personally conducts an inspection of prisoners.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: A note suggests a possible sense of release, but the main passage only
+    states inspection; no pardon narrative is explicit in the supplied text.
+- id: motif:5
+  label: Imperial death and burial in named tomb-place
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Emperor dies in the Palace and is buried in a named misasagi on the Sakato
+    plain in Kahachi.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The burial notice is terse and does not elaborate funerary ritual or mythic
+    meaning.
+- id: motif:6
+  label: Genealogical legitimation of a ruler
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Emperor Woke is introduced by alternate name and descent from a prior emperor,
+    an imperial prince, and a named mother.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage gives lineage but does not narrate a succession contest or
+    explicit claim-making speech.
+comparison_claims:
+- id: claim:1
+  claim: The note identifies a parallel between the annal’s five-day national drinking
+    festival and a great five-day drinking festival mentioned in the history of Chinese
+    Emperor Ming Ti.
+  claim_level: same_motif
+  target: 'History of the Chinese Emperor Ming Ti: great drinking festival lasting
+    five days'
+  evidence_refs:
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage supports only a cautious motif-level parallel
+    in festival type and duration; it does not establish historical contact, borrowing,
+    shared ritual meaning, or common inheritance.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21482-21483
+  quote_or_summary: the various outlying provinces beyond the sea all sent envoys
+    with tribute.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 21485-21488
+  quote_or_summary: The envoys ... were feasted in the Audience Hall, and received
+    presents of various values.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 21488-21490
+  quote_or_summary: There was a national drinking festival, which lasted five days.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 21491-21494
+  quote_or_summary: The Emperor personally held an inspection of prisoners. On this
+    day the Yemishi and Hayato together rendered homage.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; short excerpt.
+- id: ev:5
+  type: quote
+  locator: lines 21496-21499
+  quote_or_summary: He invited the functionaries and the envoys from beyond the sea
+    to join in the shooting. Each received presents...
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; short excerpt.
+- id: ev:6
+  type: summary
+  locator: lines 21501-21505
+  quote_or_summary: The Emperor died in the Palace and was buried in the misasagi
+    on the Sakato plain in Kahachi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 21507-21513
+  quote_or_summary: Emperor Woke, otherwise called Kume no Wakako, is described as
+    grandchild of Emperor Ohoye no Izaho-wake, son of Imperial Prince Ichinobe no
+    Oshiha, and child of Hayehime.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized.
+- id: ev:8
+  type: quote
+  locator: lines 21515-21516
+  quote_or_summary: The History of the Chinese Emperor Ming Ti (58—75 A.D.) has mention
+    of a great drinking festival lasting five days.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal court events and genealogical relationships are explicit. Motif assignments
+    are cautious because the passage is annalistic and rarely explains symbolic or
+    ritual meaning. The comparison claim is limited to the explicit translator’s note
+    about a five-day drinking festival.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs such as cave, fire, milk, mountain, serpent, tree, or water are directly supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l21479-l21534
+  passage_sha256=0f6226a3e0a3e5d2ee1aa6de003249572cef11ad6e91a7b030d388ea2ab3041a
+

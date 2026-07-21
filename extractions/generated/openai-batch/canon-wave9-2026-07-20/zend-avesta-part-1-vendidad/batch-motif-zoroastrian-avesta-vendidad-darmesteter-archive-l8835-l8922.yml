@@ -1,0 +1,395 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l8835-l8922
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD VII. 77 / FARGARD VII. 79 / FARGARD VII. 8 I / FARGARD VII. 83; lines
+    8835-8922
+  start: '8835'
+  end: '8922'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives rules for handling corn around dead matter and cleansing
+    it by sprinkling water. It then states that a would-be healer should first prove
+    his skill on worshippers of the Daevas: three fatal knife treatments make him
+    permanently unfit, while three successful recoveries make him permanently fit
+    to treat and heal worshippers of Mazda.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: When the Nasu has already been struck by corpse-eating dogs or birds, corn
+    is to be laid apart on the ground around the dead matter, with the distance depending
+    on whether the corn is dry or wet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The corn is to be sprinkled once with water, after which it is declared clean.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The required treatment of corn around dead matter is specified according to
+    conditions such as dry or wet, sown or not sown, reaped or not reaped, ground
+    or not ground, and kneaded or not kneaded.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A question asks whether a Mazda-worshipping person who wants to practice healing
+    should first prove his skill on worshippers of Mazda or on worshippers of the
+    Daevas.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Ahura Mazda answers that the healer should first prove himself on worshippers
+    of the Daevas rather than on worshippers of Mazda.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: If the healer treats three worshippers of the Daevas with the knife and each
+    dies, he is permanently unfit to practice healing.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A healer who has become unfit must not attend or wound a worshipper of Mazda
+    with the knife; if he does, he must pay the same penalty as for wilful murder.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: If the healer treats three worshippers of the Daevas with the knife and each
+    recovers, he is permanently fit to practice healing.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After being qualified, the healer may attend worshippers of Mazda and heal
+    them with the knife.
+  category: action
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The speaker who answers the question about how a healer should prove
+    his skill.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: would-be healer who is a worshipper of Mazda
+  description: A Mazda-worshipping person who wants to practice the art of healing
+    and whose fitness is tested through knife treatments.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: worshippers of the Daevas
+  description: The group on whom the would-be healer must first prove his skill, either
+    fatally or successfully.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:4
+  name_or_label: worshippers of Mazda
+  description: The group whom an unfit healer must not treat, and whom a qualified
+    healer may later attend and heal.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:8
+- id: fig:5
+  name_or_label: corpse-eating dogs and corpse-eating birds
+  description: Animals mentioned as having already struck the Nasu in the rule about
+    dead matter and corn.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: divine respondent and legal instructor
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers the procedural question about proving a healer's skill.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: candidate healer under probation
+  assigned_to:
+  - fig:2
+  basis: The person wants to practice healing and must prove skill before being allowed
+    to heal Mazda-worshippers.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+- id: role:3
+  label: initial test-patient group
+  assigned_to:
+  - fig:3
+  basis: The healer is instructed to prove himself first on worshippers of the Daevas.
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: role:4
+  label: protected and later authorized patient group
+  assigned_to:
+  - fig:4
+  basis: An unfit healer must not treat worshippers of Mazda, but a qualified healer
+    may later attend and heal them.
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: role:5
+  label: corpse-eating animals
+  assigned_to:
+  - fig:5
+  basis: Dogs and birds are described as corpse-eating and as having struck the Nasu.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: water for cleansing
+  literal_form: water sprinkled once over the corn/dead-matter area
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: corn laid around dead matter
+  literal_form: corn laid apart on the ground around dead matter
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: knife for treatment
+  literal_form: knife used to treat, wound, or heal patients
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: sym:4
+  label: Nasu or dead matter
+  literal_form: Nasu and dead matter around which corn is laid
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: threefold threshold
+  literal_form: three treatments ending in death or three treatments ending in recovery
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+scenes:
+- id: scene:1
+  label: Corn boundary and water cleansing around dead matter
+  summary: Corn is laid on the ground around dead matter according to specified measures
+    and conditions, then sprinkled once with water and declared clean.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Question and answer on where the healer should prove himself
+  summary: A question asks whether a Mazda-worshipping would-be healer should first
+    prove skill on Mazda-worshippers or Daeva-worshippers; Ahura Mazda answers that
+    he should first prove himself on Daeva-worshippers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Three failed knife treatments and disqualification
+  summary: If the healer's knife treatment causes three Daeva-worshippers to die,
+    he is forever unfit and must not treat Mazda-worshippers; doing so incurs the
+    penalty for wilful murder.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Three successful knife treatments and authorization
+  summary: If three Daeva-worshippers recover after knife treatment, the healer becomes
+    forever fit and may treat and heal Mazda-worshippers.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: ritual cleansing of corpse-contaminated matter by prescribed measures and
+    water
+  taxonomy_refs: []
+  basis: The passage prescribes arranging corn around dead matter and sprinkling it
+    once with water so that it becomes clean.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available motif-family list has no exact purification category; this
+    is a ritual-legal pattern rather than a narrative myth episode.
+- id: motif:2
+  label: threefold probationary trial before authorization
+  taxonomy_refs:
+  - initiation
+  basis: A would-be healer becomes permanently unfit after three fatal trials but
+    permanently fit after three successful recoveries, after which he may treat Mazda-worshippers.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage frames this as a legal-medical qualification rule; mapping
+    it to initiation is approximate and should be reviewed.
+- id: motif:3
+  label: ambivalent knife as instrument of healing and punishable wounding
+  taxonomy_refs: []
+  basis: The same knife is used in treatments that may kill, wound, or heal, and unlawful
+    treatment of Mazda-worshippers is penalized like wilful murder.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is a symbolic pattern in the legal instruction, not an explicit mythic
+    emblem named by the text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8835-8848
+  quote_or_summary: If the Nasu has been struck by corpse-eating dogs or birds, corn
+    is laid apart on the ground around the dead matter, with different surrounding
+    lengths for dry and wet corn.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 8848-8852
+  quote_or_summary: '"then they shall sprinkle it once over with water, and it shall
+    be clean."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; short excerpt from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 8853-8863
+  quote_or_summary: The quantity of corn around dead matter is specified according
+    to whether it is dry or wet, sown or not, reaped or not, ground or not, and kneaded
+    or not; it is then sprinkled once with water and made clean.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 8864-8872
+  quote_or_summary: 'A question asks on whom a Mazda-worshipping person who wants
+    to practice healing should first prove his skill: on worshippers of Mazda or worshippers
+    of the Daevas.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 8873-8887
+  quote_or_summary: Ahura Mazda answers that the healer should first prove himself
+    on worshippers of the Daevas; if three such knife treatments end in death, he
+    is unfit to practice healing forever.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:6
+  type: summary
+  locator: lines 8888-8900
+  quote_or_summary: An unfit healer must never attend or wound a worshipper of Mazda
+    with the knife; if he does, he must pay the same penalty as for wilful murder.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:7
+  type: summary
+  locator: lines 8901-8912
+  quote_or_summary: If three Daeva-worshippers recover after being treated with the
+    knife, the healer is fit to practice healing forever.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+- id: ev:8
+  type: summary
+  locator: lines 8913-8917
+  quote_or_summary: After qualification, the healer may attend worshippers of Mazda
+    and heal them with the knife.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain translation; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labeling is cautious because
+    the passage is primarily ritual and legal instruction, not narrative myth. No
+    comparison claims are made because the passage itself gives no explicit comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external identifications or comparisons added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l8835-l8922
+  passage_sha256=3d5c7ec5fa38b6449b7766a6456c3d3cf00fdc383ebf1ba7197ee817c08f7f7e
+

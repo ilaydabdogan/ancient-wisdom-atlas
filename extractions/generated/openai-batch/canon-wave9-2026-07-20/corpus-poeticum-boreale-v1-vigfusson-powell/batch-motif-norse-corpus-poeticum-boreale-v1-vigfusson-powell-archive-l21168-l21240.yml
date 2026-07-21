@@ -1,0 +1,358 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21168-l21240
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 425 / OF THE OLD NORTHMEN. 427 / OF THE OLD NORTHMEN.
+    429 / OF THE OLD NORTHMEN. 431; lines 21168-21240
+  start: '21168'
+  end: '21240'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes describe Old Norse and Icelandic month names, important
+    feast and calendar days, seasonal 'tides' named from farming, fishing, birds,
+    and labor, a probable spring beginning of the old year, and reckoning by nights
+    in connection with lunar and stellar observation.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Snorri is said to name all the months, while the Sagas are said to name Tway-month
+    and to give only a smaller set of month names.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: obs:2
+  text: Thorri and Goi are described as personified in Flatey-bok and Orkney Saga,
+    and Thorri, Goi, and Einmanudr are said to remain in use.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage lists important days of the year, including Thirteenth night,
+    the First Day of Summer with New-year gifts, and several Church days.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Roman month names are described as unknown in popular use except as book dates,
+    and printed Icelandic almanacs are cautioned against as evidence for popular reckoning.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Icelandic 'tid' or seasons are named from sheep-farming, markets, haymaking,
+    wild birds and eider-ducks, fishing, and servant-moving days.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old year is said to have begun in spring, inferred from the name One Month
+    and compared with Old English reckoning beginning on March 25.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The old use of reckoning by night rather than day is connected with observing
+    the moon and stars during an ancient lunar year; days are still said to be counted
+    by nights in Iceland.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A note states that in ancient Norway summer began on Saturday, with an example
+    from Hakon Saga concerning Easter eve in 1240.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: Snorri's listed months include markers for the first month in winter and the
+    first in summer, and the note says the Sagas give only Thorri, Goi, Einmanudr,
+    and Tvi-manodr.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Snorri
+  description: Named source said to give the list of the months.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: fig:2
+  name_or_label: Thorri
+  description: Month name still used and said to be personified in Flatey-bok and
+    Orkney Saga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Goi
+  description: Month name still used and said to be personified in Flatey-bok and
+    Orkney Saga.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: calendar source authority
+  assigned_to:
+  - fig:1
+  basis: The passage says Snorri names all the months and gives a list of them.
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: role:2
+  label: personified month
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage directly states that Thorri and Goi are personified in named
+    saga sources.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: night as reckoning unit
+  literal_form: night
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: moon as year-teller
+  literal_form: moon observed for the lunar year and called 'Year-teller' in the cited
+    Alwismal reference
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: seasonal labor tides
+  literal_form: named tides such as Stekk-tide, Parting-tide, Market-tide, hay-time,
+    Folding-tide, Egg-tide, Fishing-tide, and Flitting-days
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: First Day of Summer
+  literal_form: calendar day on which New-year gifts are given
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: personified month names
+  literal_form: Thorri and Goi as month names treated as personified figures
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Month names and personified months
+  summary: The passage discusses month names in Snorri and the Sagas, notes current
+    use of Thorri, Goi, and Einmanudr, and states that Thorri and Goi are personified
+    in named sources.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:8
+- id: scene:2
+  label: Seasonal and festival calendar
+  summary: The passage lists important days and describes Icelandic seasons or tides
+    named from farming, fishing, birds, markets, haymaking, and household labor movement.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Spring year beginning and summer boundary
+  summary: The passage argues that the old year began in spring and notes a Norwegian
+    tradition in which summer began on Saturday.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: scene:4
+  label: Night and lunar reckoning
+  summary: The passage explains reckoning by nights rather than days through observation
+    of the moon and stars, with the moon called 'Year-teller' in a cited Eddic reference.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: seasonal-cycle calendar
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage organizes the year through important days, summer and winter
+    markers, spring year-beginning, and livelihood-based seasonal tides.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The evidence is antiquarian and calendrical rather than a narrative myth
+    episode.
+- id: motif:2
+  label: personified time divisions
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: Thorri and Goi are explicitly described as personified month names in Flatey-bok
+    and Orkney Saga.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage reports personification but does not narrate actions by these
+    figures.
+- id: motif:3
+  label: night-based lunar year-telling
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage links counting by nights with observation of the moon and stars
+    and cites the moon as 'Year-teller.'
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is presented as an explanatory note on time-reckoning, not as a developed
+    mythic scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares a spring beginning of the old year with Old
+    English reckoning in which the world was created and the year began on March 25.
+  claim_level: same_function
+  target: Old English March 25 year-beginning reckoning
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is editorial and functional; the passage does not establish
+    historical contact or a shared mythic narrative.
+- id: claim:2
+  claim: The passage connects reckoning by nights with Tacitus's notice and with English
+    terms such as 'se'ennight' and 'fortnight,' indicating a similar counting function.
+  claim_level: same_function
+  target: Tacitus's notice of night-reckoning and English night-counting terms
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives parallels but does not prove a specific line of transmission.
+- id: claim:3
+  claim: The cited Alwismal epithet 'Year-teller' supports the same calendrical function
+    of the moon as a marker for reckoning the year.
+  claim_level: same_function
+  target: Alwismal reference to the moon as 'Year-teller'
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Alwismal reference is quoted only briefly in an editorial aside
+    and is not expanded in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21168-21174
+  quote_or_summary: Snorri names all the months; the Sagas name Tway-month; Thorri,
+    Goi, and Einmanudr are now used; Thorri and Goi are personified in Flatey-bok
+    and Orkney Saga.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 21176-21180
+  quote_or_summary: Important days include Thirteenth night, the First Day of Summer
+    when New-year gifts are given, and major Church days.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 21181-21184
+  quote_or_summary: Roman months are described as book-dates rather than popular reckoning,
+    and printed almanacs are not to be taken as evidence for popular time-reckoning.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 21185-21195
+  quote_or_summary: Icelandic seasons or 'tid' are named from sheep-farming, market,
+    haymaking, folds, bird eggs, fishing seasons, and servant-moving days.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 21196-21199
+  quote_or_summary: The old year is argued to have begun in spring because 'one' means
+    'first' in One Month; this is compared with Old English reckoning that creation
+    and the year began on March 25.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 21200-21207
+  quote_or_summary: Reckoning by night rather than day is linked to the ancient lunar
+    year and observation of moon and stars; the moon is cited as 'Year-teller,' and
+    Iceland still counts days by nights.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; includes a short phrase from a public-domain passage.
+- id: ev:7
+  type: summary
+  locator: lines 21209-21214
+  quote_or_summary: A note says ancient Norwegian summer began on Saturday and cites
+    Hakon Saga's statement about Easter eve falling on the first day of summer in
+    1240.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 21216-21240
+  quote_or_summary: Snorri's month list is given, including a first month in winter
+    and a first in summer; the note says the Sagas only give Thorri, Goi, Einmanudr,
+    and Tvi-manodr.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a calendrical excursus rather than a mythic narrative, so
+    seasonal and personification motifs are extractable but should be reviewed for
+    Atlas relevance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries such as fire, water, tree, cave, mountain, serpent, or milk are directly present in the passage; symbol taxonomy refs were therefore left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21168-l21240
+  passage_sha256=55f0012171226f88fea8e8ea1961f41c2a0c7a47a0976345270c427bafaeaee6
+

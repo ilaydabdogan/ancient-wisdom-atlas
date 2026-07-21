@@ -1,0 +1,422 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l7736-l7764
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: COLORS / POINTS    OF    THE    COMPASS / DIVISIONS   OF    TIME / WEATHER   SIGNS;
+    lines 7736-7764
+  start: '7736'
+  end: '7764'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists Omaha weather signs: storms before the new moon and
+    in early February, lunar appearances, animal and insect behavior, morning mist,
+    nail spots, and a broken moccasin string are each described as signs of rain,
+    cold, clear weather, heat, the end of rain, spring, or summer.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A storm usually preceding the new moon is named as the hiding of the moon,
+    attributed to the storm’s action.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An early February severe storm or blizzard is named as the time when geese
+    come home hidden by the storm.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Soon after the early February storm, a few geese are said to be seen, followed
+    shortly by flocks.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A ring around the moon is described as a sign of rain.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The upward turning of the moon’s horns is described as a sign that cold weather
+    is coming.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Swarming fireflies are described as indicating rain during the night.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Birds singing in the early morning are described as indicating a clear day.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Morning mist is described as portending a hot day.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: After a long rain, horses pricking up their ears and playing are described
+    as indicating that the rain is over.
+  category: relationship
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: White spots on the nails are described as signs connected with spring, including
+    an assurance in winter that spring will come.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Breaking a moccasin string is described as a sign that summer is coming.
+  category: relationship
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: moon
+  description: The moon appears in relation to storms, a ring, and upward-turned horns.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: geese
+  description: Geese are said to come home hidden by an early February storm, with
+    a few appearing soon after and then flocks.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: fireflies
+  description: Fireflies are described as swarming before night rain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: birds
+  description: Birds are described as singing in the early morning before a clear
+    day.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: horses
+  description: Horses are described as pricking up their ears and playing after a
+    long rain when the rain is over.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: lunar weather indicator
+  assigned_to:
+  - fig:1
+  basis: The moon’s concealment by storm, surrounding ring, and upward-turned horns
+    are each linked to weather signs.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: seasonal return indicator
+  assigned_to:
+  - fig:2
+  basis: The early February storm is associated with geese coming home and being seen
+    soon afterward in increasing numbers.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: animal or insect weather indicator
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Firefly swarming, bird song, and horse behavior are each linked to a predicted
+    or recognized weather condition.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: storm hiding the moon
+  literal_form: storm before the new moon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: February storm hiding returning geese
+  literal_form: severe early February storm or blizzard
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ring around the moon
+  literal_form: lunar ring
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: upturned horns of the moon
+  literal_form: moon horns turned upward
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: swarming fireflies
+  literal_form: fireflies swarming
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: early morning bird song
+  literal_form: birds singing in the early morning
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:7
+  label: morning mist
+  literal_form: mist in the morning
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:8
+  label: horses pricking ears and playing
+  literal_form: horses prick up their ears and play after long rain
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:9
+  label: white spots on nails
+  literal_form: white spots on the nails
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:10
+  label: broken moccasin string
+  literal_form: break a moccasin string
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Storms marking moon concealment and goose return
+  summary: A storm before the new moon is named as the moon’s hiding, and an early
+    February storm is linked with geese coming home and appearing afterward.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Lunar signs for rain and cold
+  summary: A ring around the moon is interpreted as a rain sign, while upward-turned
+    moon horns are interpreted as a sign of coming cold.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Small natural signs for daily weather
+  summary: Swarming fireflies, early morning bird song, and morning mist are each
+    linked to night rain, a clear day, or a hot day.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:4
+  label: Horse behavior after long rain
+  summary: After a long rain, horses pricking their ears and playing indicate that
+    the rain has ended.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:8
+- id: scene:5
+  label: Bodily and clothing signs of seasonal arrival
+  summary: White nail spots are linked with spring, and a broken moccasin string is
+    linked with the coming of summer.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  - sym:10
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Weather omens from natural signs
+  taxonomy_refs: []
+  basis: The passage explicitly presents multiple observed phenomena as signs of rain,
+    cold, clear weather, heat, or the end of rain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: This is an ethnographic list of signs rather than a narrative mythic episode.
+- id: motif:2
+  label: Seasonal cycle marked by storms, animals, and small signs
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The February storm and geese, white nail spots, and broken moccasin string
+    are all associated with the approach or presence of spring or summer.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  - ev:10
+  confidence: high
+  cautions: The available taxonomy contains a broad seasonal_cycle category; the passage
+    gives practical signs rather than a full seasonal myth.
+- id: motif:3
+  label: Moon as weather sign
+  taxonomy_refs: []
+  basis: The passage links the moon’s hiding, ring, and upward-turned horns with storms,
+    rain, and cold weather.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage records weather lore concerning the moon, not a personified
+    lunar myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7736-7739
+  quote_or_summary: A storm that usually precedes the new moon is called Mia/nonxthe,
+    glossed as the hiding of the moon by the storm.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:2
+  type: summary
+  locator: lines 7740-7745
+  quote_or_summary: An early February severe storm or blizzard is named as geese coming
+    home hidden by the storm; soon after, a few geese and then flocks are seen.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:3
+  type: summary
+  locator: line 7746
+  quote_or_summary: A ring around the moon is stated to be a sign of rain.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:4
+  type: summary
+  locator: lines 7747-7748
+  quote_or_summary: When the horns of the moon are turned upward, cold weather is
+    said to be coming.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:5
+  type: summary
+  locator: line 7749
+  quote_or_summary: Swarming fireflies are said to indicate rain during the night.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:6
+  type: summary
+  locator: line 7750
+  quote_or_summary: Birds singing in the early morning are said to indicate a clear
+    day.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:7
+  type: summary
+  locator: line 7751
+  quote_or_summary: Morning mist is said to portend a hot day.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:8
+  type: summary
+  locator: lines 7752-7754
+  quote_or_summary: After a long rain, horses pricking up their ears and playing are
+    taken as a sign that the rain is over.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:9
+  type: summary
+  locator: lines 7755-7762
+  quote_or_summary: White spots on the nails are said to betoken spring, with seasonal
+    interpretations for summer and winter appearances.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+- id: ev:10
+  type: summary
+  locator: lines 7763-7764
+  quote_or_summary: Breaking a moccasin string is said to be a sign that summer is
+    coming.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: public_domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal weather-sign list is clear. Motif labeling is broader because
+    the passage is practical ethnographic weather lore rather than a myth narrative.
+    No comparison claims were made because the passage itself does not provide comparative
+    framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; taxonomy references are limited to explicitly supported seasonal_cycle.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l7736-l7764
+  passage_sha256=8c5958506104db767a8381b1210572b49b5c1d9b2e321c973691c98dd26edb7a
+

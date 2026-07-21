@@ -1,0 +1,403 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l770-l917
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: INTRODUCTION. XV / XX INTRODUCTION. / ABBREVIATIONS. / NILHONGI; lines 770-917
+  start: '770'
+  end: '917'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Book I, “The Age of the Gods.” It describes an original
+    state in which Heaven and Earth and the Im/Yo principles are undivided in an egg-like
+    chaotic mass. The clearer element forms Heaven, the grosser element settles as
+    Earth, divine beings arise between them, land-soil floats like a fish on water,
+    and a reed-shoot-like thing becomes the deity Kuni-toko-tachi no Mikoto, followed
+    by two further deities.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Heaven and Earth are initially not separated, and Im and Yo are not divided.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The primordial condition is compared to an egg-like chaotic mass with obscure
+    limits and germs.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The purer and clearer part forms Heaven, while the heavier and grosser element
+    settles and becomes Earth.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Heaven is formed first, and Earth is established afterward.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Divine beings are produced between Heaven and Earth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The soil of lands floats about like a fish sporting on the surface of water.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A certain thing produced between Heaven and Earth has the form of a reed-shoot
+    and becomes transformed into a god named Kuni-toko-tachi no Mikoto.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Two further deities are named after Kuni-toko-tachi no Mikoto, making three
+    deities in all.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note glosses Im and Yo as Yin and Yang, or female and male principles of
+    Chinese philosophy.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Divine Beings
+  description: Unnamed divine beings produced between Heaven and Earth after Heaven
+    and Earth are formed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Kuni-toko-tachi no Mikoto
+  description: A god transformed from a reed-shoot-like thing produced between Heaven
+    and Earth.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Kuni no sa-tsuchi no Mikoto
+  description: A deity named after Kuni-toko-tachi no Mikoto.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Toyo-kumu-nu no Mikoto
+  description: A deity named after Kuni no sa-tsuchi no Mikoto; the three are counted
+    together as deities.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: primordial divine beings between Heaven and Earth
+  assigned_to:
+  - fig:1
+  basis: The passage states that divine beings were produced between Heaven and Earth
+    after the formation of Heaven and Earth.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: reed-shoot-transformed deity
+  assigned_to:
+  - fig:2
+  basis: Kuni-toko-tachi no Mikoto is named as the god into which the reed-shoot-like
+    thing became transformed.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: member of the first named triad of deities
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage names Kuni-toko-tachi no Mikoto, then two further deities, and
+    states that there are three deities in all.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: egg-like chaotic mass
+  literal_form: Chaotic mass like an egg with obscure limits and germs
+  associated_figures: []
+  taxonomy_refs:
+  - cosmic_egg
+  - chaos
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: undivided Im and Yo
+  literal_form: Im and Yo, glossed as Yin and Yang or female and male principles
+  associated_figures: []
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:3
+  label: Heaven and Earth separation
+  literal_form: Heaven formed from the purer clearer part; Earth formed from the heavier
+    grosser element
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - duality
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: primordial water surface
+  literal_form: Surface of the water on which land-soil is compared to a floating
+    fish
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: reed-shoot-like emergence
+  literal_form: A thing in the form of a reed-shoot produced between Heaven and Earth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Undivided primordial chaos
+  summary: Before Heaven and Earth are separated, Im and Yo are undivided and all
+    forms an egg-like chaotic mass containing germs.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Formation of Heaven and Earth
+  summary: The purer and clearer element forms Heaven, while the heavier and grosser
+    element settles as Earth; Heaven is formed first and Earth later.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Divine beings and floating lands
+  summary: Divine beings are produced between Heaven and Earth, and the soil of lands
+    floats like a fish on the surface of water.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Reed-shoot transformation and first deities
+  summary: A reed-shoot-like thing produced between Heaven and Earth becomes Kuni-toko-tachi
+    no Mikoto, followed by Kuni no sa-tsuchi no Mikoto and Toyo-kumu-nu no Mikoto.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Primordial chaos before cosmic separation
+  taxonomy_refs:
+  - chaos
+  basis: The opening describes Heaven and Earth as not yet separated and all things
+    as an egg-like chaotic mass.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage uses compressed cosmological language and includes translator/editorial
+    notes around the narrative.
+- id: motif:2
+  label: Cosmic egg-like beginning
+  taxonomy_refs:
+  - cosmic_egg
+  basis: The primordial chaotic mass is explicitly compared to an egg with obscure
+    limits and germs.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The egg is presented as a comparison rather than necessarily as a literal
+    egg-object.
+- id: motif:3
+  label: Cosmic duality of light and heavy elements
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts Im/Yo, pure/clear versus heavy/gross elements, and
+    Heaven versus Earth.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: medium
+  cautions: The duality reading is supported by the passage and note, but the narrative
+    itself does not elaborate a full doctrine of Yin/Yang.
+- id: motif:4
+  label: Primordial floating land on water
+  taxonomy_refs: []
+  basis: The soil of lands is described as floating like a fish on the surface of
+    water during the beginning of the world.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The fish image is a simile for floating land-soil, not a separate actor.
+- id: motif:5
+  label: Divine emergence from reed-shoot-like form
+  taxonomy_refs:
+  - sacred_birth
+  basis: A thing shaped like a reed-shoot is produced between Heaven and Earth and
+    transforms into a god.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage says the entity was produced and transformed, not born in
+    a biological sense.
+- id: motif:6
+  label: Initial triad of deities
+  taxonomy_refs: []
+  basis: After Kuni-toko-tachi no Mikoto, two additional deities are named, and the
+    passage counts three deities in all.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage lists the triad but does not yet describe their actions.
+comparison_claims:
+- id: claim:1
+  claim: 'The supplied note presents a corresponding Kiujiki passage with the same
+    basic cosmogonic pattern: egg-like chaos, Heaven and Earth not yet separated,
+    pure essence ascending, and grosser essence sinking.'
+  claim_level: same_motif
+  target: Kiujiki corresponding passage quoted in the note
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the quoted excerpt of the Kiujiki as reproduced
+    in the supplied passage.
+- id: claim:2
+  claim: The translator/editorial note reports that modern Shinto scholars regarded
+    these opening sentences as a Chinese rationalistic type and says Hirata identified
+    Chinese works as sources from which the Nihongi author borrowed ideas.
+  claim_level: historical_contact
+  target: Chinese rationalistic cosmological material named in the translator's note
+  evidence_refs:
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial report within the supplied passage, not an independent
+    demonstration; the named Chinese works are not themselves quoted here.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 770-917
+  quote_or_summary: Section heading identifies the work as Nihongi, Book I, “The Age
+    of the Gods,” Part I.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 770-917, opening of Book I
+  quote_or_summary: "“Heaven and Earth were not yet separated,” Im and Yo were “not
+    yet divided,” and they formed “a chaotic mass like an egg” with obscure limits
+    and germs."
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; concise quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 770-917, opening cosmogony
+  quote_or_summary: The purer and clearer part forms Heaven; the heavier and grosser
+    element settles and becomes Earth; Heaven is formed first and Earth later.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 770-917, opening cosmogony
+  quote_or_summary: Divine beings are produced between Heaven and Earth, and the soil
+    of lands floats like a fish sporting on the surface of water.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 770-917, opening cosmogony
+  quote_or_summary: A thing produced between Heaven and Earth is “in form like a reed-shoot,”
+    becomes transformed into a god, and is called Kuni-toko-tachi no Mikoto.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; concise quotation from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 770-917, deity list after Kuni-toko-tachi no Mikoto
+  quote_or_summary: The passage next names Kuni no sa-tsuchi no Mikoto and Toyo-kumu-nu
+    no Mikoto, stating that there are three deities in all.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: note
+  locator: lines 770-917, footnote on Im and Yo
+  quote_or_summary: A note glosses Im and Yo as Yin and Yang, or female and male principles
+    of Chinese philosophy.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: lines 770-917, note quoting Kiujiki
+  quote_or_summary: The note presents a corresponding Kiujiki passage in which original
+    essence is chaotic like an egg; pure essence ascends and forms Heaven, while grosser
+    essence sinks and becomes Earth.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:9
+  type: note
+  locator: lines 770-917, translator/editorial note on sources
+  quote_or_summary: A note says modern Shinto scholars condemned the opening sentences
+    as Chinese rationalistic material prefixed to Japanese traditions and reports
+    that Hirata named Chinese works among sources from which the Nihongi author borrowed
+    ideas.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main cosmogonic sequence is clear, but the supplied text includes OCR
+    irregularities and editorial notes intermixed with the narrative. Motif labels
+    beyond direct description are marked cautiously.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Abbreviations and bibliographic front matter were not treated as mythic content except where notes directly comment on the cosmogony.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l770-l917
+  passage_sha256=e98abfe9d5a27fb70b01940b7b10ddd5efc63603a4ede330e9acdcb608895614
+

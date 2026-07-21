@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l32494-l32512
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    TE'    ITHAETHE / THE   OMAHA    TRIBE / SOCIETIES / THE    OMAHA   TRIBE;
+    lines 32494-32512
+  start: '32494'
+  end: '32512'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A society member may be asked by relatives to avert a foretold death by
+    heating water while singing and casting the water beside, not directly before,
+    the lodge entrance of the threatened person. This act is said to thwart the spirit's
+    movement toward the spirit world and force it to return, allowing the person to
+    live. Members may also be asked to stop rain by filling and smoking a small plain
+    pipe, elevating the stem, singing, and sending smoke upward toward cosmic forces.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Relatives of a doomed or threatened person may ask the member who foretold
+    the death to try to avert it.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: To avert the death, the member heats water while singing songs.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The member casts the water on the ground to the right or left of the lodge
+    entrance, never in a straight line from the door.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The act is said to thwart the spirit's onward progress toward the spirit world
+    and force it to return, so the person continues to live.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Members of the society are said also to be able to stop rain, but only by
+    request.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: When asked to stop rain, a member fills a small unornamented pipe, elevates
+    the stem, smokes, and sings as smoke is wafted upward.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The unornamented pipe is described as a token of modesty in addressing cosmic
+    forces.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: member foretelling the death
+  description: A society member who foretells a death and may be asked to avert it.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: relatives of the doomed person
+  description: Relatives who may request that the foreteller attempt to avert the
+    death.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: threatened person
+  description: The person whose foretold death is to be averted and who continues
+    to live if the spirit returns.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: spirit
+  description: A spirit described as moving toward the spirit world and being forced
+    to return.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: member asked to stop rain
+  description: A society member who fills and smokes a plain pipe, elevates its stem,
+    sings, and is believed to stop rain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: death foreteller
+  assigned_to:
+  - fig:1
+  basis: The passage refers to a member foretelling the death.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual death averter
+  assigned_to:
+  - fig:1
+  basis: The member heats water, sings, and casts the water beside the lodge entrance
+    to avert death.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: requesting relatives
+  assigned_to:
+  - fig:2
+  basis: The relatives may ask the foreteller to seek to avert the death.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: threatened living person
+  assigned_to:
+  - fig:3
+  basis: The person is threatened by foretold death and continues to live when the
+    spirit returns.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: returning spirit
+  assigned_to:
+  - fig:4
+  basis: The spirit is said to be thwarted in progress toward the spirit world and
+    forced to return.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: rain-stopping ritual actor
+  assigned_to:
+  - fig:5
+  basis: A member asked to stop rain performs the pipe-smoking and singing act believed
+    to secure that result.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: heated water cast beside lodge entrance
+  literal_form: Water heated during song and cast on the ground to the right or left
+    of a lodge entrance.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: lodge entrance and side direction
+  literal_form: The entrance or door of the threatened person's lodge, with water
+    cast to the right or left and not straight out from the door.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: spirit world direction
+  literal_form: The spirit's onward progress toward the spirit world.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: small unornamented pipe
+  literal_form: A small, unornamented pipe filled by the member who is asked to stop
+    rain.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: upward smoke
+  literal_form: Smoke from the pipe wafted upward while the member sings.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: rain
+  literal_form: Rain that members of the society are said to be able to stop by request.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Averting foretold death
+  summary: Relatives ask the death-foretelling member to avert the threatened death.
+    The member heats water while singing and casts it beside the lodge entrance, which
+    is said to turn back the spirit from the spirit world so the person lives.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Stopping rain by pipe and smoke
+  summary: A requested society member fills a small plain pipe, raises its stem, smokes,
+    and sings as smoke rises; the act is believed to stop rain and is framed as modest
+    address to cosmic forces.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Averted death through ritual return of the spirit
+  taxonomy_refs:
+  - return
+  basis: The passage says the ritual act thwarts the spirit's movement toward the
+    spirit world and forces it to return, allowing the threatened person to continue
+    living.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage describes prevention of death rather than a completed death-and-return
+    narrative.
+- id: motif:2
+  label: Spirit's path toward the spirit world
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The spirit is described as having an onward progress toward the spirit world,
+    which can be interrupted by a ritual act.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage gives only a brief directional statement, not a detailed afterlife
+    journey map.
+- id: motif:3
+  label: Ritual control of rain through smoke and song
+  taxonomy_refs: []
+  basis: The passage states that society members could stop rain when requested by
+    smoking a pipe, elevating the stem, singing, and sending smoke upward.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly names weather control; taxonomy refs
+    are therefore left empty.
+- id: motif:4
+  label: Modest address to cosmic forces through plain ritual object
+  taxonomy_refs: []
+  basis: The pipe is explicitly described as small and unornamented as a token of
+    modesty when addressing cosmic forces.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage explains the object’s token value but gives limited broader
+    ritual context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32494-32498
+  quote_or_summary: Relatives of the doomed person may ask the society member who
+    foretold the death to seek to avert it.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 32498-32503
+  quote_or_summary: To avert the death, the member heats water while singing and casts
+    it on the ground to the right or left of the threatened person's lodge entrance,
+    never straight from the door.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 32503-32506
+  quote_or_summary: "“the spirit is thwarted in its onward progress toward the spirit
+    world and is forced to return”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 32506-32509
+  quote_or_summary: Members of the society could also stop rain, and this power was
+    exercised only by request.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; full text allowed.
+- id: ev:5
+  type: summary
+  locator: lines 32509-32512
+  quote_or_summary: A member asked to stop rain fills a small unornamented pipe as
+    a token of modesty before cosmic forces, raises the stem, smokes, and sings as
+    the smoke rises; this is believed to secure the desired result.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual actions and stated effects are explicit. Motif-family mapping
+    is cautious because the passage is ethnographic and brief. No comparison claims
+    were added because the passage itself does not compare traditions or corpora.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l32494-l32512
+  passage_sha256=d60b632db31e81a04e4b8a3570cd30643447ecd53c71dce86259c7ef9a565c0c
+

@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l4447-l4474
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: BY DR. BLEEK. / TARS1NG. 147 / D 0 3 II / CHILDEEN.; lines 4447-4474
+  start: '4447'
+  end: '4474'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"ye must leave the meat which is in the springbok''s skin."'
+  summary: A group recognizes their elder sister approaching and leaves a portion
+    of springbok meat for her before going away in all directions. The elder sister
+    reproaches them, takes up the springbok, and returns home. The Vultures then fly
+    about seeking another springbok to eat.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A group says that an undercut should be left for their elder sister when she
+    is seen coming.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When the group perceives the elder sister coming, they say to leave the meat
+    in the springbok's skin.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The group leaves the meat and goes away in all directions as the elder sister
+    draws near.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The elder sister asks why they act toward her in this manner and says she
+    was not the one who scolded them.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The elder sister comes up to the springbok, takes it up, and returns home.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Vultures go forward or fly about while seeking another springbok to eat.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Elder sister
+  description: Female elder sibling who approaches, reproaches the group, takes up
+    the springbok, and returns home.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Younger group or children addressed as "ye"
+  description: Group who refer to "our elder sister," leave meat for her, and go away
+    in all directions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Vultures
+  description: Group named as Vultures who fly about and seek another springbok to
+    eat.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: elder sibling recipient
+  assigned_to:
+  - fig:1
+  basis: The group identifies her as their elder sister, leaves meat for her, and
+    she takes up the springbok.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: younger kin group leaving food
+  assigned_to:
+  - fig:2
+  basis: They refer to the approaching figure as "our elder sister" and leave the
+    meat in the springbok's skin before departing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: flying food seekers
+  assigned_to:
+  - fig:3
+  basis: The passage says the Vultures went to fly about while seeking another springbok
+    to eat.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: springbok meat
+  literal_form: meat in the springbok's skin; springbok taken up by the elder sister
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: undercut
+  literal_form: undercut to be left for the elder sister
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: another springbok
+  literal_form: springbok sought by the Vultures as food
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Food left for the approaching elder sister
+  summary: The group sees the elder sister approaching, says to leave meat in the
+    springbok's skin for her, leaves it, and goes away in different directions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Elder sister reproaches the group and takes the springbok
+  summary: The elder sister questions the group's behavior toward her, then takes
+    up the springbok and returns home.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Vultures seek another springbok
+  summary: The Vultures fly about while seeking another springbok that they intend
+    to eat.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: reserved food portion for an elder sibling
+  taxonomy_refs: []
+  basis: The passage repeatedly states that food from the springbok should be left
+    for the elder sister as she approaches.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief episode, so the wider narrative function
+    of this food-sharing act is not established here.
+- id: motif:2
+  label: kin group disperses before a reproaching elder sister
+  taxonomy_refs: []
+  basis: The group leaves the meat and goes away in all directions as the elder sister
+    draws near; she then reproaches their behavior.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The reason for the group's dispersal is not fully explained within the
+    provided lines.
+- id: motif:3
+  label: vultures seeking animal prey
+  taxonomy_refs: []
+  basis: The Vultures fly about seeking another springbok to eat.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not clarify whether the Vultures are ordinary animals,
+    named characters, or the same group previously addressed.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4447-4452
+  quote_or_summary: '"leave for (our) elder sister the undercut ... when ye see that
+    (our) elder sister is the one who comes."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4453-4462
+  quote_or_summary: The group perceives the elder sister coming, says to leave the
+    meat in the springbok's skin, leaves it, and goes away in all directions as she
+    draws near.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 4463-4467
+  quote_or_summary: The elder sister says, "Fie! how can ye act in this manner towards
+    me?" and adds that she was not the one who scolded them.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4468-4474
+  quote_or_summary: The elder sister comes to the springbok, takes it up, and returns
+    home; the Vultures fly about while seeking another springbok to eat.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source text; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short and includes uncertain wording and punctuation from
+    the edition. Literal actions are mostly clear, but the identity of the Vultures
+    relative to the earlier group is not fully explicit.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not contain a clearly supported match for this brief food-sharing episode.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l4447-l4474
+  passage_sha256=d5282d68ede6edd8087a9195977c4210517d041f132a114448089f0bbcecc0b2
+

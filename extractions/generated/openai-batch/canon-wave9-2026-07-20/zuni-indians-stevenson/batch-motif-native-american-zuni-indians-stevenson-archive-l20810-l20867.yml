@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.native-american-zuni-indians-stevenson-archive-l20810-l20867
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: AUCTIONEERING / BUREAU OF AMERICAN ETHNOLOGY TWENTY-THIRD ANNUAL REPORT PL.
+    XCVI / BEAD MAKING / A BEAD-MAKER'S FAMILY; lines 20810-20867
+  start: '20810'
+  end: '20867'
+  translation: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes an observed Zuñi auction in the great plaza in 1896:
+    an auctioneer secretly covers yellow blossoms with a conical cooking vessel, women
+    bring food wares in bowls and baskets, the auctioneer proposes exchanges and quickly
+    finds purchasers, payments are made immediately, and the aged auctioneer receives
+    invitations to eat rather than payment.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The auction takes place in the great plaza after a time for the sale has been
+    arranged.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Early in the morning, the auctioneer places yellow blossoms in the center
+    of the plaza and covers them with a conical cooking vessel.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents under the vessel are kept secret, and the flowers are not removed
+    until everyone has left the plaza in the evening.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At 10 o'clock, women begin bringing wares, including bowls and baskets containing
+    foods such as wheat flour, dried peaches, beans, and dried squash.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Burros sometimes approach the sale and put their noses into the baskets before
+    being driven away.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Although women are described as the expected participants, some men sit nearby
+    with their knitting.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The auctioneer describes an article's qualities, states what the owner wants
+    in exchange, and seeks a purchaser.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Payment is made immediately, and traders leave the plaza and later return
+    with vessels that go back to their owners.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The auctioneer is an aged man with white hair who works from morning until
+    night and receives no compensation except invitations to eat.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: auctioneer
+  description: An aged white-haired man who conducts the auction, speaks for the goods,
+    arranges exchanges, and receives invitations to eat rather than direct payment.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: women bringing wares
+  description: Women who bring bowls and baskets containing food articles to the plaza
+    auction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: purchasers and traders
+  description: People enticed by the auctioneer to exchange for goods and make payment
+    at once.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: men with knitting
+  description: Men who sit about with their knitting even though the passage says
+    only women were supposed to be interested in the auction.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: burros
+  description: Animals that sometimes get their noses into the baskets at the sale
+    before being driven away.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: writer-observer
+  description: The observer who reports the auction witnessed in 1896 and is present
+    when the auctioneer covers the blossoms.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: auction mediator
+  assigned_to:
+  - fig:1
+  basis: The auctioneer states the qualities of goods, announces the owner's desired
+    exchange, and secures purchasers.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: providers of wares
+  assigned_to:
+  - fig:2
+  basis: Women bring bowls and baskets containing food goods to the auction.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: exchange participants
+  assigned_to:
+  - fig:3
+  basis: Purchasers are enticed by the auctioneer and payment is made immediately
+    by traders.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: unpaid communal service provider
+  assigned_to:
+  - fig:1
+  basis: The auctioneer receives no compensation for his services except invitations
+    to eat.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: unexpected bystanders
+  assigned_to:
+  - fig:4
+  basis: Men sit about with knitting although the passage says women were supposed
+    to be interested in the auction.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: animal intruders at the sale
+  assigned_to:
+  - fig:5
+  basis: Burros sometimes put their noses into baskets before they are driven away.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: ethnographic observer
+  assigned_to:
+  - fig:6
+  basis: The writer reports observing the auction in 1896 and being present at the
+    early-morning covering of the flowers.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: covered yellow blossoms
+  literal_form: A bunch of yellow blossoms placed in the plaza center and covered
+    with a conical cooking vessel.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: conical cooking vessel
+  literal_form: A conical cooking vessel inverted or placed over the yellow blossoms,
+    concealing them during the auction day.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: great plaza
+  literal_form: The public plaza where the auction takes place and where wares are
+    deposited around the covered blossoms.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: bowls and baskets of food
+  literal_form: Containers holding wheat flour, dried peaches, beans, dried squash
+    strips, and other food articles brought for exchange.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Auction space prepared in the plaza
+  summary: Before others arrive, the auctioneer places yellow blossoms in the center
+    of the plaza, covers them with a conical cooking vessel, and keeps the contents
+    secret until evening.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Women bring food wares to the plaza
+  summary: Women bring bowls and baskets of food goods and place them around the inverted
+    vessel; burros and men are also present at the sale area.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Auction exchanges conducted
+  summary: The auctioneer praises goods, names the owner's desired exchange, finds
+    purchasers, and payment is made immediately before vessels are eventually returned
+    to their owners.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Auctioneer's service without pay
+  summary: The aged auctioneer works throughout the day and receives no direct compensation,
+    only many invitations to eat.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: communal exchange mediated by a specialist
+  taxonomy_refs: []
+  basis: The passage centers on an auctioneer who verbally mediates exchanges between
+    owners and purchasers in the plaza.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The passage describes an ethnographic social practice; it does not explicitly
+    frame the exchange as mythic or sacred.
+- id: motif:2
+  label: concealed central object marking a public event
+  taxonomy_refs: []
+  basis: Yellow blossoms are placed at the center of the plaza and hidden under a
+    conical vessel for the duration of the auction day.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the purpose or meaning of the concealed blossoms,
+    so symbolic interpretation should remain tentative.
+- id: motif:3
+  label: service compensated by hospitality rather than pay
+  taxonomy_refs: []
+  basis: The auctioneer receives no compensation except numerous invitations to eat.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The evidence supports the social pattern in this passage only; no wider
+    ritual or mythic function is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20810-20867
+  quote_or_summary: The narrator says the auction occurs in the great plaza after
+    the sale time is arranged and describes an auction observed in 1896.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 20810-20867
+  quote_or_summary: Early in the morning, the auctioneer places yellow blossoms in
+    the plaza center, covers them with a conical cooking vessel, and keeps the contents
+    secret until evening.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 20810-20867
+  quote_or_summary: At 10 o'clock women bring wares; bowls and baskets are set around
+    the inverted vessel and contain wheat flour, dried peaches, beans, dried squash
+    strips, and other food articles.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 20810-20867
+  quote_or_summary: Burros sometimes get into the baskets before being driven away;
+    men also sit nearby knitting, though women are said to be the expected participants.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 20810-20867
+  quote_or_summary: The auctioneer praises goods, states what the owner wants in exchange,
+    quickly secures purchasers, and payment is made at once before vessels return
+    to their owners.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 20810-20867
+  quote_or_summary: The auctioneer is an aged white-haired man, remains busy from
+    morning until night, and receives no compensation except invitations to eat.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are limited because
+    the passage is ethnographic description rather than a mythic narrative, and the
+    hidden blossoms are not explained in the passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference was assigned because the passage does not explicitly support one of the supplied mythic motif families or symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-zuni-indians-stevenson-archive__l20810-l20867
+  passage_sha256=a05edea408d807efabee1db2bce29f1f0b72f022905b342e8a732be3668b5d63
+

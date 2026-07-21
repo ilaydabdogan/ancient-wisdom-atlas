@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l1973-l1986
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: Koryak Texts / INTRODUCTION.; lines 1973-1986
+  start: '1973'
+  end: '1986'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"The suitor came first to me!"'
+  summary: K'ilu' returns to the village and reports that a kamak devoured her cousin.
+    The villagers go to look and see two people walking together, including a very
+    good young man. They tell K'ilu' that he would have married her if she had not
+    run away. Kilu' falsely boasts that the suitor came first to her, and she envies
+    Yini'ana'wgut because Yini'ana'wgut has the husband and is married instead of
+    her.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A female figure comes to the village, and the people laugh at her and ask
+    what happened.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She says that a kamak came and devoured her cousin, who had seen him first.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The people decide to go look, set off, and come to see two figures walking
+    together.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The newcomer is described as a very good young man.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:5
+  text: The people tell K'ilu' that if she had not run away, the young man would have
+    married her.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Kilu' boasts that the suitor came first to her, and the narration states that
+    this was not true.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Kilu' envies Yini'ana'wgut because of her husband; the cousin is married and
+    Kilu' is not.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: K'ilu' / Kilu'
+  description: Female figure who is laughed at, is told she lost a possible husband
+    by running away, falsely boasts about the suitor, and envies Yini'ana'wgut.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Yini'ana'wgut
+  description: Kilu's cousin or sister, identified as the woman with the husband and
+    the one who is married instead of Kilu'.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: young man / suitor / husband
+  description: A newcomer described as a very good young man; the villagers say he
+    would have married K'ilu' if she had not run away, and he is associated with Yini'ana'wgut
+    as husband.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: village people
+  description: People who laugh at the returned woman, ask what happened, go to look,
+    see the pair, and comment to K'ilu' about the marriage outcome.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: kamak
+  description: A being mentioned in Kilu's report as having come and devoured her
+    cousin.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: unsuccessful potential bride
+  assigned_to:
+  - fig:1
+  basis: The villagers say the young man would have married K'ilu' if she had not
+    run away, but the cousin is married instead.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: envied married kinswoman
+  assigned_to:
+  - fig:2
+  basis: Kilu' envies Yini'ana'wgut because of her husband, and the passage says the
+    cousin was married.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: suitor and husband
+  assigned_to:
+  - fig:3
+  basis: He is called the suitor and is also identified through Yini'ana'wgut's husband.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: village witnesses and commentators
+  assigned_to:
+  - fig:4
+  basis: The people laugh, question, go to look, see the pair, and speak to K'ilu'
+    about the missed marriage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: false boaster and envious rival
+  assigned_to:
+  - fig:1
+  basis: Kilu' boasts that the suitor came first to her, though the narration says
+    it is not true, and she envies Yini'ana'wgut.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: reported devourer
+  assigned_to:
+  - fig:5
+  basis: The kamak appears only in reported speech as the being said to have devoured
+    the cousin.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: reported devouring kamak
+  literal_form: A kamak named in speech as coming and devouring the cousin.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: pair walking together
+  literal_form: Two figures seen walking together by the villagers.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Return to the village and report of devouring
+  summary: K'ilu' comes to the village, is laughed at and questioned, and says a kamak
+    devoured her cousin.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Villagers inspect and see the pair
+  summary: The villagers go to look and see two figures walking together, one of them
+    a very good young man; they tell K'ilu' he would have married her if she had not
+    run away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: False boast and envy over marriage
+  summary: Kilu' falsely claims that the suitor came first to her, while the narration
+    emphasizes her envy of Yini'ana'wgut, who has the husband and is married instead
+    of Kilu'.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: envious kinswoman rival after marriage
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage presents Kilu' and Yini'ana'wgut as close female kin, with Kilu'
+    envying Yini'ana'wgut because Yini'ana'wgut has the husband and is married instead
+    of Kilu'.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The kin relation is expressed as both cousin and sister in this passage;
+    the broader sibling-pair pattern would require review in the surrounding tale.
+- id: motif:2
+  label: missed marriage through running away
+  taxonomy_refs: []
+  basis: The villagers tell K'ilu' that the young man would have married her if she
+    had not run away, but the cousin is married instead.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is a local narrative pattern in the passage, not matched to a supplied
+    taxonomy family.
+- id: motif:3
+  label: false claim to courtship precedence
+  taxonomy_refs: []
+  basis: Kilu' boasts that the suitor came first to her, and the narration explicitly
+    states that this was not true.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives the false boast but does not describe any consequence
+    beyond envy.
+- id: motif:4
+  label: reported supernatural devouring of a kinswoman
+  taxonomy_refs: []
+  basis: Kilu' reports that a kamak came and devoured her cousin, though the same
+    passage later shows the villagers seeing a pair walking together.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The devouring is reported speech only; the passage does not fully explain
+    whether the report is mistaken, deceptive, or part of a prior episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1973-1976
+  quote_or_summary: Kilu' comes to the village; the people laugh and ask what happened;
+    she says, "a kamak came and devoured my cousin."
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: summary
+  locator: 1976-1979
+  quote_or_summary: The people go to look, see two figures walking together, identify
+    the newcomer as a very good young man, and tell K'ilu' he would have married her
+    if she had not run away.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: quote
+  locator: 1980-1982
+  quote_or_summary: Kilu' boasts, "The suitor came first to me!" and the narration
+    adds that this was not true.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:4
+  type: summary
+  locator: 1982-1986
+  quote_or_summary: Kilu' envies Yini'ana'wgut because of her husband; the young man
+    is again described as very good; the cousin is married and Kilu' is not.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction follows the supplied passage only. Some figure identification
+    is limited by variant spellings and mixed kin terms within the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparative link to another tradition or corpus.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l1973-l1986
+  passage_sha256=db1043f09ef0b203b1fcf18e37398e3af6fd87a93154698f227bafbeb1002367
+

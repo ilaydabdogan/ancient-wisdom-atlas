@@ -1,0 +1,376 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19285-l19331
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UTIKOLOSHE. / UTIKOLOSHE. / THE ABATWA. / THE ABATWA.; lines 19285-19331
+  start: '19285'
+  end: '19331'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Abatwa as rock-dwelling people without fixed
+    villages, living where they kill game and departing after consuming it. It recounts
+    how a traveler who answered an Umutwa literally was killed, while later travelers
+    used a magnifying greeting that pleased the Umutwa. It also says Abatwa ride together
+    along a horse when journeying and may eat the horse if no game is found. A note
+    links the wording to a Zulu salutation meaning “We saw you.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Abatwa are described as living in rocky country and having no fixed village.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Their dwelling-place is said to be where they kill game; they consume the
+    game completely and then leave.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: When a traveler suddenly meets an Umutwa, the Umutwa asks where the traveler
+    saw him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A man once answered that he saw the Umutwa in that very place.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Umutwa became angry, took the answer as contempt, shot the man with a
+    bow, and the man died.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The passage states that the Abatwa like to be magnified and hate their littleness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A later saluting formula says the speaker saw the Umutwa from a distant mountain;
+    the Umutwa rejoices and says he has become great.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When game has run out and the Abatwa travel, they mount a horse in a line
+    from the neck to the tail.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: If they find no game, the Abatwa eat the horse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: A note connects the phrase “I saw you” with the Zulu salutation “Sa ku bona,”
+    glossed as “We saw you.”
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Abatwa
+  description: A group described as living in rocky country, having no fixed village,
+    moving after consuming game, liking to be magnified, and traveling together on
+    a horse.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Umutwa encountered by a traveler
+  description: A singular member of the Abatwa who asks where he was seen, kills a
+    man after a literal answer, and rejoices when addressed with a magnifying statement.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Journeying man or traveler
+  description: A human traveler who encounters an Umutwa and answers the question
+    about where he saw him; one literal answer results in death, while the later formula
+    pleases the Umutwa.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Horse
+  description: An animal mounted by the Abatwa from neck to tail during travel and
+    eaten if no game is found.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: rock-dwelling nomadic hunters
+  assigned_to:
+  - fig:1
+  basis: The Abatwa are said to live in the rocks, have no fixed village, kill and
+    consume game, and then go away.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: diminutive beings requiring magnifying address
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says they like to be magnified and hate their littleness; the
+    Umutwa responds differently to literal and magnifying answers.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dangerous encounter-questioner
+  assigned_to:
+  - fig:2
+  basis: The Umutwa asks where he was seen and kills the man after interpreting the
+    literal answer as contempt.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: human respondent on a journey
+  assigned_to:
+  - fig:3
+  basis: The man is on a journey, meets an Umutwa, and answers the Umutwa’s question.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: transport animal and emergency food
+  assigned_to:
+  - fig:4
+  basis: The horse carries the Abatwa during travel and is eaten if no game is found.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rock country
+  literal_form: country in the rocks
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain
+  literal_form: yon mountain
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: bow
+  literal_form: bow used by the Umutwa to shoot the man
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: horse
+  literal_form: horse mounted by the Abatwa and eaten if no game is found
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: game
+  literal_form: game killed and eaten by the Abatwa
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Abatwa mode of life
+  summary: The Abatwa are described as living in rocks without a fixed village; their
+    temporary dwelling-place is where they kill and consume game before moving on.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fatal literal answer
+  summary: A traveler meets an Umutwa, says he saw him in that very place, and is
+    shot with a bow after the Umutwa interprets the answer as contempt.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Magnifying salutation
+  summary: People learn to greet an Umutwa by saying they saw him from a distant mountain;
+    the Umutwa rejoices because this makes him great.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Horse journey and hunger
+  summary: When game is exhausted, the Abatwa travel by sitting one behind another
+    along a horse; if they find no game, they eat the horse.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Correct salutation to dangerous diminutive beings
+  taxonomy_refs: []
+  basis: The Umutwa kills the man who gives a literal answer, while the later magnifying
+    greeting pleases him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives this as a local saluting custom; no broader comparative
+    connection is stated.
+- id: motif:2
+  label: Magnification of small beings
+  taxonomy_refs: []
+  basis: The passage explicitly says the Abatwa like to be magnified and hate their
+    littleness, and the mountain-distance answer makes the Umutwa rejoice.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is directly supported as an attributed preference of the Abatwa,
+    but its wider symbolic meaning is not explained in the passage.
+- id: motif:3
+  label: Nomadic hunters without a fixed village
+  taxonomy_refs: []
+  basis: The Abatwa are said to have no village; their village is wherever they kill
+    game, consume it, and leave.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This may be an ethnographic or legendary description rather than a narrative
+    motif.
+- id: motif:4
+  label: Many tiny riders on one horse
+  taxonomy_refs: []
+  basis: The Abatwa are said to mount a horse from neck to tail, one behind another,
+    when they travel after game is exhausted.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage presents the image briefly and does not develop it into a
+    full episode.
+- id: motif:5
+  label: Greeting wordplay on seeing
+  taxonomy_refs: []
+  basis: The note states that the Zulu salutation means “We saw you,” explaining the
+    play on “I saw you” in the encounter formula.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a linguistic feature identified by the note, not necessarily a
+    cross-cultural motif.
+comparison_claims:
+- id: claim:1
+  claim: The supplied note supports an intra-language comparison between the tale’s
+    repeated “I saw you” formula and the Zulu salutation “Sa ku bona,” glossed as
+    “We saw you.”
+  claim_level: linguistic_similarity
+  target: Zulu salutation “Sa ku bona”
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This claim is limited to the linguistic explanation given in the passage
+    note; it does not imply historical contact, common inheritance, or cross-cultural
+    diffusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 19285-19294
+  quote_or_summary: "“They have no village”; their village is where they kill game,
+    consume it, and go away."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 19295-19310
+  quote_or_summary: A man on a journey meets an Umutwa; after the man says he saw
+    him in that very place, the Umutwa becomes angry, shoots him with a bow, and the
+    man dies.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: 19311-19323
+  quote_or_summary: The Abatwa “like to be magnified” and “hate their littleness”;
+    the safer greeting says the speaker saw the Umutwa from a mountain, making him
+    rejoice.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt and summary from supplied passage.
+- id: ev:4
+  type: quote
+  locator: 19324-19329
+  quote_or_summary: When traveling, they mount a horse “from the neck” to “the tail”;
+    if no game is found, “they eat the horse.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: 19331 note 12
+  quote_or_summary: "“The Zulu salutation is, ‘Sa ku bona,’ We saw you. Hence the
+    play on the words.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt from supplied passage note.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is well supported by the supplied passage. Motif labels
+    are cautious and mostly local because the passage itself provides no broad comparative
+    parallels beyond the linguistic note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references were applied only where an available exact symbol reference was directly supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19285-l19331
+  passage_sha256=fe4b621eb55655d82bd879e819bd8c231bb067d27811d05cf5e6ed585adfc461
+

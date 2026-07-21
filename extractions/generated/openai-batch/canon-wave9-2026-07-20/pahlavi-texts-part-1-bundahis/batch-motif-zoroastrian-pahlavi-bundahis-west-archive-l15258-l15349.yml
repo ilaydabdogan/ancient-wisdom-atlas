@@ -1,0 +1,444 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15258-l15349
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER III, 23-32. 283 / CHAPTER III, 33-IV, I. 285 / Chapter IV. / CHAPTER
+    IV, 2-9. 287; lines 15258-15349
+  start: '15258'
+  end: '15349'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules about proper shirt length, folds, and use of the
+    girdle; distinguishes proper and improper ways of wearing one or two shirts; defines
+    age-related responsibility for the sins of running about uncovered and unseasonable
+    chatter; grades the former by number of steps; and adds rules about fringeless
+    girdles, tying a girdle to a woman's ringlet, and walking with one boot.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A garment is described as proper when its length and breadth cover what should
+    be covered; double or thickened breadth is said to be improper, while separation
+    of two folds is not counted as undress if one side remains clothed.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A one-fold shirt is proper when its skirt conceals both sides and the girdle
+    is tied over it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Putting on two shirts and tying the girdle over the upper one is said to create
+    a root of the sin of running about uncovered.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A man and woman below fifteen years of age are said not to commit the sin
+    of running about uncovered; the sin of unseasonable chatter is said to arise after
+    fifteen years of age.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: 'Running about uncovered is graded by steps: up to three steps is a Farman
+    sin for each step, and at the fourth step it becomes a Tanapuhar sin.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: A girdle without fringe is said to be proper, while tying a woman's ringlet
+    is said to be improper.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: The note defines unseasonable chatter as talking while eating, praying, or
+    while a prayer has been taken inwardly but not yet spoken out.
+  category: speech
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: The passage introduces walking with one boot as an offense, and the note says
+    the expression is usually understood as 'running in one boot' though its meaning
+    is uncertain.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: shirt-and-girdle wearer
+  description: A person subject to the rules for putting on one or two shirts and
+    tying the girdle.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: fig:2
+  name_or_label: man and woman below fifteen years
+  description: A man and woman until fifteen years of age, for whom the passage says
+    there is no committal of the sin of running about uncovered.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: person after fifteen years
+  description: A person after fifteen years of age, at which point the passage says
+    the sin of unseasonable chatter arises.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: fig:4
+  name_or_label: woman with ringlet
+  description: A woman whose ringlet is mentioned in a rule that tying it with the
+    girdle is improper.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: ritual clothing subject
+  assigned_to:
+  - fig:1
+  basis: The passage gives the subject rules for shirts, skirt coverage, girdle placement,
+    and step-counted uncovered movement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: role:2
+  label: age-exempt minor
+  assigned_to:
+  - fig:2
+  basis: The passage says that until fifteen years of age a man and woman do not commit
+    the sin of running about uncovered.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: post-fifteen subject to speech offense
+  assigned_to:
+  - fig:3
+  basis: The passage says unseasonable chatter arises after fifteen years of age,
+    and the note defines the speech offense.
+  evidence_refs:
+  - ev:4
+  - ev:8
+- id: role:4
+  label: figure in prohibited ringlet-tying rule
+  assigned_to:
+  - fig:4
+  basis: The passage states that tying a woman's ringlet is not proper.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: shirt and skirt coverage
+  literal_form: shirt, folds, skirt, garment coverage
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: girdle
+  literal_form: girdle; note identifies it as the sacred thread-girdle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+- id: sym:3
+  label: fifteen-year threshold
+  literal_form: number fifteen as age boundary
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: three and four steps
+  literal_form: three steps and fourth step
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: woman's ringlet
+  literal_form: woman's ringlet
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: one boot
+  literal_form: one boot
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Proper one-fold shirt and girdle
+  summary: A one-fold shirt whose skirt conceals both sides is worn with the girdle
+    tied over it and is declared proper.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Improper two-shirt arrangement
+  summary: Two shirts are put on and the girdle is tied over the upper shirt, producing
+    a root of the sin of running about uncovered.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Age boundary for offenses
+  summary: Before fifteen years of age, a man and woman do not commit the sin of running
+    about uncovered; after fifteen, unseasonable chatter becomes an applicable sin.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:8
+- id: scene:4
+  label: Step-counted sin escalation
+  summary: Running about uncovered is measured by steps, with three steps counted
+    as Farman offenses and the fourth as a Tanapuhar offense.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Additional girdle, hair, and footwear rules
+  summary: A fringeless girdle is permitted, tying a woman's ringlet is not permitted,
+    and walking with one boot is introduced as an offense with an uncertain interpretation
+    in the note.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: ritual garment as boundary of propriety
+  taxonomy_refs: []
+  basis: The passage repeatedly treats shirt coverage and girdle placement as determining
+    whether the wearer is properly clothed or involved in the sin of running about
+    uncovered.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a ritual-legal pattern rather than a narrative mythic motif.
+- id: motif:2
+  label: age-thresholded ritual obligation
+  taxonomy_refs:
+  - initiation
+  basis: The passage sets fifteen years as the point after which certain offenses
+    arise, and the note links the threshold to the necessity of wearing the sacred
+    thread-girdle.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not narrate an initiation rite; the taxonomy reference
+    is only a cautious fit for an age-based ritual-obligation threshold.
+- id: motif:3
+  label: quantified escalation of transgression
+  taxonomy_refs: []
+  basis: The sin of running about uncovered is explicitly measured by steps, with
+    a lesser offense up to three steps and a greater offense at the fourth.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: This is a legal gradation pattern, not a mythic episode.
+- id: motif:4
+  label: speech taboo during prayer or ritual formula
+  taxonomy_refs: []
+  basis: The note explains unseasonable chatter as speech that interrupts eating,
+    praying, or an inwardly held prayer formula before it is spoken out.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The explanatory detail comes from a note, and the passage itself only
+    names the sin and its age threshold.
+comparison_claims:
+- id: claim:1
+  claim: The offense of running about uncovered is connected in the note with Pahlavi
+    Vendidad references and with a broader cluster of Parsi sins, indicating a related
+    doctrinal offense across nearby Zoroastrian texts.
+  claim_level: same_function
+  target: Pahlavi Vendidad V,167; VII,48; broader Parsi-sin cluster including walking
+    with one boot and making water on foot
+  evidence_refs:
+  - ev:5
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is based on translator notes within the passage, not
+    on a full quotation of the compared passages.
+- id: claim:2
+  claim: The rule that uncovered movement escalates at the fourth step is linked in
+    the note to a Pahlavi commentator's deduction from Vendidad XVIII,115, suggesting
+    the same legal-interpretive tradition for going without girdle and shirt.
+  claim_level: same_function
+  target: Pahlavi Vendidad XVIII,115-116 as cited in the note
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note states that the Vendidad passage concerns a special case;
+    the comparison is legal-doctrinal rather than narrative.
+- id: claim:3
+  claim: Unseasonable chatter is associated in the notes with other Parsi sins and
+    with punishment in AV XXIII, suggesting a related doctrinal category of speech
+    offense.
+  claim_level: same_function
+  target: AV XXIII as cited in the notes on unseasonable chatter and associated sins
+  evidence_refs:
+  - ev:5
+  - ev:8
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage does not describe the hell punishment; it only cites the
+    association in notes.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15258-15349, Chapter IV, §§5-6
+  quote_or_summary: The garment should cover what is proper; doubled or thickened
+    length and breadth are not proper, but separation of two folds is not undress
+    if one side remains clothed.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 15258-15349, Chapter IV, §7
+  quote_or_summary: '"When a shirt of one fold is put on, and the skirt has concealed
+    both sides, the girdle is tied over it, and it is proper."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 15258-15349, Chapter IV, §8
+  quote_or_summary: When two shirts are worn and the girdle is tied over the upper
+    one, the text says this is a root of the sin of running about uncovered.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 15258-15349, Chapter IV, §9
+  quote_or_summary: '"By a man and woman, until fifteen years of age, there is no
+    committal of the sin of running about uncovered"; unseasonable chatter arises
+    after fifteen years.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: note
+  locator: lines 15258-15349, note to Chapter IV, §9
+  quote_or_summary: The note identifies the sin as vishad-dubarishnih, usually defined
+    as walking about without the sacred thread-girdle; it says the offense is mentioned
+    in Pahlavi Vendidad V,167 and VII,48 and classed with other Parsi sins. Another
+    note says the age rule indicates the sacred thread-girdle is not absolutely necessary
+    until age fifteen.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized note.
+- id: ev:6
+  type: summary
+  locator: lines 15258-15349, Chapter IV, §10 and note
+  quote_or_summary: The text states that running about uncovered is a Farman sin for
+    each of the first three steps and a Tanapuhar sin at the fourth step; the note
+    connects this with interpretation of Vendidad XVIII,115.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15258-15349, Chapter IV, §11 and note
+  quote_or_summary: A girdle without fringe is proper, but tying a woman's ringlet
+    is not proper; the note suggests this may concern tying the girdle over loose
+    hair.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: note
+  locator: lines 15258-15349, note to Chapter IV, §9
+  quote_or_summary: The note calls unseasonable chatter drayan-guyishnih and describes
+    it as talking while eating, praying, or after a prayer has been taken inwardly
+    but before it is spoken out, thereby breaking the effect of the prayer.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized note.
+- id: ev:9
+  type: summary
+  locator: lines 15258-15349, Chapter IV, §12 and note
+  quote_or_summary: The text begins a rule about walking with one boot as far as four
+    steps; the note says this sin is called 'running in one boot,' is mentioned elsewhere
+    in the Bundahis, and has an uncertain interpretation.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual rules are explicit, but the passage is fragmentary at the beginning
+    and end of the provided range. Several interpretive details come from translator
+    notes, so motifs and comparisons require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy refs directly match the passage's girdle, shirt, ringlet, or footwear objects.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15258-l15349
+  passage_sha256=507aaa38f5aba1479ed4b0d034cb2ba66d83eb0ec99ceb6657cc7b78a44ead22
+

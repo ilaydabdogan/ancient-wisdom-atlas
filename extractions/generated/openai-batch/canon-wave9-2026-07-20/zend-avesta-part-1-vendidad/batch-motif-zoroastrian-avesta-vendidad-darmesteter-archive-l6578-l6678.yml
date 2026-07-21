@@ -1,0 +1,428 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l6578-l6678
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD III. 3 I / IV. C- / FARGARD IV. 33 / FARGARD IV. 35; lines 6578-6678
+  start: '6578'
+  end: '6678'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage lists graded forms of contract by word, hand, sheep, ox, man,
+    and field, explains how lower forms are redeemed by higher pledges, and presents
+    Ahura Mazda’s answers about the sin and atonement liability caused by breaking
+    word- and hand-contracts. Notes identify hand-contract with striking hand in hand,
+    describe monetary equivalents, and discuss kin liability and later interpretations
+    of punishment in hell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'The passage enumerates six contract levels: word, hand, sheep, ox, man, and
+    field.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The field-contract is described as involving a field in good, fruitful, well-bearing
+    land.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: If a word-contract is made a mere word or not fulfilled, it is to be redeemed
+    by the hand-contract with a pledge equal to the hand-contract.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hand-, sheep-, ox-, and man-contracts are each redeemed by the next higher
+    contract level, with a corresponding pledge amount.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A note glosses the hand-contract as an agreement made by striking hand in
+    hand and by word.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ahura Mazda answers questions about how many are implicated in the sin of
+    breaking word- and hand-contracts.
+  category: speech
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: Breaking the word-contract makes the Nabanazdistas answerable for a three
+    hundred-fold atonement.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Breaking the hand-contract makes the Nabanazdistas answerable for a six hundred-fold
+    atonement.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: A note defines the Nabanazdistas as the next of kin to the ninth degree.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: A later Ravaet interpretation cited in a note says that the punishment for
+    breaking a word-contract lasts three hundred years in hell, and another says that
+    the punishment for breaking a hand-contract lasts six hundred years in hell.
+  category: other
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Divine speaker who answers questions about contract-breaking, sin,
+    and atonement.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: man who breaks a contract
+  description: A hypothetical person who breaks a word-contract or hand-contract.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:3
+  name_or_label: Nabanazdistas
+  description: Kin made answerable for atonement when a contract is broken; a note
+    identifies them as next of kin to the ninth degree.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: divine legal respondent
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers the ritual-legal questions about the consequences of
+    broken contracts.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:2
+  label: contract-breaker
+  assigned_to:
+  - fig:2
+  basis: The passage asks what follows if a man breaks the word-contract or hand-contract.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: liable kin group
+  assigned_to:
+  - fig:3
+  basis: The Nabanazdistas are said to be answerable for atonement caused by the offender’s
+    sin.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: word-contract
+  literal_form: A contract made by word and identified as the lowest contract level.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: hand-contract
+  literal_form: A contract associated in a note with striking hand in hand to make
+    agreement by word.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - covenant
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:6
+- id: sym:3
+  label: graded pledge amounts
+  literal_form: Sheep, ox, man, and field are used as escalating contract amounts
+    or values.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: three hundred-fold atonement
+  literal_form: Numerical atonement attached to breach of the word-contract.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: six hundred-fold atonement
+  literal_form: Numerical atonement attached to breach of the hand-contract.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:6
+  label: hell punishment duration in later interpretation
+  literal_form: Three hundred or six hundred years in hell in Ravaet interpretations
+    cited by the notes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+scenes:
+- id: scene:1
+  label: Hierarchy of contracts and redemptions
+  summary: The text presents a scale of contracts from word to field and says breaches
+    are redeemed by pledges equivalent to higher contract levels.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Divine answers on broken contracts
+  summary: Questions are addressed to the Holy One about the consequences of breaking
+    word- and hand-contracts, and Ahura Mazda states the resulting atonement liability
+    of the Nabanazdistas.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:3
+  label: Later interpretation of punishment
+  summary: Editorial notes report later explanations in which the contract-breaker’s
+    own soul undergoes a fixed duration of punishment in hell.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Sacred covenant obligation and breach
+  taxonomy_refs:
+  - covenant
+  basis: The passage treats contracts as binding obligations whose breach creates
+    sin and requires specified atonement.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage is primarily juridical and ritual-legal rather than narrative
+    myth.
+- id: motif:2
+  label: Graded sacred exchange through pledge and redemption
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Broken contract forms are redeemed through higher-value pledges, moving through
+    word, hand, sheep, ox, man, and field levels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exchange is legal compensation rather than an explicit mythic gift
+    exchange.
+- id: motif:3
+  label: Divine judgment on oath or contract violation
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ahura Mazda gives authoritative answers about sin and atonement for contract-breaking.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage states divine legal instruction, not a narrated judgment scene.
+- id: motif:4
+  label: Kin-group liability for transgression
+  taxonomy_refs: []
+  basis: The breach by one person makes the Nabanazdistas, defined as next of kin
+    to the ninth degree, answerable for atonement.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: No available taxonomy reference directly matches this legal pattern.
+- id: motif:5
+  label: Postmortem punishment duration for broken contracts
+  taxonomy_refs:
+  - divine_judgment
+  basis: Notes cite later Ravaet interpretations that the soul of the contract-breaker
+    remains in hell for three hundred or six hundred years depending on the contract
+    type.
+  evidence_refs:
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: This motif rests on commentary and later interpretation cited in the notes,
+    not on the main translated Avesta passage itself.
+comparison_claims:
+- id: claim:1
+  claim: The translator’s note explicitly compares Persian kin liability for one person’s
+    offense with old German law and a statement in Ammianus Marcellinus about all
+    kin perishing for one person’s wrong.
+  claim_level: same_function
+  target: old German law and Ammianus Marcellinus on kin liability
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial legal comparison, not a mythological parallel
+    established by the Avesta passage itself.
+- id: claim:2
+  claim: The translator’s note suggests a possible analogy between the word-and-hand
+    contract and formulas or gestures in Roman stipulatio.
+  claim_level: same_function
+  target: Roman stipulatio formulas and gestures
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The note frames the connection as an open question, not as a demonstrated
+    historical or functional identity.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6578-6585
+  quote_or_summary: 'Six contract levels are listed: word, hand, sheep, ox, man, and
+    field; the field is specified as good, fruitful land in bearing.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 6588-6591
+  quote_or_summary: If a man makes the word-contract a mere word, it is redeemed by
+    the hand-contract, and he gives a pledge equal to the hand-contract.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6593-6616
+  quote_or_summary: The hand-contract is redeemed by the sheep-contract, the sheep-contract
+    by the ox-contract, the ox-contract by the man-contract, and the man-contract
+    by the field-contract, each with an equivalent pledge.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: footnote to hand-contract, lines 6598-6601
+  quote_or_summary: A note glosses the agreement as striking hand in hand and making
+    agreement by word, and asks whether this may involve formulas and gestures like
+    Roman stipulatio.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 6619-6625
+  quote_or_summary: When asked what happens if a man breaks the word-contract, Ahura
+    Mazda says the sin makes the Nabanazdistas answerable for the three hundred-fold
+    atonement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 6627-6632
+  quote_or_summary: When asked what happens if a man breaks the hand-contract, Ahura
+    Mazda says the sin makes the Nabanazdistas answerable for the six hundred-fold
+    atonement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: note 2, lines 6637-6638
+  quote_or_summary: A note identifies the Nabanazdistas as next of kin to the ninth
+    degree.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: note 3, lines 6640-6673
+  quote_or_summary: A note discusses tradition and Ravaets on the word-contract, including
+    an interpretation that the real offender’s soul remains three hundred years in
+    hell.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: note 4, lines 6675-6678
+  quote_or_summary: A note cites a Ravaet interpretation that the soul of one who
+    breaks a hand-contract remains six hundred years in hell.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: note 1, lines 6633-6636
+  quote_or_summary: A note compares joint family responsibility in Persian law with
+    old German law and cites Ammianus Marcellinus on kin perishing for one person’s
+    wrong.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The legal sequence and figures are explicit. Motif classification is partly
+    interpretive because the passage is ritual-juridical rather than mythic narrative.
+    Comparison claims are limited to editorial notes in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are limited to available motif family labels; no unavailable symbol taxonomy was assigned.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l6578-l6678
+  passage_sha256=ecba5097361723bfb49e061de13e035a0fe5558b94764fde04e5ab744a0bc9d8
+

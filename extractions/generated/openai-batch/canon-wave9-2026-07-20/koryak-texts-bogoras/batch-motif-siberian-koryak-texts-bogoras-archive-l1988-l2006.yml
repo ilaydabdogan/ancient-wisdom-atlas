@@ -1,0 +1,304 @@
+---
+record_id: batch.motif.siberian-koryak-texts-bogoras-archive-l1988-l2006
+source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+passage_locator:
+  label: Koryak Texts / INTRODUCTION. / APPENDIX I.; lines 1988-2006
+  start: '1988'
+  end: '2006'
+  translation: Koryak Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Simply with fly-agaric (I have stunned myself).”"
+  summary: The passage gives the opening of a song in which a first-person singer
+    says they will sing of Qutx, Qutx's family, a wife named Alfiatva'gal, and the
+    people of Ye'jmel. The singer then says they will recover their senses after being
+    stunned with fly-agaric, rest, run to their sweetheart, and sing of their bad
+    children. A footnote describes the phonographic-record source and Chukchee/Koryak
+    linguistic context of the songs.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced as Appendix I, Songs, and includes a song marked
+    as the first item.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first-person singer announces an intention to sing of Qutx and Qutx's
+    family.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The singer names a wife, Alfiatva'gal, and says they will sing of the people
+    of Ye'jmel.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The singer says they will recover their senses and have rest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The singer attributes being stunned to fly-agaric.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After recovering their senses, the singer says they will run to their sweetheart.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The singer says they will sing of their bad children.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The footnote states that the two songs were written down from Mr. Jochelson's
+    phonographic records and gives linguistic and informant provenance for the songs.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person singer
+  description: The speaking voice of the song, using first-person statements about
+    singing, recovering senses, resting, and running to a sweetheart.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Qutx
+  description: A named figure whom the singer says they are going to sing of.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Qutx's family
+  description: The family of Qutx, named as a subject of the singer's song.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Alfiatva'gal
+  description: A named wife mentioned by the singer.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: people of Ye'jmel
+  description: A named group of people whom the singer says they will sing of.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: sweetheart
+  description: The singer's sweetheart, toward whom the singer says they will run
+    after recovering their senses.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: bad children
+  description: Children described by the singer as 'my bad children' and named as
+    a subject of song.
+  role_refs:
+  - role:3
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: first-person song speaker
+  assigned_to:
+  - fig:1
+  basis: The passage uses first-person statements such as intending to sing, recovering
+    senses, and running to a sweetheart.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named subject of song
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The singer says they are going to sing of Qutx and his family.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: kin group
+  assigned_to:
+  - fig:3
+  - fig:7
+  basis: Qutx is associated with a family, and the singer refers to 'my bad children.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: wife
+  assigned_to:
+  - fig:4
+  basis: The singer states, 'I have a wife Alfiatva'gal.'
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: additional song subject
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: The singer says they will sing of the people of Ye'jmel and of their bad
+    children.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: beloved destination
+  assigned_to:
+  - fig:6
+  basis: The singer says that after recovering their senses they will run to their
+    sweetheart.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: fly-agaric-stunned person
+  assigned_to:
+  - fig:1
+  basis: The singer says they have stunned themself with fly-agaric and will recover
+    their senses.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fly-agaric
+  literal_form: fly-agaric
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Announced subjects of song
+  summary: The singer announces that the song will concern Qutx, Qutx's family, a
+    wife named Alfiatva'gal, and the people of Ye'jmel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Fly-agaric stunning and recovery
+  summary: The singer says they will recover their senses and rest after being stunned
+    with fly-agaric, then run to their sweetheart and sing of their bad children.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Singing of named kin and people
+  taxonomy_refs: []
+  basis: 'The passage centers the song on named persons and collectives: Qutx, Qutx''s
+    family, a wife, the people of Ye''jmel, and children.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a short lyric fragment rather than a complete narrative
+    episode.
+- id: motif:2
+  label: Intoxication followed by recovery and movement to beloved
+  taxonomy_refs: []
+  basis: The singer says they were stunned by fly-agaric, will recover their senses,
+    and then run to their sweetheart.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text does not give a narrative outcome or explain the function of
+    the fly-agaric episode.
+comparison_claims:
+- id: claim:1
+  claim: 'The footnote supports a nearby-corpus linguistic contact context for the
+    songs: one is described as Koryak of Kamenskoye, while the other is described
+    as Chukchee in grammar and phonetics and Koryak in vocabulary, obtained from a
+    Reindeer Chukchee informant who had lived among Reindeer Koryak.'
+  claim_level: linguistic_similarity
+  target: Chukchee and Koryak oral-textual corpus context
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a provenance and linguistic-contact claim, not evidence that
+    a specific narrative motif is shared.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 1988-1991
+  quote_or_summary: Appendix I is labeled as songs, with an item marked as the first
+    song.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 1993-1995
+  quote_or_summary: The singer says they are going to sing of Qutx and his family,
+    names a wife Alfiatva'gal, and says they will sing of the people of Ye'jmel.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 1997-2000
+  quote_or_summary: The singer says they will recover their senses and rest, that
+    they were stunned with fly-agaric, then will run to their sweetheart and sing
+    of their bad children.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; source metadata states full text allowed.
+- id: ev:4
+  type: summary
+  locator: lines 2002-2006
+  quote_or_summary: A footnote says the two songs were written from Mr. Jochelson's
+    phonographic records; it identifies the first as Koryak of Kamenskoye and the
+    second as Chukchee in grammar and phonetics but Koryak in vocabulary, obtained
+    from an old Reindeer Chukchee of Parapolski Dol who had long lived among Reindeer
+    Koryak.
+  source_text_path: texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md
+  rights_note: Public domain; source metadata states full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif identification is limited
+    because the passage is a brief song fragment with little narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No taxonomy motif family was assigned because the passage does not clearly support one from the available list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-koryak-texts-bogoras-archive__l1988-l2006
+  passage_sha256=ff16b172c43f6a20ba933f33967c866dc4b2391444ec5adddc4deb4646727946
+

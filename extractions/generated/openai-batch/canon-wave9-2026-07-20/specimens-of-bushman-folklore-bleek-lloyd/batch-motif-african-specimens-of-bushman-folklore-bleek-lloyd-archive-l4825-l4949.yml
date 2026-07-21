@@ -1,0 +1,372 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l4825-l4949
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: TARS1NG. 147 / D 0 3 II / CHILDEEN. / CHILDREN.; lines 4825-4949
+  start: '4825'
+  end: '4949'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A man lies still after an encounter with a lion, which suspects he may
+    still be alive and repeatedly looks back. The lion, hungry and thirsty, goes toward
+    water intending to drink and return to eat. The man waits, then escapes by moving
+    irregularly so the lion cannot follow his spoor. From the hilltop he warns the
+    people at home, using an indirect expression for the lion attack, and asks them
+    to wrap him in many hartebeest-skins and mats so the lion will not get him.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The man does not stir even though a stick is piercing him, while the lion
+    appears to suspect that he is alive.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man watches the lion through his eyelashes as it moves away and over the
+    hill.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The lion returns partway or raises its head behind the hilltop to look again,
+    because it thinks the man may have been feigning death.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lion intends to go to the water to drink and then return to eat, being
+    both hungry and thirsty.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The man waits after the lion disappears because he thinks the lion is cunning
+    and may be trying to deceive him into rising.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When he rises, the man first springs to another place and then runs in a zigzag
+    direction so the lion will not smell out his footsteps or follow his spoor.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The man calls to the people at home from the top of the hill and says he has
+    been “lifted up” while the sun stood high.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The man asks the people to roll him up in many hartebeest-skins and mats so
+    the lion will not get him.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note states that the man avoided the name of the lion when telling the people
+    what happened.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The people are described as knowing that a lion does not leave what it has
+    killed when it has not eaten it.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man who lies still under the lion's scrutiny, watches it, escapes
+    by irregular movement, and calls to the people at home for concealment in skins
+    and mats.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the lion
+  description: A lion that suspects the man may be alive, looks back from the hill,
+    is hungry and thirsty, goes to drink, and is expected to return to find and eat
+    him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the people at home
+  description: People at home whom the man calls to, asking them to prepare hartebeest-skins
+    and mats to roll him up; they are said to know the lion's habit of returning to
+    uneaten prey.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: feigning-death survivor
+  assigned_to:
+  - fig:1
+  basis: The lion thinks the man has been feigning death, and the man remains still
+    until he judges the lion has gone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: spoors-concealing escapee
+  assigned_to:
+  - fig:1
+  basis: The man runs in a zigzag direction so the lion will not smell out his footsteps
+    or follow his spoor.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: suspicious returning predator
+  assigned_to:
+  - fig:2
+  basis: The lion looks back to see whether the man is alive and is expected to return
+    to seek or eat him after drinking.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: home protectors or helpers
+  assigned_to:
+  - fig:3
+  basis: The people at home are asked to roll the man in skins and mats so the lion
+    cannot get him.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water sought by the lion
+  literal_form: water
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hill and hilltop lookout
+  literal_form: hill, top of the hill, and the other side of the hill
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: sym:3
+  label: zigzag path used to confuse spoor
+  literal_form: zigzag direction of running and irregular footprints
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: protective wrapping materials
+  literal_form: many hartebeest-skins and mats
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: The man lies still under the lion's suspicion
+  summary: The man remains motionless despite pain while the lion appears to suspect
+    that he is alive; the man watches the lion through his eyelashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: The lion looks back and goes to drink
+  summary: The lion moves over the hill but looks back again, thinking the man may
+    be feigning death, and then intends to drink water before returning to eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: The man waits before rising
+  summary: The man remains lying down after the lion disappears because he thinks
+    the lion is cunning and may come back to peep again.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: The man escapes by confusing his spoor
+  summary: The man rises, springs to another place, and runs in a zigzag direction
+    to prevent the lion from smelling out and following his tracks.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: The man calls home for concealment
+  summary: From the hilltop, the man calls to the people at home, indirectly reports
+    that he has been attacked, and asks to be rolled in hartebeest-skins and mats
+    so the lion cannot get him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Feigning death to survive a predator
+  taxonomy_refs: []
+  basis: The lion suspects the man may be alive and specifically thinks he may have
+    been feigning death; the man remains still until the lion is gone.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is a prose incident rather than an explicit motif classification.
+- id: motif:2
+  label: Predator returns to uneaten prey
+  taxonomy_refs: []
+  basis: The lion goes to drink but is expected to return to eat, and the people know
+    a lion does not leave what it has killed when it has not eaten it.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is described as animal behavior within the passage; broader comparative
+    use requires review.
+- id: motif:3
+  label: Escape by confusing tracks or spoor
+  taxonomy_refs: []
+  basis: The man runs in a zigzag direction so the lion will not smell out his footsteps
+    or follow his spoor to find him.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage presents a practical evasive action; no explicit supernatural
+    element is present.
+- id: motif:4
+  label: Protective concealment in skins and mats
+  taxonomy_refs: []
+  basis: The man asks the people to roll him in many hartebeest-skins and mats so
+    the lion should not get him.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The exact protective mechanism is not fully explained beyond preventing
+    the lion from getting him.
+- id: motif:5
+  label: Avoidance of a dangerous animal's name
+  taxonomy_refs: []
+  basis: A note explains that the man avoided the name of the lion and instead said
+    he had been “lifted up.”
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The evidence comes from an editorial note in the passage, not from an
+    extended explanation in the narrative itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4825-4836; internal markers 4470-4472
+  quote_or_summary: The lion suspects the man is alive; the man does not stir despite
+    a stick piercing him and watches the lion through his eyelashes as it goes away
+    over the hill.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4836-4855; internal markers 4473-4477
+  quote_or_summary: The lion looks back from behind the hilltop because it thinks
+    the man may have been feigning death; it plans to go to water to drink and then
+    return to eat because it is hungry and thirsty.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4856-4874; internal markers 4478-4484
+  quote_or_summary: The man keeps lying still after the lion disappears, reasoning
+    that the lion is cunning and might be pretending to have gone so that he will
+    arise.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4875-4899; internal markers 4484-4489
+  quote_or_summary: The man rises by first springing to a different place, then runs
+    in a zigzag direction so the lion will not smell out his footsteps, follow his
+    spoor, or find him at home.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4900-4949; internal markers 4490-4494
+  quote_or_summary: From the hilltop the man calls to the people at home that he has
+    been “lifted up” while the sun was high; he asks them to roll him in many hartebeest-skins
+    and mats so the lion will not get him, because the lion is expected to return
+    to uneaten prey.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized with brief public-domain phrase.
+- id: ev:6
+  type: note
+  locator: footnote near internal marker 4489'
+  quote_or_summary: Editorial note states that the man avoided the name of the lion
+    when reporting what happened.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is internally coherent but begins mid-episode and uses editorial
+    notes and internal markers that differ from the supplied markdown line range.
+    Motif labels are descriptive and require human review for taxonomy alignment.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly support comparison to another text, tradition, or motif family beyond descriptive candidate motifs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l4825-l4949
+  passage_sha256=9f407fe6923e8090f536575553341005a0ebd5417fabef9d6fc924594de7ca22
+

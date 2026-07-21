@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l29864-l29876
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: TWENTY-SEVENTH   ANNUAL  REPORT     PLATE  55 / WAR    HONOR    DECORATIONS
+    / BUREAU   OF  AMERICAN    ETHNOLOGY / PONCA    CHIEF; lines 29864-29876
+  start: '29864'
+  end: '29876'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A war leader tells his men that crows have offered to scout for enemies
+    and will return on an appointed morning; a crow with a missing right-wing feather
+    will be recognized. The birds return, report numbers and expected deaths, and
+    the war party succeeds. The passage then states that crow and wolf aided people
+    by directing them to enemies and game, while people killed so the animals could
+    feed on flesh left from battle or hunting.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A story is introduced about a warrior to whom crows offered scouting services.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The leader tells his men that the crows promised to search for the enemy and
+    wanted to feast on human flesh.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The leader identifies one crow by a missing feather on its right wing and
+    says this mark will allow recognition when it returns.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The birds return on the appointed morning and give the leader the number of
+    people he will encounter and how many will be slain.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The reported outcome comes true, and the war party returns successful.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: 'The crow and the wolf are described as offering company to the people for
+    mutual aid: they direct people to enemies and game, and the people kill so the
+    animals can feast on flesh left after battle or the chase.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: warrior-leader
+  description: A warrior and leader who addresses his men and receives the crows'
+    report.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: leader's men / war party / people
+  description: The leader's men and the broader people who participate in war or hunting
+    and return successful.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: crows / birds
+  description: Crows that offer scouting service, search for the enemy, return with
+    a report, and are later named as mutual-aid companions of the people.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: marked crow
+  description: A crow recognizable by one missing feather from its right wing.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: enemy / people to be encountered
+  description: The enemy whom the crows search for and whose number and expected slain
+    are reported.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: wolf
+  description: The wolf is named with the crow as offering company to the people and
+    aiding them in finding enemies and game.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: game
+  description: Unspecified game sought in the chase with the direction of crow and
+    wolf.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: warrior-leader and report recipient
+  assigned_to:
+  - fig:1
+  basis: He speaks to his men, identifies the marked crow, and receives the returning
+    birds' information.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: war party and human killing partners
+  assigned_to:
+  - fig:2
+  basis: The men are addressed as part of the expedition; the people are described
+    as killing in battle or chase so crow and wolf can feed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: animal scouts and directors
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The crows offer scouting and search for enemies; crow and wolf are said to
+    direct people to enemies and game.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:4
+  label: recognizable returning messenger
+  assigned_to:
+  - fig:4
+  basis: The missing right-wing feather marks the crow for recognition on its return.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: quarry or target to be found
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: Enemies and game are the beings sought with the direction of crow and wolf.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:6
+  label: feeders on flesh left by human action
+  assigned_to:
+  - fig:3
+  - fig:6
+  basis: The crows want human flesh, and crow and wolf feed on flesh left on the battlefield
+    or in the chase.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: crow
+  literal_form: Crow or group of crows acting as scouts and flesh-feeding companions.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: wolf
+  literal_form: Wolf named with the crow as a mutual-aid companion and director.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: missing right-wing feather
+  literal_form: One feather missing from the right wing of the returning crow.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: flesh left after battle or chase
+  literal_form: Human or game flesh left on the field of battle or in the chase for
+    crow and wolf to eat.
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Crows offer scouting and a marked crow is identified
+  summary: The leader tells his men that the crows have promised to search for the
+    enemy, want to eat human flesh, and will return on the second morning; a crow
+    missing a right-wing feather will be the recognition mark.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Birds return with accurate war information
+  summary: The birds return at the appointed time, report the number of people to
+    be encountered and slain, and the war party succeeds as reported.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Crow and wolf mutual aid with the people
+  summary: Crow and wolf are described as companions who direct people to enemies
+    and game; in return, people kill so the animals can feed on flesh left from battle
+    or hunting.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal scouts aid a war party
+  taxonomy_refs: []
+  basis: Crows offer to search for the enemy and later return with useful war information.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied passage gives the crow episode clearly; it does not provide
+    a separate detailed wolf scouting story.
+- id: motif:2
+  label: reciprocal human-animal aid in war and hunting
+  taxonomy_refs: []
+  basis: Crow and wolf direct people to enemies and game, while people kill so the
+    animals can feast on remaining flesh.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage calls the arrangement mutual aid, but does not explicitly
+    frame it as sacred or ritual exchange.
+- id: motif:3
+  label: marked returning animal messenger
+  taxonomy_refs: []
+  basis: A crow with a missing right-wing feather is named as the recognizable bird
+    that will return on the appointed day.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The mark is described as practical identification; any broader symbolic
+    value is not stated in the passage.
+- id: motif:4
+  label: accurate animal report foretells expedition outcome
+  taxonomy_refs: []
+  basis: The returning birds report numbers and expected deaths, and the passage says
+    the report came true before the war party returned successful.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage reports accurate foreknowledge but does not explain its mechanism.
+comparison_claims:
+- id: claim:1
+  claim: Within the passage, crow and wolf share the same function as animal companions
+    who direct people toward enemies and game and receive flesh as the result of human
+    killing.
+  claim_level: same_function
+  target: crow-and-wolf mutual-aid pattern in this passage
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal functional comparison only; the passage does not
+    establish historical contact, common inheritance, or comparison with another external
+    tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: '29864'
+  quote_or_summary: A story is introduced about a warrior to whom crows offered their
+    services as scouts.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: 29865-29870
+  quote_or_summary: The leader says the crows promised to search for the enemy, wanted
+    human flesh, would return on the second morning, and that a crow missing a right-wing
+    feather would be recognized.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: 29870-29872
+  quote_or_summary: The birds return on the appointed morning, report the number to
+    be encountered and slain, and the war party succeeds as the report said.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 29874-29876
+  quote_or_summary: 'Crow and wolf are described as mutual-aid companions: they direct
+    people to enemies and game, while people kill so the animals can feed on flesh
+    left after battle or hunting.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward from the supplied passage. Motif
+    labels are descriptive and not tied to external taxonomy IDs because the available
+    taxonomy does not include crow, wolf, animal scout, or carrion-feeding helper
+    categories. The comparison claim is limited to an internal same-function comparison
+    between crow and wolf.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or unsupported taxonomy references were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l29864-l29876
+  passage_sha256=6544d602e1f3cee311a17fc57a37d18203b0b79ed3347e721e9bb6436d7af8bc
+

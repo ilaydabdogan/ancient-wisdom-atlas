@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l16254-l16281
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE GREAT FIERY SERPENT. / THE RAINBOW. / UTINGO LWENKOSIKAZI. / UTSHINTSHA
+    NOMNYAMA.; lines 16254-16281
+  start: '16254'
+  end: '16281'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Utshintsha recounts watching in a garden after rain when a rainbow descended
+    into a river, came out, and entered the garden. He fled because the rainbow came
+    near, dazzled his eyes with red color, and frightened him. He says people call
+    the rainbow disease and warn that if it rests on a person something will happen.
+    After the encounter his body became swollen; a note says he had a scaly eruption
+    over the whole body.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: After rain cleared, a rainbow descended into a river, came out of the river,
+    and entered the garden.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: Utshintsha identifies himself as the owner of the garden and the first-person
+    observer of the event.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:3
+  text: Utshintsha ran away when the rainbow came near him and dazzled his eyes with
+    a red color.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Utshintsha says he fled because he was afraid and described the approaching
+    rainbow as disease.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Men are reported as saying that the rainbow is disease and that if it rests
+    on a person something will happen to that person.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After the rainbow drove Utshintsha from the garden, his body became affected
+    with swellings; the note says he suffered a scaly eruption over the whole body.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Utshintsha
+  description: First-person narrator, owner of the garden, who flees the approaching
+    rainbow and later has bodily swellings.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the rainbow
+  description: A rainbow that descends into the river, enters the garden, comes near
+    Utshintsha, dazzles his eyes with red color, and is described as disease in reported
+    speech.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: men
+  description: Unnamed collective speakers who state that the rainbow is disease and
+    dangerous if it rests on a person.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first-person witness
+  assigned_to:
+  - fig:1
+  basis: Utshintsha narrates the event in the first person.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: garden owner
+  assigned_to:
+  - fig:1
+  basis: Utshintsha calls himself the owner of the garden.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: afflicted person
+  assigned_to:
+  - fig:1
+  basis: His body is said to become affected with swellings after the encounter.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: approaching atmospheric phenomenon
+  assigned_to:
+  - fig:2
+  basis: The rainbow moves from river to garden and comes near Utshintsha.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: reported harmful presence
+  assigned_to:
+  - fig:2
+  basis: Utshintsha and reported speakers associate the rainbow with disease or harmful
+    consequence.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: reported traditional speakers
+  assigned_to:
+  - fig:3
+  basis: The passage introduces the statement with 'Men say'.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: rainbow
+  literal_form: Rainbow descending into a river, entering a garden, dazzling the eyes
+    with red color, and being called disease.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: river water
+  literal_form: The river into which the rainbow descends and out of which it comes.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: red dazzling color
+  literal_form: A red color from the approaching rainbow that strikes Utshintsha in
+    the eyes.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: bodily swellings
+  literal_form: Swellings on Utshintsha’s body, with a note describing a scaly eruption
+    over the whole body.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Rainbow moves from river to garden
+  summary: After rain clears, Utshintsha watches as a rainbow descends into the river,
+    leaves it, and comes into the garden.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Utshintsha flees the dazzling rainbow
+  summary: The rainbow approaches Utshintsha, dazzles his eyes with red color, and
+    he runs away from the garden in fear, calling it disease.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Reported danger and bodily affliction
+  summary: Reported speakers say the rainbow is disease and harmful if it rests on
+    a person; Utshintsha says his body afterward became affected with swellings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dangerous rainbow associated with disease or bodily affliction
+  taxonomy_refs: []
+  basis: The passage states that Utshintsha calls the rainbow disease, reports that
+    men say the rainbow is disease, and connects the encounter with later bodily swellings.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The available taxonomy does not include a specific rainbow or disease
+    motif; the current passage itself names the rainbow, not a serpent.
+- id: motif:2
+  label: flight from an approaching dazzling sky-phenomenon
+  taxonomy_refs: []
+  basis: Utshintsha flees when the rainbow comes near and dazzles his eyes with red
+    color.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a descriptive motif candidate based on a single narrated encounter,
+    not a named taxonomy family.
+- id: motif:3
+  label: rainbow emerging through water into human space
+  taxonomy_refs: []
+  basis: The rainbow descends into the river, comes out of it, and enters the garden
+    where Utshintsha is present.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage reports the movement literally but does not explain its cosmological
+    significance.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 16254-16256
+  quote_or_summary: Passage heading identifies the episode as 'UTSHINTSHA NOMNYAMA'
+    and 'UTSHINTSHA AND THE RAINBOW'.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise citation/summary used.
+- id: ev:2
+  type: summary
+  locator: 16257-16263
+  quote_or_summary: After rain clears, a rainbow descends into the river, comes out
+    of the river, and comes into the garden.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 16263-16270
+  quote_or_summary: Utshintsha, owner of the garden, runs away when the rainbow comes
+    near, dazzles his eyes, and strikes his eyes with red color; he says he was afraid
+    and calls it disease.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 16270-16274
+  quote_or_summary: "“The rainbow is disease. If it rests on a man, something will
+    happen to him.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 16274-16281 and note 47
+  quote_or_summary: After the rainbow drove him from the garden, Utshintsha says his
+    body became affected with swellings; the note says he suffered from a scaly eruption
+    over the whole body.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif candidates are descriptive because
+    the passage offers a strong local association between rainbow and affliction but
+    no explicit broader comparative claim. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The section locator mentions 'The Great Fiery Serpent' and 'The Rainbow,' but the supplied passage text for this record explicitly describes only the rainbow; no serpent taxonomy reference was assigned.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l16254-l16281
+  passage_sha256=8addbd82aec7de6db5debffc65b7eef277bc65191b9bf51da5446f247dc01677
+

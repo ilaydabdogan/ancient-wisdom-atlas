@@ -1,0 +1,216 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l2319-l2347
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAISM    IN    THE    ROMAN    EMPIRE  43 / MITHRAISM    IN    THE    ROMAN    EMPIRE  45
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE  49 / THE    MYSTERIES    OF    MITHRA;
+    lines 2319-2347
+  start: '2319'
+  end: '2347'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the regional distribution of Mithraic monuments,
+    distinguishing sparse evidence in the Upper Danube and Alpine regions from the
+    strong expansion of Mithraism in the two Germanies, which it attributes to army
+    corps. It includes a figure caption for a Sun-God relief fragment from Virunum
+    and mentions a centurion's dedication to Soli Invicto Mithrae around 148 A.D.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A belated inscription of a speculator of legion I Noricorum is described as
+    the only inscription in the countries under discussion that mentions a soldier.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says monuments of the Mysteries are very sparsely scattered in
+    the valley of the Upper Danube, where Roman troops were concentrated.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says the monuments are not found in increased numbers until the
+    other slope of the Alps is reached, and that the epigraphy of that region forbids
+    assigning them a military origin.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A figure caption identifies a Sun-God and describes the item as a fragment
+    from the grand bas-relief of Virunum in Noricum.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage attributes the extension of Mithraism in the two Germanies to
+    powerful army corps defending a menaced territory.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage reports an inscription dedicated by a centurion to Soli Invicto
+    Mithrae around 148 A.D.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Sun-God
+  description: A figure identified by the caption as SUN-GOD, associated with a relief
+    fragment from Virunum in Noricum.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Soli Invicto Mithrae
+  description: The named recipient of an inscription dedicated by a centurion around
+    148 A.D.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: captioned solar deity figure
+  assigned_to:
+  - fig:1
+  basis: The figure caption names the represented figure as SUN-GOD.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of centurion's dedication
+  assigned_to:
+  - fig:2
+  basis: The passage says an inscription was dedicated by a centurion to Soli Invicto
+    Mithrae.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sun-God relief image
+  literal_form: Captioned image or relief fragment identified as SUN-GOD from Virunum
+    in Noricum.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Dedicatory inscription to Soli Invicto Mithrae
+  literal_form: Inscriptional dedication by a centurion to Soli Invicto Mithrae.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sparse Upper Danube and Alpine evidence
+  summary: The passage describes Mithraic monuments as sparse in the Upper Danube
+    valley and says the epigraphic evidence beyond the Alps does not support a military
+    origin there.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Captioned Sun-God relief fragment
+  summary: A figure caption presents a Sun-God as a fragment from the grand bas-relief
+    of Virunum in Noricum.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Germanic military expansion and dedication
+  summary: The passage attributes Mithraism's expansion in the two Germanies to army
+    corps and cites a centurion's dedication to Soli Invicto Mithrae around 148 A.D.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Solar deity in Mithraic material culture
+  taxonomy_refs: []
+  basis: The passage includes a captioned Sun-God relief fragment and an inscriptional
+    dedication to Soli Invicto Mithrae.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The passage is modern historical discussion and caption material, not
+    a mythic narrative; the motif is limited to solar association in material and
+    epigraphic evidence.
+- id: motif:2
+  label: Military sponsorship or spread of a cult
+  taxonomy_refs: []
+  basis: The passage attributes Mithraism's expansion in the two Germanies to army
+    corps and cites a centurion's dedication.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a historical diffusion pattern rather than a mythological plot
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2319-2333
+  quote_or_summary: A belated inscription mentioning a soldier is singular for the
+    area; monuments of the Mysteries are sparse in the Upper Danube valley and are
+    not numerous until the other slope of the Alps, where epigraphy does not support
+    a military origin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 2335-2340
+  quote_or_summary: '"Fig. ii. SUN-GOD. (Fragment from the grand bas-relief of Virunum,
+    in Noricum.)"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 2341-2346
+  quote_or_summary: '"the marvellous extension that Mithraism took in the two Germanies
+    is undoubtedly due to the powerful army corps"'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 2346-2347
+  quote_or_summary: '"an inscription dedicated by a centurion to the Soli Invicto
+    Mithrae about the year 148 A.D."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The historical and caption evidence is clear, but motif extraction is limited
+    because the passage is not a mythic narrative and contains no explicit taxonomy-listed
+    motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy references were assigned because the available motif and symbol lists do not include a direct solar-deity or military-diffusion category.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l2319-l2347
+  passage_sha256=a8a78fb8b00a0db3e7b9ae8d107af61eab74df6a6eaeaedbb78e0e61e63e49f1
+

@@ -1,0 +1,410 @@
+---
+record_id: batch.motif.sufi-rumi-masnavi-whinfield-archive-l15669-l15738
+source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+passage_locator:
+  label: THE MASH AVI. / THE MASH AVI. / THE MASH A VI. / THE MASNA VL; lines 15669-15738
+  start: '15669'
+  end: '15738'
+  translation: 'Masnavi i Ma''navi: Teachings of Rumi'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Last Trump and divine command for bodies and
+    atoms to rise, souls returning to their own bodies, books of deeds placed in right
+    and left hands, deeds and thoughts becoming manifest, fear of receiving the book
+    in the left hand, and the evildoer being sent to a fiery prison.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A command to arise and the blast of the Last Trump are described as God's
+    command for every body or atom to lift its head from the earth.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Souls return to and enter their own bodies, with examples stating that the
+    soul of one type of person does not enter another type's body.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Books fly into right hands and left hands, and God places books recording
+    greed, liberality, sin, piety, and other practices into hands.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: On awakening, each person's good and evil actions recur to them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Thoughts from life appear as forms visible to all, compared with an architect's
+    thought realized in a house and a plant issuing from a seed.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Spring is said to unfold winter's secret; one figure becomes verdant and flourishing
+    and says, "We are the pious," while another hangs his head and weeps in fear of
+    receiving his book in the left hand.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The evildoer is sent to the fiery prison.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: God
+  description: God is named as the source of the command and as the one placing the
+    books in hands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Every body or atom
+  description: Every body or atom is addressed by the command to rise from the earth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Souls
+  description: Souls return to, recognize, and enter their own bodies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: The pious
+  description: A group is described as verdant and flourishing and saying, "We are
+    the pious."
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Fearful other or evildoer
+  description: Another figure hangs his head, weeps in fear of the left-hand book,
+    and the evildoer is sent to the fiery prison.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: Divine commander and distributor of books
+  assigned_to:
+  - fig:1
+  basis: God's command raises bodies, and God places the books in hands.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: Resurrected bodily recipients
+  assigned_to:
+  - fig:2
+  basis: Every body or atom receives the command to lift its head from the earth.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Returning souls
+  assigned_to:
+  - fig:3
+  basis: Souls return to and enter their own bodies.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Pious group
+  assigned_to:
+  - fig:4
+  basis: One group flourishes and identifies itself as pious.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: Fearful or condemned wrongdoer
+  assigned_to:
+  - fig:5
+  basis: Another fears the left-hand book, and the evildoer is sent to fiery prison.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Last Trump and command to arise
+  literal_form: The blast of the Last Trump as God's command for atoms to rise from
+    the earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Books in right and left hands
+  literal_form: Books recording greed, liberality, sin, piety, and whatever has been
+    practiced, placed into right or left hands.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: Visible forms of thoughts
+  literal_form: Thoughts from life appearing as forms visible to all.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Seed, plant, spring, and winter
+  literal_form: A plant issuing from seed, and spring unfolding the secret of winter,
+    used in the passage's imagery of manifestation.
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: Fiery prison
+  literal_form: A fiery prison to which the evildoer is sent.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Summons of resurrection
+  summary: The command to arise and the blast of the Last Trump call every body or
+    atom to rise from the earth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Soul-body reunion
+  summary: Souls return to their own bodies, recognize them, and enter them without
+    crossing into another person's body.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Books of deeds and recollection
+  summary: Books of record come into right and left hands, and the awakened persons
+    remember their good and evil actions.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Manifest thoughts and differentiated outcomes
+  summary: Life's thoughts become visible forms; spring and seed imagery marks hidden
+    things becoming manifest, while the pious flourish and another fears the left-hand
+    book.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Fiery punishment
+  summary: The evildoer is sent to the fiery prison.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Last Trump and bodily resurrection
+  taxonomy_refs:
+  - resurrection
+  basis: The passage describes the Last Trump as God's command for bodies or atoms
+    to rise, followed by souls returning to their bodies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage does not name a trumpeter; it frames the blast as God's command.
+- id: motif:2
+  label: Book of deeds received in right or left hand
+  taxonomy_refs:
+  - divine_judgment
+  basis: Books recording moral and practical acts are placed in right and left hands,
+    and one figure fears receiving the book in the left hand.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage gives the left hand as feared; it does not explicitly state
+    all meanings of the right hand in this excerpt.
+- id: motif:3
+  label: Hidden deeds and thoughts made manifest
+  taxonomy_refs:
+  - divine_judgment
+  basis: Good and evil actions recur to the awakened persons, and thoughts from life
+    appear as visible forms.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states manifestation directly but presents some details through
+    analogy.
+- id: motif:4
+  label: Death as sleep and awakening
+  taxonomy_refs:
+  - death_rebirth
+  - resurrection
+  basis: The return of souls and recollection after resurrection are compared to sense
+    returning to bodies awakened from sleep and to awakening on that morning.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: This is expressed as analogy rather than a separate narrative episode.
+- id: motif:5
+  label: Fiery punishment of the evildoer
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage concludes that the evildoer is sent to a fiery prison.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The excerpt gives only a brief statement of punishment, without extended
+    description.
+comparison_claims:
+- id: claim:1
+  claim: A passage note connects the right- and left-hand books scene with Koran lxix.18,
+    supporting a cautious same-motif relation within Islamic scriptural tradition.
+  claim_level: same_motif
+  target: Koran lxix.18
+  evidence_refs:
+  - ev:3
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the citation note is supplied in this passage; the Qur'anic passage
+    itself is not quoted here.
+- id: claim:2
+  claim: A passage note identifies a parallel passage in Gulshan i Kaz, line 690,
+    for the manifestation of thoughts as visible forms.
+  claim_level: same_motif
+  target: Gulshan i Kaz, line 690
+  evidence_refs:
+  - ev:4
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the citation note is supplied; the parallel text is not included
+    in the provided passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15669-15674
+  quote_or_summary: The Last Trump is described as God's command for every body or
+    atom to rise from the earth.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:2
+  type: summary
+  locator: lines 15675-15688
+  quote_or_summary: Souls return to their own bodies as sense returns to waking bodies;
+    each soul recognizes and enters its own body, with examples of social and moral
+    types not interchanging bodies.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:3
+  type: summary
+  locator: lines 15689-15696
+  quote_or_summary: Books fly into right and left hands; God places books of greed,
+    liberality, sin, piety, and whatever has been practiced into hands.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:4
+  type: summary
+  locator: lines 15697-15712
+  quote_or_summary: On awakening, good and evil deeds recur; thoughts from life appear
+    as visible forms, like an architect's thought realized in a house or a plant issuing
+    from seed.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; summary generated.
+- id: ev:5
+  type: summary
+  locator: lines 15713-15730
+  quote_or_summary: Spring unfolds winter's secret; one becomes verdant and says,
+    "We are the pious," while another hangs his head and weeps in fear lest his book
+    be placed in his left hand.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; includes brief quotation from public
+    domain passage.
+- id: ev:6
+  type: quote
+  locator: lines 15731-15732
+  quote_or_summary: '"Then will the evildoer be sent to the fiery prison,"'
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; brief quotation used.
+- id: ev:7
+  type: note
+  locator: note attached to books in right and left hands within lines 15669-15738
+  quote_or_summary: The passage note says, "See Koran Ixix. i8."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; brief note quoted.
+- id: ev:8
+  type: note
+  locator: note attached to visible forms of thoughts within lines 15669-15738
+  quote_or_summary: The passage note says, "See the parallel passage in Gulshan i
+    Kaz, 1. 690."
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; brief note quoted.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The resurrection, judgment, book, manifestation, and fiery punishment motifs
+    are explicit in the passage. Comparison claims rely only on the passage's own
+    brief notes and therefore require human verification.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, source metadata, and available taxonomy references. The cited title "Gulshan i Kaz" is preserved as supplied in the passage note.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sufi-rumi-masnavi-whinfield-archive__l15669-l15738
+  passage_sha256=d78fa8c5e23b20eb2dd4e66c1f5e46c2400acb40adb9ef4637a8b10a9c9b8c40
+

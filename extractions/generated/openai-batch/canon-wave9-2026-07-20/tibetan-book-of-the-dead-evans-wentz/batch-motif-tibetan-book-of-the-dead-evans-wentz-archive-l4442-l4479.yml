@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.tibetan-book-of-the-dead-evans-wentz-archive-l4442-l4479
+source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+passage_locator:
+  label: THE MANUSCRIPT 73 / XIV. THE ORIGIN OF THE BARDO THODOL / ORIGIN OF THE BARDO
+    THODOL 75 / XV. THE TRANSLATING AND THE EDITING; lines 4442-4479
+  start: '4442'
+  end: '4479'
+  translation: The Tibetan Book of the Dead
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the Bardo Thodol is almost a sealed book
+  summary: The passage describes how Lama Kazi Dawa-Samdup translated the manuscript
+    with the editor present in Gangtok, explains that the work aimed at sense rather
+    than strict literalism, notes the difficulty of Tibetan Tantric and symbolic language,
+    compares possible future revision to Bible translations, and states that the text
+    is nearly inaccessible without lamaic Tantric training.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The translation of the manuscript was done in the editor's presence in Gangtok,
+    Sikkim.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Chief credit for the translation is assigned to Lama Kazi Dawa-Samdup, while
+    the editor is described by the Lama as a living English dictionary with very little
+    Tibetan knowledge.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The translator and editor aimed to stay close to the text's sense, and the
+    translator sometimes avoided strict literal translation in order to render the
+    meaning a lama would derive from technical phrases.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that Tibetan Tantric texts are difficult to render into
+    English and that bracketed interpolations were needed because of terse passages.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The rendering is said to be likely subject to future revision, compared with
+    the pioneer translations of the Bible.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage says a strictly literal rendering of symbolic non-Christian sacred
+    texts by Europeans could be misleading, comparing this risk to some renderings
+    of the ancient Sanskrit Vedas.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that even a Tibetan reader, unless a lama well versed in
+    Tantricism, would find the Bardo Thodol almost a sealed book.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Lama Kazi Dawa-Samdup
+  description: The late Lama identified as the translator of the manuscript and given
+    chief credit for the work.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the editor
+  description: The person in whose presence the translation was done; described as
+    the Lama's living English dictionary and as having almost no Tibetan knowledge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Europeans working with non-Christian sacred texts
+  description: A generalized group described as liable to be constrained by Western
+    mentality and to produce misleading literal renderings of symbolic sacred texts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: translator
+  assigned_to:
+  - fig:1
+  basis: The passage assigns chief credit for translating the manuscript to Lama Kazi
+    Dawa-Samdup.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: English-language editorial aid
+  assigned_to:
+  - fig:2
+  basis: The editor is characterized as the translator's living English dictionary
+    and as having minimal Tibetan knowledge.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: specialist interpreter of Tantric meaning
+  assigned_to:
+  - fig:1
+  basis: The translator renders meanings a lama would derive and is presented in relation
+    to lamaic and Tantric competence.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: potentially misleading literalist outsider
+  assigned_to:
+  - fig:3
+  basis: The passage warns that Europeans attempting strict literal renderings of
+    symbolic non-Christian sacred texts may mislead.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: living English dictionary image
+  literal_form: living English dictionary
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: sealed book image
+  literal_form: sealed book
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Translation in Gangtok
+  summary: The manuscript is translated in Gangtok with the editor present, while
+    credit is assigned chiefly to the Lama translator.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sense-over-literal translation method
+  summary: The translator and editor aim to preserve the sense of the Tibetan text,
+    sometimes departing from strict literalism and adding bracketed words where necessary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Esoteric difficulty and translation caution
+  summary: The editor reflects that symbolic Tantric sacred language may be misunderstood
+    by literalist outsiders and that the Bardo Thodol is nearly closed to readers
+    lacking lamaic Tantric training.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: esoteric wisdom requiring qualified interpreter
+  taxonomy_refs:
+  - wisdom
+  basis: The passage presents the Bardo Thodol as symbolically written and almost
+    sealed to those lacking lamaic Tantric training, while the translator is able
+    to render meanings a lama would derive.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is an editorial and translation passage, not a mythic narrative episode;
+    the motif label abstracts a pattern of specialized sacred knowledge.
+- id: motif:2
+  label: sacred-text translation through interpretive mediation
+  taxonomy_refs: []
+  basis: The passage emphasizes translation in the editor's presence, the editor as
+    an English-language aid, departures from strict literalism, and bracketed interpolations
+    to convey meaning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a scholarly transmission pattern rather than a standard mythological
+    motif family.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the likely future revision of this rendering to the
+    revision history of pioneer Bible translations.
+  claim_level: same_function
+  target: pioneer translations of the Bible
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns translation revision of sacred texts, not shared
+    narrative motifs or historical contact.
+- id: claim:2
+  claim: The passage compares the danger of misleading literal European renderings
+    of this symbolic Tantric text to some renderings of the ancient Sanskrit Vedas.
+  claim_level: same_function
+  target: renderings of the ancient Sanskrit Vedas
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is about translation pitfalls and symbolic sacred language,
+    not about shared mythic content.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 4442-4451
+  quote_or_summary: Translation was done in the editor's presence in Gangtok; chief
+    credit is given to Lama Kazi Dawa-Samdup, and the editor is called his "living
+    English dictionary" with very little Tibetan knowledge.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:2
+  type: summary
+  locator: 4452-4461
+  quote_or_summary: The translator and editor sought to keep close to the sense of
+    the text; the translator sometimes rendered the meaning that a lama would derive
+    rather than following strict literal phrasing.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:3
+  type: summary
+  locator: 4462-4466
+  quote_or_summary: Tibetan Tantric texts are described as difficult to turn into
+    English, and terse passages required bracketed interpolations.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:4
+  type: summary
+  locator: 4467-4476
+  quote_or_summary: The rendering may later be revised like pioneer Bible translations;
+    a strictly literal rendering of symbolic non-Christian sacred texts by Europeans
+    is said to risk being misleading, as with some renderings of the ancient Sanskrit
+    Vedas.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+- id: ev:5
+  type: summary
+  locator: 4476-4479
+  quote_or_summary: Even to a Tibetan reader, unless a lama well versed in Tantricism,
+    the Bardo Thodol is described as "almost a sealed book"; the excerpt then begins
+    to refer to the translator's lamaic training and faith in higher yogic teachings.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source metadata; supplied passage excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is editorial and metatextual rather than narrative. Literal translation
+    details and explicit comparisons are clear; motif candidates are limited to esoteric
+    knowledge and sacred-text transmission patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied excerpt ends mid-sentence after "Guru"; extraction avoids relying on any continuation not present in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-book-of-the-dead-evans-wentz-archive__l4442-l4479
+  passage_sha256=5ee5024be035ab651a916e445db11c470a8e266cf63f384bf8114d0925142f46
+

@@ -1,0 +1,208 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l4273-l4340
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: ENGLISH. / THE  CALENDAR / PRING / SUMMER; lines 4273-4340
+  start: '4273'
+  end: '4340'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents a calendar table aligning Persian month names and
+    seasons with Gregorian dates, gives examples of date equivalence, explains day-and-night
+    time reckoning and eight watches, and then begins a genealogical table of the
+    Pishdidians with three listed names.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage arranges Persian month names under seasons and gives corresponding
+    Gregorian date ranges.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage gives two examples converting named Persian calendar days and
+    months into Gregorian dates.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that time was reckoned by days and nights, and contrasts
+    this with reckoning by nights and days among Jews and Muhammadans.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the twenty-four hours of day and night were divided
+    into eight watches of three hours each.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A genealogical table of the Pishdidians is introduced and begins with entries
+    for G AIU MART, Siyamak, and HtJSHANQ.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: G AIU MART (i)
+  description: Named entry in the genealogical table of the Pishdidians, marked with
+    “(i)” in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Siyamak
+  description: Named entry in the genealogical table of the Pishdidians.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: HtJSHANQ (2)
+  description: Named entry in the genealogical table of the Pishdidians, marked with
+    “(2)” in the passage.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: named entry in Pishdidian genealogical table
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage heading identifies a genealogical table of the Pishdidians and
+    lists these names beneath it.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Calendar and time-reckoning exposition
+  summary: The passage lays out seasons, Persian months, Gregorian date equivalents,
+    date-conversion examples, and divisions of time into days, nights, and watches.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Opening of the Pishdidian genealogical table
+  summary: The passage introduces a genealogical table according to the Shahnama and
+    lists the first visible names in the table.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Seasonal calendar cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage explicitly orders months within seasons and correlates them with
+    dates across the year.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a calendrical table rather than a mythic narrative episode.
+- id: motif:2
+  label: Structured time reckoning by watches
+  taxonomy_refs: []
+  basis: The passage describes the twenty-four-hour day and night as divided into
+    eight three-hour watches.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This is an explanatory calendrical note; its symbolic or narrative function
+    is not stated in the excerpt.
+- id: motif:3
+  label: Genealogical ordering of ancestral figures
+  taxonomy_refs: []
+  basis: The passage introduces a genealogical table of the Pishdidians and begins
+    listing named entries.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only the heading and initial entries are visible; no narrative action
+    or explicit legitimacy claim appears in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly contrasts its day-and-night reckoning with Jewish
+    and Muhammadan reckoning by nights and days.
+  claim_level: same_function
+  target: Jewish and Muhammadan time-reckoning convention
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the stated order of time reckoning; it
+    does not establish historical contact, shared origin, or broader ritual equivalence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4273-4313
+  quote_or_summary: Season names and Persian month names are paired with Gregorian
+    date ranges, including Farvardin, Ardibihisht, Khurdad, Tir, Murdad, Sharivar,
+    Mihr, Aban, Adar, Din, Bahman, and Sapandarmad.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4314-4317
+  quote_or_summary: The passage says that Sapandarmad of Khurdad corresponds to May
+    24, and Khurdad of Sapandarmad corresponds to February 19.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 4318-4320
+  quote_or_summary: "“Time was reckoned by days and nights, not by nights and days
+    as among the Jews and Muhammadans.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 4321-4323
+  quote_or_summary: "“The twenty-four hours of the day and night were divided into
+    eight watches of three hours each.”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4324-4340
+  quote_or_summary: A heading introduces a “GENEALOGICAL TABLE OF THE PISHDIDIANS”
+    according to the Shahnama, followed by the entries “G AIU MART (i),” “Siyamak,”
+    and “HtJSHANQ (2).”
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain; summarized with brief names from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is largely a calendar and genealogical table rather than narrative
+    myth. Several words appear affected by OCR or formatting corruption, so figure-name
+    normalization has not been attempted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the supplied passage does not contain the available literal symbol forms.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l4273-l4340
+  passage_sha256=b429288576ab5711bc69f1915d9e2bff30e390f97ebd6fceeb69aa3983af5e34
+

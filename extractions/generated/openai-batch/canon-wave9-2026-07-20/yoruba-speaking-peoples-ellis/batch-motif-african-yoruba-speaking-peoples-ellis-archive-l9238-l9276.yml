@@ -1,0 +1,425 @@
+---
+record_id: batch.motif.african-yoruba-speaking-peoples-ellis-archive-l9238-l9276
+source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+passage_locator:
+  label: LANGUAGE. / LANGUAGE. / CHAPTER XIII. / PEO VERBS.; lines 9238-9276
+  start: '9238'
+  end: '9276'
+  translation: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their
+    Religion, Manners, Customs, Laws, Language, Etc.'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Riddles are sufficiently common, but few of them are good.
+  summary: 'The passage gives two examples of animal cries interpreted as Yoruba words
+    and connected with sayings, then lists several riddles with answers: the mouth
+    and teeth, fire, the cowry, the Milky Way, and the canoe.'
+  language: English with embedded Yoruba words and phrases
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The squirrel's cry is said to sound like a Yoruba expression, and a saying
+    explains that the squirrel betrayed herself by her own mouth after bringing forth
+    two young ones.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bush-fowl or partridge's cry is said to resemble words meaning "nothing
+    but fat," and a saying says the bird declares its fatness with its mouth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that riddles are common and then introduces examples.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A riddle describes a small confined room with pegs; the answer given is the
+    mouth with the teeth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A riddle describes an associate who cannot be tamed; the answer given is fire.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A riddle describes a dove with a prominent breast trading in every market;
+    the answer given is the cowry.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A riddle describes a hen that has many chickens; the answer given is the Milky
+    Way.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: A riddle describes a long, slim trader that never reaches the market; the
+    answer given is the canoe, which carries goods but stops at the landing-place.
+  category: relationship
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: squirrel
+  description: Animal whose cry is interpreted as sounding like a Yoruba expression
+    and whose mouth betrays her in the saying.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: squirrel's two young ones
+  description: The young ones brought forth by the squirrel in the saying.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: bush-fowl or partridge
+  description: Bird whose cry is interpreted as words meaning "nothing but fat."
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: mouth with teeth
+  description: Answer to the riddle of a small confined room containing pegs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: fire
+  description: Answer to the riddle of an associate who cannot be tamed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: dove with prominent breast
+  description: Figurative clue in the riddle whose answer is the cowry.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: cowry
+  description: Answer to the riddle about a dove with a prominent breast that has
+    traded in every market.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: hen with many chickens
+  description: Figurative clue in the riddle whose answer is the Milky Way.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:9
+  name_or_label: Milky Way
+  description: Answer to the riddle of a hen that has many chickens.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:10
+  name_or_label: canoe
+  description: Answer to the riddle of a long, slim trader that carries goods but
+    stops at the landing-place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: animal whose cry is interpreted as speech
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both animal cries are described as resembling Yoruba words or phrases.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: self-betrayer by mouth
+  assigned_to:
+  - fig:1
+  basis: The saying states that the squirrel's own mouth betrayed her.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: offspring in animal saying
+  assigned_to:
+  - fig:2
+  basis: The saying states that the squirrel had brought forth two young ones.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: animal declaring its fatness
+  assigned_to:
+  - fig:3
+  basis: The saying says the bush-fowl declares its fatness by its mouth.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: riddle answer
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:7
+  - fig:9
+  - fig:10
+  basis: Each is explicitly given as an answer to one of the listed riddles.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: role:6
+  label: figurative riddle clue
+  assigned_to:
+  - fig:6
+  - fig:8
+  basis: The dove and hen are images used in riddle questions rather than the stated
+    answers.
+  evidence_refs:
+  - ev:6
+  - ev:7
+symbols:
+- id: sym:1
+  label: animal cry as meaningful speech
+  literal_form: Squirrel and bush-fowl cries heard as Yoruba words or phrases
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mouth as small room with pegs
+  literal_form: A confined room with pegs representing the mouth and teeth
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: untamable fire
+  literal_form: Fire described as an associate who cannot be tamed
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: cowry as market-trading dove
+  literal_form: A dove with a prominent breast that has traded in every market
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: Milky Way as hen with many chickens
+  literal_form: A hen with many chickens representing the Milky Way
+  associated_figures:
+  - fig:8
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: canoe as trader that stops before market
+  literal_form: A long, slim trader carrying goods but not reaching the market
+  associated_figures:
+  - fig:10
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: squirrel cry and self-betrayal saying
+  summary: The squirrel's cry is connected to a saying in which her own mouth betrays
+    her after she has two young ones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: bush-fowl cry and fatness saying
+  summary: The bush-fowl's cry is interpreted as the words "nothing but fat," and
+    the saying treats the bird as declaring its own fatness.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: set of riddles and answers
+  summary: The passage presents riddles that identify the mouth and teeth, fire, the
+    cowry, the Milky Way, and the canoe through figurative descriptions.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: animal call interpreted as human speech
+  taxonomy_refs: []
+  basis: The passage gives two examples in which animal cries are heard as meaningful
+    Yoruba words and linked to sayings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a verbal-proverbial pattern in the passage, not a full mythic
+    narrative.
+- id: motif:2
+  label: riddle as concealed description and answer
+  taxonomy_refs:
+  - wisdom
+  basis: The passage introduces common riddles and gives multiple examples in which
+    figurative clues conceal ordinary, dangerous, economic, or celestial referents.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The link to the broad taxonomy family "wisdom" is plausible but not explicitly
+    framed as sacred or esoteric wisdom in the passage.
+- id: motif:3
+  label: celestial multitude as mother bird with young
+  taxonomy_refs: []
+  basis: The Milky Way is identified as the answer to a riddle about a hen with many
+    chickens.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: Only a single riddle is given; no further cosmological interpretation
+    is supplied.
+- id: motif:4
+  label: fire as untamable companion
+  taxonomy_refs: []
+  basis: Fire is the answer to a riddle describing an associate who cannot be tamed.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage provides only a brief riddle and does not expand the image
+    into a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9238-9245
+  quote_or_summary: The squirrel's cry is said to sound like a Yoruba expression;
+    a saying tells that her own mouth betrayed her after she brought forth two young
+    ones.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9246-9252
+  quote_or_summary: The bush-fowl or partridge's cry is said to resemble words meaning
+    "nothing but fat," and a saying says the bird declares its fatness with its mouth.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized with short quoted phrase.
+- id: ev:3
+  type: quote
+  locator: lines 9253-9255
+  quote_or_summary: '"Riddles are sufficiently common, but few of them are good."'
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 9256-9260
+  quote_or_summary: A riddle asks about a small confined room with hardly anything
+    in it but pegs; the answer is the mouth with the teeth.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9261-9263
+  quote_or_summary: A riddle asks for an associate who cannot be tamed; the answer
+    is fire.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 9264-9267
+  quote_or_summary: A riddle says there is no market in which the dove with the prominent
+    breast has not traded; the answer is the cowry.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 9268-9271
+  quote_or_summary: A riddle asks about a hen that has many chickens; the answer is
+    the Milky Way.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 9272-9276
+  quote_or_summary: A riddle describes something long and slim, engaged in commerce,
+    yet never reaching the market; the answer is the canoe, which carries goods but
+    stops at the landing-place.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are limited because the
+    passage is a linguistic and proverbial example set rather than a mythic narrative.
+    No comparison claims are made because the passage does not itself support cross-tradition
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy symbol reference applied only to explicit fire.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-yoruba-speaking-peoples-ellis-archive__l9238-l9276
+  passage_sha256=c8268a6777c86919f719a9e66e0e89f2dc869ae363823067d440e0e2dda3658e
+

@@ -1,0 +1,244 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l7457-l7475
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAISM  AND  THE  RELIGIONS  OF  THE  EMPIRE     189 / IQO  THE    MYSTERIES    OF    MITHRA
+    / MITHRAISM  AND  THE  RELIGIONS  OF  THE  EMPIRE     IQI / THE    MYSTERIES    OF    MITHRA;
+    lines 7457-7475
+  start: '7457'
+  end: '7475'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A figure caption identifies Fig. 44 as “The Passion of the God” and describes
+    the so-called Dying Alexander as a Pergamene sculptural type. It states that an
+    idealized portrait of Alexander as solar god has been recognized in the head of
+    a Mithraic statue of the Capitol, and that expressions of dolor, pathos, and compassion
+    are shared by major representations of the Mithraic sacrifice. Because the sculpture
+    has been partly restored, the caption says it cannot be determined with certainty
+    whether it originally belonged to an Asiatic group of tauroctonous Mithra.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels Fig. 44 as “The Passion of the God.”
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sculpture is identified as the so-called Dying Alexander, a type from
+    a Pergamene sculptural group dated to the second century before Christ.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage says an idealized portrait of Alexander as solar god has been
+    discovered in the head of a celebrated Mithraic statue of the Capitol.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The facial expressions of dolor, pathos, and compassion in the work are said
+    to be shared by important representations of the Mithraic sacrifice.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sculpture has been partly restored, making it impossible to determine
+    absolutely whether it originally formed part of an Asiatic group of tauroctonous
+    Mithra.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Dying Alexander
+  description: The so-called Dying Alexander, described as a Pergamene sculptural
+    type and associated with an idealized portrait of Alexander as solar god.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Mithra
+  description: Mithra is referenced through a Mithraic statue of the Capitol and a
+    possible Asiatic group of tauroctonous Mithra.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: dying heroic figure
+  assigned_to:
+  - fig:1
+  basis: The caption calls the sculpture the so-called Dying Alexander.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: solar god representation
+  assigned_to:
+  - fig:1
+  basis: The passage describes an idealized portrait of Alexander as solar god.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: tauroctonous deity
+  assigned_to:
+  - fig:2
+  basis: The passage refers to an Asiatic group of tauroctonous Mithra.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: solar god image
+  literal_form: idealized portrait of Alexander as solar god
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Mithraic sacrifice representation
+  literal_form: representations of the Mithraic sacrifice with facial expressions
+    of dolor, pathos, and compassion
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tauroctonous Mithra group
+  literal_form: possible Asiatic sculptural group of tauroctonous Mithra
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Visual comparison of Dying Alexander and Mithraic sacrifice imagery
+  summary: The passage compares the sculptural type of the Dying Alexander with the
+    head of a Mithraic statue and with representations of the Mithraic sacrifice,
+    focusing on shared emotional facial expressions.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Uncertain association with tauroctonous Mithra group
+  summary: The passage notes that restoration of the sculpture prevents certainty
+    about whether it originally belonged to an Asiatic group of tauroctonous Mithra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Mithraic sacrifice
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly mentions important representations of the Mithraic
+    sacrifice and a possible group of tauroctonous Mithra.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is an art-historical caption and does not narrate the sacrifice
+    itself.
+- id: motif:2
+  label: divine passion or suffering expression
+  taxonomy_refs: []
+  basis: The figure is titled “The Passion of the God,” and the passage emphasizes
+    facial expressions of dolor, pathos, and compassion associated with Mithraic sacrifice
+    representations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes sculptural expression rather than a full mythic
+    episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a visual comparison between the Dying Alexander sculptural
+    type and Mithraic sacrifice representations, especially through shared facial
+    expressions of dolor, pathos, and compassion.
+  claim_level: visual_similarity
+  target: Mithraic sacrifice representations
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is based on the caption’s art-historical description
+    and does not establish a shared narrative motif.
+- id: claim:2
+  claim: The passage cautiously raises, but does not confirm, the possibility that
+    the sculpture originally formed part of an Asiatic group of tauroctonous Mithra.
+  claim_level: visual_similarity
+  target: Asiatic group of tauroctonous Mithra
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs:
+  - ev:3
+  confidence: uncertain
+  limitations: The same evidence states that restoration makes absolute determination
+    impossible.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7457-7463
+  quote_or_summary: Fig. 44 is titled “The Passion of the God”; the sculpture is the
+    so-called Dying Alexander, a Pergamene type dated to the second century before
+    Christ.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 7464-7470
+  quote_or_summary: The passage states that an idealized portrait of Alexander as
+    solar god appears in the head of a Mithraic statue of the Capitol, and that its
+    expressions of dolor, pathos, and compassion are shared by important representations
+    of the Mithraic sacrifice.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 7470-7475
+  quote_or_summary: The sculpture has been partly restored, so it is impossible to
+    determine absolutely whether it originally formed part of an Asiatic group of
+    tauroctonous Mithra.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a caption and art-historical note, not a myth narrative. Literal
+    extraction is strong, while motif interpretation is limited to explicitly mentioned
+    Mithraic sacrifice and cautious visual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include the solar image, sculpture, or tauroctony.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l7457-l7475
+  passage_sha256=b7b135cf9919034804ec6c0ca63fa063fa1921e0367cd1fda90fe312f7d82aff
+

@@ -1,0 +1,407 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l5298-l5374
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: ULUHLAZASE. / ULUHLAZASE. / ULANGALASENIILA NOLANGALASENZANTSI. / ULANGALASENIILA
+    NOLANGALASENZANTSI.19; lines 5298-5374
+  start: '5298'
+  end: '5374'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“I am going to fetch my children, when I have collected ten oxen.”"
+  summary: The passage states that Ulangalasenthla was born before Ulangalasenzantsi.
+    Ulangalasenzantsi goes to fetch his children from Ulangalasenthla, taking ten
+    oxen and an old ragged garment. His road is blocked by ten swollen rivers; at
+    each river he throws in one ox, the water opens or divides, and he passes through.
+    Editorial notes gloss the names as west/east sun figures, connect the river act
+    with river sacrifice or respect customs, and compare adjacent legend material
+    with other tales in the same collection.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that Ulangalasenthla was born first and Ulangalasenzantsi
+    afterward.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An editorial note glosses Ulangalasenhla as Sun-of-the-West and Ulangalasenzantsi
+    as Sun-of-the-East, with upper and lower explained through mountains, sea, and
+    eastward-flowing rivers.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A heading says that Ulangalasenzantsi goes to fetch his children and that
+    his way is obstructed by ten swollen rivers which divide so he can pass.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ulangalasenzantsi says he will fetch his children after collecting ten oxen.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The children whom Ulangalasenzantsi seeks are with Ulangalasenthla.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ulangalasenzantsi takes a good-for-nothing old, ragged garment before going
+    to fetch his children.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At each swollen river, Ulangalasenzantsi throws in an ox; the river opens
+    or divides, and he passes through.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the tenth river, all ten oxen have been disposed of and Ulangalasenzantsi
+    goes on alone.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: An editorial note describes customs of paying respect or sacrificing to rivers
+    and interprets Ulangalasenzantsi's throwing of oxen as sacrifice to amatongo or
+    river-gods.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: An editorial note says adjacent legend material appears to be made up of other
+    tales involving princesses bathing, abduction or swallowing by a monster or cannibal,
+    and later killing of the monster.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Ulangalasenthla / Ulangalasenhla
+  description: Born before Ulangalasenzantsi; glossed in an editorial note as Sun-of-the-West;
+    Ulangalasenzantsi's children are with him.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Ulangalasenzantsi
+  description: Born after Ulangalasenthla; glossed as Sun-of-the-East; goes to fetch
+    his children, takes ten oxen and a ragged garment, and crosses ten swollen rivers
+    by throwing one ox into each.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Children of Ulangalasenzantsi
+  description: Children whom Ulangalasenzantsi seeks; they are said to be with Ulangalasenthla.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: paired solar name-bearer
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The editorial note glosses the two names as west/east sun names and explains
+    them as upper/lower according to landscape orientation.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: holder of the children
+  assigned_to:
+  - fig:1
+  basis: The children whom Ulangalasenzantsi seeks are said to be with Ulangalasenthla.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: child-retrieving traveler
+  assigned_to:
+  - fig:2
+  basis: Ulangalasenzantsi states his intent to fetch his children and goes on the
+    journey.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: offerer at river crossings
+  assigned_to:
+  - fig:2
+  basis: He throws one ox into each swollen river, after which the river opens or
+    divides and he passes.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: sought children
+  assigned_to:
+  - fig:3
+  basis: They are the children Ulangalasenzantsi goes to fetch.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: swollen rivers
+  literal_form: Ten swollen rivers obstruct the way and open or divide after an ox
+    is thrown in.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: ten oxen
+  literal_form: Ten oxen are collected; one is thrown into each river until all are
+    disposed of.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: tenfold count
+  literal_form: The journey names ten oxen and ten swollen rivers.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: old ragged garment
+  literal_form: A good-for-nothing old, ragged garment taken by Ulangalasenzantsi
+    before the journey.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: east-west upper-lower sun names
+  literal_form: Ulangalasenhla is glossed as Sun-of-the-West and Ulangalasenzantsi
+    as Sun-of-the-East; the editor explains west as upper/mountainward and east as
+    lower/seaward.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Birth and solar naming of two figures
+  summary: Ulangalasenthla is said to be born first, followed by Ulangalasenzantsi;
+    an editorial note glosses their names as west/east sun names.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Preparation to fetch the children
+  summary: Ulangalasenzantsi says he will fetch his children after collecting ten
+    oxen, takes an old ragged garment, and goes toward the place where the children
+    are with Ulangalasenthla.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ten river crossings
+  summary: Ulangalasenzantsi reaches ten swollen rivers in sequence. At each one he
+    throws in an ox; the water opens or divides, allowing him to pass. After the tenth
+    crossing he travels alone without the oxen.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Ox-offering opens dangerous water crossings
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The narrative repeats that an ox is thrown into a swollen river and the river
+    opens or divides; the editorial note identifies this as sacrifice to amatongo
+    or river-gods.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The word sacrifice is supplied by the editorial note; the narrative itself
+    only states that oxen are thrown into the rivers.
+- id: motif:2
+  label: Retrieval journey across repeated water thresholds
+  taxonomy_refs:
+  - mystical_quest
+  - departure
+  basis: Ulangalasenzantsi sets out to fetch his children, and the way is blocked
+    by ten swollen rivers that must be crossed one by one.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The excerpt provides only the outbound crossing sequence and does not
+    show the completion of the child-retrieval journey.
+- id: motif:3
+  label: Paired upper/lower solar counterparts
+  taxonomy_refs:
+  - duality
+  basis: The two named figures are glossed as west/east suns and explained through
+    an upper/lower landscape orientation.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage names and glosses the pair but gives little narrative interaction
+    between them in this excerpt.
+- id: motif:4
+  label: Tenfold repeated obstacle and offering sequence
+  taxonomy_refs: []
+  basis: The passage aligns ten oxen with ten swollen rivers, with one ox used at
+    each crossing.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: No explicit symbolic explanation for the number ten is given in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The editorial note compares Ulangalasenzantsi's river-crossing acts with
+    South African customs of respecting or sacrificing to rivers, including killing
+    an ox and throwing part into a river channel.
+  claim_level: same_function
+  target: South African river-respect and river-sacrifice customs described in note
+    20
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial ethnographic interpretation, and the note uses
+    tentative language about river spirits or former worship.
+- id: claim:2
+  claim: The editorial note identifies adjacent legend material as sharing motifs
+    with other tales in the collection, including princesses going to bathe, abduction
+    or swallowing by Isikgukgumadevu or a cannibal, and eventual killing of the monster.
+  claim_level: same_motif
+  target: Untombinde, Usitungusobenthle, and a third tale summarized in note 18
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note summarizes other tales rather than providing their full passages
+    here, and it appears to concern adjacent Uluthlazase material rather than only
+    the Ulangalasenzantsi river-crossing episode.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5298-5374; opening paragraph
+  quote_or_summary: Ulangalasenthla is said to have been born, and then Ulangalasenzantsi.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 5298-5374; note 19 and following editorial explanation
+  quote_or_summary: Note 19 glosses Ulangalasenhla as Sun-of-the-West and Ulangalasenzantsi
+    as Sun-of-the-East; the editor explains the names through an eastern-shore landscape
+    in which the sea is below and the mountains above.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 5298-5374; narrative heading after note 19
+  quote_or_summary: "“Ulangalasenzantsi goes to fetch his children: his way is obstructed
+    by ten swollen rivers, which divide, and he passes onward.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; short excerpt.
+- id: ev:4
+  type: summary
+  locator: lines 5298-5374; beginning of Ulangalasenzantsi narrative
+  quote_or_summary: Ulangalasenzantsi says he is going to fetch his children after
+    collecting ten oxen; he takes an old ragged garment and goes to fetch the children,
+    who are with Ulangalasenthla.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 5298-5374; river-crossing sequence
+  quote_or_summary: At each swollen river Ulangalasenzantsi throws in an ox; the river
+    divides or opens and he passes. After crossing the tenth river, all ten oxen are
+    gone and he proceeds alone.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 5298-5374; note 20
+  quote_or_summary: The editorial note says some South African groups pay respect
+    or sacrifice to rivers, including throwing part of an ox into a channel in drought,
+    and interprets Ulangalasenzantsi's oxen as sacrifice to amatongo or river-gods.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 5298-5374; note 18
+  quote_or_summary: 'The editorial note says the legend appears made up of others,
+    comparing material involving Untombinde and Usitungusobenthle: princesses and
+    attendants going to bathe, abduction or swallowing by Isikgukgumadevu or a cannibal,
+    an army destroyed, and the monster killed by a bereaved man or captive girl.'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main narrative episode is short and repetitive, while several comparative
+    or religious interpretations come from editorial notes rather than from direct
+    narration. Line sublocators are keyed to sections within the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy refs were limited to provided motif families and symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l5298-l5374
+  passage_sha256=3d64806c798a21def4fb6acbff872fa4aebd28119db90aff1920b957f5ce6c19
+

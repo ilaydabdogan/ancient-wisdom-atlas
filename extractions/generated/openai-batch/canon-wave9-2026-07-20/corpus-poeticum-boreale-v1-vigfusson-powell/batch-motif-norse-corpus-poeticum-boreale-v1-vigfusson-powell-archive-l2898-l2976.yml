@@ -1,0 +1,423 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l2898-l2976
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: INTRODUCTION. / DANISH SCHOLARS. XXV / XXX INTRODUCTION. / XXXIV INTRODUCTION.;
+    lines 2898-2976
+  start: '2898'
+  end: '2976'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses the likely late collection of Eddic poems from oral
+    reciters, the division of the manuscript collection into mythic and heroic bundles,
+    the fragmentary and mixed state of the texts, and hypothetical circumstances in
+    which poems may have been dictated during winter lodging, Christmas entertainment,
+    or travel between Iceland and the Western Islands. It compares these collection
+    phenomena with other poem-gathering practices.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The writer says the poems were preserved orally among the people from whom
+    they were collected and that the collector recorded the last remains of a larger
+    body of literature.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The collection in R is described as falling into two main bundles: Mythic
+    and Heroic.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The writer reconstructs a collector hearing old poems, asking a reciter to
+    dictate what he knew, and filling gaps with rough prose when memory failed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage describes broken songs, prose insertions, double texts, and older
+    fragmentary songs interlarded with younger material.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A second informant may correct the collector’s existing version, supply parallel
+    wording, or remember fresh lines on the same subject.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage imagines a Western Islander trading skipper lodging through winter
+    with an Icelandic franklin or priest, telling a poem at Christmas entertainment,
+    and being asked to dictate verses the next day.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The passage offers an alternative scenario in which an Icelander spends a
+    winter in Orkney or Shetland and writes down poems heard at festal gatherings.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The passage says the collector had better luck with Mythic poems than Heroic
+    lays, though even the Mythic poems contain gaps and extraneous pieces.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Havamal collection is described as a formless mass of gnomic verses arranged
+    in blocks as the collector obtained them.
+  category: object
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: 'The passage lists common transmission problems: reciters’ errors, verses
+    slipped into another poem, transpositions, and mixing of separate poems with similar
+    plots or characters.'
+  category: sequence
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the Collector
+  description: A hypothesized collector who writes down orally recited old poems and
+    adds new material from multiple informants.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:2
+  name_or_label: the reciter
+  description: A person who dictates poems to the collector; his memory may fail in
+    less impressive parts.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: second informant
+  description: A later informant who may correct the collector’s text, provide a parallel
+    version, or cite fresh fragments.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Western Islander skipper
+  description: A hypothetical trading-vessel skipper lodging in Iceland through winter
+    and reciting poems heard in his own land.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Icelandic franklin or priest
+  description: A hypothetical winter host who entertains the Western Islander and
+    asks him to dictate known verses.
+  role_refs:
+  - role:6
+  - role:1
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Icelander in Orkney or Shetland
+  description: A hypothetical Icelander who passes a winter in Orkney or Shetland
+    and writes down poems heard at festal gatherings.
+  role_refs:
+  - role:1
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: collector or recorder of oral poems
+  assigned_to:
+  - fig:1
+  - fig:5
+  - fig:6
+  basis: These figures are described as taking down, dictating, or writing down orally
+    known verses.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:2
+  label: primary oral reciter
+  assigned_to:
+  - fig:2
+  basis: The reciter dictates what he knows and supplies prose when memory fails.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: corrective or supplementary informant
+  assigned_to:
+  - fig:3
+  basis: The second informant corrects, supplies parallel text, or cites additional
+    fragments.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: foreign poem-bearer
+  assigned_to:
+  - fig:4
+  basis: The Western Islander is imagined reciting a poem from his own land while
+    staying in Iceland.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: winter guest and storyteller
+  assigned_to:
+  - fig:4
+  basis: The skipper lodges through winter and is asked at Christmas-time to tell
+    a story.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: host and requester of dictation
+  assigned_to:
+  - fig:5
+  basis: The host entertains the guest and asks him to dictate the verses he knows.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: traveler hearing poems abroad
+  assigned_to:
+  - fig:6
+  basis: The Icelander is imagined spending winter in Orkney or Shetland and hearing
+    poems at gatherings.
+  evidence_refs:
+  - ev:7
+symbols: []
+scenes:
+- id: scene:1
+  label: Oral poems collected before loss
+  summary: The passage frames the collection as a late act of recording poems preserved
+    orally among a people, just before the remains of a larger literature disappeared.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dictation from reciter to collector
+  summary: A collector hears old poems, asks a reciter to dictate all he knows, and
+    receives rough prose to bridge remembered gaps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Supplementation by another informant
+  summary: After writing down one reciter’s material, the collector tries another
+    person who gives corrections, parallel readings, or fragments of related poems.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Winter lodging and Christmas recitation
+  summary: A hypothetical Western Islander trading skipper winters with an Icelandic
+    host, recites a poem during Christmas entertainment, and is asked to dictate his
+    verses.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:5
+  label: Icelander records poems in the islands
+  summary: An alternative scenario imagines an Icelander wintering in Orkney or Shetland
+    and writing down poems heard at festal gatherings.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: last-minute preservation of oral tradition
+  taxonomy_refs: []
+  basis: The passage states that the collector was just in time to record the last
+    remains of a whole body of literature preserved orally.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a transmission pattern in the scholarly introduction, not a mythic
+    narrative motif.
+- id: motif:2
+  label: fragmented oral text patched by prose and parallel versions
+  taxonomy_refs: []
+  basis: The passage describes memory gaps, prose substitutions, double texts, interlarding
+    with younger material, and corrections or additions from further informants.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:10
+  confidence: high
+  cautions: This is a textual-transmission pattern rather than a mythological story
+    motif.
+- id: motif:3
+  label: hospitality setting for recitation and recording
+  taxonomy_refs: []
+  basis: The passage imagines poems being recited during winter lodging and Christmas
+    entertainment, after which the host asks for dictation.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The scenario is explicitly presented as a conjectural reconstruction by
+    the editors.
+- id: motif:4
+  label: foreign source as bearer of poems
+  taxonomy_refs: []
+  basis: The passage imagines a Western Islander bringing poems to Iceland and notes
+    that collecting poems from foreigners was not uncommon.
+  evidence_refs:
+  - ev:6
+  - ev:11
+  confidence: medium
+  cautions: The specific Icelandic collection scenario is hypothetical; the comparison
+    to Saxon poems supports the general collection pattern.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the Eddic collection problems to phenomena found in
+    Campbell’s collections of Highland tales and poems, especially errors, insertions,
+    transpositions, and mixing of related texts.
+  claim_level: same_function
+  target: Mr. Campbell’s Collections of Highland Tales and Poems
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage supports a similarity in collection and transmission phenomena
+    only; it does not claim historical contact or shared mythic content.
+- id: claim:2
+  claim: The passage presents the Saxon poems collected in Norway by the compiler
+    of Theodrick’s Saga as evidence that gathering poems from foreigners was a known
+    practice.
+  claim_level: same_function
+  target: Saxon poems collected in Norway by the compiler of Theodrick’s Saga
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison concerns the practice of collecting foreign poems, not
+    a shared narrative motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2898-2908
+  quote_or_summary: The writer says the dating issue depends on how long the poems
+    were preserved by the people from whom they were collected, and that the collector
+    recorded the last precious remains of a larger literature.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 2911-2913
+  quote_or_summary: '"it falls into two great bundles in R, Mythic and Heroic"'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 2922-2930
+  quote_or_summary: The collector hears old poems, has the reciter dictate all he
+    knows, and the reciter substitutes rough prose to maintain the plot when memory
+    fails.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 2930-2936
+  quote_or_summary: The passage says more broken songs contain more prose; some lays
+    are a jumble, with double text or an old fragmentary song mixed with a younger
+    one.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 2936-2948
+  quote_or_summary: The collector tries another man, who may provide fresh verses,
+    correct the wording, give a parallel text, or cite fragments of another poem on
+    the same subject.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:6
+  type: summary
+  locator: lines 2950-2965
+  quote_or_summary: The passage imagines a Western Islander skipper lodging with an
+    Icelandic franklin or priest for winter; at Christmas entertainment he recites
+    a poem from his homeland, and the host asks him next day to dictate the verses
+    he knows.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 2965-2969
+  quote_or_summary: The passage alternatively imagines an Icelander spending a winter
+    in Orkney or Shetland and writing down poems heard at festal gatherings.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:8
+  type: summary
+  locator: lines 2973-2976
+  quote_or_summary: The writer says the collector had better luck with Mythic poems
+    than with Heroic lays, though Mythic poems still have gaps and extraneous pieces
+    wedged in.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:9
+  type: summary
+  locator: lines 2976 onward within supplied passage
+  quote_or_summary: The Havamal collection is described as a formless mass of gnomic
+    verses put down in blocks as the collector acquired them.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:10
+  type: summary
+  locator: lines 2976 onward within supplied passage
+  quote_or_summary: The passage lists reciters’ mistakes, misplaced verses, transpositions,
+    and mixing of separate poems with similar plots or personages, and compares these
+    phenomena with Campbell’s Highland collections.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+- id: ev:11
+  type: summary
+  locator: lines 2970-2972
+  quote_or_summary: The collection of Saxon poems in Norway by the compiler of Theodrick’s
+    Saga is cited as showing that gathering poems from foreigners was not uncommon.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a scholarly discussion of textual transmission rather than
+    a mythic narrative. Motif candidates are therefore transmission patterns and should
+    be reviewed before inclusion in mythic motif datasets.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the supplied passage does not contain the available literal symbols in a symbolically relevant way. No available motif-family taxonomy refs were assigned because the passage concerns collection history and manuscript transmission rather than mythic narrative content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l2898-l2976
+  passage_sha256=33b11d83aa30a72eac7c792c7071563bdc95d88df0573c3826881caf51c4def8
+

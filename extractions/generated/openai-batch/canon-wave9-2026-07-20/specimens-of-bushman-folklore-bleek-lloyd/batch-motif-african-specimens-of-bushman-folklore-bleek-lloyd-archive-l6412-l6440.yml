@@ -1,0 +1,250 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l6412-l6440
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE BROKEN STEING. / THE LEOPARD AND THE JACKAL. / DOINGS OF THE SPRINGBOK.
+    / THE LEOPAKD AND THE JACKAL.; lines 6412-6440
+  start: '6412'
+  end: '6440'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In this short animal tale, a jackal watches a leopard after the leopard
+    has killed a springbok. The jackal whines and howls, begging the leopard for springbok
+    flesh so that he may eat. The leopard becomes angry, kills the jackal by biting
+    him, lifts him up, and hides him in the bushes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The jackal watches the leopard after the leopard has killed a springbok.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The jackal whines and howls while begging the leopard for springbok flesh.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The stated reason for the jackal’s begging is that he wants the leopard to
+    give him flesh so that he may eat.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The leopard becomes angry and kills the jackal by biting him dead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After killing the jackal, the leopard lifts him up and puts him into the bushes
+    to hide him.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the leopard
+  description: An animal who has killed a springbok, is begged for flesh by the jackal,
+    becomes angry, kills the jackal, and hides him in the bushes.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the jackal
+  description: An animal who watches the leopard, whines and howls while begging for
+    springbok flesh, and is killed and hidden by the leopard.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: the springbok
+  description: An animal killed by the leopard before the jackal’s begging begins;
+    its flesh is requested by the jackal.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+roles:
+- id: role:1
+  label: killer and possessor of springbok flesh
+  assigned_to:
+  - fig:1
+  basis: The leopard has killed the springbok and is the one from whom the jackal
+    asks for flesh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: beggar for meat
+  assigned_to:
+  - fig:2
+  basis: The jackal whines and howls while asking the leopard for springbok flesh.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: victim killed and hidden
+  assigned_to:
+  - fig:2
+  basis: The leopard bites the jackal dead and hides him in the bushes.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: angry killer
+  assigned_to:
+  - fig:1
+  basis: The leopard is described as angry before killing the jackal.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: dead prey
+  assigned_to:
+  - fig:3
+  basis: The springbok has been killed by the leopard before the jackal begs for its
+    flesh.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: springbok flesh
+  literal_form: meat from the springbok killed by the leopard
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: bushes
+  literal_form: bushes where the leopard puts and hides the dead jackal
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: uplifted tongue
+  literal_form: the jackal’s uplifted tongue while whining
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Jackal begs leopard for springbok flesh
+  summary: After the leopard has killed a springbok, the jackal watches him and repeatedly
+    whines and howls, begging for some of the flesh in order to eat.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Leopard kills and hides the jackal
+  summary: The leopard becomes angry, kills the jackal by biting him, lifts the body,
+    and hides it in the bushes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: begging scavenger killed by predator
+  taxonomy_refs: []
+  basis: The jackal begs the leopard for meat from a killed springbok, but the leopard
+    responds by killing him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is short and does not state a moral, trickster function, or
+    broader narrative outcome.
+- id: motif:2
+  label: refusal of food-sharing after a kill
+  taxonomy_refs: []
+  basis: The jackal asks for springbok flesh so he may eat, but the leopard does not
+    share and instead kills him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly frame the incident as a rule about sharing;
+    this is a descriptive motif candidate only.
+- id: motif:3
+  label: hiding the slain animal in bushes
+  taxonomy_refs: []
+  basis: After killing the jackal, the leopard puts him into the bushes and hides
+    him there.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a localized action-pattern rather than a securely identified cross-cultural
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6424-6425
+  quote_or_summary: The jackal watches the leopard after the leopard has killed a
+    springbok.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6425-6433
+  quote_or_summary: The jackal whines with uplifted tongue, howls, and begs the leopard
+    for springbok flesh so that he may eat.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 6435-6439
+  quote_or_summary: The leopard is angry, bites the jackal dead, lifts him up, puts
+    him into the bushes, and hides him.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied passage. Motif labels are cautious
+    because the excerpt is brief and does not provide broader narrative framing or
+    explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the supplied taxonomy options do not directly match the passage without inference.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l6412-l6440
+  passage_sha256=e456fad093c9b74f78b344ab508c6aaf7381ec554e214f2666481179397ad454
+

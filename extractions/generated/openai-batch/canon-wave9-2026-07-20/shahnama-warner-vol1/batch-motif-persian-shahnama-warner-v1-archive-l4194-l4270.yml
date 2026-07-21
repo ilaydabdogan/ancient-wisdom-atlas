@@ -1,0 +1,218 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l4194-l4270
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: ITALIAN. / GERMAN. / ENGLISH. / THE  CALENDAR; lines 4194-4270
+  start: '4194'
+  end: '4270'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The old Persian year was solar and began at the vernal equinox.
+  summary: 'The passage describes the old Persian solar calendar: a 365-day year beginning
+    at the vernal equinox, twelve thirty-day months, five extra days before the sun
+    re-enters Aries, and thirty named day-genii, twelve of whom also name months.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The old Persian year is described as solar and beginning at the vernal equinox.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The year consists of 365 days divided into twelve months of thirty days each,
+    with five extra days added after the twelfth month.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The extra days fill the time until the sun re-enters Aries and spring and
+    the new year begin on March 21.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Each day of the month has a special presiding genius after whom the day is
+    named.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Thirty day names are listed, beginning with Urmuzd and ending with Anairan.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Twelve of the thirty genii are said to have been chosen to give their names
+    to the months as well.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: thirty day-genii
+  description: Thirty special genii preside over the days of the month, and each day
+    is named after its presiding genius.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: twelve chosen genii
+  description: Twelve of the thirty genii are chosen to give their names to the months
+    as well as to days.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: presiding day spirits
+  assigned_to:
+  - fig:1
+  basis: The passage states that each day has a special genius presiding over it and
+    named after it.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: month-name givers
+  assigned_to:
+  - fig:2
+  basis: The passage says twelve genii were chosen to give their names to the months
+    as well.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: solar year
+  literal_form: solar year beginning at the vernal equinox
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: five extra days
+  literal_form: five days added after the twelfth month before the new year
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: presiding day-genii
+  literal_form: special genii assigned to the days of the month
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of the old Persian calendar
+  summary: The passage explains a solar year beginning at the vernal equinox, structured
+    into twelve thirty-day months plus five extra days, with days and months named
+    in relation to presiding genii.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: solar new year and seasonal renewal
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The calendar is explicitly solar, begins at the vernal equinox, and links
+    the re-entry of the sun into Aries with spring and the new year.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a calendrical description rather than a narrative mythic episode.
+- id: motif:2
+  label: sacralized calendar days under presiding genii
+  taxonomy_refs: []
+  basis: Each day has a named presiding genius, and a subset of these genii also names
+    months.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: No supplied taxonomy reference directly corresponds to calendrical tutelary
+    spirits.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4194-4197
+  quote_or_summary: '"The old Persian year was solar and began at the vernal equinox."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 4197-4201
+  quote_or_summary: The year is described as 365 days, divided into twelve thirty-day
+    months, with five extra days added after the twelfth month.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4201-4204
+  quote_or_summary: The five extra days complete the time until the sun re-enters
+    Aries and spring and the new year begin on March 21.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4204-4207
+  quote_or_summary: Each day of the month has a special genius presiding over it,
+    after whom the day is named.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4208-4267
+  quote_or_summary: 'The passage lists thirty day names: Urmuzd, Bahman, Ardibihisht,
+    Sharivar, Sapandarmad, Khurdad, Murdad, Dai pa Adar, Adar, Aban, Khurshid, Mah,
+    Tir, Gush, Dai pa Mihr, Mihr, Surush, Rashn, Farvardin, Bahrain, Ram, Bad, Dai
+    pa Din, Din, Ard, Ashtad, Asman, Zamiyad, Mahraspand, and Anairan.'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summarized with names from the passage.
+- id: ev:6
+  type: quote
+  locator: lines 4268-4270
+  quote_or_summary: '"Of these thirty genii twelve were chosen to give their names
+    to the months as well"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is expository and calendrical, so literal extraction is strong
+    while motif assignment is limited chiefly to seasonal-cycle and sacralized-calendar
+    patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make or support a direct comparison to another tradition or corpus.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l4194-l4270
+  passage_sha256=102eceb05dd4df33c58f01914c6ce56333fc5780f68142c621c85d7b3ed3115c
+

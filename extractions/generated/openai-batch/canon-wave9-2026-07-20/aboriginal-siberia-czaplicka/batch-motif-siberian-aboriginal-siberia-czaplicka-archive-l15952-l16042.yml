@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.siberian-aboriginal-siberia-czaplicka-archive-l15952-l16042
+source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+passage_locator:
+  label: SOME   CEREMONIES  303 / SOME   CEREMONIES  305 / PART    lY.     PATHOLOGY
+    / CHAPTER  XY; lines 15952-16042
+  start: '15952'
+  end: '16042'
+  translation: Aboriginal Siberia - A Study in Social Anthropology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses Siberian nervous afflictions, their distribution
+    among peoples, and the distinction made between ordinary illness and shamanic
+    inspiration. It describes menerik as increasing a youth's chance of becoming a
+    shaman, because the shaman can treat the spirit-caused affliction as a controlled
+    struggle and learn to appease spirits, whereas an ordinary person is a victim.
+    It also distinguishes imitative mania as a disease that would disqualify a shaman.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Mencrik is described as observed chiefly among young girls and some young
+    men, especially those being trained as shamans; another condition is described
+    as a quiet passive state interrupted by attacks of fury in older adults.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The author states that these two nervous diseases occur most often among Yakut,
+    Tungus, and some Russian settlers, while other nervous ailments appear more frequent
+    among peoples longer domiciled in the Arctic region.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The author says the institution of voluntary death and the fits of shamans
+    are not considered diseases by the natives themselves, although the author calls
+    them pathological from an outside viewpoint.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage states that the native dividing line between disease and inspiration
+    is difficult to identify.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A youth who has suffered from menerik is said to have a better chance of becoming
+    a shaman.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The illness is ascribed to evil spirits; for the shaman it is a desirable
+    struggle and exercise in learning to appease them, while an ordinary person is
+    described as a victim and sick person.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A shaman must control and invoke the spirits at the right time; if unable
+    to do so, he ceases to be a shaman.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The imitative mania named in the passage is characterized by unconscious imitation
+    of gestures and sounds and is always considered by natives to be a disease.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: A shaman attacked by the imitative mania would have to give up his profession.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: The author says the term “arctic hysteria” has been applied both to religio-magical
+    phenomena and to nervous ailments that natives consider diseases.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Shaman
+  description: A ritual specialist whose affliction must remain under control; he
+    must control and invoke spirits at the right time and would cease to be a shaman
+    if unable to do so.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Youth with menerik
+  description: A youth who has suffered from menerik and therefore has a better chance
+    of becoming a shaman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Ordinary mortal
+  description: A non-shamanic person affected by the illness, described as only a
+    victim and a sick person.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: Evil spirits / helet or ahassy
+  description: Spirits to whom the illness is ascribed and whom the shaman learns
+    to appease; the passage associates the ordinary victim with helet or ahassy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Native community or native evaluators
+  description: The group whose classifications distinguish disease from inspiration
+    and who consider some afflictions diseases while not considering shamanic fits
+    disease.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+roles:
+- id: role:1
+  label: controlled ritual specialist
+  assigned_to:
+  - fig:1
+  basis: The shaman must control and invoke spirits at the proper time; uncontrolled
+    affliction ends the shamanic role.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: afflicted shamanic candidate
+  assigned_to:
+  - fig:2
+  basis: A youth who has suffered from menerik has a better chance of becoming a shaman.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: ordinary victim or sick person
+  assigned_to:
+  - fig:3
+  basis: The ordinary mortal is described as a victim of the affliction and as a sick
+    person.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: spirit cause and adversary to appease
+  assigned_to:
+  - fig:4
+  basis: The illness is ascribed to evil spirits, and the shaman learns how to appease
+    them.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: community classifier of illness and inspiration
+  assigned_to:
+  - fig:5
+  basis: The passage reports native judgments about what is disease, what is not disease,
+    and the uncertain boundary with inspiration.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+symbols:
+- id: sym:1
+  label: evil spirits
+  literal_form: evil spirits, with helet or ahassy named in the passage
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Regional distribution and social evaluation of affliction
+  summary: The author discusses Siberian nervous afflictions, their prevalence among
+    different peoples, and the native non-disease classification of voluntary death
+    and shamanic fits.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Affliction as shamanic preparation
+  summary: A youth with menerik has a better chance of becoming a shaman; the affliction
+    is attributed to evil spirits, and the shaman learns to appease them rather than
+    remaining only a victim.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Requirement of control over spirits
+  summary: The passage states that the shamanic condition cannot develop beyond control;
+    a shaman who cannot control and invoke spirits at the right time ceases to be
+    a shaman.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Imitative mania as disqualifying disease
+  summary: The imitative mania is described as unconscious imitation of gestures and
+    sounds, always considered disease by natives, and incompatible with continued
+    shamanic practice.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Affliction as shamanic initiation or preparation
+  taxonomy_refs:
+  - initiation
+  basis: The passage links suffering from menerik with a better chance of becoming
+    a shaman and describes the affliction as a desirable struggle in which the shaman
+    learns to appease spirits.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The source is an anthropological pathology discussion rather than a myth
+    narrative; the initiation label is a cautious pattern extraction.
+- id: motif:2
+  label: Spirit-caused illness controlled by a ritual specialist
+  taxonomy_refs: []
+  basis: The illness is attributed to evil spirits, while the shaman is distinguished
+    from an ordinary victim by the ability to control, invoke, and appease the spirits.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage reports ethnomedical and shamanic categories; it does not
+    narrate a mythic episode.
+- id: motif:3
+  label: Boundary between illness and inspiration
+  taxonomy_refs: []
+  basis: The author states that some afflictions are considered illnesses by natives,
+    while shamanic fits and voluntary death are not so classified, making the dividing
+    line between disease and inspiration difficult to state.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:8
+  confidence: medium
+  cautions: This is primarily an analytic social-religious pattern, not a named traditional
+    motif in the supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15952-15957
+  quote_or_summary: Mencrik is said to occur chiefly among young girls and some young
+    men, especially those training as shamans; another condition is associated with
+    older adults and alternating passivity and fury.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15959-15967
+  quote_or_summary: The passage says the two nervous diseases are most often found
+    among Yakut, Tungus, and some Russian settlers, while other ailments are more
+    frequent among longer-domiciled peoples.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15979-15988
+  quote_or_summary: The author states that voluntary death and shamanic fits are not
+    called diseases by natives, though the author views them as pathological from
+    an outside viewpoint and normal or supra-normal from theirs.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 15995-16000
+  quote_or_summary: "“What is the native line dividing disease from inspiration it
+    is difficult to say. A youth who has suffered from menerik has the better chance
+    of becoming a shaman.”"
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; brief quotation.
+- id: ev:5
+  type: summary
+  locator: lines 16000-16006
+  quote_or_summary: The illness is ascribed to evil spirits; for the shaman it is
+    a desirable struggle and exercise in learning to appease them, while an ordinary
+    mortal is a victim and sick person.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16006-16014
+  quote_or_summary: The passage says a shaman’s nervous disease cannot develop beyond
+    his control; if he cannot control and invoke spirits at the right time, he ceases
+    to be a shaman.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16030-16038
+  quote_or_summary: The imitative mania is described as unconscious imitation of gestures
+    and sounds, always considered disease by natives; a shaman attacked by it would
+    give up the profession.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 16016-16020
+  quote_or_summary: The author says the term “arctic hysteria” has been applied partly
+    to religio-magical phenomena and partly to nervous ailments considered disease
+    by natives.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 16021-16029
+  quote_or_summary: The passage argues that most symptoms described as hysteria also
+    occur in Europe, so most cases should not be classed as distinctively Arctic.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif identification is cautious
+    because the passage is a pathology/ethnographic discussion rather than a mythic
+    narrative. No comparison claims were generated beyond the author's medical comparison
+    to Europe.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy reference applied only to the cautious initiation pattern supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-aboriginal-siberia-czaplicka-archive__l15952-l16042
+  passage_sha256=fd7530241c066ef9a5fd466fc5c2a8f50ae54280770bfa92384ef56d12bd0183
+

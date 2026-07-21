@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l22695-l22718
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: S     2 / THE    OMAHA   TRIBE / COURTSHIP  AND  MARRIAGE / SOCIAL    LIFE;
+    lines 22695-22718
+  start: '22695'
+  end: '22718'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Omaha courtship-related social practices: young
+    male friends help one another dress and adorn themselves, may act as go-betweens
+    with a chosen girl, and courtship meetings often occur at springs in the early
+    morning when girls go for water in pairs or with female companions. Young men
+    wait hidden near such places, and a lover often makes his presence known through
+    a flute love song composed for the instrument.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Young men are described as befriending and assisting one another in both minor
+    and serious matters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two friends may paint each other's faces, fasten ornaments, and finish their
+    toilet in finery.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A friend may act as a go-between to secure an interview between his friend
+    and the chosen girl.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Such courtship meetings generally take place at the spring in the early morning.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Girls do not go alone to fetch water for the family; they go with a sister,
+    female relative, intimate friend, or neighbor.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Young men frequent these spring places and hide in grass or bushes to gain
+    an opportunity to speak with the desired girl.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Encounters may be accidental, but the lover generally makes his presence known
+    by a love song played on the flute.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The flute has music composed especially for it, and sung songs are not played
+    on it because its compass is limited.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: young man or lover
+  description: A young man seeking to speak with the girl of his fancy, sometimes
+    hidden near the spring and often announcing himself with a flute love song.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: male friend or helper
+  description: A friend who helps another young man adorn himself and may act as a
+    go-between to arrange an interview with the chosen girl.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: chosen girl or girl of his fancy
+  description: The girl whom the young man wishes to meet or speak with at the spring.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: female water-gathering companion
+  description: A sister, aunt, niece, intimate friend, or neighbor who accompanies
+    a girl when she goes to fetch water.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: friend-helper and go-between
+  assigned_to:
+  - fig:2
+  basis: The friend assists with adornment and may arrange an interview with the chosen
+    girl.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: courtship seeker or lover
+  assigned_to:
+  - fig:1
+  basis: The young man seeks a chance to speak with the girl and may signal his presence
+    with a flute love song.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: courted girl
+  assigned_to:
+  - fig:3
+  basis: The passage identifies the chosen girl or girl of the young man's fancy as
+    the one sought for an interview or conversation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: water-fetching companion
+  assigned_to:
+  - fig:4
+  basis: Girls fetch water accompanied by female relatives, friends, or neighbors
+    rather than alone.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: spring and water-gathering place
+  literal_form: spring; water fetched for the family
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: flute love song
+  literal_form: love song played on the flute
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: face paint, ornaments, and finery
+  literal_form: painted faces, fastened ornaments, and finery worn after the toilet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Mutual adornment of young male friends
+  summary: Two friends help each other prepare their appearance by painting faces,
+    fastening ornaments, and completing their finery.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Friend as courtship go-between
+  summary: A friend helps a young man by acting as intermediary and securing an interview
+    with the chosen girl.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Early morning spring encounter
+  summary: Girls go in company to fetch water at the spring while young men wait hidden
+    nearby for a chance to speak with a desired girl.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Flute song announcing the lover
+  summary: The lover commonly makes his presence known to the girl through a love
+    song played on the flute.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: assisted courtship through a friend or go-between
+  taxonomy_refs: []
+  basis: The passage states that a friend may act as a go-between and secure an interview
+    with the chosen girl.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic social-practice pattern in the passage, not a
+    mythic episode.
+- id: motif:2
+  label: courtship encounter at a water-gathering place
+  taxonomy_refs: []
+  basis: Courtship meetings generally occur at the spring in the early morning, when
+    girls go to fetch water and young men wait nearby.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical social setting; symbolic interpretation
+    of water beyond the literal spring is not stated.
+- id: motif:3
+  label: lover signaled by flute song
+  taxonomy_refs: []
+  basis: The lover generally makes his presence known to the girl by a love song played
+    on the flute.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage describes the song as a courtship signal; it does not attach
+    a broader mythological meaning.
+- id: motif:4
+  label: mutual adornment before courtship
+  taxonomy_refs: []
+  basis: Male friends paint faces, fasten ornaments, and help one another appear in
+    finery before courtship interactions.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The preparation is described as social assistance; its ritual or mythic
+    significance is not specified in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22695-22702
+  quote_or_summary: 'Young men helped friends prepare themselves: two friends painted
+    each other''s faces, fastened ornaments, and appeared in finery.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt or summary allowed.
+- id: ev:2
+  type: quote
+  locator: 22702-22706
+  quote_or_summary: A friend could “act as a go-between” and “secure an interview”
+    with the chosen girl.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt allowed.
+- id: ev:3
+  type: summary
+  locator: 22706-22711
+  quote_or_summary: Meetings generally took place at the spring in the early morning;
+    girls went to fetch family water with sisters, female relatives, friends, or neighbors
+    rather than alone.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:4
+  type: summary
+  locator: 22711-22714
+  quote_or_summary: Young men frequented the spring places and hid in the grass or
+    bushes to seize a favorable chance to speak with the girl of their fancy.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary allowed.
+- id: ev:5
+  type: quote
+  locator: 22714-22717
+  quote_or_summary: The lover generally made his presence known “by his love song
+    played on the flute.”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt allowed.
+- id: ev:6
+  type: summary
+  locator: 22717-22718
+  quote_or_summary: Music was composed especially for the flute; sung songs were not
+    played on it because the instrument's compass was limited.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal social observations are explicit. Candidate motifs are courtship-pattern
+    labels drawn from the passage, with no broader comparative claims made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support contact, inheritance, or cross-tradition comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l22695-l22718
+  passage_sha256=ccfebed7cafc38cde628e071e862fe23d4e42af94818929c98de572dd7040f67
+

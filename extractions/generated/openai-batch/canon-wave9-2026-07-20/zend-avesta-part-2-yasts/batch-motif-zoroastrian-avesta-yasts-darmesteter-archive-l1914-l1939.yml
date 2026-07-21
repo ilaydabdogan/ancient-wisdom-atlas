@@ -1,0 +1,381 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l1914-l1939
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: ORMAZD YAST. 25 / ORMAZD YA5T. 27 / ORMAZD VA5'T. 29 / ORMAZD YA5'T. 3 I;
+    lines 1914-1939
+  start: '1914'
+  end: '1939'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: We worship the sovereign Sky, the boundless Time, and the sovereign Time
+    of the long Period
+  summary: A liturgical passage names Rama //z^astra, Vayu, a part of Vayu belonging
+    to Spe;-Jta Mainyu, the sovereign Sky, boundless Time, and the sovereign Time
+    of the long Period as objects of worship. It is followed by the Ashem Vohu formula
+    and editorial notes linking clauses to other Avestan passages and Yasts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speakers say they worship Rama //z^astra and Vayu.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vayu is described as working highly and as more powerful to destroy than all
+    other creatures.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speakers worship a specific part of Vayu that is said to belong to Spe;-Jta
+    Mainyu.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The sovereign Sky, the boundless Time, and the sovereign Time of the long
+    Period are named as objects of worship.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The Ashem Vohu formula is glossed as saying that holiness is the best of all
+    good.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: An editorial note says one paragraph is taken from Yasna LXVIII and, in that
+    setting, is addressed to the Waters in connection with a man offering sacrifice.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: An editorial note says a clause serves as a conclusion to all Yajts.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rama //z^astra
+  description: Named as an object of worship in the liturgical address.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Vayu
+  description: Named as an object of worship; described as powerful to destroy, with
+    a part belonging to Spe;-Jta Mainyu.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Spe;-Jta Mainyu
+  description: Named as the figure to whom a part of Vayu belongs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: sovereign Sky
+  description: The Sky is described as sovereign and named as an object of worship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: boundless Time
+  description: Time is described as boundless and named as an object of worship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: sovereign Time of the long Period
+  description: Time of the long Period is described as sovereign and named as an object
+    of worship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:7
+  name_or_label: good Waters
+  description: In an editorially cited Yasna parallel, the Waters are addressed and
+    asked to give to the man who offers sacrifice.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: man who will offer sacrifice
+  description: A human figure in the cited Yasna parallel who offers sacrifice to
+    the Waters.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: worship recipient
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage repeatedly states, 'We worship,' before these named powers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: powerful destroyer
+  assigned_to:
+  - fig:2
+  basis: Vayu is described as more powerful to destroy than all other creatures.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: affiliated possessor of Vayu's part
+  assigned_to:
+  - fig:3
+  basis: The passage says that a part of Vayu belongs to Spe;-Jta Mainyu.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: parallel liturgical addressee
+  assigned_to:
+  - fig:7
+  basis: The note says the borrowed paragraph is addressed to the Waters in Yasna
+    LXVIII.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: giver in cited parallel
+  assigned_to:
+  - fig:7
+  basis: The cited wording asks the good waters to give to the man who offers sacrifice.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: sacrificial offerer in cited parallel
+  assigned_to:
+  - fig:8
+  basis: The note refers to a man who will offer a sacrifice to the Waters.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: sovereign Sky
+  literal_form: the sovereign Sky
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: boundless Time
+  literal_form: the boundless Time
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: long-period Time
+  literal_form: the sovereign Time of the long Period
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: holiness as supreme good
+  literal_form: Holiness is the best of all good
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: good Waters
+  literal_form: Waters / good waters in the cited Yasna passage
+  associated_figures:
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Worship of named powers
+  summary: The speakers worship Rama //z^astra, Vayu, a part of Vayu belonging to
+    Spe;-Jta Mainyu, the sovereign Sky, boundless Time, and the sovereign Time of
+    the long Period.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ashem Vohu formula
+  summary: The passage gives the Ashem Vohu formula with the gloss that holiness is
+    the best of all good.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Editorially cited Waters parallel
+  summary: An editorial note connects a paragraph with Yasna LXVIII, where the good
+    Waters are addressed in relation to a man who offers sacrifice.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Formulaic conclusion note
+  summary: An editorial note states that a clause serves as a conclusion to all Yajts.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Liturgical worship of cosmic and named powers
+  taxonomy_refs: []
+  basis: The passage consists chiefly of repeated worship of named powers, including
+    Vayu, Sky, and Time.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a liturgical pattern rather than a narrative episode.
+- id: motif:2
+  label: Differentiated divine aspect
+  taxonomy_refs:
+  - duality
+  basis: The passage singles out a part of Vayu that belongs to Spe;-Jta Mainyu.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage does not describe an opposing part or a full dualistic structure;
+    the duality reference is only a cautious candidate.
+- id: motif:3
+  label: Ethical holiness formula
+  taxonomy_refs:
+  - wisdom
+  basis: The Ashem Vohu gloss states that holiness is the best of all good.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The formula is brief and not embedded in a narrative wisdom scene.
+- id: motif:4
+  label: Sacrifice and reciprocal giving in Waters parallel
+  taxonomy_refs:
+  - sacred_exchange
+  - sacrifice
+  basis: The cited Yasna parallel addresses good Waters and refers to a man who will
+    offer them sacrifice, with the Waters asked to give to him.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This motif is present in an editorial note quoting or summarizing a parallel
+    passage, not in the main worship lines of this excerpt.
+- id: motif:5
+  label: Formulaic liturgical closure
+  taxonomy_refs: []
+  basis: An editorial note says a clause serves as a conclusion to all Yajts.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exact clause referred to by the note is not fully identified within
+    the extracted passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage's editorial note explicitly links a paragraph to Yasna LXVIII,
+    where similar liturgical wording is addressed to the Waters and connected with
+    sacrifice.
+  claim_level: same_function
+  target: Yasna LXVIII passage addressed to the Waters
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is based on the passage's editorial note, not on a full side-by-side
+    quotation of both passages.
+- id: claim:2
+  claim: The passage's editorial note presents one clause as a recurring concluding
+    formula for all Yajts.
+  claim_level: same_function
+  target: Concluding clauses across the Yajts
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note establishes a corpus-level pattern, but the excerpt does not
+    provide multiple examples.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1914-1919
+  quote_or_summary: The speakers worship Rama //z^astra, Vayu, the part of Vayu belonging
+    to Spe;-Jta Mainyu, the sovereign Sky, boundless Time, and the sovereign Time
+    of the long Period; Vayu is described as especially powerful to destroy.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: quote
+  locator: 1920-1921
+  quote_or_summary: 'Ash em Vohd : Holiness is the best of all good . . . .'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short quotation used for extraction.
+- id: ev:3
+  type: summary
+  locator: 1926-1930
+  quote_or_summary: 'An editorial note says a paragraph is taken from Yasna LXVIII
+    and is addressed to the Waters: good waters are asked to give to the man who will
+    offer them sacrifice.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: '1934'
+  quote_or_summary: This clause serves as a conclusion to all Yajts.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short quotation used for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extraction is limited by OCR-like distortions in names and by the passage's
+    mixture of liturgical text and editorial footnotes. Names are retained as supplied
+    where uncertain.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs and applied cautiously.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l1914-l1939
+  passage_sha256=99686c495c33c159ea033ee8e634318caa00f7cba99725330632a73569e549f2
+

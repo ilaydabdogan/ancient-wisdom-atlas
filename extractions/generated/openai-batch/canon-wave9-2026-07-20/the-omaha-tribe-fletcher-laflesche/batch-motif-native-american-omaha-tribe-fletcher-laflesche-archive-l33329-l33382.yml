@@ -1,0 +1,230 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l33329-l33382
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE  WATHA'WA  (FEAST  OF  THE  COUNT) / SOCIETIES / THE    TATTOOING / THE    OMAHA    TRIBE;
+    lines 33329-33382
+  start: '33329'
+  end: '33382'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: this represented the sun
+  summary: In a tattooing-related ritual sequence, a mark representing the sun is
+    placed on a girl's forehead while a song is sung. The song is explained as referring
+    to the sun rising to the zenith and speaking as its symbol descends on the girl
+    with a promise of life-giving power. Afterward, the outline of a four-pointed
+    star is marked on her chest while another song is sung.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A spot is first put on the forehead, and this spot is identified as representing
+    the sun.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A song is sung while the forehead spot is being made.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The given literal translation of the song includes the sun, its roundness,
+    coming, speaking, and a yonder point.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The song is explained as referring to the sun rising to the zenith or highest
+    point, where it speaks.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The sun's symbol is described as descending upon the maid with the promise
+    of life-giving power.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the sun symbol is placed on the girl's forehead, the outline of a four-pointed
+    star is marked on her chest while another song is sung.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: girl / maid
+  description: The female recipient of the forehead sun symbol and chest star outline.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: sun
+  description: The sun is named in the song and explained as rising to the zenith,
+    speaking, and being represented by a symbol placed on the girl.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: recipient of ritual markings
+  assigned_to:
+  - fig:1
+  basis: The passage describes the sun symbol being placed on the girl's forehead
+    and a four-pointed star outline marked on her chest.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: life-giving celestial source represented by a mark
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the forehead mark as representing the sun and explains
+    the symbol as descending with a promise of life-giving power.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: sun symbol
+  literal_form: spot on the forehead representing the sun
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: four-pointed star
+  literal_form: outline of a four-pointed star marked on the girl's chest
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: zenith / highest point
+  literal_form: the sun rising to the zenith, to the highest point
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Forehead sun marking with song
+  summary: A spot representing the sun is put on the girl's forehead while a song
+    about the sun is sung and then explained.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Chest star marking
+  summary: After the sun symbol is placed on the girl's forehead, a four-pointed star
+    outline is marked on her chest while another song is sung.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritual marking with celestial symbols
+  taxonomy_refs: []
+  basis: The passage describes the sequential placement of a sun symbol on the forehead
+    and a four-pointed star outline on the chest, each accompanied by song.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: The passage does not provide the full ritual context beyond the tattooing-related
+    heading and the described actions.
+- id: motif:2
+  label: life-giving solar descent
+  taxonomy_refs: []
+  basis: The explanation states that the sun reaches the zenith and speaks as its
+    symbol descends on the maid with a promise of life-giving power.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage explains a ritual symbol rather than narrating an independent
+    mythic event.
+- id: motif:3
+  label: tattooing as initiation-like ritual inscription
+  taxonomy_refs:
+  - initiation
+  basis: Within a tattooing-labeled passage, the girl's body is marked in ordered
+    stages with celestial symbols and songs.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage itself does not explicitly call the act an initiation; the
+    taxonomy reference is a cautious candidate based on ritual marking and sequence.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 33329-33336
+  quote_or_summary: A spot was first put on the forehead; this represented the sun,
+    and a song was sung while this was done.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 33356-33365
+  quote_or_summary: The literal translation glosses words for the sun, the round sun,
+    coming, speaking or saying, a yonder point, and when it comes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; passage summarized.
+- id: ev:3
+  type: quote
+  locator: lines 33367-33372
+  quote_or_summary: The song is explained as referring to the sun rising to the zenith;
+    at that point it speaks as its symbol descends on the maid with the promise of
+    life-giving power.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:4
+  type: summary
+  locator: lines 33374-33382
+  quote_or_summary: After the sun symbol is placed on the girl's forehead, the outline
+    of a four-pointed star is marked on her chest while the next song is sung.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; passage summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the passage gives only a short ritual excerpt and limited context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l33329-l33382
+  passage_sha256=d740422ab6839824e49acbc719c81f323b80ab8693af9f54d69669b271eefc19
+

@@ -1,0 +1,367 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l19979-l20086
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / THE    QUEST    OF    FOOD / J        J / THE    OMAHA   TRIBE;
+    lines 19979-20086
+  start: '19979'
+  end: '20086'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives Omaha song text and a literal vocabulary explanation,
+    then explains that the song likens a herald circling the camp to a soaring bird.
+    The herald leaves the Sacred Tent of the White Buffalo Hide, goes around the tribal
+    circle by the left, and returns; the completed circuit signals that the tribe
+    has been notified and should start. The passage also notes a resemblance to a
+    runner song in which birds guided people to game, and introduces the Eighth Song,
+    “The Hunting Field.”
+  language: English with Omaha song text/transliteration
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage provides Omaha song text with a literal vocabulary explanation,
+    including terms glossed as village or camp, circling as a bird soars, “I go,”
+    and “must.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the song’s figure of speech likens the herald going
+    around the camp to the soaring and circling of a bird.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that this image recalls a runner song in which birds, by
+    their soaring, guided people to game.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The herald left the Sacred Tent of the White Buffalo Hide, passed around the
+    tribal circle by the left, and returned to the Sacred Tent.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The herald’s completed circuit and return were the signal that the tribe had
+    been notified and that the people were to start.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song refers to the people questioning as the herald walked and gave the
+    leader’s order.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The music of the song is described as being in G minor and recitative.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A following section is headed “Eighth Song—The Hunting Field,” described as
+    sung in octaves and harmonized by John C. Fillmore for piano interpretation; the
+    provided passage gives repeated Omaha song lines without a literal translation
+    for this section.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the herald
+  description: A herald who goes around the camp, walks with the leader’s order, and
+    completes a circuit from and back to the Sacred Tent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the leader
+  description: The leader whose order is given by the herald.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: the people or tribe
+  description: The tribe is notified by the herald; the people question as he walks
+    and are to start after his return.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: the runner
+  description: A runner from a recalled song associated with birds guiding to game.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: birds
+  description: Birds whose soaring and circling provide the comparison for the herald’s
+    movement; in the recalled runner song, their soaring guided to game.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: heraldic messenger
+  assigned_to:
+  - fig:1
+  basis: The herald goes around the camp and gives the order of the leader.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: order-giving leader
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the leader’s order being given by the herald.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: notified community
+  assigned_to:
+  - fig:3
+  basis: The completed round signals that the tribe has been notified.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: departing people
+  assigned_to:
+  - fig:3
+  basis: The people are to start after the herald’s circuit is completed.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: runner guided toward game
+  assigned_to:
+  - fig:4
+  basis: The passage recalls a runner song in which birds guided to game.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: avian guides and comparison image
+  assigned_to:
+  - fig:5
+  basis: Birds are associated with soaring and circling, and in the recalled song
+    their soaring guides to game.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: soaring and circling bird
+  literal_form: bird or birds in soaring/circling flight
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: tribal circle
+  literal_form: the camp or tribal circle around which the herald passes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Sacred Tent of the White Buffalo Hide
+  literal_form: Sacred Tent of the White Buffalo Hide
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: leftward circuit
+  literal_form: passing around the tribal circle by the left
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: hunting field
+  literal_form: the section title “Eighth Song—The Hunting Field”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song image of the circling herald
+  summary: The song is explained as using a figure of speech that compares the herald’s
+    movement around camp to a soaring and circling bird.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Herald’s circuit and signal to start
+  summary: The herald leaves the Sacred Tent of the White Buffalo Hide, goes around
+    the tribal circle by the left, returns to the tent, and thereby signals that the
+    tribe has been notified and the people should start.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Recalled runner song with bird guidance
+  summary: The explanation says the herald song recalls a runner song in which birds,
+    through their soaring, guided to game.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Introduction of the Hunting Field song
+  summary: The passage introduces the Eighth Song, “The Hunting Field,” with performance
+    notes and repeated Omaha lines, but without a literal translation in the provided
+    excerpt.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Birdlike heraldic circuit
+  taxonomy_refs: []
+  basis: The passage explicitly says the herald’s route around the camp is likened
+    to the soaring and circling of a bird.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a passage-level image and ritual action; no broader taxonomy ID
+    is directly named in the passage.
+- id: motif:2
+  label: Bird-guided hunt or search for game
+  taxonomy_refs: []
+  basis: The explanatory note recalls a runner song in which birds, by soaring, guided
+    to the game.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The runner song itself is not included here, so details of the guidance
+    episode are limited to a brief reference.
+- id: motif:3
+  label: Ritual circuit as signal for collective departure
+  taxonomy_refs:
+  - departure
+  basis: The herald’s completed circuit from and back to the Sacred Tent signals that
+    the tribe has been notified and that the people are to start.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The available taxonomy label “departure” is broad; the passage describes
+    a ritual notification before movement in a hunting context, not a full narrative
+    departure episode.
+- id: motif:4
+  label: Sacred tent as point of departure and return
+  taxonomy_refs: []
+  basis: The herald begins at the Sacred Tent of the White Buffalo Hide, completes
+    the circuit, and returns to that tent to signal the start.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage identifies the tent as sacred and functionally central to
+    the circuit, but does not explicitly define it as a cosmological center.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares or links the herald song with a runner song through
+    the shared image of birds in soaring motion associated with movement toward game.
+  claim_level: visual_similarity
+  target: the runner song in which birds by their soaring guided to the game
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: Only the brief editorial explanation of the runner song is present;
+    the full runner song is not included in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19979-20010
+  quote_or_summary: Omaha song text is followed by a literal vocabulary explanation,
+    including words glossed as village/camp, circling as a bird soars, going, saying,
+    and must.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20011-20016
+  quote_or_summary: The explanatory note says the song likens the herald going around
+    camp to a bird’s soaring and circling, and says this recalls a runner song where
+    soaring birds guided to game.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20017-20022
+  quote_or_summary: The herald leaves the Sacred Tent of the White Buffalo Hide, goes
+    around the tribal circle by the left, returns to the tent, and this completed
+    round signals that the tribe has been notified and the people should start; the
+    song also refers to people questioning as he gives the leader’s order.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: line 20023
+  quote_or_summary: "“The music, in G minor, is recitative.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 20024-20086
+  quote_or_summary: The passage introduces “Eighth Song—The Hunting Field,” notes
+    that it is sung in octaves and harmonized by John C. Fillmore for piano interpretation,
+    and prints repeated Omaha song lines.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The ritual movement and internal comparison to the runner song are explicit.
+    Broader motif labels are more tentative because the passage is an ethnographic
+    song explanation rather than a complete mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy IDs were added beyond the supplied taxonomy list; most symbols lack taxonomy refs because the available symbol list does not include bird, tent, buffalo hide, circle, or hunting field.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l19979-l20086
+  passage_sha256=3bb8cb6283ede05c36678b0fcb1654671583d2ed3efb9c1f833b8f868644a09b
+

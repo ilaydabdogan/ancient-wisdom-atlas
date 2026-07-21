@@ -1,0 +1,414 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l8060-l8078
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: IV. THE BUSH-TAILED RAT. / V. THE OLD MAN. / VI. THE ORIGIN OF THE DEER.
+    / VII. THE SUN AND THE LAD.; lines 8060-8078
+  start: '8060'
+  end: '8078'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage first explains that deer once could leap from mountain-top
+    to mountain-top and became ordinary deer after being struck with a woman's breech-clout.
+    It then summarizes a story in which a troublesome boy is abandoned by his tribe,
+    misled by sounds, finds his grandmother hidden in a basket, receives fire and
+    small bows and arrows from her, hunts mice and blue jays, and has their skins
+    made into blankets that are exchanged for great power.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The deer are described as formerly able to jump from one mountain-top to another.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The deer are said to have been transformed into ordinary deer by being struck
+    with the breech-clout of a woman.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A troublesome boy is deserted by the tribe.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the boy tries to follow the tribe, he is misled by sounds.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The boy discovers his grandmother hidden in a basket.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy kicks his grandmother, but she gives him fire and makes him small
+    bows and arrows.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The boy shoots mice and then blue jays with the small bows and arrows.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The grandmother makes the animal skins into blankets.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The blankets please an exchange recipient whose name is corrupted in the supplied
+    text; in exchange for the blankets, this recipient gives the boy great power.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: deer
+  description: Animals that formerly could jump from one mountain-top to another and
+    were transformed into ordinary deer.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: woman
+  description: A woman is mentioned as the possessor of the breech-clout that strikes
+    the deer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: troublesome boy / lad
+  description: A boy deserted by the tribe who later receives fire, small bows and
+    arrows, blankets, and great power.
+  role_refs:
+  - role:3
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: tribe
+  description: The group that deserts the troublesome boy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: grandmother
+  description: The boy's grandmother, hidden in a basket; she gives him fire, makes
+    small bows and arrows, and makes skins into blankets.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Sun
+  description: Named in the section title, "THE SUN AND THE LAD."
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: unnamed exchange recipient / power-giver
+  description: A figure, named only in corrupted text, who is pleased by the blankets
+    and gives the boy great power in exchange.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: transformed origin animal
+  assigned_to:
+  - fig:1
+  basis: The deer are described before and after a transformation into ordinary deer.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: possessor of transforming garment
+  assigned_to:
+  - fig:2
+  basis: The transforming blow is made with the breech-clout of a woman.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: abandoned boy
+  assigned_to:
+  - fig:3
+  basis: The boy is deserted by the tribe.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: abandoning group
+  assigned_to:
+  - fig:4
+  basis: The tribe deserts the troublesome boy.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: hidden grandmother helper
+  assigned_to:
+  - fig:5
+  basis: The grandmother is hidden in a basket and later gives fire and makes weapons
+    and blankets.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:6
+  label: young hunter and recipient of power
+  assigned_to:
+  - fig:3
+  basis: The boy hunts mice and blue jays and later receives great power.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:7
+  label: titled celestial figure
+  assigned_to:
+  - fig:6
+  basis: The Sun is named in the section title with the lad, though the supplied body
+    text is corrupted near the exchange episode.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: exchange recipient and power granter
+  assigned_to:
+  - fig:7
+  basis: The recipient is pleased by blankets and gives the boy great power in exchange.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain-tops
+  literal_form: mountain-top
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: woman's breech-clout
+  literal_form: breech-clout of a woman
+  associated_figures:
+  - fig:2
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: basket concealment
+  literal_form: basket
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fire gift
+  literal_form: fire
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: small bows and arrows
+  literal_form: small bows and arrows
+  associated_figures:
+  - fig:5
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:6
+  label: animal-skin blankets
+  literal_form: blankets made from skins of mice and blue jays
+  associated_figures:
+  - fig:3
+  - fig:5
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Origin transformation of the deer
+  summary: Deer are described as once able to leap between mountain-tops and then
+    becoming ordinary deer after being struck with a woman's breech-clout.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Abandoned boy misled and finding grandmother
+  summary: A troublesome boy is abandoned by the tribe, misled by sounds while trying
+    to follow, and discovers his grandmother hidden in a basket.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Grandmother's gifts and the boy's hunting
+  summary: After the boy kicks his grandmother, she gives him fire and makes small
+    bows and arrows; he uses them to shoot mice and blue jays.
+  figure_refs:
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Blankets exchanged for power
+  summary: The grandmother makes the skins into blankets, and the blankets are exchanged
+    with a corruptedly named recipient for great power for the boy.
+  figure_refs:
+  - fig:3
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Origin of deer through transformation into ordinary animals
+  taxonomy_refs: []
+  basis: The passage explicitly presents an origin explanation in which deer lose
+    an earlier extraordinary ability and become ordinary deer.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives only a compressed summary and does not explain why the
+    breech-clout causes the transformation.
+- id: motif:2
+  label: Abandoned troublesome child aided by hidden elder relative
+  taxonomy_refs: []
+  basis: The boy is deserted by the tribe, then finds his hidden grandmother, who
+    equips him with fire and weapons.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is summarized and does not describe the full narrative context
+    of the abandonment.
+- id: motif:3
+  label: Gift of fire and hunting implements to a youth
+  taxonomy_refs: []
+  basis: The grandmother gives the boy fire and makes him small bows and arrows, which
+    he uses for hunting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No broader cultural function for the fire or weapons is stated in this
+    excerpt.
+- id: motif:4
+  label: Exchange of crafted blankets for great power
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Blankets made from hunted animal skins please a recipient who gives the boy
+    great power in exchange.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The recipient's name is corrupted in the supplied text; the mapping to
+    the sacred_exchange family is based on the explicit exchange for power.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8060-8063
+  quote_or_summary: In section VI, deer are said to have once jumped from mountain-top
+    to mountain-top and then to have been transformed into ordinary deer by being
+    struck with a woman's breech-clout.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 8065-8068
+  quote_or_summary: Section VII is titled "THE SUN AND THE LAD"; a troublesome boy
+    is deserted by the tribe and, when trying to follow them, is misled by sounds.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized evidence with short title
+    quotation.
+- id: ev:3
+  type: summary
+  locator: 8068-8069
+  quote_or_summary: The boy discovers his grandmother hidden in a basket.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 8069-8072
+  quote_or_summary: The boy kicks his grandmother, but she gives him fire and makes
+    him small bows and arrows.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 8072-8075
+  quote_or_summary: Using the small bows and arrows, the boy shoots mice and blue
+    jays; the grandmother makes their skins into blankets.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 8075-8078
+  quote_or_summary: The blankets please a recipient named in corrupted text, who gives
+    the boy great power in exchange for the blankets.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the compressed synopsis form and OCR/text corruption
+    near the exchange recipient in section VII. Comparison claims are left empty because
+    the passage itself does not state a comparison to another text or tradition.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to available refs directly supported by literal passage elements.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l8060-l8078
+  passage_sha256=abfa1b41e09ba5a2f725a673c48db64d3faab7747e4165244700c230d016e960
+

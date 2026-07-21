@@ -1,0 +1,330 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l20095-l20189
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER XIX, 7- XX, I. 393 / CHAPTER XX, 2-1 1. 395 / CHAPTER XX, I 2 -XXI,
+    2. 397 / Chapter XXI; lines 20095-20189
+  start: '20095'
+  end: '20189'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Do not slay him now, for the earth will become full of noxious creatures.
+  summary: The passage states that everything can change except divine providence.
+    It then reports that Fre^iin wished to slay As-i Dahak, but Auharmazd told him
+    not to do so because the earth would become full of noxious creatures. Chapter
+    XXI opens with an indication of the midday shadow and gives a zodiacal table of
+    shadow lengths according to the sun's position, measured in feet and half-feet
+    of a man.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The text states that everything can change except divine providence.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fre^iin wished to slay As-i Dahak.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Auharmazd told Fre^iin not to slay As-i Dahak at that time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Auharmazd's stated reason is that the earth would become full of noxious creatures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Chapter XXI begins by announcing an indication of the midday shadow.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The shadow measurements are tied to the sun's positions in zodiac signs and
+    at their fifteenth degrees.
+  category: relationship
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: The table gives increasing shadow lengths from Cancer toward Capricornus and
+    then decreasing lengths through Aquarius, Pisces, Aries, Taurus, and Gemini.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: obs:8
+  text: The measurements are expressed in feet and half-feet of a man.
+  category: object
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fre^iin
+  description: The figure who wished to slay As-i Dahak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: As-i Dahak
+  description: The figure whom Fre^iin wished to slay and whom Auharmazd says should
+    not be slain now.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Auharmazd
+  description: The speaker who forbids the immediate slaying of As-i Dahak and gives
+    the reason.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: noxious creatures
+  description: A prospective multitude that would fill the earth if As-i Dahak were
+    slain now.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: would-be slayer
+  assigned_to:
+  - fig:1
+  basis: Fre^iin is said to have wished to slay As-i Dahak.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: figure whose killing is deferred
+  assigned_to:
+  - fig:2
+  basis: Auharmazd says not to slay As-i Dahak now.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: divine prohibitor and explainer
+  assigned_to:
+  - fig:3
+  basis: Auharmazd speaks the prohibition and explains the consequence.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: prospective harmful multitude
+  assigned_to:
+  - fig:4
+  basis: The earth would become full of these creatures if the killing occurred.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: earth filled with noxious creatures
+  literal_form: the earth will become full of noxious creatures
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: midday shadow
+  literal_form: midday shadow measured in feet of a man
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: sun in zodiacal positions
+  literal_form: the sun in Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricornus,
+    Aquarius, Pisces, Aries, Taurus, and Gemini, including fifteenth-degree positions
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:4
+  label: feet and half-feet sequence
+  literal_form: shadow lengths stated as one foot, half-foot increments, and ten feet
+    at Capricornus
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Auharmazd forbids the slaying of As-i Dahak
+  summary: Fre^iin wishes to slay As-i Dahak, but Auharmazd says not to slay him now
+    because the earth would become full of noxious creatures.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Midday-shadow zodiac table
+  summary: The text presents an indication of midday shadows, listing shadow lengths
+    as the sun moves through zodiac signs and fifteenth-degree positions.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: deferred killing to avert harmful proliferation
+  taxonomy_refs:
+  - chaos
+  basis: The slaying of As-i Dahak is prevented because it would cause the earth to
+    become full of noxious creatures.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not narrate a full battle, imprisonment, or later resolution;
+    the chaos classification is based only on the threatened infestation of the earth.
+- id: motif:2
+  label: divine counsel restraining violent action
+  taxonomy_refs: []
+  basis: Auharmazd directs Fre^iin not to carry out the intended slaying and supplies
+    the reason.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only a short notice, not an extended counsel scene.
+- id: motif:3
+  label: solar-zodiacal shadow cycle
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The shadow table tracks cyclic changes in midday shadow as the sun passes
+    through the zodiacal signs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: This material is primarily technical or calendrical rather than narrative
+    mythology.
+comparison_claims:
+- id: claim:1
+  claim: The prohibition on slaying As-i Dahak is functionally comparable to a chaos-containment
+    pattern, because destruction of the figure is delayed to avoid a greater outbreak
+    of harmful creatures.
+  claim_level: same_function
+  target: chaos motif family
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage itself gives only the immediate reason for the prohibition
+    and does not establish a wider narrative pattern or historical relationship.
+- id: claim:2
+  claim: The midday-shadow table fits a seasonal-cycle pattern by correlating solar
+    movement through the zodiac with a recurring sequence of shadow lengths.
+  claim_level: same_function
+  target: seasonal_cycle motif family / solar-calendar shadow pattern
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The table is technical astronomical or calendrical material, so its
+    mythic-symbolic significance is not explicit in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter XX, preceding section within lines 20095-20097
+  quote_or_summary: '"it is possible for everything to change but divine providence"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: Chapter XX, 18 within lines 20098-20102
+  quote_or_summary: 'Fre^iin wished to slay As-i Dahak, but Auharmazd said: "Do not
+    slay him now, for the earth will become full of noxious creatures."'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: Chapter XXI, 1
+  quote_or_summary: '"I write the indication of the midday shadow; may it be fortunate!"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: Chapter XXI, 2, opening of shadow table
+  quote_or_summary: The table begins with the sun in Cancer and continues through
+    Leo and Virgo, giving midday shadow lengths in feet and half-feet.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: Chapter XXI, 2, middle of shadow table
+  quote_or_summary: The table continues through Libra, Scorpio, Sagittarius, and Capricornus,
+    with the longest stated length at Capricornus as ten feet and then nine and a
+    half at the fifteenth of Capricornus.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: Chapter XXI, 2, end of shadow table
+  quote_or_summary: The table proceeds through Aquarius, Pisces, Aries, Taurus, and
+    Gemini, decreasing to one foot at the fifteenth of Gemini.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: Editorial notes within the supplied line range
+  quote_or_summary: Interleaved notes discuss manuscript variants and explain that
+    the shadow observations may suit a particular latitude; these notes are not used
+    as primary motif evidence.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The main actions and shadow-table structure are clear, but the line range
+    includes OCR artifacts and editorial footnotes. Motif assignments are cautious
+    because the mythic notice is brief and the shadow material is mainly technical.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Footnotes in the supplied passage are treated as editorial material. No serpent taxonomy reference is assigned because the passage does not explicitly describe As-i Dahak as a serpent.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l20095-l20189
+  passage_sha256=e57bd31c663c52e2118f5c18829ca2a4d13d35a487c895076cc424663d4121de
+

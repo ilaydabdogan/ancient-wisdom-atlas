@@ -1,0 +1,359 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l5505-l5533
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          133 / THE    MYSTERIES    OF    MITHRA
+    / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES         135 / THE    MYSTERIES    OF    MITHRA;
+    lines 5505-5533
+  start: '5505'
+  end: '5533'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'An unnamed actor grips an animal victim by the nostrils and stabs its
+    flank with a hunting-knife. A prodigy follows: useful herbs, plants, and wheat
+    spring from the moribund animal''s body and spinal cord. An intervening figure
+    caption describes two bronze plaques with Jupiter or Silvanus, serpent-entwined
+    objects, an eagle, Mithraic relief figures, and a bearded Phrygian-capped figure.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed actor holds the victim by the nostrils with one hand and plunges
+    a hunting-knife deep into its flank with the other.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text marks the next event as an extraordinary prodigy.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Useful herbs and plants spring from the body of the moribund victim and cover
+    the earth with verdure.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:4
+  text: Wheat springs from the spinal cord of the animal.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: A bronze plaque is described as having the head of Jupiter, possibly Silvanus,
+    holding a pine-cone and a branch entwined by a serpent; it also has an eagle on
+    the shoulder and Mithraic relief figures on the breast.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A second bust is described as a bearded figure with a Phrygian cap, holding
+    a pine-cone and a torch entwined by a serpent.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed knife-wielding actor
+  description: An unnamed figure who holds the victim's nostrils and stabs its flank
+    with a hunting-knife.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: moribund animal victim
+  description: The stabbed animal or victim from whose body and spinal cord plants
+    and wheat spring.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: Jupiter or Silvanus figure on left plaque
+  description: A plaque figure with the head of Jupiter, uncertainly identified as
+    Silvanus, holding a pine-cone and serpent-entwined branch.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: eagle on shoulder
+  description: An eagle positioned on the right shoulder of the left plaque figure.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: tauroctonous Mithra in relief
+  description: A relief figure identified in the caption as tauroctonous Mithra.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: bearded Phrygian-capped bust
+  description: A bearded figure described as Oriental, wearing a Phrygian cap, holding
+    a pine-cone and a serpent-entwined torch.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: knife-wielding slayer
+  assigned_to:
+  - fig:1
+  basis: The actor grips the victim and plunges a hunting-knife into its flank.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: moribund generative victim
+  assigned_to:
+  - fig:2
+  basis: The victim is moribund, and plants, herbs, and wheat spring from its body
+    and spinal cord.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: uncertainly identified plaque deity or bust
+  assigned_to:
+  - fig:3
+  basis: The caption identifies the head as Jupiter, with Silvanus given as a possible
+    alternative.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: shoulder attribute animal
+  assigned_to:
+  - fig:4
+  basis: The eagle is placed on the right shoulder of the left plaque figure.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: Mithraic bull-slaying relief figure
+  assigned_to:
+  - fig:5
+  basis: The caption names a relief figure as tauroctonous Mithra.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: Phrygian-capped plaque bust
+  assigned_to:
+  - fig:6
+  basis: The caption describes the right-hand bust as bearded, capped, and holding
+    ritual-looking objects.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: hunting-knife
+  literal_form: hunting-knife plunged into the victim's flank
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: vegetation from victim's body
+  literal_form: useful herbs, plants, and wheat springing from the moribund animal
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: pine-cone
+  literal_form: pine-cone held by the plaque figures
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: serpent-entwined branch
+  literal_form: branch entwined by a serpent
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: eagle
+  literal_form: eagle on the right shoulder
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: cup
+  literal_form: cup shown among Mithraic figures in relief
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:7
+  label: ram head
+  literal_form: head of a ram shown among relief figures
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:8
+  label: five-rayed disc
+  literal_form: five-rayed disc shown among relief figures
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: serpent-entwined torch
+  literal_form: torch entwined by a serpent
+  associated_figures:
+  - fig:6
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: knife-stabbing of the animal victim
+  summary: An unnamed actor grips an animal victim by the nostrils and drives a hunting-knife
+    into its flank.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: prodigious vegetation from the moribund animal
+  summary: After the stabbing, the text describes a prodigy in which herbs, plants,
+    and wheat spring from the animal's body and spinal cord.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: scene:3
+  label: bronze plaque iconography
+  summary: The caption describes two bronze plaques with a Jupiter or Silvanus figure,
+    eagle, tauroctonous Mithra relief, cup, ram head, five-rayed disc, pine-cones,
+    and serpent-entwined branch and torch.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: slain animal gives rise to vegetation
+  taxonomy_refs:
+  - death_rebirth
+  - sacrifice
+  basis: The passage links a knife-wound inflicted on an animal victim with a prodigy
+    in which useful herbs, plants, and wheat arise from the moribund animal's body
+    and spinal cord.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The excerpt begins mid-action and does not provide the full narrative
+    context or an explicit ritual-sacrifice frame.
+- id: motif:2
+  label: serpent-entwined sacred implements in Mithraic iconography
+  taxonomy_refs:
+  - serpent
+  basis: 'Both plaque descriptions include objects entwined by serpents: a branch
+    on the left plaque and a torch on the right-hand bust.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage gives iconographic description but does not explain the meaning
+    of the serpent-entwined objects.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5505-5509
+  quote_or_summary: An unnamed actor holds the victim by the nostrils and plunges
+    a hunting-knife into its flank.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: line 5510
+  quote_or_summary: The text announces that an extraordinary prodigy occurred.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 5512-5525
+  quote_or_summary: The left bronze plaque is described with the head of Jupiter or
+    possibly Silvanus, a pine-cone, a serpent-entwined branch, an eagle, and reliefs
+    of tauroctonous Mithra, a cup, a ram head, and a five-rayed disc.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 5525-5530
+  quote_or_summary: The right-hand bust is described as a bearded Phrygian-capped
+    figure holding a pine-cone and a serpent-entwined torch, and the caption calls
+    the work crude and probably Asiatic in origin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: summary
+  locator: lines 5531-5533
+  quote_or_summary: From the moribund victim's body spring useful herbs and plants,
+    and from the animal's spinal cord springs wheat.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and includes an intervening image caption. The
+    central action likely continues from preceding context, but only the provided
+    lines were used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not make a comparative argument beyond descriptive iconography and a tentative origin note.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l5505-l5533
+  passage_sha256=000a78ff1da174beac1d1e863e46d2b2e88125d4814afb31d84f580418710209
+

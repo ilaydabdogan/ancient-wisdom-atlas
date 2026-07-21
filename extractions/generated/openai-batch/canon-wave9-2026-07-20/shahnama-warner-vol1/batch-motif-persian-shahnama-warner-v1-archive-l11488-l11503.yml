@@ -1,0 +1,329 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l11488-l11503
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: FA  RID  UN  199 / FARIDIJN  205 / FAR1DUN  219 / ARGUMENT; lines 11488-11503
+  start: '11488'
+  end: '11503'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A bird carries an infant from heated rocks to her nest on Mount Alburz,
+    apparently for her young to tear him. God has pity, and the bird and her brood
+    instead love the weeping infant, feed him the tenderest prey, and make him suck
+    blood instead of milk. He remains unseen for a long time, grows to manhood, and
+    is later seen by a passing caravan, described through images of a cypress, silver
+    mount, and reed.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An infant is taken up from heated rocks.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The infant is carried quickly to Mount Alburz, where the bird has her nest
+    and young, with an stated expectation that the young will tear him despite his
+    cries.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: God is said to have pity on the infant, and the passage states that the infant's
+    lot was otherwise.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The fowl and her brood see the infant weeping tears of blood, lavish love
+    on him, and are astonished by his goodly face.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The bird chooses the tenderest prey for the infant and makes him suck blood
+    instead of milk.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The child remains lost to sight for a long time and later reaches man's estate.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A caravan passes by and sees the grown figure, whose appearance is compared
+    to a noble cypress-tree, a silver mount, and a reed.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the infant
+  description: An infant taken from heated rocks, carried to Mount Alburz, weeping
+    tears of blood, fed by the bird, and later grown to man's estate.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the fowl or bird
+  description: A female bird who carries the infant to her nest and young, then loves
+    and feeds him with tender prey and blood instead of milk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the bird's brood
+  description: The bird's young at the nest on Mount Alburz, who behold the infant
+    and join in lavishing love on him.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:4
+  name_or_label: God
+  description: The divine figure described as giving all good and having pity on the
+    infant.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: a caravan
+  description: A passing caravan that sees the grown figure after he has reached man's
+    estate.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: threatened infant and foster-child
+  assigned_to:
+  - fig:1
+  basis: The infant is carried to a bird's nest to be torn but is instead loved and
+    fed by the bird.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: animal carrier and nurturer
+  assigned_to:
+  - fig:2
+  basis: The bird carries the infant to her nest and later selects tender prey and
+    feeds him.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: bird brood transformed from threatened predators to affectionate witnesses
+  assigned_to:
+  - fig:3
+  basis: The brood are first presented as those who might tear the infant, but then
+    see him and lavish love on him.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:4
+  label: divine preserver
+  assigned_to:
+  - fig:4
+  basis: God has pity on the infant, and the infant's fate differs from the expected
+    outcome.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: human witnesses
+  assigned_to:
+  - fig:5
+  basis: The caravan passes by and sees the grown child.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Mount Alburz
+  literal_form: named mountain where the bird's nest and young are located
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bird's nest
+  literal_form: nest on Mount Alburz containing the bird's young
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: blood instead of milk
+  literal_form: the infant is made to suck blood in place of milk
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: cypress-tree image
+  literal_form: the grown figure is likened to a noble cypress-tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Infant carried to the mountain nest
+  summary: The bird takes the infant from heated rocks to her nest and young on Mount
+    Alburz, where the child is expected to be torn.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Divine pity and bird nurture
+  summary: God has pity on the infant; the bird and brood respond with love, and the
+    bird feeds him tender prey and blood instead of milk.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Grown child seen by caravan
+  summary: After a long period out of sight, the child reaches manhood and is seen
+    by a passing caravan, with his body described through plant and mountain-like
+    images.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Threatened infant spared and nurtured by a bird
+  taxonomy_refs:
+  - miraculous_child
+  basis: The infant is taken to be torn by the bird's young, but God pities him and
+    the bird and brood instead love and feed him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy ref is broad; the passage does not explicitly label
+    the infant as miraculous.
+- id: motif:2
+  label: Animal fosterage with prey and blood in place of milk
+  taxonomy_refs: []
+  basis: The bird chooses tender prey for the infant and makes him suck blood instead
+    of milk.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No narrower supplied taxonomy reference directly matches this feeding
+    pattern.
+- id: motif:3
+  label: Mountain nest as place of concealment and growth
+  taxonomy_refs: []
+  basis: The infant is carried to Mount Alburz, remains long lost to sight, and later
+    appears grown to man's estate.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The passage names a mountain setting but does not explicitly present it
+    as a cosmic mountain or world-center motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11488-11491
+  quote_or_summary: The bird takes the infant from heated rocks and carries him to
+    Mount Alburz, where her nest and young are, apparently for the young to tear him
+    despite his cries.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summary generated.
+- id: ev:2
+  type: summary
+  locator: lines 11491-11492
+  quote_or_summary: God, described as giving all good, has pity on the infant, and
+    the passage says his lot was otherwise.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summary generated.
+- id: ev:3
+  type: summary
+  locator: lines 11494-11498
+  quote_or_summary: The fowl and her brood see the infant weeping tears of blood,
+    love him wondrously, and are astonished at his goodly face.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summary generated.
+- id: ev:4
+  type: summary
+  locator: lines 11498-11500
+  quote_or_summary: The bird selects the tenderest prey for the infant and makes her
+    little guest suck blood instead of milk.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summary generated.
+- id: ev:5
+  type: summary
+  locator: lines 11501-11503
+  quote_or_summary: After being long lost to sight, the child reaches man's estate;
+    a caravan sees him, and his appearance is compared to a noble cypress-tree, a
+    silver mount, and a reed.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain translation; summary generated.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is based only on the supplied passage. Motif candidates
+    are cautious because the available taxonomy is broad. No cross-tradition comparison
+    claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Line locators follow the supplied stable markdown range. The bird is not named beyond the passage's terms, so no external identification is added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l11488-l11503
+  passage_sha256=4673c20702882652eeea2d5b2fd296a6de531751bdedd6c25daae888129ae49b
+

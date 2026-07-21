@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l12726-l12841
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: XXV. 36. / A.D. 647. / XXV. 37. / XXV. 38.; lines 12726-12841
+  start: '12726'
+  end: '12841'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: It is We who are to blame.
+  summary: The passage reports a failed canal project by Hirafu, an imperial acknowledgement
+    of responsibility and discontinuation of the work, the Emperor's journey to and
+    return from the hot baths of Arima, a fire at the Palace of the Prince Imperial,
+    and the institution of a system of caps with ranked grades, materials, borders,
+    and clothing colors.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Aratawi no Hirafu, Yamato no Aya no Atahe, described as an engineer of the
+    rank of Daisen, mistakenly dug a canal leading to Naniha, and the work distressed
+    the people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An unnamed person presented a memorial of remonstrance about the canal.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Emperor decreed that he had unwisely listened to Hirafu's misrepresentations,
+    said that he himself was to blame, and the canal work was discontinued that same
+    day.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Emperor made a progress to the hot baths of Arima, accompanied by the
+    Oho-omi of the Right and Left, other Ministers, and Daibu, and later returned
+    to a temporary palace at Muko.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Palace of the Prince Imperial took fire, and the people of that time regarded
+    it with great marvel.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In that year caps of seven kinds and thirteen grades were instituted.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The cap categories are distinguished by names, materials, borders, grades,
+    and associated clothing colors, including woven stuff, embroidered stuff, purple
+    material, brocade, blue silk, black silk, and dark violet borders.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Aratawi no Hirafu, Yamato no Aya no Atahe
+  description: An engineer of the rank of Daisen who mistakenly dug the canal leading
+    to Naniha.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Emperor
+  description: The ruler who issued the decree accepting blame for the canal and later
+    traveled to the hot baths of Arima.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Unnamed memorialist
+  description: An unnamed person who presented a memorial of remonstrance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Oho-omi of the Right and Left, other Ministers, and Daibu
+  description: Court officials who accompanied the Emperor to the hot baths of Arima.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Prince Imperial
+  description: The imperial prince whose palace took fire.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: Engineer associated with failed canal work
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Hirafu as an engineer and says he mistakenly dug the
+    canal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: Ruler accepting responsibility
+  assigned_to:
+  - fig:2
+  basis: The Emperor's decree says he unwisely listened to Hirafu and that he was
+    to blame.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: Imperial traveler to hot baths
+  assigned_to:
+  - fig:2
+  basis: The Emperor made a progress to the hot baths of Arima and returned afterward.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Remonstrant
+  assigned_to:
+  - fig:3
+  basis: An unnamed person presented a memorial of remonstrance.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: Court attendants
+  assigned_to:
+  - fig:4
+  basis: The officials are named as accompanying the Emperor to Arima.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: Imperial palace owner
+  assigned_to:
+  - fig:5
+  basis: The passage identifies the burning building as the Palace of the Prince Imperial.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Canal to Naniha
+  literal_form: A canal leading to Naniha
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Hot baths of Arima
+  literal_form: Hot baths visited by the Emperor
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Fire at the Prince Imperial's palace
+  literal_form: The Palace of the Prince Imperial took fire
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: Rank caps
+  literal_form: Caps of seven kinds and thirteen grades, differentiated by fabric,
+    borders, grades, and clothing colors
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Failed canal and imperial decree
+  summary: Hirafu's canal work causes distress, an unnamed person remonstrates, and
+    the Emperor accepts blame and stops the work.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Imperial progress to Arima
+  summary: The Emperor travels to the hot baths of Arima with senior court officials
+    and later returns to a temporary palace at Muko.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Fire at the Prince Imperial's palace
+  summary: The Palace of the Prince Imperial takes fire, an event described as a great
+    marvel to the people of the time.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Institution of cap ranks
+  summary: A ranked cap system is instituted, with seven kinds, thirteen grades, and
+    distinctions of material, border, and clothing color.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Imperial accountability after a harmful public work
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Emperor acknowledges responsibility for listening to Hirafu and discontinues
+    the canal work after remonstrance.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is administrative chronicle material; it does not explicitly
+    frame the act as sacred or mythic legitimation.
+- id: motif:2
+  label: Royal or imperial palace fire treated as a marvel
+  taxonomy_refs: []
+  basis: The Palace of the Prince Imperial takes fire and the people regard it with
+    great marvel.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage does not state that the fire is an omen, divine judgment,
+    or supernatural event.
+- id: motif:3
+  label: Court hierarchy marked by ceremonial caps and colors
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage describes the institution of caps in seven kinds and thirteen
+    grades, with ranked materials, borders, and clothing colors.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes rank regulation rather than an explicit mythic narrative.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12726-12737
+  quote_or_summary: Hirafu mistakenly dug a canal leading to Naniha, distressing the
+    people; after a memorial of remonstrance, the Emperor accepted blame and the work
+    was discontinued that day.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source metadata; concise summary with brief quoted phrase
+    used.
+- id: ev:2
+  type: summary
+  locator: lines 12738-12743
+  quote_or_summary: The Emperor went to the hot baths of Arima with the Oho-omi of
+    the Right and Left, other Ministers, and Daibu, and later returned to the temporary
+    Palace of Muko.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 12744-12745
+  quote_or_summary: On the day of the Emperor's return, the Palace of the Prince Imperial
+    took fire, to the great marvel of the people of that time.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 12746-12748
+  quote_or_summary: In this year caps of seven kinds and thirteen grades were instituted.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12749-12841
+  quote_or_summary: The passage lists named cap categories and grades, specifying
+    materials such as woven stuff, embroidered stuff, purple material, brocade, blue
+    silk, and black silk, along with borders and clothing colors.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source metadata; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based directly on the passage. Motif candidates are
+    cautious because the passage is largely administrative and does not explicitly
+    state mythic meanings or intertextual comparisons.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l12726-l12841
+  passage_sha256=f3b9f32604d1be24dec5c4bdae0f37df1c12cd03d849c6d2a35c156902cea78c
+

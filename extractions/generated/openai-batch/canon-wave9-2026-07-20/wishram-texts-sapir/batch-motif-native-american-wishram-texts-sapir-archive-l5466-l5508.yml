@@ -1,0 +1,380 @@
+---
+record_id: batch.motif.native-american-wishram-texts-sapir-archive-l5466-l5508
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+passage_locator:
+  label: TEXTS. / APPENDIX. SUPPLEMENTARY UPPER CHINOOKAN / TEXTS. / CLACKAMAS TEXT.1;
+    lines 5466-5508
+  start: '5466'
+  end: '5508'
+  translation: Wishram Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A short Clackamas tale tells of a boy whose head is scarred when a stick
+    runs into him while he gathers wood. Later his father finds the scar, questions
+    and whips him. The boy says a deer struck him with its horns; after being told
+    to bathe, he does so. When older, he has no success seeing elks while hunting,
+    and the translation explains this as a consequence of falsely accusing them of
+    causing the scar. The passage also includes an editorial note comparing Clackamas
+    linguistically with Kathlamet and Wishram-Wasco.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed woman gives birth to a male child, identified as her son.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The boy goes to get wood and gather sticks; a stick runs into his head, producing
+    a scar.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: When the son is older, his father louses his head, finds the scar, and asks
+    how he got it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The father whips his son after asking about the scar.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The boy says that a deer once struck him with its horns.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The father tells the son to bathe, and the boy bathes.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: After the boy grows older, elks never appear to him when he hunts; the translation
+    explains this as because he falsely accused them of causing the scar.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The boy becomes old, and the story ends.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unnamed mother
+  description: An unnamed woman who gives birth to a male child.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the boy / son
+  description: The male child who receives a head scar from a stick, later gives a
+    deer explanation for the scar, bathes, hunts without elks appearing, and becomes
+    old.
+  role_refs:
+  - role:2
+  - role:3
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the father
+  description: The father who louses the son’s head, finds the scar, asks about it,
+    whips him, and tells him to bathe.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: deer
+  description: The animal named in the boy’s answer as having struck him with its
+    horns.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: elks
+  description: Game animals that never appear to the boy when he hunts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: birthing mother
+  assigned_to:
+  - fig:1
+  basis: She gives birth to the male child described as her son.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: son / central child
+  assigned_to:
+  - fig:2
+  basis: The male child is repeatedly identified as the son and is the focus of the
+    story’s actions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: scarred child
+  assigned_to:
+  - fig:2
+  basis: A stick runs into his head and accounts for the scar later found by the father.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: questioning and punishing father
+  assigned_to:
+  - fig:3
+  basis: The father finds the scar, asks how it happened, whips the son, and commands
+    him to bathe.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: named but falsely attributed injurer
+  assigned_to:
+  - fig:4
+  basis: The boy says a deer struck him with horns, while the narrative has already
+    given the stick as the cause and later describes the accusation as false.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: role:6
+  label: unavailable quarry
+  assigned_to:
+  - fig:5
+  basis: Elks never appear to the boy when he hunts.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: false accuser
+  assigned_to:
+  - fig:2
+  basis: The translation explains the later hunting failure as due to the boy having
+    falsely accused the animals of inflicting the scar.
+  evidence_refs:
+  - ev:5
+- id: role:8
+  label: unsuccessful hunter
+  assigned_to:
+  - fig:2
+  basis: The boy grows older and elks never appear to him when he hunts.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: head scar
+  literal_form: scar on the boy’s head
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: stick that causes the wound
+  literal_form: stick gathered while getting wood
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: deer horns
+  literal_form: horns in the boy’s stated explanation
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: bathing after the accusation
+  literal_form: father’s command to bathe and the boy’s bath
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: absent elks
+  literal_form: elks not appearing during the hunt
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Birth and accidental scar
+  summary: A male child is born; later, while gathering sticks for wood, a stick runs
+    into his head and causes a scar.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Father discovers the scar
+  summary: When the son is older, the father louses his head, finds the scar, questions
+    him, and whips him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Deer explanation and bathing
+  summary: The boy says a deer struck him with its horns; the father tells him to
+    bathe, and the boy bathes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Hunting failure and old age
+  summary: As the boy grows older, elks do not appear to him when he hunts; he eventually
+    becomes old and the story ends.
+  figure_refs:
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: False explanation for a scar
+  taxonomy_refs: []
+  basis: The narrative first gives the scar’s cause as a stick striking the boy’s
+    head, but the boy later says a deer struck him with its horns; the translation
+    later identifies the accusation as false.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is short and does not state the boy’s motive for the false
+    explanation.
+- id: motif:2
+  label: False accusation followed by loss of hunting success
+  taxonomy_refs: []
+  basis: After the false accusation, elks never appear to the boy when he hunts, and
+    the translation explicitly links this to the accusation.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The boy names a deer in his speech, while the consequence concerns elks;
+    the relation between deer and elks in the translation should be checked against
+    the source language and notes.
+- id: motif:3
+  label: Scar as visible evidence that prompts interrogation
+  taxonomy_refs: []
+  basis: The father discovers the scar while lousing the boy’s head and questions
+    him about how he got it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: This is a small narrative pattern rather than a fully developed independent
+    motif in the short passage.
+comparison_claims:
+- id: claim:1
+  claim: The source note cautiously relates this Clackamas specimen linguistically
+    to Kathlamet, saying Clackamas seems very close to Kathlamet, if not identical
+    with it.
+  claim_level: linguistic_similarity
+  target: Kathlamet
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial linguistic comparison, not a demonstrated motif
+    or narrative-function comparison; it does not by itself establish shared mythic
+    content or historical transmission.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 5466-5508; introductory note
+  quote_or_summary: '"Linguistically Clackamas seems to be very close to Kathlamet,
+    if not identical with it."'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: 5466-5508; story opening
+  quote_or_summary: A woman gives birth to a male child; he later goes to get wood
+    and gather sticks, and a stick runs into his head, explaining the scar.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: summary
+  locator: 5466-5508; father finds scar
+  quote_or_summary: When the son is older, the father louses his head, finds the scar,
+    asks how he got it, and whips him.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:4
+  type: quote
+  locator: 5466-5508; boy’s answer and bath
+  quote_or_summary: '"Once a deer struck me with its horns." The father tells the
+    son to bathe, and the boy bathes.'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short quotation and summary used for evidence.
+- id: ev:5
+  type: summary
+  locator: 5466-5508; consequence and ending
+  quote_or_summary: The boy grows older, but elks never appear to him when he hunts;
+    the translation explains this as because he falsely accused them of inflicting
+    the scar. He becomes old and the story ends.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal story sequence is clear in the English translation. Motif confidence
+    is lower because the passage is short, marked incomplete in the surrounding note,
+    and the deer/elk wording should be checked against the original language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Taxonomy motif and symbol references were left empty because the available taxonomy did not contain a precise supported match for the scar, stick, false accusation, or hunting-failure pattern.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-wishram-texts-sapir-archive__l5466-l5508
+  passage_sha256=3599908d2ce2619fb0bc6d269af2e7f029558badef3306284cf967f4424f248d
+

@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l9277-l9310
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE BUSHMAN DRUM AND DANCING / THE MABKING OF AREOWS. / THE MARKING OF ARROWS.
+    / CONCERNING TWO APPARITIONS.; lines 9277-9310
+  start: '9277'
+  end: '9310'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: she took a stone; (and) as she plunged the stone into the ashes of the fire
+  summary: The narrator reports that his mother, before going out to seek food after
+    dreaming evil things, would plunge a stone into the ashes of the fire and speak
+    an exclamation so that the harmful dream-things would remain in the fire rather
+    than accompany her. If she did not do this, her outing and the Bushman rice she
+    dug would be unfavorable.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a mode of getting rid of the evil influence of
+    bad dreams.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before going out to seek food, the narrator's mother took a stone.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: She plunged the stone into the ashes of the fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: While performing the action, she exclaimed, "Rider (?) yonder!"
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: She wished the evil things she had dreamed about to remain in the fire instead
+    of going out with her.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that if she did not act in this way, the dreamed evil things
+    would go out with her and her going out would not be fortunate.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Bushman rice she dug would not be favorable to her because it was aware
+    that she had dreamed evil things.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: narrator's mother / mamma
+  description: The narrator's mother is the person who goes out to seek food and performs
+    the stone-and-ashes action after dreaming evil things.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Bushman rice
+  description: A dug food source described as aware that the mother had dreamed evil
+    things and therefore not favorable to her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: food-seeker
+  assigned_to:
+  - fig:1
+  basis: She intended to go out to seek food.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: person attempting to keep bad-dream influence away
+  assigned_to:
+  - fig:1
+  basis: She plunged a stone into the fire ashes so that the evil things from dreams
+    would remain in the fire and not go out with her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: responsive food source
+  assigned_to:
+  - fig:2
+  basis: The Bushman rice is described as aware of her evil dreams and as not favorable
+    to her.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: stone
+  literal_form: A stone taken and plunged into the ashes of the fire before departure.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire ashes
+  literal_form: The ashes of the fire, where the dreamed evil things are meant to
+    remain.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: evil dream-things
+  literal_form: The evil things about which the mother had been dreaming.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Bushman rice
+  literal_form: The food plant or food source that she dug, described as potentially
+    unfavorable when aware of the evil dreams.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Pre-departure action at the fire
+  summary: Before going out to seek food, the mother takes a stone, plunges it into
+    the ashes of the fire, and speaks an exclamation.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Keeping dream-evil from accompanying the food search
+  summary: The mother intends the evil things from her dreams to remain in the fire;
+    otherwise they would accompany her and make her outing unfortunate.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Unfavorable Bushman rice
+  summary: The passage says the Bushman rice she dug would not be favorable because
+    it knew she had dreamed evil things.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Averting the evil influence of bad dreams before going out
+  taxonomy_refs: []
+  basis: The heading and narration describe an action performed before going out so
+    that evil dream-things will not accompany the mother and make the outing unfortunate.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives a specific household practice; it does not generalize
+    beyond this account.
+- id: motif:2
+  label: Confining harmful dream contents in fire ashes
+  taxonomy_refs: []
+  basis: The mother plunges a stone into the fire ashes and wishes the evil things
+    she dreamed to remain in the fire.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage states the desired result but does not fully explain the mechanism
+    or ritual logic.
+- id: motif:3
+  label: Food source responds unfavorably to a person's bad dreams
+  taxonomy_refs: []
+  basis: The Bushman rice is described as aware that the mother dreamed evil things
+    and therefore not favorable to her.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The account concerns Bushman rice in this passage only; no broader comparison
+    is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9277-9283; IX.—210
+  quote_or_summary: '"MODE OF GETTING RID OF THE EVIL INFLUENCE OF BAD DREAMS."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 9284-9289; IX.—210 (5161'–5162')
+  quote_or_summary: 'Before seeking food, "she took a stone; (and) as she plunged
+    the stone into the ashes of the fire, she exclaimed: ''Rider (?) yonder!''"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9289-9298; IX.—210 (5162'–5163')
+  quote_or_summary: She wished the evil things she had dreamed to remain in the fire
+    instead of going out with her; otherwise they would accompany her, the place she
+    went would not be nice, and her going out would not be fortunate.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9299-9309; IX.—210 (5164')
+  quote_or_summary: The Bushman rice she dug would not be favorable to her because
+    it was aware that she had dreamed evil things.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. No comparison claims are
+    made because the passage itself supplies no explicit comparative frame beyond
+    the local practice described.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage bears the larger heading "CONCERNING TWO APPARITIONS," but the excerpted content concerns bad dreams, fire ashes, and food-gathering; no apparition figure is described in the extracted lines.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l9277-l9310
+  passage_sha256=feca5c43a60ee6fd7f60529424423527c9fd8b274fd1fae38894fd88faa57046
+

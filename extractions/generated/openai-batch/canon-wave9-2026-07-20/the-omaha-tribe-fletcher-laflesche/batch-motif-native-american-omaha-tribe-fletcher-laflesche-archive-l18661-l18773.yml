@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l18661-l18773
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE  RITUAL  OF  THE  WHITE  BUFFALO  HIDE / WHITE  BUFFALO  HIDE / THE    OMAHA   TRIBE
+    / SECOND  SONG; lines 18661-18773
+  start: '18661'
+  end: '18773'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Holy Pipe, most holy, appears; it appears before you.
+  summary: A ritual song addresses the holy Pipe, says it appears before the hearers,
+    and bids them take it within their lips. The commentary explains that chiefs,
+    as representatives of the people, are instructed to accept and smoke the Pipe
+    so that its fragrant smoke may carry their supplication upward.
+  language: Omaha transcribed vocables with English translation and commentary
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song identifies the Nini'ba as a pipe and xuba as part of a term for a
+    holy object.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The free translation says the holy Pipe appears before the addressed hearers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The addressed hearers are commanded to take the holy Pipe within their lips.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The commentary identifies the chiefs as representatives of the people who
+    are bidden to accept the holy Pipe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The commentary states that the fragrant smoke may carry upward the supplication
+    of those accepting the Pipe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song is said to precede the actual smoking of the Pipe.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary contrasts the Pipe in the first song as standing apart with
+    mysterious power and in this song as coming near and into touch with the supplicants.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: chiefs
+  description: Chiefs are described as representatives of the people who are bidden
+    to accept the holy Pipe.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: people
+  description: The people are represented by the chiefs in the ritual action described
+    by the commentary.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: supplicants
+  description: The commentary refers to the recipients of the Pipe's nearness and
+    service as supplicants.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: representatives of the people
+  assigned_to:
+  - fig:1
+  basis: The commentary explicitly calls the chiefs representatives of the people.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: ritual recipients of the holy Pipe
+  assigned_to:
+  - fig:1
+  basis: The chiefs are bidden to accept the holy Pipe and take it within their lips.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: represented community
+  assigned_to:
+  - fig:2
+  basis: The people are represented by the chiefs in the ritual action.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: supplicants
+  assigned_to:
+  - fig:3
+  basis: The commentary states that the Pipe comes near and in touch with the supplicants
+    and lends itself to service.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: holy Pipe
+  literal_form: Pipe / Nini'ba, described as a holy object
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: fragrant smoke carrying supplication upward
+  literal_form: fragrant smoke rising from the Pipe
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Holy Pipe appears and is accepted
+  summary: The song says the holy Pipe appears before the addressed hearers and commands
+    them to take it within their lips.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Supplication carried upward by smoke
+  summary: The commentary explains that accepting and smoking the Pipe allows fragrant
+    smoke to carry supplication upward.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Pipe moves from apartness to nearness
+  summary: The commentary states that the first song presented the Pipe as standing
+    apart with mysterious power, while this second song presents it as coming near,
+    touching the supplicants, and lending itself to service.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: sacred object accepted for ritual supplication
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The chiefs, representing the people, are bidden to accept the holy Pipe;
+    through its smoke their supplication is carried upward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is an ethnographic ritual-song explanation rather than a narrative
+    myth; the taxonomy match is functional and should be reviewed.
+- id: motif:2
+  label: supplication carried upward by smoke
+  taxonomy_refs:
+  - ascent
+  basis: The commentary says the fragrant smoke may carry upward the supplication
+    of the chiefs or supplicants.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The ascent is of smoke and prayer, not a bodily ascent or journey.
+- id: motif:3
+  label: sacred object approaches from mysterious apartness into ritual contact
+  taxonomy_refs: []
+  basis: The commentary says the Pipe formerly stood apart clothed with mysterious
+    power but now comes near, touches the supplicants, and lends itself to service.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This is based on the editors' explanation of the dramatic-musical relation
+    between two songs; it is not a separate narrative episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18661-18773, literal translation notes for line 1
+  quote_or_summary: The notes gloss Nini'ba as pipe and xuba as part of waxu'be, a
+    holy object.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 18661-18773, free translation
+  quote_or_summary: "“Holy Pipe, most holy, appears; it appears before you. Now I
+    bid ye Within your lips take this holy Pipe, holy Pipe.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: lines 18661-18773, commentary after free translation
+  quote_or_summary: The commentary says the chiefs, as representatives of the people,
+    are bidden to accept the holy Pipe and take it within their lips so that fragrant
+    smoke may carry their supplication upward.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 18661-18773, commentary after free translation
+  quote_or_summary: The commentary states that this song precedes the actual smoking
+    of the Pipe.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 18661-18773, final commentary paragraph
+  quote_or_summary: The commentary says the first song presented the Pipe standing
+    apart with mysterious power, while this song suggests movement toward the Pipe;
+    it now comes near, touches the supplicants, and lends itself to service.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ritual details are explicit. Motif assignments are cautious because
+    the passage is ritual commentary, not a mythic narrative, and taxonomy mapping
+    is functional rather than exact.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make a comparative claim beyond its internal relation to the preceding song.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l18661-l18773
+  passage_sha256=11cd0abfe578af74671b69813fdfc59770c6923d82b48dbeae8c7aa67f3c517d
+

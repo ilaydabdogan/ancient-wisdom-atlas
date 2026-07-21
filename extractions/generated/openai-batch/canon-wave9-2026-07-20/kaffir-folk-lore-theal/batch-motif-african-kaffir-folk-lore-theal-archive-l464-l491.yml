@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l464-l491
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: X  PREFACE. / CONTENTS. / KAFFIR   FOLK, / INTRODUCTORY  CHAPTER  REGARDING  THE  KAFFIRS.;
+    lines 464-491
+  start: '464'
+  end: '491'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An introductory note explains that in South Africa the word “Kaffir” is
+    used broadly for certain black natives, while on the eastern Cape frontier it
+    is usually restricted to members of the Amaxosa tribe. The collected stories are
+    said to come from individuals of that tribe. The passage also states that Europeans
+    have used this designation since the discovery of the country, although the people
+    so named cannot pronounce the word because the English r-sound is absent from
+    their language.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that in South Africa the word “Kaffir” is often used generally
+    for any black native who is not descended from an imported slave.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the eastern frontier of the Cape Colony, the passage says the term is usually
+    restricted to a member of the Amaxosa tribe.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The following stories are stated to have been collected from individuals of
+    the Amaxosa tribe.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Europeans are said to have designated these people “Kaffirs” since the discovery
+    of the country.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that the people so designated cannot pronounce the word
+    because the English sound of the letter r is absent from their language.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Amaxosa tribe
+  description: The tribe whose members are identified as the usual referent of the
+    term on the eastern Cape frontier and as the source community for the following
+    stories.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Individuals of the Amaxosa tribe
+  description: Unspecified individuals from whom the following stories are said to
+    have been collected.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Europeans
+  description: The group said to have designated the Amaxosa people as “Kaffirs” since
+    the discovery of the country.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: named source community
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the Amaxosa tribe as the usual frontier referent of
+    the term and the tribe from which the stories were collected.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: story informants
+  assigned_to:
+  - fig:2
+  basis: The passage says the following stories were collected from individuals of
+    this tribe.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: external namers
+  assigned_to:
+  - fig:3
+  basis: The passage says Europeans designated these people by the name “Kaffirs.”
+  evidence_refs:
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: Introductory ethnographic framing
+  summary: The passage defines the usage of the term “Kaffir,” identifies the Amaxosa
+    tribe as the source community for the collected stories, and comments on European
+    naming and pronunciation differences.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 464-472
+  quote_or_summary: The word “Kaffir” is described as often used in South Africa for
+    any black native who is not a descendant of an imported slave.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 472-475
+  quote_or_summary: On the eastern frontier of the Cape Colony, the term is said to
+    be usually restricted to a member of the Amaxosa tribe.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 475-477
+  quote_or_summary: "“It is from individuals of this tribe that the following stories
+    have been collected.”"
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:4
+  type: summary
+  locator: lines 479-481
+  quote_or_summary: Europeans are said to have called these people “Kaffirs” ever
+    since the discovery of the country.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 481-486
+  quote_or_summary: The people so named are said not to pronounce the word because
+    the English sound of r is absent from their language.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is an introductory framing note rather than a mythic narrative.
+    No symbolic or comparative mythological motifs are supported by the supplied lines.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The supplied passage contains ethnographic and linguistic framing only; no candidate motifs or comparison claims were extracted.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l464-l491
+  passage_sha256=cab810b8ef681cbf6ee8d33653634fd44632c1086adbcf205a065ed8344667a8
+

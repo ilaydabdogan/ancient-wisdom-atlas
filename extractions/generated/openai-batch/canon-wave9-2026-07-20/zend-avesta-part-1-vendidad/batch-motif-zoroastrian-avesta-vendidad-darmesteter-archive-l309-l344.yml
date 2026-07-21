@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l309-l344
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: INTRODUCTION. / FARGARD V 48 / FARGARD VII 74 / CONTENTS. IX; lines 309-344
+  start: '309'
+  end: '344'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A table-of-contents passage lists topics for Vendidad Fargards VIII-IX
+    and the beginning of X: death-related purification of house, ways, person, and
+    fire; funerals; corpse contamination rules; the Bahram fire; wilderness purification;
+    the Nine Nights'' Barashnum cleansing, including its place, procedure, fees, and
+    punishment for a false cleanser; and the opening of a section on spells recited
+    during the process.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Fargard VIII is listed with sections on purification of a house where a man
+    has died and on funerals.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The contents list purification of ways along which a corpse has been carried,
+    a rule that clothes should not be wasted on a corpse, and a note that a dried-up
+    corpse does not contaminate.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The contents list purification of a man defiled by the dead and purification
+    of fire defiled by the dead.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The Bahram fire is listed as a topic in Fargard VIII.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Purification in the wilderness is listed as a topic in Fargard VIII.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Fargard IX is titled as the Nine Nights' Barashnum and includes a description
+    of the place for cleansing, called the Barashnum-gah, and a description of the
+    cleansing.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Fargard IX includes fees of the cleanser and the punishment of the false cleanser.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Fargard X begins with a section on spells recited during the process, but
+    the supplied passage cuts off before completing the entry.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: man who has died
+  description: A deceased man, mentioned as the reason a house requires purification.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: corpse
+  description: A corpse carried along ways, associated with rules about clothing and
+    contamination.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: man defiled by the dead
+  description: A living person described as defiled by the dead and needing purification.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: cleanser
+  description: A ritual cleanser whose fees are listed in the contents for Fargard
+    IX.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: false cleanser
+  description: A false cleanser whose punishment is listed in the contents for Fargard
+    IX.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: deceased or corpse
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage refers to a man who has died and to a corpse in death-purification
+    contexts.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: death-defiled person
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly lists purification of a man defiled by the dead.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: ritual cleanser
+  assigned_to:
+  - fig:4
+  basis: The passage lists fees of the cleanser in the Barashnum section.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: false ritual cleanser
+  assigned_to:
+  - fig:5
+  basis: The passage lists a false cleanser and his punishment.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire subject to purification
+  literal_form: fire defiled by the dead; Bahram fire
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: cleansing place
+  literal_form: the Barashnum-gah, described as the place for cleansing the unclean
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: nine-night ritual period
+  literal_form: Nine Nights' Barashnum
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: wilderness purification setting
+  literal_form: wilderness
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Death-related purification topics in Fargard VIII
+  summary: 'The contents enumerate ritual topics concerning purification after death:
+    house, funerals, corpse-carried ways, corpse-related rules, a person defiled by
+    the dead, fire defiled by the dead, the Bahram fire, and wilderness purification.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Nine Nights' Barashnum topics in Fargard IX
+  summary: The contents present the Barashnum as a nine-night cleansing process with
+    a designated cleansing place, a procedure, fees for the cleanser, and punishment
+    for a false cleanser.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Beginning of spell-recitation section in Fargard X
+  summary: The supplied passage ends with the start of an entry on spells recited
+    during the process.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: purification after contact with death
+  taxonomy_refs: []
+  basis: Multiple contents entries concern purifying places, paths, people, and fire
+    after death or corpse contact.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a table of contents rather than a full ritual prescription.
+- id: motif:2
+  label: corpse contamination rules
+  taxonomy_refs: []
+  basis: The contents mention corpse-carried ways, a dried-up corpse not contaminating,
+    and purification of persons or fire defiled by the dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage gives headings only, without details of the underlying rule
+    logic.
+- id: motif:3
+  label: ritual cleansing over a fixed number of nights
+  taxonomy_refs: []
+  basis: Fargard IX is titled the Nine Nights' Barashnum and includes descriptions
+    of the place and procedure for cleansing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The contents do not describe what occurs during the nine nights.
+- id: motif:4
+  label: punishment of a false ritual specialist
+  taxonomy_refs: []
+  basis: The contents list the false cleanser and his punishment.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not state the nature of the falseness or the punishment.
+- id: motif:5
+  label: spells accompanying ritual process
+  taxonomy_refs: []
+  basis: Fargard X begins with a heading on spells recited during the process.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The entry is truncated in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 309-313
+  quote_or_summary: "“Purification of the house where a man has died” and “Funerals”
+    are listed under Fargard VIII."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 314-322
+  quote_or_summary: The contents list purification of ways along which a corpse has
+    been carried, rules against wasting clothes on a corpse, unlawful lusts, and the
+    statement that a dried-up corpse does not contaminate.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 323-328
+  quote_or_summary: The contents list purification of a man defiled by the dead, purification
+    of fire defiled by the dead, the Bahram fire, and purification in the wilderness.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 329-338
+  quote_or_summary: Fargard IX is titled the Nine Nights' Barashnum and includes descriptions
+    of the cleansing place, the Barashnum-gah, and of the cleansing procedure.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 339-342
+  quote_or_summary: The contents list fees of the cleanser and a section on the false
+    cleanser and his punishment.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 343-344
+  quote_or_summary: The passage begins an entry for Fargard X on spells recited during
+    the process, but the supplied excerpt ends before the entry is complete.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a table of contents, so extraction of literal topics is strong,
+    while motif identification is limited by the absence of full narrative or ritual
+    detail. No comparison claims are made because the passage itself does not support
+    a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were applied only for the explicitly available symbol 'fire'.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l309-l344
+  passage_sha256=0cd921cf4cbe6bec8578d65e1c7904368cdc078ddc67700bba4d0ea9cff27f78
+

@@ -1,0 +1,338 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l10999-l11041
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: CHARACTERS / MYTHS OF THE MODOCS 209 / MYTHS OF THE MODOCS 211 / WAR BETWEEN
+    BEASTS AND BIRDS; lines 10999-11041
+  start: '10999'
+  end: '11041'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A war occurs between beasts and birds. Bat shifts allegiance after each
+    battle, hiding when his current side loses and then joining the victors. He defends
+    himself by pointing to traits that fit one side or the other. At the end, beasts
+    and birds hold council and condemn him to fly alone at night without friends among
+    either those that fly or those that walk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with a war between beasts and birds, and Bat is initially
+    on the birds' side.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the first battle the birds are badly beaten, and Bat hides under a log
+    until the fight is over.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the first battle, Bat slips in among the animals as they are going home.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the animals question him, Bat denies belonging to the birds and argues
+    from the presence of double teeth.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In a later battle the birds win; Bat again hides under a log when his side
+    is being beaten and then joins the birds.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: When the birds accuse him of being their enemy, Bat denies belonging to the
+    beasts and argues from the presence of wings.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Bat goes back and forth between beasts and birds for as long as the war lasts.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: At the end of the war, birds and beasts hold a council and declare that Bat
+    will fly alone at night and have no friends among either those that fly or those
+    that walk.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Bat
+  description: An animal-person who moves between the bird and beast sides during
+    the war, hides when a side is losing, claims membership by bodily traits, and
+    is finally sentenced to solitary night flight.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Birds / bird people
+  description: One side in the war; they are beaten in the first battle, win a later
+    battle, accept Bat after his claim about wings, and join the final council.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: Beasts / animals
+  description: The opposing side in the war; they accept Bat after his claim about
+    double teeth and join the final council.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: shifting combatant or affiliate
+  assigned_to:
+  - fig:1
+  basis: Bat repeatedly leaves the losing side, hides, and joins the other side after
+    battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: bird side in the war
+  assigned_to:
+  - fig:2
+  basis: The birds are one of the two combatant groups and are explicitly opposed
+    to the beasts.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: beast or animal side in the war
+  assigned_to:
+  - fig:3
+  basis: The beasts or animals are the other combatant group in the war and receive
+    Bat after the first battle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: joint council and judges
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: At the war's end, birds and beasts hold a council to decide what to do with
+    Bat.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: punished solitary night-flyer
+  assigned_to:
+  - fig:1
+  basis: The council declares that Bat will fly alone at night and lack friends among
+    flyers or walkers.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: double teeth
+  literal_form: double teeth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: wings
+  literal_form: wings
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: log hiding place
+  literal_form: a log under which Bat hides during battle
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:4
+  label: solitary night flight
+  literal_form: flying around alone at night
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: First battle and concealment
+  summary: In the war between beasts and birds, the birds are badly beaten; Bat, who
+    is on the birds' side, hides under a log until the fight ends.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bat claims animal affiliation
+  summary: Bat joins the animals after the first battle. When they question him, he
+    denies belonging to the birds and argues that birds do not have double teeth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second battle and reverse claim
+  summary: In another battle the birds win. Bat hides when his side is losing, joins
+    the birds after the battle, and denies belonging to the beasts by pointing to
+    wings.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Council and sentence
+  summary: After Bat has gone back and forth through the war, birds and beasts hold
+    council and sentence him to fly alone at night without friends among either flyers
+    or walkers.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: War between animal collectives
+  taxonomy_refs: []
+  basis: The entire episode is framed as a war between beasts and birds, with alternating
+    battle outcomes.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly names an animal-war motif.
+- id: motif:2
+  label: Boundary-crossing side-switcher
+  taxonomy_refs:
+  - trickster_boundary
+  - duality
+  basis: Bat moves between opposed categories, claiming animal membership through
+    double teeth and bird membership through wings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explicitly call Bat a trickster and does not describe
+    physical transformation; the classification rests on social and categorical boundary-crossing.
+- id: motif:3
+  label: Punishment explaining solitary nocturnal Bat
+  taxonomy_refs: []
+  basis: The final council sentence explains Bat's future condition as flying alone
+    at night and having no friends among either flyers or walkers.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The text states the sentence directly; labeling it as an explanatory or
+    etiological motif is a classification inference.
+comparison_claims:
+- id: claim:1
+  claim: The Bat episode is cautiously comparable to the supplied trickster_boundary
+    motif family because Bat exploits traits linking him to both opposed groups and
+    crosses between their social boundaries until both reject him.
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage itself supplies the boundary-crossing behavior but gives
+    no external parallel, no historical-contact evidence, and no explicit label of
+    Bat as a trickster.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 10999-11007
+  quote_or_summary: A war begins between beasts and birds; Bat is on the birds' side,
+    but when the birds are badly beaten he hides under a log until the battle is over.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 11008-11021
+  quote_or_summary: Bat slips among the animals after the first battle. When questioned,
+    he denies being one of the bird people and argues that birds do not have double
+    teeth.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 11022-11034
+  quote_or_summary: In a later battle the birds win. Bat hides while his side is being
+    beaten, then joins the birds; when accused, he denies being one of the beasts
+    and points to wings.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 11035-11041
+  quote_or_summary: Bat goes back and forth throughout the war. At the end, birds
+    and beasts hold council and decree that he will fly alone at night and have no
+    friends among flyers or walkers.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels involving boundary-crossing
+    and etiological explanation require review because the passage does not provide
+    explicit analytic terminology.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l10999-l11041
+  passage_sha256=388b3f565a0a35401d2dd3380575b5141ed753aafa7963240dd1f529b28cc762
+

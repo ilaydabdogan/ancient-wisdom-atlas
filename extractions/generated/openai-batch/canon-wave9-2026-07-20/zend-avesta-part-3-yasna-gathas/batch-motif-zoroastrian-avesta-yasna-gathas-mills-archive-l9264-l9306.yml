@@ -1,0 +1,266 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l9264-l9306
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA XLIX. 159 / YASNA XLIX. / YASNA XL1X. I 6 I / I 62 THE GATHAS.; lines
+    9264-9306
+  start: '9264'
+  end: '9306'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The speaker says Beudva has long fought and threatened him, is powerful,
+    and would crush his strength while the speaker tries to win back disaffected members
+    of his host through Righteous zeal. The speaker addresses Mazda, asking for gifts
+    of good to meet his sorrow and asking that Bendva's death be obtained through
+    Good Mind. Translator notes discuss possible meanings and textual issues for several
+    terms.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure named Beudva is said to have fought with the speaker and to have
+    appeared at hand to threaten him.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Beudva is described as very powerful in brutal might and as able to crush
+    the speaker's strength.
+  category: attribute
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The speaker says he seeks to win back the disaffected in his host through
+    Righteous zeal.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker addresses Mazda and asks Mazda to come with gifts of good to meet
+    the speaker's sorrow.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speaker asks that Bendva's death be obtained through Good Mind.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The translator's notes discuss possible meanings or variants for Beudva, Asha,
+    Good Mind, and related terms.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: first-person speaker
+  description: The speaker who says Beudva has fought with him, seeks to regain the
+    disaffected in his host, and petitions Mazda.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Beudva / Bendva
+  description: Named opponent who has fought with and threatened the speaker, is described
+    as powerful, and whose death is requested.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Mazda
+  description: Addressee of the speaker's petition for gifts of good in response to
+    sorrow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Good Mind
+  description: Named means or power through which the speaker asks to obtain Bendva's
+    death.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: threatening opponent
+  assigned_to:
+  - fig:2
+  basis: Beudva is said to have fought with the speaker, threatened him, and would
+    crush his strength.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: threatened speaker
+  assigned_to:
+  - fig:1
+  basis: The first-person speaker presents himself as the target of Beudva's fighting
+    and threat.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: petitioned divine addressee
+  assigned_to:
+  - fig:3
+  basis: The speaker directly addresses Mazda and asks Mazda to come with gifts of
+    good.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: mediating Good Mind
+  assigned_to:
+  - fig:4
+  basis: The speaker asks that Bendva's death be obtained through Good Mind.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: restorer of disaffected host
+  assigned_to:
+  - fig:1
+  basis: The speaker says he seeks to win back the disaffected in his host through
+    Righteous zeal.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Righteous zeal
+  literal_form: Righteous (zeal)
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Good Mind
+  literal_form: Good Mind
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: gifts of good
+  literal_form: gifts of good
+  associated_figures:
+  - fig:3
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Complaint against Beudva and petition to Mazda
+  summary: The speaker describes Beudva as a powerful threatening opponent, says he
+    is trying to regain disaffected members of his host through Righteous zeal, and
+    asks Mazda for gifts of good and for Bendva's death through Good Mind.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Righteous petitioner seeks aid against a hostile enemy
+  taxonomy_refs:
+  - duality
+  basis: The passage contrasts the speaker's Righteous zeal and appeal to Mazda and
+    Good Mind with Beudva's threatening violence.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents a moralized conflict, but it does not describe a
+    fully developed cosmic battle.
+- id: motif:2
+  label: Petition for divine help in overcoming an enemy
+  taxonomy_refs: []
+  basis: The speaker asks Mazda to come with gifts of good and asks through Good Mind
+    to obtain Bendva's death.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage is a prayer-like request rather than a narrated intervention.
+- id: motif:3
+  label: Good Mind as mediating power
+  taxonomy_refs:
+  - wisdom
+  basis: The speaker identifies Good Mind as the means through which Bendva's death
+    may be obtained.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The passage names Good Mind but does not elaborate a wisdom quest or instructional
+    episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9268-9275
+  quote_or_summary: The speaker says Beudva has long fought with him, appeared at
+    hand to threaten him, and is powerful in brutal might.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 9275-9279
+  quote_or_summary: Beudva would crush the speaker's strength while the speaker seeks
+    to win back disaffected members of his host through Righteous zeal.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 9279-9282
+  quote_or_summary: The speaker addresses Mazda, asks for gifts of good to meet sorrow,
+    and asks through Good Mind to obtain Bendva's death.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 9284-9306
+  quote_or_summary: Translator notes discuss possible meanings of Beudva, Asha, Good
+    Mind, and textual readings connected with the passage.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main prayer-conflict pattern is clear, but some named terms are mediated
+    by translator glosses and notes, so symbolic and motif assignments require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available taxonomy refs were applied sparingly and with cautions.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l9264-l9306
+  passage_sha256=5134ccace45321fbd84321984d573570c15201c2cc261d0678972e211b976471
+

@@ -1,0 +1,442 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l8125-l8196
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: A.D. 613. / SUIKO. 145 / A.D. 616, / A.D. 618.; lines 8125-8196
+  start: '8125'
+  end: '8196'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Chronicle entries report diplomatic arrivals, a banquet for a Pékché guest,
+    the return of a Koryo Buddhist priest, fruiting peach and plum trees, migration
+    from Yaku, tribute from Silla of a Buddha image, an unusually large gourd in Idzumo,
+    good crops of five grains, and Koryo envoys reporting victory over a Sui invasion
+    and presenting captives, instruments, weapons, and a camel.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An envoy from Pékché accompanied Inugami no Kimi to the Court, and a banquet
+    was later given to the Pékché guest.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Koryo Buddhist priest Hyé-Cha returned to his country.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Peach trees and plum trees bore fruit in the first month of the twenty-fourth
+    year.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Thirty persons from the Island of Yaku arrived in several groups, were settled
+    in Enowi, never left again, and died there.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Silla sent tribute consisting of an image of Buddha.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note says a later work described the Buddha image as gold, two feet high,
+    installed in Hokoji, emitting rays of light, and working miracles from time to
+    time.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A report from Idzumo stated that a gourd in the district of Kando was the
+    size of an amphora.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The year was said to have good crops of the five kinds of grain.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Koryo sent envoys with tribute of local productions and reported defeating
+    an invasion by Yang-Ti of the Sui dynasty.
+  category: speech
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: Koryo sent two captives, flutes, cross-bows, catapults, and one camel bred
+    in their country.
+  category: object
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Inugami no Kimi
+  description: Person accompanied to the Court by an envoy from Pékché.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pékché envoy or guest
+  description: Envoy from Pékché who accompanied Inugami no Kimi and was later entertained
+    at a banquet.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Hyé-Cha
+  description: Koryo Buddhist priest who returned to his country.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Thirty persons from Yaku
+  description: Emigrants from the Island of Yaku who arrived, settled in Enowi, remained
+    there, and died there.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Chuk Syé-sa
+  description: Silla Nama sent with tribute of an image of Buddha.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Koryo envoys
+  description: Envoys sent with tribute of local productions and a report of victory
+    over the Sui invasion.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Yang-Ti
+  description: Ruler of the Sui dynasty named in the report as having invaded Koryo
+    with 300,000 men and been defeated.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Chén-kung and P‘u-t‘ung
+  description: Two captives sent as a present by Koryo.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: court arrival figure
+  assigned_to:
+  - fig:1
+  basis: The passage says Inugami no Kimi came to the Court accompanied by a Pékché
+    envoy.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: tribute-bearing envoy
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:6
+  basis: The passage describes envoys or named representatives arriving with tribute
+    or as diplomatic guests.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: role:3
+  label: returning Buddhist priest
+  assigned_to:
+  - fig:3
+  basis: Hyé-Cha is identified as a Koryo Buddhist priest who returned to his country.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: settled emigrants
+  assigned_to:
+  - fig:4
+  basis: The Yaku arrivals are called emigrants and are said to have been settled
+    in Enowi.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: victory reporter
+  assigned_to:
+  - fig:6
+  basis: The Koryo envoys report the defeat of Yang-Ti’s invasion.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: defeated invader
+  assigned_to:
+  - fig:7
+  basis: The report says Yang-Ti invaded Koryo and was beaten.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: captives given as present
+  assigned_to:
+  - fig:8
+  basis: Chén-kung and P‘u-t‘ung are named as captives sent as a present.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: peach and plum trees
+  literal_form: fruit-bearing trees
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Buddha image
+  literal_form: image of Buddha; later note describes a gold image two feet high emitting
+    rays and working miracles
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: large gourd
+  literal_form: gourd of the size of an amphora
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: five kinds of grain
+  literal_form: good crops of five kinds of grain
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: camel
+  literal_form: one camel bred in Koryo
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: war devices and instruments
+  literal_form: flutes, cross-bows, and catapults
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Diplomatic arrival and banquet
+  summary: A Pékché envoy accompanies Inugami no Kimi to the Court, and the Pékché
+    guest is honored with a banquet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return of Hyé-Cha
+  summary: The Koryo Buddhist priest Hyé-Cha returns to his country.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Seasonal fruiting and Yaku settlement
+  summary: Peach and plum trees bear fruit; later, thirty emigrants from Yaku arrive
+    in stages, are settled in Enowi, and die there.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:4
+  label: Silla tribute of Buddha image
+  summary: Silla sends Chuk Syé-sa with tribute of an image of Buddha; a note reports
+    a later tradition that the image was golden, light-emitting, and miracle-working.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Prodigious gourd and good grain crops
+  summary: A report from Idzumo describes an amphora-sized gourd, and the year is
+    said to have good crops of the five kinds of grain.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Koryo report of victory and tribute
+  summary: Koryo envoys bring tribute, report defeating Yang-Ti’s large Sui invasion,
+    and present captives, flutes, cross-bows, catapults, and a camel.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: diplomatic tribute and courtly reception
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Multiple entries describe envoys, tribute, presents, and a banquet at court;
+    the Buddha image is specifically sent as tribute.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+  confidence: medium
+  cautions: The passage is annalistic and political; the taxonomy label is used broadly
+    for formal exchange rather than an explicit mythic bargain.
+- id: motif:2
+  label: miracle-working sacred image
+  taxonomy_refs: []
+  basis: A note reports that the Buddha image was later described as gold, set up
+    in Hokoji, emitting rays of light, and working miracles.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The miracle details are presented in a note citing a later work, not in
+    the main annal entry.
+- id: motif:3
+  label: auspicious or prodigious fertility signs
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage records fruiting peach and plum trees, an exceptionally large
+    gourd, and good crops of the five kinds of grain.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly interpret these as omens; they are recorded
+    as notable events.
+- id: motif:4
+  label: foreign migrants permanently settled
+  taxonomy_refs:
+  - departure
+  basis: Thirty persons from Yaku come as emigrants, are settled in Enowi, never leave,
+    and die there.
+  evidence_refs:
+  - ev:3
+  confidence: low
+  cautions: The entry is historical-annalistic and does not frame the migration as
+    a mythic journey.
+- id: motif:5
+  label: victory report with captives and exotic tribute
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Koryo envoys report victory over a large Sui invasion and present captives,
+    implements, and a camel to the Court.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The connection to royal legitimacy is indirect; the passage does not explicitly
+    state a legitimating function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8130-8141
+  quote_or_summary: An envoy from Pékché accompanies Inugami no Kimi to the Court;
+    a banquet is given to the Pékché guest; the Koryo Buddhist priest Hyé-Cha returns
+    to his country.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summary provided.
+- id: ev:2
+  type: quote
+  locator: lines 8143-8144
+  quote_or_summary: "“Peach trees and plum trees bore fruit.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:3
+  type: summary
+  locator: lines 8146-8155
+  quote_or_summary: Three, then seven, then twenty persons from the Island of Yaku
+    arrive; all thirty are settled in Enowi, remain there, and die there.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 8157-8158; 8181-8183
+  quote_or_summary: Silla sends the Nama Chuk Syé-sa with tribute of an image of Buddha;
+    a note says a later work described the image as gold, two feet high, set up in
+    Hokoji, light-emitting, and miracle-working.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summary provided.
+- id: ev:5
+  type: quote
+  locator: lines 8160-8162
+  quote_or_summary: "“there was in the district of Kando a gourd of the size of an
+    amphora.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:6
+  type: summary
+  locator: line 8164
+  quote_or_summary: The year is said to have good crops of the five kinds of grain.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summary provided.
+- id: ev:7
+  type: summary
+  locator: lines 8166-8176; 8193-8196
+  quote_or_summary: Koryo sends envoys with local products and reports that Yang-Ti
+    of Sui invaded with 300,000 men but was defeated; they send two captives, flutes,
+    cross-bows, catapults, and a camel. A note says Chinese and Corean histories corroborate
+    the events as A.D. 612.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summary provided.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal annalistic details are clear. Motif labels are cautious because the
+    passage mostly records court and diplomatic events without explicit mythic interpretation.
+    No comparison claims were made because the passage itself does not support comparison
+    to another tradition or motif family beyond candidate taxonomy tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text, metadata, and available taxonomy references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l8125-l8196
+  passage_sha256=2169363f026106bdea177dd4b3d6d2be05bde43dae0c0bae55a65547db835c5f
+

@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l347-l382
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: Specimens of Bushman Folklore / PREFACE.; lines 347-382
+  start: '347'
+  end: '382'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage reports evidence about Bushman image-making: Dr. Bleek asks
+    Dia\hvain whether he can make pictures; the next morning a drawing of an ostrich
+    family is found pinned to the porch wall as a reply. Dia\hvain also reports that
+    his father, %da-ttin, chipped animal pictures at Miami, a place where animals
+    formerly drank before the coming of the Boers. The passage also notes other drawings
+    by named Bushman individuals and boys, and gives an ostrich caption.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says a suggestion had been made that painters and sculptors came
+    from different divisions of the Bushman race.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Mowbray in 1875, Dr. Bleek asked Dia\hvain if he could make pictures.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The following morning Dr. Bleek found a small drawing representing a family
+    of ostriches pinned to the porch wall, presented as the reply to his question.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Dia\hvain later said that his father, %da-ttin, had chipped pictures of gemsbok,
+    quaggas, ostriches, and other animals at Miami.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Miami is described as a place where those animals used to drink before the
+    coming of the Boers.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage notes additional drawings by Dia\fovam, \hah$kass'!d, and the
+    \kun boys among the illustrations.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The ostrich illustration caption identifies male, female, and young ostriches.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Dr. Bleek
+  description: The person who asked Dia\hvain whether he could make pictures and later
+    found the drawing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Dia\hvain
+  description: A Bushman individual who was asked if he could make pictures and whose
+    reply is represented by a drawing of an ostrich family.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: "%da-ttin"
+  description: Dia\hvain's father, said to have chipped animal pictures at Miami.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Ostrich family
+  description: Male, female, and young ostriches represented in a small drawing.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Gemsbok, quaggas, ostriches, and other animals
+  description: Animals said to have been depicted in chipped pictures at Miami and
+    to have formerly drunk there.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: "\\hah$kass'!d"
+  description: Named as a maker of some drawings found among the illustrations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: "\\kun boys"
+  description: Named as makers of some drawings found among the illustrations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: questioner and observer
+  assigned_to:
+  - fig:1
+  basis: Dr. Bleek asks about picture-making and perceives the drawing the next morning.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: picture-maker
+  assigned_to:
+  - fig:2
+  - fig:6
+  - fig:7
+  basis: The passage associates these named individuals or boys with drawings.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: informant about earlier image-making
+  assigned_to:
+  - fig:2
+  basis: Dia\hvain tells the narrator about his father's chipped pictures at Miami.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: maker of chipped animal pictures
+  assigned_to:
+  - fig:3
+  basis: "%da-ttin is said to have chipped pictures of animals at Miami."
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: depicted animal subject
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The ostrich family and other animals are subjects of drawings or chipped
+    pictures.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: ostrich family drawing
+  literal_form: A small drawing representing a family of ostriches, pinned to a porch
+    wall.
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: chipped animal pictures
+  literal_form: Pictures of gemsbok, quaggas, ostriches, and other animals chipped
+    at Miami.
+  associated_figures:
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Miami drinking place
+  literal_form: A place named Miami where animals used to drink before the coming
+    of the Boers.
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Question about making pictures
+  summary: At Mowbray in 1875, Dr. Bleek asks Dia\hvain whether he can make pictures;
+    Dia\hvain smiles and appears pleased, though his words are not remembered.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Ostrich drawing as reply
+  summary: The next morning, Dr. Bleek finds a small drawing of an ostrich family
+    pinned to the porch wall, understood as Dia\hvain's reply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Report of chipped animal pictures at Miami
+  summary: Dia\hvain later reports that his father %da-ttin chipped pictures of animals
+    at Miami, where those animals once drank before the Boers arrived.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal image-making as personal demonstration
+  taxonomy_refs: []
+  basis: Dia\hvain answers a question about whether he can make pictures by producing
+    a drawing of an ostrich family.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage presents an ethnographic anecdote rather than a mythic narrative;
+    motif status is limited to a recurring image-making pattern.
+- id: motif:2
+  label: animal images at a former drinking place
+  taxonomy_refs: []
+  basis: "%da-ttin is said to have chipped pictures of animals at Miami, a place where
+    the animals formerly drank."
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No ritual, mythic, or symbolic interpretation is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 347-350
+  quote_or_summary: A suggestion is noted that painters and sculptors may have belonged
+    to different divisions of the Bushman race.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 350-354
+  quote_or_summary: At Mowbray in 1875, Dr. Bleek asks Dia\hvain whether he can make
+    pictures; Dia\hvain smiles and looks pleased, but his words are forgotten.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 354-357
+  quote_or_summary: The next morning Dr. Bleek finds a small drawing of a family of
+    ostriches pinned to the porch wall as the reply to his question.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 357-362
+  quote_or_summary: Dia\hvain later says his father, %da-ttin, chipped pictures of
+    gemsbok, quaggas, ostriches, and other animals at Miami, where the animals formerly
+    drank before the coming of the Boers.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 362-365
+  quote_or_summary: Other drawings by Dia\fovam, \hah$kass'!d, and the \kun boys are
+    said to be included among the illustrations.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 375-382
+  quote_or_summary: '"Ostriches (male, females, and young one)."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is a preface note about image-making rather than a mythic tale.
+    Literal extraction is straightforward, but names contain orthographic or OCR-like
+    irregularities and motif interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a comparative mythological claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l347-l382
+  passage_sha256=71eee164afb8b089dc9bbf1aeb2eb9ce203489b9113a7fab01ec7a9812710795
+

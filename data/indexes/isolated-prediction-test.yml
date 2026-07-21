@@ -1,7 +1,7 @@
 ---
 isolated_prediction_test_version: '1'
 preregistration: docs/prereg-isolated-lineage-test.md
-generated_at: '2026-07-20T11:39:21Z'
+generated_at: '2026-07-21T01:44:53Z'
 training:
   traditions:
   - aboriginal-australian
@@ -57,19 +57,29 @@ training:
   - micronesian
   - mongol
   - native-american-northeast-woodlands
+  - native-american-plateau
   - norse
+  - oceanic
   - persian
   - psychedelic
   - roman
   - romanian
   - samoan
   - shan
+  - shinto
+  - sikh
   - slavic
   - sufi
   - taoist
   - temne
-  records: 32817
-  conserved_edges: 331
+  - tibetan
+  - tongan
+  - vietnamese
+  - xhosa
+  - yoruba
+  - zoroastrian
+  records: 36934
+  conserved_edges: 332
 holdout:
   lineages:
   - amazonian
@@ -91,19 +101,22 @@ holdout:
   - native-american-southeast
   - native-american-southwest
   - navajo
+  - san
+  - siberian
+  - zulu
   - zuni
-  records: 3923
-  significant_edges: 269
+  records: 5728
+  significant_edges: 289
 result:
-  reproduced_edges: 260
-  reproduction_rate: 0.7855
-  null_mean: 0.7273
-  null_sd: 0.015
-  null_max: 0.7613
+  reproduced_edges: 276
+  reproduction_rate: 0.8313
+  null_mean: 0.7806
+  null_sd: 0.0158
+  null_max: 0.8223
   permutations_beaten: 200/200
-  lift: 1.08
-  novelty_rate: 0.0335
-  hard_core_rate: 0.1601
+  lift: 1.065
+  novelty_rate: 0.045
+  hard_core_rate: 0.2801
   verdict: leakage_flag
 per_lineage:
   amazonian:
@@ -111,13 +124,13 @@ per_lineage:
     training_edges_present: 10
   andamanese:
     records: 123
-    training_edges_present: 50
+    training_edges_present: 49
   australian-aboriginal:
     records: 572
     training_edges_present: 84
   guiana-amerindian:
     records: 284
-    training_edges_present: 86
+    training_edges_present: 85
   hawaiian:
     records: 84
     training_edges_present: 68
@@ -138,31 +151,40 @@ per_lineage:
     training_edges_present: 6
   mesoamerican:
     records: 16
-    training_edges_present: 22
+    training_edges_present: 23
   nahua:
     records: 19
     training_edges_present: 21
   nahua-maya-inca:
     records: 102
-    training_edges_present: 148
+    training_edges_present: 149
   native-american-great-lakes:
     records: 191
     training_edges_present: 28
   native-american-northwest-coast:
     records: 562
-    training_edges_present: 144
+    training_edges_present: 145
   native-american-plains:
-    records: 560
-    training_edges_present: 150
+    records: 1483
+    training_edges_present: 192
   native-american-southeast:
     records: 212
-    training_edges_present: 125
+    training_edges_present: 126
   native-american-southwest:
-    records: 455
-    training_edges_present: 137
+    records: 808
+    training_edges_present: 151
   navajo:
     records: 122
     training_edges_present: 64
+  san:
+    records: 66
+    training_edges_present: 13
+  siberian:
+    records: 264
+    training_edges_present: 99
+  zulu:
+    records: 199
+    training_edges_present: 33
   zuni:
     records: 126
     training_edges_present: 91
@@ -180,11 +202,15 @@ reproduced_edge_list:
 - - afterlife_passage
   - divine_judgment
 - - afterlife_passage
+  - duality
+- - afterlife_passage
   - hero_journey
 - - afterlife_passage
   - initiation
 - - afterlife_passage
   - miraculous_child
+- - afterlife_passage
+  - mother_goddess
 - - afterlife_passage
   - mystical_quest
 - - afterlife_passage
@@ -193,6 +219,8 @@ reproduced_edge_list:
   - sacred_knowledge
 - - afterlife_passage
   - sacred_time
+- - afterlife_passage
+  - sacred_twins
 - - afterlife_passage
   - sacrifice
 - - afterlife_passage
@@ -214,8 +242,6 @@ reproduced_edge_list:
 - - ascent
   - divine_judgment
 - - ascent
-  - duality
-- - ascent
   - flood_and_renewal
 - - ascent
   - hero_journey
@@ -239,6 +265,8 @@ reproduced_edge_list:
   - sacred_twins
 - - ascent
   - sacrifice
+- - ascent
+  - serpent_guardian
 - - ascent
   - shapeshifter
 - - ascent
@@ -270,6 +298,8 @@ reproduced_edge_list:
 - - axis_mundi
   - mystical_quest
 - - axis_mundi
+  - royal_legitimacy
+- - axis_mundi
   - sacred_exchange
 - - axis_mundi
   - sacred_knowledge
@@ -279,6 +309,8 @@ reproduced_edge_list:
   - sacred_time
 - - axis_mundi
   - sacred_twins
+- - axis_mundi
+  - sacred_waters
 - - axis_mundi
   - sacrifice
 - - axis_mundi
@@ -310,19 +342,17 @@ reproduced_edge_list:
 - - cosmic_origin
   - sacred_time
 - - cosmic_origin
+  - sacred_twins
+- - cosmic_origin
   - serpent_guardian
 - - cosmic_origin
   - shapeshifter
 - - covenant
   - hero_journey
 - - covenant
-  - initiation
-- - covenant
   - sacred_exchange
 - - covenant
   - sacred_knowledge
-- - covenant
-  - sacred_love
 - - covenant
   - sacrifice
 - - culture_hero
@@ -384,6 +414,8 @@ reproduced_edge_list:
 - - death_and_transformation
   - mystical_quest
 - - death_and_transformation
+  - royal_legitimacy
+- - death_and_transformation
   - sacred_exchange
 - - death_and_transformation
   - sacred_knowledge
@@ -487,8 +519,6 @@ reproduced_edge_list:
   - serpent_guardian
 - - duality
   - shapeshifter
-- - duality
-  - trickster
 - - flood_and_renewal
   - hero_journey
 - - flood_and_renewal
@@ -496,15 +526,23 @@ reproduced_edge_list:
 - - flood_and_renewal
   - miraculous_child
 - - flood_and_renewal
+  - mother_goddess
+- - flood_and_renewal
   - mystical_quest
+- - flood_and_renewal
+  - royal_legitimacy
 - - flood_and_renewal
   - sacred_exchange
 - - flood_and_renewal
   - sacred_knowledge
 - - flood_and_renewal
+  - sacred_love
+- - flood_and_renewal
   - sacred_time
 - - flood_and_renewal
   - sacred_twins
+- - flood_and_renewal
+  - sacred_waters
 - - flood_and_renewal
   - sacrifice
 - - flood_and_renewal
@@ -524,6 +562,8 @@ reproduced_edge_list:
 - - hero_journey
   - sacred_exchange
 - - hero_journey
+  - sacred_fire
+- - hero_journey
   - sacred_knowledge
 - - hero_journey
   - sacred_love
@@ -542,44 +582,34 @@ reproduced_edge_list:
 - - initiation
   - miraculous_child
 - - initiation
+  - mother_goddess
+- - initiation
   - mystical_quest
 - - initiation
   - royal_legitimacy
 - - initiation
   - sacred_exchange
-- - initiation
-  - sacred_knowledge
-- - initiation
-  - sacred_love
-- - initiation
-  - sacred_time
-- - initiation
-  - sacred_twins
-- - initiation
-  - sacrifice
-- - initiation
-  - serpent_guardian
-- - initiation
-  - shapeshifter
-- - initiation
-  - trickster
-- - miraculous_child
-  - mother_goddess
-- - miraculous_child
-  - mystical_quest
 novel_edge_list:
-- - afterlife_passage
-  - sacred_twins
 - - ascent
   - mother_goddess
+- - cosmic_origin
+  - trickster
 - - culture_hero
   - sacred_waters
-- - flood_and_renewal
-  - sacred_love
+- - descent
+  - sacred_time
 - - hero_journey
   - mother_goddess
+- - hero_journey
+  - sacred_waters
+- - initiation
+  - sacred_waters
+- - sacred_exchange
+  - sacred_fire
 - - sacred_fire
   - shapeshifter
+- - sacred_time
+  - serpent_guardian
 - - sacred_time
   - trickster
 - - sacred_waters

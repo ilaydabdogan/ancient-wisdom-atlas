@@ -1,0 +1,388 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l16625-l16652
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: THE LONG LAY OF BRUNHILD. / FRAGMENT OF A SHORT BRUNHILD LAY. / FRAGMENTS
+    FROM LOST LAYS OF LACUNA. / THE OLD LAY OF GUDRUN.; lines 16625-16652
+  start: '16625'
+  end: '16652'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Gudrun speaks of forced kinship, Sigurd’s death, widowhood, and bitter
+    entry into Atli’s household. Atli answers her and asks for honorable treatment
+    at burial. Gudrun promises a ship, a stained coffin, a waxed shroud, and all necessary
+    funeral provisions. Atli dies, his kinsmen grieve, Gudrun fulfills her promise,
+    and she later attempts self-killing but is spared until another death. The poet’s
+    epilogue praises Giuki for begetting such a bold lady and says the tale of Gudrun
+    and Atli’s quarrel will endure widely.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The speaker says that people were inlawed by force and that one who had nothing
+    was filled with good things.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says that when the Hunnish king, identified in brackets as Sigurd,
+    died, glory departed at once.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The speaker describes grief at being called a widow and pain at coming into
+    Atli’s household.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The speaker calls her first husband a champion and says his loss was hard
+    to bear.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: Atli replies that Gudrun lies and says their lots and lives are maimed altogether.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Atli asks Gudrun to treat him honorably when he is borne out for burial.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Gudrun promises to buy Atli a ship and a stained coffin, wax the sheet that
+    will shroud his body, and provide what is needful.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: Atli becomes a corpse, kinsmen grieve, and the high-born lady fulfills what
+    she had promised.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Gudrun tries to kill herself, but is respited and dies at another time.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The poet’s epilogue says that Giuki begat a bold lady and that the tale of
+    Gudrun and Atli’s quarrel will live after them in every land where it is told.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gudrun
+  description: Named speaker in the quarrel; described as a widow, later as wise,
+    high-born, and bold; promises and fulfills Atli’s funeral provisions and attempts
+    to slay herself.
+  role_refs:
+  - role:1
+  - role:3
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Atli / Aili
+  description: Gudrun’s addressee in whose household she came; replies to Gudrun,
+    requests honorable burial treatment, and then becomes a corpse. The passage prints
+    the speech tag as “Aili” but elsewhere names Atli.
+  role_refs:
+  - role:2
+  - role:7
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Sigurd
+  description: The Hunnish king identified in brackets as Sigurd; his death is linked
+    to the departure of glory, and he is associated with Gudrun’s first husband, called
+    a champion.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Giuki
+  description: Named in the epilogue as the begetter of a bold lady.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Kinsmen
+  description: A group whose grief follows Atli becoming a corpse.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: widow and lamenting wife
+  assigned_to:
+  - fig:1
+  basis: Gudrun speaks of being called a widow and of the hard loss of her first husband.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dying man requesting burial honor
+  assigned_to:
+  - fig:2
+  basis: Atli asks Gudrun to entreat him honorably when he is borne out for burial,
+    and he subsequently becomes a corpse.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: provider of funeral goods
+  assigned_to:
+  - fig:1
+  basis: Gudrun promises a ship, coffin, shroud, and necessary provisions and later
+    fulfills the promise.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: deceased heroic husband
+  assigned_to:
+  - fig:3
+  basis: Sigurd is said to have died; Gudrun calls her first husband a champion whose
+    loss was hard to bear.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: begetter of praised bold lady
+  assigned_to:
+  - fig:4
+  basis: The epilogue says Giuki begat such a bold lady.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: mourning kin
+  assigned_to:
+  - fig:5
+  basis: The passage states that kinsmen grieved after Atli became a corpse.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: quarreling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The epilogue identifies the preceding account as the tale of Gudrun and Atli’s
+    quarrel.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: funeral ship
+  literal_form: ship to be bought for Atli’s burial provisions
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: stained coffin
+  literal_form: stained coffin promised for Atli
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: waxed shroud-sheet
+  literal_form: sheet to be waxed well to shroud Atli’s body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Gudrun’s lament and accusation
+  summary: Gudrun speaks of forced inlawing, Sigurd’s death, widowhood, the pain of
+    entering Atli’s household, and the loss of her champion first husband; she also
+    criticizes the addressee’s conduct in court or suits.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Atli’s reply and burial request
+  summary: Atli answers Gudrun, says she lies, describes their lives as maimed, and
+    asks her for honorable treatment when he is carried out for burial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gudrun’s funeral pledge
+  summary: Gudrun promises to provide a ship, stained coffin, waxed shroud-sheet,
+    and all needful things for Atli’s body, as though they had loved one another.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Atli’s death and Gudrun’s aftermath
+  summary: Atli becomes a corpse; kinsmen grieve; Gudrun fulfills her promise, attempts
+    to slay herself, is respited, and dies later.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Poet’s epilogue
+  summary: The epilogue praises the begetting of such a bold lady by Giuki and declares
+    that the tale of Gudrun and Atli’s quarrel will outlive them wherever it is told.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: widow laments the dead heroic husband
+  taxonomy_refs: []
+  basis: Gudrun describes grief at being a widow and says the loss of her champion
+    first husband was hard to bear after Sigurd’s death.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives the lament briefly and within a quarrel, not as a full
+    independent lament scene.
+- id: motif:2
+  label: honorable burial requested from an adversarial spouse
+  taxonomy_refs: []
+  basis: Atli, after disputing with Gudrun, asks her to treat him honorably when he
+    is carried out for burial.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The exact circumstances of Atli’s impending death are not fully supplied
+    in this fragment.
+- id: motif:3
+  label: funeral equipment promised and fulfilled
+  taxonomy_refs: []
+  basis: Gudrun promises a ship, stained coffin, waxed shroud-sheet, and all needful
+    things for Atli’s body, and the narrative says she fulfills the promise after
+    his death.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No detailed ritual sequence or afterlife interpretation is stated in the
+    passage.
+- id: motif:4
+  label: self-killing attempted but death delayed
+  taxonomy_refs: []
+  basis: The passage states that wise Gudrun tried to slay herself, was respited,
+    and died another time.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The agency or cause of the reprieve is not explained in the passage.
+- id: motif:5
+  label: quarrel preserved as enduring fame
+  taxonomy_refs: []
+  basis: The epilogue states that the tale of Gudrun and Atli’s quarrel will live
+    after them in every land where it is heard.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a poetic memorializing statement rather than a narrative event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 16625-16631
+  quote_or_summary: Gudrun speaks of forced inlawing, Sigurd’s death, her lost glory,
+    widowhood, entry into Atli’s household, the hard loss of her champion first husband,
+    and criticism of the addressee’s conduct in legal or court settings.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: 16631-16634
+  quote_or_summary: Atli replies that Gudrun lies, says their lots and lives are maimed,
+    and asks her to treat him honorably when he is borne out for burial.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 16634-16638
+  quote_or_summary: Gudrun says she will buy Atli a ship and stained coffin, wax the
+    sheet that will shroud his body, and provide all that is needed as if they had
+    loved one another.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 16639-16642
+  quote_or_summary: Atli becomes a corpse; kinsmen grieve; the high-born lady fulfills
+    what she promised; Gudrun attempts to slay herself, is respited, and dies later.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 16643-16647
+  quote_or_summary: The poet’s epilogue praises the man who begets a bold lady like
+    Giuki did and says the tale of Gudrun and Atli’s quarrel will live after them
+    in every land where people hear it told.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main narrative actions are explicit, but the passage contains OCR or
+    edition irregularities, including the printed form “Aili” and some unclear words.
+    Motif labels are descriptive and not mapped to supplied taxonomy families because
+    the passage does not clearly support those taxonomy refs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make a supported cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l16625-l16652
+  passage_sha256=b27dbf52698e778d5ec08eb944234d6c3624dfd2555232792d7e9431d5cb6f0f
+

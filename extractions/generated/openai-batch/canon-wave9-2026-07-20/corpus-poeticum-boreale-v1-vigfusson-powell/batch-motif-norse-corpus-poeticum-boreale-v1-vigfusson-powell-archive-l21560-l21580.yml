@@ -1,0 +1,351 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21560-l21580
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: ON THE OLD NORTHERN AND TEUTONIC METRE. / OLD NORTHERN AND TEUTONIC METRE.
+    433 / AND TEUTONIC METRE. 435 / AND TEUTONIC METRE. 437; lines 21560-21580
+  start: '21560'
+  end: '21580'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A metrical-example passage under the heading on Teutonic metre, quoting
+    fragments labeled Muspilli, Hildbrand Lay, and Wessobrunner Prayer. The fragments
+    include a mighty king summoning an assembly, mention of fire and darkness, a first-person
+    wanderer naming Hildebrand as father and Hadubrand as self, binding and loosing
+    of bonds, and Balder's foal with an injured foot.
+  language: English framing with Old High German/Old Saxon-style quoted fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents fragments under labels including Muspilli, Hildbrand
+    Lay, and Wessobrunner Prayer as examples of Teutonic metre.
+  category: other
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: obs:2
+  text: In the Muspilli fragment, a mighty king summons or commands an assembly or
+    meeting-place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Muspilli fragment includes fire and darkness after the mention of a figure
+    or condition called Warch and before a phrase glossable in the text as sinful
+    or grievous.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In the Hildbrand Lay fragment, a first-person speaker says he wandered summers
+    and winters, sixty, away from land.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Hildbrand Lay fragment names Hildebrand as the speaker's father and gives
+    the speaker's name as Hadu-brand or Hadubrand in the excerpted form.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Later Hildbrand Lay fragments include direct-speech clauses concerning a woman
+    or wife, knowing something, being sent into the world, and a famous day or shining
+    moon.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: 'The Wessobrunner Prayer fragment includes a paired action: some bound fetters
+    or bonds and some loosed them.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The final quoted line states that Balder's foal had its foot bent, twisted,
+    or wrenched.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mighty king
+  description: A ruler described as 'mahtigo kuninc' who summons or commands the mahal
+    or assembly in the Muspilli fragment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hadubrand / first-person wanderer
+  description: The first-person speaker in the Hildbrand Lay fragment who says he
+    wandered for sixty summers and winters and identifies Hildebrand as his father.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Hildebrand
+  description: Named in the Hildbrand Lay fragment as the father of the first-person
+    speaker.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: woman or wife in Hildbrand fragment
+  description: A female figure referred to by the fragmentary phrase beginning 'that
+    Wif...' in a direct-speech clause.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Balder
+  description: Named in the final line in relation to a foal whose foot is bent or
+    wrenched.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: Balder's foal
+  description: An animal associated with Balder; its foot is described as bent, twisted,
+    or wrenched.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: summoning ruler
+  assigned_to:
+  - fig:1
+  basis: The Muspilli fragment says the mighty king commands or summons the mahal.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: wandering son and speaker
+  assigned_to:
+  - fig:2
+  basis: The Hildbrand Lay fragment presents the speaker as wandering for sixty summers
+    and winters and naming his father.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: named father
+  assigned_to:
+  - fig:3
+  basis: Hildebrand is identified as the speaker's father in the Hildbrand Lay fragment.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: female addressee or mentioned woman
+  assigned_to:
+  - fig:4
+  basis: A fragmentary Hildbrand Lay line refers to a 'Wif' and a speech obligation;
+    the exact narrative role is unclear from the excerpt.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: named associate of injured foal
+  assigned_to:
+  - fig:5
+  basis: Balder is named in the phrase about the foal and its foot.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: injured animal
+  assigned_to:
+  - fig:6
+  basis: The foal's foot is described as bent or wrenched.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fuir
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: darkness
+  literal_form: Finstri
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: assembly or meeting-place
+  literal_form: Mahal-steti / mahal
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: fetters or bonds
+  literal_form: Hapt / Heptidon
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: injured foot
+  literal_form: Vuoz
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Muspilli assembly and fire-darkness fragment
+  summary: A mighty king summons or commands an assembly; the fragment then mentions
+    Warch, fire, darkness, and a grievous or sinful condition.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hildbrand Lay wandering and lineage declaration
+  summary: A first-person speaker says he wandered for sixty summers and winters away
+    from land and identifies Hildebrand as his father and himself as Hadubrand.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Hildbrand Lay speech fragments
+  summary: Short direct-speech fragments mention a woman or wife, knowing something,
+    being sent into the world, and a day or moon shining.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wessobrunner binding and Balder's foal fragments
+  summary: The excerpt pairs binding of fetters with loosing of bonds and then states
+    that Balder's foal has an injured foot.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: summoned assembly followed by fire and darkness
+  taxonomy_refs: []
+  basis: The Muspilli fragment places a mighty king's summoning of the mahal near
+    references to fire, darkness, and a grievous or sinful condition.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a metrical excerpt, not a full narrative; the status of
+    the king and the exact meaning of the sequence are not explicit in the supplied
+    text.
+- id: motif:2
+  label: long wandering before lineage declaration
+  taxonomy_refs: []
+  basis: The Hildbrand Lay fragment combines a sixty-summer-and-winter wandering statement
+    with identification of the speaker's father and name.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Only a short excerpt is supplied, so the broader plot function of the
+    wandering and lineage statement cannot be established here.
+- id: motif:3
+  label: binding and loosing of bonds
+  taxonomy_refs: []
+  basis: The Wessobrunner Prayer fragment explicitly contrasts some who bound fetters
+    or bonds with some who loosed them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The actors and ritual or narrative context are not provided in the excerpt.
+- id: motif:4
+  label: injured named figure's animal
+  taxonomy_refs: []
+  basis: The final line names Balder's foal and describes the foal's foot as bent
+    or wrenched.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The excerpt gives only the injury phrase; no healing, cause, or wider
+    mythic context is present in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 21560-21565
+  quote_or_summary: 'Muspilli fragment: a mighty king commands or summons the mahal;
+    the fragment includes Warch, fire, darkness, and a grievous or sinful phrase.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 21566-21570
+  quote_or_summary: 'Hildbrand Lay fragment: the speaker says he wandered summers
+    and winters, sixty, away from land; Hildebrand is named as the speaker''s father
+    and the speaker as Hadubrand.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 21571-21575
+  quote_or_summary: Hildbrand Lay fragments include direct-speech clauses about a
+    woman or wife, knowing, being sent into the world, and a famous day or shining
+    moon.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 21576-21578
+  quote_or_summary: 'Wessobrunner Prayer fragment includes wording about asking or
+    speaking with men and a paired phrase: some bound fetters or bonds and some loosed
+    them.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: line 21580
+  quote_or_summary: '"du-wart-demo balderes | Volon : sin Vuoz-bi | renkit."'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The passage consists of fragmentary metrical examples with archaic forms
+    and no continuous translated narrative. Literal names and repeated motifs are
+    extractable, but broader mythological interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself support a cautious cross-text or cross-tradition comparison beyond listing metrical examples.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21560-l21580
+  passage_sha256=daab7407d222e6316197cfa1eac96008b365eadc1ec45c045d5f4118d8d096cb
+

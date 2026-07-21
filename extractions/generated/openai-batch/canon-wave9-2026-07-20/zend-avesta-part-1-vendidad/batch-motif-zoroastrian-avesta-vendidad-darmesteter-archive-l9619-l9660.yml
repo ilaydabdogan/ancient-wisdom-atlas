@@ -1,0 +1,333 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l9619-l9660
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD VIII. 95 / FARGARD VIII. 97 / FARGARD VIII. 99 / IOO VENDIDAD.; lines
+    9619-9660
+  start: '9619'
+  end: '9660'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a series of ritual-law questions and Ahura Mazda's answers.
+    It specifies penalties in stripes for placing skin or woven clothing on a dead
+    body to different extents, then asks about involuntary and voluntary emission
+    of seed, giving an answer only for the involuntary case within this excerpt.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A question concerns throwing skin or woven clothing upon a dead body enough
+    to cover the feet; Ahura Mazda prescribes four hundred stripes with each of two
+    named instruments.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A question concerns throwing skin or woven clothing upon a dead body enough
+    to cover both legs; Ahura Mazda prescribes six hundred stripes with each of two
+    named instruments.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A question concerns throwing skin or woven clothing upon a dead body enough
+    to cover the whole body; Ahura Mazda prescribes a thousand stripes with each of
+    two named instruments.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A question concerns involuntary emission of seed; Ahura Mazda prescribes eight
+    hundred stripes with each of two named instruments.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A question concerns voluntary emission of seed and asks about penalty, atonement,
+    and cleansing; the answer is not included in the provided passage.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Within the corpse-clothing cases, the stated penalties increase as the covered
+    part expands from feet to both legs to the whole body.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: The divine speaker who answers the ritual-law questions and names the
+    penalties.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed questioner
+  description: The speaker who addresses the Holy One and asks about penalties, atonement,
+    and cleansing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Hypothetical man
+  description: The conditional offender described as throwing clothing on a dead body
+    or emitting seed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: divine legal respondent
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda answers the questions and specifies punishments.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ritual-law questioner
+  assigned_to:
+  - fig:2
+  basis: The speaker repeatedly asks, beginning with an address to the Holy One, what
+    penalty or cleansing applies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: hypothetical offender
+  assigned_to:
+  - fig:3
+  basis: The passage frames each offense as an act done by 'a man.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: dead body
+  literal_form: a dead body on which clothing is thrown
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: skin or woven clothing
+  literal_form: clothes, either of skin or woven material
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: penal stripe instruments
+  literal_form: Aspahe-astra/Aspahe-artra and Sraosho-charana, as printed with variant
+    OCR forms in the excerpt
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: seed emission
+  literal_form: a man's seed, emitted involuntarily or voluntarily
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: graded numbers of stripes
+  literal_form: four hundred, six hundred, eight hundred, and a thousand stripes
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Questions on clothing a dead body
+  summary: The questioner asks about penalties for placing skin or woven clothing
+    on a dead body so that it covers the feet, both legs, or the whole body; Ahura
+    Mazda gives increasing penalties for the three cases.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Questions on emission of seed
+  summary: The questioner asks about involuntary emission of seed, and Ahura Mazda
+    gives a penalty. The questioner then asks about voluntary emission, including
+    penalty, atonement, and cleansing, but the response lies outside the provided
+    excerpt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: divine prescription of ritual penalties
+  taxonomy_refs:
+  - divine_judgment
+  basis: Ahura Mazda answers ritual-law questions by prescribing measured corporal
+    penalties.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage is juridical and purity-regulatory rather than a narrative
+    scene of afterlife or cosmic judgment; the taxonomy link is therefore broad.
+- id: motif:2
+  label: corpse-contact or corpse-treatment impurity regulation
+  taxonomy_refs: []
+  basis: The passage treats covering a dead body with clothing as an offense with
+    penalties graded by the extent of bodily coverage.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader mythic explanation is included in this excerpt.
+- id: motif:3
+  label: sexual emission as ritual offense requiring penalty or cleansing
+  taxonomy_refs: []
+  basis: The passage asks about involuntary and voluntary emission of seed, gives
+    a penalty for the involuntary case, and asks about penalty, atonement, and cleansing
+    for the voluntary case.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The answer for voluntary emission is not present in the provided passage.
+- id: motif:4
+  label: graded punishment by ritual severity
+  taxonomy_refs: []
+  basis: The corpse-clothing examples give different numbers of stripes corresponding
+    to feet, both legs, and the whole body, and the seed-emission case gives another
+    fixed number.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage states the graded penalties but does not explicitly explain
+    the principle behind the grading.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9619-9627
+  quote_or_summary: Question about throwing skin or woven clothing upon a dead body
+    enough to cover the feet; Ahura Mazda answers with four hundred stripes using
+    each of two named instruments.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9628-9636
+  quote_or_summary: Question about throwing skin or woven clothing upon a dead body
+    enough to cover both legs; Ahura Mazda answers with six hundred stripes using
+    each of two named instruments.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 9637-9646
+  quote_or_summary: Question about throwing skin or woven clothing upon a dead body
+    enough to cover the whole body; Ahura Mazda answers with a thousand stripes using
+    each of two named instruments.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 9647-9655
+  quote_or_summary: Question about a man involuntarily emitting his seed; Ahura Mazda
+    answers with eight hundred stripes using each of two named instruments.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 9656-9660
+  quote_or_summary: Question about a man voluntarily emitting his seed; the question
+    asks what the penalty, atonement, and cleansing are, but the answer is not included
+    in the excerpt.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear as ritual-law dialogue. Motif tagging is more tentative
+    because the excerpt is regulatory rather than narrative and offers limited symbolic
+    explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-textual or historical comparison. OCR-like variants in the instrument names were preserved only in generalized form.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l9619-l9660
+  passage_sha256=3f2c7c2a887733f816dd9a42c95fe60200b21caea01ae604a76d255af8e42493
+

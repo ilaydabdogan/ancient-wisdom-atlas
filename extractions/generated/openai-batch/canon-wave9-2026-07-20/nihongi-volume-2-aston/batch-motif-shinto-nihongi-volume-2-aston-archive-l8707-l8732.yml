@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l8707-l8732
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: A.D. 626. / A.D. 627. / A.D. 628. / OCI 42:; lines 8707-8732
+  start: '8707'
+  end: '8732'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records a funeral eulogy at a temporary burial shrine, the
+    Empress's dying instructions to the Ministers during a famine, her request that
+    no costly new misasagi be raised for her, and her burial in the misasagi of Prince
+    Takeda. A note attributes the avoidance of costly burial to Buddhist influence
+    and links it to later abolition of misasagi.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A funeral eulogy was pronounced at the shrine of the temporary burial place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Before the burial, the Empress gave dying injunctions to the Ministers.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Empress stated that in recent years the five grains had not produced well
+    and that there was great famine among the people.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Empress instructed that there should be no costly interment by raising
+    a misasagi for her.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Empress instructed that she should be buried in the misasagi of the Imperial
+    Prince Takeda.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the 24th day, the Empress was buried in the misasagi of Prince Takeda.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A source note says Buddhist influence is traceable in the avoidance of costly
+    burial and that it later led to the abolition of misasagi.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the Empress
+  description: Unnamed Empress who gives dying injunctions about famine and burial,
+    and is then buried in Prince Takeda's misasagi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Ministers
+  description: Officials who receive the Empress's dying injunctions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Imperial Prince Takeda / Prince Takeda
+  description: Royal figure whose misasagi is selected as the Empress's burial place.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the people
+  description: The populace described as experiencing great famine.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: dying and buried Empress
+  assigned_to:
+  - fig:1
+  basis: She gives dying injunctions and is later buried.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: recipients of dying injunctions
+  assigned_to:
+  - fig:2
+  basis: The Ministers are addressed by the Empress's dying injunctions.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: royal figure associated with selected misasagi
+  assigned_to:
+  - fig:3
+  basis: The Empress asks to be buried in the misasagi of the Imperial Prince Takeda,
+    and the burial takes place there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: famine-affected populace
+  assigned_to:
+  - fig:4
+  basis: The Empress says there is great famine among the people.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: five grains
+  literal_form: agricultural staples described as not producing well
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: misasagi
+  literal_form: imperial burial mound or tomb raised for interment, or the existing
+    misasagi of Prince Takeda
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: shrine of the temporary burial place
+  literal_form: temporary burial shrine where a funeral eulogy is pronounced
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Funeral eulogy at temporary burial shrine
+  summary: A funeral eulogy is pronounced at the shrine of the temporary burial place.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Dying injunctions about famine and burial
+  summary: The Empress tells the Ministers that poor grain yields and famine among
+    the people require that she not receive a costly newly raised misasagi, and that
+    she instead be buried in Prince Takeda's misasagi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Burial in Prince Takeda's misasagi
+  summary: On the 24th day, the Empress is buried in the misasagi of Prince Takeda.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: dying ruler's burial injunction
+  taxonomy_refs: []
+  basis: The Empress gives final instructions to Ministers specifying the form and
+    place of her burial.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is chronicle-style historical narration rather than an extended
+    mythic episode.
+- id: motif:2
+  label: austere royal burial during famine
+  taxonomy_refs: []
+  basis: The Empress connects failed grain production and famine among the people
+    with her instruction that no costly new misasagi be raised for her.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader ritual doctrine is given in the narrative itself.
+- id: motif:3
+  label: burial in a pre-existing royal misasagi
+  taxonomy_refs: []
+  basis: The Empress asks to be buried in Prince Takeda's misasagi, and the passage
+    records that this burial occurs.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain Prince Takeda's relationship to the Empress
+    within this excerpt.
+- id: motif:4
+  label: Buddhist-influenced rejection of costly burial
+  taxonomy_refs: []
+  basis: The note states that Buddhist influence is traceable in the avoidance of
+    costly forms of burial and that this later led to abolition of misasagi.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: This basis comes from the translator or editor's note, not from the chronicle
+    narrative alone.
+comparison_claims:
+- id: claim:1
+  claim: The passage's note explicitly links the Empress's avoidance of costly burial
+    with Buddhist influence and with later abolition of misasagi.
+  claim_level: historical_contact
+  target: Buddhist-influenced burial austerity and later Japanese mortuary reform
+  evidence_refs:
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The note asserts influence but gives no detailed doctrinal parallel
+    or additional comparative evidence within this excerpt.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8707-8732
+  quote_or_summary: A funeral eulogy is pronounced at the shrine of the temporary
+    burial place.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; source metadata says full text use is allowed.
+- id: ev:2
+  type: quote
+  locator: lines 8707-8732
+  quote_or_summary: The Empress gave dying injunctions to the Ministers, saying that
+    the five grains had not produced well and that there was great famine among the
+    people.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; source metadata says full text use is allowed.
+- id: ev:3
+  type: quote
+  locator: lines 8707-8732
+  quote_or_summary: "“Let there be therefore no costly interment ... but let me be
+    buried in the misasagi of the Imperial Prince Takeda.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; source metadata says full text use is allowed.
+- id: ev:4
+  type: quote
+  locator: lines 8707-8732
+  quote_or_summary: "“24th day. The Empress was buried in the misasagi of Prince Takeda.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; source metadata says full text use is allowed.
+- id: ev:5
+  type: note
+  locator: lines 8707-8732, footnote 1
+  quote_or_summary: The note says Buddhist influence is traceable in avoiding costly
+    forms of burial and that this later led to abolition of misasagi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; source metadata says full text use is allowed.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core events are clear, but the passage includes OCR or fragmentary line artifacts
+    and the Buddhist-influence claim comes from a note rather than the main narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were assigned because the passage concerns burial austerity, famine context, and misasagi practice rather than the supplied motif families or symbol terms.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l8707-l8732
+  passage_sha256=c2d7c5f35b3439e023508b060c623a92c740e5defdad08cee6d57920b11ef0b2
+

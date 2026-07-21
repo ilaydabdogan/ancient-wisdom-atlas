@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l22236-l22256
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: KENZO. 387 / KENZO. 389 / XV. 20. / A.D. 486.; lines 22236-22256
+  start: '22236'
+  end: '22256'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes a royal speaker calling himself Son of Heaven and
+    expressing a desire to demolish a misasagi. A note explains that executioners
+    and cemetery watchmen called Hinin, or “not-man,” had their names erased from
+    census registers because they were considered to belong to the service of the
+    dead rather than the living. Another note says most misasagi had one to five guardians’
+    houses allotted to them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A royal speaker refers to having been raised to the rank of Son of Heaven
+    two years earlier.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker states a desire to demolish a misasagi.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Executioners and cemetery watchmen are associated with the name Hinin, glossed
+    as “not-man.”
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The names of the Hinin are described as erased from census registers.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Hinin are described as belonging to the service of the dead and no longer
+    being reckoned with the living.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Most misasagi are said to have had one to five guardians’ houses allotted
+    to them.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: royal speaker called Son of Heaven
+  description: An unnamed speaker who says he was raised to the rank of Son of Heaven
+    and wants to demolish a misasagi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hinin
+  description: Executioners and watchmen of cemeteries whose names were erased from
+    census registers and who were treated as belonging to the service of the dead.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: guardians of misasagi
+  description: Guardians associated with houses allotted to misasagi.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: royal authority figure
+  assigned_to:
+  - fig:1
+  basis: The speaker identifies himself with the rank Son of Heaven and declares an
+    intention concerning a misasagi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: cemetery service group excluded from living registers
+  assigned_to:
+  - fig:2
+  basis: The passage says their names were erased from census registers and that they
+    belonged to the service of the dead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: tomb or cemetery guardians
+  assigned_to:
+  - fig:3
+  basis: The passage says misasagi had guardians’ houses allotted to them.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: misasagi
+  literal_form: funerary site or tomb-like place named misasagi
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: census registers
+  literal_form: official registers from which names are erased
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: guardians’ houses
+  literal_form: houses allotted to misasagi guardians
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Royal declaration concerning a misasagi
+  summary: An unnamed royal speaker, identified by the rank Son of Heaven, says he
+    wants to demolish a misasagi.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of cemetery servants and exclusion from living census
+  summary: A note explains that executioners and cemetery watchmen called Hinin had
+    their names erased from census registers and were regarded as serving the dead
+    rather than belonging among the living.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Guardians’ houses for misasagi
+  summary: The passage notes that most misasagi had one to five guardians’ houses
+    allotted to them.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: royal command over a funerary monument
+  taxonomy_refs: []
+  basis: The speaker with the rank Son of Heaven expresses a desire to demolish a
+    misasagi.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage fragment does not provide the full narrative context or identify
+    whose misasagi is meant.
+- id: motif:2
+  label: service of the dead removes persons from the community of the living
+  taxonomy_refs: []
+  basis: The Hinin are described as cemetery personnel whose names are erased from
+    census registers and who are no longer reckoned with the living.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is based on the translator’s note within the passage rather than
+    a narrative episode.
+- id: motif:3
+  label: institutional guardianship of tombs
+  taxonomy_refs: []
+  basis: Most misasagi are said to have one to five guardians’ houses allotted to
+    them.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives an institutional detail but little narrative development.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 22236-22242
+  quote_or_summary: "“Much more I who, two years ago, was raised to the rank of ...
+    Son of Heaven! It is my desire to demolish his misasagi,”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 22242-22247
+  quote_or_summary: The passage mentions executioners and watchmen of cemeteries and
+    says the name Hinin, glossed as “not-man,” fits the erasure of their names from
+    census registers.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 22247-22249
+  quote_or_summary: "“They were supposed to belong to the service of the dead, and
+    no longer to be reckoned with the living.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 22251-22253
+  quote_or_summary: Most misasagi had from one to five guardians’ houses allotted
+    to them.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: citation
+  locator: line 22256
+  quote_or_summary: A footnote glosses Ban-zai or Man-zai as literally “10,000 years”
+    and says the term remains in use.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the fragmentary passage and embedded translator
+    notes. No comparison claims are made because the passage does not itself support
+    comparison to another corpus or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol or motif reference was assigned because the passage’s recurring elements concern tombs, registers, cemetery service, and guardianship rather than the supplied taxonomy symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l22236-l22256
+  passage_sha256=7d90f461227cf50fb477ef5fc372906de33c14545bd062a488f0d956584102e3
+

@@ -1,0 +1,317 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35323-l35346
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / INTRODUCTORY  TO  DRAMATIC  MOVEMENT / THE    OMAHA   TRIBE /
+    THE    PUBLIC    CEREMONY; lines 35323-35346
+  start: '35323'
+  end: '35346'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: During fast songs, members passed about the fire, “shooting” whom they pleased.
+  summary: The passage describes a public Omaha ceremonial sequence in which a drum
+    circulates among lodges, each lodge sings its initial and other songs, and members
+    move around the fire during fast songs while ritually “shooting” others, who fall
+    rigid, rise, join the procession, and continue the action.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The ceremony follows the close of a cumulative procession about the fire.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The drum is taken to a lodge, where members of that lodge form a choir while
+    the drum is present.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Each lodge has its own songs, and an initial song for that lodge must be sung
+    first when the drum is brought.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Songs are divided into slow or rest songs and fast songs.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: During slow or rest songs, members sit and talk or rest.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: During fast songs, members pass about the fire and ritually “shoot” whomever
+    they choose.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A person who is “shot” falls rigid, lies briefly in a tense attitude, then
+    rises and joins the moving line around the fire.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: After rising and joining the line, the person who was “shot” may “shoot” another
+    person.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: After remaining with one lodge, the drum is carried to another lodge, where
+    that lodge’s initial song and other songs are sung.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: In a regular meeting, the drum must pass to all the lodges.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: ceremony members
+  description: Members participating in the public ceremony, including those who return
+    to places, move about the fire, and ritually “shoot” or are “shot.”
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: lodge choir members
+  description: Members of a lodge who form a choir while the drum is with that lodge.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:3
+  name_or_label: person ritually “shot”
+  description: A participant who is “shot,” falls rigid, lies briefly tense, then
+    rises and joins the moving line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: processional participant
+  assigned_to:
+  - fig:1
+  basis: Members move in a procession or moving line about the fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: choir singer
+  assigned_to:
+  - fig:2
+  basis: Members of the lodge form a choir and sing the lodge’s songs while the drum
+    is present.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:3
+  label: ritual shooter and struck participant
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: During fast songs, participants “shoot” others; those “shot” fall, rise,
+    join the line, and may then “shoot” someone else.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire around which the procession and fast-song movement take place
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: drum
+  literal_form: drum carried from lodge to lodge and beaten as accompaniment to the
+    songs
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: lodge songs
+  literal_form: initial song required for each lodge and other lodge songs sung by
+    the choir
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:4
+  label: ritual “shooting” gesture
+  literal_form: ceremonial act described as “shooting,” causing the struck participant
+    to fall rigid and then rise
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Drum brought to a lodge and songs begun
+  summary: The drum is taken to a lodge, whose members form a choir; the lodge’s required
+    initial song is sung before other songs are chosen.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Fast-song movement around the fire
+  summary: During fast songs, members pass around the fire and ritually “shoot” others.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Struck participant falls and returns to the line
+  summary: The person who is “shot” falls rigid, lies tense briefly, rises, joins
+    the moving line around the fire, and may then “shoot” another participant.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Drum circulates among lodges
+  summary: After a time at one lodge, the drum is carried to another, where that lodge’s
+    initial and other songs are performed; during a regular meeting it must pass to
+    all lodges.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual falling and rising after symbolic striking
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage describes a participant being ritually “shot,” falling rigid,
+    lying tense briefly, then rising and rejoining the moving line.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes a ceremonial action, not an explicit death, resurrection,
+    or doctrinal rebirth; the taxonomy reference is only a cautious motif-family fit.
+- id: motif:2
+  label: ceremonial circulation around a fire
+  taxonomy_refs: []
+  basis: The ceremony includes procession and fast-song movement around the fire.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state an explicit cosmological meaning for the fire
+    or circular movement.
+- id: motif:3
+  label: ritual circulation of a drum among lodges
+  taxonomy_refs: []
+  basis: The drum is carried from lodge to lodge, with each lodge singing its required
+    initial song and other songs; the drum must pass to all lodges in a regular meeting.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage gives procedural details but does not provide symbolic interpretation
+    of the drum’s circulation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 35323-35326
+  quote_or_summary: At the close of a cumulative procession about the fire, some members
+    returned to their places.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 35326-35332
+  quote_or_summary: The drum is taken to a lodge; lodge members form a choir; each
+    lodge has its own songs and a required initial song sung first when the drum arrives.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 35332-35337
+  quote_or_summary: The drum accompanied all songs, which were divided into slow/rest
+    songs and fast songs; during fast songs members passed about the fire, “shooting”
+    whom they pleased.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt/paraphrase used.
+- id: ev:4
+  type: summary
+  locator: lines 35337-35341
+  quote_or_summary: Whoever was “shot” fell rigid, lay briefly tense, then arose,
+    joined the moving line about the fire, and “shot” another person if desired.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 35341-35346
+  quote_or_summary: After remaining with one lodge, the drum was carried to another;
+    that lodge’s initial and other songs were sung, and in a regular meeting the drum
+    had to pass to all lodges.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal procedural details are explicit. Motif labels are cautious because
+    the passage gives little interpretive explanation of the actions.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims added because the passage itself does not make or support a specific cross-textual comparison beyond internal ritual patterns.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35323-l35346
+  passage_sha256=47f264ff0f2204eefa6a68fa76f952364012fd2b262f52a2ce95fdf9233cae44
+

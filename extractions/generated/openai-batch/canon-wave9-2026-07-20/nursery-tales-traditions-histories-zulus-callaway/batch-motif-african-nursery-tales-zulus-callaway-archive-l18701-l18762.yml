@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l18701-l18762
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE GREAT TORTOISE. / THE GREAT TORTOISE. / IZIXGANEKWANE. / APPENDIX.; lines
+    18701-18762
+  start: '18701'
+  end: '18762'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“a beast in the water which can seize the shadow of a man”"
+  summary: The passage gives the end of a tale in which children are lost at a pool,
+    one child escapes, and men find that the rock associated with the event is gone;
+    they wonder whether it was a tortoise and mourn the missing children. The appendix
+    explains a belief that a water beast can take a person's shadow when he looks
+    into a dark pool, making him desire to enter the water, where he is eaten. It
+    also records a prohibition against looking into dark pools and mentions a similar
+    Amakccosa/Amakrosa tale.
+  language: English with brief Zulu
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Only one child escapes from the pool episode and returns home crying.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men ask the escaped child to show them where the rock had been.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At the place shown, the rock is absent, and the men ask whether it had been
+    a tortoise and whether the children had been devoured.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The missing children are not seen again, and people mourn them and are told
+    the history.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The appendix states that a beast in the water can seize a man's shadow when
+    he looks into the water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After his shadow is taken, the man no longer wants to turn back and desires
+    to enter the pool, imagining it as harmless happiness.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The man dies by going into the pool and being eaten by the beast, which is
+    not seen until it catches him.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: People explain the victim's state by saying that his shadow has been taken,
+    his eyes are dark, and he no longer sees.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Men are forbidden to lean over and look into a dark pool because their shadow
+    might be taken away.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The passage says there is a similar Amakccosa/Amakrosa tale in which a beast
+    seizes a man's shadow.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: escaped child or boy
+  description: The sole child who escapes, goes home crying, and points out where
+    the rock had been.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: lost children
+  description: The children who are lost and no longer seen after the pool episode.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: men
+  description: Men who ask the escaped child to show the place of the rock and question
+    whether the rock was a tortoise.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: rock that may have been a tortoise
+  description: A rock formerly at the place shown by the child; the men ask whether
+    it was a tortoise.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: water beast
+  description: A beast in the water that can seize a man's shadow and eat him when
+    he enters the pool.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:6
+  name_or_label: man whose shadow is taken
+  description: A generalized victim who looks into the water, loses his shadow, desires
+    to enter the pool, and dies there.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: survivor
+  assigned_to:
+  - fig:1
+  basis: Only one child escapes from the pool episode.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: witness-guide
+  assigned_to:
+  - fig:1
+  basis: The child is asked to point out where the rock had been.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: missing or devoured children
+  assigned_to:
+  - fig:2
+  basis: The children are lost, possibly devoured, and are seen no more.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: searchers and questioners
+  assigned_to:
+  - fig:3
+  basis: The men go to the place, ask about the rock, and question whether it was
+    a tortoise.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:5
+  label: ambiguous devouring being
+  assigned_to:
+  - fig:4
+  basis: The men ask whether the absent rock was a tortoise and whether the children
+    were devoured; the passage does not directly confirm the identity.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: shadow-seizing devourer
+  assigned_to:
+  - fig:5
+  basis: The beast takes a man's shadow and eats him in the pool.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:7
+  label: entranced victim
+  assigned_to:
+  - fig:6
+  basis: The man whose shadow is taken desires to enter the pool and dies there.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: pool
+  literal_form: pool where children are lost
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: dark pool
+  literal_form: dark pool into which people are forbidden to look
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: shadow
+  literal_form: a person's shadow, which can be seized or taken away
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: rock or tortoise
+  literal_form: a rock that had been at the place and is questioned as a tortoise
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Aftermath of the pool loss
+  summary: One child escapes and leads men to the place where the rock had been; the
+    men find it gone, wonder whether it was a tortoise, and mourn the vanished children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Shadow taken by water beast
+  summary: A man looks into water, his shadow is taken by a hidden beast, and he feels
+    drawn into the pool as if it were harmless happiness.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Death in the pool
+  summary: The man enters the pool, dies, and is eaten by the beast, which becomes
+    visible when it catches him.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Prohibition and parallel tale note
+  summary: People are forbidden to lean over and look into dark pools lest their shadows
+    be taken; the passage also notes a similar Amakccosa/Amakrosa tale about a beast
+    seizing a man's shadow.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: children swallowed or lost at a pool by a possible tortoise
+  taxonomy_refs: []
+  basis: The children are lost at a pool, one escapes, the rock is absent, and men
+    ask whether it was a tortoise that devoured the children.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary and preserves the identification as a question
+    rather than a direct statement.
+- id: motif:2
+  label: shadow stolen by water beast
+  taxonomy_refs: []
+  basis: The appendix states that a beast in the water can seize a man's shadow when
+    he looks into the water.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The account is presented as a reported belief or tale rather than a full
+    narrative episode.
+- id: motif:3
+  label: fatal attraction to the pool after shadow loss
+  taxonomy_refs: []
+  basis: After the shadow is taken, the victim desires to enter the pool, imagines
+    it as harmless happiness, and dies by being eaten.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a generalized explanation, not a named individual story.
+- id: motif:4
+  label: taboo against looking into a dark pool
+  taxonomy_refs: []
+  basis: The passage says men are forbidden to lean over and look into a dark pool
+    lest their shadow be taken.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No ritual procedure or sanction beyond the stated fear is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself reports a similar Amakccosa/Amakrosa tale in which a beast
+    seizes a man's shadow, indicating a nearby-tradition parallel to the shadow-taking
+    water beast motif.
+  claim_level: same_motif
+  target: Amakccosa/Amakrosa tale of a beast seizing a man's shadow
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only a brief fragment of the parallel tale is included; no full narrative
+    comparison is provided.
+- id: claim:2
+  claim: An editorial note raises the question of connection with tortoise myths of
+    other countries, but the passage provides no details establishing such a connection.
+  claim_level: same_motif
+  target: tortoise myths of other countries, with reference to Tylor's Early History
+    of Mankind
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: uncertain
+  limitations: This is only an editorial query and bibliographic pointer, not evidence
+    of historical contact, common inheritance, or a specific shared narrative pattern.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18701-18711
+  quote_or_summary: Only one child escapes from the pool episode, goes home crying,
+    and is asked by men to point out where the rock had been.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:2
+  type: quote
+  locator: 18712-18724
+  quote_or_summary: "“Was it then a tortoise? Have then the children been devoured?”
+    The children are seen no more, are mourned, and the history is told to all the
+    people."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 18731-18744
+  quote_or_summary: The appendix reports that a beast in the water can seize a man's
+    shadow when he looks into the water; afterward he desires to enter the pool and
+    imagines it as a harmless place of happiness.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:4
+  type: summary
+  locator: 18744-18755
+  quote_or_summary: The victim dies by entering the pool and being eaten by the beast,
+    which is unseen at first but seen when it catches him; people say his shadow has
+    been taken and his eyes are dark.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:5
+  type: quote
+  locator: 18756-18759
+  quote_or_summary: "“men are forbidden to lean over and look into a dark pool,” because
+    it is feared their shadow may be taken away."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:6
+  type: summary
+  locator: 18760-18762
+  quote_or_summary: The passage states that among the Amakccosa/Amakrosa there is
+    a similar tale saying that a beast seizes the shadow of a man.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary supplied.
+- id: ev:7
+  type: citation
+  locator: editorial note within 18701-18762
+  quote_or_summary: The editorial note asks whether these tales have any connection
+    with tortoise myths of other countries and refers to Tylor's Early History of
+    Mankind, pp. 332-336.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; citation-style evidence supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is partly fragmentary and includes appendix commentary; the shadow-taking
+    water beast material is clear, while the tortoise/rock episode and external comparison
+    note require review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were applied only to the water/pool symbols where directly supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l18701-l18762
+  passage_sha256=3db57e3c40891c90434427fb6ad4c4ad66224b58c67b2ddb15c068a1313bf441
+

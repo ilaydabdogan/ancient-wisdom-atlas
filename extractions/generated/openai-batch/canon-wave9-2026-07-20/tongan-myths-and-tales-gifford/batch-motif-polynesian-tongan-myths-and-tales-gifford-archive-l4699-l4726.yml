@@ -1,0 +1,375 @@
+---
+record_id: batch.motif.polynesian-tongan-myths-and-tales-gifford-archive-l4699-l4726
+source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+passage_locator:
+  label: THE ORIGIN OE NUKUNAMU ISLAND 72 / THE ORIGIN OF KAO ISLAND 73 / THE ORIGIN
+    OF LOTUMA ISLAND75 / THE ORIGIN OF FEATURES OF TONGATABU EAGOON; lines 4699-4726
+  start: '4699'
+  end: '4726'
+  translation: Tongan Myths and Tales
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces versions of a Tongan account concerning Tongatabu
+    lagoon and the release of mullet for human consumption. A brief third version
+    says mullet originally lived in a cave near Nukuhitulu owned by an old couple,
+    whose secret food supply was discovered; after others began taking the fish, the
+    couple angrily drove the mullet away, filling the ocean and spreading mullet worldwide.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A chant concerning Tongatabu lagoon is said to account for the release of
+    mullet for general human consumption.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A modern version obtained from John Tupou adds that the mullet annually seek
+    permission to leave the lagoon.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A third brief version is connected with Fungakupolu, described as a tract
+    and a cave near Nukuhitulu, Tongatabu.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: In the third version, mullet originally lived in the cave.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The cave was owned by an old couple.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The old couple ate only mullet, and no one else knew of the cave or the secret
+    food supply.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:7
+  text: After the secret was discovered, everyone began helping himself to the mullet.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In anger, the old couple chased the fish away from their cave.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After the fish were chased away, the ocean was filled with mullet, and mullet
+    were said to be all over the world.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: old couple
+  description: Owners of the cave who ate only mullet, kept the food supply unknown,
+    and later chased the fish away in anger.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: mullet
+  description: Fish that originally lived in the cave, served as the old couple's
+    food, were driven away, and then filled the ocean and spread worldwide; in a modern
+    version, they annually seek permission to leave the lagoon.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:3
+  name_or_label: everyone / others
+  description: Unspecified people who discovered the cave and secret food supply and
+    began helping themselves to the mullet.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: cave owners
+  assigned_to:
+  - fig:1
+  basis: The passage says the cave was owned by an old couple.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: original cave-dwelling fish
+  assigned_to:
+  - fig:2
+  basis: The passage says the mullet originally lived in the cave.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: guardians of secret food supply
+  assigned_to:
+  - fig:1
+  basis: The old couple ate only mullet, and no one else knew of the cave and food
+    supply until it was discovered.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:4
+  label: fish that leave an enclosed place
+  assigned_to:
+  - fig:2
+  basis: The modern variant says mullet seek permission to leave the lagoon, and the
+    third version says they are chased away from the cave.
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: role:5
+  label: discovering consumers
+  assigned_to:
+  - fig:3
+  basis: After the secret was discovered, everyone began helping himself to the mullet.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave near Nukuhitulu / Fungakupolu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: mullet as food supply
+  literal_form: mullet
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: ocean or lagoon water
+  literal_form: Tongatabu lagoon and the ocean filled with mullet
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+scenes:
+- id: scene:1
+  label: Hidden cave of mullet
+  summary: At Fungakupolu near Nukuhitulu, mullet originally live in a cave owned
+    by an old couple, who eat only mullet while others remain unaware of the cave
+    and food supply.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Discovery and communal taking
+  summary: The cave and secret food supply are discovered, and unspecified people
+    begin helping themselves to the mullet.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Expulsion and worldwide spread
+  summary: The old couple angrily chase the fish away from the cave; the ocean becomes
+    filled with mullet, and mullet are thereafter found worldwide.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: 'Modern variant: annual permission'
+  summary: A modern version adds that the mullet annually seek permission to leave
+    the lagoon.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: hidden food supply released to general use
+  taxonomy_refs: []
+  basis: The passage frames the tradition as explaining the release of mullet for
+    general human consumption, and the third version describes a secret cave supply
+    becoming known and then dispersed.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The full older chant is not included in the supplied passage, so the extraction
+    relies on the introductory description and the brief third version.
+- id: motif:2
+  label: secret cave containing animal food source
+  taxonomy_refs: []
+  basis: The mullet originally live in a cave owned by an old couple; no one else
+    knows of the cave or its food supply until it is discovered.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not say the cave is sacred or taboo, only secret and
+    privately owned.
+- id: motif:3
+  label: angered owners drive away resource animals
+  taxonomy_refs: []
+  basis: After others begin taking the mullet, the old couple chase the fish away
+    from their cave in anger, leading to the fish spreading into the ocean and world.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not describe a formal punishment or divine act.
+- id: motif:4
+  label: annual permission to leave lagoon
+  taxonomy_refs:
+  - departure
+  basis: The modern version specifically adds annual seeking of permission by the
+    mullet to leave the lagoon.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This detail is reported only as a variant feature; the permission-giver
+    and ritual context are not specified in the supplied passage.
+comparison_claims:
+- id: claim:1
+  claim: The modern version and the older lagoon chant appear to concern the same
+    mullet-release tradition, with the modern version adding an annual permission
+    feature.
+  claim_level: same_motif
+  target: older Tongatabu lagoon chant concerning release of mullet
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The older chant itself is not included in the supplied passage, and
+    the statement depends on the editor's summary.
+- id: claim:2
+  claim: The Fungakupolu cave account functions as a brief variant explanation for
+    the broader release and distribution of mullet to human use.
+  claim_level: same_function
+  target: mullet release for general human consumption in the Tongatabu lagoon tradition
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage calls it a third version but provides only a brief account,
+    so detailed correspondences with other versions cannot be assessed here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4699-4705
+  quote_or_summary: A preserved chant concerning Tongatabu lagoon, attributed to Metevae
+    and preserved through Dr. Moulton, is said to account for the release of mullet
+    for general human consumption.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 4707-4712
+  quote_or_summary: A modern version from John Tupou adds the annual seeking of permission
+    by mullet to leave the lagoon and substitutes a fictitious Tui Tonga Fatafehi
+    for a local chief in the older version.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 4718-4720
+  quote_or_summary: A brief third version is connected with Fungakupolu, described
+    as a tract and a cave near Nukuhitulu, Tongatabu.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 4720-4722
+  quote_or_summary: In the cave the mullet originally lived; the cave was owned by
+    an old couple who ate only mullet.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4722-4724
+  quote_or_summary: No one else knew of the cave and secret food supply, but it was
+    eventually discovered and everyone began helping himself.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 4724-4726
+  quote_or_summary: The old couple angrily chased the fish away from their cave; the
+    ocean was soon filled with mullet, and since then mullet have been all over the
+    world.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence in the brief Fungakupolu version is clear. Motif and
+    comparison confidence is lower because the older chant and the full modern variant
+    are not included in the supplied passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external taxonomy identifiers were added beyond the provided available references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:polynesian-tongan-myths-and-tales-gifford-archive__l4699-l4726
+  passage_sha256=eed0d63951356096d4db10933a1ef48d51f1ab928552b2111b8d5d6102e84a81
+

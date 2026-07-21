@@ -1,0 +1,268 @@
+---
+record_id: batch.motif.tibetan-book-of-the-dead-evans-wentz-archive-l3989-l4005
+source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+passage_locator:
+  label: THE COSMOGRAPHY 65 / XII. THE FUNDAMENTAL TEACHINGS SUMMARIZED / THE FUNDAMENTAL
+    TEACHINGS 67 / XUI. THE MANUSCRIPT; lines 3989-4005
+  start: '3989'
+  end: '4005'
+  translation: The Tibetan Book of the Dead
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the editor’s acquisition in 1919 of a manuscript
+    copy of the Bardo Thédol from a young lama associated with the Bhutia Basti Monastery,
+    notes its claimed family transmission over several generations, and distinguishes
+    its coloured illustrations painted directly on the text folios from other illustrated
+    Tibetan manuscripts seen by the translator or editor.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editor procured a manuscript copy of the Bardo Thédol early in 1919.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The manuscript was obtained from a young lama of the Kargyutpa Sect of the
+    Red Hat School attached to the Bhutia Basti Monastery, Darjeeling.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The young lama said the manuscript had been handed down in his family for
+    several generations.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The manuscript is described as unlike any other seen by the translator or
+    editor because it has colour paintings painted on the folios of the text.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Other similarly illustrated Tibetan manuscripts seen by the translator and
+    editor had illustrations made on separate manuscript paper or cotton cloth pasted
+    to the folios.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A footnote cites Udana viii. 1, 4, 3, based on a Pali translation by Francis
+    J. Payne.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: editor
+  description: The person who procured the manuscript copy early in 1919.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: young lama of the Kargyutpa Sect of the Red Hat School
+  description: The person from whom the manuscript copy was procured; he was attached
+    to the Bhutia Basti Monastery, Darjeeling.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: translator
+  description: One of the observers who had not seen another manuscript like this
+    one.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: the lama’s family
+  description: The family in which the manuscript was said to have been handed down
+    for several generations.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Francis J. Payne
+  description: The translator from the original Pali named in the footnote.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: manuscript procurer
+  assigned_to:
+  - fig:1
+  basis: The passage says the editor procured the manuscript copy early in 1919.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: manuscript source
+  assigned_to:
+  - fig:2
+  basis: The manuscript was procured from the young lama.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: reported transmitter of provenance
+  assigned_to:
+  - fig:2
+  basis: The young lama said the manuscript had been handed down in his family.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: observer of manuscript features
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The passage compares the manuscript with others seen by the translator or
+    editor.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: family custodial lineage
+  assigned_to:
+  - fig:4
+  basis: The manuscript was said to have been handed down in the lama’s family for
+    several generations.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: translator cited in footnote
+  assigned_to:
+  - fig:5
+  basis: The footnote states that the cited Udana material is based on a translation
+    by Francis J. Payne.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: manuscript copy of the Bardo Thédol
+  literal_form: manuscript copy
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: colour paintings on text folios
+  literal_form: paintings in colour painted on the folios of the text
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: separate illustration supports
+  literal_form: separate pieces of manuscript paper or cotton cloth pasted to folios
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Provenance and acquisition of the manuscript
+  summary: The editor obtains a manuscript copy of the Bardo Thédol in 1919 from a
+    young lama attached to a Darjeeling monastery, and the lama reports that it had
+    been preserved in his family for several generations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Description of the manuscript’s illustrations
+  summary: The manuscript is distinguished from other illustrated Tibetan manuscripts
+    seen by the translator or editor because its colour paintings are painted directly
+    on the text folios rather than made separately and pasted in.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 3989-3993
+  quote_or_summary: "“Our manuscript copy of the Bardo Thédol was procured by the
+    editor early in the year 1919 from a young /éma of the Kargyutpa Sect of the Red
+    Hat School attached to the Bhutia Basti Monastery, Darjeeling”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 3993-3995
+  quote_or_summary: The young lama “said that it had been handed down in his family
+    for several generations.”
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 3995-3998
+  quote_or_summary: The manuscript is described as “illustrated by paintings in colour
+    painted on the folios of the text.”
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 3998-4002
+  quote_or_summary: Other similarly illustrated Tibetan manuscripts seen by the translator
+    and editor had illustrations on separate pieces of manuscript paper or cotton
+    cloth pasted to the folios.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 4004-4005
+  quote_or_summary: A footnote cites Udana viii. 1, 4, 3 and says it is based on a
+    translation from the original Pali by Francis J. Payne of London, England.
+  source_text_path: texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md
+  rights_note: Public domain source; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily a manuscript-provenance and codicological note rather
+    than a mythic or ritual narrative. No candidate motifs or comparison claims were
+    extracted because the supplied lines do not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol references are directly supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-book-of-the-dead-evans-wentz-archive__l3989-l4005
+  passage_sha256=88036c49ded1de36fc507e74123201a6b0b59cf6eac1c03c91e669a465a0c872
+

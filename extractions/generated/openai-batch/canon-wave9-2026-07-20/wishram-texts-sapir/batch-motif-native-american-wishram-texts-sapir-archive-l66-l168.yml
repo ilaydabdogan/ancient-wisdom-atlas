@@ -1,0 +1,276 @@
+---
+record_id: batch.motif.native-american-wishram-texts-sapir-archive-l66-l168
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+passage_locator:
+  label: Wishram Texts / INTRODUCTION.; lines 66-168
+  start: '66'
+  end: '168'
+  translation: Wishram Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The introduction describes the collection and publication of Wishram texts,
+    the linguistic situation of Wishram speakers, the main narrators and interpreters,
+    and Louis Simpson’s reported beliefs about the inherited truth of myths and the
+    figure of Coyote.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Most of the Wishram texts were obtained on Yakima Reservation in July and
+    August 1905; some additional texts were sent by Pete McGuff after the fieldwork.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage identifies the Wishram, also called Wi'cxam and Ha'xluit, as a
+    minority group on Yakima Reservation speaking an Upper Chinookan dialect.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Louis Simpson dictated the bulk of the linguistic material with Pete McGuff
+    as interpreter, while Pete McGuff narrated most of the remainder.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Louis Simpson is reported to believe in the truth of the myths he narrated
+    and to insist that they were handed down from time immemorial rather than invented
+    by him.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Louis Simpson considers Coyote worthy of high respect despite Coyote’s ridiculous
+    and lascivious sides.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Louis Simpson is reported as strongly inclined to identify Coyote with the
+    Christ of the whites because both lived many generations ago and appeared in the
+    world to improve mankind’s condition.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Louis Simpson / ME'-nait
+  description: A Wishram man described as an older type of Wishram Indian; he dictated
+    much of the material, believed the myths he narrated, and expressed views about
+    Coyote.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Pete McGuff
+  description: Interpreter for Louis Simpson, sender of additional phonetic texts,
+    narrator of much of the remaining material, and source of information about Wishram
+    speakers.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Coyote
+  description: A figure in the myths whom Louis Simpson considers highly respectable
+    despite ridiculous and lascivious traits; Louis compares him with Christ as an
+    ancient benefactor of mankind.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: Christ of the whites
+  description: A figure whom Louis Simpson is reported as inclined to identify with
+    Coyote because both lived long ago and appeared to benefit mankind.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: text narrator or dictator
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Louis Simpson dictated the bulk of the material, and Pete McGuff narrated
+    most of the remainder.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: interpreter and text transmitter
+  assigned_to:
+  - fig:2
+  basis: Pete McGuff served as interpreter and sent additional phonetic texts after
+    the fieldwork.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: tradition bearer affirming inherited myths
+  assigned_to:
+  - fig:1
+  basis: Louis believed the myths he narrated and insisted they were handed down from
+    time immemorial.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: revered ambivalent myth figure
+  assigned_to:
+  - fig:3
+  basis: Coyote is described as worthy of high respect while also having ridiculous
+    and lascivious sides.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: ancient world-benefiting figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: Louis’s comparison states that both Coyote and Christ lived many generations
+    ago and appeared in the world to better mankind’s lot.
+  evidence_refs:
+  - ev:6
+symbols: []
+scenes:
+- id: scene:1
+  label: Collection and source context
+  summary: The introduction explains where and how the Wishram texts were collected
+    and identifies Louis Simpson and Pete McGuff as central contributors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Reported belief in myths and Coyote-Christ comparison
+  summary: Louis Simpson is described as believing the inherited myths, respecting
+    Coyote, and comparing Coyote with Christ as ancient figures who benefited mankind.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Ancient benefactor appears to improve mankind
+  taxonomy_refs:
+  - culture_hero
+  basis: The passage reports Louis Simpson’s view that Coyote lived many generations
+    ago and appeared in the world to better mankind’s lot.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is an introductory ethnographic report of an informant’s belief,
+    not a full myth episode.
+- id: motif:2
+  label: Revered figure with comic and lascivious traits
+  taxonomy_refs: []
+  basis: Coyote is simultaneously treated as worthy of high respect and as having
+    ridiculous and lascivious sides.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage names traits but does not narrate a specific Coyote episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage reports Louis Simpson’s own inclination to identify Coyote with
+    the Christ of the whites on the grounds that both lived long ago and appeared
+    to improve mankind’s condition.
+  claim_level: same_function
+  target: Christ of the whites
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a reported informant comparison within the introduction; it
+    does not by itself establish historical contact, doctrinal equivalence, or a broad
+    comparative mythology claim.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 70-82
+  quote_or_summary: The texts were mostly obtained at Yakima Reservation in July and
+    August 1905; some additional material was sent afterward by Pete McGuff in phonetic
+    form.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 100-119
+  quote_or_summary: The passage describes the Yakima Reservation population as divided
+    between Sahaptin speakers and a Wishram minority speaking an Upper Chinookan dialect,
+    with Wishram names and locations noted.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 121-134
+  quote_or_summary: Louis Simpson dictated the bulk of the field material with Pete
+    McGuff as interpreter; Pete McGuff narrated most of the remaining material, and
+    other named sources are also mentioned.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: lines 154-163
+  quote_or_summary: Louis is described as believing the myths he narrated and insisting
+    that the myths were not invented by him but handed down from time immemorial.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: lines 156-160
+  quote_or_summary: Louis regards Coyote as highly respectable despite ridiculous
+    and lascivious traits and is strongly inclined to identify Coyote with the Christ
+    of the whites.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 159-161
+  quote_or_summary: The stated basis for the comparison is that both Coyote and Christ
+    lived many generations ago and appeared in the world to better mankind’s lot.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The extraction is based on an introductory passage rather than a narrative
+    myth text. Motif identification is therefore limited to reported beliefs and comparisons
+    in the introduction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No standalone symbols were extracted because the passage does not present concrete symbolic objects or images beyond named figures.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-wishram-texts-sapir-archive__l66-l168
+  passage_sha256=a2acf0d7117c812f59c74069e773822e6fa191958dadf714499833e58ca4cbbf
+

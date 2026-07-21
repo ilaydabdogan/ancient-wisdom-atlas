@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l1184-l1215
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    ORIGINS    OF    MITHRAISM  II / THE    ORIGINS    OF    MITHRAISM  13
+    / THE    MYSTERIES    OF    MITHRA / A    CITY    OF    PONTUS.; lines 1184-1215
+  start: '1184'
+  end: '1215'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A figure caption describes imperial coins of Trapezus in Pontus. The coins
+    depict a horseback divinity identified as a composite Men-Mithra, with accompanying
+    iconographic elements including an altar, torches, a tree, and a raven; the obverses
+    show imperial busts of Alexander Severus or Gordianus III.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes imperial coins of Trapezus, also called Trebizond, a
+    city of Pontus.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure caption states that the horseback divinity resembles both Men and
+    Mithra and that this shows the two were identified in Pontus.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One bronze coin obverse shows the bust of Alexander Severus wearing a paludamentum
+    and a laurel crown.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The reverse of the bronze coin shows the composite Men-Mithra in Oriental
+    costume and a Phrygian cap, mounted on a horse advancing to the right.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The same reverse includes a flaming altar, two characteristic Mithraic torches
+    placed on either side with one elevated and one reversed, a tree whose branches
+    spread over the horseman, and a raven bending toward him.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A similar coin is mentioned without further iconographic details.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Another reverse shows Men-Mithra on horseback advancing right, with a flaming
+    altar in the foreground and a rear tree on which a raven is perched.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A further similar coin has the bust of Gordianus III on its obverse.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Composite Men-Mithra
+  description: A horseback divinity resembling both Men and Mithra; described as composite
+    Men-Mithra and shown in Oriental costume with a Phrygian cap.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Alexander Severus
+  description: Roman emperor whose bust appears on the obverse of the bronze coin
+    and another listed coin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:3
+  name_or_label: Gordianus III
+  description: Roman emperor whose bust appears on the obverse of a similar coin.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:4
+  name_or_label: Horse
+  description: The animal ridden by Men-Mithra; it advances toward the right.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: fig:5
+  name_or_label: Raven
+  description: A bird shown bending toward the horseman on one coin and perched on
+    a tree on another.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: composite divinity on coin reverse
+  assigned_to:
+  - fig:1
+  basis: The passage calls the depicted horseback figure a divinity resembling both
+    Men and Mithra and later names him composite Men-Mithra.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: imperial portrait on coin obverse
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The obverses are described as busts of Alexander Severus or Gordianus III.
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: role:3
+  label: mount of the divinity
+  assigned_to:
+  - fig:4
+  basis: Men-Mithra is described as mounted on a horse advancing to the right.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: bird associated with the horseman and tree
+  assigned_to:
+  - fig:5
+  basis: The raven is shown bending toward the horseman or perched on the tree near
+    him.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: flaming altar
+  literal_form: An altar described as flaming, placed in front of or in the foreground
+    of Men-Mithra.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:2
+  label: paired Mithraic torches
+  literal_form: Two characteristic Mithraic torches, one elevated and one reversed,
+    placed on either side.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: tree
+  literal_form: A tree with branches overspreading the horseman, or a rear tree on
+    which a raven is perched.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: raven
+  literal_form: A raven bending toward the horseman or perched upon a tree.
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: Phrygian cap and Oriental costume
+  literal_form: The composite Men-Mithra wears Oriental costume and a Phrygian cap.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Figure caption identifies Pontic Men-Mithra
+  summary: The figure caption frames the coin type as showing a horseback divinity
+    who resembles both Men and Mithra, indicating their identification in Pontus.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bronze coin reverse with Men-Mithra and surrounding symbols
+  summary: The reverse depicts composite Men-Mithra riding rightward, with a flaming
+    altar, paired torches, a tree over the horseman, and a raven bending toward him.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Similar reverse with altar, tree, and perched raven
+  summary: Another coin reverse shows Men-Mithra on horseback advancing right, a flaming
+    altar in the foreground, and a rear tree with a raven perched on it.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Imperial obverse portraits
+  summary: Coin obverses are described with busts of Alexander Severus and Gordianus
+    III.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: identified or composite divinity
+  taxonomy_refs: []
+  basis: The passage explicitly says the horseback divinity resembles both Men and
+    Mithra and that in Pontus the two were identified; the reverse is labeled composite
+    Men-Mithra.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy list has no direct syncretism or composite-deity
+    category; the passage is an iconographic description rather than a narrative.
+- id: motif:2
+  label: opposed pair of torches
+  taxonomy_refs:
+  - duality
+  basis: The reverse places characteristic Mithraic torches on either side, one elevated
+    and one reversed.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage does not explain the doctrinal or ritual meaning of the elevated
+    and reversed torches.
+- id: motif:3
+  label: mounted divinity with altar, tree, and raven
+  taxonomy_refs: []
+  basis: Both described reverses combine Men-Mithra on horseback with a flaming altar
+    and tree-raven imagery.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a repeated iconographic arrangement in the passage, but no narrative
+    action or mythic episode is supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares and identifies Men and Mithra in Pontic coin
+    iconography by describing a horseback divinity resembling both and calling the
+    reverse figure composite Men-Mithra.
+  claim_level: visual_similarity
+  target: Men and Mithra in Pontic coin iconography
+  evidence_refs:
+  - ev:1
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the identification but does not provide broader
+    external evidence for its historical mechanism or geographical extent beyond Pontus.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1184-1193
+  quote_or_summary: Figure 2 is titled as imperial coins of Trapezus in Pontus and
+    says they represent a horseback divinity resembling both Men and Mithra, showing
+    their identification in Pontus.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 1195-1197
+  quote_or_summary: Coin a is described as a bronze coin whose obverse shows Alexander
+    Severus, clad in a paludamentum, with a laurel-crowned head.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 1197-1200
+  quote_or_summary: The reverse of coin a shows composite Men-Mithra in Oriental costume
+    and a Phrygian cap, mounted on a horse advancing right.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 1200-1204
+  quote_or_summary: The same reverse includes a flaming altar, two Mithraic torches
+    respectively elevated and reversed, a tree spreading over the horseman, and a
+    raven bending toward him; the date 218 A.D. is given.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: line 1206
+  quote_or_summary: Coin b is described only as a similar coin.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 1208-1211
+  quote_or_summary: Coin c has Alexander Severus on the obverse; its reverse shows
+    Men-Mithra on horseback advancing right, a flaming altar in the foreground, and
+    a tree in the rear with a raven perched on it.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 1213-1215
+  quote_or_summary: Coin d is similar and has the bust of Gordianus III on its obverse;
+    the passage cites T. et M., p. 190.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a modern scholarly figure caption describing coin iconography.
+    Literal iconographic extraction is strong; motif interpretation is more limited
+    because no mythic narrative or doctrinal explanation is supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All entries are based only on the supplied passage and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l1184-l1215
+  passage_sha256=58bda085b236a95e984543e93e32010ff2842ca89cd347127e86cb52f20ecb33
+

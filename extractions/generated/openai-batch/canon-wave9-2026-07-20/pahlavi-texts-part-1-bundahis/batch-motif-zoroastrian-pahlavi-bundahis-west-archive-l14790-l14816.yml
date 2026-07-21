@@ -1,0 +1,191 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l14790-l14816
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER 11,8-11. 249 / CHAPTER II, IO5-II6. 273 / CHAPTER II, II 7-1 22.
+    275 / Chapter III.; lines 14790-14816
+  start: '14790'
+  end: '14816'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter III with ritual rules about the clothing of a
+    menstruous woman, distinguishing new clothing taken for her use from clothing
+    already in use. It also begins a rule about a prepared bedchamber with carpet
+    and cushion, and includes notes relating these rules to Pahlavi Vendidad passages
+    on pollution, washing, and articles that cannot be purified.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: New clothing taken for the use of a menstruous woman is described as polluted.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Clothing already in use for the menstruous woman is described as not polluted.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A related note says clothing worn by the woman in the designated place remains
+    for use within that place.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage begins a rule involving an overspread bedchamber, a carpet, and
+    a cushion.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A note states that separated articles have washing, except meat and milk,
+    and that articles for which there is no washing cannot be purified.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: menstruous woman
+  description: A woman whose clothing and place of use are governed by the stated
+    pollution rules.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+roles:
+- id: role:1
+  label: subject of menstruation-related purity rules
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly discusses the clothing of a menstruous woman and notes
+    rules for clothing used by her in a designated place.
+  evidence_refs:
+  - ev:1
+  - ev:3
+symbols:
+- id: sym:1
+  label: clothing under pollution rule
+  literal_form: clothing of a menstruous woman, either newly taken for use or already
+    in use
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: prepared bedchamber furnishings
+  literal_form: bedchamber, carpet, and cushion
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: milk as exception to washing
+  literal_form: milk
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Clothing rules for a menstruous woman
+  summary: The text distinguishes between new clothing taken for a menstruous woman's
+    use, which is polluted, and clothing already in use or set apart within the designated
+    place, which remains usable there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Prepared chamber rule
+  summary: The text begins a rule concerning an overspread bedchamber with a carpet
+    and cushion.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: menstruation-associated ritual pollution containment
+  taxonomy_refs: []
+  basis: The passage regulates what becomes polluted or remains usable in connection
+    with a menstruous woman's clothing and designated place.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a ritual-legal purity pattern rather than a narrative myth motif.
+- id: motif:2
+  label: purification limited by washable material
+  taxonomy_refs: []
+  basis: A note distinguishes articles that can be washed from meat and milk, and
+    states that articles without washing cannot be purified.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: This evidence appears in an explanatory note citing Pahlavi Vendidad rather
+    than in the main Chapter III rule itself.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14790-14794
+  quote_or_summary: "“The clothing of a menstruous woman which they shall take new
+    for her use is polluted, and that which is in use is not polluted”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 14794-14797
+  quote_or_summary: The text mentions a bedchamber being overspread, with a carpet
+    laid upon it and a cushion placed in connection with it; the sentence is fragmentary
+    in the supplied passage.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: note to Chapter III.1, within lines 14805-14814
+  quote_or_summary: 'The note cites Pahlavi Vendidad XVI, 5: in the place where the
+    woman remains for the purpose, the clothing worn on her body does not become polluted
+    and remains for use within that place; the editor explains this as clothing already
+    set apart not becoming further polluted or unfit for her use.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: note within lines 14801-14804
+  quote_or_summary: The note cites Pahlavi Vendidad VII, 93 as saying that separated
+    things have washing except meat and milk, and adds that articles for which there
+    is no washing cannot be purified.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main rule is clear for clothing, but the bedchamber sentence is incomplete
+    in the supplied passage and several details come from notes rather than the main
+    text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l14790-l14816
+  passage_sha256=04668616113e7ff242e443f12fc56710479df7ebedd28649525b17d7eb1a5e12
+

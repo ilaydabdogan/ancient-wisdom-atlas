@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l14043-l14100
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: WX 21, / TX 223. / IX. 24. / EXC 25.; lines 14043-14100
+  start: '14043'
+  end: '14100'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records a command for an unnamed subject to go with the Prince
+    Imperial and worship the Great God of Kebi in Tsunoga. The Prince Imperial returns
+    from Tsunoga, and the Grand Empress gives him a banquet in the Great Hall, raises
+    her cup, wishes him long life, and sings that the liquor has been sent as an offering
+    by the august God Sukuna from the Eternal land. A fragment then says an unnamed
+    woman wailed, died, was made the Goddess-mother of a mountain, and has a shrine
+    there. The remaining notes discuss Korean name identifications, doubts about the
+    text, interlinear kana names, Silla/Corean language issues, and possible meanings
+    of “Kushi no Kami.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An unnamed subject was commanded to go with the Prince Imperial and worship
+    the Great God of Kebi in Tsunoga.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the seventeenth day, the Prince Imperial returned from Tsunoga.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Grand Empress gave a banquet to the Prince Imperial in the Great Hall.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Grand Empress raised her cup and wished long life to the Prince Imperial.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Grand Empress’s song states that the liquor is not her own but was sent
+    as an offering to the Prince Imperial.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The song identifies the divine sender as the august God Sukuna, dwelling in
+    the Eternal land and blessing repeatedly with divine words.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A fragment says an unnamed woman wailed bitterly, died, was made the Goddess-mother
+    of a mountain, and has a shrine there.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Editorial notes say the Korean names are difficult, give possible equivalences,
+    and state that the text cannot be relied on.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note says the original expression “Kushi no Kami” may be interpreted as
+    “the wondrous deity” or as the God of liquor or sake.
+  category: other
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Prince Imperial
+  description: Imperial figure who goes to Tsunoga, returns from Tsunoga, and receives
+    the Grand Empress’s banquet and long-life wish.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Grand Empress
+  description: Imperial woman who gives a banquet, raises her cup, wishes long life
+    to the Prince Imperial, and makes a song.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: Great God of Kebi in Tsunoga
+  description: Deity named as the object of worship in Tsunoga.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: August God Sukuna / Kushi no Kami
+  description: Deity in the song who dwells in the Eternal land and sends the liquor
+    as an offering; a note discusses the original name “Kushi no Kami.”
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: fig:5
+  name_or_label: Unnamed woman made Goddess-mother of the mountain
+  description: Fragmentary female figure who wailed bitterly, died, and was made the
+    Goddess-mother of a mountain.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Unnamed commanded subject
+  description: Antecedent missing in the excerpt; this subject was commanded to go
+    with the Prince Imperial and worship.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: commanded companion and worshipper
+  assigned_to:
+  - fig:6
+  basis: The subject, unnamed in the excerpt, was commanded to go with the Prince
+    Imperial and worship the Great God of Kebi.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: imperial traveler and blessing recipient
+  assigned_to:
+  - fig:1
+  basis: The Prince Imperial is associated with the worship journey to Tsunoga and
+    receives the banquet and long-life wish.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: banquet host and ritual singer
+  assigned_to:
+  - fig:2
+  basis: The Grand Empress gives the banquet, raises the cup, wishes long life, and
+    makes the song.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: deity worshiped at Tsunoga
+  assigned_to:
+  - fig:3
+  basis: The command is to worship the Great God of Kebi in Tsunoga.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: divine sender of liquor and blessings
+  assigned_to:
+  - fig:4
+  basis: The song says the deity sends the liquor as an offering with plenteous and
+    divine blessing words.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: deified mountain mother
+  assigned_to:
+  - fig:5
+  basis: The fragment says she died and was made the Goddess-mother of the mountain,
+    with a shrine there.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: raised cup
+  literal_form: cup raised by the Grand Empress
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: august liquor or sake
+  literal_form: liquor described as a prince of liquors and as a divine offering
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: sym:3
+  label: Eternal land
+  literal_form: place where the divine sender is said to dwell
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: mountain
+  literal_form: mountain associated with the Goddess-mother
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: shrine
+  literal_form: shrine said to exist at the mountain
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Commanded worship at Tsunoga
+  summary: An unnamed subject is commanded to accompany the Prince Imperial and worship
+    the Great God of Kebi in Tsunoga.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Return, banquet, and divine liquor song
+  summary: The Prince Imperial returns from Tsunoga; the Grand Empress gives him a
+    banquet in the Great Hall, raises a cup, wishes him long life, and sings that
+    the liquor was sent as a divine offering by God Sukuna.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Mountain-mother deification fragment
+  summary: A fragmentary account says an unnamed woman wailed, died, was made the
+    Goddess-mother of a mountain, and has a shrine there.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Commanded worship journey with an imperial companion
+  taxonomy_refs: []
+  basis: The excerpt says an unnamed subject was commanded to go with the Prince Imperial
+    and worship the Great God of Kebi in Tsunoga.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The antecedent of the commanded subject and the wider ritual context are
+    absent from the excerpt.
+- id: motif:2
+  label: Divinely supplied ritual liquor and blessing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The Grand Empress’s song frames the liquor as an offering sent by the deity
+    with repeated divine blessings, and the Prince Imperial is urged to drink deeply.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:8
+  confidence: high
+  cautions: The note indicates uncertainty in interpreting “Kushi no Kami,” including
+    whether it means a wondrous deity or a god of liquor or sake.
+- id: motif:3
+  label: Long-life blessing for an imperial figure
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Grand Empress raises her cup and wishes long life to the Prince Imperial
+    during a formal banquet.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Long life and imperial status are explicit, but political legitimation
+    is not stated directly.
+- id: motif:4
+  label: Dead woman becomes mountain mother deity with shrine
+  taxonomy_refs:
+  - mother_goddess
+  basis: The fragment says an unnamed woman died, was made the Goddess-mother of a
+    mountain, and has a shrine there.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The line is fragmentary in this passage, and the antecedent and full narrative
+    context for the woman are missing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14043-14046
+  quote_or_summary: "“was commanded to go with the Prince Imperial and worship the
+    Great God of Kebi in Tsunoga.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 14048-14052
+  quote_or_summary: On the seventeenth day the Prince Imperial returned from Tsunoga;
+    the Grand Empress gave him a banquet in the Great Hall, raised her cup, wished
+    him long life, and began a song.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 14054-14066
+  quote_or_summary: The song says the august liquor is not the Grand Empress’s own,
+    but a “prince of liquors” sent as an offering by the august God Sukuna, who dwells
+    in the Eternal land and blesses repeatedly; the recipient is told to drink deeply.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary with brief phrase used.
+- id: ev:4
+  type: quote
+  locator: lines 14068-14069
+  quote_or_summary: "“having wailed bitterly, she died. She was made the Goddess-mother
+    of this mountain, and there is now a shrine there.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 14071-14077
+  quote_or_summary: A note says the account relates to the same events as an above
+    Nihongi passage, proposes identifications for Ché-syang, Mo-ma-ri, Misa-heun,
+    and Mi-cheul-H6-chi, and warns that the Korean names and text are difficult and
+    unreliable.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 14079-14081
+  quote_or_summary: The interlinear kana gives names for three envoys and a hostage
+    and suggests that “shichi” may refer to an official Silla rank.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 14083-14089
+  quote_or_summary: A note cites a Chinese authority on Kilin or Silla words and comments
+    that the translator cannot recognize modern Corean in the Corean names of the
+    Nihongi; it adds that later Korean proper names and office names are of Chinese
+    derivation.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: quote
+  locator: lines 14093-14096
+  quote_or_summary: "“In the original ‘Kushi no Kami.’ ... This line might also mean
+    ‘the wondrous deity’ or the ‘God of liquor or sake.’”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the fragmentary beginning, the abrupt mountain-goddess
+    fragment, OCR/noise in the song ending, and the passage’s own note that parts
+    of the text and names cannot be relied on. No comparison claims are asserted beyond
+    taxonomy-aligned candidate motifs.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All motifs are candidate readings based only on the supplied passage and metadata; editorial linguistic notes are recorded only where they affect names or interpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l14043-l14100
+  passage_sha256=817d8ce47bc1128a3d56d3f00ab20c5fb3f1a2475756b64d4986f3610b9639d7
+

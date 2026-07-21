@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l7671-l7702
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: SS ER ER / NOTES. / HIS MYTH THE MOSQUITO AND THE THUNDER. / HIS MYTH THE
+    MOON,; lines 7671-7702
+  start: '7671'
+  end: '7702'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A mythic note about the Moon says that the Moon was formerly an Indian
+    who was transformed. It explains the Moon’s dark face through the presence of
+    his younger sister, links the Moon with weather and clouds produced by pipe smoke,
+    and describes visible objects associated with him: a pipe and a basket used as
+    a hat or, in another version, carried on his back.'
+  language: English with source-language transcription/glossing
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a myth about the Moon.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The English gloss describes the Moon as an Indian who was formerly transformed.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Moon is said to have been very bright-faced, like the sun or perhaps superior
+    to it.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Moon is now described as dark-faced in connection with his younger sister
+    sitting on his face.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Moon is said to be housed with his younger sister.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The gloss links possible snow and rain weather with the Moon making a house
+    or weather-related action.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Clouds are said to grow from the smoke of a pipe associated with the Moon
+    or the smoker in the passage.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage says the Moon does not let go of his pipe and always holds it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Moon is seen with a basket used as a hat; a note gives another version
+    in which he carries it on his back.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Moon / moon Indian
+  description: The Moon is described as an Indian who was formerly transformed, now
+    dark-faced, associated with a younger sister, pipe smoke, clouds, a pipe, and
+    a basket.
+  role_refs:
+  - role:1
+  - role:2
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Younger sister of the Moon
+  description: The Moon’s younger sister is described as sitting on his face and as
+    being housed with him.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: Transformed former Indian identified with the Moon
+  assigned_to:
+  - fig:1
+  basis: The gloss says the Moon was an Indian who was formerly transformed.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Cohabiting sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The Moon is said to be housed with his younger sister.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: Younger sister affecting the Moon’s face
+  assigned_to:
+  - fig:2
+  basis: The gloss connects the Moon’s dark face with his younger sister sitting on
+    his face.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Smoker associated with clouds and weather
+  assigned_to:
+  - fig:1
+  basis: Clouds are connected to smoke from his pipe, and the Moon is described as
+    holding the pipe.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:5
+  label: Bearer of visible lunar objects
+  assigned_to:
+  - fig:1
+  basis: The Moon is seen holding a pipe and a basket; a note gives a variant in which
+    the basket is carried on his back.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: Moon’s face
+  literal_form: A bright face that becomes dark-faced, connected with the younger
+    sister sitting on it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Pipe
+  literal_form: A smoking pipe that the Moon holds and does not let go.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: Smoke and clouds
+  literal_form: Clouds growing from smoke from the pipe.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Basket as hat or back-carried object
+  literal_form: A basket seen with the Moon, used as a hat in one account and carried
+    on his back according to others.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Moon introduced as transformed and dark-faced
+  summary: The Moon is identified as a formerly transformed Indian, once bright-faced
+    like the sun, and now dark-faced because of his younger sister’s position on his
+    face.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Moon, sister, weather, and pipe smoke
+  summary: The Moon is housed with his younger sister; the passage links snow or rain
+    weather with his activity and explains clouds through smoke from his pipe.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Visible pipe and basket of the Moon
+  summary: The Moon is described as continually holding his pipe and as being seen
+    with a basket, used as a hat or, in another version, carried on his back.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Former human transformed into the Moon
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage explicitly describes the Moon as an Indian who was formerly transformed.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The English gloss is compressed and does not narrate the act or circumstances
+    of transformation.
+- id: motif:2
+  label: Sibling pair associated with lunar appearance
+  taxonomy_refs:
+  - sibling_pair
+  basis: The Moon’s younger sister is present with him and is connected to the explanation
+    of his dark face.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The sibling relation is explicit, but the passage is a short explanatory
+    note rather than a full sibling-pair narrative.
+- id: motif:3
+  label: Pipe smoke becomes clouds or weather sign
+  taxonomy_refs: []
+  basis: The passage connects clouds with smoke from the Moon’s pipe and associates
+    the Moon’s smoking with weather conditions.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No directly matching supplied taxonomy family is available for this weather-smoke
+    pattern.
+- id: motif:4
+  label: Lunar markings interpreted as carried objects
+  taxonomy_refs: []
+  basis: The passage says people see the Moon holding a pipe and a basket used as
+    a hat, with a variant in which the basket is carried on his back.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage supplies the visual explanation but does not elaborate a broader
+    narrative context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 7671-7672
+  quote_or_summary: 'Title: “HIS MYTH THE MOON,”.'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 7673-7680
+  quote_or_summary: The English gloss says the Moon was an Indian formerly transformed;
+    he had been very bright-faced like the sun, but is now dark-faced because his
+    younger sister is sitting on his face.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 7680-7682
+  quote_or_summary: The Moon is said to be housed with his younger sister; the gloss
+    connects possible snow and rain weather with his making a house or related weather
+    action.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 7682-7689
+  quote_or_summary: The pipe-smoke/cloud relation is stated in the gloss as “from
+    him grows the clouds” and “his smoke from his pipe”; nearby wording links clear
+    weather with the Moon smoking and his clouds.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 7690-7696
+  quote_or_summary: The Moon is said not to let go of his pipe and always to hold
+    it; the gloss says people see the Moon holding the pipe and his basket, which
+    he uses as a hat.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; supplied passage.
+- id: ev:6
+  type: summary
+  locator: line 7698
+  quote_or_summary: 'Note 285 gives a variant: according to others, he carries the
+    basket on his back.'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the compressed interlinear gloss and some ambiguous
+    English phrasing. No cross-text comparison claims were made from the passage alone.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references were limited to the available motif-family list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l7671-l7702
+  passage_sha256=cbc8ce1f9e4cd7e7c032f3b628bc15bf6406cf9a60689fff705c7947dc2faab7
+

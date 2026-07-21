@@ -6,12 +6,12 @@
 
 - Generated on: 2026-07-20
 - Canonical texts checked: 338
-- Texts with extraction records: 256
-- Texts without extraction records: 82
-- Texts needing full extraction: 86
-- Texts needing review or normalization: 256
-- Extraction records counted: 45579
-- Candidate motifs counted: 222010
+- Texts with extraction records: 297
+- Texts without extraction records: 41
+- Texts needing full extraction: 45
+- Texts needing review or normalization: 297
+- Extraction records counted: 52626
+- Candidate motifs counted: 256186
 
 ## Status Logic
 
@@ -29,8 +29,8 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | --- | ---: | ---: | ---: | --- | --- |
 | `no_extractions` | 0 | 28 | 0 | hindu | [The Upanishads, Part II (Sacred Books of the East, Vol. 15)](../texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md) |
 | `no_extractions` | 0 | 40 | 0 | inca | [First Part of the Royal Commentaries of the Yncas, Vol. II](../texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md) |
-| `no_extractions` | 0 | 15 | 0 | inca | [Narratives of the Rites and Laws of the Yncas](../texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md) |
 | `no_extractions` | 0 | 18 | 0 | inca | [Narratives of the Rites and Laws of the Yncas](../texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md) |
+| `no_extractions` | 0 | 15 | 0 | inca | [Narratives of the Rites and Laws of the Yncas](../texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md) |
 | `no_extractions` | 0 | 40 | 0 | inuit | [Tales and Traditions of the Eskimo](../texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md) |
 | `no_extractions` | 0 | 26 | 0 | jain | [Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books of the East, Vol. 22)](../texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md) |
 | `no_extractions` | 0 | 35 | 0 | jain | [Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred Books of the East, Vol. 45)](../texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md) |
@@ -67,48 +67,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `no_extractions` | 0 | 27 | 0 | native_american_plains | [Blackfoot Lodge Tales](../texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md) |
 | `no_extractions` | 0 | 12 | 0 | native_american_plains | [Gros Ventre Myths and Tales](../texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md) |
 | `no_extractions` | 0 | 40 | 0 | native_american_plains | [Mythology of the Blackfoot Indians](../texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md) |
-| `no_extractions` | 0 | 32 | 0 | native_american_plains | [The Assiniboine](../texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md) |
-| `no_extractions` | 0 | 40 | 0 | native_american_plains | [The Omaha Tribe](../texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md) |
 | `no_extractions` | 0 | 40 | 0 | native_american_plains | [The Pawnee - Mythology (Part I)](../texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md) |
-| `no_extractions` | 0 | 40 | 0 | native_american_plains | [Traditions of the Arapaho](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md) |
-| `no_extractions` | 0 | 19 | 0 | native_american_plains | [Traditions of the Caddo](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md) |
-| `no_extractions` | 0 | 40 | 0 | native_american_plains | [Traditions of the Skidi Pawnee](../texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md) |
-| `no_extractions` | 0 | 36 | 0 | native_american_plateau | [Myths of the Modocs](../texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md) |
-| `no_extractions` | 0 | 18 | 0 | native_american_plateau | [Traditions of the Thompson River Indians of British Columbia](../texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md) |
-| `no_extractions` | 0 | 18 | 0 | native_american_plateau | [Wishram Texts](../texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md) |
-| `no_extractions` | 0 | 40 | 0 | native_american_southwest | [The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies](../texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md) |
-| `no_extractions` | 0 | 5 | 0 | native_american_southwest | [Tusayan Migration Traditions](../texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md) |
-| `no_extractions` | 0 | 40 | 0 | norse | [Corpus Poeticum Boreale, Volume 1](../texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md) |
-| `no_extractions` | 0 | 33 | 0 | oceanic | [Oceanic Mythology](../texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md) |
-| `no_extractions` | 0 | 28 | 0 | persian | [The Shahnama of Firdausi, Vol. I](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md) |
-| `no_extractions` | 0 | 30 | 0 | persian | [The Shahnama of Firdausi, Vol. II](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md) |
-| `no_extractions` | 0 | 14 | 0 | roman | [The Mysteries of Mithra](../texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md) |
-| `no_extractions` | 0 | 21 | 0 | san | [Specimens of Bushman Folklore](../texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md) |
-| `no_extractions` | 0 | 39 | 0 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md) |
-| `no_extractions` | 0 | 40 | 0 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md) |
-| `no_extractions` | 0 | 35 | 0 | siberian | [Aboriginal Siberia - A Study in Social Anthropology](../texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md) |
-| `no_extractions` | 0 | 16 | 0 | siberian | [Chukchee Mythology](../texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md) |
-| `no_extractions` | 0 | 4 | 0 | siberian | [Koryak Texts](../texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md) |
-| `no_extractions` | 0 | 18 | 0 | siberian | [Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia](../texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md) |
-| `no_extractions` | 0 | 36 | 0 | sikh | [The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1](../texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md) |
-| `no_extractions` | 0 | 21 | 0 | slavic | [The Epic Songs of Russia](../texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md) |
-| `no_extractions` | 0 | 3 | 0 | sufi | [Bird Parliament](../texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md) |
-| `no_extractions` | 0 | 28 | 0 | sufi | [Masnavi i Ma'navi: Teachings of Rumi](../texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md) |
-| `no_extractions` | 0 | 31 | 0 | taoist | [Chuang Tzŭ: Mystic, Moralist, and Social Reformer](../texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md) |
-| `no_extractions` | 0 | 34 | 0 | taoist | [The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md) |
-| `no_extractions` | 0 | 29 | 0 | taoist | [The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md) |
-| `no_extractions` | 0 | 17 | 0 | tibetan_buddhist | [Antiquities of Indian Tibet, Part 1](../texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md) |
-| `no_extractions` | 0 | 40 | 0 | tibetan_buddhist | [The Buddhism of Tibet, or Lamaism](../texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md) |
-| `no_extractions` | 0 | 25 | 0 | tibetan_buddhist | [The Tibetan Book of the Dead](../texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md) |
-| `no_extractions` | 0 | 23 | 0 | tongan | [Tongan Myths and Tales](../texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md) |
-| `no_extractions` | 0 | 10 | 0 | vietnamese | [Stories and Legends of Annam](../texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md) |
-| `no_extractions` | 0 | 13 | 0 | xhosa | [Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony](../texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md) |
-| `no_extractions` | 0 | 20 | 0 | yoruba | [The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc.](../texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md) |
-| `no_extractions` | 0 | 40 | 0 | zoroastrian | [Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast](../texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md) |
-| `no_extractions` | 0 | 28 | 0 | zoroastrian | [The Zend-Avesta, Part I: The Vendidad](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md) |
-| `no_extractions` | 0 | 25 | 0 | zoroastrian | [The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md) |
-| `no_extractions` | 0 | 36 | 0 | zoroastrian | [The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md) |
-| `no_extractions` | 0 | 35 | 0 | zulu | [Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words](../texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md) |
 | `thin` | 1 | 2 | 0 | hindu | [A Prose English Translation of Vishnupuranam](../texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md) |
 | `thin` | 4 | 2 | 0 | mesopotamian | [The Religion of Babylonia and Assyria](../texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md) |
 
@@ -123,6 +82,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 923 | 923 | 4558 | hindu | [The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1](../texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md) |
 | `dense_draft` | 724 | 724 | 3929 | hindu | [The Hymns of the Rigveda, Complete 2 Volumes](../texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md) |
 | `dense_draft` | 612 | 612 | 3019 | hindu | [The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14, 15, 16, 17 and 18](../texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md) |
+| `dense_draft` | 574 | 574 | 2139 | native_american_plains | [The Omaha Tribe](../texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md) |
 | `dense_draft` | 549 | 549 | 1582 | hindu | [The Laws of Manu (Sacred Books of the East, Vol. 25)](../texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md) |
 | `dense_draft` | 498 | 498 | 2622 | hindu | [The Rámáyan of Válmíki, translated into English verse](../texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md) |
 | `dense_draft` | 491 | 491 | 1387 | greek | [Aesop's Fables; a new translation](../texts/public-domain/greek/project-gutenberg/aesops-fables-vernon-jones.md) |
@@ -137,11 +97,13 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 394 | 394 | 2108 | germanic | [Teutonic Mythology, Volume 3](../texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md) |
 | `dense_draft` | 388 | 386 | 2115 | celtic_irish | [Gods and Fighting Men](../texts/public-domain/celtic-irish/project-gutenberg/gods-and-fighting-men-gregory.md) |
 | `dense_draft` | 388 | 388 | 2091 | greek_roman | [Myths and Legends of Ancient Greece and Rome](../texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md) |
+| `dense_draft` | 384 | 384 | 1974 | native_american_southwest | [The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies](../texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md) |
 | `dense_draft` | 383 | 383 | 2210 | native_american_northeast_woodlands | [Seneca Fiction, Legends, and Myths](../texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md) |
 | `dense_draft` | 381 | 381 | 1681 | ganda | [The Baganda: An Account of Their Native Customs and Beliefs](../texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md) |
 | `dense_draft` | 376 | 376 | 1869 | hausa | [Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the Folk](../texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md) |
 | `dense_draft` | 362 | 360 | 2538 | islamic | [The Koran (Al-Qur'an)](../texts/public-domain/islamic/project-gutenberg/koran-rodwell.md) |
 | `dense_draft` | 361 | 361 | 1612 | australian_aboriginal | [The Northern Tribes of Central Australia](../texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md) |
+| `dense_draft` | 358 | 358 | 1709 | tibetan_buddhist | [The Buddhism of Tibet, or Lamaism](../texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md) |
 | `dense_draft` | 356 | 356 | 1118 | hindu | [Vedic Hymns, Part II (Sacred Books of the East, Vol. 46)](../texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md) |
 | `dense_draft` | 346 | 346 | 1430 | confucian | [The Four Books: Confucian Analects, The Great Learning, The Doctrine of the Mean, and The Works of Mencius](../texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md) |
 | `dense_draft` | 346 | 346 | 1117 | native_american_plains | [Teton Sioux Music](../texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md) |
@@ -160,6 +122,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 298 | 298 | 1560 | greek | [Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals](../texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md) |
 | `dense_draft` | 297 | 297 | 1693 | germanic | [Teutonic Mythology, Volume 2](../texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md) |
 | `dense_draft` | 294 | 292 | 1399 | celtic_irish | [The Ancient Irish Epic Tale Tain Bo Cualnge](../texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md) |
+| `dense_draft` | 294 | 294 | 1655 | native_american_plains | [Traditions of the Arapaho](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md) |
 | `dense_draft` | 293 | 293 | 1724 | germanic | [Household Tales by Brothers Grimm](../texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md) |
 | `dense_draft` | 293 | 293 | 1282 | native_american_southwest | [The Sia](../texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md) |
 | `dense_draft` | 291 | 290 | 1701 | sufi | [The Mesnevi](../texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md) |
@@ -167,7 +130,12 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 285 | 285 | 1667 | finnic | [Finno-Ugric, Siberian Mythology](../texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md) |
 | `dense_draft` | 281 | 281 | 1292 | egyptian | [The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume II](../texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md) |
 | `dense_draft` | 281 | 281 | 1428 | germanic | [Teutonic Mythology, Volume 1](../texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md) |
+| `dense_draft` | 276 | 276 | 1185 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md) |
+| `dense_draft` | 275 | 275 | 1043 | zoroastrian | [Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast](../texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md) |
+| `dense_draft` | 273 | 273 | 1058 | zoroastrian | [The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md) |
 | `dense_draft` | 270 | 270 | 1321 | egyptian | [The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I](../texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md) |
+| `dense_draft` | 267 | 267 | 1260 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md) |
+| `dense_draft` | 265 | 265 | 1081 | zulu | [Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words](../texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md) |
 | `dense_draft` | 262 | 262 | 1427 | greek | [The Odyssey](../texts/public-domain/greek/project-gutenberg/odyssey-butler.md) |
 | `dense_draft` | 254 | 252 | 1230 | daoist | [Chuang Tzu: Mystic, Moralist, and Social Reformer](../texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md) |
 | `dense_draft` | 254 | 252 | 1428 | greek | [Hesiod, the Homeric Hymns, and Homerica](../texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md) |
@@ -176,12 +144,15 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 243 | 243 | 998 | buddhist | [Buddhism in Translations (Harvard Oriental Series, Vol. 3)](../texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md) |
 | `dense_draft` | 242 | 242 | 750 |  | [vinaya-texts-part3](../texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md) |
 | `dense_draft` | 241 | 241 | 1081 | buddhist | [The Jataka; or, Stories of the Buddha's Former Births, Vol. I](../texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md) |
+| `dense_draft` | 238 | 238 | 1262 | norse | [Corpus Poeticum Boreale, Volume 1](../texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md) |
 | `dense_draft` | 238 | 238 | 1296 | roman | [The Aeneid of Virgil](../texts/public-domain/roman/project-gutenberg/aeneid-mackail.md) |
 | `dense_draft` | 237 | 237 | 1012 | buddhist | [The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books of the East, Vol. 21)](../texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md) |
+| `dense_draft` | 237 | 237 | 1258 | native_american_plateau | [Myths of the Modocs](../texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md) |
 | `dense_draft` | 236 | 236 | 816 | chaco_amerindian | [An Unknown People in an Unknown Land: An Account of the Life and Customs of the Lengua Indians of the Paraguayan Chaco](../texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md) |
 | `dense_draft` | 231 | 231 | 1080 | christian_apocrypha | [The suppressed Gospels and Epistles of the original New Testament of Jesus the Christ, Complete](../texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md) |
 | `dense_draft` | 228 | 228 | 769 | african_bantu | [The Ila-Speaking Peoples of Northern Rhodesia, Vol. I](../texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md) |
 | `dense_draft` | 226 | 226 | 1563 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
+| `dense_draft` | 222 | 222 | 856 | taoist | [The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md) |
 | `dense_draft` | 220 | 218 | 1176 | celtic_welsh | [The Mabinogion](../texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md) |
 | `dense_draft` | 219 | 219 | 1062 | arthurian | [The High History of the Holy Graal](../texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md) |
 | `dense_draft` | 219 | 219 | 1000 | buddhist | [The Jataka; or, Stories of the Buddha's Former Births, Vol. III](../texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md) |
@@ -200,6 +171,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 195 | 195 | 881 | hermetic | [Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)](../texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md) |
 | `dense_draft` | 193 | 193 | 1024 | celtic | [Cuchulain of Muirthemne](../texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md) |
 | `dense_draft` | 193 | 193 | 944 | celtic | [Popular Tales of the West Highlands, Volume 2](../texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md) |
+| `dense_draft` | 193 | 193 | 783 | taoist | [The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md) |
 | `dense_draft` | 191 | 191 | 881 | african_bantu | [The Ila-Speaking Peoples of Northern Rhodesia, Vol. II](../texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md) |
 | `dense_draft` | 190 | 190 | 793 | buddhist | [Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)](../texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md) |
 | `dense_draft` | 190 | 190 | 865 | greek | [Plutarch's Morals](../texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md) |
@@ -207,18 +179,24 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 189 | 187 | 1053 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
 | `dense_draft` | 188 | 188 | 620 | native_american_great_lakes | [Chippewa Music II](../texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md) |
 | `dense_draft` | 188 | 186 | 1060 | norse | [The Poetic Edda](../texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md) |
+| `dense_draft` | 188 | 188 | 847 | zoroastrian | [The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md) |
 | `dense_draft` | 187 | 187 | 1143 | estonian | [The Hero of Esthonia and Other Studies in the Romantic Literature of That Country](../texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md) |
 | `dense_draft` | 187 | 187 | 770 | hindu | [Thirty Minor Upanishads](../texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md) |
+| `dense_draft` | 186 | 186 | 1196 | native_american_plains | [Traditions of the Skidi Pawnee](../texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md) |
+| `dense_draft` | 186 | 186 | 794 | zoroastrian | [The Zend-Avesta, Part I: The Vendidad](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md) |
 | `dense_draft` | 185 | 185 | 880 | confucian | [The Yi King (I Ching) (Sacred Books of the East, Vol. 16)](../texts/public-domain/confucian/project-gutenberg/i-ching-legge.md) |
 | `dense_draft` | 182 | 182 | 893 |  | [people-of-polar-north-rasmussen](../texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md) |
 | `dense_draft` | 179 | 179 | 729 | buddhist | [The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)](../texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md) |
+| `dense_draft` | 179 | 179 | 997 | oceanic | [Oceanic Mythology](../texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md) |
 | `dense_draft` | 178 | 178 | 787 |  | [li-ki-part1-legge](../texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md) |
 | `dense_draft` | 178 | 178 | 880 | jewish_pseudepigrapha | [The Book of Jubilees, or, The Little Genesis](../texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md) |
 | `dense_draft` | 177 | 177 | 1099 | egyptian | [The Religions of Ancient Egypt and Babylonia](../texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md) |
 | `dense_draft` | 175 | 175 | 783 | bavili | [At the Back of the Black Man's Mind; or, Notes on the Kingly Office in West Africa](../texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md) |
 | `dense_draft` | 174 | 174 | 605 | guiana_amerindian | [Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana](../texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md) |
 | `dense_draft` | 174 | 174 | 699 | malagasy | [Madagascar Before the Conquest: The Island, the Country, and the People](../texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md) |
+| `dense_draft` | 173 | 173 | 988 | siberian | [Aboriginal Siberia - A Study in Social Anthropology](../texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md) |
 | `dense_draft` | 170 | 170 | 671 | andamanese | [The Andaman Islanders: A Study in Social Anthropology](../texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md) |
+| `dense_draft` | 169 | 169 | 978 | sikh | [The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1](../texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md) |
 | `dense_draft` | 168 | 168 | 793 | native_american_southwest | [The Pima Indians](../texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md) |
 | `dense_draft` | 167 | 167 | 1003 | native_american_northwest_coast | [Tsimshian Mythology](../texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md) |
 | `dense_draft` | 166 | 166 | 585 | amazonian | [The North-West Amazons: Notes of Some Months Spent Among Cannibal Tribes](../texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md) |
@@ -230,9 +208,13 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 158 | 158 | 620 | burmese | [The Soul of a People](../texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md) |
 | `dense_draft` | 156 | 156 | 831 | buryat_mongol | [A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths](../texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md) |
 | `dense_draft` | 155 | 155 | 875 | caucasian | [Caucasian Folk-Tales](../texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md) |
+| `dense_draft` | 153 | 153 | 819 | persian | [The Shahnama of Firdausi, Vol. II](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md) |
 | `dense_draft` | 152 | 152 | 785 | navajo | [Navaho Legends](../texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md) |
+| `dense_draft` | 152 | 152 | 780 | persian | [The Shahnama of Firdausi, Vol. I](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md) |
 | `dense_draft` | 151 | 151 | 641 | fjort | [Notes on the Folklore of the Fjort (French Congo)](../texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md) |
+| `dense_draft` | 151 | 151 | 607 | roman | [The Mysteries of Mithra](../texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md) |
 | `dense_draft` | 151 | 151 | 753 | slavic | [Sixty Folk-Tales from Exclusively Slavonic Sources](../texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md) |
+| `dense_draft` | 151 | 151 | 760 | taoist | [Chuang Tzŭ: Mystic, Moralist, and Social Reformer](../texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md) |
 | `dense_draft` | 148 | 148 | 1048 | celtic | [Myths & Legends of the Celtic Race](../texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md) |
 | `dense_draft` | 148 | 148 | 911 | celtic | [The Mythology of the British Islands](../texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md) |
 | `dense_draft` | 145 | 145 | 465 | aboriginal_australian | [Ethnological Studies among the North-West-Central Queensland Aborigines](../texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md) |
@@ -242,16 +224,20 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 143 | 143 | 877 | slavic | [Myths and Folk-tales of the Russians, Western Slavs, and Magyars](../texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md) |
 | `dense_draft` | 142 | 142 | 676 | buddhist | [The Mahavamsa, or The Great Chronicle of Ceylon](../texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md) |
 | `dense_draft` | 141 | 141 | 901 | finnic | [The Pre- and Proto-historic Finns, Volume 2 - The Magic Songs](../texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md) |
+| `dense_draft` | 138 | 138 | 864 | sufi | [Masnavi i Ma'navi: Teachings of Rumi](../texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md) |
 | `dense_draft` | 137 | 137 | 647 |  | [li-ki-part2-legge](../texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md) |
 | `dense_draft` | 137 | 137 | 669 | zuni | [Zuni Folk Tales](../texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md) |
 | `dense_draft` | 135 | 135 | 737 | native_american_plains | [Traditions of the Arikara](../texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md) |
 | `dense_draft` | 135 | 135 | 835 | slavic | [Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore](../texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md) |
 | `dense_draft` | 134 | 134 | 477 | arctic_inuit | [The Labrador Eskimo](../texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md) |
 | `dense_draft` | 133 | 133 | 488 |  | [vinaya-texts-part1](../texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md) |
+| `dense_draft` | 133 | 133 | 617 | tibetan_buddhist | [The Tibetan Book of the Dead](../texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md) |
 | `dense_draft` | 131 | 131 | 464 | micronesian | [The Caroline Islands: Travel in the Sea of the Little Lands](../texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md) |
 | `dense_draft` | 129 | 129 | 652 | germanic | [The Nibelungenlied](../texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md) |
 | `dense_draft` | 128 | 128 | 529 | inuit | [The Central Eskimo](../texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md) |
 | `dense_draft` | 125 | 125 | 682 | egyptian | [The Literature of the Ancient Egyptians](../texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md) |
+| `dense_draft` | 123 | 123 | 668 | tongan | [Tongan Myths and Tales](../texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md) |
+| `dense_draft` | 123 | 123 | 531 | xhosa | [Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony](../texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md) |
 | `dense_draft` | 122 | 122 | 507 |  | [vinaya-texts-part2](../texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md) |
 | `dense_draft` | 122 | 120 | 637 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | `dense_draft` | 121 | 121 | 603 |  | [shans-at-home-milne](../texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md) |
@@ -264,6 +250,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 117 | 117 | 669 | roman | [Fasti](../texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md) |
 | `dense_draft` | 115 | 115 | 421 |  | [questions-of-king-milinda-part1](../texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md) |
 | `dense_draft` | 115 | 115 | 651 | celtic | [The Mabinogion](../texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md) |
+| `dense_draft` | 115 | 115 | 430 | san | [Specimens of Bushman Folklore](../texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md) |
 | `dense_draft` | 114 | 114 | 472 | sufi | [The Persian Mystics: Jalálu'd-dín Rúmí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md) |
 | `dense_draft` | 113 | 113 | 664 | basque | [Basque Legends](../texts/public-domain/basque/project-gutenberg/basque-legends-webster.md) |
 | `dense_draft` | 113 | 113 | 580 | celtic_irish | [The Voyage of Bran, Son of Febal, to the Land of the Living](../texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md) |
@@ -278,12 +265,17 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 103 | 102 | 520 | sufi | [The Mystics of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-of-islam-nicholson.md) |
 | `dense_draft` | 102 | 102 | 491 | norse | [The Saga of Grettir the Strong: Grettir's Saga](../texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md) |
 | `dense_draft` | 101 | 101 | 468 | roman | [On the Nature of Things](../texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md) |
+| `dense_draft` | 98 | 98 | 603 | native_american_plateau | [Traditions of the Thompson River Indians of British Columbia](../texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md) |
+| `dense_draft` | 98 | 98 | 583 | slavic | [The Epic Songs of Russia](../texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md) |
 | `dense_draft` | 98 | 98 | 364 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
+| `dense_draft` | 97 | 97 | 656 | native_american_plains | [The Assiniboine](../texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md) |
 | `dense_draft` | 95 | 95 | 475 | hawaiian | [Hawaiian Folk Tales: A Collection of Native Legends](../texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md) |
 | `dense_draft` | 93 | 93 | 476 | celtic | [Celtic Fairy Tales](../texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md) |
 | `dense_draft` | 92 | 92 | 309 | greek | [The Bacchae of Euripides](../texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md) |
+| `dense_draft` | 92 | 92 | 541 | native_american_plains | [Traditions of the Caddo](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md) |
 | `dense_draft` | 88 | 88 | 266 | micronesian | [The Island of Stone Money: Uap of the Carolines](../texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md) |
 | `dense_draft` | 86 | 86 | 411 | greek | [Phaedrus](../texts/public-domain/greek/project-gutenberg/phaedrus-jowett.md) |
+| `dense_draft` | 86 | 86 | 468 | yoruba | [The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc.](../texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md) |
 | `dense_draft` | 83 | 83 | 385 | arctic_inuit | [Across Arctic America: Narrative of the Fifth Thule Expedition](../texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md) |
 | `dense_draft` | 83 | 83 | 296 | hindu | [The Upanishads, Part I (Sacred Books of the East, Vol. 1)](../texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md) |
 | `dense_draft` | 79 | 79 | 458 | egyptian | [Legends of the Gods: The Egyptian Texts, edited with Translations](../texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md) |
@@ -295,6 +287,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 74 | 74 | 360 | greek | [Symposium](../texts/public-domain/greek/project-gutenberg/symposium-jowett.md) |
 | `dense_draft` | 74 | 74 | 354 | guiana_amerindian | [Legends and Myths of the Aboriginal Indians of British Guiana](../texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md) |
 | `dense_draft` | 74 | 74 | 393 | native_american_southwest | [Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona](../texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md) |
+| `dense_draft` | 74 | 74 | 463 | siberian | [Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia](../texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md) |
 | `dense_draft` | 73 | 73 | 388 | celtic | [More Celtic Fairy Tales](../texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md) |
 | `dense_draft` | 73 | 73 | 332 | temne | [Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales](../texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md) |
 | `dense_draft` | 72 | 70 | 369 | indigenous_australian | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/indigenous-australian/project-gutenberg/australian-legendary-tales-parker.md) |
@@ -302,14 +295,18 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 70 | 70 | 363 | inuit | [Eskimo Folk-Tales](../texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md) |
 | `dense_draft` | 70 | 70 | 424 | slavic | [Fairy Tales of the Slav Peasants and Herdsmen](../texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md) |
 | `dense_draft` | 69 | 69 | 383 | georgian | [Georgian Folk Tales](../texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md) |
+| `dense_draft` | 69 | 69 | 394 | native_american_plateau | [Wishram Texts](../texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md) |
 | `dense_draft` | 68 | 68 | 249 | buddhist | [The Giant Crab, and Other Tales from Old India](../texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md) |
+| `dense_draft` | 68 | 68 | 340 | tibetan_buddhist | [Antiquities of Indian Tibet, Part 1](../texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md) |
 | `dense_draft` | 64 | 64 | 417 | greek | [The Argonautica](../texts/public-domain/greek/project-gutenberg/argonautica-seaton.md) |
 | `dense_draft` | 64 | 64 | 350 | greek | [The Homeric Hymns](../texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md) |
 | `dense_draft` | 63 | 63 | 380 | arctic_inuit | [The Eskimo of Baffin Land and Hudson Bay, Part II](../texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md) |
 | `dense_draft` | 63 | 63 | 327 | germanic | [Beowulf: An Anglo-Saxon Epic Poem](../texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md) |
 | `dense_draft` | 62 | 62 | 339 | norse | [The Younger Edda; Also called Snorre's Edda, or The Prose Edda](../texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md) |
+| `dense_draft` | 62 | 62 | 272 | vietnamese | [Stories and Legends of Annam](../texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md) |
 | `dense_draft` | 61 | 61 | 354 | romanian | [Roumanian Fairy Tales](../texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md) |
 | `dense_draft` | 60 | 60 | 257 | egyptian | [The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat](../texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md) |
+| `dense_draft` | 60 | 60 | 405 | siberian | [Chukchee Mythology](../texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md) |
 | `dense_draft` | 59 | 59 | 322 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md) |
 | `dense_draft` | 57 | 52 | 320 | jewish_christian | [Genesis](../texts/public-domain/biblical/world-english-bible-classic/genesis.md) |
 | `dense_draft` | 56 | 56 | 331 | australian_aboriginal | [The Euahlayi Tribe: A Study of Aboriginal Life in Australia](../texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md) |
@@ -338,6 +335,7 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 40 | 40 | 230 | biblical | [The Bible, King James Version, Book 26: Ezekiel](../texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md) |
 | `dense_draft` | 39 | 37 | 178 | confucian | [The Sayings of Confucius](../texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md) |
 | `dense_draft` | 39 | 39 | 175 | guiana_amerindian | [The Central Caribs](../texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md) |
+| `dense_draft` | 39 | 39 | 147 | native_american_southwest | [Tusayan Migration Traditions](../texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md) |
 | `dense_draft` | 36 | 36 | 231 | greek | [The House of Atreus; Being the Agamemnon, the Libation Bearers, and the Furies](../texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md) |
 | `dense_draft` | 35 | 35 | 188 | australian_aboriginal | [Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies](../texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md) |
 | `dense_draft` | 35 | 35 | 156 | buddhist | [The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita](../texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md) |
@@ -362,10 +360,12 @@ The target is intentionally rough: about one extraction record per 4,000 words, 
 | `dense_draft` | 21 | 21 | 122 | biblical | [The Bible, King James Version, Book 18: Job](../texts/public-domain/biblical/project-gutenberg/job-kjv.md) |
 | `dense_draft` | 21 | 21 | 111 | nahua | [Rig Veda Americanus: Sacred Songs of the Ancient Mexicans](../texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md) |
 | `dense_draft` | 17 | 15 | 87 | egyptian | [The Book of the Dead](../texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md) |
+| `dense_draft` | 16 | 16 | 93 | siberian | [Koryak Texts](../texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md) |
 | `dense_draft` | 13 | 13 | 79 | biblical | [The Bible, King James Version, Book 27: Daniel](../texts/public-domain/biblical/project-gutenberg/daniel-kjv.md) |
 | `dense_draft` | 13 | 11 | 83 | daoist | [The Tao Teh King, or the Tao and its Characteristics](../texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md) |
 | `dense_draft` | 12 | 12 | 72 | biblical | [The Bible, Douay-Rheims, Book 25: Wisdom](../texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md) |
 | `dense_draft` | 12 | 12 | 102 | biblical | [The Bible, King James Version, Book 66: Revelation](../texts/public-domain/biblical/project-gutenberg/revelation-kjv.md) |
+| `dense_draft` | 12 | 12 | 72 | sufi | [Bird Parliament](../texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md) |
 | `dense_draft` | 8 | 8 | 47 | christian | [Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles](../texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md) |
 | `thin` | 4 | 4 | 0 | mesopotamian | [The Religion of Babylonia and Assyria](../texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md) |
 | `dense_draft` | 2 | 2 | 12 | hindu | [Sri Vishnu Sahasranaamam](../texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md) |
@@ -407,8 +407,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | --- | --- | ---: | ---: | ---: | --- | --- |
 | high | `no extractions` | 0 | 28 | 0 | hindu | [The Upanishads, Part II (Sacred Books of the East, Vol. 15)](../texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md) |
 | high | `no extractions` | 0 | 40 | 0 | inca | [First Part of the Royal Commentaries of the Yncas, Vol. II](../texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md) |
-| high | `no extractions` | 0 | 15 | 0 | inca | [Narratives of the Rites and Laws of the Yncas](../texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md) |
 | high | `no extractions` | 0 | 18 | 0 | inca | [Narratives of the Rites and Laws of the Yncas](../texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md) |
+| high | `no extractions` | 0 | 15 | 0 | inca | [Narratives of the Rites and Laws of the Yncas](../texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md) |
 | high | `no extractions` | 0 | 40 | 0 | inuit | [Tales and Traditions of the Eskimo](../texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md) |
 | high | `no extractions` | 0 | 26 | 0 | jain | [Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books of the East, Vol. 22)](../texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md) |
 | high | `no extractions` | 0 | 35 | 0 | jain | [Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred Books of the East, Vol. 45)](../texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md) |
@@ -445,48 +445,7 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | high | `no extractions` | 0 | 27 | 0 | native_american_plains | [Blackfoot Lodge Tales](../texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md) |
 | high | `no extractions` | 0 | 12 | 0 | native_american_plains | [Gros Ventre Myths and Tales](../texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md) |
 | high | `no extractions` | 0 | 40 | 0 | native_american_plains | [Mythology of the Blackfoot Indians](../texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md) |
-| high | `no extractions` | 0 | 32 | 0 | native_american_plains | [The Assiniboine](../texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md) |
-| high | `no extractions` | 0 | 40 | 0 | native_american_plains | [The Omaha Tribe](../texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md) |
 | high | `no extractions` | 0 | 40 | 0 | native_american_plains | [The Pawnee - Mythology (Part I)](../texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md) |
-| high | `no extractions` | 0 | 40 | 0 | native_american_plains | [Traditions of the Arapaho](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md) |
-| high | `no extractions` | 0 | 19 | 0 | native_american_plains | [Traditions of the Caddo](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md) |
-| high | `no extractions` | 0 | 40 | 0 | native_american_plains | [Traditions of the Skidi Pawnee](../texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md) |
-| high | `no extractions` | 0 | 36 | 0 | native_american_plateau | [Myths of the Modocs](../texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md) |
-| high | `no extractions` | 0 | 18 | 0 | native_american_plateau | [Traditions of the Thompson River Indians of British Columbia](../texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md) |
-| high | `no extractions` | 0 | 18 | 0 | native_american_plateau | [Wishram Texts](../texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md) |
-| high | `no extractions` | 0 | 40 | 0 | native_american_southwest | [The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies](../texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md) |
-| high | `no extractions` | 0 | 5 | 0 | native_american_southwest | [Tusayan Migration Traditions](../texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md) |
-| high | `no extractions` | 0 | 40 | 0 | norse | [Corpus Poeticum Boreale, Volume 1](../texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md) |
-| high | `no extractions` | 0 | 33 | 0 | oceanic | [Oceanic Mythology](../texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md) |
-| high | `no extractions` | 0 | 28 | 0 | persian | [The Shahnama of Firdausi, Vol. I](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md) |
-| high | `no extractions` | 0 | 30 | 0 | persian | [The Shahnama of Firdausi, Vol. II](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md) |
-| high | `no extractions` | 0 | 14 | 0 | roman | [The Mysteries of Mithra](../texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md) |
-| high | `no extractions` | 0 | 21 | 0 | san | [Specimens of Bushman Folklore](../texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md) |
-| high | `no extractions` | 0 | 39 | 0 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md) |
-| high | `no extractions` | 0 | 40 | 0 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md) |
-| high | `no extractions` | 0 | 35 | 0 | siberian | [Aboriginal Siberia - A Study in Social Anthropology](../texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md) |
-| high | `no extractions` | 0 | 16 | 0 | siberian | [Chukchee Mythology](../texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md) |
-| high | `no extractions` | 0 | 4 | 0 | siberian | [Koryak Texts](../texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md) |
-| high | `no extractions` | 0 | 18 | 0 | siberian | [Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia](../texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md) |
-| high | `no extractions` | 0 | 36 | 0 | sikh | [The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1](../texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md) |
-| high | `no extractions` | 0 | 21 | 0 | slavic | [The Epic Songs of Russia](../texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md) |
-| high | `no extractions` | 0 | 3 | 0 | sufi | [Bird Parliament](../texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md) |
-| high | `no extractions` | 0 | 28 | 0 | sufi | [Masnavi i Ma'navi: Teachings of Rumi](../texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md) |
-| high | `no extractions` | 0 | 31 | 0 | taoist | [Chuang Tzŭ: Mystic, Moralist, and Social Reformer](../texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md) |
-| high | `no extractions` | 0 | 34 | 0 | taoist | [The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md) |
-| high | `no extractions` | 0 | 29 | 0 | taoist | [The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md) |
-| high | `no extractions` | 0 | 17 | 0 | tibetan_buddhist | [Antiquities of Indian Tibet, Part 1](../texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md) |
-| high | `no extractions` | 0 | 40 | 0 | tibetan_buddhist | [The Buddhism of Tibet, or Lamaism](../texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md) |
-| high | `no extractions` | 0 | 25 | 0 | tibetan_buddhist | [The Tibetan Book of the Dead](../texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md) |
-| high | `no extractions` | 0 | 23 | 0 | tongan | [Tongan Myths and Tales](../texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md) |
-| high | `no extractions` | 0 | 10 | 0 | vietnamese | [Stories and Legends of Annam](../texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md) |
-| high | `no extractions` | 0 | 13 | 0 | xhosa | [Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony](../texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md) |
-| high | `no extractions` | 0 | 20 | 0 | yoruba | [The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc.](../texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md) |
-| high | `no extractions` | 0 | 40 | 0 | zoroastrian | [Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast](../texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md) |
-| high | `no extractions` | 0 | 28 | 0 | zoroastrian | [The Zend-Avesta, Part I: The Vendidad](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md) |
-| high | `no extractions` | 0 | 25 | 0 | zoroastrian | [The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md) |
-| high | `no extractions` | 0 | 36 | 0 | zoroastrian | [The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md) |
-| high | `no extractions` | 0 | 35 | 0 | zulu | [Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words](../texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md) |
 | high | `thin` | 1 | 2 | 1 | hindu | [A Prose English Translation of Vishnupuranam](../texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md) |
 | high | `thin` | 4 | 2 | 4 | mesopotamian | [The Religion of Babylonia and Assyria](../texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md) |
 | medium | `developing` | 1 | 2 | 1 | confucian | [論語](../texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md) |
@@ -641,8 +600,8 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 248 | 39 | 248 | hermetic | [Thrice-Greatest Hermes, Vol. I: Prolegomena](../texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md) |
 | medium | `dense draft` | 195 | 26 | 195 | hermetic | [Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)](../texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md) |
 | medium | `dense draft` | 52 | 12 | 52 | hindu | [Hindu Philosophy: The Sankhya Karika of Iswara Krishna](../texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md) |
-| medium | `dense draft` | 122 | 13 | 122 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | medium | `dense draft` | 59 | 13 | 59 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md) |
+| medium | `dense draft` | 122 | 13 | 122 | hindu | [Maha-bharata](../texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md) |
 | medium | `dense draft` | 2 | 2 | 2 | hindu | [Sri Vishnu Sahasranaamam](../texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md) |
 | medium | `dense draft` | 724 | 40 | 724 | hindu | [The Hymns of the Rigveda, Complete 2 Volumes](../texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md) |
 | medium | `dense draft` | 549 | 40 | 549 | hindu | [The Laws of Manu (Sacred Books of the East, Vol. 25)](../texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md) |
@@ -700,14 +659,25 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 167 | 40 | 167 | native_american_northwest_coast | [Tsimshian Mythology](../texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md) |
 | medium | `dense draft` | 308 | 40 | 308 | native_american_plains | [Myths and Traditions of the Crow Indians](../texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md) |
 | medium | `dense draft` | 346 | 40 | 346 | native_american_plains | [Teton Sioux Music](../texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md) |
+| medium | `dense draft` | 97 | 32 | 97 | native_american_plains | [The Assiniboine](../texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md) |
+| medium | `dense draft` | 574 | 40 | 574 | native_american_plains | [The Omaha Tribe](../texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md) |
+| medium | `dense draft` | 294 | 40 | 294 | native_american_plains | [Traditions of the Arapaho](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md) |
 | medium | `dense draft` | 135 | 25 | 135 | native_american_plains | [Traditions of the Arikara](../texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md) |
+| medium | `dense draft` | 92 | 19 | 92 | native_american_plains | [Traditions of the Caddo](../texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md) |
+| medium | `dense draft` | 186 | 40 | 186 | native_american_plains | [Traditions of the Skidi Pawnee](../texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md) |
+| medium | `dense draft` | 237 | 36 | 237 | native_american_plateau | [Myths of the Modocs](../texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md) |
+| medium | `dense draft` | 98 | 18 | 98 | native_american_plateau | [Traditions of the Thompson River Indians of British Columbia](../texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md) |
+| medium | `dense draft` | 69 | 18 | 69 | native_american_plateau | [Wishram Texts](../texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md) |
 | medium | `dense draft` | 323 | 40 | 323 | native_american_southeast | [Myths of the Cherokee](../texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md) |
 | medium | `dense draft` | 74 | 15 | 74 | native_american_southwest | [Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona](../texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md) |
 | medium | `dense draft` | 43 | 10 | 43 | native_american_southwest | [Jicarilla Apache Texts](../texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md) |
 | medium | `dense draft` | 50 | 11 | 50 | native_american_southwest | [The Mountain Chant: A Navajo Ceremony](../texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md) |
 | medium | `dense draft` | 168 | 30 | 168 | native_american_southwest | [The Pima Indians](../texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md) |
 | medium | `dense draft` | 293 | 40 | 293 | native_american_southwest | [The Sia](../texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md) |
+| medium | `dense draft` | 384 | 40 | 384 | native_american_southwest | [The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies](../texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md) |
+| medium | `dense draft` | 39 | 5 | 39 | native_american_southwest | [Tusayan Migration Traditions](../texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md) |
 | medium | `dense draft` | 152 | 33 | 152 | navajo | [Navaho Legends](../texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md) |
+| medium | `dense draft` | 238 | 40 | 238 | norse | [Corpus Poeticum Boreale, Volume 1](../texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md) |
 | medium | `dense draft` | 323 | 40 | 323 | norse | [Heimskringla; Or, The Chronicle of the Kings of Norway](../texts/public-domain/norse/project-gutenberg/heimskringla-laing.md) |
 | medium | `dense draft` | 121 | 19 | 121 | norse | [Laxdaela Saga](../texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md) |
 | medium | `dense draft` | 226 | 26 | 226 | norse | [Myths of the Norsemen: From the Eddas and Sagas](../texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md) |
@@ -716,8 +686,11 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 209 | 36 | 209 | norse | [The Story of Burnt Njal: From the Icelandic of the Njals Saga](../texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md) |
 | medium | `dense draft` | 72 | 15 | 72 | norse | [The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda](../texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md) |
 | medium | `dense draft` | 62 | 12 | 62 | norse | [The Younger Edda; Also called Snorre's Edda, or The Prose Edda](../texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md) |
+| medium | `dense draft` | 179 | 33 | 179 | oceanic | [Oceanic Mythology](../texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md) |
 | medium | `dense draft` | 189 | 36 | 189 | persian | [Persian Literature, Volume 1](../texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md) |
 | medium | `dense draft` | 160 | 11 | 160 | persian | [The Persian Literature, Volume 2, The Gulistan](../texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md) |
+| medium | `dense draft` | 152 | 28 | 152 | persian | [The Shahnama of Firdausi, Vol. I](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md) |
+| medium | `dense draft` | 153 | 30 | 153 | persian | [The Shahnama of Firdausi, Vol. II](../texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md) |
 | medium | `dense draft` | 75 | 16 | 75 | roman | [Aeneidos](../texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md) |
 | medium | `dense draft` | 117 | 25 | 117 | roman | [Fasti](../texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md) |
 | medium | `dense draft` | 101 | 19 | 101 | roman | [On the Nature of Things](../texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md) |
@@ -726,12 +699,24 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 105 | 21 | 105 | roman | [The Golden Asse](../texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md) |
 | medium | `dense draft` | 334 | 31 | 334 | roman | [The Metamorphoses of Ovid, Books I-VII](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md) |
 | medium | `dense draft` | 345 | 35 | 345 | roman | [The Metamorphoses of Ovid, Books VIII-XV](../texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md) |
+| medium | `dense draft` | 151 | 14 | 151 | roman | [The Mysteries of Mithra](../texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md) |
 | medium | `dense draft` | 61 | 16 | 61 | romanian | [Roumanian Fairy Tales](../texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md) |
 | medium | `dense draft` | 78 | 16 | 78 | samoan | [Samoa, A Hundred Years Ago And Long Before](../texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md) |
+| medium | `dense draft` | 115 | 21 | 115 | san | [Specimens of Bushman Folklore](../texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md) |
+| medium | `dense draft` | 267 | 39 | 267 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md) |
+| medium | `dense draft` | 276 | 40 | 276 | shinto | [Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2](../texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md) |
+| medium | `dense draft` | 173 | 35 | 173 | siberian | [Aboriginal Siberia - A Study in Social Anthropology](../texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md) |
+| medium | `dense draft` | 60 | 16 | 60 | siberian | [Chukchee Mythology](../texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md) |
+| medium | `dense draft` | 16 | 4 | 16 | siberian | [Koryak Texts](../texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md) |
+| medium | `dense draft` | 74 | 18 | 74 | siberian | [Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia](../texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md) |
+| medium | `dense draft` | 169 | 36 | 169 | sikh | [The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1](../texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md) |
 | medium | `dense draft` | 70 | 16 | 70 | slavic | [Fairy Tales of the Slav Peasants and Herdsmen](../texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md) |
 | medium | `dense draft` | 143 | 35 | 143 | slavic | [Myths and Folk-tales of the Russians, Western Slavs, and Magyars](../texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md) |
 | medium | `dense draft` | 135 | 33 | 135 | slavic | [Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore](../texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md) |
 | medium | `dense draft` | 151 | 27 | 151 | slavic | [Sixty Folk-Tales from Exclusively Slavonic Sources](../texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md) |
+| medium | `dense draft` | 98 | 21 | 98 | slavic | [The Epic Songs of Russia](../texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md) |
+| medium | `dense draft` | 12 | 3 | 12 | sufi | [Bird Parliament](../texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md) |
+| medium | `dense draft` | 138 | 28 | 138 | sufi | [Masnavi i Ma'navi: Teachings of Rumi](../texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md) |
 | medium | `dense draft` | 145 | 15 | 145 | sufi | [Mystics and Saints of Islam](../texts/public-domain/sufi/project-gutenberg/mystics-and-saints-of-islam-field.md) |
 | medium | `dense draft` | 103 | 9 | 103 | sufi | [Poems from the Divan of Hafiz](../texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md) |
 | medium | `dense draft` | 47 | 4 | 47 | sufi | [The Confessions of Al Ghazzali](../texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md) |
@@ -741,5 +726,20 @@ ruby scripts/batch_prepare_motif_requests.rb \
 | medium | `dense draft` | 98 | 4 | 98 | sufi | [The Persian Mystics: Jámí](../texts/public-domain/sufi/project-gutenberg/persian-mystics-jami-davis.md) |
 | medium | `dense draft` | 24 | 3 | 24 | sufi | [The Sufism of the Rubáiyát, or, the Secret of the Great Paradox](../texts/public-domain/sufi/project-gutenberg/sufism-of-rubaiyat-hazeldine.md) |
 | medium | `dense draft` | 305 | 22 | 305 | sufi | [The Sufistic Quatrains of Omar Khayyam](../texts/public-domain/sufi/project-gutenberg/sufistic-quatrains-omar-khayyam.md) |
+| medium | `dense draft` | 151 | 31 | 151 | taoist | [Chuang Tzŭ: Mystic, Moralist, and Social Reformer](../texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md) |
+| medium | `dense draft` | 222 | 34 | 222 | taoist | [The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md) |
+| medium | `dense draft` | 193 | 29 | 193 | taoist | [The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40)](../texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md) |
 | medium | `dense draft` | 73 | 15 | 73 | temne | [Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales](../texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md) |
+| medium | `dense draft` | 68 | 17 | 68 | tibetan_buddhist | [Antiquities of Indian Tibet, Part 1](../texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md) |
+| medium | `dense draft` | 358 | 40 | 358 | tibetan_buddhist | [The Buddhism of Tibet, or Lamaism](../texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md) |
+| medium | `dense draft` | 133 | 25 | 133 | tibetan_buddhist | [The Tibetan Book of the Dead](../texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md) |
+| medium | `dense draft` | 123 | 23 | 123 | tongan | [Tongan Myths and Tales](../texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md) |
+| medium | `dense draft` | 62 | 10 | 62 | vietnamese | [Stories and Legends of Annam](../texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md) |
+| medium | `dense draft` | 123 | 13 | 123 | xhosa | [Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony](../texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md) |
+| medium | `dense draft` | 86 | 20 | 86 | yoruba | [The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc.](../texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md) |
+| medium | `dense draft` | 275 | 40 | 275 | zoroastrian | [Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast](../texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md) |
+| medium | `dense draft` | 186 | 28 | 186 | zoroastrian | [The Zend-Avesta, Part I: The Vendidad](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md) |
+| medium | `dense draft` | 188 | 25 | 188 | zoroastrian | [The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md) |
+| medium | `dense draft` | 273 | 36 | 273 | zoroastrian | [The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments](../texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md) |
+| medium | `dense draft` | 265 | 35 | 265 | zulu | [Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words](../texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md) |
 | medium | `dense draft` | 137 | 32 | 137 | zuni | [Zuni Folk Tales](../texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md) |

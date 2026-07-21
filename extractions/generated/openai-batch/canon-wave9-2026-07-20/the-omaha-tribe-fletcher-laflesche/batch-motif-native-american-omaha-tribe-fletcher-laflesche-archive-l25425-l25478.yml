@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l25425-l25478
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / SOCIAL   LIFE / INSTRUMENTS / THE    OMAHA   TRIBE;
+    lines 25425-25478
+  start: '25425'
+  end: '25478'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Omaha flute or flageolet and two kinds of rattles.
+    It notes that a flute failing to produce the desired vibratory tone would be set
+    aside. It then describes the deer-hoof rattle and the gourd rattle, including
+    their construction, sound-producing materials, symbolic painting, and use in ceremonies,
+    rites, societies, and by persons called doctors.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A flute stop piece could be readjusted, but if repeated trials failed to produce
+    the desired vibratory tone, the flute would be laid aside and the man would not
+    play a tune on it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The nicude tunga had a compass of an octave, and its intervals did not correspond
+    exactly to the diatonic scale.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: 'Two rattles are named: tasha''ge, translated as deer hoofs, and pe''xe, translated
+    as gourd rattle.'
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The tasha'ge was made by fastening deer hoofs with thongs in a cluster to
+    the sides of a beaded stick about 8 to 10 inches long, with a handle ornamented
+    by a long tassel of buckskin thongs.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The pe'xe was made from a cleaned and smoothed gourd containing fine gravel
+    or beads, with a stick passed through the gourd and a buckskin-bound handle.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The pe'xe was symbolically painted and used in the Wa'wan ceremony.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The pe'xe was also used in the Wate'giytu rite when war honors were conferred.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The Shell and Pebble societies and the doctors used the pe'xe kind of rattle.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: unnamed flute player
+  description: A man who would not take up and play the flute if it failed after several
+    trials to give the desired vibratory tone.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Shell and Pebble societies
+  description: Societies identified as users of the gourd rattle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: doctors
+  description: Persons called doctors who used the gourd rattle.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: flute player
+  assigned_to:
+  - fig:1
+  basis: The passage says no words would make the man take up the flute and play a
+    tune after the instrument failed to give the desired tone.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: gourd-rattle users
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage states that the Shell and Pebble societies and the doctors used
+    the pe'xe kind of rattle.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: symbolically painted gourd rattle
+  literal_form: pe'xe, a gourd rattle made from a cleaned gourd with fine gravel or
+    beads inside and a buckskin-bound handle; it was symbolically painted.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Testing and rejection of the flute
+  summary: A flute's stop piece is adjusted in attempts to obtain a vibratory tone;
+    if the instrument repeatedly fails, it is set aside and not played.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Description of rattle construction
+  summary: The passage distinguishes a deer-hoof rattle and a gourd rattle, then describes
+    how each is made and fitted for sound production.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Ceremonial and society use of the gourd rattle
+  summary: The symbolically painted gourd rattle is used in the Wa'wan ceremony, in
+    the Wate'giytu rite when war honors are conferred, and by the Shell and Pebble
+    societies and doctors.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: symbolically painted rattle as ritual implement
+  taxonomy_refs: []
+  basis: The gourd rattle is explicitly described as symbolically painted and as used
+    in the Wa'wan ceremony, the Wate'giytu rite, by the Shell and Pebble societies,
+    and by doctors.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage describes an ethnographic object and its use, but does not
+    explain the symbolic meaning of the painting or narrate a mythic episode.
+- id: motif:2
+  label: rattle used in conferral of war honors
+  taxonomy_refs: []
+  basis: The passage states that the gourd rattle was used in the Wate'giytu rite
+    when war honors were conferred.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The rite is only named and briefly characterized; the passage does not
+    provide ritual sequence or symbolic interpretation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 25425-25436
+  quote_or_summary: If readjustment of the flute stop piece failed after several trials
+    to produce a vibratory tone, the flute would be laid aside and the man would not
+    play it; the nicude tunga had an octave compass and intervals not exactly matching
+    the diatonic scale.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: 25437-25440
+  quote_or_summary: "“Two kinds of rattles were used: the tasha'ge, literally ‘deer
+    hoofs’ ... and the pe'xe, ‘gourd rattle’.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: summary
+  locator: 25440-25448
+  quote_or_summary: The tasha'ge was made by fastening deer hoofs with thongs in a
+    cluster to a beaded stick about 8 to 10 inches long, with a handle ornamented
+    by a long buckskin-thong tassel.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 25448-25466
+  quote_or_summary: The pe'xe was made from a carefully emptied and smoothed gourd
+    so that fine gravel or beads could contact the inside clearly; a stick passed
+    through the gourd, protruded at the top, and formed a buckskin-bound handle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 25466-25472
+  quote_or_summary: The gourd rattle was symbolically painted and used in the Wa'wan
+    ceremony and in the Wate'giytu rite when war honors were conferred.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 25472-25473
+  quote_or_summary: The Shell and Pebble societies and the doctors used this kind
+    of rattle.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The instrument descriptions and named uses are explicit. Motif candidates
+    are limited because the passage gives little interpretive or narrative context.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no taxonomy motif family was assigned because the available list is not directly supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l25425-l25478
+  passage_sha256=7a685efcac674f7fb075d5c001d634ee07adca6f73877374bbc3010b9ff8d6e0
+

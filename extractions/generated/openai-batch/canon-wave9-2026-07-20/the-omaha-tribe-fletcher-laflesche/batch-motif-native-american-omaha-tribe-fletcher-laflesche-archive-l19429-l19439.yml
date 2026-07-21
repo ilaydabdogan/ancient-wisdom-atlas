@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l19429-l19439
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: FIRST  SONG / THE    QUEST    OF    FOOD / SECOND  SONG / THE    OMAHA   TRIBE;
+    lines 19429-19439
+  start: '19429'
+  end: '19439'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“I go to the lowing herds to bring back the product of the hunt”"
+  summary: The passage glosses Omaha song words as referring to going toward lowing
+    herds in order to bring back the product of a hunt, and identifies another word
+    as the bellowing of bulls.
+  language: English with Omaha lexical terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The word “Huton” is glossed as the noise of animals, such as the lowing of
+    herds.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explained meaning of the first line is that a speaker goes to the lowing
+    herds to bring back the product of the hunt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The word “Xthazhe” is glossed as the bellowing of bulls.
+  category: speech
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: implied first-person speaker
+  description: An implied “I” in the song line who goes to the lowing herds to bring
+    back the product of the hunt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: lowing herds
+  description: Animal herds characterized by their lowing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: bulls
+  description: Bulls characterized by their bellowing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: food-seeking hunter or gatherer of game
+  assigned_to:
+  - fig:1
+  basis: The speaker says he goes to the herds to bring back the product of the hunt.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: hunted or sought animals
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage refers to lowing herds and bellowing bulls in the context of
+    bringing back the product of the hunt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Going to the herds for the hunt
+  summary: A song line is explained as a first-person statement of going to lowing
+    herds to bring back the product of a hunt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sound of bulls
+  summary: A separate gloss identifies a term as the bellowing of bulls.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: quest for food through hunting
+  taxonomy_refs: []
+  basis: The passage locator names a “Quest of Food,” and the glossed song line states
+    that the speaker goes to the lowing herds to bring back the product of the hunt.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage is a brief lexical and song gloss, so the motif is limited
+    to the stated food-seeking hunting action and should not be expanded into a full
+    narrative quest.
+- id: motif:2
+  label: animal sound as sign of game
+  taxonomy_refs: []
+  basis: The passage centers on words for the lowing of herds and the bellowing of
+    bulls, connected with going to obtain the product of the hunt.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage glosses sounds rather than explicitly saying they guide the
+    hunter; the sign function is only weakly implied by going to the lowing herds.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 19429-19435
+  quote_or_summary: "“I go to the lowing herds to bring back the product of the hunt,”
+    given as the meaning of the line after glossing “Huton” as animal noise and lowing
+    herds."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: line 19437
+  quote_or_summary: "“Xthazhe, the bellowing of the bulls.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: citation
+  locator: line 19439
+  quote_or_summary: Citation line names Fletcher-La Flesche.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif identification is cautious because
+    the passage is a brief gloss of song language rather than a complete narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol refs were assigned because the available symbol list does not include herd, bull, hunt, or animal sound. No comparison claims were made because the passage does not itself support cross-tradition comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l19429-l19439
+  passage_sha256=f1c0f53e35ee2d06d7c00e31d82a87d3983f5e42cba7c6a43dc5b78bb5d523f1
+

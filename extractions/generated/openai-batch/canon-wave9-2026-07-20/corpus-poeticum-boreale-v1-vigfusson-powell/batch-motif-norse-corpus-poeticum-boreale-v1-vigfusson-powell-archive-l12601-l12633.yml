@@ -1,0 +1,313 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l12601-l12633
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: IV. PRAYER. / APPENDIX. / BOOK IV. / EARLY HISTORIC POEMS.; lines 12601-12633
+  start: '12601'
+  end: '12633'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An editorial introduction to Book IV, Early Historic Poems, describes the
+    book as containing tenth-century poems, summarizes five sections, and notes that
+    the first section contains a poem about one of Thor’s adventures.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Book IV is titled “Early Historic Poems.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The poems in the book are described as mostly the work of tenth-century poets,
+    approximately from 900 to 985, with one exception in the last section.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The editorial passage says the poems share a common historical interest and
+    are influenced by Western Epics of the Third Book and oldest Epics of the First
+    Book.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Section 1 is said to contain one poem that is not historical in subject but
+    relates one of Thor’s adventures.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Section 2 is said to gather genealogical poems, including Western poems, a
+    Norwegian poem, and an imitation by a Northern court-poet.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Section 3 is said to contain early excomia on kings and dirges connected with
+    Harold Fairhair, Eric Bloodax, and Hakon, Athelstan’s foster-son.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: 'Section 4 is said to contain three contemporary poems by Egil: Head Ransom,
+    Arinbiorn’s Lay, and the Sons’ Wreck.'
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: Section 5 is said to contain the Dart Lay, composed after 1014 by an unknown
+    Western poet, probably in honor of Sigtrygg Silkbeard, king of Dublin.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Thor
+  description: A figure whose adventure is the subject of the poem in Section 1.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Hornklofi
+  description: Named as the poet of Praise of Harold Fairhair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:3
+  name_or_label: Harold Fairhair
+  description: A king who is the subject of Hornklofi’s Praise.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:4
+  name_or_label: Eric Bloodax
+  description: Described as the eldest son in connection with a dirge by an unknown
+    Western poet.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Eywind
+  description: Named as the maker of an imitation in a dirge on Hakon, Athelstan’s
+    foster-son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: Hakon, Athelstan’s foster-son
+  description: Described as the youngest son and the subject of Eywind’s dirge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Egil
+  description: Described as the first Iceland-born poet and author of Head Ransom,
+    Arinbiorn’s Lay, and the Sons’ Wreck.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Sigtrygg Silkbeard
+  description: Described as king of Dublin and probable honoree of the Dart Lay.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:8
+roles:
+- id: role:1
+  label: adventure subject
+  assigned_to:
+  - fig:1
+  basis: The passage says Section 1 relates one of Thor’s adventures.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: poet
+  assigned_to:
+  - fig:2
+  - fig:5
+  - fig:7
+  basis: These named figures are described as poets or as responsible for specific
+    poems.
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: role:3
+  label: royal subject or honoree
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:8
+  basis: The passage identifies these figures as kings, sons, foster-son, or royal
+    honoree connected with praise or dirge poems.
+  evidence_refs:
+  - ev:6
+  - ev:8
+symbols: []
+scenes:
+- id: scene:1
+  label: Editorial overview of Book IV
+  summary: The passage introduces Book IV as a collection of early historic poems
+    and describes the approximate dates, influences, and shared historical interest
+    of the poems.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Section summaries
+  summary: 'The passage summarizes five sections: Thor’s adventure poem, genealogical
+    poems, royal excomia and dirges, Egil’s three poems, and the Dart Lay in probable
+    honor of Sigtrygg Silkbeard.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Thor adventure poem
+  taxonomy_refs: []
+  basis: The passage explicitly says Section 1 contains a poem that relates one of
+    Thor’s adventures.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No details of the adventure are included in this passage, so no specific
+    action-pattern or mythic episode can be extracted.
+- id: motif:2
+  label: Royal praise and commemoration poems
+  taxonomy_refs: []
+  basis: The passage lists praise poems, dirges on royal figures, and a poem probably
+    composed in honor of Sigtrygg Silkbeard, king of Dublin.
+  evidence_refs:
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage gives editorial genre labels and titles but does not provide
+    narrative content or explicit ritual or legitimating function.
+- id: motif:3
+  label: Genealogical poetry
+  taxonomy_refs: []
+  basis: Section 2 is described as gathering genealogical poems from several poetic
+    contexts.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not summarize the genealogies themselves or state their
+    mythic function.
+comparison_claims:
+- id: claim:1
+  claim: The editorial passage characterizes the poems of Book IV as influenced by
+    both the Western Epics of the Third Book and the oldest Epics of the First Book.
+  claim_level: historical_contact
+  target: Western Epics of the Third Book and oldest Epics of the First Book in the
+    same edition
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an editorial literary-influence statement, not a demonstrated
+    motif correspondence within the passage.
+evidence:
+- id: ev:1
+  type: citation
+  locator: 12601-12603
+  quote_or_summary: The passage gives the headings “BOOK IV” and “EARLY HISTORIC POEMS.”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: 12604-12607
+  quote_or_summary: The poems are described as mostly by tenth-century poets, circa
+    900 to circa 985, with one exception in the last section.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: 12607-12611
+  quote_or_summary: The school is said to be influenced by Western Epics of Book III
+    and the oldest Epics of Book I, with common historical interest binding the poems
+    together.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: summary
+  locator: 12613-12615
+  quote_or_summary: Section 1 contains one poem, similar to neighboring poems in metre
+    and spirit, not historical in subject, and relating one of Thor’s adventures.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 12617-12621
+  quote_or_summary: Section 2 gathers genealogical poems, including Western examples,
+    a Norwegian poem, and an imitation by a Northern court-poet.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 12623-12626
+  quote_or_summary: Section 3 comprises early excomia on kings, including Hornklofi’s
+    Praise of Harold Fairhair, a dirge on Eric Bloodax, and Eywind’s imitation in
+    a dirge on Hakon, Athelstan’s foster-son.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 12628-12630
+  quote_or_summary: Section 4 contains Head Ransom, Arinbiorn’s Lay, and the Sons’
+    Wreck, described as the work of Egil, the first Iceland-born poet.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: 12632-12633
+  quote_or_summary: Section 5 contains the Dart Lay, composed after 1014 by an unknown
+    Western poet, probably in honor of Sigtrygg Silkbeard, king of Dublin.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: medium
+  notes: The passage is editorial and classificatory rather than narrative. Named
+    figures and literary patterns are extractable, but motif identification is limited
+    because no myth episode is narrated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy symbol references were assigned because the passage does not mention any of the available literal symbols. No specific mythic taxonomy motif was assigned because the passage does not narrate Thor’s adventure or the contents of the royal and genealogical poems.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l12601-l12633
+  passage_sha256=47c816b522e3ff8de369dd1e5aacdf2c66f932b6423926a8f5539f5e467be6c1
+

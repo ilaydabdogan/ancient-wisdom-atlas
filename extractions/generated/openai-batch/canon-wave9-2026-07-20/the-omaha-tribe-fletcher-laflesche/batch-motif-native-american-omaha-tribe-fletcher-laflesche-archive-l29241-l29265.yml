@@ -1,0 +1,321 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l29241-l29265
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: VICTORY  SONG / WARFARE / WARFARE / GRADED    WAR    HONORS; lines 29241-29265
+  start: '29241'
+  end: '29265'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes six ranked war honors that could be claimed on the
+    body of an enemy: striking an unwounded enemy, striking a wounded enemy, striking
+    a dead enemy, killing an enemy, taking the scalp, and severing the head. Several
+    grades limit the number of warriors who can claim the same honor from one enemy.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Six grades of honors could be taken on the body of an enemy.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The highest honor was striking an unwounded enemy with the hand or bow, requiring
+    bravery and skill to escape unharmed.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Only two warriors could take the highest striking honor from the same person.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A second honor required a warrior to strike a wounded enemy, with only two
+    able to take this honor from the same man.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A third honor was to strike the body of a dead enemy with the hand or bow,
+    with only two able to claim this honor from the corpse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A fourth honor was to kill an enemy.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: A fifth honor was to take the scalp; it ranked with the third honor because
+    the dead man could not resist.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Friends of the slain might rally around the body and try to prevent scalping
+    by carrying the man off.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: Two persons could scalp the same enemy.
+  category: relationship
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: A sixth honor was to sever the head from the body of an enemy.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: warrior
+  description: A person who may claim war honors by striking, killing, scalping, or
+    severing the head of an enemy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: enemy
+  description: The opposing person whose body is the object of the graded honors;
+    described as unwounded, wounded, dead, slain, or a corpse in different grades.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:3
+  name_or_label: friends of the slain
+  description: Persons who might rally around the body and try to prevent the taking
+    of the scalp by carrying the man off.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: honor claimant
+  assigned_to:
+  - fig:1
+  basis: The warrior performs acts that constitute ranked honors.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: role:2
+  label: enemy body as target of honor-taking
+  assigned_to:
+  - fig:2
+  basis: The passage states that the six grades of honors could be taken on the body
+    of an enemy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: defenders or removers of the slain body
+  assigned_to:
+  - fig:3
+  basis: The friends of the slain might rally around the body and carry the man off
+    to prevent scalping.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: hand or bow strike
+  literal_form: striking an enemy with the hand or bow
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: scalp
+  literal_form: the scalp taken from a dead enemy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: severed head
+  literal_form: head severed from the body of an enemy
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Enumeration of six graded war honors
+  summary: The passage lists six ranked acts by which warriors could take honors on
+    an enemy body.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: scene:2
+  label: Highest honor through contact with an unwounded enemy
+  summary: A warrior gains the highest honor by striking an unwounded enemy with hand
+    or bow and escaping unharmed; only two warriors may claim this from the same person.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Scalping contested around the body
+  summary: The passage explains that taking a scalp ranked with striking a dead enemy
+    because the dead cannot resist, while friends of the slain might still gather
+    around the body and try to carry it away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: graded war honors on an enemy body
+  taxonomy_refs: []
+  basis: The passage explicitly presents six grades of honors tied to actions performed
+    on an enemy or enemy body.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic warfare classification rather than a narrative
+    mythic episode.
+- id: motif:2
+  label: prestige through dangerous non-lethal contact with an enemy
+  taxonomy_refs: []
+  basis: The highest honor is not killing but striking an unwounded enemy with hand
+    or bow and escaping unharmed.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not name this practice with a comparative technical term.
+- id: motif:3
+  label: limited claimants for a single war honor
+  taxonomy_refs: []
+  basis: The passage repeatedly states that only two persons could claim specified
+    honors from the same enemy or corpse.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The evidence supports a rule pattern, but not a broader mythological motif
+    family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29241-29243
+  quote_or_summary: "“Six grades of honors could be taken on the body of an enemy.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: summary
+  locator: lines 29245-29248
+  quote_or_summary: The highest honor was striking an unwounded enemy with the hand
+    or bow; it required bravery and skill to escape unharmed, and only two warriors
+    could claim it from the same person.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 29250-29252
+  quote_or_summary: The second honor was striking a wounded enemy; only two could
+    claim this honor from the same man.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 29254-29256
+  quote_or_summary: The third honor was striking the body of a dead enemy with the
+    hand or bow; only two could claim it from the corpse.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: quote
+  locator: line 29258
+  quote_or_summary: "“To kill an enemy.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: lines 29260-29264
+  quote_or_summary: The fifth honor was taking the scalp; it ranked with the third
+    because the dead man could not resist, though friends of the slain might rally
+    around the body and carry the man off to prevent the act. Two could scalp the
+    same enemy.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: quote
+  locator: line 29265
+  quote_or_summary: "“To sever the head from the body of an enemy.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is explicit about the graded honors and their rules. Motif labels
+    are descriptive rather than tied to the supplied taxonomy. No comparison claims
+    are made because the passage itself does not support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol reference was directly applicable to this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l29241-l29265
+  passage_sha256=6d5595849205892391ad3419e4f00cc52cb675ced67a5a44d4d82a301bf365ba
+

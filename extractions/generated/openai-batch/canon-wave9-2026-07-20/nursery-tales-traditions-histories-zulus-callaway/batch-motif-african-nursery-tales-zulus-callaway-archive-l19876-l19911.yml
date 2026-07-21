@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19876-l19911
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: ENYE YEKWABABA FUTI. / SPEAKING ANIMALS. / INDABA YENJA EYA KQAMBA IGAMA.
+    / RIDDLES.; lines 19876-19911
+  start: '19876'
+  end: '19911'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives two riddle prompts. One asks for a cow that never lies
+    down except permanently in death, gives much milk, preserves its children, and
+    is owned singly. The other asks for a single pumpkin-plant with many branches
+    and countless pumpkins, whose branches spread through the whole country and provide
+    food to all who follow them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is explicitly presented as a set of riddles.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One riddle asks the hearer to guess a cow that never lies down; if it lies
+    down, it lies down forever and this is called death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cow is described as celebrated, milk-giving, preserving its children,
+    and owned as a single necessary animal.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another riddle asks the hearer to guess a single pumpkin-plant with many branches
+    and many thousands of pumpkins.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Following the pumpkin-plant's branches is said to lead continually to pumpkins,
+    so that one need not fear famine or carry food for a journey.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The pumpkin-plant's branches are said to spread over the whole country, and
+    each man follows his own branch and plucks pumpkins from it.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: riddle cow
+  description: A cow that never lies down except in death, gives much milk, and preserves
+    its children.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: owner of the cow
+  description: The owner is said to possess only one such cow and not to want another.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: single pumpkin-plant
+  description: A single plant with many branches and countless pumpkins on its branches.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: men following branches
+  description: Men are described as pursuing their own branches and plucking pumpkins
+    from them.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: riddle subject
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Both the cow and the pumpkin-plant are introduced by the prompt to guess
+    what they are.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: life-sustaining provider
+  assigned_to:
+  - fig:1
+  basis: The cow gives much milk and preserves its children.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: abundant food source
+  assigned_to:
+  - fig:3
+  basis: The plant bears many pumpkins and provides food along its branches.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: possessor of a unique animal
+  assigned_to:
+  - fig:2
+  basis: The owner possesses only one cow and requires only one.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: branch-following consumers
+  assigned_to:
+  - fig:4
+  basis: Each man follows his own branch and plucks pumpkins.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cow that never lies down
+  literal_form: A cow whose lying down is permanent death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: milk
+  literal_form: Much milk given by the cow.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: lying down as death
+  literal_form: The cow's lying down is explicitly identified as death.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: single branching pumpkin-plant
+  literal_form: One pumpkin-plant with many branches spreading over the whole country.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:5
+  label: journey pumpkins
+  literal_form: Pumpkins found continually along the branches and eaten during travel.
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: riddle of the cow
+  summary: The speaker poses a riddle about a unique cow that does not lie down except
+    in death and that provides milk and preservation.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: riddle of the pumpkin-plant
+  summary: The speaker poses a riddle about one pumpkin-plant whose many branches
+    cover the country and provide continual food to those who follow them.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: riddle as encoded knowledge
+  taxonomy_refs:
+  - wisdom
+  basis: The passage is labeled as riddles and repeatedly uses the prompt to guess
+    the hidden referent.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The answers to the riddles are not supplied in the passage.
+- id: motif:2
+  label: single life-sustaining source
+  taxonomy_refs: []
+  basis: 'Both riddles emphasize one unique source: a single cow that gives milk and
+    a single plant whose branches provide abundant pumpkins.'
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This groups two riddle images by a shared described feature; the intended
+    riddle solutions are not given.
+- id: motif:3
+  label: inexhaustible food along a path
+  taxonomy_refs: []
+  basis: The pumpkin-plant riddle says that following the branches continually brings
+    more pumpkins, removing fear of famine during travel.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage presents this as a riddle image, not as a narrative event.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '19876'
+  quote_or_summary: "“RIDDLES.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: summary
+  locator: 19878-19888
+  quote_or_summary: The first riddle asks for a cow that never lies down except forever
+    in death; it gives much milk, preserves its children, and is the only cow its
+    owner needs.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 19890-19907
+  quote_or_summary: The second riddle asks for one pumpkin-plant with many branches
+    and countless pumpkins; following the branches yields food everywhere and prevents
+    fear of famine on a journey.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: 19907-19911
+  quote_or_summary: "“Its branches spread out over the whole country, but the plant
+    is one” and each man plucks pumpkins from the branches."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal details are clear, but the riddle answers are not supplied, so symbolic
+    interpretation is limited.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No riddle solutions or external comparisons were inferred beyond the supplied passage and available taxonomy references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19876-l19911
+  passage_sha256=a6cf3d21a86d96b443abd25c6dd999aa7934464bcb2ba5db00758fca66e47825
+

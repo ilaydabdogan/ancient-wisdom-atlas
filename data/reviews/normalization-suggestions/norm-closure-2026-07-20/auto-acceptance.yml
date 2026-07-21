@@ -1,0 +1,2817 @@
+---
+normalization_suggestion_acceptance_version: '1'
+run_id: norm-closure-2026-07-20
+generated_on: '2026-07-20'
+suggestions_path: data/reviews/normalization-suggestions/norm-closure-2026-07-20/suggestions.jsonl
+normalization_path: taxonomy/motif-normalization.yml
+policy: Auto-accept medium-or-high-confidence map_to_existing_group suggestions whose
+  target group already exists. Stage all new-group, exclusion, low-confidence, and
+  human-review suggestions separately.
+counts:
+  suggestions: 99
+  auto_accepted: 34
+  review_needed: 65
+auto_accepted:
+- motif_id: affinal_speech_avoidance
+  label: Affinal speech avoidance
+  occurrences: 3
+  traditions:
+  - australian_aboriginal
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Speech avoidance between affines is a socially regulated kinship obligation.
+  cautions: Preserve the kinship-specific practice and avoid treating it as generic
+    silence or sacred speech.
+  suggested_aliases:
+  - affinal avoidance speech
+  - in-law speech taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: afterlife_as_continuation_of_earthly_social_life
+  label: Afterlife as continuation of earthly social life
+  occurrences: 2
+  traditions:
+  - chaco_amerindian
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Describes the social character of postmortem existence, fitting broader
+    afterlife conceptions.
+  cautions: Does not itself establish a journey, mapped route, or mortuary rite; preserve
+    local afterlife structure.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: animal_helper_in_the_hunt
+  label: animal helper in the hunt
+  occurrences: 2
+  traditions:
+  - hopi
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The existing divine_intervention group explicitly includes animal helpers;
+    this is a hunt-specific instance.
+  cautions: Confirm that the animal actively guides or aids rather than merely appears
+    in a hunting scene; preserve hunting context.
+  suggested_aliases:
+  - animal hunting guide
+  - animal helper in pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- motif_id: battlefield_as_river_of_blood
+  label: Battlefield as river of blood
+  occurrences: 5
+  traditions:
+  - hindu
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The river of blood is martial imagery foregrounding the scale and violence
+    of battle.
+  cautions: Treat as a poetic image rather than sacred waters or sacrifice unless
+    the passage assigns ritual or cosmological function.
+  suggested_aliases:
+  - blood river of battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: bird_divination
+  label: bird divination
+  occurrences: 2
+  traditions:
+  - germanic
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Bird signs are a systematic divinatory method for accessing hidden or
+    future knowledge.
+  cautions: Keep the avian medium in evidence notes; do not classify ordinary bird
+    symbolism as divination without interpretive practice.
+  suggested_aliases:
+  - augury
+  - ornithomancy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: blessed_immortality_of_righteous_souls
+  label: Blessed immortality of righteous souls
+  occurrences: 2
+  traditions:
+  - jewish_pseudepigrapha
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Continued blessed existence after death is a death-transcending transformation
+    of the soul.
+  cautions: The righteousness condition also invokes judgment; do not infer resurrection
+    unless bodily restoration is explicit.
+  suggested_aliases:
+  - righteous souls attain immortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- motif_id: bride_service_before_marriage
+  label: Bride service before marriage
+  occurrences: 2
+  traditions:
+  - ekoi
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Bride service is an exchange-based marital obligation linking kin groups.
+  cautions: This may be secular customary practice rather than sacred exchange; retain
+    marriage-specific context and review source framing.
+  suggested_aliases:
+  - marital service exchange
+  - bride labor service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- motif_id: broken_food_sharing_bargain
+  label: Broken food-sharing bargain
+  occurrences: 2
+  traditions:
+  - hausa
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The central action is violation of a trust or reciprocal bond formed
+    through food sharing.
+  cautions: Also relate to sacred_exchange if food sharing is ritually reciprocal;
+    do not treat all meals as sacred.
+  suggested_aliases:
+  - betrayal through feast or drink
+  - broken hospitality bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: catalogue_of_divine_names_or_epithets
+  label: catalogue of divine names or epithets
+  occurrences: 4
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Divine names and epithets are a form of sacred knowledge and invocation.
+  cautions: May be a textual or liturgical catalogue rather than a narrative motif;
+    exclude individual source-specific lists if no ritual or knowledge function is
+    evident.
+  suggested_aliases:
+  - divine name catalogue
+  - litany of divine epithets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - theophany
+    reason_existing_groups_insufficient: ''
+- motif_id: creation_from_water_and_clay
+  label: creation from water and clay
+  occurrences: 2
+  traditions:
+  - egyptian
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Creation of beings or the world from primordial water and clay belongs
+    directly to creation-origin patterns.
+  cautions: Preserve whether the created entity is humanity, a deity, or the cosmos;
+    water alone does not imply flood or sacred passage.
+  suggested_aliases:
+  - creation from clay and water
+  - human creation from clay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: death_as_sleep
+  label: Death as sleep
+  occurrences: 2
+  traditions:
+  - germanic
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Sleep is a recurrent symbolic framing of death, concealment, and possible
+    awakening.
+  cautions: Do not index as resurrection or return unless awakening/restoration is
+    present.
+  suggested_aliases:
+  - death likened to sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: destruction_of_enemies_by_burning_an_enclosed_house
+  label: destruction of enemies by burning an enclosed house
+  occurrences: 2
+  traditions:
+  - native_american_plateau
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Burning an enemy enclosure is a tactical destruction scene within conflict
+    rather than a world-renewal fire motif.
+  cautions: Map to divine judgment or sacred fire only where punishment or sacred
+    fire function is explicit; otherwise preserve enclosure detail locally.
+  suggested_aliases:
+  - incendiary destruction of enemy house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: divine_aid_in_war_and_victory
+  label: Divine aid in war and victory
+  occurrences: 2
+  traditions:
+  - hindu
+  - samoan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Divine assistance determining martial success is directly within sacred-combat
+    patterns.
+  cautions: Use divine_intervention instead when the episode lacks combat as its primary
+    function.
+  suggested_aliases:
+  - divine aid in battle
+  - divinely aided victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- motif_id: divine_hearing_of_prayer
+  label: divine hearing of prayer
+  occurrences: 2
+  traditions:
+  - egyptian
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Prayer seeking and receiving divine response is a reciprocal divine-human
+    relationship.
+  cautions: Confirm that the passages emphasize answered petition rather than merely
+    prayer performance or divine revelation.
+  suggested_aliases:
+  - answered prayer
+  - divine response to supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: escalating_heroic_single_combat
+  label: escalating heroic single combat
+  occurrences: 2
+  traditions:
+  - hindu
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: child
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: A duel between heroic combatants is directly within sacred-combat patterns.
+  cautions: Escalation is an episode-level modifier unless it recurs as a distinct
+    formal combat sequence.
+  suggested_aliases:
+  - single combat between champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: etiological_animal_mark_from_punishment
+  label: Etiological animal mark from punishment
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Punishment that produces a lasting animal feature is a transformation-and-etiology
+    pattern.
+  cautions: Also consider divine_judgment where moral punishment, rather than bodily
+    transformation, is the passage's primary function.
+  suggested_aliases:
+  - animal trait explained by punishment
+  - punitive animal transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: etiological_origin_accounts
+  label: etiological origin accounts
+  occurrences: 3
+  traditions:
+  - arctic_inuit
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Etiological accounts explain origins and align with the existing origin/creation
+    grouping.
+  cautions: Keep the particular object of explanation explicit; local place-name etiologies
+    may be narrower than cosmic creation.
+  suggested_aliases:
+  - origin etiologies
+  - etiological accounts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: false_accusation_after_rejected_seduction
+  label: false accusation after rejected seduction
+  occurrences: 2
+  traditions:
+  - native_american_northeast_woodlands
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: This closely matches the existing false_accusation_after_rejected_sexual_advance
+    child under Divine Judgment.
+  cautions: The current group placement assumes accusation, vindication, and moral
+    consequence are central; retain local gender and social context in evidence notes.
+  suggested_aliases:
+  - false accusation after rejected sexual advance
+  - Potiphar-type false accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: food_taboo_toward_one_s_own_totem
+  label: Food taboo toward one’s own totem
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The central function is a culturally regulated food prohibition.
+  cautions: Preserve totem-specific meaning; avoid reducing Indigenous kinship and
+    ritual systems to a generic taboo.
+  suggested_aliases:
+  - totemic food prohibition
+  - taboo on eating one's totem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: future_life_or_afterlife_belief
+  label: future life or afterlife belief
+  occurrences: 2
+  traditions:
+  - greek
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: broader_label
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: A broad label for postmortem existence belongs with afterlife patterns.
+  cautions: Too general to imply a journey, judgment, destination, or ritual requirement.
+  suggested_aliases:
+  - belief in an afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: grave_goods_accompanying_the_deceased
+  label: Grave goods accompanying the deceased
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Objects placed with the dead are mortuary care directed toward the deceased's
+    continuing relation or passage.
+  cautions: May support afterlife passage where goods are explicitly provisions; do
+    not treat every burial object as sacred treasure.
+  suggested_aliases:
+  - burial goods
+  - goods for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- motif_id: heavenly_descent_of_a_sacred_object
+  label: heavenly descent of a sacred object
+  occurrences: 2
+  traditions:
+  - african_akan
+  - celtic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The defining feature is a power object of heavenly or divine origin.
+  cautions: Do not map to ascent/descent unless a figure's inter-realm journey, rather
+    than the object's origin, is central.
+  suggested_aliases:
+  - heaven-sent sacred object
+  - divine object descending from heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    reason_existing_groups_insufficient: ''
+- motif_id: jataka_birth_identification_closure
+  label: Jataka birth-identification closure
+  occurrences: 4
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The label matches the existing past-life identification pattern in Jātaka
+    framing.
+  cautions: This is a literary framing convention; preserve it as a narrow variant
+    rather than treating every rebirth reference as the same structure.
+  suggested_aliases:
+  - past-life identification in Jātaka frame
+  - Jātaka identity revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: lament_over_the_slain_beloved
+  label: lament over the slain beloved
+  occurrences: 2
+  traditions:
+  - celtic
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The core action is mourning a dead loved one.
+  cautions: A secondary sacred_love index may be useful only where the relationship,
+    rather than grief ritual, is foregrounded.
+  suggested_aliases:
+  - beloved's lament
+  - mourning a slain lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- motif_id: landscape_stones_as_transformed_beings
+  label: landscape stones as transformed beings
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The central operation is transformation of beings into stone or landscape
+    forms.
+  cautions: Also retain etiological significance where the transformed stones explain
+    named places or terrain; do not infer punishment without evidence.
+  suggested_aliases:
+  - beings transformed into landscape stones
+  - petrified beings as landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- motif_id: life_token
+  label: Life token
+  occurrences: 3
+  traditions:
+  - georgian
+  - oceanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The group explicitly includes a separable external life-token controlling
+    vulnerability, life, or death.
+  cautions: Confirm that the token is actually life-bound rather than a generic protective
+    or recognition object.
+  suggested_aliases:
+  - external life-token
+  - life object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: purification_after_contact_with_death
+  label: purification after contact with death
+  occurrences: 2
+  traditions:
+  - samoan
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: A prescribed response to death-contact is a purity and ritual-prohibition
+    pattern.
+  cautions: Preserve distinct local concepts of pollution and cleansing; may secondarily
+    relate to ancestor rites.
+  suggested_aliases:
+  - mortuary purification
+  - cleansing after death contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- motif_id: sacred_restricted_ritual_space
+  label: sacred restricted ritual space
+  occurrences: 2
+  traditions:
+  - finnic
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Restricted access to ritual space primarily expresses sacred regulation,
+    prohibition, and boundary observance.
+  cautions: Use world center or axis mundi only where the site is explicitly cosmological
+    or central.
+  suggested_aliases:
+  - ritually restricted space
+  - sacred access boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: single_champion_routs_many_warriors
+  label: single champion routs many warriors
+  occurrences: 2
+  traditions:
+  - hindu
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: A lone champion overcoming many warriors is an established heroic-warrior
+    combat pattern.
+  cautions: Do not assume divine aid from numerical imbalance alone; retain it as
+    heroic combat unless sacred agency is explicit.
+  suggested_aliases:
+  - lone hero defeats overwhelming hostile host
+  - outnumbered hero fighting multiple adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: son_avenges_murdered_father
+  label: Son avenges murdered father
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Filial vengeance motivates a combat and retaliation sequence.
+  cautions: Do not imply sacred warfare unless the source frames combat as ritually
+    or cosmically significant; preserve father-son revenge as the local detail.
+  suggested_aliases:
+  - filial revenge for slain father
+  - son's vengeance for father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- motif_id: tears_transformed_into_precious_substance
+  label: tears transformed into precious substance
+  occurrences: 2
+  traditions:
+  - germanic
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: The motif's operative structure is metamorphic conversion of bodily grief
+    into a valued material.
+  cautions: A secondary link to lament may be warranted if grief and mourning, rather
+    than transformation, are central in the passages.
+  suggested_aliases:
+  - precious substance from tears
+  - tears become jewels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_treasures
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- motif_id: victor_spares_defeated_enemy
+  label: victor spares defeated enemy
+  occurrences: 2
+  traditions:
+  - hindu
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Mercy toward a defeated enemy is already represented among covenant-group
+    mercy variants.
+  cautions: If mercy is secular chivalric conduct rather than a binding or sacred
+    relation, preserve that contextual distinction.
+  suggested_aliases:
+  - mercy to a defeated enemy
+  - mercy toward a defeated attacker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: vow_of_blood_vengeance
+  label: vow of blood vengeance
+  occurrences: 3
+  traditions:
+  - georgian
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: A vengeance vow initiates or sacralizes retaliatory conflict.
+  cautions: Where the operative feature is the binding spoken vow rather than combat,
+    also consider performative sacred speech.
+  suggested_aliases:
+  - vengeance oath
+  - blood-feud vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - covenant
+    reason_existing_groups_insufficient: ''
+- motif_id: warrior_as_consuming_fire
+  label: warrior as consuming fire
+  occurrences: 8
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: high
+  reason: auto-accepted medium-or-high-confidence existing-group placement
+  rationale: Fire functions as a martial simile for the warrior's destructive combat
+    power.
+  cautions: Do not map to sacred_fire or world-destroying fire unless fire itself
+    has ritual, divine-presence, or cosmic-renewal function.
+  suggested_aliases:
+  - destructive warrior likened to fire
+  - warrior as ravaging fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+review_needed:
+- motif_id: affinal_avoidance_taboo
+  label: affinal avoidance taboo
+  occurrences: 2
+  traditions:
+  - hausa
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: A kinship-based avoidance rule is a social prohibition that may be ritually
+    regulated.
+  cautions: Requires culturally specific review; may be social etiquette rather than
+    sacred law or a motif suitable for cross-tradition querying.
+  suggested_aliases:
+  - in-law avoidance taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: animal_centered_tale_figures
+  label: animal-centered tale figures
+  occurrences: 2
+  traditions:
+  - buddhist
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: This appears to classify tale protagonists by form rather than identify
+    a motif or narrative function.
+  cautions: Map a specific episode only if animals perform a distinct role such as
+    helper, trickster, ancestor, or transformed person.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- motif_id: animal_pair_tale_titles
+  label: animal-pair tale titles
+  occurrences: 2
+  traditions:
+  - fjort
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: The label describes a tale-title or cataloging pattern rather than a
+    narrative motif.
+  cautions: Retain source-title metadata; map underlying animal interactions separately
+    if extracted.
+  suggested_aliases:
+  - animal-centered fable encounter headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: anthropomorphic_deity
+  label: anthropomorphic deity
+  occurrences: 2
+  traditions:
+  - germanic
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: Anthropomorphism is a descriptive classification of divine representation,
+    not a narrative motif or function.
+  cautions: Preserve only as analytic metadata where representation style is relevant.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: avoidance_of_the_dead_person_s_name
+  label: avoidance of the dead person's name
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - chaco_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: A mourning or mortuary prohibition may regulate relations between living
+    people and the dead.
+  cautions: Culturally specific practice; source context is needed to distinguish
+    mourning etiquette, danger avoidance, and name taboo.
+  suggested_aliases:
+  - postmortem name avoidance
+  - mourning name taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- motif_id: birth_circumstance_naming
+  label: birth-circumstance naming
+  occurrences: 2
+  traditions:
+  - african_bantu
+  - ekoi
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: Naming based on birth circumstances is an ethnographic and biographical
+    convention without an indicated sacred-birth function.
+  cautions: Could be retained as evidence if a source makes the name an etiological
+    or destiny-bearing device.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- motif_id: birth_of_a_named_figure
+  label: Birth of a named figure
+  occurrences: 2
+  traditions:
+  - celtic
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: Naming a figure does not establish an unusual or sacred birth motif.
+  cautions: Map to miraculous_child only if source evidence gives the birth extraordinary
+    narrative significance.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- motif_id: cannibal_figure
+  label: cannibal figure
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A cannibal figure may be a monster, a taboo transgressor, or a culturally
+    specific being; function is unavailable.
+  cautions: Use culturally specific source evidence and avoid flattening Indigenous
+    figures into a generic monster category.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_law
+    - trickster
+    reason_existing_groups_insufficient: ''
+- motif_id: captured_spoils_become_a_burden_for_the_companion
+  label: Captured spoils become a burden for the companion
+  occurrences: 2
+  traditions:
+  - celtic
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: This is a highly episode-specific consequence of capture rather than
+    a durable motif pattern.
+  cautions: Could be retained as evidence if the burden has a repeated curse, taboo,
+    or moral-reversal function.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: celestial_pursuit_explaining_eclipse
+  label: celestial pursuit explaining eclipse
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - hausa
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Celestial Etiology and Eclipse Pursuit
+  relationship: narrower_than
+  confidence: medium
+  reason: new group candidate
+  rationale: The label describes a recurrent explanatory celestial narrative not captured
+    by creation, duality, or sacred time alone.
+  cautions: Confirm that pursuit is narrative causation for eclipse, rather than a
+    modern explanatory gloss.
+  suggested_aliases:
+  - eclipse chase
+  - celestial chase explaining eclipse
+  suggested_new_group:
+    id: celestial_etiology_eclipse_pursuit
+    label: Celestial Etiology and Eclipse Pursuit
+    description: A pursuit, attack, swallowing, or conflict among celestial beings
+      explains an eclipse or other periodic heavenly event.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_time
+    - duality
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains broad etiologies but
+      does not preserve the distinctive celestial-pursuit mechanism or eclipse function.
+- motif_id: central_hearth_organizing_domestic_space
+  label: central hearth organizing domestic space
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: A central hearth may organize domestic and ritual space, but sacred or
+    cosmological function is not explicit in the label.
+  cautions: Do not map automatically if this is architectural description; assess
+    whether hearth ritual, kinship order, or world-center symbolism is present.
+  suggested_aliases:
+  - domestic hearth center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: changeling_child_substitution
+  label: changeling child substitution
+  occurrences: 2
+  traditions:
+  - basque
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Changeling and Child Substitution
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: A child replaced by an otherworldly substitute is a distinct abduction,
+    kinship, and identity pattern.
+  cautions: Confirm that both instances involve replacement rather than adoption,
+    disguise, or a threatened-child episode.
+  suggested_aliases:
+  - changeling
+  - otherworld child substitution
+  - substituted infant
+  suggested_new_group:
+    id: changeling_child_substitution
+    label: Changeling and Child Substitution
+    description: A human child is taken, replaced, exchanged, or represented by an
+      otherworldly, supernatural, or nonhuman substitute, disrupting kinship and identity.
+    parent_group_ids:
+    - otherworld
+    related_group_ids:
+    - miraculous_child
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Miraculous child concerns destiny and protection,
+      while otherworld is too broad to preserve the replacement and disrupted-kinship
+      function.
+- motif_id: classificatory_kinship_terminology
+  label: Classificatory kinship terminology
+  occurrences: 5
+  traditions:
+  - african_akan
+  - african_bantu
+  - australian_aboriginal
+  - ganda
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: This is an anthropological classification of social terminology, not
+    a narrative or symbolic motif.
+  cautions: Retain as cultural or analytical metadata where needed; it should not
+    drive motif comparisons.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: cosmic_origin_inquiry
+  label: cosmic origin inquiry
+  occurrences: 2
+  traditions:
+  - hindu
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: low
+  reason: low confidence
+  rationale: The topic concerns origins, but inquiry may be philosophical discourse
+    rather than a creation narrative.
+  cautions: Map only when passages present a cosmogonic account or stable cosmological
+    pattern; otherwise retain as teaching or commentary metadata.
+  suggested_aliases:
+  - cosmogonic inquiry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: death_as_godparent
+  label: Death as godparent
+  occurrences: 2
+  traditions:
+  - germanic
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  reason: low confidence
+  rationale: Personifies Death in a kinship role, but no existing group captures this
+    narrative relation.
+  cautions: Could be a folktale-specific character role rather than a durable cross-source
+    motif; review passages before creating a personified-death group.
+  suggested_aliases:
+  - Death as kin sponsor
+  suggested_new_group:
+    id: personified_death
+    label: Personified Death
+    description: Death appears as an agent or social person who enters kinship, contractual,
+      or interpersonal relations with humans.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - death_by_fate
+    - ancestor_rites
+    reason_existing_groups_insufficient: Existing death groups concern transformation,
+      fate, or rites rather than Death acting as a social character.
+- motif_id: death_of_a_named_figure
+  label: Death of a named figure
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: Merely records that an identified character dies, without a recurring
+    narrative function.
+  cautions: Retain passage-level evidence; map only if cause, rite, fate, return,
+    or social consequence is specified.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: deathbed_distribution_of_treasure
+  label: Deathbed distribution of treasure
+  occurrences: 2
+  traditions:
+  - celtic
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: low
+  reason: low confidence
+  rationale: May be a deathbed succession or memorial act associated with social order
+    after death.
+  cautions: Could instead be inheritance, royal succession, or a passage-specific
+    detail; no ritual function is stated.
+  suggested_aliases:
+  - deathbed bequest of treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- motif_id: divine_triad
+  label: Divine triad
+  occurrences: 2
+  traditions:
+  - celtic
+  - fjort
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A threefold divine grouping may be theology, iconography, kinship, or
+    narrative structure.
+  cautions: Do not treat numerical recurrence alone as a shared motif; source roles
+    and relations are needed.
+  suggested_aliases:
+  - triadic divinity
+  - threefold deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - divine_race
+    reason_existing_groups_insufficient: No current group captures divine plurality
+      or triadic organization without imposing a function absent from the label.
+- motif_id: dog_headed_people
+  label: dog-headed people
+  occurrences: 2
+  traditions:
+  - andamanese
+  - hindu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A dog-headed people label may denote monstrous ethnography, a transformed
+    being, or a source-specific figure.
+  cautions: Do not collapse hybrid peoples into shapeshifting without evidence of
+    transformation; cultural and textual context is needed.
+  suggested_aliases:
+  - cynocephalic people
+  - animal-headed human beings
+  suggested_new_group:
+    id: hybrid_human_animal_beings
+    label: Hybrid Human-Animal Beings
+    description: Human, humanoid, or people-like beings marked by stable animal features;
+      distinct from voluntary or punitive transformation.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - threshold_guardian
+    reason_existing_groups_insufficient: Shapeshifter concerns changes of form, while
+      this label describes a possibly stable hybrid category.
+- motif_id: episodic_accumulation_of_wonders
+  label: Episodic accumulation of wonders
+  occurrences: 2
+  traditions:
+  - celtic
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: This describes narrative composition or episode sequencing rather than
+    a symbolic or functional motif.
+  cautions: Preserve as literary-analysis metadata if needed.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: etiological_explanation_for_present_animal_behavior
+  label: etiological explanation for present animal behavior
+  occurrences: 2
+  traditions:
+  - akan
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: narrower_than
+  confidence: high
+  reason: new group candidate
+  rationale: The label explains present animal behavior through a narrative origin
+    event, a recurring etiological function not held by existing groups.
+  cautions: This is an explanation type; preserve any trickster, punishment, or creation
+    mechanism as a separate mapping where evidenced.
+  suggested_aliases:
+  - animal behavior origin
+  - animal trait etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- motif_id: etiological_origin_of_animal_traits_and_behaviors
+  label: Etiological origin of animal traits and behaviors
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: alias
+  confidence: high
+  reason: new group candidate
+  rationale: This is the same animal-specific etiological pattern as explanations
+    for present animal behavior.
+  cautions: Use the candidate only for origin narratives, not generic animal description.
+  suggested_aliases:
+  - animal trait and behavior etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- motif_id: etiology_of_an_animal_body_mark
+  label: etiology of an animal body mark
+  occurrences: 2
+  traditions:
+  - african_bantu
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  reason: new group candidate
+  rationale: An animal body mark is a specific subtype of animal trait etiology.
+  cautions: Record the specific mark and narrative cause locally; do not infer punishment
+    or transformation from the label alone.
+  suggested_aliases:
+  - animal marking etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- motif_id: extraordinary_companions_with_specialized_powers
+  label: extraordinary companions with specialized powers
+  occurrences: 5
+  traditions:
+  - germanic
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Extraordinary Helper Companions
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: A recurring quest-party pattern is not represented by existing hero-journey
+    or divine-intervention groups.
+  cautions: Verify that companions have stable extraordinary abilities rather than
+    merely distinct roles in individual episodes.
+  suggested_aliases:
+  - marvelous helper companions
+  - quest companions with special powers
+  suggested_new_group:
+    id: extraordinary_helper_companions
+    label: Extraordinary Helper Companions
+    description: A hero or traveler is aided by a group of companions whose distinct
+      exceptional abilities collectively overcome obstacles.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - divine_intervention
+    - culture_hero
+    - sacred_craft
+    reason_existing_groups_insufficient: Hero Journey covers the wider arc but not
+      the distinctive coordinated helper-party structure; divine intervention requires
+      sacred agency not stated here.
+- motif_id: famine_contrasted_with_hidden_abundance
+  label: Famine contrasted with hidden abundance
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  - yoruba
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: low
+  reason: low confidence
+  rationale: Scarcity versus concealed plenty may concern provision, but no sacred,
+    ritual, or miraculous mechanism is stated.
+  cautions: May be an economic contrast, plot reversal, or culturally specific food
+    narrative; do not map as divine provision without evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- motif_id: feast_celebrating_hunting_success
+  label: feast celebrating hunting success
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  reason: low confidence
+  rationale: A feast may enact reciprocity or ritual gratitude, but the label could
+    describe ordinary celebration.
+  cautions: Review whether offerings, animal-person relations, communal obligation,
+    or sacred recipients are present.
+  suggested_aliases:
+  - hunting-success feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- motif_id: four_direction_ritual_action
+  label: Four-direction ritual action
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: Directional ritual action can organize sacred space around a cosmological
+    center.
+  cautions: Do not assume an axis mundi from directional orientation alone; review
+    culturally specific directional cosmologies.
+  suggested_aliases:
+  - ritual orientation to four directions
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups lack a dedicated placement
+      for directional ritual form without a demonstrated world-axis object or site.
+- motif_id: fourfold_ritual_action
+  label: Fourfold ritual action
+  occurrences: 3
+  traditions:
+  - native_american_northwest_coast
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: A repeated four-part action is a formal ritual structure.
+  cautions: Need source evidence to establish whether fourfoldness is meaningful rather
+    than an incidental procedural count.
+  suggested_aliases:
+  - four-part ritual act
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing sacred-time coverage is too broad
+      to preserve numerical ritual structure.
+- motif_id: fourfold_ritual_ordering
+  label: Fourfold ritual ordering
+  occurrences: 2
+  traditions:
+  - native_american_great_lakes
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: Fourfold ordering may concern directions, seasons, ceremonial sequence,
+    or cosmology.
+  cautions: Requires source-specific ritual context; do not flatten distinct Indigenous
+    ceremonial systems into a generic numerical schema.
+  suggested_aliases:
+  - four-direction ritual order
+  - quadripartite ceremonial order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - duality
+    - axis_mundi
+    reason_existing_groups_insufficient: Existing groups cover time and cosmic centers
+      but not a sufficiently evidenced fourfold ritual-order pattern.
+- motif_id: fourfold_ritual_pattern
+  label: Fourfold ritual pattern
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - native_american_southwest
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: The label identifies a recurrent formal pattern of ritual organization.
+  cautions: Likely overlaps the other fourfold labels and should be deduplicated only
+    after checking passage-level evidence.
+  suggested_aliases:
+  - four-part ritual pattern
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: No current group specifically retains numerical
+      ritual architecture.
+- motif_id: fourfold_ritual_repetition
+  label: Fourfold ritual repetition
+  occurrences: 8
+  traditions:
+  - native-american-southwest
+  - native_american_plains
+  - native_american_southwest
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: Repeated four-part action may express ritual ordering in time or space.
+  cautions: Numeric patterns have tradition-specific meanings; verify whether repetition
+    is a meaningful ritual structure rather than extraction artifact.
+  suggested_aliases:
+  - four-part ritual repetition
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Sacred time includes cycles but does not
+      specifically represent spatial-directional or numerically ordered ritual form.
+- motif_id: fourfold_ritual_sequence
+  label: fourfold ritual sequence
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: An ordered four-stage sequence is a ritual-cycle or ritual-form variant.
+  cautions: Confirm sequence and ritual significance; this may be synonymous with
+    the other fourfold labels.
+  suggested_aliases:
+  - four-stage ritual sequence
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not isolate formal four-stage
+      ritual sequencing.
+- motif_id: fourfold_ritualized_action
+  label: Fourfold ritualized action
+  occurrences: 3
+  traditions:
+  - native_american_northwest_coast
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: A fourfold ritualized action is best provisionally treated as formal
+    ritual ordering.
+  cautions: Review alongside the near-duplicate fourfold labels and preserve distinct
+    local ritual contexts.
+  suggested_aliases:
+  - ritualized fourfold action
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: A single broader candidate can retain the
+      shared formal feature without collapsing local ritual meanings.
+- motif_id: gendered_craft_production
+  label: gendered craft production
+  occurrences: 2
+  traditions:
+  - african_bantu
+  - chaco_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: The label describes a social division of production rather than a recurring
+    symbolic or narrative motif.
+  cautions: Preserve as cultural-context evidence; map only if sources make craft
+    production a sacred or cosmological act.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- motif_id: gendered_craft_specialization
+  label: gendered craft specialization
+  occurrences: 3
+  traditions:
+  - african_bantu
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: Gendered divisions of craft labor are social-practice details, not a
+    defined mythic narrative pattern.
+  cautions: Retain in cultural and source notes; do not infer a universal sacred-gender
+    motif from this label.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- motif_id: heroic_combat_with_named_opponent
+  label: heroic combat with named opponent
+  occurrences: 2
+  traditions:
+  - buddhist
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  reason: suggested exclusion
+  rationale: Combat against an individually named opponent is an episode detail, not
+    a distinctive combat pattern.
+  cautions: Map only if evidence indicates a specific structure such as a ritual duel,
+    divine intervention, or combat at a threshold.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- motif_id: hidden_food_during_famine
+  label: hidden food during famine
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - native_american_plateau
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: low
+  reason: low confidence
+  rationale: Concealed food may function as survival provision, but sacred or ritual
+    meaning is not evident from the label.
+  cautions: Could be a local subsistence detail or a plot device; do not treat ordinary
+    hidden stores as a sacred-food motif without source context.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: hidden_object_guessing_game
+  label: hidden-object guessing game
+  occurrences: 4
+  traditions:
+  - arctic_inuit
+  - native_american_great_lakes
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: The label describes a game episode without clear mythic, ritual, or symbolic
+    function.
+  cautions: Retain source-level evidence if the guessing contest determines identity,
+    divination, courtship, or ordeal; those functions could merit another mapping.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: human_animal_marriage
+  label: human-animal marriage
+  occurrences: 4
+  traditions:
+  - arctic_inuit
+  - hausa
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human–Animal Marriage and Affinal Crossing
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: Marriage across human-animal forms is a recurring kinship and boundary-crossing
+    structure not captured by shapeshifting alone.
+  cautions: Confirm whether each case is literal animal marriage, transformed-spouse
+    narrative, clan ancestry, or metaphorical description; retain local ontologies.
+  suggested_aliases:
+  - animal spouse
+  - marriage to an animal being
+  - human-nonhuman marriage
+  suggested_new_group:
+    id: human_animal_marriage
+    label: Human–Animal Marriage and Affinal Crossing
+    description: Marriage, sexual union, or enduring affinal relation crosses the
+      boundary between human and animal or animal-form being, often producing kinship,
+      transformation, or altered social status.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - sacred_love
+    - miraculous_child
+    - otherworld
+    reason_existing_groups_insufficient: Shapeshifter captures change of form but
+      not the marital or kinship function that organizes these narratives.
+- motif_id: ignored_warning_brings_fatal_consequence
+  label: Ignored warning brings fatal consequence
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - malagasy
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  reason: model requested human review
+  rationale: Fatal consequences after a rejected warning may express moral reckoning,
+    prophecy, or ordinary plot causality.
+  cautions: Map to divine judgment only when warning and consequence are grounded
+    in sacred authority; use prophecy_divination when the warning is explicitly prophetic.
+  suggested_aliases:
+  - unheeded warning before catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: innocent_captive_released_after_explanation
+  label: Innocent captive released after explanation
+  occurrences: 2
+  traditions:
+  - celtic
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  reason: suggested exclusion
+  rationale: This is a generic plot resolution with no indicated sacred, ritual, or
+    recurrent symbolic mechanism.
+  cautions: Could map to mercy or justice only if source evidence makes those normative
+    or divine functions explicit.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: like_responds_to_like
+  label: Like responds to like
+  occurrences: 2
+  traditions:
+  - confucian
+  - taoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  reason: low confidence
+  rationale: The phrase may express correlative cosmology, ethical resonance, or sympathetic
+    action, none of which is captured precisely by Duality.
+  cautions: Do not equate similarity/correspondence with opposition; source context
+    is needed to distinguish philosophy, divination, and ritual efficacy.
+  suggested_aliases:
+  - resonance of like with like
+  - correlative response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- motif_id: lost_child
+  label: lost child
+  occurrences: 2
+  traditions:
+  - fjort
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: A lost child can signal ordinary separation, abduction, endangered infancy,
+    or otherworldly substitution.
+  cautions: Source context is needed before choosing miraculous_child, otherworld,
+    or a family-quest pattern.
+  suggested_aliases:
+  - missing child
+  - child separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - otherworld
+    - hero_journey
+    reason_existing_groups_insufficient: No existing group covers child loss without
+      assuming its cause or resolution.
+- motif_id: magic_flight_with_thrown_objects_becoming_obstacles
+  label: Magic flight with thrown objects becoming obstacles
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  - romanian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Thrown Obstacles
+  relationship: alias
+  confidence: high
+  reason: new group candidate
+  rationale: This is a direct wording variant of the thrown-object magical-flight
+    sequence.
+  cautions: Confirm an active pursuit and magical obstacle transformation in source
+    evidence.
+  suggested_aliases:
+  - magic obstacle flight
+  suggested_new_group:
+    id: magic_flight_thrown_obstacles
+    label: Magic Flight and Thrown Obstacles
+    description: An escaping figure throws magical objects behind them; the objects
+      transform into barriers or terrain that delay or defeat a pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, trickery,
+      transformation, and power objects, but not this distinctive pursuit-escape sequence.
+- motif_id: magic_flight_with_thrown_obstacle_objects
+  label: Magic flight with thrown obstacle objects
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - siberian
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Thrown Obstacles
+  relationship: narrower_than
+  confidence: high
+  reason: new group candidate
+  rationale: The recurring escape sequence turns thrown objects into barriers that
+    impede pursuit.
+  cautions: Keep this distinct from ordinary travel, crafting, or shapeshifting; source
+    evidence should confirm transformation of objects into obstacles.
+  suggested_aliases:
+  - magic obstacle flight
+  - thrown objects become obstacles
+  suggested_new_group:
+    id: magic_flight_thrown_obstacles
+    label: Magic Flight and Thrown Obstacles
+    description: An escaping figure throws magical objects behind them; the objects
+      transform into barriers or terrain that delay or defeat a pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, trickery,
+      transformation, and power objects, but not this distinctive pursuit-escape sequence.
+- motif_id: magic_obstacle_flight
+  label: Magic obstacle flight
+  occurrences: 2
+  traditions:
+  - native_american_plains
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Thrown Obstacles
+  relationship: broader_label
+  confidence: high
+  reason: new group candidate
+  rationale: This broad label names the same magical escape-and-obstacle pattern.
+  cautions: Narrow to thrown-object transformation only when that mechanism is documented.
+  suggested_aliases:
+  - magic flight with thrown obstacle objects
+  suggested_new_group:
+    id: magic_flight_thrown_obstacles
+    label: Magic Flight and Thrown Obstacles
+    description: An escaping figure throws magical objects behind them; the objects
+      transform into barriers or terrain that delay or defeat a pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, trickery,
+      transformation, and power objects, but not this distinctive pursuit-escape sequence.
+- motif_id: microcosm_and_macrocosm_correspondence
+  label: Microcosm and macrocosm correspondence
+  occurrences: 2
+  traditions:
+  - sufi
+  - taoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Microcosm and Macrocosm Correspondence
+  relationship: symbolic_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: This structured cosmological correspondence is not adequately represented
+    by duality, mystical quest, or sacred knowledge alone.
+  cautions: Review whether occurrences express a stable cosmological relation rather
+    than a modern comparative abstraction.
+  suggested_aliases:
+  - microcosm-macrocosm analogy
+  - human-cosmos correspondence
+  suggested_new_group:
+    id: microcosm_macrocosm_correspondence
+    label: Microcosm and Macrocosm Correspondence
+    description: The human body, self, community, or ritual order mirrors and participates
+      in the structure, processes, or qualities of the wider cosmos.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - duality
+    - mystical_quest
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups treat knowledge, opposition,
+      and mystical transformation but not the specific part-whole correspondence between
+      human and cosmos.
+- motif_id: moccasin_game_song_performance
+  label: moccasin game song performance
+  occurrences: 2
+  traditions:
+  - native_american_great_lakes
+  - native_american_plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  reason: low confidence
+  rationale: This names a culturally specific game-song practice rather than a clear
+    cross-source motif.
+  cautions: Do not subsume it under enchanting music without evidence that song has
+    supernatural or narrative efficacy; consult culturally grounded source descriptions.
+  suggested_aliases:
+  - moccasin game song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_time
+    reason_existing_groups_insufficient: No existing group captures this specific
+      ceremonial or game-performance context.
+- motif_id: origin_explanation_for_animal_traits
+  label: origin explanation for animal traits
+  occurrences: 2
+  traditions:
+  - filipino
+  - temne
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: alias
+  confidence: high
+  reason: new group candidate
+  rationale: The label is a wording variant of animal-trait etiological narrative.
+  cautions: Apply only when a narrative explains why the trait exists.
+  suggested_aliases:
+  - animal trait origin explanation
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Narratives explaining the origin of an animal's bodily marks, traits,
+      habits, behavior, or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Cosmic Origin contains place and people etiology
+      but does not provide a usable group for repeated animal-specific etiologies.
+- motif_id: paired_or_grouped_title_figures
+  label: paired or grouped title figures
+  occurrences: 2
+  traditions:
+  - celtic
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  reason: suggested exclusion
+  rationale: This concerns title construction or cataloging, not a narrative relation
+    between the figures.
+  cautions: Do not map to twins, siblings, or duality unless the source establishes
+    a meaningful paired role.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: rescue_from_drowning
+  label: rescue from drowning
+  occurrences: 2
+  traditions:
+  - fjort
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  reason: low confidence
+  rationale: Rescue from water fits divine intervention only when a sacred agent or
+    miracle is present.
+  cautions: Could be ordinary rescue, sea-journey peril, water passage, or a local
+    salvation episode; do not force a sacred-water reading.
+  suggested_aliases:
+  - deliverance from drowning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- motif_id: sacred_animals
+  label: Sacred animals
+  occurrences: 2
+  traditions:
+  - bavili
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  reason: low confidence
+  rationale: Sacred-animal status can denote taboo, divine embodiment, helper roles,
+    sacrifice, or symbolic association.
+  cautions: The broad label lacks a narrative or ritual function and should not be
+    forced into animal helpers or sacred law.
+  suggested_aliases:
+  - holy animals
+  - ritually significant animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacred_substance
+    reason_existing_groups_insufficient: No existing group represents sacred-animal
+      status independently of a specific function.
+- motif_id: sacred_natural_beings_and_places
+  label: sacred natural beings and places
+  occurrences: 2
+  traditions:
+  - celtic
+  - ganda
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  reason: low confidence
+  rationale: The label combines sacred landscape and nonhuman beings without specifying
+    their role.
+  cautions: Do not map all sacralized nature to axis mundi; source context may instead
+    concern local spirits, pilgrimage, or tutelary powers.
+  suggested_aliases:
+  - sacred landscape and beings
+  - numinous natural places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups distinguish sacred center,
+      divine agency, and otherworld but none safely encompasses this broad composite.
+- motif_id: songs_concerning_sacred_stones
+  label: Songs concerning sacred stones
+  occurrences: 4
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  reason: low confidence
+  rationale: Sacred stones may be power objects, and songs may ritually address or
+    activate them.
+  cautions: The label combines object and performance without their function; preserve
+    local meanings and avoid reducing it to generic object worship.
+  suggested_aliases:
+  - ritual songs for sacred stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- motif_id: sounding_gambling_sticks
+  label: sounding gambling sticks
+  occurrences: 4
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The implement and its sounding action do not establish whether this is
+    ordinary play, divination, ritual, or magic.
+  cautions: Culturally specific game terminology requires source review; do not recast
+    it as divination or sacred practice from the label alone.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- motif_id: spirit_inhabited_tree
+  label: spirit-inhabited tree
+  occurrences: 2
+  traditions:
+  - ganda
+  - hausa
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  reason: low confidence
+  rationale: A sacred tree can serve as a dwelling or contact point for nonhuman powers.
+  cautions: Tree residence does not establish an axis mundi function; may instead
+    be local spirit ontology or sacred geography.
+  suggested_aliases:
+  - tree-dwelling spirit
+  - spirit dwelling in a tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- motif_id: spirit_possession
+  label: spirit possession
+  occurrences: 2
+  traditions:
+  - chaco_amerindian
+  - hausa
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: Possession is a distinct embodied spirit-human relation not represented
+    by current groups.
+  cautions: Culturally sensitive and highly variable; distinguish ritual mediumship,
+    illness, affliction, and voluntary embodiment from source evidence.
+  suggested_aliases:
+  - spirit embodiment
+  - spirit mediumship
+  suggested_new_group:
+    id: spirit_possession_and_mediumship
+    label: Spirit Possession and Mediumship
+    description: A spirit or nonordinary being enters, speaks through, controls, or
+      ritually works through a human body.
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - soul_loss_restoration
+    - sacred_law
+    reason_existing_groups_insufficient: Divine intervention covers external sacred
+      action, but not the specific embodied relation of possession or mediumship.
+- motif_id: suspended_nest_over_water
+  label: suspended nest over water
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: The label gives an image or setting without indicating a narrative or
+    symbolic function.
+  cautions: Could concern creation, refuge, animal behavior, or local cosmology; source
+    context is required.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: totemic_exogamy
+  label: Totemic exogamy
+  occurrences: 2
+  traditions:
+  - bavili
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  reason: low confidence
+  rationale: Exogamy is a kinship rule that may have sacred grounding, but the label
+    does not establish its narrative or ritual role.
+  cautions: Culturally sensitive and anthropological terminology; preserve community-specific
+    kinship concepts and avoid reducing them to a generic motif without source review.
+  suggested_aliases:
+  - totem-based marriage rule
+  - clan exogamy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - covenant
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- motif_id: transmigration
+  label: transmigration
+  occurrences: 3
+  traditions:
+  - germanic
+  - gnostic
+  - hausa
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Transmigration and Reincarnation
+  relationship: narrower_than
+  confidence: medium
+  reason: new group candidate
+  rationale: Movement of a soul through successive bodies or lives is more specific
+    than the current broad death-and-transformation group.
+  cautions: The label can mean migration, soul transfer, or reincarnation; source
+    evidence must distinguish these before final use.
+  suggested_aliases:
+  - reincarnation
+  - migration of souls
+  - rebirth in another body
+  suggested_new_group:
+    id: transmigration_reincarnation
+    label: Transmigration and Reincarnation
+    description: A soul, identity, or vital continuity passes into another body or
+      successive life, often linking death, rebirth, and moral or cosmological order.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    reason_existing_groups_insufficient: Death and Transformation includes renewal
+      broadly but does not isolate repeated embodiment or soul passage between bodies.
+- motif_id: tree_refuge_during_pursuit
+  label: Tree refuge during pursuit
+  occurrences: 3
+  traditions:
+  - caucasian
+  - guiana_amerindian
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  reason: low confidence
+  rationale: A tree used as refuge may be a local setting detail rather than a stable
+    sacred-tree pattern.
+  cautions: Review alongside related pursuit episodes; do not infer axis-mundi meaning
+    merely from a tree setting.
+  suggested_aliases:
+  - tree refuge from pursuing animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: tree_refuge_from_pursuing_animals
+  label: tree refuge from pursuing animals
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  reason: low confidence
+  rationale: This is a contextual pursuit-and-refuge episode, and the tree's function
+    is not necessarily sacred or axial.
+  cautions: Map to axis_mundi only if the tree mediates realms or sacred power; otherwise
+    retain as local narrative detail.
+  suggested_aliases:
+  - tree refuge during pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: vanishing_water_in_a_strange_country
+  label: vanishing water in a strange country
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  reason: low confidence
+  rationale: Water disappearance may be an etiological, journey, danger, or landscape
+    narrative feature.
+  cautions: Avoid equating scarcity or disappearance with sacred waters, flood, or
+    otherworld without passage evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: water_associated_supernatural_being
+  label: water-associated supernatural being
+  occurrences: 2
+  traditions:
+  - buddhist
+  - vietnamese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: role_variant
+  confidence: low
+  reason: low confidence
+  rationale: A supernatural being linked to water may relate to sacred waters, but
+    the label lacks its narrative role or water function.
+  cautions: Could be a local deity, serpent, guardian, or otherworldly being; preserve
+    culturally specific identity and avoid generic reduction.
+  suggested_aliases:
+  - water spirit
+  - water deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- motif_id: youngest_son_succeeds_where_elder_brothers_fail
+  label: Youngest son succeeds where elder brothers fail
+  occurrences: 2
+  traditions:
+  - shan
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Youngest Child's Reversal of Seniority
+  relationship: functional_variant
+  confidence: medium
+  reason: new group candidate
+  rationale: The decisive pattern is reversal of birth-order expectation through the
+    youngest sibling's success.
+  cautions: Confirm a repeated narrative structure rather than incidental sibling
+    ranking; avoid equating success automatically with sacred destiny.
+  suggested_aliases:
+  - youngest son succeeds
+  - youngest sibling triumphs
+  - junior sibling reversal
+  suggested_new_group:
+    id: youngest_child_succeeds
+    label: Youngest Child's Reversal of Seniority
+    description: A youngest or socially junior child succeeds in a quest, task, or
+      ordeal where older siblings fail, reversing ordinary birth-order expectation.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sibling_pair
+    - miraculous_child
+    reason_existing_groups_insufficient: Sibling_pair covers joint or opposed siblings
+      but does not capture the success-through-juniority narrative function.
+

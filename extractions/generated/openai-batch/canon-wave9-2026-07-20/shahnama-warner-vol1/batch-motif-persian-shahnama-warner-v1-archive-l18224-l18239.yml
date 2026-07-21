@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l18224-l18239
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: GARSHASP / GARSHASP  383 / GARSHASP  385 / GARSHASP  387; lines 18224-18239
+  start: '18224'
+  end: '18239'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Kubad hath not his peer in all the world."'
+  summary: After Kulun is left on the field and troops flee from Rustam, the paladin
+    moves toward the hills, stops at a place with grass and water, provides robes,
+    a royal steed, and a crown, secretly introduces the Shah to Zal, joins a week-long
+    concealed conclave, and the group acclaims and celebrates Kubad before displaying
+    a crown above an ivory throne.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Kulun is left upon the field; troops flee in dismay from Rustam, and their
+    fortune is said to be overthrown.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The paladin passes the outposts, hastens toward the hills, and stops at a
+    place with grass and water until night.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The paladin furnishes robes fit for a paladin, a royal steed, and a crown,
+    then introduces the Shah to Zal unnoticed.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: For a week the group sits in conclave while keeping their movements secret.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The participants agree that Kubad has no peer in all the world.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: They revel with Kubad for seven days; on the eighth day they hang the crown
+    on high and arrange an ivory throne beneath it.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Rustam / the paladin
+  description: Rustam is named as the figure from whom troops flee; the following
+    actions are attributed to a figure called the paladin.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Kulun
+  description: Kulun is left upon the field.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: fleeing troops
+  description: A collective group of troops flees in dismay from Rustam, and their
+    fortune is overthrown.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Kubad / the Shah
+  description: The Shah is introduced to Zal; the group declares that Kubad has no
+    peer, revels with Kubad, and displays a crown and ivory throne.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Zal
+  description: Zal is the person to whom the Shah is introduced unnoticed.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: paladin and arranger
+  assigned_to:
+  - fig:1
+  basis: The passage calls the active figure a paladin and has him travel, stop at
+    a watered place, furnish regalia, and introduce the Shah to Zal.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: field-left opponent or casualty
+  assigned_to:
+  - fig:2
+  basis: Kulun is left upon the field; the passage does not specify more within this
+    excerpt.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: routed troops
+  assigned_to:
+  - fig:3
+  basis: The troops flee in dismay from Rustam and their fortune is overthrown.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: acclaimed royal figure
+  assigned_to:
+  - fig:4
+  basis: Kubad is identified with the Shah, praised as peerless, celebrated for seven
+    days, and associated with the crown and ivory throne display.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+- id: role:5
+  label: recipient of secret introduction
+  assigned_to:
+  - fig:5
+  basis: The Shah is introduced to Zal unnoticed.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: place with grass and water
+  literal_form: A stopping-place with grass and water.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: provided regalia and equipment
+  literal_form: Robes fit for a paladin, a royal steed, and a crown.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: crown hung on high
+  literal_form: A crown hung up on high on the eighth day.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: ivory throne
+  literal_form: A throne of ivory decked beneath the crown.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: seven days and eighth day sequence
+  literal_form: A week of conclave, seven days of reveling, and an eighth-day crown-and-throne
+    display.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+scenes:
+- id: scene:1
+  label: Rout after Kulun is left on the field
+  summary: Kulun is left on the field while troops flee from Rustam in dismay and
+    their fortune is overturned.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Movement to the hills and secret introduction
+  summary: The paladin passes the outposts, goes toward the hills, stops at a place
+    with grass and water, provides robes, a royal steed, and a crown, and introduces
+    the Shah to Zal unnoticed.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Secret conclave and acclaim of Kubad
+  summary: For a week the group remains in conclave with secret movements, and they
+    agree that Kubad has no peer in the world.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Seven-day revel and crown-throne display
+  summary: The group revels with Kubad for seven days; on the eighth day they hang
+    the crown high and arrange an ivory throne beneath it.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Royal recognition through acclaim, crown, and throne
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Kubad is acclaimed as peerless, celebrated, and associated with the public
+    display of a raised crown and an ivory throne.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The excerpt shows recognition and regalia display but does not narrate
+    a full coronation rite or legal succession procedure.
+- id: motif:2
+  label: Secret council preparing royal recognition
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Shah is secretly introduced to Zal, and the group spends a week in concealed
+    conclave before Kubad is acclaimed and celebrated.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explicitly list all conclave participants or state
+    the full political plan.
+- id: motif:3
+  label: Heroic paladin as royal sponsor or arranger
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The paladin provides royal equipment, including a steed and crown, and arranges
+    the Shah's unnoticed introduction to Zal before Kubad's acclaim.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The passage supports the paladin's arranging function, but broader claims
+    about heroic kingship sponsorship require context outside this excerpt.
+comparison_claims:
+- id: claim:1
+  claim: Within the supplied taxonomy, the passage is functionally comparable to a
+    royal-legitimacy pattern because Kubad is acclaimed and framed by crown-and-throne
+    regalia after secret preparation.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional motif comparison only; the excerpt gives no basis
+    for claims about historical contact, common inheritance, or an external parallel
+    tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 18224-18227
+  quote_or_summary: '"left Kulun upon the field. His troops / Fled in dismay from
+    Rustam. In an instant / Their fortune was o''erthrown."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 18227-18230
+  quote_or_summary: '"He passed the outposts / And hastened toward the hills. The
+    paladin / Alighted at a place with grass and water"'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: 18230-18233
+  quote_or_summary: The paladin furnishes robes fit for a paladin, a royal steed,
+    and a crown, then introduces the Shah to Zal unnoticed.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 18233-18235
+  quote_or_summary: '"For a week they sat in conclave / But kept their movements secret."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:5
+  type: quote
+  locator: 18235-18236
+  quote_or_summary: '"Kubad hath not his peer in all the world."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: quote
+  locator: 18237-18239
+  quote_or_summary: '"For seven days they revelled with Kubad, / Upon the eighth hung
+    up the crown on high / And ''neath it decked the throne of ivory."'
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Identification of Kubad
+    with the Shah and Rustam with the paladin follows the immediate sequence but should
+    be checked against surrounding context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or cross-tradition claims are made. Taxonomy references are limited to supplied motif and symbol lists.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l18224-l18239
+  passage_sha256=ba6b7eb90e1843ceb62c2f3ac02312c2f180843b0156a164a1458195730241a0
+

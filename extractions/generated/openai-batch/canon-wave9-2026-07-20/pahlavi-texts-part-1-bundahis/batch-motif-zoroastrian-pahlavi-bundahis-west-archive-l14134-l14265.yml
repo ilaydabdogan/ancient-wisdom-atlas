@@ -1,0 +1,459 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l14134-l14265
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: VIII, 18. / CHAPTERS I, 4-II, 2. 245 / Chapter II. / CHAPTER 11,8-11. 249;
+    lines 14134-14265
+  start: '14134'
+  end: '14265'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual-legal rules about corpse pollution: indirect
+    contamination through contact, different effects when a dog has or has not seen
+    the corpse, degrees of cleansing required, penalties for bringing or moving dead
+    matter, use of a stake or another person''s hand in handling a corpse, and how
+    to judge uncertainty about a corpse found at night.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Contact with a person who touched a corpse can transmit indirect pollution
+    through a chain of contact.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage distinguishes the indirect pollution of an ape and of a menstruous
+    woman from the preceding contact rule, though the note says the meaning is uncertain.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A shepherd's dog, village dog, and similar dogs are said to carry contamination
+    to specified numbers of persons, and the handling of dog carcasses affects the
+    cleanliness of a place.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Bringing dead matter onto another person is described as a sin worthy of death,
+    with greater severity when a dog has not seen the corpse.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Afarg is cited as saying that lack of appliances or means does not excuse
+    committing a sin worthy of death in cases involving death and sickness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: If a corpse unseen by a dog is moved by many men, all their bodies become
+    polluted and require ceremonial washing.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: For some handling of a corpse that a dog has seen, ceremonial washing is not
+    required; contact without moving the corpse is cleansed with bull's urine and
+    water.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: A corpse unseen by a dog may be moved with a stake, and the note explains
+    the stake as preventing direct attack by the Nasu demon of corruption.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Moving a corpse by means of another man's hand pollutes both the one directing
+    the act and the one whose hand supplies the movement, with different named sins
+    assigned according to circumstance.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: If a man passes a place at night and later finds a corpse there, not knowing
+    whether it was already present, he is to consider that it was not there when he
+    passed.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: generic corpse-handler or passer-by
+  description: A person who touches, moves, directs movement of, or passes near a
+    corpse under the rules described.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: dog
+  description: A dog whose seeing of a corpse changes the pollution rules; shepherd's
+    and village dogs are also discussed as carriers of contamination when dead.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: ape
+  description: An ape is mentioned in connection with indirect pollution, with an
+    editorial note that the passage is uncertain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: menstruous woman
+  description: A menstruous woman is mentioned in connection with indirect pollution,
+    with the text stating that it does not act in the same way.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Afarg
+  description: A named authority cited for the ruling that lack of appliances or means
+    does not excuse a sin worthy of death in death and sickness cases.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Nasu
+  description: In the note, Nasu is identified as the demon of corruption whose direct
+    attack can be prevented by interposing a stake or wood when the corpse has not
+    been seen by a dog.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: corpse-contact participant
+  assigned_to:
+  - fig:1
+  basis: The rules address persons who bring, touch, move, or indirectly move a corpse
+    or dead matter.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:2
+  label: corpse-seeing animal affecting purity status
+  assigned_to:
+  - fig:2
+  basis: Whether a dog has seen the corpse changes the severity of pollution and the
+    required washing.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: contamination-associated being
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: Dogs, an ape, and a menstruous woman are each mentioned in relation to indirect
+    pollution or contamination.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ritual-legal authority
+  assigned_to:
+  - fig:5
+  basis: Afarg is cited by name as giving a ruling about accountability where appliances
+    and means are lacking.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: demon of corruption
+  assigned_to:
+  - fig:6
+  basis: The note calls Nasu the demon of corruption and connects it with corpse pollution
+    not driven away by a dog.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dead matter or corpse
+  literal_form: corpse; dead matter (nasai)
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: dog gaze upon corpse
+  literal_form: a dog seeing or not seeing the corpse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: cleansing liquid
+  literal_form: bull's urine and water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: stake as handling barrier
+  literal_form: stake or piece of wood used to move a corpse
+  associated_figures:
+  - fig:1
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: nighttime uncertainty at corpse-place
+  literal_form: a place passed at night where a corpse is later found
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Indirect pollution and animal-related contamination
+  summary: The passage describes indirect corpse pollution by contact and then discusses
+    special cases involving an ape, a menstruous woman, and dog carcasses that carry
+    contamination.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Accountability for placing dead matter on a person
+  summary: A person who brings dead matter onto another person is judged worthy of
+    death, especially where a dog has not seen the corpse; Afarg rejects lack of means
+    as an excuse.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Moving a corpse and required cleansing
+  summary: Rules distinguish moving a corpse unseen by a dog, moving or contacting
+    one seen by a dog, and the washing required in each case.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Stake or another hand as intermediary in corpse handling
+  summary: The passage explains movement of a corpse by a stake or by another man's
+    hand, with the note adding that wood blocks direct attack by the Nasu demon of
+    corruption.
+  figure_refs:
+  - fig:1
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Uncertain corpse presence at night
+  summary: When a man passed a place at night and later finds a corpse there, uncertainty
+    about whether the corpse was present is resolved by considering that it was not
+    there.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: corpse pollution by contact-chain
+  taxonomy_refs: []
+  basis: The passage describes indirect pollution spreading through contact with a
+    corpse-toucher and pollution affecting all who move an unseen corpse.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a ritual-purity pattern rather than a narrative myth motif in
+    the supplied taxonomy.
+- id: motif:2
+  label: dog gaze alters corpse-pollution status
+  taxonomy_refs: []
+  basis: Multiple rules hinge on whether a dog has seen the corpse, and the note says
+    the dog can drive away the Nasu-related danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage states a ritual rule; it does not narrate a mythic episode
+    involving the dog.
+- id: motif:3
+  label: purification by prescribed washing
+  taxonomy_refs: []
+  basis: The passage differentiates ceremonial washing from cleansing with bull's
+    urine and water according to the type of corpse contact.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The available motif-family taxonomy has no direct ritual-cleansing category.
+- id: motif:4
+  label: protective intermediary object in corpse handling
+  taxonomy_refs: []
+  basis: A stake may be used in moving the corpse, and the note says wood prevents
+    direct attack by the Nasu demon of corruption.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The protective meaning depends on the explanatory note rather than the
+    main rule alone.
+- id: motif:5
+  label: ritual liability for delegated corpse movement
+  taxonomy_refs: []
+  basis: When one person moves a corpse by another person's hand, both become polluted
+    and named sins are assigned to both parties.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: This is a legal-ritual responsibility pattern, not a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The notes compare this passage's limits of indirect corpse pollution and
+    dog-gaze rules with Vendidad V and Pahlavi Vendidad V, indicating a shared nearby-corpus
+    ritual rule family.
+  claim_level: same_function
+  target: Vendidad V and Pahlavi Vendidad V corpse-pollution rules
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the editorial notes provided in the passage
+    and does not independently assess the cited texts.
+- id: claim:2
+  claim: The notes compare the hierarchy of dog-related contamination, including treatment
+    of the shepherd's dog, with Vendidad V and Pahlavi Vendidad V.
+  claim_level: same_function
+  target: Vendidad V and Pahlavi Vendidad V dog-contamination rules
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns ritual function and cited legal parallels only;
+    it does not establish historical contact beyond the internal citation tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: "§§60-62 within lines 14134-14265"
+  quote_or_summary: The text describes indirect corpse pollution through contact,
+    mentions an ape and a menstruous woman as special cases, and states that shepherd's
+    dogs, village dogs, and similar dogs carry contamination to specified extents.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: "§§63-64 within lines 14134-14265"
+  quote_or_summary: Bringing dead matter onto a person is called worthy of death;
+    the rule distinguishes corpses seen and unseen by a dog, and Afarg is cited as
+    denying excuse through lack of appliances or means.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: "§§65-68 within lines 14134-14265"
+  quote_or_summary: Moving a corpse unseen by a dog pollutes all who move it and requires
+    ceremonial washing; other cases involving a dog-seen corpse or contact without
+    movement require lesser or non-ceremonial cleansing, including bull's urine and
+    water.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: "§68 note within lines 14134-14265"
+  quote_or_summary: A stake or piece of wood is said to prevent direct attack by Nasu,
+    the demon of corruption, when a corpse has not been seen by a dog; the note links
+    this with inanimate objects stopping pollution.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: "§§69-71 within lines 14134-14265"
+  quote_or_summary: When a corpse is moved by another man's hand, both parties become
+    polluted and incur named sins, with distinctions according to strength, agency,
+    and whether the corpse was seen by a dog.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: summary
+  locator: "§72 within lines 14134-14265"
+  quote_or_summary: A man who passed a place at night and later finds a corpse there,
+    without knowing whether it was previously present, should consider that it was
+    not there when he passed.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: editorial notes to §§60-62 and §§65-68 within lines 14134-14265
+  quote_or_summary: The notes cite Vendidad V and Pahlavi Vendidad V on limits of
+    corpse pollution, Soshans on dog-gaze before pollution reaches its maximum, and
+    rules concerning dogs such as the shepherd's dog.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The ritual rules are explicit, but some details are textually uncertain in
+    the supplied notes, and several motif labels are analytical because the passage
+    is legal-ritual rather than narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available motif-family taxonomy reference directly matches corpse pollution, dog-gaze purification, or ritual washing; therefore most motif taxonomy fields are left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l14134-l14265
+  passage_sha256=1d3624661440094e2b72712b9ee93477b7568d3cd88ea623777ce27f83b0944e
+

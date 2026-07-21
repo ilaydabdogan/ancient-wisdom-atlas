@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.native-american-zuni-indians-stevenson-archive-l20656-l20713
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: DRESS AND ADORNMENT / WEAVING / BASKETRY / POTTERY; lines 20656-20713
+  start: '20656'
+  end: '20713'
+  translation: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: A bit of wafer bread is deposited in each vase, so that the spirit of the
+    vase may be fed with the spiritual essence of the bread.
+  summary: The passage describes pottery preparation, coloring, firing, and vessel
+    forms, including outdoor firing in a manure oven and the deposition of wafer bread
+    in each vase to feed the vase's spirit.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage states that these potters do not use patterns in molding or decorating,
+    and that in many pueblos pottery is finished plain red or black.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Vases made from yellowish clay are placed in the sun, washed with red ocher
+    solution, polished repeatedly with a stone while kept moist, then returned briefly
+    to the sun before final baking.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: For black pottery, vessels remain in ovens covered with loose manure; the
+    smothered fire produces dense smoke absorbed by the pottery, and no black pigment
+    is used.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage lists modeled forms including water jars, bowls with fluted edges,
+    imitations of birds and beasts, and other figures.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: For Zuni pottery baking, an outdoor spot is selected, preferably on a windless
+    day, except when it is the regular time for baking pottery during summer solstice
+    ceremonies.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Pieces to be fired are raised on stones, surrounded and covered with dried
+    manure from sheep and goat pens, and heated gradually before being subjected to
+    intense heat for one or two hours.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A bit of wafer bread is deposited in each vase so that the spirit of the vase
+    may be fed with the bread's spiritual essence.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: potters / Zuni potter
+  description: Craft workers who mold, polish, color, decorate, and fire pottery vessels.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: woman polishing a vessel
+  description: A woman repeatedly goes over the vessel surface with a polishing stone
+    and keeps it moist with a wet cloth.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: spirit of the vase
+  description: The passage states that each vase has a spirit that may be fed with
+    the spiritual essence of wafer bread.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: pottery maker and firing agent
+  assigned_to:
+  - fig:1
+  basis: The potters prepare, decorate, and bake pottery; the Zuni potter selects
+    the firing conditions.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+- id: role:2
+  label: vessel polisher
+  assigned_to:
+  - fig:2
+  basis: The woman repeatedly polishes the wet vessel surface with a stone.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipient of ritual food essence
+  assigned_to:
+  - fig:3
+  basis: Wafer bread is deposited in each vase so the vase's spirit may be fed.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: red ocher wash
+  literal_form: solution of red ocher applied to wet clay vessels
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire and smoke
+  literal_form: smothered fire and dense smoke used in pottery coloring and firing
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: sun drying
+  literal_form: vases placed in the sun before and after polishing
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:4
+  label: manure oven
+  literal_form: dried manure from sheep and goat pens built around and over the vessels
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:5
+  label: wafer bread offering
+  literal_form: bit of wafer bread deposited in each vase
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: vase as spirit-bearing vessel
+  literal_form: vase described as having a spirit that can be fed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:7
+  label: modeled vessel forms
+  literal_form: water jars, fluted bowls, imitations of birds and beasts, and other
+    figures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Preparation and coloring of plain pottery
+  summary: Potters form yellowish clay vessels, dry them in the sun, apply red ocher,
+    polish them while moist, and bake them; some retain red coloring while others
+    are blackened by smoke.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Outdoor firing of pottery
+  summary: A Zuni potter selects an outdoor firing place, raises the vessels on stones,
+    builds a dried-manure oven around them, and manages the fire from gradual heating
+    to intense heat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:3
+  label: Feeding the vase spirit
+  summary: A bit of wafer bread is placed in each vase so that the vase's spirit may
+    be fed by the spiritual essence of the bread.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:7
+- id: scene:4
+  label: Modeled pottery shapes
+  summary: Although surface decoration is limited, potters model various forms including
+    jars, bowls, birds, beasts, and other figures.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: feeding the spirit of a crafted vessel
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage states that wafer bread is deposited in each vase so the spirit
+    of the vase may be fed with the bread's spiritual essence.
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage states feeding or offering, but does not explicitly state
+    reciprocity or exchange from the vase spirit.
+- id: motif:2
+  label: craft baking timed to summer solstice ceremonies
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage notes a regular time for baking pottery during summer solstice
+    ceremonies.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief procedural note and does not explain the
+    ceremony's mythic meaning.
+comparison_claims:
+- id: claim:1
+  claim: The bread placed in each vase can be cautiously compared by function to a
+    sacred-exchange pattern in which food is given to a nonhuman or object-associated
+    spirit.
+  claim_level: same_function
+  target: sacred_exchange motif family
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage supports feeding the vase spirit, but it does not describe
+    a return gift, covenant, or broader exchange structure.
+- id: claim:2
+  claim: The pottery baking associated with summer solstice ceremonies can be cautiously
+    compared by function to a seasonal-cycle pattern linking craft activity to a calendrical
+    ritual moment.
+  claim_level: same_function
+  target: seasonal_cycle motif family
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The passage only mentions timing during summer solstice ceremonies
+    and does not provide a narrative or myth explaining the seasonal connection.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20656-20661
+  quote_or_summary: Potters do not use patterns; pottery may be plain red or black;
+    yellowish clay vases are placed in the sun for hours.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 20661-20667
+  quote_or_summary: Vessels are washed with red ocher solution and polished repeatedly
+    with a stone while kept moist with a wet cloth, then placed again in the sun before
+    baking.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 20667-20674
+  quote_or_summary: Black vessels remain in ovens covered with loose manure; smothered
+    fire produces dense smoke absorbed into the pottery, with no black pigment used.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 20674-20677
+  quote_or_summary: '"There are water jars and bowls with fluted edges, imitations
+    of birds and beasts"'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 20678-20685
+  quote_or_summary: A suitable outdoor spot and preferably a windless day are selected,
+    unless it is the regular pottery-baking time during summer solstice ceremonies.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 20685-20691
+  quote_or_summary: Pieces are raised on stones, enclosed by a dried-manure oven,
+    and heated gradually before intense firing for about one or two hours.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 20691-20693
+  quote_or_summary: '"A bit of wafer bread is deposited in each vase" so the vase
+    spirit may be fed.'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The procedural pottery details are clear, but the passage includes OCR artifacts
+    and only brief ritual explanation. Motif and comparison claims are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external Zuni ceremonial context added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-zuni-indians-stevenson-archive__l20656-l20713
+  passage_sha256=d2d16c1fa397114f911a6386e9453e557a07d424f548c9a727574f236241cf05
+

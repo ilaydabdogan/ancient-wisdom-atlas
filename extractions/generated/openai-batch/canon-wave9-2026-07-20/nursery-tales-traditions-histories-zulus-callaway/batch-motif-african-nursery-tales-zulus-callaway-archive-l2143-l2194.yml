@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l2143-l2194
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UHLAKANYANA. / UHLAKANYANA. / UHLAKANYANA. / TZINGANEKWANE.; lines 2143-2194
+  start: '2143'
+  end: '2194'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In this excerpt, Uthlakanyana refuses to release a cannibal who asks for
+    meat and help. A storm of hail, rain, and lightning comes; Uthlakanyana brings
+    the meat into the house and lights a fire while the cannibal remains on the house,
+    is struck by hailstones, and dies. Uthlakanyana then eats his cow alone and goes
+    on his way. He next meets another cannibal carrying a large musical calabash and
+    addresses him as uncle, but the cannibal questions the kinship claim.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Uthlakanyana says he is alone with his cow and refuses to come and undo the
+    cannibal, telling him to come down by the same strength with which he went up.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The cannibal asks Uthlakanyana to bring meat, mount up, help him, and undo
+    him, and addresses him as the child of his sister.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The cannibal says he has seen that his own cow is lean and that Uthlakanyana's
+    cow is the fat one.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A storm arrives with hailstones, lightning, rain, and hail.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Uthlakanyana takes all the meat into the house, remains in the house, and
+    lights a fire.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cannibal cries on the top of the house, is struck by hailstones, and dies
+    there on the house.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the weather clears, Uthlakanyana goes out, calls the cannibal uncle,
+    and asks why he is silent.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Uthlakanyana eats his cow alone until he has finished it, and then continues
+    on his way.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Uthlakanyana meets another cannibal who is carrying a large musical calabash;
+    Uthlakanyana calls him uncle, and the cannibal questions how he is Uthlakanyana's
+    uncle.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana
+  description: Named actor who refuses to release the first cannibal, brings meat
+    indoors, lights a fire, eats his cow alone, and then meets another cannibal.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: first cannibal
+  description: Cannibal who asks Uthlakanyana for meat and help, remains on top of
+    the house during the storm, and dies after being struck by hailstones.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: second cannibal
+  description: Another cannibal met by Uthlakanyana, carrying a large musical calabash
+    and questioning Uthlakanyana's address of him as uncle.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: named actor controlling meat and shelter
+  assigned_to:
+  - fig:1
+  basis: Uthlakanyana takes the meat into the house, stays indoors, lights a fire,
+    and later eats the cow alone.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:2
+  label: cannibal requesting release and dying on the house
+  assigned_to:
+  - fig:2
+  basis: The cannibal asks to be undone and later dies on the house after being struck
+    by hailstones.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: newly encountered cannibal with musical calabash
+  assigned_to:
+  - fig:3
+  basis: Uthlakanyana meets another cannibal who carries a large musical calabash.
+  evidence_refs:
+  - ev:6
+- id: role:4
+  label: contested or asserted kin relation
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The first cannibal calls Uthlakanyana the child of his sister, and Uthlakanyana
+    calls both cannibals uncle; the second cannibal questions the claim.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: cow and meat
+  literal_form: cow; fat meat; meat taken into the house and eaten
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:5
+- id: sym:2
+  label: house and roof
+  literal_form: house; top of the house where the cannibal remains and dies
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: storm
+  literal_form: hailstones, lightning, rain, and hail
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: fire
+  literal_form: fire lit by Uthlakanyana inside the house
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: large musical calabash
+  literal_form: large musical calabash carried by the second cannibal
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Cannibal asks for meat and release
+  summary: The first cannibal asks Uthlakanyana to bring him meat and undo him, while
+    Uthlakanyana refuses to help him come down.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Storm kills the cannibal on the house
+  summary: A storm comes; Uthlakanyana brings the meat into the house and lights a
+    fire, while the cannibal on top of the house is struck by hailstones and dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Uthlakanyana eats the cow and departs
+  summary: Uthlakanyana eats his cow alone until it is finished and then goes on his
+    way.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Encounter with another cannibal
+  summary: Uthlakanyana meets another cannibal carrying a large musical calabash and
+    addresses him as uncle; the cannibal questions the relationship.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cannibal left exposed while protagonist shelters with food
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Uthlakanyana refuses to undo the cannibal, takes the meat indoors, lights
+    a fire during the storm, and the cannibal dies on the house before Uthlakanyana
+    eats the cow alone.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The excerpt begins mid-episode, so the exact circumstances by which the
+    cannibal came to be on the house or needing to be undone are not shown in the
+    provided passage.
+- id: motif:2
+  label: dangerous being addressed through claimed kinship
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The first cannibal addresses Uthlakanyana as the child of his sister, and
+    Uthlakanyana addresses both cannibals as uncle; the second cannibal questions
+    the relationship.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage shows kinship language and contestation but does not explain
+    whether the kinship is literal, strategic, or formulaic.
+- id: motif:3
+  label: adversary killed by hailstorm
+  taxonomy_refs: []
+  basis: The storm comes with hailstones and lightning, and the cannibal is struck
+    by hailstones and dies on the house.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No divine or moral cause for the storm is stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2143-2154
+  quote_or_summary: Uthlakanyana says he is alone with his cow, says the other cow
+    is thin, and refuses to come and undo the cannibal.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 2155-2169
+  quote_or_summary: The cannibal asks Uthlakanyana to bring meat and undo him, calls
+    him the child of his sister, promises not to make noise, and says his own cow
+    is lean while Uthlakanyana's is fat.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 2170-2179
+  quote_or_summary: The sky brings hailstones and lightning; Uthlakanyana takes all
+    the meat into the house, stays there, lights a fire, and the cannibal on the house
+    is struck by hailstones and dies.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 2180-2187
+  quote_or_summary: When the weather clears, Uthlakanyana goes out and calls to the
+    cannibal as uncle, asking why he is silent.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 2188-2190
+  quote_or_summary: Uthlakanyana eats his cow alone until it is finished, and then
+    goes on his way.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 2191-2194
+  quote_or_summary: Uthlakanyana meets another cannibal carrying a large musical calabash,
+    calls him uncle, and the cannibal questions how he is Uthlakanyana's uncle.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an excerpt beginning mid-sentence and mid-episode, so some
+    narrative context is missing. Literal actions and objects are clear, while motif-family
+    assignment is cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not explicitly compare the episode with another text or tradition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l2143-l2194
+  passage_sha256=2ca870cbb7206066a3c4a0aaade401ace2cc4dfc407fad66d0e856b9967a0525
+

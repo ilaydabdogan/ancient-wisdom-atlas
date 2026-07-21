@@ -1,0 +1,334 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l896-l942
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: PREFACE TO THE TALE OF UTHLAKANYANA. / UHLAKANYANA. / IZINGANERWANE. / UIILAKANYANA.;
+    lines 896-942
+  start: '896'
+  end: '942'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“the child spoke in the womb”"
+  summary: A pregnant woman’s unborn child speaks from within the womb, asks to be
+    born immediately, and says his father’s cattle are being consumed. The father
+    gathers people to hear the prodigy; the child repeats the request and says he
+    will prepare flesh for himself. The people wonder what will happen. An editorial
+    footnote compares the wonder to a Christian hagiographic claim about St. Benedict
+    singing hymns in his mother’s womb.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A woman is pregnant and near the time of birth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The unborn child speaks from within the womb.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The child addresses his mother and asks her to give birth to him at once.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:4
+  text: The child says his father’s cattle are being devoured or are coming to an
+    end in the kraal.
+  category: speech
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:5
+  text: The mother calls others to listen and describes the event as a prodigy.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The father has slaughtered oxen and calls people together to hear the unborn
+    child speak.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The child says he wants to go and get ready flesh for himself.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The assembled people wonder what is going to happen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: The editorial footnote compares the unborn child’s speech with a report that
+    St. Benedict sang eucharistic hymns in his mother’s womb.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Uthlakanyana
+  description: An unborn child who speaks from his mother’s womb and asks to be born.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: Pregnant mother
+  description: A woman carrying the child; she hears him speak and calls others to
+    listen.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Father
+  description: The child’s father; he has slaughtered oxen and calls people to hear
+    the unborn child.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Assembled people
+  description: People who gather, listen to the unborn child, and wonder what will
+    happen.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: St. Benedict
+  description: A figure mentioned in the editorial footnote as having sung eucharistic
+    hymns in his mother’s womb, according to Mabillon.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: unborn speaker
+  assigned_to:
+  - fig:1
+  basis: The passage says the child spoke in the womb before birth.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: prodigious child
+  assigned_to:
+  - fig:1
+  basis: The mother and gathered people identify the unborn child’s speech as a prodigy.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: mother addressed by unborn child
+  assigned_to:
+  - fig:2
+  basis: The child addresses her as mother and asks her to give birth to him.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: father who summons witnesses
+  assigned_to:
+  - fig:3
+  basis: The father calls people together and asks that the child speak.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: witnesses to prodigy
+  assigned_to:
+  - fig:4
+  basis: The people come to hear the unborn child and react with wonder.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:6
+  label: editorial comparison figure
+  assigned_to:
+  - fig:5
+  basis: The footnote cites St. Benedict as a comparable case of activity in the womb.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: womb
+  literal_form: mother’s womb
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: cattle in the kraal
+  literal_form: father’s cattle in the kraal
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: slaughtered oxen and flesh
+  literal_form: slaughtered oxen; flesh for the child
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Unborn child speaks to his mother
+  summary: A pregnant woman’s unborn child speaks from the womb, asks to be born immediately,
+    and says the father’s cattle are being consumed.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Witnesses gather to hear the prodigy
+  summary: The father and other people gather after oxen have been slaughtered; the
+    unborn child repeats his demand to be born and mentions preparing flesh for himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Editorial comparison with St. Benedict
+  summary: The footnote comments on the apparent absurdity of the tale and compares
+    it with a hagiographic report of St. Benedict singing in his mother’s womb.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: child speaks before birth
+  taxonomy_refs:
+  - miraculous_child
+  basis: The central event is an unborn child speaking from the womb and directing
+    his own birth.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage frames the event as a prodigy but does not yet show the child’s
+    later character or larger narrative function.
+- id: motif:2
+  label: prodigy witnessed by assembled community
+  taxonomy_refs: []
+  basis: The mother and father call others to hear the unborn child, and the people
+    react with wonder.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a scene pattern within the passage rather than a named taxonomy
+    motif.
+- id: motif:3
+  label: urgent birth requested by unborn child
+  taxonomy_refs:
+  - miraculous_child
+  basis: The unborn child repeatedly tells his mother to give birth to him at once.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The reason for the request is stated as the loss of cattle and the child’s
+    desire for flesh, not as a sacred mission.
+comparison_claims:
+- id: claim:1
+  claim: The passage’s editorial footnote explicitly compares Uthlakanyana’s prenatal
+    speech with a Christian hagiographic report of St. Benedict singing hymns in his
+    mother’s womb; both involve remarkable activity by an unborn child.
+  claim_level: same_function
+  target: St. Benedict singing eucharistic hymns in his mother’s womb, as cited in
+    the footnote
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the editor, not by the tale’s narrator; it
+    establishes a shared pattern of prenatal miraculous activity, not historical contact
+    or common origin.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 896-910
+  quote_or_summary: "“the child spoke in the womb,” asking, “Mother, give birth to
+    me at once,” and saying the father’s cattle are being devoured."
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short excerpt used for scholarly extraction.
+- id: ev:2
+  type: summary
+  locator: lines 910-917
+  quote_or_summary: The mother calls others to listen, says a prodigy is occurring,
+    and reports that the child wants to be born because the cattle in the kraal are
+    coming to an end.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 918-934
+  quote_or_summary: The father has slaughtered oxen; people gather to hear the unborn
+    child. The child repeats that his mother should give birth to him, says the cattle
+    are coming to an end, and says he will get ready flesh for himself. The people
+    wonder what will happen.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: footnote 8, lines 935-942
+  quote_or_summary: The footnote comments on the apparent absurdity of the tale and
+    compares it with Mabillon’s report that St. Benedict sang eucharistic hymns in
+    his mother’s womb.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: medium
+  notes: The passage clearly supports the prenatal speech and witnessed prodigy motifs.
+    The only comparison claim is based on the editorial footnote and should not be
+    treated as evidence of contact or inheritance.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Taxonomy reference is limited to the available motif family directly supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l896-l942
+  passage_sha256=bf9284be1e8b1fee09f1a786718da71681dac74562f7d183a634e7563139e233
+

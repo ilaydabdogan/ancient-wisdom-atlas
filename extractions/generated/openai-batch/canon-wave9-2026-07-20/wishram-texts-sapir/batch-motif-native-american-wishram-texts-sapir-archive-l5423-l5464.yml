@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.native-american-wishram-texts-sapir-archive-l5423-l5464
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+passage_locator:
+  label: APPENDIX. SUPPLEMENTARY UPPER CHINOOKAN / TEXTS. / APPENDIX. SUPPLEMENTARY
+    UPPER CHINOOKAN / TEXTS.; lines 5423-5464
+  start: '5423'
+  end: '5464'
+  translation: Wishram Texts
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Coyote and his younger brother Eagle were living together.
+  summary: Coyote and his younger brother Eagle live together. Eagle repeatedly hunts
+    deer and boils meat, while Coyote brings mice and roasts them in ashes. Coyote
+    becomes angry, secretly kills Eagle, and says he will go to the woods because
+    the Indians will soon come. An editorial note identifies the ending as a Transformer
+    motive explaining later eagle and coyote behavior.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Coyote and Eagle are described as brothers living together, with Eagle identified
+    as the younger brother.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Eagle goes out hunting, kills deer, carries about two or three deer back to
+    the house, and boils meat.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: Coyote is left at home or in the house and brings only mice, which he roasts
+    in ashes in the house.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Coyote becomes angry.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Coyote secretly kills his younger brother Eagle.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: After Eagle is killed, Coyote is described as not staying long in any place.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Coyote says to himself that he will go to the woods because the Indians will
+    soon come.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: An editorial note says the last sentence contains a typical Transformer motive
+    and explains that, when Indians inhabit the country, eagles will get large game
+    while coyotes will wander and live on rodents.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: Coyote is Eagle's brother, remains associated with the house, brings
+    mice, becomes angry, kills Eagle, and says he will go to the woods before the
+    Indians come.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Eagle
+  description: Eagle is Coyote's younger brother; he hunts deer, brings deer home,
+    boils meat, and is killed by Coyote.
+  role_refs:
+  - role:1
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Indians
+  description: The Indians are named by Coyote as soon to come; the editorial note
+    refers to their future habitation of the country.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: co-resident sibling pair
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says Coyote and his younger brother Eagle were living together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: successful deer hunter and meat boiler
+  assigned_to:
+  - fig:2
+  basis: Eagle hunts, kills deer, carries deer home, and boils meat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: house-associated mouse bringer
+  assigned_to:
+  - fig:1
+  basis: Coyote is left at home or in the house and brings mice, which he roasts in
+    ashes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: killer of younger brother
+  assigned_to:
+  - fig:1
+  basis: The passage says Coyote secretly kills his younger brother.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: slain younger brother
+  assigned_to:
+  - fig:2
+  basis: Eagle is the younger brother whom Coyote kills.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: departing or wandering figure
+  assigned_to:
+  - fig:1
+  basis: Coyote does not stay long in any place and says he will go to the woods;
+    the editorial note connects coyotes with wandering.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:7
+  label: anticipated future inhabitants
+  assigned_to:
+  - fig:3
+  basis: Coyote says the Indians will soon come, and the editorial note refers to
+    Indians inhabiting the country.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: deer or large game
+  literal_form: deer; large game
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: sym:2
+  label: mice or rodents
+  literal_form: mice; rodents
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: woods as destination
+  literal_form: woods
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Shared dwelling and contrasting food-getting
+  summary: Coyote and Eagle live together. Eagle repeatedly hunts deer and boils meat,
+    while Coyote remains associated with the house and brings mice to roast in ashes.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Anger and killing of Eagle
+  summary: Coyote becomes angry and secretly kills his younger brother Eagle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Coyote's departure speech before the Indians arrive
+  summary: After the killing, Coyote is said not to stay long in one place and says
+    he will go to the woods because the Indians will soon come.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Editorial Transformer gloss
+  summary: 'The editorial note interprets the ending as a Transformer motive explaining
+    later conditions: eagles obtain large game, while coyotes wander and subsist on
+    rodents after Indians inhabit the country.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Sibling pair with unequal food success and violent conflict
+  taxonomy_refs:
+  - sibling_pair
+  basis: The narrative centers on Coyote and his younger brother Eagle living together,
+    contrasting Eagle's deer hunting with Coyote's mice, followed by Coyote's anger
+    and killing of Eagle.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not state a detailed motive beyond Coyote's anger.
+- id: motif:2
+  label: Transformer or etiological explanation of animal behavior
+  taxonomy_refs: []
+  basis: Coyote's speech about the coming Indians is explicitly glossed by the editor
+    as a typical Transformer motive explaining that eagles will get large game and
+    coyotes will wander and eat rodents.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The supplied taxonomy list has no explicit Transformer motif family; the
+    identification comes from the editorial note.
+- id: motif:3
+  label: Departure into the woods and wandering after a rupture
+  taxonomy_refs:
+  - departure
+  basis: After killing Eagle, Coyote is said not to stay long in any place and says
+    he will go to the woods.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The departure is brief and functions within an etiological explanation
+    rather than a full journey narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage's ending is explicitly aligned by the editor with a Transformer
+    motive, in which a mythic event explains later animal behavior after the arrival
+    of Indians.
+  claim_level: same_function
+  target: Transformer or etiological animal-behavior pattern
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is based on an editorial footnote within the supplied
+    passage; no additional comparative corpus examples are provided in the passage.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5427-5429
+  quote_or_summary: '"Coyote and his younger brother Eagle were living together."'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5429-5434
+  quote_or_summary: Eagle goes out to hunt while Coyote is left at home; Eagle repeatedly
+    kills deer and carries about two or three deer back to the house.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5434-5437
+  quote_or_summary: Coyote brings only mice and roasts them in ashes in the house,
+    while Eagle boils meat.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5439-5443
+  quote_or_summary: 'Coyote becomes angry, secretly kills Eagle, does not stay long
+    in any place, and says: "I shall go to the woods. Very soon the Indians will come
+    here."'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5458-5460
+  quote_or_summary: 'The note says: "Notice the typical ''Transformer motive''" and
+    explains that eagles will get large game while coyotes will wander and live on
+    rodents.'
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Core narrative elements are explicit. Some motif labeling depends on the
+    editorial Transformer note and on matching the supplied general taxonomy labels.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction uses only the supplied passage and metadata. Footnote material included because it appears in the supplied passage text.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-wishram-texts-sapir-archive__l5423-l5464
+  passage_sha256=b259696ebee059f98d12ad4359bb029b99e421daff0c2491310faa188a97bd99
+

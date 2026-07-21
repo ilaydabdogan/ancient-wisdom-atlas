@@ -1,0 +1,275 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l6778-l6795
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE LEOPAKD AND THE JACKAL. / DOINGS OF THE SPRINGBOK. / THE IKA-KAU AND
+    THE WILD CAT. / A LION'S STORY.; lines 6778-6795
+  start: '6778'
+  end: '6795'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A child cries for “Bushman rice” while her parents sleep nearby. A lion
+    hears her crying and comes to her. The child perceives the lion and removes some
+    of the grass on which her parents are lying. A note explains that Bushmen sleep
+    on grass, which becomes dry over time. The passage breaks off after stating that
+    the lion intended to kill and carry.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “A LION'S STORY.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A female child cries for “Bushman rice” while sitting by her parents.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The child’s parents are asleep near her.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A lion hears the child crying and comes to her because of it.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: After perceiving the lion, the child takes out some of the grass on which
+    her parents are lying.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note explains that Bushmen sleep on grass, and that the grass becomes dry
+    in time.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The text states that the lion intended “to kill (and) carry,” but the passage
+    cuts off before the action is completed.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: female child
+  description: A child who cries for “Bushman rice,” sits by her sleeping parents,
+    perceives the lion, and removes some grass from the bedding.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: lion
+  description: A lion that hears the child crying, comes to her, and is said to intend
+    to kill and carry.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: parents
+  description: The child’s parents lie asleep on grass.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: crying child
+  assigned_to:
+  - fig:1
+  basis: The child cries for “Bushman rice” while sitting by her parents.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: approaching predatory animal
+  assigned_to:
+  - fig:2
+  basis: The lion hears the crying, comes to the child, and is described as intending
+    to kill and carry.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: sleeping parents
+  assigned_to:
+  - fig:3
+  basis: The parents are asleep and lying on grass.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:4
+  label: child responding to perceived danger
+  assigned_to:
+  - fig:1
+  basis: The child perceives the lion and takes out some of the grass beneath her
+    parents.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Bushman rice
+  literal_form: The named thing for which the child cries, given in quotation marks
+    as “Bushman rice.”
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: grass bedding
+  literal_form: Grass on which the parents are lying; a note says Bushmen sleep on
+    grass that becomes dry over time.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:3
+  label: lion
+  literal_form: A lion that hears the child and comes to her.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Child crying beside sleeping parents
+  summary: A child cries for “Bushman rice” while sitting by her sleeping parents,
+    who are lying on grass.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Lion drawn by crying
+  summary: A lion hears the child crying and comes to her on account of the crying.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:3
+  label: Child perceives lion and removes grass
+  summary: The child perceives the lion and takes out some grass from where her parents
+    are lying; the lion is said to intend to kill and carry.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: predator drawn by a child's crying
+  taxonomy_refs: []
+  basis: The child cries, and the lion hears the crying and comes to her because of
+    it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is fragmentary and does not give the outcome of the encounter.
+- id: motif:2
+  label: child endangered while parents sleep
+  taxonomy_refs: []
+  basis: The child is awake and crying while her parents are asleep, and a lion approaches
+    with stated lethal intent.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The specific outcome is not included in the supplied passage.
+- id: motif:3
+  label: grass bedding manipulated in response to approaching danger
+  taxonomy_refs: []
+  basis: After perceiving the lion, the child removes some grass from the bedding
+    on which her parents lie; the note clarifies that this grass is a sleeping surface.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The purpose or effect of removing the grass is not explained in the supplied
+    passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 6778-6783
+  quote_or_summary: "“A LION'S STORY.” A child cries for “Bushman rice”; a lion hears
+    and comes to her while her parents lie asleep and she sits crying by them."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 6784-6787
+  quote_or_summary: The lion hears the child crying and comes to her on account of
+    it.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: 6788-6792
+  quote_or_summary: The child takes out some of the grass on which her parents lie
+    because she has perceived the lion; the lion intended “to kill (and) carry.”
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: 6793-6795
+  quote_or_summary: A note says the narrator explained that Bushmen sleep on grass,
+    which becomes dry over time.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main actions are clear, but the supplied passage is fragmentary and breaks
+    off before the lion’s intended action is completed. No comparison claims are made
+    because the passage itself does not establish a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were not applied because the passage does not clearly support any listed motif-family or symbol ID.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l6778-l6795
+  passage_sha256=7ef70c3aefc0f7c031171a457f513f1c3ad28bbafcebf6b16897b6161f21461f
+

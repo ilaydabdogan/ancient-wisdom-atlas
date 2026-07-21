@@ -1,0 +1,309 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l4487-l4509
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: I. 38. / T, 56. / I. 58. / I 626; lines 4487-4509
+  start: '4487'
+  end: '4509'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial notes gloss a phrase translated as “went off” or “withdraw” as
+    death; explain a bamboo fish-trap enclosure; identify “eighty” as a pillow-word;
+    interpret “eighty-road-windings” as a long journey to Yomi or as Yomi itself;
+    describe Kagase-wo as the only Star-God in Japanese myth, a dishonored conquered
+    rebel; list Venus, the Pleiades, and the Weaver or Star a Lyrae as stars mentioned
+    in the Kojiki or Nihongi; and explain the Weaver-God as connected with striped
+    stuffs and weaving terminology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The note says the character translated “went off” is the same as one translated
+    “withdraw,” and reports that Hirata understands it as referring to death.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note says the same episode is told quite differently in the Kojiki.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Bamboo enclosures are identified as fish traps, though the note says their
+    introduction in the passage is unclear.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The word “eighty” is described as a mere epithet or pillow-word.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The “eighty-road-windings” are explained as representing a long journey to
+    Yomi or Hades, or as Yomi itself.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A separate gloss says “i.e. died.”
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: 'Kagase-wo is glossed linguistically: “wo” means male, and “kaga” is connected
+    with shining.'
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Kagase-wo is described as the only Star-God mentioned in Japanese myth, as
+    receiving little honor, and as a conquered rebel without Kami or Mikoto attached
+    to his name.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The note says the only stars mentioned in the Kojiki or Nihongi are Venus,
+    the Pleiades, and the Weaver or Star a Lyrae; the last is said to be connected
+    with a Chinese legend.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: The Weaver-God is explained as literally the God of Japanese striped stuffs
+    if the Chinese character is followed, and the kana form is derived from words
+    for cloth and weaving.
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Kagase-wo
+  description: A figure glossed as male and connected with shining; described as the
+    only Star-God mentioned in Japanese myth and as a conquered rebel lacking the
+    honorific titles Kami or Mikoto.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Weaver-God / Weaver or Star a Lyrae
+  description: A figure associated with the Weaver or Star a Lyrae, connected with
+    a Chinese legend, and explained through terms for Japanese striped stuffs, cloth,
+    and weaving.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: Star-God
+  assigned_to:
+  - fig:1
+  basis: The passage explicitly calls Kagase-wo the only Star-God mentioned in Japanese
+    myth.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: conquered rebel
+  assigned_to:
+  - fig:1
+  basis: The passage says Kagase-wo is described as a conquered rebel and receives
+    little honor.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: weaving-associated deity
+  assigned_to:
+  - fig:2
+  basis: The passage explains the Weaver-God as a god of striped stuffs and connects
+    the kana form with cloth and weaving.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: bamboo fish enclosure
+  literal_form: Bamboo enclosure used to trap fishes.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: eighty-road-windings
+  literal_form: Road-windings interpreted as a long journey to Yomi or Hades, or as
+    Yomi itself.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Yomi or Hades
+  literal_form: The underworld destination or place identified with the eighty-road-windings.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: star
+  literal_form: Kagase-wo as Star-God; Venus, the Pleiades, and the Weaver or Star
+    a Lyrae are listed as stars in the Kojiki or Nihongi.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: cloth and weaving
+  literal_form: Japanese striped stuffs; kana explained from terms for cloth and weave.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: departure or withdrawal as death
+  taxonomy_refs:
+  - departure
+  basis: The note connects “went off” and “withdraw” and reports an interpretation
+    of the phrase as death, with another gloss saying “i.e. died.”
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: This is based on editorial glosses rather than a continuous narrative
+    scene in the supplied passage.
+- id: motif:2
+  label: underworld journey through road-windings
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The “eighty-road-windings” are explained as long journeyings to Yomi or Hades,
+    or as Yomi itself.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives a gloss, not a full account of the journey.
+- id: motif:3
+  label: dishonored conquered star deity
+  taxonomy_refs: []
+  basis: Kagase-wo is identified as a Star-God but is also described as a conquered
+    rebel with little honor and no Kami or Mikoto title.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage does not narrate the rebellion or conquest, only describes
+    the figure’s status.
+- id: motif:4
+  label: weaver-star deity linked to weaving terminology
+  taxonomy_refs: []
+  basis: The Weaver-God is associated with the Weaver or Star a Lyrae and explained
+    through Chinese characters and kana terms for striped stuffs, cloth, and weaving.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage mentions a Chinese legend but does not describe its narrative
+    content.
+comparison_claims:
+- id: claim:1
+  claim: The passage points to a related version of the same episode in the Kojiki,
+    while stating that it is told quite differently there.
+  claim_level: same_motif
+  target: Kojiki, referenced as Ch. K., p. 101
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The supplied passage does not describe the episode itself or the differences,
+    so the comparison cannot be specified beyond the note’s statement.
+- id: claim:2
+  claim: The passage links the Weaver or Star a Lyrae with a Chinese legend.
+  claim_level: historical_contact
+  target: Chinese legend connected with the Weaver or Star a Lyrae
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The Chinese legend is not named or summarized, and the passage gives
+    no narrative details.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4487-4489
+  quote_or_summary: "“Went off” is said to use the same character as “withdraw”; Hirata
+    understands this as death, and the episode is said to be related differently in
+    the Kojiki."
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:2
+  type: quote
+  locator: lines 4491-4492
+  quote_or_summary: "“Enclosures of bamboo are used at the present day to trap fishes,”
+    though it is “not very clear” why one appears here."
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise quotation/summary used.
+- id: ev:3
+  type: quote
+  locator: line 4494
+  quote_or_summary: "“A mere epithet or pillow-word (makura-kotoba) of eighty.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 4496-4498
+  quote_or_summary: The note explains the eighty-road-windings as long journeyings
+    to Yomi or Hades, or as Yomi itself, and adds the gloss “i.e. died.”
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4499-4502
+  quote_or_summary: Kagase-wo is glossed as male and connected with shining; he is
+    described as the only Star-God in Japanese myth, shown little honor, and characterized
+    as a conquered rebel without Kami or Mikoto attached to his name.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 4503-4505
+  quote_or_summary: The note says the only stars mentioned in the Kojiki or Nihongi
+    are Venus, the Pleiades, and the Weaver or Star a Lyrae, the last connected with
+    a Chinese legend.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 4507-4509
+  quote_or_summary: The Weaver-God is explained as literally the God of Japanese striped
+    stuffs, with the kana form Shidori derived from words for cloth and weave.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is an editorial/commentarial note rather than a continuous mythic
+    narrative and contains apparent OCR artifacts; motif candidates are therefore
+    cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage and metadata were used. Taxonomy references were limited to available motif-family IDs when directly supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l4487-l4509
+  passage_sha256=b718a5a5629a450eae6953ffca4bc856a7617628f7fa72966687586454d29f8f
+

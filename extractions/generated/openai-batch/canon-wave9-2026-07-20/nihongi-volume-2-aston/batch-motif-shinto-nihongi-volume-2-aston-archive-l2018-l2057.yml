@@ -1,0 +1,430 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l2018-l2057
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: XVIII. 10. / A.D. 536. / XVIIL 11. / SENKWA. 35; lines 2018-2057
+  start: '2018'
+  end: '2057'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records an imperial command, the death of Mononobe no Arakahi,
+    the cyclical year, an expedition ordered by the Emperor in response to Silla’s
+    hostility toward Imna, Sadehiko’s pacification of Imna and aid to Pékché, the
+    Emperor’s death and burial, and the co-burial of the Empress and her infant child,
+    with a note that the record does not state the year of the Empress’s death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An imperial command directs unnamed recipients to go down to specified districts
+    and proclaim the imperial behests.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mononobe no Arakahi no Ohomuraji dies in the seventh month of autumn.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The year is identified as Hinoye Tatsu, the fifty-third year of the cycle.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Because of Silla’s hostility toward Imna, the Emperor orders Ohotomo no Kanamura
+    no Ohomuraji to send his sons Iha and Sadehiko to assist Imna.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Iha remains in Tsukushi, administers the local government, and prepares against
+    the three Han.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Sadehiko goes to Imna, restores peace there, and also aids Pékché.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The Emperor dies in the Palace of Ihorino in Hinokuma at the age of seventy-three.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The Emperor is buried in the misasagi at the top of the acclivity of Tsukijima,
+    in Musa, in Yamato province.
+  category: action
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The Empress, identified as Imperial Princess Tachibana, and her infant child
+    are buried with the Emperor in the same misasagi.
+  category: relationship
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: A note states that the records do not mention the year of the Empress’s death
+    and suggests that the infant child probably died before reaching manhood.
+  category: other
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: the Emperor
+  description: Ruler who commands assistance for Imna, later dies at age seventy-three
+    and is buried in a misasagi in Yamato.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Mononobe no Arakahi no Ohomuraji
+  description: Named official whose death is recorded in the autumn seventh month.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Ohotomo no Kanamura no Ohomuraji
+  description: Named official commanded by the Emperor to send his sons Iha and Sadehiko
+    to assist Imna.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Iha
+  description: Son of Ohotomo no Kanamura who stays in Tsukushi, oversees local government,
+    and prepares against the three Han.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Sadehiko
+  description: Son of Ohotomo no Kanamura who goes to Imna, restores peace, and aids
+    Pékché.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:6
+  name_or_label: the Empress / Imperial Princess Tachibana
+  description: Empress named as Imperial Princess Tachibana, buried in the same misasagi
+    as the Emperor.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: infant child
+  description: Infant child buried in the same misasagi as the Emperor and Empress;
+    a note suggests the child probably died before reaching manhood.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:9
+  - ev:10
+- id: fig:8
+  name_or_label: Silla
+  description: Polity described as hostile toward Imna.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+- id: fig:9
+  name_or_label: Imna
+  description: Polity or region assisted by the Emperor’s order and pacified by Sadehiko.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:10
+  name_or_label: Pékché
+  description: Polity aided by Sadehiko.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: imperial commander
+  assigned_to:
+  - fig:1
+  basis: The Emperor commands Ohotomo no Kanamura to send his sons to assist Imna.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: commanded official
+  assigned_to:
+  - fig:3
+  basis: Ohotomo no Kanamura receives the Emperor’s order to send his sons.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: dispatched son
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Iha and Sadehiko are identified as sons sent to assist Imna.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: pacifier and ally-helper
+  assigned_to:
+  - fig:5
+  basis: Sadehiko restores peace in Imna and aids Pékché.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: deceased and buried figure
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:6
+  - fig:7
+  basis: The passage records these figures as dead or buried.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: role:6
+  label: hostile polity
+  assigned_to:
+  - fig:8
+  basis: Silla is described as hostile toward Imna.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: assisted polity
+  assigned_to:
+  - fig:9
+  - fig:10
+  basis: Imna is the object of assistance and Pékché is also aided.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: misasagi burial place
+  literal_form: the misasagi at the top of the acclivity of Tsukijima in Musa, Yamato
+  associated_figures:
+  - fig:1
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: cyclical year marker
+  literal_form: Hinoye Tatsu, fifty-third year of the cycle
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Imperial command concerning districts
+  summary: A command orders that imperial behests be made known in specified districts.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Death of Mononobe no Arakahi
+  summary: The chronicle records the death of Mononobe no Arakahi no Ohomuraji and
+    identifies the cyclical year.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Dispatch to assist Imna
+  summary: In response to Silla’s hostility toward Imna, the Emperor orders Ohotomo
+    no Kanamura to send Iha and Sadehiko; Iha remains in Tsukushi for local administration
+    and preparation, while Sadehiko restores peace in Imna and aids Pékché.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:8
+  - fig:9
+  - fig:10
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Imperial death and burial
+  summary: The Emperor dies at the Palace of Ihorino in Hinokuma and is buried in
+    a misasagi in Yamato.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: scene:5
+  label: Co-burial of Empress and infant child
+  summary: The Empress, Imperial Princess Tachibana, and her infant child are buried
+    in the same misasagi as the Emperor; a note remarks that the record lacks the
+    year of the Empress’s death and that the child probably died before reaching manhood.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:9
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: Royal death and burial in an imperial tomb
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage records the Emperor’s death, age, palace location, and burial
+    in a named misasagi in Yamato.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The passage is annalistic and does not explicitly interpret the burial
+    as legitimating kingship; the taxonomy link is therefore cautious.
+- id: motif:2
+  label: Dynastic co-burial of ruler, consort, and infant child
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Empress and infant child are buried with the Emperor in the same misasagi.
+  evidence_refs:
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: The passage gives no ritual explanation for the co-burial and notes uncertainty
+    about the Empress’s death date.
+- id: motif:3
+  label: Ruler dispatches kinsmen or officials to aid an allied territory and restore
+    peace
+  taxonomy_refs: []
+  basis: The Emperor commands Ohotomo no Kanamura to send his sons to assist Imna;
+    Sadehiko restores peace there and aids Pékché.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: This is a political-annalistic pattern rather than a clearly mythic motif
+    in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2018-2020
+  quote_or_summary: An imperial command orders that the recipients go down to specified
+    districts and make known the imperial behests.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 2022-2023
+  quote_or_summary: "“Mononobe no Arakahi no Ohomuraji died.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; short excerpt.
+- id: ev:3
+  type: summary
+  locator: line 2025
+  quote_or_summary: The year is identified as Hinoye Tatsu, the fifty-third year of
+    the cycle.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2027-2030
+  quote_or_summary: Because of Silla’s hostility toward Imna, the Emperor commands
+    Ohotomo no Kanamura to send his sons Iha and Sadehiko to assist Imna.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2030-2032
+  quote_or_summary: Iha stays in Tsukushi, takes charge of local government, and prepares
+    against the three Han.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 2032-2034
+  quote_or_summary: Sadehiko goes to Imna, restores peace there, and lends aid to
+    Pékché.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2036-2038
+  quote_or_summary: The Emperor dies in the Palace of Ihorino in Hinokuma at age seventy-three.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 2040-2042
+  quote_or_summary: The Emperor is buried in the misasagi at the top of the acclivity
+    of Tsukijima, in Musa, Yamato province.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 2044-2046
+  quote_or_summary: The Empress, Imperial Princess Tachibana, and her infant child
+    are buried with the Emperor in the same misasagi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+- id: ev:10
+  type: summary
+  locator: lines 2048-2051
+  quote_or_summary: The records do not mention the year of the Empress’s death; the
+    infant child probably died before reaching manhood.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the annalistic passage. Motif
+    candidates are cautious because the passage mainly records political and burial
+    events without explicit mythic interpretation. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only provided passage text and metadata were used. Available taxonomy references were applied only where cautiously supported.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l2018-l2057
+  passage_sha256=c9b1e0e47c4ac85540c6a3ab32b79247291ec7afd8e5d985d6ecea49f269b698
+

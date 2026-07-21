@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l2578-l2596
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE GIRL OF THE EAELY RACE, WHO / WHAT THE STAES SAY, AND A PEAYER / TO A
+    STAE. / WHAT THE STAES SAY, AND A PRAYER; lines 2578-2596
+  start: '2578'
+  end: '2596'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The heading identifies the passage as concerning what the Stars say and
+    a prayer to a star. The passage says that a porcupine watches certain Stars; when
+    they and the named celestial reference \\jtwhm have turned back, he knows it is
+    dawn and returns home from the hunting ground.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The heading frames the passage as concerning what the Stars say and a prayer
+    to a star.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The porcupine is associated with a hunting ground and does not remain there
+    after certain Stars have turned back.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The porcupine knows that it is dawn when \\jtwhm has turned back while lying.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The porcupine returns home after recognizing the dawn sign.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The porcupine habitually looks at and watches the Stars, identifying them
+    as dawn's Stars.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the porcupine
+  description: A porcupine who watches the Stars, recognizes dawn, and returns home
+    from the hunting ground.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: these Stars / dawn's Stars
+  description: A group of Stars watched by the porcupine; their turning back is connected
+    with dawn.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: "\\\\jtwhm"
+  description: A named celestial reference described as lying and turning back, after
+    which dawn is known.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: star-watcher who recognizes dawn
+  assigned_to:
+  - fig:1
+  basis: The porcupine is said to look at and watch the Stars and to know that it
+    is dawn.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: dawn-signaling celestial group
+  assigned_to:
+  - fig:2
+  basis: The Stars are called dawn's Stars and are watched as indicators of dawn.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: dawn marker
+  assigned_to:
+  - fig:3
+  basis: The passage says dawn is known when \\jtwhm has turned back.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: dawn's Stars
+  literal_form: Stars
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: "\\\\jtwhm as dawn marker"
+  literal_form: "\\\\jtwhm"
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Porcupine reads dawn in the Stars and returns home
+  summary: The porcupine watches the Stars and \\jtwhm; when they have turned back,
+    he knows dawn has come and leaves the hunting ground for home.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Celestial signs announce dawn
+  taxonomy_refs: []
+  basis: The passage treats the turning back of the Stars and \\jtwhm as signs by
+    which dawn is known.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical dawn-recognition pattern but does not explain
+    the astronomy or ritual context.
+- id: motif:2
+  label: Animal uses star knowledge to time return home
+  taxonomy_refs:
+  - wisdom
+  basis: The porcupine is used to watching the Stars, knows they are dawn's Stars,
+    and returns home accordingly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference to wisdom is broad; the passage shows practical
+    knowledge rather than an explicit wisdom teaching.
+- id: motif:3
+  label: Prayer or address to a star
+  taxonomy_refs: []
+  basis: The title states that the passage concerns a prayer to a star.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: Only the heading is present in the supplied lines; the actual prayer words
+    are not included.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2578-2580
+  quote_or_summary: '"WHAT THE STAES SAY, AND A PEAYER / TO A STAE."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 2586-2588
+  quote_or_summary: '"the porcupine, when these Stars have ... turned back, he will
+    not remain on the hunting ground"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 2588-2589
+  quote_or_summary: '"he knows that it is dawn, when \\jtwhm has ... lying, turned
+    back"'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 2590-2592
+  quote_or_summary: '"He returns home ... he is used to look at these Stars ... the
+    dawn''s Stars they are."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The core action is clear, but the passage contains editorial gaps, archaic
+    transcription, and an uncertain named celestial term. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Spelling and capitalization follow the supplied source metadata and passage where relevant; interpretations are limited to the supplied lines.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l2578-l2596
+  passage_sha256=1fec90a00f0afc45ef3996ff4f6e5795817cfc5c7a9d3a3f350248d974f8bcf6
+

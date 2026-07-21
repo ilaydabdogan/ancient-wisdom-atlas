@@ -1,0 +1,396 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l8081-l8092
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: V. THE OLD MAN. / VI. THE ORIGIN OF THE DEER. / VII. THE SUN AND THE LAD.
+    / VIII. THE MAN WHO TRAVELLED TO THE SUN.; lines 8081-8092
+  start: '8081'
+  end: '8092'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A cannibal and gambler who has lost everything travels to the Sun. The
+    Sun’s son hides him, calms the Sun, and gives him a bundle that must not be looked
+    at until home; the bundle becomes large and full of gifts. Loon and Goose give
+    the gambler their daughters, whom he takes to the Sun; in return, the Sun promises
+    to move away from earth and stop killing people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that the Sun was originally near the earth.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A figure described as a cannibal and gambler has lost everything.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The gambler reaches a great lake and crosses it on a gray cloud.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The gambler reaches the Sun’s house and meets the Sun’s son.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Sun’s son hides the visitor under robes.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Sun smells the hidden visitor, and the Sun’s son quiets the Sun.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The Sun’s son gives the visitor a bundle that he is not allowed to look at
+    until reaching home.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: When the bundle is put down, it becomes enormous and is filled with presents.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:9
+  text: Loon and Goose give their daughters to the gambler, and he takes them to the
+    Sun.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The Sun promises in return to move away from the earth and stop killing people.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: cannibal and gambler / Indian visitor
+  description: A man described as a cannibal and gambler who has lost everything;
+    he travels to the Sun, receives a bundle, returns, and later takes the daughters
+    of Loon and Goose to the Sun.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: the Sun
+  description: The Sun is originally near the earth, has a house, smells the hidden
+    visitor, and later promises to move away from earth and stop killing people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: the Sun’s son
+  description: The Sun’s son meets the visitor, hides him under robes, quiets the
+    Sun, and gives the visitor a bundle with a prohibition on looking until home.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Loon
+  description: Loon gives a daughter to the gambler.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Goose
+  description: Goose gives a daughter to the gambler.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: daughters of Loon and Goose
+  description: The daughters are given to the gambler and taken by him to the Sun.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: traveler to the Sun
+  assigned_to:
+  - fig:1
+  basis: The passage title and narrative describe the man traveling to the Sun and
+    reaching the Sun’s house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: hidden visitor
+  assigned_to:
+  - fig:1
+  basis: The Sun’s son hides the visitor under robes when he reaches the Sun’s house.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: solar host and promise-maker
+  assigned_to:
+  - fig:2
+  basis: The Sun has a house reached by the traveler and later promises to move away
+    from earth and cease killing people.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: helper, mediator, and bundle-giver
+  assigned_to:
+  - fig:3
+  basis: The Sun’s son hides the visitor, quiets the Sun, and gives the visitor the
+    bundle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: givers of daughters
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Loon and Goose give their daughters to the gambler.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: daughters taken to the Sun
+  assigned_to:
+  - fig:6
+  basis: The daughters are given to the gambler, who takes them to the Sun.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: great lake
+  literal_form: A great lake crossed by the traveler.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: gray cloud
+  literal_form: A gray cloud used by the traveler to cross the lake.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Sun’s house
+  literal_form: The house of the Sun reached by the traveler.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: robes of concealment
+  literal_form: Robes under which the Sun’s son hides the visitor.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: bundle of presents
+  literal_form: A bundle given by the Sun’s son, not to be looked at until home, which
+    becomes enormous and full of presents.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: near-earth Sun
+  literal_form: The Sun located near the earth, later promising to move away.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Journey across lake toward the Sun
+  summary: The cannibal-gambler, having lost everything, reaches a great lake and
+    crosses it on a gray cloud while traveling to the Sun.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Concealment in the Sun’s house
+  summary: The traveler reaches the Sun’s house; the Sun’s son hides him under robes,
+    and when the Sun smells him, the son quiets the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Return with the bundle
+  summary: The Sun’s son gives the visitor a bundle with a prohibition on looking
+    until home; when the bundle is put down, it becomes enormous and full of presents.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Exchange and solar withdrawal
+  summary: Loon and Goose give their daughters to the gambler, who takes them to the
+    Sun; in return, the Sun promises to move away from the earth and stop killing
+    people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: journey to the Sun by lake and cloud
+  taxonomy_refs:
+  - ascent
+  - mystical_quest
+  basis: The man travels to the Sun, crosses a great lake on a gray cloud, and reaches
+    the Sun’s house.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage says the Sun was near the earth and does not explicitly describe
+    a vertical ascent or state the traveler’s initial goal.
+- id: motif:2
+  label: solar son as helper and mediator
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The Sun’s son hides the visitor, quiets the Sun, and gives the visitor a
+    bundle.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The Sun is a cosmic figure, but the passage does not explicitly frame
+    the relationship in theological terms beyond 'the Sun’s son.'
+- id: motif:3
+  label: prohibition on looking at a gift bundle
+  taxonomy_refs:
+  - forbidden_knowledge
+  basis: The visitor receives a bundle that he is not allowed to look at until reaching
+    home; after being put down, it becomes enormous and full of presents.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The prohibition concerns looking at the bundle before the proper time;
+    there is no violation or punishment in the passage.
+- id: motif:4
+  label: exchange with the Sun for human safety
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Loon and Goose give their daughters to the gambler; he takes them to the
+    Sun, and the Sun in return promises to move away from earth and stop killing people.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage states the exchange sequence, but does not elaborate the status
+    or consent of the daughters.
+- id: motif:5
+  label: etiology of the Sun’s distance from earth
+  taxonomy_refs: []
+  basis: The story begins with the Sun near the earth and ends with the Sun promising
+    to move away and stop killing people.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: high
+  cautions: No exact available taxonomy reference directly names a solar-distance
+    origin motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8081-8085
+  quote_or_summary: The section is titled 'The Man Who Travelled to the Sun'; the
+    Sun is originally near earth; a cannibal and gambler who has lost everything reaches
+    a great lake and crosses it on a gray cloud.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8085-8087
+  quote_or_summary: The traveler reaches the Sun’s house, meets the Sun’s son, is
+    hidden by him under robes, and the returning Sun smells him but is quieted by
+    the son.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8087-8090
+  quote_or_summary: The next morning the visitor returns; the Sun’s son gives him
+    a bundle that must not be looked at until home; when put down, it becomes enormous
+    and is filled with presents.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8090-8092
+  quote_or_summary: Loon and Goose give the gambler their daughters; he takes them
+    to the Sun, who in return promises to move away from the earth and cease killing
+    people.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward from a compact passage. Motif labels
+    involving ascent, forbidden knowledge, and divine parent-child mediation require
+    review because the passage gives limited framing. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Taxonomy references are limited to those provided in the request.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l8081-l8092
+  passage_sha256=84e0fea0a39c3258b08d15c2a107540721b9ea544e3dd029f76c8b6cb4ad842e
+

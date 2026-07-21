@@ -1,0 +1,285 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15168-l15181
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER III, 7-14. 279 / CHAPTER III, 15-22. 281 / CHAPTER III, 23-32. 283
+    / CHAPTER III, 33-IV, I. 285; lines 15168-15181
+  start: '15168'
+  end: '15181'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives ritual prescriptions for a menstruating woman: her seated
+    distance from water, fire, sacred twigs, and a righteous man; the material and
+    handling distance for vessels bringing her food; and a spoken utterance during
+    worship connected with consecrated sacred cakes, with a variant formula named.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: During menstruation, the woman is to be seated with prescribed distances between
+    her body and water, fire, sacred twigs, and a righteous man.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The stated distance from her body to water, fire, and the sacred twigs is
+    fifteen steps of three feet.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stated distance from her body to a righteous man is three steps.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Her food is to be carried forth in iron or leaden vessels.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The person carrying forth the food is to stand three steps away from her.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: When worship is celebrated, at the dedication connected with consecrated sacred
+    cakes, an utterance is to be made aloud by her; a variant says the utterance is
+    the Itha and Ashem-vohu.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: menstruating woman
+  description: The woman during menstruation who is seated at prescribed distances,
+    receives food under specified handling rules, and makes an utterance during worship.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: person carrying the food
+  description: The person who carries forth the food in iron or leaden vessels and
+    stands three steps away from the woman.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: righteous man
+  description: A righteous man from whom the woman’s body is to be three steps distant.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: subject of ritual distancing rules
+  assigned_to:
+  - fig:1
+  basis: The passage prescribes where she is to be seated during menstruation relative
+    to water, fire, sacred twigs, and a righteous man.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: food carrier
+  assigned_to:
+  - fig:2
+  basis: The person carries forth the food and stands at a specified distance from
+    her.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: distance reference figure
+  assigned_to:
+  - fig:3
+  basis: The righteous man is named as one of the beings from whom her body must be
+    set at a specified distance.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: ritual utterer during worship
+  assigned_to:
+  - fig:1
+  basis: At the worship dedication connected with consecrated sacred cakes, the utterance
+    is to be spoken aloud by her.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: sacred twigs
+  literal_form: sacred twigs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: iron or leaden vessels
+  literal_form: iron or leaden vessels used to carry food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: prescribed ritual distances
+  literal_form: fifteen steps of three feet; three steps
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:6
+  label: consecrated sacred cakes and utterance
+  literal_form: consecration of sacred cakes; Itha and Ashem-vohu named as a variant
+    utterance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Seating at prescribed distances
+  summary: During menstruation, the woman is to be seated so that her body is fifteen
+    steps from water, fire, and sacred twigs, and three steps from a righteous man.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Food carried in metal vessels
+  summary: Her food is to be brought in iron or leaden vessels, and the person carrying
+    it stands three steps away from her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Utterance during worship
+  summary: When worship is celebrated at the dedication associated with consecrated
+    sacred cakes, the utterance is made aloud by her; a variant identifies the utterance
+    as the Itha and Ashem-vohu.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual separation from sacred elements and persons
+  taxonomy_refs: []
+  basis: The passage prescribes measured distances between the menstruating woman
+    and water, fire, sacred twigs, a righteous man, and the person carrying her food.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a ritual/legal prescription rather than a narrative mythic episode;
+    no broader taxonomy family is directly named by the passage.
+- id: motif:2
+  label: ritual use of metal vessels for food under restriction
+  taxonomy_refs: []
+  basis: The woman’s food is specified as being carried in iron or leaden vessels,
+    with the carrier maintaining a three-step distance.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage states the rule but does not explain the symbolic meaning
+    of iron, lead, or the vessel materials.
+- id: motif:3
+  label: spoken formula by restricted participant during worship
+  taxonomy_refs: []
+  basis: During worship, at the dedication connected with consecrated sacred cakes,
+    an utterance is to be spoken aloud by her, with a variant naming the Itha and
+    Ashem-vohu.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The exact formula is partly presented as a variant opinion; the passage
+    does not elaborate its function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: CHAPTER III, 33; lines 15168-15173
+  quote_or_summary: During menstruation she is to be seated so that there are fifteen
+    steps of three feet from her body to water, fire, and sacred twigs, and three
+    steps to a righteous man.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: CHAPTER III, 34; lines 15173-15177
+  quote_or_summary: Her food is to be carried forth in iron or leaden vessels, and
+    the food carrier stands three steps away from her.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: CHAPTER III, 35; lines 15177-15181
+  quote_or_summary: When worship is celebrated, at the dedication of the consecration
+    of sacred cakes, the utterance is to be made aloud by her; some say the Itha and
+    Ashem-vohu.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual prescriptions are clear. Motif labels are descriptive and
+    not mapped to available motif-family taxonomy. No comparison claims are made because
+    the passage itself does not explicitly support cross-textual comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; interpretive claims are limited to descriptive ritual patterns.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15168-l15181
+  passage_sha256=4c2e963a0767fac0244e53b1b165a4a18744eb19ec9e0e71d3071fc3e2a36794
+

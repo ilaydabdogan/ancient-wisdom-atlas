@@ -1,0 +1,325 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l8461-l8475
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: XXIII. THE GRIZZLY BEARS AND THE HUNTERS. / XXIV. THE WOLF BOY AND HIS GRANDMOTHER.
+    / XXVI. THE WAR OF THE FISHES WITH THE OKANAGON. / XXVII. TCISKI'KIK.; lines 8461-8475
+  start: '8461'
+  end: '8475'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In one summarized tale, the Fishes attack the Okanagon, are pursued, and
+    the Sturgeon’s side-to-side jumping makes the course of the Columbia River before
+    the Fishes are thrown into the river; the Sturgeon is killed in the Fraser River,
+    explaining why it does not ascend the Thompson River. In another summarized tale,
+    a hunter strikes his sister after she eats venison while he is away; she becomes
+    a golden plover, and he becomes a bird whose cry is interpreted as calling to
+    his younger sister.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Fishes attack the Okanagon and are then pursued.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Sturgeon jumps from side to side, making the course of the Columbia River.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Fishes are overtaken and thrown into the river.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The Sturgeon is killed in the Fraser River, and this is given as the reason
+    it does not ascend the Thompson River.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: A hunter’s sister eats venison while he is away hunting.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The hunter strikes his sister.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The sister assumes the shape of a golden plover.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: The hunter is transformed into a bird whose cry is interpreted as “O my younger
+    sister!”
+  category: action
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: The Fishes
+  description: A collective group that attacks the Okanagon, is pursued, overtaken,
+    and thrown into the river.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Okanagon
+  description: The group attacked by the Fishes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: The Sturgeon
+  description: A fish figure whose jumping makes the Columbia River’s course and who
+    is later killed in the Fraser River.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Hunter
+  description: A hunter who strikes his sister and is transformed into a bird.
+  role_refs:
+  - role:6
+  - role:7
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Hunter’s sister
+  description: The hunter’s sister, who eats venison and assumes the shape of a golden
+    plover after being struck.
+  role_refs:
+  - role:8
+  - role:7
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: attackers
+  assigned_to:
+  - fig:1
+  basis: The Fishes attack the Okanagon.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: pursued and defeated group
+  assigned_to:
+  - fig:1
+  basis: The Fishes are pursued, overtaken, and thrown into the river.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: attacked group
+  assigned_to:
+  - fig:2
+  basis: The Okanagon are attacked by the Fishes.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: river-course maker
+  assigned_to:
+  - fig:3
+  basis: The Sturgeon’s side-to-side jumping makes the course of the Columbia River.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: etiological animal figure
+  assigned_to:
+  - fig:3
+  basis: The Sturgeon’s death in the Fraser River explains why it does not ascend
+    the Thompson River.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: hunting brother
+  assigned_to:
+  - fig:4
+  basis: The figure is described as a hunter whose sister eats venison while he is
+    out hunting.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: transformed sibling
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both the hunter and his sister are changed into birds.
+  evidence_refs:
+  - ev:2
+- id: role:8
+  label: younger sister
+  assigned_to:
+  - fig:5
+  basis: The bird cry is interpreted as addressing the hunter’s younger sister.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: river
+  literal_form: Columbia River, Fraser River, Thompson River, and an unnamed river
+    into which the Fishes are thrown
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: golden plover shape
+  literal_form: Golden plover
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bird transformation
+  literal_form: A bird whose cry is interpreted as “O my younger sister!”
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: venison
+  literal_form: Venison eaten by the hunter’s sister
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: War of the Fishes with the Okanagon
+  summary: The Fishes attack the Okanagon, are pursued, and are eventually overtaken
+    and thrown into the river.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Sturgeon and river origins
+  summary: The Sturgeon’s jumping makes the Columbia River’s course, and its death
+    in the Fraser River explains its absence from the Thompson River ascent.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Hunter and sister transformed into birds
+  summary: After the hunter’s sister eats venison and he strikes her, she becomes
+    a golden plover and he becomes a bird that cries out to his younger sister.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: animal-person conflict resulting in river placement
+  taxonomy_refs: []
+  basis: The Fishes attack the Okanagon, are pursued, overtaken, and thrown into the
+    river.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is a compressed summary and does not specify all parties’
+    identities or meanings.
+- id: motif:2
+  label: animal action creates a river course
+  taxonomy_refs: []
+  basis: The Sturgeon’s side-to-side jumping makes the course of the Columbia River.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No matching taxonomy reference was supplied beyond the literal water symbol.
+- id: motif:3
+  label: animal death explains species distribution
+  taxonomy_refs: []
+  basis: The Sturgeon is killed in the Fraser River, and this explains why it does
+    not ascend the Thompson River.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage provides only the brief etiological statement.
+- id: motif:4
+  label: siblings transformed into birds
+  taxonomy_refs:
+  - shapeshifter
+  - sibling_pair
+  basis: The hunter’s sister becomes a golden plover, and the hunter becomes a bird
+    whose cry refers to his younger sister.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not describe whether the transformation is voluntary,
+    punitive, or caused by an external power.
+- id: motif:5
+  label: bird cry as remembered speech
+  taxonomy_refs: []
+  basis: The transformed hunter’s bird cry is interpreted as “O my younger sister!”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives only one interpreted cry and no broader explanation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8461-8466
+  quote_or_summary: In “The War of the Fishes with the Okanagon,” the Fishes attack
+    the Okanagon and are pursued; the Sturgeon’s jumping makes the Columbia River
+    course; the Fishes are thrown into the river; the Sturgeon is killed in the Fraser
+    River, explaining its absence from the Thompson River ascent.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized from passage supplied in request.
+- id: ev:2
+  type: summary
+  locator: 8470-8475
+  quote_or_summary: In “Tcíski'kik,” a hunter’s sister eats venison while he is hunting;
+    he strikes her; she becomes a golden plover, and he becomes a bird whose cry is
+    interpreted as calling to his younger sister.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; summarized from passage supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based on a short passage summary. Literal events are clear,
+    but motif labels remain provisional because the text is highly compressed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison beyond candidate motif classification.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l8461-l8475
+  passage_sha256=7aa68686aec0cac7d01df35bfeb724751ba6b6e425cb96906fe4cdf243a6b34f
+

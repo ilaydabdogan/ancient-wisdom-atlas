@@ -1,0 +1,312 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l29984-l30007
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: BUREAU   OF  AMERICAN    ETHNOLOGY / TWENTY-SEVENTH   ANNUAL   REPORT     PLATE  57
+    / PONCA    CHIEF / WEAPONS; lines 29984-30007
+  start: '29984'
+  end: '30007'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The weapons of the Omaha were the bow and arrow, the shield the club, and
+    the spear.
+  summary: The passage lists Omaha weapons and describes the club, spear or lance,
+    and woods used for making bows. It notes a weasel carving on some clubs, a tradition
+    about attaching a blade to a bow for thrusting, and practical evaluations of woods
+    for bow making.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage lists the bow and arrow, shield, club, and spear as Omaha weapons.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The club is called zhonpa' zhna and is generally made from the root of the
+    ash.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A weasel was sometimes carved on top of the club above the rounded end.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The lance or spear is called mon'dehi, glossed from mon'de, meaning bow, and
+    hi, meaning tooth.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A tradition states that in ancient times the Omaha attached a blade to one
+    end of the bow so it could be used for thrusting like a bayonet.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Different woods were tried in bow making, and hickory was judged unsuitable
+    because weather changes caused warping or loss of strength.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Ash and ironwood are described as the best woods for bows because they polish
+    easily and remain true.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: When ash and ironwood were unavailable, a kind of elm with drooping branches
+    was used for bows.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Parts of the bow intended to bend were oiled and bent into shape.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Omaha
+  description: The cultural group whose weapons and weapon-making practices are described.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Weasel carving
+  description: An animal image carved on some clubs, positioned on top above the rounded
+    end.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: weapon users
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the bow and arrow, shield, club, and spear as weapons
+    of the Omaha.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: bow and weapon makers
+  assigned_to:
+  - fig:1
+  basis: The passage describes Omaha experimentation with woods and bow construction
+    practices.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:3
+  label: carved animal image on weapon
+  assigned_to:
+  - fig:2
+  basis: The passage states that a weasel was not infrequently carved on the top of
+    the club.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Omaha weapon set
+  literal_form: Bow and arrow, shield, club, and spear
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Ash-root club
+  literal_form: Club called zhonpa' zhna, generally made from ash root
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Weasel carving on club
+  literal_form: Weasel carved on top of the club above the rounded end
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Bow-tooth spear
+  literal_form: Lance or spear called mon'dehi, glossed as bow and tooth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Blade attached to bow
+  literal_form: A blade attached to one end of the bow for thrusting
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: Preferred bow woods
+  literal_form: Ash and ironwood used for bows; elm with drooping branches used when
+    these were unavailable
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Description of Omaha weapons
+  summary: The passage identifies the main weapons of the Omaha as bow and arrow,
+    shield, club, and spear.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Club form and ornament
+  summary: The passage describes the club as an ash-root weapon and notes that some
+    examples have a weasel carved on top.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Tradition of the bow-blade spear
+  summary: The passage explains the name of the lance or spear and reports a tradition
+    that the Omaha once attached a blade to a bow for thrusting.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Bow material selection
+  summary: The passage describes trials of different woods for bows, rejects hickory
+    as unstable, and identifies ash and ironwood as preferred materials, with elm
+    as a substitute.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Animal image carved on weapon
+  taxonomy_refs: []
+  basis: The club is described as sometimes bearing a carved weasel on its upper portion.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explain the meaning of the weasel carving; symbolic
+    or ritual significance cannot be inferred from this excerpt alone.
+- id: motif:2
+  label: Composite bow-blade weapon tradition
+  taxonomy_refs: []
+  basis: A tradition reports that a blade was attached to one end of a bow so it could
+    be used for thrusting like a bayonet.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage presents this as an antiquarian tradition about weapon form,
+    not as a mythic episode.
+- id: motif:3
+  label: Empirical selection of weapon-making materials
+  taxonomy_refs: []
+  basis: The passage describes woods being tried for bow making, hickory being rejected,
+    ash and ironwood being preferred, and elm being used as a substitute.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a technical craft pattern rather than a mythological motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 29984-29988
+  quote_or_summary: '"The weapons of the Omaha were the bow and arrow, the shield
+    the club, and the spear."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 29990-29993
+  quote_or_summary: The club, called zhonpa' zhna, is generally made from ash root
+    and sometimes has a weasel carved on top above the rounded end.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 29995-30000
+  quote_or_summary: The lance or spear is called mon'dehi, glossed as bow and tooth;
+    the name is said to support a tradition that ancient Omaha attached a blade to
+    one end of a bow for thrusting like a bayonet.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 30002-30005
+  quote_or_summary: Different woods were tried for bows; hickory was found worthless
+    because weather changes caused warping or loss of strength.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 30005-30007
+  quote_or_summary: Ash and ironwood are described as the best bow woods because they
+    polish easily and remain true; when unavailable, an elm with drooping branches
+    was used.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: line 30007
+  quote_or_summary: The parts of the bow intended to bend were oiled and bent into
+    shape.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a technical ethnographic description of weapons and bow-making.
+    Literal extraction is high confidence; motif candidates are limited and non-mythological.
+    No passage-supported comparison claims are present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference is directly supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l29984-l30007
+  passage_sha256=1e6e57d572aaf0165c0f9ebcd212c144870657fcdee056fd795bf710d5b12b86
+

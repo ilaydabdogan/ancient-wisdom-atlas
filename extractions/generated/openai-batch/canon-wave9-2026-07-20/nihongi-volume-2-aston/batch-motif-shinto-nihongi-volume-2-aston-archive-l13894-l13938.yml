@@ -1,0 +1,307 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l13894-l13938
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: XXV. 57. / XXV. 8. / A.D. 655. / BOOK XXVI.; lines 13894-13938
+  start: '13894'
+  end: '13938'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“In the midst of the Void there was seen one riding on a dragon, who resembled
+    a man”"
+  summary: The passage introduces Empress Ame-toyo-takara ikashi-hi tarashi-hime,
+    recounts her marriages, children, rank as Empress-consort, assumption and resignation
+    of Imperial Dignity, and later renewed assumption of Imperial Dignity at Asuka
+    no Itabuki. It then records an apparition in the Void of a man-like figure riding
+    a dragon, with a note distinguishing the word for Void from heaven or firmament.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The Empress first married Prince Takamuku and bore the Imperial Prince Aya.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Empress was later married to Emperor Oki-naga tarashi-hi hiro-nuka and
+    bore him two sons and one daughter.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: She was raised to the rank of Empress-consort, later assumed Imperial Dignity
+    after the emperor's death, resigned it to Emperor Ame-yorodzu-toyo-hi, and was
+    entitled Empress Dowager.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: On the 3rd day of the 1st month in spring of the first year, the Empress Dowager
+    assumed Imperial Dignity in the Palace of Asuka no Itabuki.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On the 1st day of the 5th month in summer, a man-like figure riding on a dragon
+    was seen in the midst of the Void.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A note explains that the term rendered Void is Sora and distinguishes it from
+    Ten, heaven or firmament.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Empress Ame-toyo-takara ikashi-hi tarashi-hime / Saitmei Tenno
+  description: The central imperial woman in the passage; wife of Prince Takamuku
+    and later of Emperor Oki-naga tarashi-hi hiro-nuka; mother of named and unnamed
+    children; Empress-consort, Empress Dowager, and holder of Imperial Dignity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Prince Takamuku
+  description: Grandson of Emperor Tachibana no toyohi and first husband of the Empress.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Imperial Prince Aya
+  description: Child borne by the Empress to Prince Takamuku.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Emperor Oki-naga tarashi-hi hiro-nuka
+  description: Later husband of the Empress; she bore him two sons and one daughter;
+    his death precedes her assumption of Imperial Dignity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:5
+  name_or_label: Emperor Ame-yorodzu-toyo-hi
+  description: The emperor to whom the Empress resigned the Imperial Dignity; later
+    died in the tenth month of the later fifth year.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Man-like rider in the Void
+  description: An unnamed figure seen in the midst of the Void, riding on a dragon
+    and resembling a man.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Dragon
+  description: The being ridden by the man-like figure in the Void.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: imperial dignity holder
+  assigned_to:
+  - fig:1
+  - fig:4
+  - fig:5
+  basis: The passage identifies Emperor Oki-naga tarashi-hi hiro-nuka and Emperor
+    Ame-yorodzu-toyo-hi as emperors and describes the Empress as assuming Imperial
+    Dignity.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: dynastic marriage partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:4
+  basis: The passage lists the Empress's marriages to Prince Takamuku and Emperor
+    Oki-naga tarashi-hi hiro-nuka.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: imperial offspring
+  assigned_to:
+  - fig:3
+  basis: Imperial Prince Aya is named as the child borne by the Empress to Prince
+    Takamuku.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: visionary dragon rider
+  assigned_to:
+  - fig:6
+  basis: The passage says one resembling a man was seen riding on a dragon in the
+    Void.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ridden dragon
+  assigned_to:
+  - fig:7
+  basis: The dragon is the being ridden by the man-like figure.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: dragon
+  literal_form: A dragon ridden by the man-like apparition.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Void / Sora
+  literal_form: The space in which the dragon-riding figure is seen; the note distinguishes
+    it from heaven or firmament.
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dynastic genealogy and prior reign background
+  summary: The passage recounts the Empress's marriages, children, elevation to Empress-consort,
+    the death of Emperor Oki-naga tarashi-hi hiro-nuka, her assumption and later resignation
+    of Imperial Dignity, and the death of Emperor Ame-yorodzu-toyo-hi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Renewed assumption of Imperial Dignity
+  summary: The Empress Dowager assumes Imperial Dignity in the Palace of Asuka no
+    Itabuki on the 3rd day of the 1st month.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dragon-rider apparition in the Void
+  summary: A figure resembling a man is seen in the midst of the Void, riding on a
+    dragon; a note identifies the word for Void as Sora and distinguishes it from
+    Ten.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Dynastic royal legitimacy through marriage, offspring, and accession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage structures the Empress's status through named marriages, offspring,
+    rank as Empress-consort, assumption of Imperial Dignity, resignation, and renewed
+    assumption of Imperial Dignity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is a chronicle accession notice and does not explicitly frame
+    these events as a symbolic or mythic legitimation pattern.
+- id: motif:2
+  label: Man-like figure riding a dragon in the Void
+  taxonomy_refs: []
+  basis: The passage reports a visual apparition of one resembling a man riding on
+    a dragon in the midst of the Void.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage fragment does not identify the rider, explain the dragon,
+    or interpret the apparition's meaning.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13899-13907
+  quote_or_summary: The Empress first married Prince Takamuku and bore Imperial Prince
+    Aya; she afterwards married Emperor Oki-naga tarashi-hi hiro-nuka and bore two
+    sons and one daughter.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 13907-13921
+  quote_or_summary: The Empress was raised to Empress-consort, Emperor Oki-naga tarashi-hi
+    hiro-nuka died, she assumed Imperial Dignity, later resigned it to Emperor Ame-yorodzu-toyo-hi,
+    became Empress Dowager, and Emperor Ame-yorodzu-toyo-hi died.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 13926-13928
+  quote_or_summary: "“The Empress Dowager assumed the Imperial Dignity in the Palace
+    of Asuka no Itabuki.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 13930-13932
+  quote_or_summary: "“In the midst of the Void there was seen one riding on a dragon,
+    who resembled a man”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: note
+  locator: lines 13935-13936
+  quote_or_summary: The note says Sora is to be distinguished from Ten, heaven or
+    firmament.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized note.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied line range. The apparition is fragmentary
+    and not interpreted in the passage; comparison claims are therefore left empty.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context or unprovided taxonomy IDs were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l13894-l13938
+  passage_sha256=7b2359251ff0485a70f2f92f895f7b38adc692fb2dfa4215d28d0c8803bf78fb
+

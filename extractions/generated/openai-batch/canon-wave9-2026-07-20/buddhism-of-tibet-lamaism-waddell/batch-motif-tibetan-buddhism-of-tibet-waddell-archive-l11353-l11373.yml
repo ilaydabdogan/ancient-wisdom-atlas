@@ -1,0 +1,231 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l11353-l11373
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: ALARM-STAFF / DAILY ROUTINE. 213 / LAMAIST GRACES BEFORE MEAT. / LAMATST
+    GRACES. 215; lines 11353-11373
+  start: '11353'
+  end: '11373'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The Lamas always say grace before food or drink.
+  summary: The passage describes Lamas saying grace before food or drink. It characterizes
+    many of these graces as blending demonolatry with universal charity and Buddhist
+    principles, says they may illuminate later Mahayana ritual of Indian Buddhism
+    from which they are alleged to have been borrowed, and states that before drinking
+    Lamas pour out some beverage as a libation to Lares and other gods, with an explicit
+    comparison to Romans.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Lamas are described as always saying grace before food or drink.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Most of the graces are described as blended with demonolatry while also pervaded
+    by universal charity and Buddhist principles.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The graces are said to throw light on later Mahayana ritual of Indian Buddhism
+    and are alleged to have been borrowed from it.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Before drinking, Lamas are described as pouring out some beverage as a libation
+    to Lares and other gods.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage explicitly compares the pre-drinking libation practice of Lamas
+    to that of Romans.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Lamas
+  description: Ritual practitioners described as saying grace before food or drink
+    and pouring out beverage before drinking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Lares and other gods
+  description: Named recipients of the libation in the author's description.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Romans
+  description: Comparative group invoked for a similar libation practice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: Ritual speakers and libation-pourers
+  assigned_to:
+  - fig:1
+  basis: The Lamas say grace before food or drink and pour out beverage before drinking.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: Libation recipients
+  assigned_to:
+  - fig:2
+  basis: The poured beverage is described as a libation to Lares and other gods.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: Comparative ritual analogue
+  assigned_to:
+  - fig:3
+  basis: The passage says the Lamas pour libations before drinking 'like the Romans.'
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Libation beverage
+  literal_form: Some of the beverage poured out before drinking
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Grace before food or drink
+  summary: Lamas say grace before consuming food or drink; the graces are characterized
+    as mixing demonolatry with Buddhist charity and principles.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Libation before drinking
+  summary: Before drinking, Lamas pour out some beverage as a libation to Lares and
+    other gods, and the author compares this to Roman practice.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Ritual grace before consumption
+  taxonomy_refs: []
+  basis: The passage states that Lamas always say grace before food or drink.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an ethnographic ritual description rather than a narrative myth
+    motif.
+- id: motif:2
+  label: Libation as offering before drinking
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage describes pouring out part of a beverage as a libation to Lares
+    and other gods before drinking.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The recipient label 'Lares' is the author's comparative terminology; the
+    excerpt does not provide Tibetan names or a full ritual context.
+- id: motif:3
+  label: Hybrid ritual formula with demon-directed and Buddhist ethical elements
+  taxonomy_refs: []
+  basis: The graces are described as blended with demonolatry while pervaded by universal
+    charity and Buddhist principles.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a characterization, not a quoted ritual formula; the
+    author's terminology requires review.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares Lamaist pre-drinking libations to Roman libation practice.
+  claim_level: same_function
+  target: Roman libations to Lares and other gods
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is authorial and brief; the passage supplies no detailed
+    Roman evidence or Tibetan ritual terminology.
+- id: claim:2
+  claim: The passage reports that the graces are alleged to have been borrowed from
+    later Mahayana ritual of Indian Buddhism.
+  claim_level: historical_contact
+  target: Later Mahayana ritual of Indian Buddhism
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The borrowing is explicitly presented as alleged, and the passage gives
+    no supporting evidence beyond the statement.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 11355-11356
+  quote_or_summary: "“The Lamas always say grace before food or drink.”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain; excerpt from supplied source.
+- id: ev:2
+  type: quote
+  locator: 11356-11358
+  quote_or_summary: "“Most of these graces are curiously blended with demonolatry,”
+    while pervaded by charity and Buddhist principles."
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain; excerpt from supplied source.
+- id: ev:3
+  type: summary
+  locator: 11366-11368
+  quote_or_summary: The graces are said to illuminate later Mahayana ritual of Indian
+    Buddhism and are alleged to have been borrowed from it.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain; summary from supplied source.
+- id: ev:4
+  type: quote
+  locator: 11370-11373
+  quote_or_summary: "“Before drinking, the Lamas, like the Romans, pour out some of
+    the beverage as a libation to their Lares, and other gods.”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain; excerpt from supplied source.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The visible passage is short and explicit, but some terminology reflects
+    the source author's interpretive frame. The final sentence is truncated after
+    'A common' in the supplied excerpt and is not used.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  An intervening footnote about washing with powder or soap appears in the supplied line range but is not developed into motif candidates because it is incidental to the described graces and libations.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l11353-l11373
+  passage_sha256=de89be87380b825e68fb1aa9418a52ca7ea97ff4fafb3a6625adec2d85e63bf8
+

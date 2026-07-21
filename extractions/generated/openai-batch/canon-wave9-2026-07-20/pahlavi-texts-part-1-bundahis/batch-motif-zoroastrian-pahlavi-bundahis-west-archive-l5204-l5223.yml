@@ -1,0 +1,160 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l5204-l5223
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER XIV, 3-13. 47 / CHAPTER XIV, 14-22. 49 / CHAPTER XIV, 23-29. 51 /
+    Chapter XV.; lines 5204-5223
+  start: '5204'
+  end: '5223'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The supplied excerpt begins Chapter XV with a statement that revelation
+    describes the nature of men: Gayomar, while passing away, gave forth seed, and
+    the seed was thoroughly purified. The sentence breaks off after the phrase ''by
+    the motion of''. The remaining supplied lines are editorial lexical notes about
+    bird terminology from the preceding context.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage reports what revelation says about the nature of men.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Gayomar is described as passing away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Gayomar gives forth seed while passing away.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The seed is described as thoroughly purified, but the supplied excerpt ends
+    before completing the clause that begins 'by the motion of'.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The remaining supplied lines are translator or editorial notes discussing
+    identifications of bird terms such as hawk, eagle, falcon, kite, and a possible
+    'body like a cottage'; these notes are separate from the Chapter XV narrative
+    statement.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Gayomar
+  description: A named figure who, in passing away, gives forth seed.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men
+  description: Human beings whose nature is the stated subject of revelation in the
+    passage.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dying seed-giver
+  assigned_to:
+  - fig:1
+  basis: Gayomar is said to pass away and give forth seed.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: collective subject of explanation
+  assigned_to:
+  - fig:2
+  basis: The passage introduces the statement as concerning the nature of men.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: purified seed
+  literal_form: seed
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Revelation about Gayomar's seed
+  summary: In an account concerning the nature of men, Gayomar passes away, gives
+    forth seed, and that seed is described as thoroughly purified; the excerpt cuts
+    off before the purifying agency is fully stated.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Generative seed from a dying figure
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage links Gayomar's passing away with the production of seed in a
+    revelation about the nature of men.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt does not complete the sentence and does not itself narrate
+    a birth, rebirth, or return; the taxonomy match is broad.
+- id: motif:2
+  label: Purification of generative substance
+  taxonomy_refs: []
+  basis: The seed given forth by Gayomar is explicitly described as thoroughly purified.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt breaks off before naming the full purifying agency or subsequent
+    result.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5204-5208
+  quote_or_summary: 'Chapter XV opens by saying that revelation speaks about the nature
+    of men: Gayomar, in passing away, gave forth seed; that seed was thoroughly purified,
+    with the sentence cut off after ''by the motion of''.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: note
+  locator: lines 5209-5223
+  quote_or_summary: Editorial notes discuss lexical comparisons for bird terms, including
+    hawk, eagle, falcon, kite, and a possible reading involving a body like a cottage;
+    these notes appear adjacent to but outside the Chapter XV narrative statement.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the short and incomplete sentence in the supplied
+    excerpt and by the presence of editorial notes from adjacent context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Motif candidates are limited to the Chapter XV material present in the excerpt. Editorial bird-term notes were recorded only as contextual observations and were not used to infer narrative motifs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l5204-l5223
+  passage_sha256=e11d8001cce66fd8ddb4dda56ab18df7be81b0e0a6aad5c8ec8568f9b79e0c0e
+

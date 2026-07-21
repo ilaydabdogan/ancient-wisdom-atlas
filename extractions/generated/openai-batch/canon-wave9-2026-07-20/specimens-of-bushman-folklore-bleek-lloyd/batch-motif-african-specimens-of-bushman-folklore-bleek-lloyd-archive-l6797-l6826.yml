@@ -1,0 +1,318 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l6797-l6826
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: DOINGS OF THE SPRINGBOK. / THE IKA-KAU AND THE WILD CAT. / A LION'S STORY.
+    / THE MAN WHO FOUND A LION IN A CAVE.; lines 6797-6826
+  start: '6797'
+  end: '6826'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a fragment of the story titled “The Man Who Found a Lion
+    in a Cave.” In the preserved section, a child sets a lion on fire with grass.
+    The lion runs away, the bushes catch fire, and the lion later dies from the burning.
+    The child’s mother says the lion would have killed them if the child had not acted,
+    and she rewards or promises to reward the child with “Bushman rice” in an ostrich
+    eggshell.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The title identifies the story as concerning a man who found a lion in a cave.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A child sets the lion on fire with grass.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:3
+  text: After being set on fire, the lion runs away and the bushes catch fire.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The child’s mother states that the lion would have killed them if the child
+    had not set it on fire.
+  category: speech
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: The lion goes away to die because the fire burned and killed it.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The child’s mother gives or promises the child “Bushman rice,” including an
+    ostrich eggshell of it, because the child made them live.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: The title names a man who found a lion in a cave.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the lion
+  description: A lion is set on fire, runs away, and dies from the burning; the mother
+    says it would have killed them.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: the child
+  description: The child sets the lion on fire with grass and is praised for making
+    the family live.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: the child’s mother
+  description: The mother says the lion would have killed them and gives or promises
+    “Bushman rice” to the child.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:5
+  name_or_label: the child’s parents or family
+  description: The passage refers to the child’s parents and to the group the mother
+    describes as having been saved from death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: finder named in title
+  assigned_to:
+  - fig:1
+  basis: The title states that a man found a lion in a cave.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: dangerous lion
+  assigned_to:
+  - fig:2
+  basis: The mother says the lion would have killed them; the lion is burned and dies.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: child rescuer
+  assigned_to:
+  - fig:3
+  basis: The child sets the lion on fire, and the mother says the child made them
+    live.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:4
+  label: mother and reward-giver
+  assigned_to:
+  - fig:4
+  basis: The mother gives or promises “Bushman rice” to the child and speaks praise
+    to the child.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: endangered beneficiaries
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The mother says they would have died if the child had not set the lion on
+    fire.
+  evidence_refs:
+  - ev:3
+  - ev:5
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: fire burning the lion and spreading to bushes
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: cave
+  literal_form: cave in which the lion is found, named in the title
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Bushman rice in an ostrich eggshell
+  literal_form: "“Bushman rice” and an ostrich eggshell of “Bushman rice” given or
+    promised to the child"
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: 'Title scene: lion in a cave'
+  summary: The title frames the story as one in which a man found a lion in a cave.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Child burns the lion
+  summary: The child sets the lion on fire with grass; the lion runs away and nearby
+    bushes catch fire.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Lion dies from the fire
+  summary: The lion goes away and dies because the fire has burned and killed it.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Mother praises and rewards the child
+  summary: The mother says they would have died without the child’s action and gives
+    or promises the child “Bushman rice” in gratitude.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: child saves family from predatory animal
+  taxonomy_refs: []
+  basis: The mother says the lion would have killed them, but the child set it on
+    fire and made them live.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage is a fragment, so earlier details of the encounter are not
+    available here.
+- id: motif:2
+  label: dangerous animal neutralized by fire
+  taxonomy_refs: []
+  basis: The lion is set on fire, flees, and dies because the fire burned it.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: No broader cosmological or ritual meaning for the fire is stated in the
+    passage.
+- id: motif:3
+  label: reward for saving kin
+  taxonomy_refs: []
+  basis: The mother gives or promises “Bushman rice” because the child saved them
+    from death.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the wider social or ceremonial meaning of
+    the reward.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6797-6799
+  quote_or_summary: "“THE MAN WHO FOUND A LION IN A CAVE.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 6804-6807; internal ref. (4006)
+  quote_or_summary: "“she set the lion on fire ... the lion ran away; the bushes took
+    fire.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 6809-6812
+  quote_or_summary: The child’s mother gives her “Bushman rice” because she feels
+    the lion would have killed them if the child had not set it on fire with grass.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; neutral summary based on provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 6814-6816; internal ref. (4007)
+  quote_or_summary: "“the lion went to die on account of the fire ... the fire had
+    burned, killing it.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 6818-6825; internal refs. (4008)-(4009)
+  quote_or_summary: The mother tells the child that they would have died without the
+    child’s action, says the child made them live, and says they will break an ostrich
+    eggshell of “Bushman rice” for the child.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; neutral summary based on provided passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based only on the supplied fragment. The passage begins
+    mid-sentence and contains editorial blanks, so some preceding narrative context
+    is unavailable. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references are limited to the supplied available symbol list; no motif-family taxonomy reference was assigned.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l6797-l6826
+  passage_sha256=aa5414daf359eb9d3974885baa1312fb84452ba17631d72fd31cd77622aa8932
+

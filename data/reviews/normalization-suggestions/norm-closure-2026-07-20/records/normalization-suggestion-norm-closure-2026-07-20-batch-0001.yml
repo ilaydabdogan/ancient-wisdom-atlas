@@ -1,0 +1,741 @@
+---
+suggestion_batch_id: normalization.suggestion.norm-closure-2026-07-20.batch-0001
+gap_audit_path: "/private/tmp/claude-501/-Users-ilaydabuyukdogan-Desktop-Projects-ancient-wisdom-atlas/d42cd906-7089-4e23-a442-887a24fea2f7/scratchpad/gap-audit-meaningful.yml"
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.afterlife-as-continuation-of-earthly-social-life
+  motif_id: afterlife_as_continuation_of_earthly_social_life
+  label: Afterlife as continuation of earthly social life
+  occurrences: 2
+  traditions:
+  - chaco_amerindian
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Describes the social character of postmortem existence, fitting broader
+    afterlife conceptions.
+  cautions: Does not itself establish a journey, mapped route, or mortuary rite; preserve
+    local afterlife structure.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-the-dead-person-s-name
+  motif_id: avoidance_of_the_dead_person_s_name
+  label: avoidance of the dead person's name
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - chaco_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mourning or mortuary prohibition may regulate relations between living
+    people and the dead.
+  cautions: Culturally specific practice; source context is needed to distinguish
+    mourning etiquette, danger avoidance, and name taboo.
+  suggested_aliases:
+  - postmortem name avoidance
+  - mourning name taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-immortality-of-righteous-souls
+  motif_id: blessed_immortality_of_righteous_souls
+  label: Blessed immortality of righteous souls
+  occurrences: 2
+  traditions:
+  - jewish_pseudepigrapha
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Continued blessed existence after death is a death-transcending transformation
+    of the soul.
+  cautions: The righteousness condition also invokes judgment; do not infer resurrection
+    unless bodily restoration is explicit.
+  suggested_aliases:
+  - righteous souls attain immortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-as-godparent
+  motif_id: death_as_godparent
+  label: Death as godparent
+  occurrences: 2
+  traditions:
+  - germanic
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: Personifies Death in a kinship role, but no existing group captures this
+    narrative relation.
+  cautions: Could be a folktale-specific character role rather than a durable cross-source
+    motif; review passages before creating a personified-death group.
+  suggested_aliases:
+  - Death as kin sponsor
+  suggested_new_group:
+    id: personified_death
+    label: Personified Death
+    description: Death appears as an agent or social person who enters kinship, contractual,
+      or interpersonal relations with humans.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - death_by_fate
+    - ancestor_rites
+    reason_existing_groups_insufficient: Existing death groups concern transformation,
+      fate, or rites rather than Death acting as a social character.
+- suggestion_id: normalization.suggestion.death-as-sleep
+  motif_id: death_as_sleep
+  label: Death as sleep
+  occurrences: 2
+  traditions:
+  - germanic
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Sleep is a recurrent symbolic framing of death, concealment, and possible
+    awakening.
+  cautions: Do not index as resurrection or return unless awakening/restoration is
+    present.
+  suggested_aliases:
+  - death likened to sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-named-figure
+  motif_id: death_of_a_named_figure
+  label: Death of a named figure
+  occurrences: 2
+  traditions:
+  - guiana_amerindian
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Merely records that an identified character dies, without a recurring
+    narrative function.
+  cautions: Retain passage-level evidence; map only if cause, rite, fate, return,
+    or social consequence is specified.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-distribution-of-treasure
+  motif_id: deathbed_distribution_of_treasure
+  label: Deathbed distribution of treasure
+  occurrences: 2
+  traditions:
+  - celtic
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: low
+  rationale: May be a deathbed succession or memorial act associated with social order
+    after death.
+  cautions: Could instead be inheritance, royal succession, or a passage-specific
+    detail; no ritual function is stated.
+  suggested_aliases:
+  - deathbed bequest of treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-life-or-afterlife-belief
+  motif_id: future_life_or_afterlife_belief
+  label: future life or afterlife belief
+  occurrences: 2
+  traditions:
+  - greek
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: broader_label
+  confidence: medium
+  rationale: A broad label for postmortem existence belongs with afterlife patterns.
+  cautions: Too general to imply a journey, judgment, destination, or ritual requirement.
+  suggested_aliases:
+  - belief in an afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-goods-accompanying-the-deceased
+  motif_id: grave_goods_accompanying_the_deceased
+  label: Grave goods accompanying the deceased
+  occurrences: 2
+  traditions:
+  - arctic_inuit
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Objects placed with the dead are mortuary care directed toward the deceased's
+    continuing relation or passage.
+  cautions: May support afterlife passage where goods are explicitly provisions; do
+    not treat every burial object as sacred treasure.
+  suggested_aliases:
+  - burial goods
+  - goods for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-descent-of-a-sacred-object
+  motif_id: heavenly_descent_of_a_sacred_object
+  label: heavenly descent of a sacred object
+  occurrences: 2
+  traditions:
+  - african_akan
+  - celtic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The defining feature is a power object of heavenly or divine origin.
+  cautions: Do not map to ascent/descent unless a figure's inter-realm journey, rather
+    than the object's origin, is central.
+  suggested_aliases:
+  - heaven-sent sacred object
+  - divine object descending from heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-after-contact-with-death
+  motif_id: purification_after_contact_with_death
+  label: purification after contact with death
+  occurrences: 2
+  traditions:
+  - samoan
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prescribed response to death-contact is a purity and ritual-prohibition
+    pattern.
+  cautions: Preserve distinct local concepts of pollution and cleansing; may secondarily
+    relate to ancestor rites.
+  suggested_aliases:
+  - mortuary purification
+  - cleansing after death contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-inhabited-tree
+  motif_id: spirit_inhabited_tree
+  label: spirit-inhabited tree
+  occurrences: 2
+  traditions:
+  - ganda
+  - hausa
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A sacred tree can serve as a dwelling or contact point for nonhuman powers.
+  cautions: Tree residence does not establish an axis mundi function; may instead
+    be local spirit ontology or sacred geography.
+  suggested_aliases:
+  - tree-dwelling spirit
+  - spirit dwelling in a tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-possession
+  motif_id: spirit_possession
+  label: spirit possession
+  occurrences: 2
+  traditions:
+  - chaco_amerindian
+  - hausa
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Possession is a distinct embodied spirit-human relation not represented
+    by current groups.
+  cautions: Culturally sensitive and highly variable; distinguish ritual mediumship,
+    illness, affliction, and voluntary embodiment from source evidence.
+  suggested_aliases:
+  - spirit embodiment
+  - spirit mediumship
+  suggested_new_group:
+    id: spirit_possession_and_mediumship
+    label: Spirit Possession and Mediumship
+    description: A spirit or nonordinary being enters, speaks through, controls, or
+      ritually works through a human body.
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - soul_loss_restoration
+    - sacred_law
+    reason_existing_groups_insufficient: Divine intervention covers external sacred
+      action, but not the specific embodied relation of possession or mediumship.
+- suggestion_id: normalization.suggestion.classificatory-kinship-terminology
+  motif_id: classificatory_kinship_terminology
+  label: Classificatory kinship terminology
+  occurrences: 5
+  traditions:
+  - african_akan
+  - african_bantu
+  - australian_aboriginal
+  - ganda
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an anthropological classification of social terminology, not
+    a narrative or symbolic motif.
+  cautions: Retain as cultural or analytical metadata where needed; it should not
+    drive motif comparisons.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritual-repetition
+  motif_id: fourfold_ritual_repetition
+  label: Fourfold ritual repetition
+  occurrences: 8
+  traditions:
+  - native-american-southwest
+  - native_american_plains
+  - native_american_southwest
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repeated four-part action may express ritual ordering in time or space.
+  cautions: Numeric patterns have tradition-specific meanings; verify whether repetition
+    is a meaningful ritual structure rather than extraction artifact.
+  suggested_aliases:
+  - four-part ritual repetition
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Sacred time includes cycles but does not
+      specifically represent spatial-directional or numerically ordered ritual form.
+- suggestion_id: normalization.suggestion.catalogue-of-divine-names-or-epithets
+  motif_id: catalogue_of_divine_names_or_epithets
+  label: catalogue of divine names or epithets
+  occurrences: 4
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine names and epithets are a form of sacred knowledge and invocation.
+  cautions: May be a textual or liturgical catalogue rather than a narrative motif;
+    exclude individual source-specific lists if no ritual or knowledge function is
+    evident.
+  suggested_aliases:
+  - divine name catalogue
+  - litany of divine epithets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-concerning-sacred-stones
+  motif_id: songs_concerning_sacred_stones
+  label: Songs concerning sacred stones
+  occurrences: 4
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Sacred stones may be power objects, and songs may ritually address or
+    activate them.
+  cautions: The label combines object and performance without their function; preserve
+    local meanings and avoid reducing it to generic object worship.
+  suggested_aliases:
+  - ritual songs for sacred stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-ritual-action
+  motif_id: four_direction_ritual_action
+  label: Four-direction ritual action
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Directional ritual action can organize sacred space around a cosmological
+    center.
+  cautions: Do not assume an axis mundi from directional orientation alone; review
+    culturally specific directional cosmologies.
+  suggested_aliases:
+  - ritual orientation to four directions
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups lack a dedicated placement
+      for directional ritual form without a demonstrated world-axis object or site.
+- suggestion_id: normalization.suggestion.fourfold-ritual-action
+  motif_id: fourfold_ritual_action
+  label: Fourfold ritual action
+  occurrences: 3
+  traditions:
+  - native_american_northwest_coast
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated four-part action is a formal ritual structure.
+  cautions: Need source evidence to establish whether fourfoldness is meaningful rather
+    than an incidental procedural count.
+  suggested_aliases:
+  - four-part ritual act
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing sacred-time coverage is too broad
+      to preserve numerical ritual structure.
+- suggestion_id: normalization.suggestion.fourfold-ritual-pattern
+  motif_id: fourfold_ritual_pattern
+  label: Fourfold ritual pattern
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - native_american_southwest
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label identifies a recurrent formal pattern of ritual organization.
+  cautions: Likely overlaps the other fourfold labels and should be deduplicated only
+    after checking passage-level evidence.
+  suggested_aliases:
+  - four-part ritual pattern
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: No current group specifically retains numerical
+      ritual architecture.
+- suggestion_id: normalization.suggestion.fourfold-ritual-sequence
+  motif_id: fourfold_ritual_sequence
+  label: fourfold ritual sequence
+  occurrences: 3
+  traditions:
+  - native_american_plains
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An ordered four-stage sequence is a ritual-cycle or ritual-form variant.
+  cautions: Confirm sequence and ritual significance; this may be synonymous with
+    the other fourfold labels.
+  suggested_aliases:
+  - four-stage ritual sequence
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not isolate formal four-stage
+      ritual sequencing.
+- suggestion_id: normalization.suggestion.fourfold-ritualized-action
+  motif_id: fourfold_ritualized_action
+  label: Fourfold ritualized action
+  occurrences: 3
+  traditions:
+  - native_american_northwest_coast
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fourfold ritualized action is best provisionally treated as formal
+    ritual ordering.
+  cautions: Review alongside the near-duplicate fourfold labels and preserve distinct
+    local ritual contexts.
+  suggested_aliases:
+  - ritualized fourfold action
+  suggested_new_group:
+    id: ritual_number_and_directionality
+    label: Ritual Number and Directionality
+    description: Ritual actions are structured by meaningful number, directional orientation,
+      or repeated ordered sequence.
+    parent_group_ids:
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: A single broader candidate can retain the
+      shared formal feature without collapsing local ritual meanings.
+- suggestion_id: normalization.suggestion.vow-of-blood-vengeance
+  motif_id: vow_of_blood_vengeance
+  label: vow of blood vengeance
+  occurrences: 3
+  traditions:
+  - georgian
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vengeance vow initiates or sacralizes retaliatory conflict.
+  cautions: Where the operative feature is the binding spoken vow rather than combat,
+    also consider performative sacred speech.
+  suggested_aliases:
+  - vengeance oath
+  - blood-feud vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-avoidance-taboo
+  motif_id: affinal_avoidance_taboo
+  label: affinal avoidance taboo
+  occurrences: 2
+  traditions:
+  - hausa
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A kinship-based avoidance rule is a social prohibition that may be ritually
+    regulated.
+  cautions: Requires culturally specific review; may be social etiquette rather than
+    sacred law or a motif suitable for cross-tradition querying.
+  suggested_aliases:
+  - in-law avoidance taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-aid-in-war-and-victory
+  motif_id: divine_aid_in_war_and_victory
+  label: Divine aid in war and victory
+  occurrences: 2
+  traditions:
+  - hindu
+  - samoan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine assistance determining martial success is directly within sacred-combat
+    patterns.
+  cautions: Use divine_intervention instead when the episode lacks combat as its primary
+    function.
+  suggested_aliases:
+  - divine aid in battle
+  - divinely aided victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The five near-duplicate fourfold ritual labels should be reviewed as a cluster before
+  alias consolidation; the proposed group is provisional and must not erase tradition-specific
+  meanings.
+- Several labels are broad belief, ethnographic, or passage-detail labels and should
+  remain evidence-level unless source passages supply a stronger narrative or ritual
+  function.
+- All placements are taxonomy suggestions only and make no claims about historical
+  transmission, borrowing, or common origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch generated from labels, occurrence counts, and current normalization
+    taxonomy; source passages were not provided.
+suggested_by: openai_batch:gpt-5.6-terra
+suggested_at: '2026-07-20'
+batch:
+  run_id: norm-closure-2026-07-20
+  custom_id: normalization_suggestion:normalization-suggestion-norm-closure-2026-07-20-batch-0001
+  input_sha256: a5af6625d6631179701a0610b7711165718429f213542205d51c118d79b5fb64
+

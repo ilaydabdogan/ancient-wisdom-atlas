@@ -1,0 +1,207 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l5417-l5441
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA XXXIII. 73 / YASNA XXXIII. 75 / YASNA XXXIII. 77 / YASNA XXXIII. 79;
+    lines 5417-5441
+  start: '5417'
+  end: '5441'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Thus, as an offering, Zarathostra gives the life of his very body.”"
+  summary: Zarathostra presents his bodily life as an offering to Mazda and also offers
+    the priority of the Good Mind, Obedience in deed and speech, and Sovereign Power.
+    Notes gloss the bodily life term and give a Pahlavi rendering as a generous gift
+    and obedient attention to the divine word.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The stanza says Zarathostra gives the life of his own body as an offering.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mazda is directly addressed in the stanza.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The offering includes the priority of the Good Mind, associated in the line
+    with holiness.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The offering includes Obedience in deed and in speech.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:5
+  text: The passage associates the offering with Sovereign Power.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:6
+  text: A note glosses the word translated as life as referring to tissues and contrasts
+    it with bones elsewhere.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A Pahlavi rendering cited in the note describes the act as a gift of generosity
+    and includes obedient attention to the word.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Zarathostra
+  description: Named offerer who gives the life of his body and offers obedience.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Mazda
+  description: Divine addressee of the offering.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: offerer
+  assigned_to:
+  - fig:1
+  basis: The stanza says Zarathostra gives his bodily life as an offering and offers
+    obedience.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divine addressee
+  assigned_to:
+  - fig:2
+  basis: Mazda is directly addressed during the statement of offering.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bodily life as offering
+  literal_form: life of his very body
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: obedience in deed and speech
+  literal_form: Obedience ... in deed and in speech
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Good Mind
+  literal_form: the Good Mind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: Sovereign Power
+  literal_form: Sovereign Power
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Zarathostra’s devotional offering to Mazda
+  summary: Zarathostra gives his bodily life as an offering and offers Good Mind,
+    Obedience in deed and speech, and Sovereign Power in an address to Mazda.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: self-offering or sacrifice to a deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly describes Zarathostra giving the life of his body
+    as an offering to Mazda.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents a devotional offering; it does not narrate an enacted
+    death or killing.
+- id: motif:2
+  label: sacred gift to divine powers
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The stanza and note describe a gift or offering directed to Mazda and associated
+    divine qualities.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: A reciprocal exchange is not described; the evidence is limited to a one-way
+    offering or gift.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5417-5425
+  quote_or_summary: "“Thus, as an offering, Zarathostra gives the life of his very
+    body ... O Mazda ... Obedience ... in deed and in speech ... Sovereign Power.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5429-5431
+  quote_or_summary: A note explains that the word rendered as life refers to tissues
+    and is contrasted with bones elsewhere.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 5433-5440
+  quote_or_summary: The cited Pahlavi translation describes Zarathustra giving the
+    life of his body as a generous gift and giving obedient attention to the word.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main action of offering is explicit. Motif assignment to sacrifice is
+    strong, while sacred exchange is tentative because no reciprocal exchange is stated.
+    No comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage text and metadata were used. Available symbol taxonomy contained no direct match for body, obedience, Good Mind, or Sovereign Power.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l5417-l5441
+  passage_sha256=1746558b139436622ed237355196b0ff6a274ebf7d7bb9b2051783cbc53e5858
+

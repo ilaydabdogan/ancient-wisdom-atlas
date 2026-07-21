@@ -1,0 +1,510 @@
+---
+record_id: batch.motif.native-american-traditions-arapaho-dorsey-kroeber-archive-l9751-l9829
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+passage_locator:
+  label: INTRODUCTION. / CONTENTS. / TRADITIONS  OF  THE  ARAPAHO. / I  12; lines
+    9751-9829
+  start: '9751'
+  end: '9829'
+  translation: Traditions of the Arapaho
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A sister repeatedly warns her brothers not to leave or delay while seeking
+    absent brothers. Two brothers travel toward another camp, encounter an old woman
+    at an isolated tipi near a creek and timber, are persuaded to step on her body
+    to relieve her pain, and are killed by a sharp spike. The old woman stakes them
+    like earlier victims and places pipe waste on their bodies. The last brother then
+    sets out to search for the others despite his sister's objections.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The sister tells a brother to travel without stopping much and to leave quickly
+    if delayed, because she is uneasy about her brothers.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The first traveling brother reaches a divide, sees a creek with timber and
+    a smoky atmosphere, and comes to a well-tanned tipi standing alone.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old woman sees the young man, calls him grandchild, invites him to rest,
+    and asks him to tread on her backbone and sides to relieve pain.
+  category: speech
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: When the first young man steps lower on the old woman's body, he steps on
+    a sharp spike and dies immediately.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After the first young man dies, the old woman drags him inside, stakes him
+    like others, cleans her pipe, and puts the waste on his eyes, mouth, and breast.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Another brother says he will go after his brothers; the sister objects because
+    few remain and she does not want to be left without protection, but she eventually
+    consents.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The second brother comes to the same kind of creek-side tipi, tries to go
+    around it, and tells the old woman he is seeking brothers who have not returned.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The old woman tells the second brother that his brothers helped her in the
+    same way and persuades him to tread on her back and sides.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The second brother steps lower on the old woman's body, is killed by the sharp
+    spike, and is staked inside like the others; the old woman smokes and places pipe
+    waste as before.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:10
+  text: After time passes, the last brother feels lonely and tells his sister he will
+    go look for his brothers; she objects to being left alone, but agrees to let him
+    leave.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: sister
+  description: A sister who worries about her brothers, warns them against delay or
+    departure, and fears being left without protection.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: fig:2
+  name_or_label: first young man / brother in this passage
+  description: A brother who travels toward the camp-circle, stops at the old woman's
+    tipi, treads on her body, and is killed by the spike.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: old woman at the isolated tipi
+  description: An old woman at a lone tipi who invites passing brothers to rest, asks
+    them to tread on her painful back and sides, and kills them by means of a sharp
+    spike.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:4
+  name_or_label: second young man / another brother
+  description: Another brother who leaves to search for his absent brothers, meets
+    the old woman, treads on her body, and is killed by the spike.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+- id: fig:5
+  name_or_label: last brother
+  description: The last brother remaining with the sister, who feels lonely and sets
+    out to look for his brothers despite the sister's objections.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:8
+- id: fig:6
+  name_or_label: earlier absent brothers / others
+  description: Brothers already absent before or during this passage, referred to
+    as missing and as among the others staked by the old woman.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: warning sister
+  assigned_to:
+  - fig:1
+  basis: She repeatedly warns brothers not to delay or leave and expresses fear about
+    being left alone.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+- id: role:2
+  label: brother seeking absent brothers
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:5
+  basis: Each brother travels or proposes to travel in response to the absence of
+    brothers at another camp.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+- id: role:3
+  label: deceptive lethal host
+  assigned_to:
+  - fig:3
+  basis: The old woman uses kinship address and a request for help to make the travelers
+    tread on her body, where a spike kills them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+- id: role:4
+  label: victim of the old woman's trap
+  assigned_to:
+  - fig:2
+  - fig:4
+  - fig:6
+  basis: The two brothers in the passage die on the spike and are staked like others;
+    the passage also refers to other staked victims.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:5
+  label: missing brothers
+  assigned_to:
+  - fig:6
+  basis: The sister and later brothers refer to brothers who have not returned and
+    are being sought.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+symbols:
+- id: sym:1
+  label: creek and timber landmark
+  literal_form: A creek with plenty of timber near the route and the old woman's tipi.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: smoky atmosphere in timber
+  literal_form: A smoky atmosphere seen in the timber near the creek before the first
+    brother reaches the tipi.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: isolated well-tanned tipi
+  literal_form: A well-tanned tipi standing alone near the creek and timber.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:4
+  label: sharp spike
+  literal_form: A sharp spike on or near the old woman's body that kills the brothers
+    when they step lower down.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: pipe waste on the dead
+  literal_form: Waste from the old woman's pipe placed on the dead brothers' eyes,
+    mouth, and breast, or placed as before.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+- id: sym:6
+  label: staked bodies
+  literal_form: The bodies of killed brothers are staked inside the old woman's tipi
+    like earlier victims.
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:7
+scenes:
+- id: scene:1
+  label: sister warns a departing brother
+  summary: The sister tells a brother to keep moving and avoid delay because she is
+    uneasy about the absent brothers; he agrees and leaves toward the camp-circle.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: first fatal stop at the old woman's tipi
+  summary: The first traveling brother reaches the creek-side area and isolated tipi,
+    is called over by the old woman, agrees to tread on her painful body, steps on
+    a spike, dies, and is staked inside with pipe waste placed on him.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: another brother departs to search
+  summary: Another brother tells the sister he will search for the missing brothers.
+    She objects because few remain and she needs protection, but she consents.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: second fatal repetition at the old woman's tipi
+  summary: The second brother reaches the creek-side tipi, is persuaded by the old
+    woman after she mentions his brothers helping her, steps on the spike, dies, and
+    is staked with pipe waste placed as before.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: scene:5
+  label: last brother sets out
+  summary: After more time passes, the last brother feels lonely and decides to look
+    for the others; the sister objects to being left alone, but eventually agrees.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: repeated fatal delay on a journey
+  taxonomy_refs: []
+  basis: The sister warns against delay, but two brothers stop at the old woman's
+    tipi and are killed; a third brother then begins the same search sequence.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The passage gives only this segment of the narrative, so the outcome of
+    the last brother's journey is not included.
+- id: motif:2
+  label: deceptive host at a roadside dwelling
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The old woman at an isolated tipi along the route calls the travelers grandchild,
+    offers rest, asks for help, and uses that request to kill them with a hidden spike.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The passage does not explicitly call the old woman a trickster or supernatural
+    boundary figure; the taxonomy link is based only on her deceptive role at a travel
+    stop.
+- id: motif:3
+  label: sibling search for missing brothers
+  taxonomy_refs:
+  - sibling_pair
+  basis: Brothers repeatedly leave their sister in order to search for brothers who
+    have not returned, while the sister warns them and fears being left alone.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The family unit contains a sister and multiple brothers, not a simple
+    two-sibling pair.
+- id: motif:4
+  label: departure despite kin warning
+  taxonomy_refs:
+  - departure
+  basis: Each brother departs or insists on departing despite the sister's warning,
+    reluctance, or fear.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:8
+  confidence: high
+  cautions: This is a broad motif label and may be too general without the surrounding
+    narrative.
+- id: motif:5
+  label: serial victims staked inside the killer's dwelling
+  taxonomy_refs: []
+  basis: After each death described, the old woman stakes the body inside like earlier
+    victims, indicating a repeated series of victims kept in the dwelling.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage does not explain the purpose of staking or of the pipe waste.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9751-9758
+  quote_or_summary: The sister warns a brother to travel without stopping much, says
+    she is uneasy about her brothers, and tells him to get away quickly if delayed;
+    he agrees.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 9763-9772
+  quote_or_summary: The young man travels toward the camp-circle, reaches a divide,
+    sees a creek with timber and smoky atmosphere, reaches a well-tanned tipi standing
+    alone, and is called over by an old woman who calls him grandchild and invites
+    him to rest.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 9772-9783
+  quote_or_summary: The old woman asks the young man to tread on her backbone and
+    sides to relieve pain; when he steps lower on her body, he steps on a sharp spike
+    and dies instantly.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 9783-9786
+  quote_or_summary: The old woman drags the dead young man inside, stakes him like
+    the others, cleans her pipe, and places the waste on his eyes, mouth, and breast.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 9787-9797
+  quote_or_summary: Another brother says he will go after his absent brothers. The
+    sister advises against it because few are left and she needs protection, but he
+    promises to return or bring the brothers back, and she consents.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 9798-9815
+  quote_or_summary: The second brother comes to a tipi along the creek with timber,
+    tries to go around it, and tells the old woman he is seeking brothers who have
+    not returned; she asks him to tread on her backbone and says his brothers did
+    the same for her.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 9816-9823
+  quote_or_summary: The second brother treads lower on the old woman's body, is killed
+    by a sharp spike, and is carried inside and staked like the others; the old woman
+    smokes the pipe and places the waste as before.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 9824-9829
+  quote_or_summary: After time passes, the last brother feels lonely and says he will
+    look for his brothers. The sister says he should not leave her alone, but he insists
+    and she agrees.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md
+  rights_note: Public domain source; summary prepared for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is strong for the repeated journey, old woman's trap,
+    deaths, staking, and family warnings. Motif-family taxonomy links are cautious
+    because the passage does not name a formal motif type and gives only part of the
+    tale. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  All interpretations are limited to the supplied passage and metadata.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-arapaho-dorsey-kroeber-archive__l9751-l9829
+  passage_sha256=fc79ec8e41403980cd7c10fd923d824b7a6acecd607bbb159b06097165cc7233
+

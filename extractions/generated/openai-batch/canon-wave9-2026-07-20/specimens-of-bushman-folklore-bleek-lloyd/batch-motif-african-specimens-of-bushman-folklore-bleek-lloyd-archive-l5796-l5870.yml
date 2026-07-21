@@ -1,0 +1,257 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l5796-l5870
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE DEATH OF THE IKHAU. / THE DEATH OF THE LIZARD. / THE DEATH OF THE LIZAED.
+    / THE CAT'S SONG.; lines 5796-5870
+  start: '5796'
+  end: '5870'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A song says that the Cat is derided by the Lynx because the Cat could not
+    run fast. The Lynx is described as fast, understanding, and cunning, while the
+    Cat is described as not understanding, doing foolish things, and yet being or
+    needing to be cunning. A note describes the Cat opening its mouth wide while singing.
+    The passage also contains a title and note identifying the \guiten or Caama fox.
+  language: English with transcribed song syllables and names
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The song identifies the Cat as the one whom the Lynx derides.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Cat is said not to have run fast or not to be able to run fast.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Lynx is said to run fast.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Lynx is said to understand and to be cunning.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Cat is said not to understand and to have done foolish things.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Cat is also described as cunning, or as having had to be cunning.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A performance note says the cat opens its mouth wide while singing.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A heading names a song of the iGuiten, and a note glosses singular \guiten
+    and plural \gui\gm as the Caama fox, Vulpes Caama.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Cat
+  description: Animal figure in the song; described as derided by the Lynx, unable
+    to run fast, not understanding, foolish, and nevertheless cunning or needing to
+    be cunning.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lynx
+  description: Animal figure described as deriding the Cat and as fast, understanding,
+    and cunning.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: iGuiten / \guiten / Caama fox
+  description: Animal named in a heading and glossed in a note as Vulpes Caama, the
+    Caama fox.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: derided animal
+  assigned_to:
+  - fig:1
+  basis: The Cat is repeatedly called the one whom the Lynx derides.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deriding animal
+  assigned_to:
+  - fig:2
+  basis: The Lynx is named as the one who derides or talks about the Cat.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: slow runner
+  assigned_to:
+  - fig:1
+  basis: The Cat is described as one who could not run fast.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: singing performer
+  assigned_to:
+  - fig:1
+  basis: A note states that the cat opens its mouth wide in singing.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: fast and cunning animal
+  assigned_to:
+  - fig:2
+  basis: The Lynx is described as one who runs fast, understands, and is cunning.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: named animal in adjacent song heading
+  assigned_to:
+  - fig:3
+  basis: The heading and note identify the iGuiten or \guiten as the Caama fox.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Cat compared unfavorably with Lynx in song
+  summary: The song says that the Lynx derides the Cat because the Cat could not run
+    fast, while the Lynx runs fast.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Cunning and foolishness contrasted
+  summary: The song says the Lynx understands and is cunning, while the Cat does not
+    understand and did foolish things; it also states that the Cat is or had to be
+    cunning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Performance note on singing
+  summary: A note describes the cat opening its mouth wide in singing.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal derision song
+  taxonomy_refs: []
+  basis: The passage is a song in which the Cat is repeatedly named as the animal
+    derided by the Lynx.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives song text and a performance note but little narrative
+    context.
+- id: motif:2
+  label: speed contrasted with cunning among animals
+  taxonomy_refs: []
+  basis: The Cat is marked as unable to run fast, while the Lynx is fast, understanding,
+    and cunning; the Cat is also said to need or possess cunning.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The text does not explain a broader plot or the consequences of the contrast.
+- id: motif:3
+  label: animal song with embodied performance gesture
+  taxonomy_refs: []
+  basis: The title and text present a song, and a note specifies that the cat opens
+    its mouth wide while singing.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: Only one brief performance gesture is supplied.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5796-5870
+  quote_or_summary: "“I am the one whom the Lynx derides... I am the one who did not
+    run fast”; later, “The Cat is the one whom the Lynx derides” and “It is the one
+    who could not run fast.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 5796-5870
+  quote_or_summary: "“For, the Lynx is the one who runs fast”; later, “the Lynx is
+    one who understands” and “the Lynx is one who is cunning.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5796-5870
+  quote_or_summary: "“The Cat is the one who could not run fast, / It was not cunning”;
+    later, “It did foolish things,” “The Cat does not understand,” “The Cat (nevertheless)
+    is cunning,” and “It had to be cunning.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5796-5870, note 3237'
+  quote_or_summary: "“Here the cat opens its mouth wide in singing.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5796-5870, heading and note 2158'
+  quote_or_summary: 'Heading: “THE SONG OF THE iGTTITEN”; note: “Singular \guiten,
+    plural \gui\gm, Vulpes Caama, the Caama fox.”'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the fragmentary song format, OCR/transcription
+    artifacts, and minimal narrative context. No external comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol is directly present. No supplied motif-family taxonomy ref is assigned because the passage does not clearly support one without interpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l5796-l5870
+  passage_sha256=19d9ea82c63a362cb5650281d8a491864afbc42a86bf87a3a3a168bbb473c945
+

@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l27908-l27947
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: WARFARE / THE    OMAHA    TRIBE / DEPARTURE  CEREMONIES  OF  AX  AGGRESSIVE  WAR  PARTY
+    / J-  O  O; lines 27908-27947
+  start: '27908'
+  end: '27947'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: the men of the war party, led by their leader, performed the mi'Tcapi dance
+  summary: Before the war party started, the keeper of the Sacred Pack conducted ceremonies.
+    The war-party men, led by their leader, performed a wolf-related dance appealing
+    to the wolf for predatory and roaming qualities. The dance imitated wolf movements
+    and was accompanied by lively songs, including a part with vocables.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The keeper of the Sacred Pack conducted the ceremonies on this occasion; the
+    passage notes that such ceremonies were sometimes omitted if haste was required.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Just before starting, the men of the war party, led by their leader, performed
+    the mi'Tcapi dance.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage glosses mi'kapi as “wolf” and states that the wolf was regarded
+    as connected with war.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The dance was described as an appeal to the wolf so that the men might partake
+    of the wolf’s predatory character and its ability to roam without becoming homesick.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The dance used rhythmic steps that were dramatic and imitative of the wolf’s
+    rapid trot and sudden alert stops.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The accompanying songs are described as lively, well accented, and inspiriting.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The first part of the mi'kafi song has no words, only vocables; words occur
+    in the second part.
+  category: speech
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: keeper of the Sacred Pack
+  description: Person who conducted the departure ceremonies on this occasion.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men of the war party
+  description: Group preparing to start out and performing the mi'Tcapi dance.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: leader of the war party
+  description: Leader who led the men of the war party in the dance before departure.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: wolf
+  description: Animal glossed by mi'kapi, regarded as connected with war, appealed
+    to in the dance, and imitated in movement.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: ceremony conductor
+  assigned_to:
+  - fig:1
+  basis: The keeper of the Sacred Pack conducted the ceremonies.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: departing war-party performers
+  assigned_to:
+  - fig:2
+  basis: The men of the war party performed the mi'Tcapi dance before starting.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: war-party leader
+  assigned_to:
+  - fig:3
+  basis: The men of the war party were led by their leader.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: invoked animal associated with war
+  assigned_to:
+  - fig:4
+  basis: The wolf is stated to be connected with war and is appealed to in the dance.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sacred Pack
+  literal_form: sacred ritual pack
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: wolf
+  literal_form: wolf
+  associated_figures:
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: mi'Tcapi dance
+  literal_form: wolf-related rhythmic dance with imitative steps
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: mi'kafi song vocables
+  literal_form: song section with vocables and no words
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Ceremonies before the war party starts
+  summary: Before departure, the keeper of the Sacred Pack conducts ceremonies, and
+    the war-party men, led by their leader, perform the mi'Tcapi dance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Wolf appeal and imitation in dance
+  summary: The dance appeals to the wolf for predatory and roaming qualities and imitates
+    the wolf’s rapid trot and sudden alert stops, with lively accompanying music.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: War-party departure ceremony
+  taxonomy_refs:
+  - departure
+  basis: The passage describes ceremonies and a dance performed just before an aggressive
+    war party is ready to start.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is ethnographic ritual description rather than narrative myth.
+- id: motif:2
+  label: Acquisition of animal war qualities through ritual dance
+  taxonomy_refs: []
+  basis: The dance is said to appeal to the wolf so the men may partake of its predatory
+    character and roaming ability, while the steps imitate wolf movements.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No available taxonomy reference directly names a wolf or animal-power
+    dance motif; label is descriptive.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 27908-27912
+  quote_or_summary: "“the keeper of the Sacred Pack conducted the ceremonies,” sometimes
+    omitted if haste was required."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: 27912-27915
+  quote_or_summary: "“the men of the war party, led by their leader, performed the
+    mi'Tcapi dance” just before starting."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 27915-27916
+  quote_or_summary: "“mi'kapi, ‘wolf;’ the wolf was regarded as connected with war.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 27916-27919
+  quote_or_summary: The dance appealed to the wolf so the men might partake of its
+    predatory character and its ability to roam without homesickness.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 27919-27922
+  quote_or_summary: The dance used rhythmic, dramatic steps imitating the wolf’s rapid
+    trot and sudden alert stops.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 27922-27923
+  quote_or_summary: The song music is described as lively, well accented, and inspiriting.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 27925-27927
+  quote_or_summary: The first part of the mi'kafi song has only vocables; the second
+    part contains words.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal ritual elements are explicit. Motif labeling is cautious because
+    the passage is ethnographic ceremony description, not a myth narrative. No comparison
+    claims were made beyond candidate motif tagging.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy item directly matches the wolf, Sacred Pack, dance, or vocable song. The initial fragment about something belonging to a member of the Hon/hewachi was not extracted because its referent is unclear within the provided passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l27908-l27947
+  passage_sha256=91fc0425b6c99a83e870cb333319c0b18d5a6bcdb7e71db31a14efa1a781ad06
+

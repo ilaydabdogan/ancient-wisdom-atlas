@@ -1,0 +1,443 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l8298-l8354
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE THUNDERSTORM. / A BUSHMAN WOMAN WITH DIGGING-STICK. / NOSE. / NOSE.;
+    lines 8298-8354
+  start: '8298'
+  end: '8354'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage includes a caption for a Bushman woman with a digging-stick
+    photographed at Salt River in 1884, followed by a customs note on cutting the
+    top joint of the little finger or hand in children, with gendered explanations
+    of male and female arms or hands. It also describes a boy's hand use with arrow
+    and bow, piercing of ears and nose, and a contrast in which a woman with a pierced
+    nose is called handsome while another without a pierced nose is called ugly.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A caption identifies a Bushman woman with a digging-stick, photographed at
+    Salt River in 1884.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The customs note is titled as concerning cutting off the top of the little
+    finger and piercing ears and nose.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:3
+  text: A little boy is described as having a hand cut because he is a little boy,
+    and the passage calls this his male arm.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A female child is described as having a hand cut because she is a little girl,
+    and the passage calls this the hand of her female arm or her female hand.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that another boy and another girl do not have their hands
+    cut.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The boy's cut arm is connected with intended shooting; the right hand is associated
+    with grasping the arrow and the left hand with grasping the bow.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A man is described as having both right and left ears pierced.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: A woman is described as having left and right ears pierced, with explanations
+    tied to female and male arm sides, and as also having her nose pierced.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A woman without a pierced nose is contrasted with a woman with a pierced nose;
+    the unpierced woman is called ugly and the pierced woman handsome.
+  category: attribute
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Bushman woman with digging-stick
+  description: Captioned woman photographed at Salt River in 1884 with a digging-stick.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: little boy
+  description: Child whose hand or male arm is cut and whose cut arm is connected
+    with future shooting.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: female child or little girl
+  description: Child whose hand or female arm is cut because she is a little girl.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: another boy and another girl
+  description: Children explicitly said not to have their hands cut.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: man with pierced ears
+  description: A man described as having the right ear and the left ear pierced.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:6
+  name_or_label: woman with pierced ears and nose
+  description: A woman described as having both ears pierced and her nose pierced;
+    later a woman with a pierced nose is called handsome.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: fig:7
+  name_or_label: woman without pierced nose
+  description: A woman described as not having her nose pierced and called ugly in
+    contrast with the pierced woman.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: captioned photographed subject
+  assigned_to:
+  - fig:1
+  basis: The caption identifies the woman, object, place, and year of photograph.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: child subject of hand or finger cutting
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes a little boy and a female child as having a hand cut.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: intended shooter
+  assigned_to:
+  - fig:2
+  basis: The boy's cut arm is said to be the one with which they intend him to shoot,
+    with hand positions for arrow and bow specified.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: person with pierced ears or nose
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage describes a man with both ears pierced and a woman with both
+    ears and nose pierced.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: subject of attractiveness contrast around nose piercing
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: The passage contrasts a woman without a pierced nose as ugly with a woman
+    with a pierced nose as handsome.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: unmodified child contrast
+  assigned_to:
+  - fig:4
+  basis: Another boy and another girl are explicitly said not to have the hand cut.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: digging-stick
+  literal_form: digging-stick held or associated with the captioned woman
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: top joint of little finger or cut hand
+  literal_form: top joint of the little finger; hand that is cut
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:3
+  label: female hand or female arm side
+  literal_form: female hand, female arm, or side associated with female arm
+  associated_figures:
+  - fig:3
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: male arm or shooting hand side
+  literal_form: male arm, hand used for shooting, or side associated with male arm
+  associated_figures:
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: bow and arrow
+  literal_form: arrow grasped with the right hand and bow grasped with the left hand
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: pierced ears
+  literal_form: right and left ears pierced
+  associated_figures:
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: pierced nose
+  literal_form: nose pierced, or absence of nose piercing
+  associated_figures:
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: captioned photograph at Salt River
+  summary: A Bushman woman with a digging-stick is presented as photographed at Salt
+    River in 1884.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: gendered hand or little-finger cutting in children
+  summary: A little boy and a female child are described as having a hand cut, with
+    explanations tied to male and female arms or hands; other children are described
+    as not having this cutting.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+- id: scene:3
+  label: boy's cut arm and shooting practice
+  summary: The boy's cut arm is connected with intended shooting, with the right hand
+    grasping the arrow and the left hand grasping the bow.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: piercing ears and nose
+  summary: A man has both ears pierced, while a woman has both ears pierced with side
+    explanations and also has her nose pierced.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: nose piercing and beauty contrast
+  summary: A woman without a pierced nose is called ugly, while a woman with a pierced
+    nose is called handsome.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: cutting the top joint of the little finger as custom
+  taxonomy_refs: []
+  basis: The heading names cutting off the top of the little finger, and the body
+    text describes boys and girls having a hand cut; footnotes specify the top joint
+    of the little finger on right and left hands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:7
+  confidence: high
+  cautions: The passage presents a custom rather than a mythic narrative episode;
+    no rite stage or initiation term is stated.
+- id: motif:2
+  label: gendered coding of hands and arm sides
+  taxonomy_refs: []
+  basis: The passage explicitly refers to a female hand or female arm for the girl,
+    a male arm for the boy, and female or male arm sides in explaining a woman's ear
+    piercings.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The exact cultural logic of right and left sides is not fully explained
+    in the excerpt.
+- id: motif:3
+  label: bow-and-arrow preparation linked to bodily cutting
+  taxonomy_refs: []
+  basis: The boy's cut arm is said to be the one with which they intend him to shoot,
+    and the passage specifies hand positions for arrow and bow.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: Only a brief explanation is given; the passage does not state whether
+    this is training, marking, or another kind of custom.
+- id: motif:4
+  label: ear and nose piercing as bodily modification
+  taxonomy_refs: []
+  basis: The passage describes a man with both ears pierced and a woman with both
+    ears and nose pierced.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage gives little procedural detail beyond the fact of piercing.
+- id: motif:5
+  label: nose piercing associated with beauty
+  taxonomy_refs: []
+  basis: The passage states that a woman without a pierced nose is ugly and that a
+    woman who has had her nose pierced is handsome.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is a reported evaluative contrast in the excerpt; its scope beyond
+    the passage is not established.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 8298-8300
+  quote_or_summary: "“A BUSHMAN WOMAN WITH DIGGING-STICK. Photographed at Salt River
+    in 1884.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 8318-8321
+  quote_or_summary: "“CUTTING OFF THE TOP OF THE LITTLE FINGER, AND PIERCING EARS
+    AND NOSE.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 8323-8330
+  quote_or_summary: A little boy and a female child are described as having a hand
+    cut for gendered reasons; the girl's hand is called female, the boy's arm male,
+    and another boy and girl do not have the hand cut.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 8332-8335
+  quote_or_summary: The boy has the arm cut with which he is intended to shoot; the
+    right hand grasps the arrow and the left hand grasps the bow.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:5
+  type: summary
+  locator: lines 8337-8343
+  quote_or_summary: A man has right and left ears pierced; a woman has left and right
+    ears pierced with female and male arm-side explanations, and also has her nose
+    pierced.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:6
+  type: quote
+  locator: lines 8345-8347
+  quote_or_summary: "“Another woman does not have her nose pierced,” and the passage
+    contrasts her as ugly with the woman who has had her nose pierced as handsome."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+- id: ev:7
+  type: summary
+  locator: lines 8349-8350
+  quote_or_summary: Footnotes specify the top joint of the little finger of the right
+    hand and of the left hand.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; excerpt supplied in request.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal details are clear in the supplied passage. Candidate motifs are descriptive
+    customs and body-symbol patterns rather than taxonomy-linked mythic motifs. No
+    comparison claims are made because the passage itself does not support comparison
+    to another text, tradition, or motif family.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; none of the listed symbol taxonomy items appear in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l8298-l8354
+  passage_sha256=40161c27af86d65c742b9731696e5a042d5c0e754c62b1b6032ddc89dfdc86e6
+

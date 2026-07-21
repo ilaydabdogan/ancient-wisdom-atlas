@@ -1,0 +1,163 @@
+---
+record_id: batch.motif.sufi-attar-bird-parliament-fitzgerald-archive-l2571-l2575
+source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+passage_locator:
+  label: Bird Parliament; lines 2571-2575
+  start: '2571'
+  end: '2575'
+  translation: Bird Parliament
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Their Road is thine — Follow — and Fare thee well.
+  summary: After stating that the matter has been recounted, the passage says speech
+    can no longer continue and exhorts the addressee to follow the road associated
+    with the unnamed others.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage says that something has now been recounted.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the ground of speech as failing underfoot.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage addresses a second-person addressee and says that the road of
+    unnamed others is the addressee's.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage commands the addressee to follow and ends with a farewell.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: second-person addressee
+  description: The addressee referred to as “thine” and instructed to follow.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: unnamed others
+  description: An unspecified group referred to only by “their” in relation to a road.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: instructed follower
+  assigned_to:
+  - fig:1
+  basis: The addressee is told that the road is theirs and is commanded to follow.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: prior road-associated group
+  assigned_to:
+  - fig:2
+  basis: The road is identified as belonging to or associated with unnamed others.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: road
+  literal_form: road
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: failing ground of speech
+  literal_form: ground of speech failing underfoot
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: speech gives way to following
+  summary: After a recounted matter, speech is said to fail; the addressee is told
+    that the others' road is theirs and is urged to follow before a farewell.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: mystical road to be followed after speech fails
+  taxonomy_refs:
+  - mystical_quest
+  basis: The passage joins the breakdown of speech with an exhortation to follow a
+    road associated with others, suggesting a quest-path framed beyond ordinary telling.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is very brief and does not describe the road's destination
+    or the identity of the others within this excerpt.
+- id: motif:2
+  label: ineffability of the recounted subject
+  taxonomy_refs: []
+  basis: The passage states that the ground of speech fails underfoot after the matter
+    has been recounted.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: No supplied taxonomy reference directly names ineffability, so the taxonomy
+    field is left empty.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: '2571'
+  quote_or_summary: "“Which being now recounted”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  rights_note: Public domain source; short quotation.
+- id: ev:2
+  type: quote
+  locator: 2571-2573
+  quote_or_summary: "“the Ground / Of Speech fails underfoot”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: 2573-2575
+  quote_or_summary: "“Their Road is thine — Follow — and Fare thee well.”"
+  source_text_path: texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md
+  rights_note: Public domain source; short quotation.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward, but motif classification is limited
+    by the short, context-dependent excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not make or clearly support a specific cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sufi-attar-bird-parliament-fitzgerald-archive__l2571-l2575
+  passage_sha256=bf80b6df0097d9e5779408fe4c32b4ee79dbb42d3668499479ef459d07567bb1
+

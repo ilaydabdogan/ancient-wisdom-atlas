@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l9639-l9663
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: GENTES  OF  THE  OMAHA  TRIBE / THE    OMAHA    TRIBE / TWENTY-SEVENTH   ANNUAL  REPORT     PLATE  24
+    / NUGA'XTI; lines 9639-9663
+  start: '9639'
+  end: '9663'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“The tuft represented the head of the elk; the lock, its tail.”"
+  summary: The passage describes Omaha naming and childhood hair-cutting practices.
+    After an initiatory rite and the bestowal of a ni'kie name, a father cut a child's
+    hair in a way that symbolized the tabu of the child's gens. In the We'zhinshte
+    gens, a boy's head was shaved except for a forehead tuft and a long lock at the
+    nape of the neck; these represented the head and tail of an elk.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Female names were described as belonging to the ni'kie class and were not
+    dropped or changed; a woman did not have more than one name.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After an initiatory rite and the bestowal of a ni'kie name, the father cut
+    the child's hair.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The child's hair was cut in a manner said to symbolize the tabu of the child's
+    gens.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hair cutting was repeated yearly until the child was about seven years
+    old, then stopped permanently.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: In the We'zhinshte gens, a boy's head was shaved or cut close except for a
+    tuft at the forehead and a long thick lock at the nape of the neck.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The forehead tuft represented the head of the elk, and the nape lock represented
+    the elk's tail.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: father
+  description: The father performs the child's symbolic haircut after the initiatory
+    rite and naming.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: child
+  description: The child receives the ni'kie name and the gens-symbolizing haircut.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: boy of the We'zhinshte gens
+  description: A boy whose hair is shaved except for a forehead tuft and a long lock
+    at the nape.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: elk
+  description: The animal whose head and tail are represented by the boy's tuft and
+    lock.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: woman
+  description: A woman is described in relation to the rule that she has only one
+    ni'kie name that is not changed or dropped.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: ritual actor who cuts hair
+  assigned_to:
+  - fig:1
+  basis: The father cuts the child's hair after the initiatory rite and naming.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient of name and symbolic haircut
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The child receives the ni'kie name and the hair cut; the We'zhinshte boy
+    is the example of the haircut form.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: animal referent of hair symbolism
+  assigned_to:
+  - fig:4
+  basis: The tuft and lock are explicitly said to represent the elk's head and tail.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: bearer of single unchanged ni'kie name
+  assigned_to:
+  - fig:5
+  basis: The passage states that a woman did not have more than one name and that
+    female names were not dropped or changed.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: symbolic haircut
+  literal_form: child's hair cut according to gens tabu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: forehead tuft as elk head
+  literal_form: bunch or tuft of hair at the forehead
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: nape lock as elk tail
+  literal_form: long thick lock of hair at the nape of the neck
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: ni'kie name
+  literal_form: bestowed ni'kie name
+  associated_figures:
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Initiatory naming and haircut
+  summary: After an initiatory rite and bestowal of a ni'kie name, the father cuts
+    the child's hair in a way that symbolizes the tabu of the child's gens.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Annual repetition and abandonment of haircut
+  summary: The symbolic haircut is repeated each year until the child is about seven
+    years old, after which it is abandoned and not resumed.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: We'zhinshte elk hair form
+  summary: In the We'zhinshte gens, a boy's head is shaved except for a forehead tuft
+    and nape lock, which represent the head and tail of an elk.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: initiatory naming with bodily sign
+  taxonomy_refs:
+  - initiation
+  basis: The passage explicitly describes an initiatory rite, the bestowal of a ni'kie
+    name, and a subsequent symbolic haircut applied to the child.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic ritual description rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: clan or gens tabu embodied in hair form
+  taxonomy_refs: []
+  basis: The father's cut of the child's hair is said to symbolize the tabu of the
+    gens, and the We'zhinshte example uses hair elements to represent an elk.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No supplied taxonomy family directly matches gens-taboo hair symbolism.
+- id: motif:3
+  label: animal identification through bodily styling
+  taxonomy_refs: []
+  basis: The boy's forehead tuft and nape lock are interpreted within the passage
+    as the elk's head and tail.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage states representation of the elk, but does not elaborate mythic
+    identification, transformation, or narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9639-9641
+  quote_or_summary: "“All female names were of the ni'kie class and were never dropped
+    or changed, nor did a woman ever have more than one name.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:2
+  type: quote
+  locator: lines 9642-9645
+  quote_or_summary: "“After the performance of the initiatory rite and bestowal of
+    the ni'kie name, the father cut his child's hair in the manner which symbolized
+    the tabu of his gens.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 9646-9648
+  quote_or_summary: The symbolic hair cutting was repeated yearly until the child
+    was about seven, then was abandoned and never resumed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 9650-9662
+  quote_or_summary: In the We'zhinshte gens, the boy's head was shaved or cut close
+    except for a forehead tuft and a long thick lock at the nape of the neck.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: quote
+  locator: lines 9662-9663
+  quote_or_summary: "“The tuft represented the head of the elk; the lock, its tail.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal extraction is straightforward. Motif labeling is limited because
+    the passage is an ethnographic ritual description, not a narrative myth; no comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Available taxonomy symbol refs did not include elk or hair, so no symbol taxonomy refs were assigned.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l9639-l9663
+  passage_sha256=4aa00efa59bb14fe5de0bba4aad366d3cb6fa7935ca183c5c0c626c0d7e92187
+

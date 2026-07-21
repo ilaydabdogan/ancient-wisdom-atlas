@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l4393-l4426
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter X. / Chapter XI. / CHAPTER X, 2 -XI, 5. 33 / Chapter XII.; lines
+    4393-4426
+  start: '4393'
+  end: '4426'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes the revelation concerning mountains: mountains first
+    grew forth, Alburn/Alburz grew for eight hundred years through successive celestial
+    stations, and 2244 other mountains grew out of it. A catalogue of named mountains
+    follows. Notes identify the four stations as grades of Mazdayasnian heaven and
+    relate many mountain names and the number 2244 to Avestan material.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says revelation describes the nature of mountains and states that
+    mountains first grew forth in eighteen years.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Alburn/Alburz is described as growing for eight hundred years in four two-hundred-year
+    stages.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: The four stages of Alburn/Alburz's growth are to the star station, moon station,
+    sun station, and endless light.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Other mountains are said to have grown out of Alburn/Alburz, with their number
+    given as 2244.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage lists named mountains, including Hugar, Terak of Alburn, Akart-i-Daitik,
+    the Arezur ridge, Afisindom, Aparsen, Zarih, Aira, Kaf, Vanges, Aushdartar, Arezur-bum,
+    Royishomand, Padashkhvargar, Aino, Revand, Darspet, Kabed-i-ikaft, Siyak-muimand,
+    Vafar-homand, Spendyart, Kondrasp, Asnavand, and Kondras.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note identifies the four upward stations as four grades of the Mazdayasnian
+    heaven.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: A translator note states that many of the mountain names occur in the Avesta
+    and that the number 2244 is also mentioned in the Zamyad Yast.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Alburn/Alburz
+  description: A mountain described as growing for eight hundred years through the
+    star, moon, sun, and endless-light stations, and as the source from which other
+    mountains grew.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Other mountains grown out of Alburn/Alburz
+  description: A collective group of 2244 mountains said to have grown out of Alburn/Alburz;
+    the passage gives a catalogue of names.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Mount Padashkhvargar
+  description: One named mountain in the catalogue, described as the greatest in Khvarih.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: growing primordial mountain
+  assigned_to:
+  - fig:1
+  basis: Alburn/Alburz is singled out as growing until the completion of eight hundred
+    years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: source mountain
+  assigned_to:
+  - fig:1
+  basis: The other mountains are said to have grown out of Alburn/Alburz.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: derived mountain multitude
+  assigned_to:
+  - fig:2
+  basis: The passage states that the other mountains grew out of Alburn/Alburz and
+    gives their number as 2244.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: greatest mountain in Khvarih
+  assigned_to:
+  - fig:3
+  basis: The catalogue describes Mount Padashkhvargar as the greatest in Khvarih.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: Mountains, especially Alburn/Alburz and the named mountains grown
+    out of it.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: celestial stations
+  literal_form: Star station, moon station, sun station, and endless light.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: mountain count
+  literal_form: The number 2244, given as the number of other mountains.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Initial growth of mountains
+  summary: Revelation is cited for the nature of mountains, and the mountains are
+    said to have first grown forth in eighteen years.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Alburn/Alburz grows through celestial levels
+  summary: Alburn/Alburz grows for eight hundred years in four two-hundred-year stages,
+    reaching the star, moon, sun, and endless-light stations.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Mountains grow out of Alburn/Alburz
+  summary: A multitude of 2244 mountains is said to grow out of Alburn/Alburz, followed
+    by a catalogue of named mountains.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cosmic mountain growing through heaven levels
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Alburn/Alburz grows for eight hundred years through celestial stations that
+    a note identifies as grades of Mazdayasnian heaven.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage describes cosmological growth rather than a narrative centered
+    on a personified mountain being.
+- id: motif:2
+  label: source mountain generating other mountains
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: The passage says 2244 other mountains grew out of Alburn/Alburz.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The text gives a relationship of derivation but does not elaborate a full
+    genealogy or creation myth in this excerpt.
+- id: motif:3
+  label: vertical ascent through ordered celestial levels
+  taxonomy_refs:
+  - ascent
+  basis: Alburn/Alburz reaches the star, moon, sun, and endless-light stations in
+    a fixed upward sequence.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The ascent is the growth of a mountain, not the journey of a human or
+    divine traveler.
+comparison_claims:
+- id: claim:1
+  claim: The passage note links the mountain catalogue to nearby Avestan material
+    by stating that most names occur in the Avesta and that the number 2244 also appears
+    in the Zamyad Yast.
+  claim_level: linguistic_similarity
+  target: Avestan mountain lore, especially the Zamyad Yast
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This comparison is based on the translator note included with the passage;
+    the excerpt does not quote the Avestan passages or demonstrate a full shared narrative
+    sequence.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4393-4398
+  quote_or_summary: Revelation is cited for the nature of mountains; mountains first
+    grew forth in eighteen years, and Alburn/Alburz grew until the completion of eight
+    hundred years.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; quotation avoided except for brief names
+    and terms.
+- id: ev:2
+  type: summary
+  locator: lines 4398-4402
+  quote_or_summary: 'Alburn/Alburz''s eight hundred years of growth are divided into
+    four two-hundred-year stages: to the star station, the moon station, the sun station,
+    and the endless light.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4402-4419
+  quote_or_summary: The other mountains are said to have grown out of Alburn/Alburz,
+    numbering 2244; the passage then lists named mountains and describes Padashkhvargar
+    as the greatest in Khvarih.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: note
+  locator: footnote after line 4402
+  quote_or_summary: A note states that the four stations are the four grades of the
+    Mazdayasnian heaven.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: note
+  locator: footnote after mountain catalogue
+  quote_or_summary: A translator note says the geographical details mix mythical tradition
+    with actual fact, that most mountain names occur in the Avesta, and that the number
+    2244 is mentioned in the Zamyad Yast.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by OCR-corrupted spellings in the supplied passage.
+    Motif candidates are based on explicit mountain growth, vertical celestial levels,
+    and derivation of other mountains from Alburn/Alburz.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Name forms are preserved cautiously from the supplied passage where OCR appears corrupted; Alburn/Alburz is used as a normalized display form only where the passage clearly refers to the same mountain.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l4393-l4426
+  passage_sha256=b53e80248d8b9747c0421fc4dedb8fe3813a0720d62e2ad364e382bf6b7b8285
+

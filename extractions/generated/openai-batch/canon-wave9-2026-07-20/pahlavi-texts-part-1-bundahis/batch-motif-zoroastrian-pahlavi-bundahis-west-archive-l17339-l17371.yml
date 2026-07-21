@@ -1,0 +1,299 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l17339-l17371
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: CHAPTER X, 27, 28. 329 / CHAPTER X, 29-32. 331 / CHAPTER X, 33-40. 333 /
+    Chapter XI.; lines 17339-17371
+  start: '17339'
+  end: '17371'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens Chapter XI by naming degrees of sin and defining Farman
+    by a weight measure. Notes in the supplied text describe a ritual mouth-covering
+    used near sacred fire to prevent contamination by breath, a lay substitute for
+    that covering, and editorial observations about repetition, authorship, and manuscript
+    placement.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Chapter XI lists degrees of sin including Farman, Srosho-karanam, Agerept,
+    Aivirist, Aredush, Khor, Basai, Yat, and Tanapuhar.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The chapter speaker says each degree of sin will be mentioned a second time.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Farman is defined by the weight of three dirhams of four mads, with an editorial
+    note discussing the reading of the measure.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: obs:4
+  text: A white cotton cloth mouth-covering is described as hanging from the bridge
+    of the nose to below the mouth and being tied behind the head.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A priest must wear the mouth-covering when approaching the sacred fire so
+    that breath does not contaminate the fire.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: On certain occasions a layman may substitute for the mouth-covering by screening
+    the mouth and nose with part of a muslin shirt.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: An editorial note says the second part is evidently by another writer, repeats
+    several passages, and is written in a less simple style.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: An editorial note says §§ 1-2 repeat Chapter I, §§ 1-2 with variations, and
+    that the number of degrees is raised to nine by adding Srosho-zaranam.
+  category: relationship
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Chapter XI speaker or compiler
+  description: The voice that enumerates the degrees of sin and says they will be
+    mentioned again.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: priest
+  description: A ritual specialist who must wear a mouth-covering when approaching
+    sacred fire.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: layman
+  description: A non-priest who, on certain occasions, screens the mouth and nose
+    with part of a muslin shirt as a substitute for the mouth-covering.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: another writer of the second part
+  description: The editorial note identifies the second part as evidently by another
+    writer who repeats earlier passages and writes in a less simple style.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: enumerator of sin degrees
+  assigned_to:
+  - fig:1
+  basis: The speaker lists named degrees of sin and states they will be mentioned
+    again.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: ritual officiant protecting sacred fire from breath contamination
+  assigned_to:
+  - fig:2
+  basis: The priest is required to wear the mouth-covering when approaching the sacred
+    fire.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: lay substitute user
+  assigned_to:
+  - fig:3
+  basis: The layman can use part of a muslin shirt as a substitute screen for mouth
+    and nose.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: second-part writer identified by editor
+  assigned_to:
+  - fig:4
+  basis: The note says the second part is evidently by another writer.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: sacred fire
+  literal_form: fire approached by a priest and protected from breath contamination
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: mouth-covering or penom
+  literal_form: white cotton cloth hanging from the nose to below the mouth and tied
+    behind the head
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: measured weight of Farman
+  literal_form: three dirhams of four mads
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+scenes:
+- id: scene:1
+  label: Enumeration of sin degrees
+  summary: The chapter opens by naming degrees of sin and announcing that they will
+    be treated again; Farman is then defined by a weight measure.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+- id: scene:2
+  label: Protection of sacred fire from breath
+  summary: A white cotton mouth-covering is described; a priest wears it near sacred
+    fire to avoid breath contamination, and a layman may use a muslin shirt as a substitute
+    screen.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Editorial and manuscript note
+  summary: Notes characterize the second part as by another writer, mention repeated
+    passages, and describe variation in manuscript placement.
+  figure_refs:
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: graded scale of sin
+  taxonomy_refs:
+  - divine_judgment
+  basis: The passage explicitly lists named degrees of sin and notes that the list
+    is raised to nine degrees.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: medium
+  cautions: The passage classifies sins but does not narrate a judgment scene or name
+    a judging divine figure.
+- id: motif:2
+  label: ritual purity boundary around sacred fire
+  taxonomy_refs: []
+  basis: The note describes a required mouth-covering for a priest approaching sacred
+    fire, with the stated purpose of preventing breath from contaminating the fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a ritual purity pattern rather than a narrative mythic episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: Chapter XI.1; lines 17339-17371
+  quote_or_summary: 'Chapter XI begins by naming degrees of sin: Farman, Srosho-karanam,
+    Agerept, Aivirist, Aredush, Khor, Basai, Yat, and Tanapuhar; the speaker says
+    each will be mentioned again.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:2
+  type: summary
+  locator: Chapter XI.2; lines 17339-17371
+  quote_or_summary: Farman is defined as a weight of three dirhams of four mads.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:3
+  type: summary
+  locator: note in supplied passage; lines 17339-17371
+  quote_or_summary: The note describes pieces of white cotton cloth hanging from the
+    bridge of the nose to below the mouth and tied behind the head.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:4
+  type: summary
+  locator: note in supplied passage; lines 17339-17371
+  quote_or_summary: The note says a priest must wear the covering when approaching
+    sacred fire to prevent breath from contaminating the fire.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:5
+  type: summary
+  locator: note in supplied passage; lines 17339-17371
+  quote_or_summary: The note says a layman sometimes uses part of a muslin shirt to
+    screen the mouth and nose as a substitute for the penom.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:6
+  type: summary
+  locator: editorial note in supplied passage; lines 17339-17371
+  quote_or_summary: The editorial note says the second part is evidently by another
+    writer, repeats several passages, is generally less simple in style, and appears
+    in different manuscript positions.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+- id: ev:7
+  type: summary
+  locator: editorial notes to Chapter XI.1-2; lines 17339-17371
+  quote_or_summary: The notes state that §§ 1-2 repeat Chapter I, §§ 1-2 with variations,
+    raise the degrees to nine by adding Srosho-zaranam, and discuss the reading of
+    the Farman weight measure.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain; source metadata permits full text use.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The supplied passage includes a short doctrinal opening and extensive editorial
+    notes; motif candidates are therefore limited and should be reviewed by a human
+    specialist.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a clear comparative mythology claim beyond internal editorial cross-references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l17339-l17371
+  passage_sha256=e5ec5941b65b2e7f3aa675409119aee24b68690d0f9051a05ccaae9f1b709299
+

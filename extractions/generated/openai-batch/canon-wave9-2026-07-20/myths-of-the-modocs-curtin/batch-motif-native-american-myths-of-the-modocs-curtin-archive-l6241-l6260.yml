@@ -1,0 +1,332 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l6241-l6260
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: MYTHS OF THE MODOCS 111 / MYTHS OF THE MODOCS 113 / MYTHS OF THE MODOCS 115
+    / MYTHS OF THE MODOCS 117; lines 6241-6260
+  start: '6241'
+  end: '6260'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"You will be a star."'
+  summary: A spirit declares that the boys will cease to be persons and become stars.
+    The younger and elder boys each reach the edge of the sky and become stars. A
+    note identifies the two stars as early-morning signs near the end of winter and
+    heralds of spring.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The spirit says the addressee will wander on the mountains, appear in dreams
+    to doctors, and have the doctors as servants.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: As the boy runs off, the spirit says that when the spirit appears, the boy
+    will also appear, but without power.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The spirit says the boy and his brother will no longer be persons and will
+    be stars.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The spirit says that between summer and winter the boys' people will fight
+    over them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The younger boy is at the edge of the sky when the old man's spirit says he
+    will be a star, and he immediately becomes one.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The elder boy reaches the edge of the sky and also becomes a star.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note says the two stars appear early in the morning toward the end of
+    winter and herald spring.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: old man's spirit
+  description: A spirit who speaks declarations about the boys' future appearances
+    and transformation into stars.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: younger boy
+  description: The younger boy reaches the edge of the sky and becomes a star.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: elder boy
+  description: The elder boy reaches the edge of the sky and becomes a star.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: doctors
+  description: Doctors are named as future dream recipients and servants of the addressee.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: the boys' people
+  description: The spirit says the boys' people will fight over them between summer
+    and winter.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: declaring spirit
+  assigned_to:
+  - fig:1
+  basis: The spirit speaks the pronouncements about wandering, dream appearances,
+    loss of personhood, and becoming stars.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: transformed brother-star
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The boys are identified as brothers who cease to be persons and become stars.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: dream-recipient servants
+  assigned_to:
+  - fig:4
+  basis: The spirit says the addressee will appear in dreams to doctors and that they
+    will be his servants.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: people who fight over the stars
+  assigned_to:
+  - fig:5
+  basis: The spirit says the boys' people will fight over them between summer and
+    winter.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: mountains where the addressee will wander
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: dream appearance
+  literal_form: appearing in dreams to doctors
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: two stars
+  literal_form: the boys become stars; the note identifies two stars appearing early
+    in the morning near winter's end
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: edge of the sky
+  literal_form: the celestial boundary reached by the younger and elder boys before
+    they become stars
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spring herald
+  literal_form: two stars appearing toward the end of winter as heralds of spring
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: spirit assigns mountain wandering and dream appearances
+  summary: The spirit says the addressee will wander on mountains, appear in dreams
+    to doctors, and have the doctors as servants.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: spirit declares loss of personhood and star transformation
+  summary: As the boy runs off, the spirit says the boy and his brother will become
+    stars and that their people will fight over them between summer and winter.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: brothers become stars at the edge of the sky
+  summary: The younger boy and then the elder boy reach the edge of the sky and become
+    stars.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: two stars herald spring
+  summary: The explanatory note identifies the two stars as early-morning stars near
+    the end of winter and as heralds of spring.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: brothers transformed into stars
+  taxonomy_refs:
+  - sibling_pair
+  basis: The passage says the boy and his brother will no longer be persons but stars,
+    and then describes the younger and elder boys each becoming a star.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The available taxonomy does not include a specific catasterism motif;
+    the sibling-pair reference is based on the explicit brother relationship.
+- id: motif:2
+  label: celestial signs marking seasonal transition
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The note states that the two stars appear early in the morning toward the
+    end of winter and herald spring.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives an explanatory note rather than an extended seasonal
+    myth episode.
+- id: motif:3
+  label: movement to the edge of the sky before celestial transformation
+  taxonomy_refs:
+  - ascent
+  basis: Both boys reach the edge of the sky before becoming stars.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage says they reach the edge of the sky but does not explicitly
+    describe the path or mode of ascent.
+- id: motif:4
+  label: spirit appearing through dreams to ritual specialists
+  taxonomy_refs: []
+  basis: The spirit says the addressee will appear in dreams to doctors, who will
+    be his servants.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage uses the term "doctors" but does not further define their
+    social or ritual role in this excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 6241-6244
+  quote_or_summary: The spirit says the addressee will wander on mountains, appear
+    in dreams to doctors, and that they will be his servants.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 6245-6250
+  quote_or_summary: As the boy runs off, the spirit says the boy will appear when
+    the spirit appears, have no power, and that he and his brother will become stars;
+    their people will fight over them between summer and winter.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 6251-6255
+  quote_or_summary: The younger boy is at the edge of the sky when the old man's spirit
+    says he will be a star, and he becomes one; the elder boy also reaches the edge
+    of the sky and becomes a star.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 6257-6259
+  quote_or_summary: The note says the two stars appear early in the morning near the
+    end of winter and are "the heralds of spring."
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; brief quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif taxonomy mapping is limited
+    because the available motif list lacks a specific star-transformation or catasterism
+    category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The final standalone string "ubo" was not interpreted.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l6241-l6260
+  passage_sha256=ba7b8040a1e6a4638659e4fcff0d6a516816a5e00d25818b6808d28bdfbf2da3
+

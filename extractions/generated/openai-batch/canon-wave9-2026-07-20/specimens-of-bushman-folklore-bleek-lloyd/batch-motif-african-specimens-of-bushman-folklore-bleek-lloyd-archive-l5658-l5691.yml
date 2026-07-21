@@ -1,0 +1,203 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l5658-l5691
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: 'IKUHA-GA KKUMM: IGA-KA KKUMM. / THE GIRL''S STORY; THE FROGS'' STORY. /
+    THE DEATH OF THE IKHAU. / THE DEATH OF THE LIZARD.; lines 5658-5691'
+  start: '5658'
+  end: '5691'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Mountains into which the \khdu (a lizard of the Genus Agama) was changed
+    when cut into two pieces.
+  summary: The passage is a fragmentary set of captions and notes attached to “The
+    Death of the Ikhau” and “The Death of the Lizard.” It identifies an ikhau or \khdu
+    as an Agama lizard and says it became mountains after being cut into two pieces.
+    It also notes porcupine footprints at a hole entrance and describes grass nests
+    made on the ground by the root of a bush, with large numbers found outside the
+    breeding period.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage title names “The Death of the Ikhau.”
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The \khdu is identified parenthetically as a lizard of the genus Agama.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The \khdu was changed into mountains after being cut into two pieces.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A porcupine’s footprints are located at one of the entrances to its hole.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that grass nests are made on the ground by the root of
+    a bush.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage states that, when not breeding, they are found in large numbers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: "\\khdu / ikhau lizard"
+  description: A lizard of the genus Agama, associated with the title “The Death of
+    the Ikhau” and described as changed into mountains after being cut into two pieces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: porcupine
+  description: An animal whose footprints are noted at one of the entrances to its
+    hole.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cut and transformed animal
+  assigned_to:
+  - fig:1
+  basis: The \khdu is described as a lizard changed into mountains when cut into two
+    pieces.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: animal marked by footprints at a hole entrance
+  assigned_to:
+  - fig:2
+  basis: The passage identifies porcupine footprints at one entrance to its hole.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: Mountains into which the \khdu was changed
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: hole entrance
+  literal_form: One of the entrances to the porcupine’s hole
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: grass nest
+  literal_form: Grass nests on the ground by the root of a bush
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Death and transformation of the ikhau
+  summary: The titled fragment concerns the death of the ikhau; a caption states that
+    the \khdu lizard was cut into two pieces and changed into mountains.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Porcupine footprints at a hole
+  summary: A caption identifies porcupine footprints at one entrance to the animal’s
+    hole.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ground nesting note
+  summary: A natural-history note states that grass nests are made on the ground by
+    the root of a bush and that the animals are found in large numbers when not breeding.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: animal transformed into mountains after being cut
+  taxonomy_refs: []
+  basis: The passage states that the \khdu, identified as an Agama lizard, was changed
+    into mountains when cut into two pieces.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is fragmentary and caption-like; it gives no agent, motive,
+    or fuller narrative sequence for the cutting or transformation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5658-5663
+  quote_or_summary: "“THE DEATH OF THE IKHAU.” Dictation metadata follows, naming
+    |hah+kass’o and his mother lxabbi-an."
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 5677-5680
+  quote_or_summary: "“Mountains into which the \\khdu (a lizard of the Genus Agama)
+    was changed when cut into two pieces.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 5674-5675
+  quote_or_summary: "“The porcupine's footprints at one of the entrances to its hole.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 5687-5691
+  quote_or_summary: "“They make grass nests on the ground, by the root of a bush.
+    When not breeding, they are found in large numbers.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short excerpt used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is limited by the fragmentary nature of the passage, which
+    consists largely of captions, title material, and natural-history notes rather
+    than a continuous tale.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific comparison beyond the local transformation motif.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l5658-l5691
+  passage_sha256=2d89d333a2d68d50098413ad2648b8e7c8ca0f1c27ea5880589cc4f05dc24253
+

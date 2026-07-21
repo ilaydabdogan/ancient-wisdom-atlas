@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l14837-l14857
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE HERITAGE IN POLYGAMIC HOUSEHOLDS. / THE HERITAGE IN POLYGAMIC HOUSEHOLDS.
+    / THE HERITAGE IN POLYGAMIC HOUSEHOLDS. / UXTHLANGUNTHLANGU.; lines 14837-14857
+  start: '14837'
+  end: '14857'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes a wife in a polygamic household who fails in expected
+    food-giving and household conduct: she grudges, denies, conceals, and secretly
+    eats food, scolds people, and angrily turns them out. Such a wife is said to lose
+    the chief place, move lower to the entrance, and be replaced by another wife able
+    to fill the position properly.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A wife is described as expected to give food without weariness rather than
+    grudge, deny, conceal, or secretly eat it.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The wife scolds the people referred to as “them” and turns them out of her
+    house in anger.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Such a wife is said to go out and to be unfit to bear the village.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The wife is said to go lower and take her position at the entrance.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Another wife takes the displaced wife’s place because she is able to fill
+    it properly.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The described removal is explicitly called ejection from the chief place and
+    expulsion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: wife ejected from the chief place
+  description: A wife who grudges or conceals food, scolds others, turns them out,
+    and is removed from the chief place.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: unnamed people to be fed
+  description: The people referred to as “them,” toward whom the wife’s conduct with
+    food and household access is directed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: replacement wife
+  description: Another wife who takes the place and is able to fill it aright.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: withholding household provider
+  assigned_to:
+  - fig:1
+  basis: She grudges food, denies having it, conceals it, eats it secretly, and fails
+    to give it without weariness.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: expelled holder of chief place
+  assigned_to:
+  - fig:1
+  basis: She is said to go out, go lower, take a position at the entrance, and be
+    ejected from the chief place.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: recipients or dependents of household food
+  assigned_to:
+  - fig:2
+  basis: They are the unnamed people whom the wife should know and feed, but whom
+    she scolds and turns out.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: capable replacement in the chief place
+  assigned_to:
+  - fig:3
+  basis: Another wife takes the place because she is able to fill it aright.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: food withheld or given
+  literal_form: food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: house from which people are turned out
+  literal_form: house
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: entrance position
+  literal_form: entrance
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: chief place
+  literal_form: chief place
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Failure of household provision
+  summary: The wife fails in food-giving and household conduct by grudging, denying,
+    concealing, and secretly eating food, then scolding and turning others out of
+    her house.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ejection and replacement
+  summary: The wife is declared unfit for the chief place, moves lower to the entrance,
+    and another wife takes her place.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: loss of household rank for withholding food
+  taxonomy_refs: []
+  basis: The wife’s refusal or concealment of food is presented as grounds for removal
+    from the chief place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a social and household-status pattern rather than a clearly mythic
+    episode in the supplied passage.
+- id: motif:2
+  label: replacement by a more capable spouse
+  taxonomy_refs: []
+  basis: After the wife is moved lower, another wife takes her place because she can
+    fill it properly.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage gives a normative household rule; broader motif classification
+    would require comparison outside the provided text.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 14837-14851
+  quote_or_summary: The wife is expected to give food without weariness; the condemned
+    behavior is grudging food, denying or concealing it, eating it secretly, scolding
+    others, and turning them out of her house in anger.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 14852-14857
+  quote_or_summary: Such a wife is said to go out, be unfit to bear the village, move
+    lower to the entrance, and be replaced by another who can fill the place properly;
+    this is called ejection from the chief place and expulsion.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal household-status sequence is clear. Motif labels are cautious
+    because the passage is normative and does not itself make broader comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family or symbol reference was assigned because the available taxonomy does not directly include household rank loss, food withholding, polygamic inheritance, or chief-wife displacement.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l14837-l14857
+  passage_sha256=dd47e44bbf5214e418b3242ac367a487be8e89f7b686f76764c1f8ab57a321de
+

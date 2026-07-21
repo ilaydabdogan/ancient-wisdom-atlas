@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l12925-l12946
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA X. / YASNA X. 241 / YASNA X. 243 / YASNA XI.; lines 12925-12946
+  start: '12925'
+  end: '12946'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Three clean creatures ... curse ... the cow, the horse, and then H(a)oma.”"
+  summary: A prelude to the H(a)oma-offering names three clean creatures—the cow,
+    the horse, and H(a)oma—who curse while invoking. The cow then cries out to her
+    driver. A note explains that later Parsi literature extended this theme to domestic
+    animals being stinted.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is introduced as a prelude to the H(a)oma-offering.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Three clean creatures are described as full of blessings and as cursing while
+    invoking.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The three named creatures are the cow, the horse, and H(a)oma.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The cow cries out to her driver.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A translator's note says the curse of the cow, horse, and H(a)oma when stinted
+    was later extended to all domestic animals in Parsi literature.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: cow
+  description: A clean creature, full of blessings, who curses while invoking and
+    cries to her driver.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: horse
+  description: A clean creature, full of blessings, named among those who curse while
+    invoking.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: H(a)oma
+  description: Named as the third clean creature in the prelude to the H(a)oma-offering.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: driver
+  description: The cow’s driver, addressed by the cow.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: cursing clean creature
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage states that three clean creatures—the cow, horse, and H(a)oma—curse
+    while invoking.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: speaker
+  assigned_to:
+  - fig:1
+  basis: The cow cries to her driver.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: addressee
+  assigned_to:
+  - fig:4
+  basis: The driver is the one to whom the cow cries.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: cow
+  literal_form: cow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: horse
+  literal_form: horse
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: H(a)oma
+  literal_form: H(a)oma
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Prelude to the H(a)oma-offering
+  summary: In the setting of a H(a)oma-offering prelude, three clean creatures—the
+    cow, horse, and H(a)oma—are said to curse while invoking; the cow then addresses
+    her driver.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: ritual offering with reciprocal curse when stinted
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage is framed as a prelude to the H(a)oma-offering, and the note
+    explains that the cow, horse, and H(a)oma curse when stinted.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The main verse names cursing and invocation but does not itself fully
+    describe the exchange or stinting; that detail appears in the note.
+- id: motif:2
+  label: sacred offering of H(a)oma
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage heading identifies the section as a prelude to the H(a)oma-offering.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The excerpt does not describe the offering procedure or an explicit sacrifice;
+    it only supplies the ritual heading.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12925-12928
+  quote_or_summary: "“Prelude to the H(a)oma-offering”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 12930-12932
+  quote_or_summary: "“Three clean creatures ... curse ... the cow, the horse, and
+    then H(a)oma.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 12932-12933
+  quote_or_summary: "“The cow cries to her driver ...”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 12939-12943
+  quote_or_summary: 'Translator''s note: later Parsi literature repeats and extends
+    the fragment; the curse of the cow, horse, and H(a)oma when stinted was extended
+    to all domestic animals.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source text; summarized for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal figures and actions are explicit. Motif assignment is cautious because
+    the excerpt is brief and the reciprocal/stinting context is mainly supplied by
+    the translator's note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make a comparison to another text, tradition, or motif family beyond the local note on later Parsi extension.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l12925-l12946
+  passage_sha256=0ee035b483d19744f115d1865a1df87a6ae3bcda45f13300329eca31a105b692
+

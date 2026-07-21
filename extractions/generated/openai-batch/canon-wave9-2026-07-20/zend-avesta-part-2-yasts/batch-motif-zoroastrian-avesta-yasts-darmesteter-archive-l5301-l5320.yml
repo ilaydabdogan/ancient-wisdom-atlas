@@ -1,0 +1,206 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l5301-l5320
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: I02 YASTS AND SIROZAHS. / VIII. / I04 YAS-TS AND SIROZAHS. / TIR YA-S-T.
+    105; lines 5301-5320
+  start: '5301'
+  end: '5320'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: We sacrifice unto Tii-trya, the bright and glorious star, who washes away
+    all things of fear ... and brings health to all these creations
+  summary: 'The passage invokes Tii-trya as a bright and glorious star. It connects
+    sacrifice and propitiation with the star’s beneficent actions: removing fear,
+    bringing health to creations, and, in the preceding question, supporting growth
+    in pastures and plants.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage refers to pastures, roots of plants, and their growth.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A speaker states an intention to offer a sacrifice for the brightness and
+    glory of the addressed being.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says, “We sacrifice unto Tii-trya,” identifying Tii-trya as a
+    bright and glorious star.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Tii-trya is described as washing away all things of fear.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Tii-trya is described as bringing health to all these creations.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Tii-trya is described as most beneficent when worshipped with sacrifice and
+    propitiated, rejoiced, and satisfied.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Tii-trya
+  description: A bright and glorious star addressed as the recipient of sacrifice.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: celestial recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The passage says, “We sacrifice unto Tii-trya, the bright and glorious star.”
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: beneficent health-bringer
+  assigned_to:
+  - fig:1
+  basis: The passage says Tii-trya brings health to creations and is most beneficent
+    when worshipped and propitiated.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: bright and glorious star
+  literal_form: star
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: sacrifice worth being heard
+  literal_form: sacrifice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: pastures and plant roots
+  literal_form: pastures and roots of plants
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Invocation for growth and sacrifice
+  summary: The passage mentions pastures and plant roots growing with powerful growth,
+    followed by a vow to offer a sacrifice for the being’s brightness and glory.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sacrifice to Tii-trya
+  summary: Worshippers sacrifice to Tii-trya, the bright and glorious star, who removes
+    fear, brings health to creations, and is beneficent when worshipped and propitiated.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to a celestial benefactor
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The passage presents sacrifice and propitiation directed to Tii-trya, a bright
+    star, and links this worship with beneficent effects such as health and removal
+    of fear.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe the ritual procedure, only the formula of
+    sacrifice and its attributed effects.
+- id: motif:2
+  label: celestial power supporting growth and health
+  taxonomy_refs: []
+  basis: The surrounding lines mention plant growth, while Tii-trya is described as
+    bringing health to all creations.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The excerpt is fragmentary, and the direct causal connection between Tii-trya
+    and the growth of plants is only partly visible in the provided passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5301-5304
+  quote_or_summary: "“pastures, even to the roots of the plants, that they may grow
+    with a powerful growth”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:2
+  type: quote
+  locator: lines 5306-5308
+  quote_or_summary: "“For his brightness and glory, I will offer him a sacrifice worth
+    being heard”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 5312-5316
+  quote_or_summary: "“We sacrifice unto Tii-trya, the bright and glorious star, who
+    washes away all things of fear ... and brings health to all these creations”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 5316-5319
+  quote_or_summary: Tii-trya is described as most beneficent when worshipped with
+    sacrifice and propitiated, rejoiced, and satisfied.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The extraction is based on a short and somewhat fragmentary passage with
+    ellipses and footnote markers. Sacrifice and celestial-benefactor motifs are directly
+    supported; growth-related interpretation is more cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not make an explicit comparison to another tradition or motif corpus.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l5301-l5320
+  passage_sha256=a7dca52cb123ab1d068a59e7653960f183ad808ba4fa70b1a7de823f8f2b3724
+

@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.sikh-sikh-religion-macauliffe-v1-archive-l14459-l14495
+source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+passage_locator:
+  label: THE JAPJI 199 / THE JAPJI 201 / THE JAPJI / XVIII; lines 14459-14495
+  start: '14459'
+  end: '14495'
+  translation: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Nanak thus describeth the degraded.
+  summary: The stanza enumerates numberless morally degraded people, then turns to
+    a devotional address in which the speaker declares lowliness, accepts whatever
+    pleases the divine, and addresses the Formless One as ever secure.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: 'The passage lists many categories described as numberless: fools, thieves,
+    devourers of others'' property, coercive rulers, cut-throats and murderers, proud
+    sinners, liars, those enjoying filthy gain, and slanderers.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Nanak is named as the one who describes the listed people as degraded.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says he is so lowly that he cannot even once be a sacrifice unto
+    the divine addressee.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker states that whatever pleases the divine addressee is good.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The divine addressee is called the Formless One and is said to be ever secure.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note gives an alternate rendering for the coercive-sovereignty line, and
+    another note explains the term 'malechh' as a term of opprobrium and outcaste
+    status in the translator's explanation.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Nanak / speaker
+  description: Named voice who describes the degraded and speaks in lowliness before
+    the divine addressee.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: numberless degraded persons
+  description: Collective figures named through categories of folly, theft, violent
+    rule, murder, sin, lying, filthy gain, and slander.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Formless One
+  description: Divine addressee, addressed as formless and ever secure; the speaker
+    says whatever pleases this addressee is good.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: named describer
+  assigned_to:
+  - fig:1
+  basis: The line states that Nanak describes the degraded.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: lowly supplicant
+  assigned_to:
+  - fig:1
+  basis: The speaker declares himself lowly and unable to be a sacrifice unto the
+    divine addressee.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: degraded wrongdoers
+  assigned_to:
+  - fig:2
+  basis: The passage enumerates numberless people associated with theft, violence,
+    sin, lying, filthy gain, and slander, then calls them degraded.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: divine addressee
+  assigned_to:
+  - fig:3
+  basis: The passage addresses the Formless One directly and attributes secure being
+    to this addressee.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: burden of calumny
+  literal_form: loads of calumny carried on the heads of slanderers
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: devotional sacrifice language
+  literal_form: the speaker's statement that he cannot be a sacrifice unto the divine
+    addressee
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - sacrifice
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Catalogue of numberless wrongdoing
+  summary: The stanza presents a repeated list of numberless degraded people associated
+    with blindness, theft, violent sovereignty, murder, pride in sin, lying, filthy
+    gain, and slander.
+  figure_refs:
+  - fig:2
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Devotional address to the Formless One
+  summary: After the catalogue, the speaker declares lowliness, says he cannot be
+    a sacrifice unto the divine, affirms that whatever pleases the divine is good,
+    and addresses the Formless One as ever secure.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: catalogue of moral degradation
+  taxonomy_refs: []
+  basis: The passage repeatedly names numberless categories of wrongdoers and then
+    labels them degraded.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is a moral enumeration rather than a narrative episode with a developed
+    plot.
+- id: motif:2
+  label: devotional self-offering as inadequate
+  taxonomy_refs:
+  - sacrifice
+  basis: The speaker says he is so lowly that he cannot even once be a sacrifice unto
+    the divine addressee.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage uses sacrifice language devotionally; it does not describe
+    an actual ritual sacrifice.
+- id: motif:3
+  label: acceptance of divine pleasure or will
+  taxonomy_refs: []
+  basis: The speaker states that whatever pleases the divine addressee is good.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage gives a brief devotional assertion, not an extended doctrine
+    or narrative.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be cautiously compared with the sacrifice motif family because
+    it uses the language of being a sacrifice to the divine as an expression of devotion
+    and humility.
+  claim_level: same_motif
+  target: sacrifice
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The comparison is limited to devotional sacrifice language; the passage
+    does not portray a ritual offering, death, substitution, or sacrificial procedure.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 14459-14474
+  quote_or_summary: The stanza lists numberless fools, thieves, devourers of others'
+    property, coercive rulers, cut-throats and murderers, proud sinners, liars, those
+    enjoying filthy gain, and slanderers carrying loads of calumny.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:2
+  type: quote
+  locator: 14475-14476
+  quote_or_summary: Nanak thus describeth the degraded.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:3
+  type: summary
+  locator: 14477-14483
+  quote_or_summary: The speaker says he is so lowly he cannot once be a sacrifice
+    unto the divine, affirms that whatever pleases the divine is good, and addresses
+    the Formless One as ever secure.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source metadata; full text use allowed.
+- id: ev:4
+  type: note
+  locator: 14485-14495
+  quote_or_summary: Translator's notes give an alternate translation about oppressive
+    orders and explain 'malechh' as a term applied opprobriously to outcast or non-Hindu
+    groups in the translator's account.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source metadata; full text use allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The literal extraction is straightforward. Motif assignment is cautious because
+    the passage is chiefly a moral and devotional stanza rather than a plotted mythic
+    narrative. The sacrifice comparison rests only on explicit devotional language.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Available taxonomy references were applied only where directly supported by the wording.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sikh-sikh-religion-macauliffe-v1-archive__l14459-l14495
+  passage_sha256=b079856ccaf0facf4f10cb1885f397f64aeca2d8e5beecc3491d486702972bce
+

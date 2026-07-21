@@ -1,0 +1,400 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l4961-l4995
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: DOCTRINE    OF    THE    M1THRAIC    MYSTERIES          113 / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          115
+    / DOCTRINE    OF   THE    MITHRAIC    MYSTERIES          I IQ / I2O  THE    MYSTERIES    OF    MITHRA;
+    lines 4961-4995
+  start: '4961'
+  end: '4995'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes a distinction between reserved Mazdean doctrines
+    taught to an elite and more public astronomical symbolism. It then explains that
+    the planets were treated as powerful sidereal deities, linked to days, metals,
+    initiation degrees, the number seven, the descent of souls, and symbolic representation
+    on monuments.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The clergy are described as reserving the revelation of original Mazdean doctrines
+    about the origin and destiny of humanity and the world for an elite.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The multitude are described as being left with brilliant but superficial symbolism
+    inspired by Chaldaean speculations.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Astronomical allegories are said to conceal the real scope of hieratic representations
+    from the curiosity of ordinary people.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A delayed promise of complete illumination is said to sustain religious ardor
+    through mystery.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The planets are described as the most potent sidereal deities, often invoked
+    and given rich offerings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: According to the passage, each planetary body presided over a day of the week,
+    had a consecrated metal, and was associated with an initiation degree.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The number seven is said to have received special religious potency because
+    of the number of the planets.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: Souls descending from the empyrean to the earth are said to receive their
+    passions and qualities successively from the planets.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Planetary bodies are said to be represented on monuments by symbols connected
+    with their elements or sacrifices offered to them.
+  category: object
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: clergy
+  description: Religious authorities who reserve certain doctrinal revelation for
+    the elite.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: elite
+  description: The group for whom the revelation of original Mazdean doctrines is
+    reserved.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: multitude
+  description: The wider group left with public or superficial astronomical symbolism.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Planets
+  description: Sidereal deities and planetary bodies endowed with qualities, offerings,
+    correspondences, and symbolic representations.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: souls
+  description: Souls described as descending from the empyrean to earth and receiving
+    passions and qualities from the planets.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: guardians of restricted doctrine
+  assigned_to:
+  - fig:1
+  basis: The clergy reserve revelation of original Mazdean doctrines for an elite.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipients of esoteric revelation
+  assigned_to:
+  - fig:2
+  basis: The elite exclusively receive the reserved revelation.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: recipients of public symbolism
+  assigned_to:
+  - fig:3
+  basis: The multitude remain with superficial symbolism and are excluded from the
+    concealed scope of the representations.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: planetary sidereal powers
+  assigned_to:
+  - fig:4
+  basis: The planets are called potent sidereal deities, invoked, offered gifts, and
+    linked to days, metals, and initiation degrees.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: descending souls shaped by planets
+  assigned_to:
+  - fig:5
+  basis: Souls descending to earth receive passions and qualities from the planetary
+    bodies.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: astronomical allegories
+  literal_form: astronomical allegorical representations
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: Planets
+  literal_form: planetary bodies treated as sidereal deities
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:3
+  label: number seven
+  literal_form: the number seven derived from the planets
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: planetary correspondences
+  literal_form: day of the week, consecrated metal, and initiation degree assigned
+    to each planet
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: descent from empyrean to earth
+  literal_form: souls descending from the empyrean to the earth through planetary
+    influence
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: monumental planetary symbols
+  literal_form: symbols on monuments recalling elements or sacrifices associated with
+    planetary bodies
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Restricted doctrine and public symbolism
+  summary: The clergy reserve original Mazdean doctrines about origin and destiny
+    for an elite, while the multitude receives astronomical symbolism that conceals
+    the deeper scope of the representations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Planetary powers and correspondences
+  summary: The planets are presented as powerful sidereal deities with offerings,
+    virtues, days, metals, initiation degrees, and a connection to the sacred force
+    of the number seven.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Descent of souls through planetary influence
+  summary: Souls descending from the empyrean to earth successively acquire passions
+    and qualities from the planets.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Monumental representation of planets
+  summary: Planetary bodies are represented on monuments through symbols connected
+    with their elements or their sacrifices.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: restricted revelation of hidden doctrine
+  taxonomy_refs:
+  - wisdom
+  basis: The passage contrasts elite access to original doctrines with public symbolism
+    and concealed meanings.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes restricted teaching and concealed meaning, but does
+    not narrate a quest for wisdom.
+- id: motif:2
+  label: initiation structured by planetary correspondences
+  taxonomy_refs:
+  - initiation
+  basis: Each planetary body is associated with a degree in the initiation, along
+    with a day and metal.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not describe an initiation rite in action, only its planetary
+    associations.
+- id: motif:3
+  label: soul descent through planetary powers
+  taxonomy_refs: []
+  basis: Souls descending from the empyrean to earth receive passions and qualities
+    successively from the planets.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage concerns descent before earthly embodiment, not an explicit
+    afterlife ascent or return.
+- id: motif:4
+  label: sacred number seven from planetary order
+  taxonomy_refs: []
+  basis: The number of planets is said to confer special religious potency on the
+    number seven.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No supplied taxonomy reference directly names sacred number symbolism.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents Mithraic public symbolism as inspired by Chaldaean astronomical
+    speculation while distinguishing it from reserved Mazdean doctrine.
+  claim_level: historical_contact
+  target: Chaldaean astronomical speculation and Mazdean doctrinal tradition
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a claim made by the passage's modern scholarly exposition;
+    the excerpt does not provide independent evidence for the historical process.
+- id: claim:2
+  claim: The passage aligns the Mithraic planets with an astrological correspondence
+    pattern linking planets, days, metals, and initiation degrees.
+  claim_level: same_function
+  target: astrological planetary correspondence pattern
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is limited to the correspondence structure named in
+    the passage and does not identify specific planetary assignments.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4961-4969
+  quote_or_summary: The clergy reserve original Mazdean doctrines about the origin
+    and destiny of humanity and the world for an elite, while the multitude remains
+    with symbolism inspired by Chaldaean speculations.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 4969-4976
+  quote_or_summary: Astronomical allegories conceal the real scope of hieratic representations
+    from the vulgar, and the promise of complete illumination sustains faith through
+    mystery.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4977-4981
+  quote_or_summary: The planets are described as the most potent sidereal deities,
+    frequently invoked and receiving the richest offerings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4981-4990
+  quote_or_summary: Under astrological theories, planets have virtues and qualities;
+    each presides over a day, has a consecrated metal, and is associated with an initiation
+    degree, giving seven special religious potency.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4990-4993
+  quote_or_summary: Souls descending from the empyrean to earth successively receive
+    their passions and qualities from the planetary bodies.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 4993-4995
+  quote_or_summary: Planetary bodies are frequently represented on monuments by symbols
+    recalling their elements or the sacrifices offered to them.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is expository and fragmentary at the end of the supplied range.
+    Literal relationships are clear, while motif and comparison labels require cautious
+    abstraction.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage and metadata were used. No unsupplied planetary names or external taxonomy IDs were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l4961-l4995
+  passage_sha256=f2b32d5f42714aa7f787deb34d46f31f5b6e115956ca888ea2e31c6df9f4c5da
+

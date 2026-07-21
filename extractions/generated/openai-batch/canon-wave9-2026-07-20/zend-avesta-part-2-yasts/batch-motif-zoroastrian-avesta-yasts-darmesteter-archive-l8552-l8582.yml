@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l8552-l8582
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: RASHN VAST. I7I / VIII. / RASIIN VAST. 173 / XIII.; lines 8552-8582
+  start: '8552'
+  end: '8582'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage repeatedly invokes and blesses holy Rashnu whether he is at
+    the angles, boundary, or any place of the earth, and seeks his friendship toward
+    a prepared var. It then invokes Rashnu if he is on Hara Berezaiti, described as
+    a bright mountain around which the stars revolve, free from night, darkness, winds,
+    sickness, Daeva-made uncleanness, and unreachable by clouds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Rashnu is addressed as holy and is invoked and blessed in formulas referring
+    to the angles, boundary, and any place of the earth.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker invokes Rashnu's friendship toward a prepared var.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:3
+  text: Rashnu is also invoked and blessed if he is on Hara Berezaiti.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hara Berezaiti is described as a bright mountain around which the many stars
+    revolve.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The mountain location is described as free from night, darkness, cold wind,
+    hot wind, deathful sickness, and uncleanness made by Daevas.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Clouds cannot reach up to Haraiti Bareza.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Rashnu
+  description: A holy being addressed directly, invoked and blessed in multiple possible
+    locations; his friendship toward a prepared var is invoked.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: Daevas
+  description: Beings named as makers of uncleanness that is absent from the mountain
+    location.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: holy recipient of invocation and blessing
+  assigned_to:
+  - fig:1
+  basis: Rashnu is repeatedly addressed as holy and is invoked and blessed.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: figure whose friendship is sought for the prepared var
+  assigned_to:
+  - fig:1
+  basis: The formula states that the speaker invokes Rashnu's friendship toward the
+    prepared var.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: attributed makers of excluded uncleanness
+  assigned_to:
+  - fig:2
+  basis: The passage says no uncleanness made by the Daevas comes to the mountain
+    location.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Hara Berezaiti / Haraiti Bareza
+  literal_form: A bright mountain around which the many stars revolve and which clouds
+    cannot reach.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: prepared var
+  literal_form: "“this var prepared”"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: earth's angles and boundary
+  literal_form: The angles, boundary, and any place of this earth.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: revolving stars
+  literal_form: The many stars revolving around Hara Berezaiti.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Earth-wide invocation of Rashnu
+  summary: The speaker invokes and blesses holy Rashnu whether he is at the angles,
+    boundary, or any place of the earth, and invokes his friendship toward the prepared
+    var.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: scene:2
+  label: Invocation on Hara Berezaiti
+  summary: The speaker invokes and blesses Rashnu if he is on Hara Berezaiti, a bright
+    star-encircled mountain where darkness, hostile winds, sickness, Daeva-made uncleanness,
+    and clouds do not reach.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cosmic mountain around which stars revolve
+  taxonomy_refs:
+  - cosmic_mountain
+  basis: Hara Berezaiti is described as a bright mountain around which the many stars
+    revolve and which clouds cannot reach.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives the mountain description but does not narrate an ascent
+    or journey to it.
+- id: motif:2
+  label: world-center mountain or celestial pivot
+  taxonomy_refs:
+  - world_center
+  basis: The many stars are said to revolve around Hara Berezaiti.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly call the mountain a center or axis; this
+    is inferred from the revolving-stars description.
+- id: motif:3
+  label: pure high realm free from darkness, sickness, defilement, and clouds
+  taxonomy_refs: []
+  basis: The mountain location is described as without night, darkness, cold or hot
+    wind, deathful sickness, Daeva-made uncleanness, and beyond the reach of clouds.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No afterlife, initiation, or pilgrimage function is stated in this passage.
+- id: motif:4
+  label: spatially comprehensive liturgical invocation
+  taxonomy_refs: []
+  basis: 'Rashnu is invoked and blessed across a sequence of possible locations: angles
+    of the earth, boundary of the earth, any place of the earth, and Hara Berezaiti.'
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a liturgical pattern rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: XIII.20-XV.22; lines 8552-8572
+  quote_or_summary: In three formulas, Rashnu is addressed as holy and invoked/blessed
+    whether at an angle, boundary, or any place of the earth.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short summary used.
+- id: ev:2
+  type: quote
+  locator: XVI.23; lines 8573-8577
+  quote_or_summary: "“Hara Berezaiti, the bright mountain around which the many (stars)
+    revolve”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short excerpt quoted.
+- id: ev:3
+  type: summary
+  locator: XVI.23; lines 8577-8581
+  quote_or_summary: At Hara Berezaiti there come neither night nor darkness, no cold
+    or hot wind, no deathful sickness, and no uncleanness made by the Daevas.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; summary used.
+- id: ev:4
+  type: quote
+  locator: XVI.23; lines 8581-8582
+  quote_or_summary: "“the clouds cannot reach up unto the Haraiti Bareza”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; short excerpt quoted.
+- id: ev:5
+  type: quote
+  locator: XIII.20-XVI.23; lines 8552-8582
+  quote_or_summary: "“I invoke his friendship towards this var prepared”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain translation; repeated short excerpt quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif candidates are strongest
+    for the cosmic mountain imagery; no cross-tradition comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external Zoroastrian context was used beyond the supplied metadata and passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l8552-l8582
+  passage_sha256=9db757b92ecfe976b1693af336361418f1b5a041bc6d96ef2d26862079632862
+

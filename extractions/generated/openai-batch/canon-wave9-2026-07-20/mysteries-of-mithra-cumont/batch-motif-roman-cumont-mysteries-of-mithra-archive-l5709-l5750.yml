@@ -1,0 +1,264 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l5709-l5750
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          14! / THE    MYSTERIES    OF    MITHRA
+    / NABARZE / VOTIVE  INSCRIPTION  TO  MITHRA  NABARZE; lines 5709-5750
+  start: '5709'
+  end: '5750'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage characterizes Mithraic ethics as favoring action, strength,
+    courage, and military virtues, with a possible residue of cruelty. It includes
+    a caption for a votive inscription to Mithra Nabarze, glossed as “Victorious,”
+    found at Sarmizegetusa. The final fragment begins to describe an unceasing war
+    carried on by a zealous champion of piety against “the malign.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says that, for the group being described, “the good dwelt in action.”
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says strength was rated higher than gentleness and courage was
+    preferred to lenity.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage suggests that long association with “barbaric religions” perhaps
+    left a residue of cruelty in their ethics.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mithraism is described as a religion of soldiers that exalted military virtues
+    above all others.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A caption identifies a votive inscription to Mithra Nabarze, glossed as “Victorious,”
+    and says it was found at Sarmizegetusa.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The final sentence fragment describes a zealous champion of piety carrying
+    on unceasing war with “the malign.”
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mithra Nabarze
+  description: Named in the caption as the figure to whom the votive inscription is
+    dedicated; “Nabarze” is glossed as “Victorious.”
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: soldiers / Mithraic adherents
+  description: The religious group is characterized through soldiers and military
+    virtues.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: zealous champion of piety
+  description: An unnamed figure in the final sentence fragment who carries on unceasing
+    war.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: the malign
+  description: Named only as the opposing term in the fragment about unceasing war.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: victorious divine recipient of dedication
+  assigned_to:
+  - fig:1
+  basis: The caption names “Mithra Nabarze” in a votive inscription and glosses the
+    epithet as “Victorious.”
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: military religious ideal
+  assigned_to:
+  - fig:2
+  basis: Mithraism is called a religion of soldiers and said to exalt military virtues.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: pious combatant
+  assigned_to:
+  - fig:3
+  basis: The figure is described as a champion of piety who carries on war.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: opponent in pious conflict
+  assigned_to:
+  - fig:4
+  basis: The phrase places “the malign” as the opponent in the champion’s unceasing
+    war.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: votive inscription
+  literal_form: Dedication to Mithra Nabarze, “Victorious,” found at Sarmizegetusa.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Ethical characterization of Mithraism
+  summary: The passage presents a doctrinal or ethical characterization in which action,
+    strength, courage, and military virtues are valued.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Captioned votive inscription
+  summary: A figure caption identifies a votive inscription to Mithra Nabarze, called
+    “Victorious,” from Sarmizegetusa.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Fragment of unceasing pious war
+  summary: The passage begins a statement about a zealous champion of piety carrying
+    on an unceasing war with “the malign.”
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Military virtue as religious ideal
+  taxonomy_refs: []
+  basis: The passage explicitly calls Mithraism a religion of soldiers and says it
+    exalted military virtues, while also valuing action, strength, and courage.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is presented in modern scholarly exposition rather than as a mythic
+    narrative episode.
+- id: motif:2
+  label: Pious combat against malign power
+  taxonomy_refs:
+  - duality
+  basis: The passage fragment opposes a zealous champion of piety to “the malign”
+    in an unceasing war, alongside earlier ethical language about the good dwelling
+    in action.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The sentence is fragmentary and does not fully identify the malign opponent
+    or the broader narrative context.
+- id: motif:3
+  label: Votive dedication to a victorious deity
+  taxonomy_refs: []
+  basis: The caption names a votive inscription to Mithra Nabarze and glosses the
+    epithet as “Victorious.”
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The evidence is a caption for an inscription, not a developed narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The opposition between a champion of piety and “the malign” can be cautiously
+    aligned with the available duality motif family as an ethical conflict between
+    pious/good and malign forces.
+  claim_level: same_motif
+  target: duality motif family
+  evidence_refs:
+  - ev:1
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is fragmentary and part of modern scholarly description;
+    it does not provide a complete mythic scene or identify the opposing malign force
+    in detail.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5709-5750, opening fragment
+  quote_or_summary: "“the good dwelt in action”; strength is rated higher than gentleness
+    and courage preferred to lenity."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 5709-5750, opening paragraph
+  quote_or_summary: The passage suggests that association with barbaric religions
+    perhaps left a residue of cruelty in the ethics being described.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 5709-5750, paragraph after figure caption
+  quote_or_summary: "“A religion of soldiers, Mithraism exalted the military virtues
+    above all others.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5709-5750, Fig. 36 caption
+  quote_or_summary: "“VOTIVE INSCRIPTION TO MITHRA NABARZE (VICTORIOUS). Found at
+    Sarmizegetusa.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:5
+  type: quote
+  locator: lines 5709-5750, final fragment
+  quote_or_summary: "“the zealous champion of piety carries on unceasingly with the
+    malign” in war."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used for evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is limited by the fragmentary nature of the passage and by the
+    fact that it is modern scholarly exposition rather than a continuous mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external traditions or unattested taxonomy IDs added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l5709-l5750
+  passage_sha256=3dadc1e15d1a6f5d68edbe807c279aaf12e95c2953089616fd67d240dd82bf0d
+

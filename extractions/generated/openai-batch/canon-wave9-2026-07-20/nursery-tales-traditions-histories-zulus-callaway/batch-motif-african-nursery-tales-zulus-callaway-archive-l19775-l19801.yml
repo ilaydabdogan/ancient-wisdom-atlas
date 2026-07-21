@@ -1,0 +1,291 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l19775-l19801
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: THE MAN AND THE BREAD. / FOR IT AGAIN, BUT NEVER FOUND IT.) / THE MAN AND
+    THE BREAD. / SPEAKING ANIMALS.; lines 19775-19801
+  start: '19775'
+  end: '19801'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“You are living securely. This moon will not die [without a change]. You
+    will be killed in Zululand ... Go away, all of you.”"
+  summary: A crow calls the Zulu officer Unongalaza by name and warns that the people
+    will be killed in Zululand during the current month unless they depart. Umawa,
+    daughter of the chief Ujama, leaves for the English; those who remain behind are
+    killed.
+  language: English with Zulu title elements
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage begins with people among the Zulus living in prosperity and not
+    knowing what was about to happen.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A crow calls the officer Unongalaza by name, and listeners say no person can
+    be seen calling, only the crow.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The crow says the people are living securely and warns that they will be killed
+    in Zululand during the current month unless they depart.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people do not stay after the warning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Umawa, daughter of Ujama, chief of the people, sets out and goes to the English.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Those who remain behind are killed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: crow
+  description: A crow that calls Unongalaza by name and speaks a warning to the people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Unongalaza
+  description: A Zulu officer whom the crow calls by name.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Zulu people
+  description: People living securely who hear the crow’s warning; some depart and
+    some remain.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: Umawa
+  description: Daughter of Ujama, the chief of the people, who sets out and goes to
+    the English.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Ujama
+  description: Chief of the people and father of Umawa.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: speaking warning animal
+  assigned_to:
+  - fig:1
+  basis: The crow calls a named person and warns the people to leave to avoid being
+    killed.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: named addressee
+  assigned_to:
+  - fig:2
+  basis: Unongalaza is the officer called by the crow.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: warned community
+  assigned_to:
+  - fig:3
+  basis: The people are warned that they will be killed unless they depart, and some
+    depart while others remain.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: departing chief's daughter
+  assigned_to:
+  - fig:4
+  basis: Umawa, identified as the daughter of Ujama, sets out and goes to the English.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: chief and father
+  assigned_to:
+  - fig:5
+  basis: Ujama is identified as the chief of the people and father of Umawa.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: speaking crow
+  literal_form: crow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: lunar deadline
+  literal_form: moon / current month
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: Zululand as place of threatened killing
+  literal_form: Zululand
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Crow calls the officer
+  summary: A crow calls Unongalaza by name; the people hear the call and see no caller
+    except the crow.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Warning of imminent killing
+  summary: The crow tells the people that the current moon will not pass without change
+    and that they will be killed in Zululand unless they leave during that month.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Departure and aftermath
+  summary: The people do not remain; Umawa goes to the English, while those who stay
+    behind are killed.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: speaking animal gives warning
+  taxonomy_refs: []
+  basis: A crow speaks human words, calls a named officer, and warns the people of
+    impending danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage identifies the section as speaking animals, but does not explain
+    the crow’s origin or authority.
+- id: motif:2
+  label: departure to avoid foretold danger
+  taxonomy_refs:
+  - departure
+  basis: The crow warns that the people will be killed unless they depart, and the
+    narrative says they do not stay.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief account of the departure and destination.
+- id: motif:3
+  label: fatal consequence for those who remain after warning
+  taxonomy_refs: []
+  basis: The warning predicts killing if the people do not depart, and the passage
+    states that those who remained behind were killed.
+  evidence_refs:
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: The passage does not describe the agents, circumstances, or scale of the
+    killing.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 19775-19801, opening
+  quote_or_summary: People among the Zulus are described as living in perfect prosperity
+    and not knowing what was about to happen.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 19775-19801, crow calls Unongalaza
+  quote_or_summary: A crow calls, “Wey, Unongalaza!”; the people say no one can be
+    seen calling, only the crow.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: 19775-19801, crow's warning
+  quote_or_summary: The crow says the people are living securely, that the moon will
+    not die without a change, and that they will be killed in Zululand unless they
+    depart during that month.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summary with brief quoted wording in canonical
+    excerpt.
+- id: ev:4
+  type: summary
+  locator: 19775-19801, departure
+  quote_or_summary: The narrative says they did not stay; Umawa, daughter of Ujama,
+    chief of the people, set out and came to the English.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 19775-19801, final sentence
+  quote_or_summary: "“Those who remained behind were killed.”"
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is brief and explicit about the speaking crow, warning, departure,
+    and deaths. No external comparison claims were added.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. Available symbol taxonomy contained no direct crow or moon entry, so symbol taxonomy references are empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l19775-l19801
+  passage_sha256=fea13bdbf0bea1ee784174df4e0449e9f77ed3e2e4941f74bb60813f4a6075eb
+

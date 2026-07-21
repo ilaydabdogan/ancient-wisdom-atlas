@@ -1,0 +1,328 @@
+---
+record_id: batch.motif.native-american-traditions-caddo-dorsey-archive-l6431-l6442
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+passage_locator:
+  label: ABSTRACTS. 123 / ABSTRACTS. 1 25 / ABSTRACTS. 12J / ABSTRACTS. 1 29; lines
+    6431-6442
+  start: '6431'
+  end: '6442'
+  translation: Traditions of the Caddo
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Coyote hunts, sees Turkey in a tall tree, threatens him into coming down,
+    kills and eats him, then believes a man is about to strike him and runs repeatedly.
+    The passage states that Coyote had been given undiminishing running power at the
+    beginning of the world, but by the tenth run his power decreases; the supplied
+    excerpt ends mid-clause.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Coyote goes hunting buffalo.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Turkey is on top of a tall tree when Coyote sees him.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Coyote threatens to kill Turkey if he does not get down and says he has no
+    power to kill anything on the prairie.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Turkey starts toward the prairie and comes to the ground.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:5
+  text: When Turkey reaches the ground, Coyote catches him and kills him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: While eating Turkey, Coyote looks around to see that no one is watching him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: Coyote thinks he sees somebody or a man behind him making motions as if to
+    strike him, and he runs while looking back.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: The passage states that Coyote was given power at the beginning of the world
+    to run without decreasing his running powers.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: Coyote has run eight times; on the ninth time he runs farther than usual;
+    on the tenth time his powers decrease and he dodges right and left to fool the
+    man.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: The supplied passage ends with an incomplete clause about Coyote giving out.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: A figure who goes hunting, threatens Turkey, kills and eats him, believes
+    he is pursued, and has running power granted at the beginning of the world.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Turkey
+  description: A figure on top of a tall tree who comes toward the prairie and to
+    the ground, where Coyote kills him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: somebody / man perceived by Coyote
+  description: A figure Coyote thinks he sees behind him, making motions as if to
+    strike him and later appearing ready to hit him.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hunter and killer
+  assigned_to:
+  - fig:1
+  basis: Coyote goes hunting, then catches and kills Turkey after Turkey comes to
+    the ground.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: threatening speaker
+  assigned_to:
+  - fig:1
+  basis: Coyote threatens Turkey and states that he has no power to kill anything
+    on the prairie.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: fleeing runner with primordial running power
+  assigned_to:
+  - fig:1
+  basis: Coyote runs from the perceived man and is described as having been given
+    power at the beginning of the world to run without decreasing his running powers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: prey or victim
+  assigned_to:
+  - fig:2
+  basis: Turkey comes down and is caught, killed, and eaten by Coyote.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: perceived pursuer or striker
+  assigned_to:
+  - fig:3
+  basis: Coyote thinks the man is behind him, ready to strike or hit him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: tall tree
+  literal_form: tall tree
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: prairie and ground
+  literal_form: prairie / ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: striking motion
+  literal_form: motions as if to strike / ready to hit
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: eight, ninth, and tenth runs
+  literal_form: eight runs, ninth run, tenth run
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Coyote threatens Turkey in the tree
+  summary: Coyote, while hunting buffalo, sees Turkey on top of a tall tree and threatens
+    to kill him unless he gets down, saying he has no power to kill on the prairie.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Turkey descends and is killed
+  summary: Turkey moves toward the prairie and reaches the ground; Coyote catches,
+    kills, and eats him while checking whether anyone is watching.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Coyote flees the perceived striker
+  summary: Coyote thinks he sees someone or a man behind him making motions to strike,
+    so he runs and repeatedly looks back.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Repeated runs and decreasing power
+  summary: Coyote’s primordial running power is described; after eight runs and a
+    farther ninth run, his tenth run weakens and he dodges right and left to fool
+    the perceived man.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: prey drawn down from a tree and killed
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote threatens Turkey and says he cannot kill anything on the prairie;
+    after Turkey comes to the ground, Coyote kills him.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly label Coyote as a trickster; the taxonomy
+    link rests on the deceptive or coercive animal-figure action in the excerpt.
+- id: motif:2
+  label: killer flees a perceived avenger
+  taxonomy_refs: []
+  basis: After killing and eating Turkey, Coyote checks whether anyone is watching
+    and then thinks a man is behind him ready to strike, causing him to run.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage frames the pursuer through Coyote’s perception; it does not
+    confirm whether the man is real.
+- id: motif:3
+  label: primordial running power diminishes after repeated runs
+  taxonomy_refs: []
+  basis: Coyote was given running power at the beginning of the world, but after the
+    eighth and ninth runs his tenth run shows decreasing power.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives the sequence but the supplied excerpt ends before the
+    episode is complete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6431-6433
+  quote_or_summary: Coyote hunts buffalo, sees Turkey on top of a tall tree, threatens
+    him to get down, and says he has no power to kill anything on the prairie.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6433-6435
+  quote_or_summary: Turkey comes to the ground; Coyote catches and kills him, then
+    eats Turkey while looking around to see that no one is watching.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 6435-6438
+  quote_or_summary: Coyote thinks he sees somebody or a man behind him making motions
+    as if to strike; he runs and looks back to see if he is out of reach.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6438-6442
+  quote_or_summary: Coyote’s running power is said to have been given at the beginning
+    of the world; he runs eight times, runs farther on the ninth, and on the tenth
+    his powers decrease as he dodges right and left.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; summary derived from supplied passage.
+- id: ev:5
+  type: note
+  locator: line 6442
+  quote_or_summary: The supplied excerpt ends mid-clause after the words “Coyote gives
+    out when”.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source; short quotation from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is limited by the excerpt ending mid-clause. No explicit
+    comparison claims are made; motif candidates are based only on the supplied passage
+    and available taxonomy references.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No figures or events beyond the supplied passage have been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-caddo-dorsey-archive__l6431-l6442
+  passage_sha256=cf1b31f4e6e46bef0608fa5740f7451b623fb9a4b1eae7f1e112eaf2ff9b8c6c
+

@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.polynesian-tongan-myths-and-tales-gifford-archive-l2355-l2373
+source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+passage_locator:
+  label: THE FIRST TUI TONGA25 / THE TENTH TUI TONGA, MOMO, AND THE CHIEF LOAU32 /
+    THE ELEVENTH TUI TONGA, TUITATUI, AND HIS HALF BROTHER, / FASIAPULE34; lines 2355-2373
+  start: '2355'
+  end: '2373'
+  translation: Tongan Myths and Tales
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Fasiapule carries his brother’s corpse. A tapa cloth falls from the head,
+    giving a place its name. He takes the body by boat toward Tongatabu, resting at
+    Motutapu and Moungatapu, which are also explained by the episode. The final burial
+    place is uncertain, with several locations reported. An editorial note says the
+    episode is evidently borrowed from the sale of Pasikole.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A piece of old tapa called a holo lies over the corpse’s head and falls off
+    at a place later called Holotapu.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The carrier arrives at the beach, puts the body in a boat, and paddles toward
+    Tongatabu.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage includes an editorial note stating that the episode is evidently
+    borrowed from the sale of Pasikole.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The carrier becomes weary and stops at Motutapu; the passage explains the
+    name as Sacred Island.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The carrier becomes weary again and stops at Moungatapu in the bay of Mua;
+    the passage explains the name as Sacred Mountain.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that the final place where Fasiapule took and buried the
+    body is uncertain, naming Haangongo at Malapo and the royal tombs in Lapaha as
+    reported possibilities.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Fasiapule
+  description: Person said to have taken the body from Moungatapu and buried it; the
+    preceding actions in the passage are attributed to him by context.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: fig:2
+  name_or_label: Fasiapule’s brother as corpse
+  description: The deceased brother whose body is carried, placed in a boat, and later
+    buried.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+roles:
+- id: role:1
+  label: corpse-carrier and voyager
+  assigned_to:
+  - fig:1
+  basis: Fasiapule is associated with taking the body, traveling by boat, resting,
+    and burying the body.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: deceased brother
+  assigned_to:
+  - fig:2
+  basis: The passage refers to the body as the corpse of the carrier’s brother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+symbols:
+- id: sym:1
+  label: holo tapa cloth
+  literal_form: old piece of tapa used as a towel over the corpse’s head
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: boat
+  literal_form: boat used to carry the body from the beach toward Tongatabu
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Motutapu
+  literal_form: island where the carrier rested, explained as Sacred Island
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Moungatapu
+  literal_form: place in the bay of Mua, Tongatabu, explained as Sacred Mountain
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: possible burial places
+  literal_form: Haangongo at Malapo and the royal tombs in Lapaha
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Tapa falls from corpse’s head
+  summary: While the body is being carried, the holo tapa over the corpse’s head drops
+    off, and the place is said to be called Holotapu from that event.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Boat journey with the body
+  summary: The body is brought to the beach, placed in a boat, and paddled toward
+    Tongatabu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Rest stops and place names
+  summary: The carrier grows weary and rests at Motutapu and later at Moungatapu;
+    both place names are explained by the events.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Uncertain burial destination
+  summary: The passage reports uncertainty about where Fasiapule finally took and
+    buried the body, giving two possible locations.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: etiological place naming from journey events
+  taxonomy_refs: []
+  basis: Holotapu, Motutapu, and Moungatapu are each explained through incidents occurring
+    during the transport of the corpse.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The taxonomy supplied does not include a specific etiological place-name
+    family.
+- id: motif:2
+  label: mortuary transport by boat
+  taxonomy_refs: []
+  basis: The body is taken to the beach, placed in a boat, and paddled toward Tongatabu
+    before burial.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: medium
+  cautions: The passage describes transport of a corpse, not an explicit afterlife
+    journey.
+- id: motif:3
+  label: uncertain royal or chiefly burial location
+  taxonomy_refs: []
+  basis: The passage says it is uncertain where Fasiapule buried the body and lists
+    alternate reported burial places, including royal tombs.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage does not explain the social or ritual implications of the
+    alternate burial locations.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself states that this episode is evidently borrowed from the
+    sale of Pasikole.
+  claim_level: same_motif
+  target: the sale of Pasikole episode, cited as page 196 in the source
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No details of the Pasikole episode are included in the provided passage,
+    so the shared content cannot be independently specified here.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2355-2358
+  quote_or_summary: A holo, described as an old piece of tapa used for a towel, is
+    over the corpse’s head and drops off at a place now called Holotapu.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: public domain
+- id: ev:2
+  type: summary
+  locator: lines 2358-2360
+  quote_or_summary: The carrier reaches the beach, puts the body in his boat, and
+    starts paddling to Tongatabu.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: public domain
+- id: ev:3
+  type: quote
+  locator: lines 2362-2363
+  quote_or_summary: "“This episode is evidently borrowed from the sale of Pasikole.
+    See page 196.”"
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: public domain
+- id: ev:4
+  type: summary
+  locator: lines 2365-2366
+  quote_or_summary: He grows weary and stops at Motutapu, which the passage explains
+    as Sacred Island because of this event.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: public domain
+- id: ev:5
+  type: summary
+  locator: lines 2366-2369
+  quote_or_summary: After resting he continues, grows weary again, and stops at Moungatapu
+    in the bay of Mua; the island is called Moungatapu, Sacred Mountain, from this
+    fact.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: public domain
+- id: ev:6
+  type: summary
+  locator: lines 2371-2373
+  quote_or_summary: The passage states that it is uncertain where Fasiapule took and
+    buried the body; some say Haangongo at Malapo, and some say the royal tombs in
+    Lapaha.
+  source_text_path: texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md
+  rights_note: public domain
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence and place-name explanations are clear. Motif classification
+    is cautious because the supplied taxonomy lacks an exact place-name etiology category,
+    and the Pasikole comparison is asserted by the source but not described in the
+    provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used; uncertain identity and broader narrative context were not expanded beyond the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:polynesian-tongan-myths-and-tales-gifford-archive__l2355-l2373
+  passage_sha256=580eb7bac74b905c83d64be9bf869f5bb0ffd6fdc949dea48a8f745d5a3f6590
+

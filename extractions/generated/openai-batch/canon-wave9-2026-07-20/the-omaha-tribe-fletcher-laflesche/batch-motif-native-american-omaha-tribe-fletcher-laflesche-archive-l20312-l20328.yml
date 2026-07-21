@@ -1,0 +1,280 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l20312-l20328
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: J        J / THE    OMAHA   TRIBE / THE    OMAHA   TRIBE / THE    QUEST   OF    FOOD;
+    lines 20312-20328
+  start: '20312'
+  end: '20328'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that Omaha buffalo hunting did not use magical songs,
+    decoy calls, or disguises. Success was attributed to ritual observance by the
+    leader, obedience by the tribe, and hunter skill. The hunt is described as solemn
+    rather than sporting, with recognition of Wakon/da's control over life. The text
+    contrasts Omaha attitudes toward killing animals for food with those of whites
+    and states that the destruction of the buffalo disrupted Omaha social and religious
+    customs.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Buffalo hunting is said not to involve songs invoking magical help, decoy
+    calls, or disguises.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Success in the hunt is said to depend on the leader's strict ritual observance,
+    the tribe's obedience to prescribed rites, and the skill of individual hunters.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Omaha tribal hunt is characterized as a solemn task rather than a sporting
+    adventure.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The hunt is connected with recognition of Wakon/da's control of all life.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage contrasts Omaha attitudes toward killing animals for food with
+    the attitude of the white race encountered in contact situations.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The destruction of the buffalo is said to have caused bewilderment and to
+    have destroyed social and religious customs.
+  category: sequence
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Omaha tribe
+  description: The tribal group whose hunt is described and whose obedience to prescribed
+    rites is presented as part of hunting success.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: hunt leader
+  description: The leader whose strict observance of ritual is presented as a condition
+    of success in the buffalo hunt.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: individual hunter
+  description: A hunter whose skill is presented as one factor in successful buffalo
+    hunting.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Wakon/da
+  description: Named sacred power associated in the passage with control of all life.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: buffalo
+  description: The game animal hunted for food; its destruction is said to have disrupted
+    social and religious customs.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:6
+  name_or_label: white race
+  description: The contact group whose attitude toward slaughter of game is contrasted
+    with the Omaha or Indian attitude described in the passage.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: ritual-observing hunt leader
+  assigned_to:
+  - fig:2
+  basis: The leader's strict observance of ritual is named as a factor in success.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: obedient ritual community
+  assigned_to:
+  - fig:1
+  basis: The tribe's obedience to prescribed rites is named as a factor in success.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: skilled hunter
+  assigned_to:
+  - fig:3
+  basis: The individual hunter's skill is named as a factor in success.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: controller of all life
+  assigned_to:
+  - fig:4
+  basis: The passage says the hunt recognized the control of all life by Wakon/da.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: food animal central to the hunt
+  assigned_to:
+  - fig:5
+  basis: The buffalo is the animal hunted, and its destruction is linked to disruption
+    of Omaha customs.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:6
+  label: contrasting contact group
+  assigned_to:
+  - fig:6
+  basis: The passage contrasts the Indian attitude toward slaying animals for food
+    with that of the white race.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: buffalo
+  literal_form: buffalo as hunted game animal and destroyed resource
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:2
+  label: prescribed rites
+  literal_form: ritual observance and prescribed rites governing the hunt
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Ritually governed buffalo hunt
+  summary: The buffalo hunt is described as proceeding without magical songs, decoy
+    calls, or disguises; success depends on ritual observance, obedience to rites,
+    and hunter skill, and the undertaking is solemnly connected with Wakon/da's control
+    of life.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Disruption following destruction of the buffalo
+  summary: The passage says that differing attitudes toward killing game contributed
+    to misunderstandings with whites, and that the destruction of the buffalo bewildered
+    the Indian and destroyed long-standing social and religious customs.
+  figure_refs:
+  - fig:1
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ritually regulated subsistence hunt
+  taxonomy_refs: []
+  basis: The hunt is described as a solemn task whose success depends on prescribed
+    ritual observance, tribal obedience, and hunter skill rather than magical songs,
+    decoys, or disguises.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: This is an ethnographic ritual pattern rather than a mythic narrative
+    episode.
+- id: motif:2
+  label: loss of sacred subsistence animal disrupts social and religious order
+  taxonomy_refs: []
+  basis: The passage states that destruction of the buffalo caused bewilderment and
+    destroyed social and religious customs that had developed over centuries.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage frames this as historical and cultural disruption, not as
+    a cosmological or legendary motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20312-20315
+  quote_or_summary: Buffalo hunting used no magical songs, decoy calls, or disguises;
+    success was attributed to the leader's ritual observance, the tribe's obedience
+    to rites, and hunter skill.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: 20316-20320
+  quote_or_summary: The hunt is described from accounts of participants as a solemn
+    task, not sport, and as recognizing Wakon/da's control of all life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: 20320-20324
+  quote_or_summary: The passage says the Indian attitude toward killing animals for
+    food differed from that of whites and that the slaughter of game caused misunderstandings
+    between the races.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: summary
+  locator: 20324-20328
+  quote_or_summary: The destruction of the buffalo is said to have caused bewilderment
+    and to have destroyed social and religious customs that had developed over centuries.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is direct from the supplied passage. Motif labels are
+    cautious because the passage is ethnographic and historical rather than a myth
+    narrative. No cross-tradition comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the available taxonomy does not directly name the ritualized subsistence-hunt pattern described here.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l20312-l20328
+  passage_sha256=d3a97aff110b39a294306de38c76018d455c451f7c50cd1c7d88f59f89d371a1
+

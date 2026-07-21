@@ -1,0 +1,296 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l2021-l2043
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE MANTIS IN FORM OF A HARTEBEEST. / THE MANTIS ASSUMES THE FORM OF / A
+    HARTEBEEST. / THE MANTIS IN E0RM OF A HARTEBEEST. 5; lines 2021-2043
+  start: '2021'
+  end: '2043'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage emphasizes the Sun making the earth, place, and path bright,
+    enabling people to walk, see others, see meat and animals, hunt or approach game,
+    visit each other, and travel in summer. A note states that the Mantis, once troubled
+    by darkness, threw one of his shoes into the sky and ordered it to become the
+    Moon.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Sun is present, and the earth, place, and path are described as bright
+    or light.
+  category: setting
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: People walk while the place is light and perceive bushes, other people, and
+    meat.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: People see springbok and ostrich in summer and shoot springbok while the Sun
+    shines.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: People steal up to gemsbok and kudu while the whole place is bright.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: People visit each other and travel in summer while the Sun shines on the path.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note says the Mantis was formerly inconvenienced by darkness, removed one
+    shoe, threw it into the sky, and ordered it to become the Moon.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: the Sun
+  description: Celestial presence whose shining makes the earth, place, and path bright.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: the people
+  description: People who walk, perceive, hunt or approach animals, visit each other,
+    and travel in summer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: springbok
+  description: Animal seen by people and shot in summer while the Sun shines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: ostrich
+  description: Animal mentioned as perceived in summer while the Sun shines.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: gemsbok
+  description: Animal to which people steal up while the place is bright.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: kudu
+  description: Animal to which people steal up while the place is bright.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: the Mantis
+  description: Figure in the note who, when inconvenienced by darkness, throws a shoe
+    into the sky and commands it to become the Moon.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: source of brightness
+  assigned_to:
+  - fig:1
+  basis: The Sun shines and the earth, place, and path are described as bright or
+    light.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:2
+  label: sunlit walkers, hunters, visitors, and travelers
+  assigned_to:
+  - fig:2
+  basis: People walk, perceive, shoot springbok, approach animals, visit one another,
+    and travel while the Sun shines.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: animals encountered in summer light
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: Springbok, ostrich, gemsbok, and kudu are named in connection with seeing,
+    shooting, or approaching animals while the place is bright.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: maker or transformer of the Moon
+  assigned_to:
+  - fig:7
+  basis: The note states that the Mantis threw a shoe into the sky and ordered it
+    to become the Moon.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: sunlight
+  literal_form: the Sun shining; bright earth, place, and path
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: summer
+  literal_form: summer as the repeated time of animal perception, hunting, and travel
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: Moon made from a shoe
+  literal_form: the Mantis's shoe thrown into the sky and ordered to become the Moon
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: game animals
+  literal_form: springbok, ostrich, gemsbok, and kudu encountered while the place
+    is bright
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sunlit summer activity
+  summary: With the Sun present and the earth bright, people walk, see their surroundings
+    and animals, hunt or approach game, visit one another, and travel.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mantis creates the Moon from a shoe
+  summary: A note explains that the Mantis, troubled by darkness, throws one of his
+    shoes into the sky and commands it to become the Moon.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sunlight enabling social movement and hunting
+  taxonomy_refs: []
+  basis: The passage repeatedly links the Sun's brightness with walking, seeing, hunting
+    or approaching animals, visiting, and traveling.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a local passage pattern rather than a securely classed taxonomy
+    motif.
+- id: motif:2
+  label: celestial body created from an ordinary personal object
+  taxonomy_refs:
+  - culture_hero
+  basis: The Mantis responds to darkness by throwing a shoe into the sky and ordering
+    it to become the Moon.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The available taxonomy does not include a specific Moon-creation or object-transformation
+    category; 'culture_hero' is a broad functional fit only.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2021-2025
+  quote_or_summary: The Sun is present; the earth and place are bright; people walk
+    in the light and perceive bushes, other people, and meat.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2025-2035
+  quote_or_summary: People see springbok and ostrich in summer, shoot springbok while
+    the Sun shines, and steal up to gemsbok and kudu while the place is bright.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2035-2039
+  quote_or_summary: People visit each other and travel in summer while the Sun shines
+    and the path is bright.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: note after line 2039, within supplied passage
+  quote_or_summary: The note says the Mantis, inconvenienced by darkness, threw one
+    shoe into the sky and ordered it to become the Moon.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the supplied lines. Motif classification
+    is cautious because the passage is fragmentary and the title mentions a hartebeest
+    transformation not described in the supplied body text.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself name or develop an external comparative target.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l2021-l2043
+  passage_sha256=966e3bb6b032fd82ccc7048c2e2382dbd7442de6b90f2926965199ef95e18b1d
+

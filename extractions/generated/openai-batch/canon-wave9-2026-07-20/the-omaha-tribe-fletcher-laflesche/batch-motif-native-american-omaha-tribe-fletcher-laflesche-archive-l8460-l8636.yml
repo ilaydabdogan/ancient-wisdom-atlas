@@ -1,0 +1,389 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l8460-l8636
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: WEATHER   SIGNS / SUMMARY / THE    OMAHA    TRIBE / CONSECRATION  OF  THE  BOY  TO  THUNDER;
+    lines 8460-8636
+  start: '8460'
+  end: '8636'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage explains that hair can typify life and that cutting a lock
+    from a boy and giving it to Thunder gives the child's life into the god's keeping.
+    A later crown lock is kept distinct, bears war honors, and is cut from a slain
+    enemy as a central triumph object because it represents the enemy's life. A ritual
+    song presents the Thunder god as accepting the consecration through the hair lock
+    and declaring control over the warrior's life, with death occurring when the god
+    wills. The editors note uncertainty about the full sequence of songs but state
+    that a following song was the final song of the ceremony.
+  language: English, with Omaha ritual song text and English translations/commentary
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that, under certain conditions, hair might typify life
+    and that a part could stand for the whole because of belief in continuity of life.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A lock of the boy's hair is cut off and given to Thunder; the passage states
+    that the child's life is thereby given into the god's keeping.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A lock on the crown of the boy's head is later kept distinct and braided;
+    war honors of the warrior are worn on this lock.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The crown lock is cut from a slain enemy and becomes the central object in
+    triumph ceremonies because it represents the life of the man slain in battle.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The ritual song is introduced as the Thunder god speaking, accepting the life
+    consecration through the lock of hair, and declaring control over the warrior's
+    life.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: In the free translation of the song, the speaker says that at the time he
+    wills, a man lies dead, dark like a shadow, or reddened and stark.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary links the word shabe, meaning dark like a shadow, to both the
+    cut lock of hair and the dead man lying after his life has been taken by the god.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The editors state that the ritual account is imperfect and that it is uncertain
+    whether the six songs given were all the songs of the ceremony, but they identify
+    the following song as the final song.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: boy or child consecrated to Thunder
+  description: The child whose lock of hair is cut and given to Thunder, with his
+    life described as placed in the god's keeping.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Thunder god
+  description: The god who receives the boy's hair lock, accepts the consecration,
+    and is represented in song as controlling the warrior's life.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: warrior or man in the song
+  description: The man or warrior whose life is said to be under the god's control
+    and who lies dead when the god wills.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: slain enemy
+  description: The enemy slain in battle whose crown lock is cut off and used as a
+    central object in triumph ceremonies.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: consecrated child
+  assigned_to:
+  - fig:1
+  basis: The boy's hair lock is cut and given to Thunder as a rite by which the child's
+    life is given into the god's keeping.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deity receiving and controlling life
+  assigned_to:
+  - fig:2
+  basis: Thunder receives the lock, accepts the consecration, and the song states
+    that the god does as he wills with that life.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+- id: role:3
+  label: warrior subject to divine death-decree
+  assigned_to:
+  - fig:3
+  basis: The song and commentary state that the warrior or man lies dead only when
+    the god wills or decrees.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: defeated enemy represented by hair lock
+  assigned_to:
+  - fig:4
+  basis: The slain enemy's crown lock is cut off and treated as representing his life
+    in triumph ceremonies.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: hair lock as life-token
+  literal_form: lock of the boy's hair cut off and given to Thunder
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: crown lock bearing war honors
+  literal_form: distinct braided lock on the crown of the head
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: dark-like-a-shadow image
+  literal_form: the word shabe, glossed as dark like a shadow, applied to the hair
+    lock and to the dead man
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: Boy's life consecrated through a hair lock
+  summary: The rite cuts a lock from the boy's hair and gives it to Thunder, with
+    the passage explaining this as giving the child's life into the god's keeping.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Crown lock in warrior and triumph rites
+  summary: A distinct braided crown lock later bears war honors, and the lock cut
+    from a slain enemy becomes the central object in triumph ceremonies because it
+    represents the slain man's life.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Thunder god's song of control over death
+  summary: The Thunder god speaks in the ritual song, accepting the consecration and
+    asserting that a man lies dead only at the time the god wills.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Uncertain ritual sequence and final song
+  summary: The editors report uncertainty about whether the six songs presented were
+    all the songs in the ceremony and whether some songs were sung once or repeatedly,
+    but they identify the following Omaha song as the ceremony's final song.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: life offered to a deity through a hair lock
+  taxonomy_refs:
+  - initiation
+  - sacrifice
+  basis: The passage says that cutting off the boy's hair lock and giving it to Thunder
+    gives the child's life into the god's keeping, and that the song shows the god
+    accepting the consecration.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The offering is symbolic and consecratory; the passage does not describe
+    the child's physical death. Mapping to broad taxonomy labels such as initiation
+    or sacrifice should be reviewed.
+- id: motif:2
+  label: divine control over the timing of human death
+  taxonomy_refs: []
+  basis: The song repeatedly states that a man lies dead when the divine speaker wills,
+    and the commentary says that a man dies only when the gods decree.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes divine decree over death but does not frame it as
+    moral judgment.
+- id: motif:3
+  label: hair as part-for-whole representation of life
+  taxonomy_refs: []
+  basis: The passage explicitly states that hair can typify life, that a part can
+    stand for the whole, and that the cut locks represent the life of the child or
+    the slain enemy.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: This is a symbolic pattern within the described rite rather than a named
+    taxonomy motif in the supplied list.
+- id: motif:4
+  label: warrior triumph focused on the enemy's life-token
+  taxonomy_refs: []
+  basis: The crown lock cut from a slain enemy is described as the central object
+    in triumph ceremonies because it represents the life of the man slain in battle.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a brief explanation of the triumph ceremonies and
+    does not provide their full ritual sequence.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the current Thunder song with other songs used
+    in the tribe, stating that they reiterate the belief that a man dies only when
+    the gods decree.
+  claim_level: same_motif
+  target: other songs used in the Omaha tribe that state death occurs by divine decree
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No additional song texts are included in this passage, so the comparison
+    is limited to the editors' statement.
+- id: claim:2
+  claim: The passage identifies a linguistic and symbolic link between the preceding
+    song and this song through the word shabe, applied first to the cut hair lock
+    and then to the dead man.
+  claim_level: linguistic_similarity
+  target: the preceding ritual song in the same ceremony using shabe for the hair
+    lock
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison is restricted to the editors' explanation of this word
+    within the ceremony.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8460-8468
+  quote_or_summary: The passage says hair may typify life; because a part can stand
+    for the whole, cutting a lock from the boy's hair and giving it to Thunder gives
+    the child's life into the god's keeping.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 8468-8475
+  quote_or_summary: A crown lock is kept distinct and braided; war honors are worn
+    on it, and the lock cut from a slain enemy is central in triumph ceremonies because
+    it represents the slain man's life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 8477-8481
+  quote_or_summary: The next ritual song is introduced as the Thunder god speaking,
+    proclaiming acceptance of the consecration of life through the hair lock and declaring
+    control over the warrior's life.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 8529-8541
+  quote_or_summary: '"What time I will" a man lies dead; the song also says the man
+    shall lie "Like a shadow dark" and "Reddened and stark."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation for evidence.
+- id: ev:5
+  type: summary
+  locator: lines 8542-8553
+  quote_or_summary: The commentary says shabe, dark like a shadow, describes both
+    the child's cut hair lock and the man lying after the god has taken his life;
+    it states that the god intends to do as he wills with the life and that other
+    tribal songs repeat the belief that a man dies only when the gods decree.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 8554-8560
+  quote_or_summary: The music is described as in a five-tone scale, with the phrase
+    carrying the god's assertion rising and dwelling on the tonic, a movement said
+    to be rare in Omaha songs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 8561-8570
+  quote_or_summary: 'The editors state that the ritual account is imperfect; it is
+    uncertain whether the six songs were all the songs of the ceremony and uncertain
+    how often some songs were sung, but they say one point is certain: the following
+    was the final song.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:8
+  type: citation
+  locator: lines 8571-8636
+  quote_or_summary: The final song of the ceremony is presented in Omaha text and
+    musical notation, without an English free translation in the supplied passage.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; citation/summary only.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage explains the symbolic value
+    of hair and the song's ritual meaning. Taxonomy mapping is more tentative, especially
+    for initiation and sacrifice, because the passage describes consecration and symbolic
+    life-offering rather than a full initiation sequence or physical sacrifice.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only supplied passage text and metadata. No external comparisons or taxonomy IDs beyond the provided motif-family list were introduced.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l8460-l8636
+  passage_sha256=ce2cf1cfcf67f9dc9d2e3fac4b5809b461ea5dd49abcd94c5efd77ce9f085097
+

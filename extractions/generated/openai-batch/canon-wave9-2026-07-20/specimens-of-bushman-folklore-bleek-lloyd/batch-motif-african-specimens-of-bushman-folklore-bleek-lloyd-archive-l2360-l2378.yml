@@ -1,0 +1,292 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l2360-l2378
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: A HARTEBEEST. / THE MANTIS IN E0RM OF A HARTEBEEST. 5 / FURTHER REMARKS.
+    / TEANSLATION OF NOTES.; lines 2360-2378
+  start: '2360'
+  end: '2378'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: |-
+    the game would desire to take us away to a place where no
+    water was.
+  summary: The speaker explains that people feared looking at the Moon because game
+    animals might imitate the Moon’s manner of going and lead them astray to a place
+    without water, where they could die of thirst. The warning is attributed to their
+    mothers.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker refers to the Moon's manner of going and says the day would break
+    while it was still going along.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker says game animals would do the same if people had looked at the
+    Moon, and that the game would resemble the Moon.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says they feared to look at the Moon.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The warning is said to have come from the speakers' mothers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The mothers' warning says the game would want to take people to a place where
+    there was no water.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker says they could die of thirst if the game led them astray to a
+    place without water.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Moon
+  description: A celestial body whose manner of going is described as continuing until
+    daybreak.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: game
+  description: Game animals that could resemble the Moon and lead people astray.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: speaking group
+  description: The group who feared looking at the Moon and might be taken away by
+    game animals.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: mothers
+  description: The mothers who used to tell the warning about game animals taking
+    people to a waterless place.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: celestial model for dangerous movement
+  assigned_to:
+  - fig:1
+  basis: The game is said to resemble the Moon after people look at it, and the Moon's
+    going continues until daybreak.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: misleading animal beings
+  assigned_to:
+  - fig:2
+  basis: The game would desire to take people away and lead them astray to a place
+    without water.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:3
+  label: potential victims of being led astray
+  assigned_to:
+  - fig:3
+  basis: The speaking group feared looking at the Moon and says they could be led
+    away to die of thirst.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: warning elders or parents
+  assigned_to:
+  - fig:4
+  basis: The passage says the mothers used to tell the speakers about the danger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Moon
+  literal_form: Moon
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: waterless place
+  literal_form: place where no water was
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: game animals
+  literal_form: game
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: thirst
+  literal_form: die of thirst
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Fear of looking at the Moon
+  summary: The speaker connects looking at the Moon with the possibility that game
+    animals would behave like or resemble the Moon in its manner of going.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Game leads people to a waterless place
+  summary: The speaker reports a maternal warning that game animals would take people
+    away, lead them astray, and bring them to a place without water where they could
+    die of thirst.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dangerous sight of the Moon
+  taxonomy_refs: []
+  basis: The passage says the group feared to look at the Moon because looking was
+    associated with game animals imitating or resembling the Moon and creating danger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage gives the warning in fragmentary form; it does not state a
+    formal taboo or provide a full narrative sequence.
+- id: motif:2
+  label: animal beings lead people astray to a deadly waterless place
+  taxonomy_refs: []
+  basis: The game is said to desire to take people away, lead them astray, and bring
+    them to a place without water where they might die of thirst.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The specific animal species is not named in this excerpt, only 'game'.
+- id: motif:3
+  label: parental warning about a supernatural or dangerous animal encounter
+  taxonomy_refs: []
+  basis: The speaker attributes the warning about the game taking people to a waterless
+    place to their mothers.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The warning source is clear, but the passage does not give a complete
+    teaching episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 2360-2363
+  quote_or_summary: The Moon's manner of going is described; daybreak occurs while
+    it is still going along.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short summary.
+- id: ev:2
+  type: summary
+  locator: 2363-2367
+  quote_or_summary: The game would do the same if people had looked at the Moon; the
+    day would break while the game was still going along and it resembled the Moon.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short summary.
+- id: ev:3
+  type: quote
+  locator: 2367-2369
+  quote_or_summary: '"Therefore, we feared to look at the Moon"; the speaker says
+    their mothers used to tell them about it.'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: quote
+  locator: 2369-2370
+  quote_or_summary: '"the game would desire to take us away to a place where no water
+    was."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 2370-2372
+  quote_or_summary: The speaker says they could go to die of thirst while the game
+    led them astray to a place with no water.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short summary.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is fragmentary and contains OCR irregularities, but the main
+    sequence of Moon, game, warning, waterlessness, and thirst is discernible. No
+    comparison claims are made because the excerpt itself does not support a specific
+    comparison beyond candidate motif description.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Section headings after the passage were not treated as narrative content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l2360-l2378
+  passage_sha256=06d985979a56e329aaeac262c24d68b36a693d89069be7c2411b9a02f3334d9a
+

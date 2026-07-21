@@ -1,0 +1,327 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l5946-l5983
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: STORY  OF  IRONSIDE  AND  HIS  SISTER,    131 / STORY  OF  THE  CANNIBAL'S  WONDERFUL  BIRD.
+    / THE  CANNIBALS   WONDERFUL  BIRD.      135 / THE  STORY  OF  THE  CANNIBAL  MOTHER.    139;
+    lines 5946-5983
+  start: '5946'
+  end: '5983'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In this fragment of “The Story of the Cannibal Mother,” a woman says she
+    must eat people. She cooks an animal for the children and their father, and a
+    dead man for herself. The father warns the children to listen for sounds in their
+    mother’s stomach that will show she is asleep, then to escape. The children pretend
+    to sleep, hear the sounds, bid farewell to their father, and creep away quietly.
+    At midnight the woman wakes, finds the children gone, takes her axe, and goes
+    after them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The woman says that she must eat people.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: She cooks an animal for the children and their father, and the dead man for
+    herself.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The father tells the children that sounds of dancing people, roaring wild
+    beasts, and barking dogs in their mother’s stomach will show that she is sleeping,
+    and that they must then get away.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The father and the children lie down but only pretend to sleep while listening
+    for the sounds.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After they hear the specified sounds, the father shakes the children and tells
+    them to go while their mother is sleeping.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The children bid farewell to their father and creep out quietly so that their
+    mother will not hear them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: At midnight the woman wakes, finds the children gone, takes her axe, and goes
+    after them.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the cannibal mother / the woman
+  description: A woman who says she must eat people, eats a dead man, has warning
+    sounds in her stomach when asleep, and later pursues the children with an axe.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: the father / the man
+  description: The children’s father; he warns the children how to know when their
+    mother sleeps and urges them to leave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: the children
+  description: The children listen for the sounds, pretend to sleep, leave quietly,
+    and are pursued after their mother wakes.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: the dead man
+  description: A dead man cooked by the woman for herself.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: cannibal eater of people
+  assigned_to:
+  - fig:1
+  basis: The woman says she must eat people and cooks the dead man for herself.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: warning helper father
+  assigned_to:
+  - fig:2
+  basis: The father tells the children how to recognize the mother’s sleep and when
+    to escape.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: fleeing children
+  assigned_to:
+  - fig:3
+  basis: The children listen, pretend to sleep, bid farewell to their father, and
+    creep out quietly.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: pursuer with axe
+  assigned_to:
+  - fig:1
+  basis: At midnight the woman wakes, takes her axe, and goes after the children.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: dead human served as food
+  assigned_to:
+  - fig:4
+  basis: The dead man is cooked for the woman herself.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: sounds in the mother’s stomach
+  literal_form: Dancing of people, roaring of wild beasts, and barking of dogs heard
+    in the mother’s stomach.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: axe
+  literal_form: The axe taken by the woman before pursuing the children.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: dead man as cannibal food
+  literal_form: The dead man cooked by the woman for herself.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: cannibal meal
+  summary: 'The woman says she must eat people and cooks different food: animal meat
+    for the children and their father, and a dead man for herself.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: warning and feigned sleep
+  summary: The father warns the children about the sounds that will come from their
+    mother’s stomach when she sleeps. They lie down and pretend to sleep while listening.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: quiet escape
+  summary: After the sounds are heard, the father wakes the children and tells them
+    to go; they bid him farewell and creep out quietly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: midnight pursuit
+  summary: At midnight the woman wakes, discovers the children have gone, takes her
+    axe, and follows them.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cannibal mother or predatory parent
+  taxonomy_refs: []
+  basis: The mother figure openly says she must eat people, eats a dead man, and later
+    pursues her children after they flee.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: high
+  cautions: The wider narrative context and outcome are outside the supplied fragment.
+- id: motif:2
+  label: escape from sleeping cannibal household
+  taxonomy_refs:
+  - departure
+  basis: The father instructs the children to wait for signs that the mother sleeps,
+    and the children then leave quietly.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage supports a literal departure/escape
+    but not a full journey pattern within this fragment.
+- id: motif:3
+  label: bodily sound as danger signal
+  taxonomy_refs: []
+  basis: The father identifies sounds in the mother’s stomach as the sign that she
+    is asleep; the children hear those sounds before escaping.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage does not clarify whether the sounds imply literal beings inside
+    the stomach or a tale convention.
+- id: motif:4
+  label: pursuit of fleeing children
+  taxonomy_refs: []
+  basis: After waking and finding the children gone, the woman takes her axe and goes
+    after them.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The pursuit is introduced but not completed in the supplied passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 5946-5954
+  quote_or_summary: The woman says she “must eat people”; she cooks an animal for
+    the children and father, and “the dead man for herself.”
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 5956-5963
+  quote_or_summary: The father tells the children that dancing, roaring, and barking
+    sounds in their mother’s stomach will show she is asleep, and they must then get
+    away.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 5965-5973
+  quote_or_summary: The father and children pretend to sleep, listen, hear the specified
+    sounds, and the father tells the children to go while their mother sleeps.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: quote
+  locator: lines 5974-5976
+  quote_or_summary: The children “bade their father farewell, and crept out quietly”
+    so their mother would not hear them.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:5
+  type: summary
+  locator: lines 5978-5983
+  quote_or_summary: At midnight the woman wakes, finds the children gone, takes her
+    axe, and goes after them while they are already far along their journey.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is clear for the extracted events, but it begins mid-sentence
+    and ends before the pursuit outcome, so broader motif placement remains provisional.
+    No comparison claims were made because the supplied passage does not itself compare
+    traditions or corpora.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Literal observations are separated from candidate motif labels; available taxonomy was used only where directly supported by the departure/escape action.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l5946-l5983
+  passage_sha256=317c040c89079573d2ed214a58795b283825165411829ea7d4a98c39ae44abbb
+

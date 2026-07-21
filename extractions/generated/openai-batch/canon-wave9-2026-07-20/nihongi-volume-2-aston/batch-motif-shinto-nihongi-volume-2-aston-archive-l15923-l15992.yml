@@ -1,0 +1,426 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l15923-l15992
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: TENCHI. 281 / TENCHI. 283 / A.D. 665. / A.D. 666.; lines 15923-15992
+  start: '15923'
+  end: '15992'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Chronicle entries for A.D. 665-666 report construction of two castles in
+    Tsukushi, embassies and tribute from Tamna, Thang, and Koryo, arrivals and diplomatic
+    correspondence, a military review at Uji, banquets and presents for Thang envoys,
+    a Japanese mission to Great Thang, and the Prince Imperial's visit to the sick
+    Saheki no Komaro no Muraji in recognition of his loyal service.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Persons were sent to the Land of Tsukushi and built the two castles of Ohono
+    and Woyogi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Tamna sent ambassadors to the Court.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Land of Thang sent Liu Té-kao and others; the delegation is described
+    as 254 persons in all, arriving at Tsushima and then at Tsukushi, and forwarding
+    a letter-case.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A great review was held at Uji.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A banquet was given to Liu Té-kao and the others; later presents were made
+    to them, and in the same month they departed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Oho-ishi, Mori no Kimi, and others were sent to Great Thang; the passage notes
+    that they likely went to escort the Thang envoys.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Koryo sent Neungnu and others to offer tribute.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Tamna sent Prince Si-yé and others to offer presents.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Prince Imperial went in person to the house of Saheki no Komaro no Muraji
+    to inquire about his illness and lamented him for loyal service from the beginning.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Unnamed dispatch party to Tsukushi
+  description: Persons sent to the Land of Tsukushi who built the castles of Ohono
+    and Woyogi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Tamna ambassadors
+  description: Ambassadors sent by Tamna to the Court.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Liu Té-kao
+  description: A Thang envoy named in the passage; he and others arrived, were banqueted,
+    received presents, and departed.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Thang-associated delegation group
+  description: Delegation including Liu Té-kao, Kuo Wu-Ts‘ung, and others, described
+    as 254 persons in all.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Oho-ishi, Mori no Kimi, and companions
+  description: Japanese officials sent to Great Thang; the passage adds that they
+    likely went to escort the Thang envoys.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Neungnu and Koryo delegation
+  description: A Koryo figure of the Former Division and others sent to offer tribute.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: Prince Si-yé and Tamna delegation
+  description: A Tamna prince and others sent to offer presents.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Prince Imperial
+  description: The Prince Imperial who personally visited Saheki no Komaro no Muraji
+    during illness.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+- id: fig:9
+  name_or_label: Saheki no Komaro no Muraji
+  description: An ill retainer whose loyal service was lamented by the Prince Imperial.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: fortification builders or dispatched agents
+  assigned_to:
+  - fig:1
+  basis: They are said to have been sent to Tsukushi and to have built two castles.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: foreign ambassadors or envoys
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: These figures or groups are described as sent by Tamna, Thang, Koryo, or
+    Tamna to the court or to offer tribute/presents.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: role:3
+  label: Japanese envoys to Great Thang
+  assigned_to:
+  - fig:5
+  basis: They are explicitly said to have been sent to Great Thang.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: recipients of court banquet and presents
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: A banquet and presents were given to Liu Té-kao and the others.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: tribute or present bearers
+  assigned_to:
+  - fig:6
+  - fig:7
+  basis: Koryo sent a party to offer tribute, and Tamna sent Prince Si-yé and others
+    to offer presents.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: royal visitor to sick retainer
+  assigned_to:
+  - fig:8
+  basis: The Prince Imperial went in person to inquire about Saheki no Komaro's illness.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: ill loyal retainer
+  assigned_to:
+  - fig:9
+  basis: Saheki no Komaro is visited during illness and praised for loyal service.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fortified castles
+  literal_form: the two castles of Ohono and Woyogi
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: official letter-case
+  literal_form: letter-case forwarded by the Thang delegation
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: tribute and presents
+  literal_form: tribute offered by Koryo; presents offered by Tamna; presents made
+    to Liu Té-kao and the others
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:4
+  label: court banquet
+  literal_form: banquet given to Liu Té-kao and the others
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tsukushi fortification and Tamna embassy
+  summary: A dispatched party builds two castles in Tsukushi, and Tamna sends ambassadors
+    to the Court.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Thang delegation arrival and correspondence
+  summary: The Thang-associated delegation, including Liu Té-kao and others, arrives
+    at Tsushima and Tsukushi and forwards a letter-case.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Review, banquet, presents, and departure
+  summary: A great review is held at Uji, after which Liu Té-kao and the others receive
+    a banquet and presents before departing.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Japanese mission to Great Thang
+  summary: Oho-ishi, Mori no Kimi, and companions are sent to Great Thang, with the
+    passage noting that they likely escorted the Thang envoys.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Koryo tribute and Tamna presents
+  summary: Koryo sends Neungnu and others to offer tribute, and Tamna sends Prince
+    Si-yé and others to offer presents.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:6
+  label: Prince Imperial visits a sick loyal retainer
+  summary: The Prince Imperial visits Saheki no Komaro no Muraji to inquire about
+    illness and laments him for loyal service.
+  figure_refs:
+  - fig:8
+  - fig:9
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Envoy reception with correspondence, banquet, gifts, and departure
+  taxonomy_refs: []
+  basis: The passage sequences foreign arrival, forwarding of a letter-case, court
+    banquet, gift-giving, and departure; additional entries describe tribute and presents
+    from Koryo and Tamna.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: high
+  cautions: This is a political chronicle pattern rather than an explicitly mythic
+    or divine exchange.
+- id: motif:2
+  label: Borderland fortification by dispatched agents
+  taxonomy_refs: []
+  basis: The passage states that people were sent to Tsukushi and built the castles
+    of Ohono and Woyogi.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: No symbolic or mythological function is stated beyond the chronicle report
+    of construction.
+- id: motif:3
+  label: Royal attention to a loyal servant
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Prince Imperial personally visits an ill retainer and laments him because
+    of loyal service.
+  evidence_refs:
+  - ev:6
+  confidence: low
+  cautions: The passage praises loyalty and royal attention, but it does not explicitly
+    make a legitimacy claim; taxonomy linkage is tentative.
+comparison_claims:
+- id: claim:1
+  claim: 'The diplomatic episodes share the same function as an embassy-reception
+    and gift-exchange pattern: foreign parties arrive or offer tribute, court correspondence
+    or hospitality appears, gifts are exchanged, and envoys depart.'
+  claim_level: same_function
+  target: embassy-reception and diplomatic gift-exchange pattern
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is functional and internal to the passage; it does not assert
+    mythic equivalence, historical influence beyond the named embassies, or a sacred
+    interpretation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15923-15929
+  quote_or_summary: Persons sent to Tsukushi built the two castles of Ohono and Woyogi;
+    Tamna sent ambassadors to the Court.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 15930-15944
+  quote_or_summary: The Land of Thang sent Liu Té-kao and other officials, 254 persons
+    in all; they arrived at Tsushima and Tsukushi and forwarded a letter-case.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 15945-15954
+  quote_or_summary: A great review was held at Uji; a banquet and presents were given
+    to Liu Té-kao and the others; the envoy group departed in that month.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 15955-15964
+  quote_or_summary: Oho-ishi, Mori no Kimi, and others were sent to Great Thang; the
+    passage notes that they likely went to escort the Thang envoys.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 15965-15971
+  quote_or_summary: Koryo sent Neungnu and others to offer tribute; on the same day
+    Tamna sent Prince Si-yé and others to offer presents.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short summary used.
+- id: ev:6
+  type: summary
+  locator: lines 15972-15976
+  quote_or_summary: The Prince Imperial personally went to Saheki no Komaro no Muraji's
+    house to inquire about his illness and lamented him for loyal service from the
+    beginning.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal event extraction is straightforward, though the source excerpt contains
+    OCR-like date and spelling irregularities. Motif labels are cautious because the
+    passage is primarily annalistic and diplomatic rather than overtly mythological.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy entries such as cave, fire, mountain, serpent, tree, water, or milk are directly present in this passage; symbol taxonomy references are therefore left empty.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l15923-l15992
+  passage_sha256=abfc7c8b6308c5dec5f8ee7ede59ebfd23a11a17670008eb56ea913929c7b56b
+

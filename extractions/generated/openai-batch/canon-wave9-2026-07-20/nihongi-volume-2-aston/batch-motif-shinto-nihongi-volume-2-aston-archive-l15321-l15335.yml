@@ -1,0 +1,176 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l15321-l15335
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: SAIMEI. 271 / XXVI. 25. / XX VI. 26. / SAIMEI. 273; lines 15321-15335
+  start: '15321'
+  end: '15335'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A cited record reports that men of Thang, including Hsii Shou-yen, who
+    had been taken prisoner by Pok-sin, arrived in Tsukushi. Another book states that
+    in A.D. 661 one hundred and six Thang prisoners presented by Pok-sin, Minister
+    of Pékché, settled at Harita in Afumi, clarifying an earlier notice for A.D. 660.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage attributes one notice to the “Record of the reigns of Japan.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Men of Thang, including Hsii Shou-yen, are described as having been taken
+    prisoner by Pok-sin and arriving in Tsukushi.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A variant or additional notice says that in A.D. 661, one hundred and six
+    Thang prisoners presented by Pok-sin took up residence at Harita in Afumi.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage cross-references an earlier statement under A.D. 660 that Pok-sin
+    presented Thang prisoners, and says the present notice explains what was done
+    with them.
+  category: sequence
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hsii Shou-yen and other men of Thang
+  description: Men of Thang named collectively, including Hsii Shou-yen, who were
+    prisoners and arrived in Tsukushi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Pok-sin
+  description: Named as the person who took or presented Thang prisoners; also identified
+    in the passage as Minister of Pékché.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: One hundred and six Thang prisoners
+  description: A group of prisoners presented by Pok-sin who took up abode at Harita
+    in Afumi.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: prisoners
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: The men of Thang and the group of one hundred and six are explicitly called
+    prisoners.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: taker or presenter of prisoners
+  assigned_to:
+  - fig:2
+  basis: Pok-sin is said to have taken prisoners and to have presented Thang prisoners.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: Minister of Pékché
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Pok-sin as Minister of Pékché.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Arrival of Thang prisoners in Tsukushi
+  summary: A cited record says that Hsii Shou-yen and other men of Thang, taken prisoner
+    by Pok-sin, arrived in Tsukushi.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Settlement of prisoners at Harita
+  summary: Another notice states that one hundred and six Thang prisoners presented
+    by Pok-sin settled at Harita in Afumi in A.D. 661.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Prisoners presented and resettled
+  taxonomy_refs: []
+  basis: The passage links the capture or presentation of Thang prisoners with their
+    arrival and later residence at a named place.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: This is a historical chronicle notice rather than a clear mythological
+    motif; no supplied taxonomy family directly applies.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15321-15325
+  quote_or_summary: The “Record of the reigns of Japan” says that men of Thang, including
+    Hsii Shou-yen, who had been taken prisoner by Pok-sin, arrived in Tsukushi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 15325-15330
+  quote_or_summary: One book says that in A.D. 661, one hundred and six Thang prisoners
+    presented by Pok-sin, Minister of Pékché, took up their abode at Harita in Afumi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 15330-15334
+  quote_or_summary: The passage notes that under A.D. 660 Pok-sin was already said
+    to have presented Thang prisoners, and the current note explains what was done
+    with them.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif value is limited because the
+    passage is a chronicle notice about prisoners and resettlement, with no explicit
+    mythic symbol or comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied symbol taxonomy entries are directly present in the passage. No comparison claims were made.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l15321-l15335
+  passage_sha256=6229f67d5787c6b0a8261af87eb2b21bdcf76e9c5e6bfa8121ff7ede4df1a5bb
+

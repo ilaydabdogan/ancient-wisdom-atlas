@@ -1,0 +1,345 @@
+---
+record_id: batch.motif.native-american-traditions-caddo-dorsey-archive-l6659-l6666
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+passage_locator:
+  label: ABSTRACTS. 12J / ABSTRACTS. 1 29 / ABSTRACTS. I31 / ABSTRACTS. 1 33; lines
+    6659-6666
+  start: '6659'
+  end: '6666'
+  translation: Traditions of the Caddo
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Ducks have power to do almost anything, but to do it only once.
+  summary: Coyote hears voices while hunting, finds Ducks playing in water, joins
+    their eye-removal game, succeeds once, asks to repeat it despite their objection,
+    and then the Ducks remove his eyes, he dives into the water, and they fly away.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Coyote is hunting, hears voices, thinks they are turkeys, and goes to catch
+    them.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Coyote finds Ducks playing in water, and the Ducks ask him to join them.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The play involves taking eyes out.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: First Duck has his eyes taken out, dives into water, has the eyes thrown after
+    him, and resurfaces with the eyes in place.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: All the Ducks take turns at the same action.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Coyote goes through the same performance and comes out all right.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Ducks are described as able to do almost anything, but only once.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Coyote wants to try the trick again, and the Ducks object.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Ducks take out Coyote's eyes, he dives into the water, and the Ducks fly
+    away and leave.
+  category: sequence
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Coyote
+  description: A hunting figure who hears voices, joins the Ducks' play, performs
+    the eye-removal action once successfully, and asks to try it again.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  - ev:7
+  - ev:8
+- id: fig:2
+  name_or_label: Ducks
+  description: A group playing in water who invite Coyote, perform an eye-removal
+    game, are said to have a one-use power, object to Coyote's second attempt, remove
+    his eyes, and fly away.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+- id: fig:3
+  name_or_label: First Duck
+  description: The first Duck whose eyes are removed; he dives into water and resurfaces
+    with his eyes in place.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: hunter
+  assigned_to:
+  - fig:1
+  basis: Coyote is introduced as hunting and seeking what he thinks are turkeys.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: participant in eye-removal play
+  assigned_to:
+  - fig:1
+  basis: Coyote consents to join the Ducks' play and performs the same action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: water-playing hosts and demonstrators
+  assigned_to:
+  - fig:2
+  basis: The Ducks are found playing in water, invite Coyote, and take turns demonstrating
+    the eye-removal action.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:4
+  label: possessors of one-use power
+  assigned_to:
+  - fig:2
+  basis: The passage states that Ducks can do almost anything, but only once.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: first demonstrator
+  assigned_to:
+  - fig:3
+  basis: First Duck is the first described participant to have eyes removed, dive,
+    and return with eyes in place.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water in which the Ducks play and into which figures dive
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:8
+- id: sym:2
+  label: eyes
+  literal_form: eyes taken out, thrown after the diver, and restored in place for
+    the Ducks and for Coyote's first performance
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:8
+scenes:
+- id: scene:1
+  label: Coyote hears voices and finds Ducks
+  summary: While hunting, Coyote hears voices, assumes they are turkeys, goes to catch
+    them, and instead finds Ducks playing in water who invite him to join.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Ducks demonstrate eye-removal play
+  summary: The Ducks play at taking eyes out; First Duck dives and resurfaces with
+    his eyes in place, and the Ducks take turns.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Coyote imitates and asks to repeat
+  summary: Coyote performs the same action successfully once, but when he asks to
+    try again the Ducks object; they then take out his eyes, he dives, and they fly
+    away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: eye-removal and restoration through a water dive
+  taxonomy_refs: []
+  basis: The Ducks' game involves removing eyes, diving into water, throwing the eyes
+    after the diver, and resurfacing with the eyes restored.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage describes restoration clearly for First Duck and Coyote's
+    first performance, but does not complete the result of Coyote's final dive.
+- id: motif:2
+  label: one-use supernatural or extraordinary power
+  taxonomy_refs: []
+  basis: The passage explicitly states that Ducks can do almost anything, but only
+    once, and this limit frames their objection to Coyote's repeated attempt.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The nature and source of the Ducks' power are not explained in the passage.
+- id: motif:3
+  label: overreaching imitation of a restricted trick
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Coyote successfully imitates the Ducks' eye-removal performance once, then
+    wants to try the trick again despite their objection, after which they remove
+    his eyes and fly away.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: 'The taxonomy reference is cautious: the passage features Coyote and a
+    boundary around repetition, but it does not explicitly label Coyote as a trickster
+    or state the final consequence after the Ducks leave.'
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously aligns with the provided trickster_boundary motif
+    family through Coyote's attempt to repeat a limited powerful act after a boundary
+    is stated and resisted.
+  claim_level: same_motif
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is limited to the supplied taxonomy family and passage
+    details; the passage itself does not explicitly use the word trickster or complete
+    the outcome after the Ducks fly away.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 6659-6660
+  quote_or_summary: Coyote is hunting, hears voices, thinks they are turkeys, and
+    goes to catch them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 6660-6661
+  quote_or_summary: Coyote finds Ducks playing in water, and they ask him to join
+    them.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 6661-6662
+  quote_or_summary: He consents to play at taking eyes out.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 6662-6664
+  quote_or_summary: First Duck's eyes are taken out; he dives into water, his eyes
+    are thrown after him, and he comes up with them in place.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 6664-6665
+  quote_or_summary: All Ducks take turns, and Coyote goes through the same performance
+    and comes out all right.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 6665-6666
+  quote_or_summary: Ducks have power to do almost anything, but to do it only once.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; short excerpt from supplied passage.
+- id: ev:7
+  type: summary
+  locator: line 6666
+  quote_or_summary: Coyote wants to try the trick again, but the Ducks object.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+- id: ev:8
+  type: summary
+  locator: line 6666
+  quote_or_summary: The Ducks take Coyote's eyes out; he dives into water; the Ducks
+    fly away and leave.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md
+  rights_note: Public domain source metadata; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence is mostly explicit, but the passage ends abruptly after
+    the Ducks fly away and leave, so the final consequence is not supplied.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, source metadata, and available taxonomy references.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-traditions-caddo-dorsey-archive__l6659-l6666
+  passage_sha256=2df46dcd6d8ddcf71cd3c4f4076ecbfc57fea0cdef7be8d61d95c169ef6f219d
+

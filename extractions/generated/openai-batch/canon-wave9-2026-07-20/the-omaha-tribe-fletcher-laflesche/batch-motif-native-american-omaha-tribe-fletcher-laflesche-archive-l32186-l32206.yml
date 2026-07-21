@@ -1,0 +1,273 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l32186-l32206
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE  T'E  GA'XE / THE  MONWA'DATHIN  AND  THE  TOKA'LO / SECRET  SOCIETIES
+    / THE  MONCHU'   ITHAETHE; lines 32186-32206
+  start: '32186'
+  end: '32206'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Omaha secret societies as sacred or mysterious dances
+    and introduces the Monchu' ithaethe society. Entry into this society depends on
+    a dream of the bear, understood as the bear showing compassion by appearing in
+    a dream or vision and giving power. The society is associated with knowledge of
+    sleight-of-hand performances, including thrusting wands down the throat, and this
+    knowledge is said to have come originally from animals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Secret societies are described as connected with mysteries and collectively
+    called Xu'be wachi.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Xu'be wachi is glossed as a sacred, mysterious, or occult dance involving
+    rhythmic body movements in time with song.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Monchu' ithaethe is glossed in relation to the bear and compassion, referring
+    to those to whom the bear has shown compassion.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The bear's compassion is described as appearing in a dream or vision and giving
+    power.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Entrance into the Monchu' ithaethe society is by virtue of a dream of the
+    bear.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The society is associated with knowledge of sleight of hand, including thrusting
+    wands down the throat and similar performances.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The knowledge of these performances is said to have been gained originally
+    from animals.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the bear
+  description: A bear appearing in dream or vision, showing compassion and giving
+    power to those connected with the Monchu' ithaethe society.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: animals
+  description: Animals are named as the original source from which the society's knowledge
+    was gained.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Monchu' ithaethe society
+  description: A bear-associated secret society entered through a dream of the bear
+    and associated with sleight-of-hand knowledge.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: secret societies
+  description: Secret societies are described collectively as connected with mysteries
+    and called Xu'be wachi.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dream or vision power-giver
+  assigned_to:
+  - fig:1
+  basis: The bear is said to show compassion by appearing in a dream or vision and
+    giving power.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: original source of ritual knowledge
+  assigned_to:
+  - fig:2
+  basis: The society's knowledge is said to have been gained originally from animals.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: bear-compassion secret society
+  assigned_to:
+  - fig:3
+  basis: The name is explained as those to whom the bear has shown compassion, and
+    entry is by a bear dream.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: mystery-associated dance societies
+  assigned_to:
+  - fig:4
+  basis: The passage says all secret societies had to do with mysteries and were called
+    Xu'be wachi, a sacred or mysterious dance.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: bear
+  literal_form: bear appearing in dream or vision
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: dream or vision
+  literal_form: dream or vision in which the bear appears and gives power
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: wands
+  literal_form: wands thrust down the throat in sleight-of-hand performance
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: sacred or mysterious dance
+  literal_form: Xu'be wachi, rhythmic body movement keeping time with melody
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Secret societies described as sacred dances
+  summary: The passage introduces secret societies as mystery-associated groups collectively
+    called Xu'be wachi, glossed as sacred or mysterious dance.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bear dream grants entry and power
+  summary: Entrance into the Monchu' ithaethe society is tied to a dream of the bear,
+    whose appearance in dream or vision gives power and shows compassion.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Animal-derived sleight-of-hand knowledge
+  summary: The society is associated with sleight-of-hand knowledge, including wand-thrusting
+    performances, and this knowledge is said to have come originally from animals.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: entry into sacred society through visionary encounter
+  taxonomy_refs:
+  - initiation
+  basis: Entry into the Monchu' ithaethe society is by a dream of the bear, and the
+    bear's dream or vision appearance is said to give power.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes entry conditions but does not provide a full initiation
+    rite or ceremony sequence.
+- id: motif:2
+  label: special knowledge received from nonhuman beings
+  taxonomy_refs:
+  - wisdom
+  basis: The society's knowledge of sleight-of-hand practices is said to have been
+    gained originally from animals.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not narrate the original acquisition event; it only reports
+    the claimed source of the knowledge.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 32186-32193
+  quote_or_summary: Secret societies are described as connected with mysteries and
+    called Xu'be wachi, glossed as sacred, mysterious, or occult dance involving rhythmic
+    body movements with song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 32194-32199
+  quote_or_summary: Monchu' ithaethe is explained as bear plus showing compassion,
+    referring to those to whom the bear showed compassion by appearing in a dream
+    or vision and giving power.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 32199-32204
+  quote_or_summary: Entrance into the society is by a dream of the bear; the society
+    holds knowledge of sleight of hand, including thrusting wands down the throat,
+    and this knowledge is said to have come originally from animals.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is brief but explicit about the bear dream, entry into the society,
+    and animal-derived knowledge. Motif assignments are cautious because the text
+    is ethnographic description rather than a narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not compare the material to another text, tradition, or motif family beyond supporting internal candidate motifs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l32186-l32206
+  passage_sha256=0c1d2bf4e0d170cd80726ae721d9400da5631ae6b50be54da51ddc7d88769177
+

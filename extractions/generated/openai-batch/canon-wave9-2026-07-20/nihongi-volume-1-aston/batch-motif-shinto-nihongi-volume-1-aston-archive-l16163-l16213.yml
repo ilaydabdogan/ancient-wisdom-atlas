@@ -1,0 +1,463 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l16163-l16213
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 316. / NINTOKU. 279 / A-D- 322. / NINTOKU. 281; lines 16163-16213
+  start: '16163'
+  end: '16213'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A Nintoku reign passage describes flood-control works: channels and embankments
+    are made to manage tide and river overflow. When the Mamuta embankment cannot
+    be closed, the Emperor dreams that a god names two men to be sacrificed to the
+    River-God. One man dies by entering the water; the other challenges the River-God
+    to prove itself by sinking two calabashes, after which a whirlwind tries to submerge
+    them. The passage ends before the outcome is stated.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Continuous rains and an incoming sea tide make boat travel possible through
+    villages and leave highways covered with mud.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Emperor orders ministers to investigate the water problem, make a channel
+    to the sea, stop the contrary tide-flow, and preserve fields and houses.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: In winter, the tenth month, the plain north of the Palace is excavated, water
+    from the south is diverted into the Western Sea, and that water is named Hori-ye.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Mamuta embankment is constructed to prevent overflow from the Northern
+    river.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Two parts of the Mamuta embankment give way and cannot be stopped up.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Emperor dreams that a god admonishes him to sacrifice Koha-kubi and Koromo
+    no ko to the River-God so that the gaps can be closed.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The two named men are sought, found, and offered as sacrifices to the River-God.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Koha-kubi weeps and laments, plunges into the water, dies, and the embankment
+    is completed.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: Koromo no ko takes two whole calabashes, stands over the water that cannot
+    be dammed, plunges the calabashes into midstream, and prays to the River-God.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Koromo no ko states that if the River-God sinks the calabashes and keeps them
+    from rising, he will know it is a true god and will enter the water; if not, he
+    will regard it as a false god and not spend his life in vain.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A sudden whirlwind draws the calabashes and tries to submerge them, but the
+    supplied passage breaks off before the result is given.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Emperor
+  description: The ruler in the Nintoku passage who orders waterworks and receives
+    a dream admonition about sacrifices.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: Ministers
+  description: Officials addressed by the Emperor and told to examine the water problem
+    and make a channel.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Unnamed God in the dream
+  description: A god appearing in the Emperor's dream and naming two men to be sacrificed
+    to the River-God.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: River-God
+  description: The deity to whom Koha-kubi and Koromo no ko are to be sacrificed;
+    addressed directly by Koromo no ko in his prayer.
+  role_refs:
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:5
+  name_or_label: Koha-kubi
+  description: A man of Musashi named in the dream as one of the two sacrifices; he
+    enters the water and dies.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:6
+  name_or_label: Koromo no ko, Muraji of Mamuta
+  description: A man of Kahachi named in the dream as one of the two sacrifices; he
+    challenges the River-God with two calabashes.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:4
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: ruler directing flood-control works
+  assigned_to:
+  - fig:1
+  basis: The Emperor commands ministers to investigate the water problem, cut a channel,
+    and preserve fields and houses.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of divine dream admonition
+  assigned_to:
+  - fig:1
+  basis: The Emperor has a dream in which a god admonishes him about the sacrifices
+    needed to close the gaps.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: official investigators and executors
+  assigned_to:
+  - fig:2
+  basis: The ministers are ordered to examine the cause of the water problem and make
+    a channel to the sea.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: dream-admonishing deity
+  assigned_to:
+  - fig:3
+  basis: An unnamed god speaks in the Emperor's dream and identifies the sacrificial
+    victims.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:4
+  basis: The dream command says the two men are to be sacrificed to the River-God.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:6
+  label: deity challenged by ritual test
+  assigned_to:
+  - fig:4
+  basis: Koromo no ko asks the River-God to sink the calabashes if it truly desires
+    his life.
+  evidence_refs:
+  - ev:6
+- id: role:7
+  label: named sacrificial victim who dies
+  assigned_to:
+  - fig:5
+  basis: Koha-kubi is named as a sacrifice and then plunges into the water and dies.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: named intended sacrifice who tests the deity
+  assigned_to:
+  - fig:6
+  basis: Koromo no ko is named as a sacrifice but proposes a calabash test before
+    entering the water.
+  evidence_refs:
+  - ev:4
+  - ev:6
+symbols:
+- id: sym:1
+  label: Water, tide, and river overflow
+  literal_form: Continuous rainwater, sea tide, the Northern river, midstream water,
+    and water that cannot be dammed.
+  associated_figures:
+  - fig:1
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: Hori-ye canal or excavated estuary
+  literal_form: An excavated waterway north of the Palace diverting water from the
+    south into the Western Sea; the note glosses Hori-ye as an excavated estuary or
+    canal.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:8
+- id: sym:3
+  label: Mamuta embankment gaps
+  literal_form: Two failed parts of the Mamuta embankment that cannot be stopped up.
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:4
+  label: Two calabashes
+  literal_form: Two whole calabashes thrown into the midstream by Koromo no ko as
+    the object of a test addressed to the River-God.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+- id: sym:5
+  label: Whirlwind
+  literal_form: A sudden whirlwind that draws the calabashes and tries to submerge
+    them.
+  associated_figures:
+  - fig:4
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Flood-control command and Hori-ye excavation
+  summary: The Emperor responds to rain, tide-flow, muddy roads, and flooded villages
+    by ordering investigation and a channel to the sea; the plain north of the Palace
+    is excavated and the waterway is called Hori-ye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Mamuta embankment failure and divine dream
+  summary: The Mamuta embankment is built against the Northern river's overflow, but
+    two gaps cannot be closed. The Emperor dreams that a god names Koha-kubi and Koromo
+    no ko as sacrifices to the River-God.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Koha-kubi's sacrifice and completion of the embankment
+  summary: After the two men are found and sacrificed to the River-God, Koha-kubi
+    laments, plunges into the water, dies, and the embankment is completed.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Koromo no ko's calabash test
+  summary: Koromo no ko places two calabashes in the midstream and tells the River-God
+    that sinking them will prove it is a true god and justify his own entry into the
+    water. A whirlwind then attempts to submerge the calabashes, but the passage does
+    not provide the result.
+  figure_refs:
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Human sacrifice to a river deity to complete flood-control works
+  taxonomy_refs:
+  - sacrifice
+  basis: A dream command names two men to be sacrificed to the River-God so that embankment
+    gaps can be closed; Koha-kubi dies in the water and the embankment is completed.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage records the event as a chronicle episode; it does not supply
+    a broader ritual explanation.
+- id: motif:2
+  label: Sacrifice as exchange for controlling dangerous water
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The proposed offering of human lives is linked to closing the embankment
+    gaps and removing a water-related crisis; Koromo no ko also describes himself
+    as a sacrifice meant to address a curse.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The exchange is implied by the dream command and Koromo no ko's speech,
+    but the passage does not fully define the mechanism of exchange.
+- id: motif:3
+  label: Divine dream naming required victims
+  taxonomy_refs: []
+  basis: The Emperor receives a dream in which a god identifies Koha-kubi and Koromo
+    no ko by origin and name as the persons to be sacrificed.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No available taxonomy reference in the supplied list directly corresponds
+    to dream-oracle selection.
+- id: motif:4
+  label: Testing a deity by an ordeal with floating objects
+  taxonomy_refs:
+  - divine_judgment
+  basis: Koromo no ko proposes that the River-God prove itself by sinking two calabashes
+    and preventing their return to the surface; a whirlwind attempts to submerge them.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The supplied passage ends before the outcome is stated, so the judgment
+    result cannot be extracted here.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16165-16170
+  quote_or_summary: Continuous rains and contrary tide-flow allow boats through villages
+    and muddy the roads; the Emperor orders ministers to investigate, make a channel
+    to the sea, stop the tide-flow, and preserve fields and houses.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 16172-16175
+  quote_or_summary: In winter, the tenth month, the plain north of the Palace is excavated,
+    water from the south is diverted into the Western Sea, and the water is named
+    Hori-ye.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 16177-16181
+  quote_or_summary: The Mamuta embankment is built to prevent the Northern river from
+    overflowing, but two parts of the construction give way and cannot be stopped.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 16180-16185
+  quote_or_summary: A god in the Emperor's dream names Koha-kubi and Koromo no ko
+    and says, "Let these two men be sacrificed to the River-God" so that the gaps
+    can be closed.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 16185-16188
+  quote_or_summary: The two men are found and sacrificed to the River-God; Koha-kubi
+    weeps, plunges into the water, dies, and the embankment is completed.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 16188-16197
+  quote_or_summary: Koromo no ko takes two whole calabashes, places them in the midstream,
+    and prays that if the River-God truly wants him, it should sink them and keep
+    them from rising; otherwise he will regard the god as false and not give his life.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 16197-16199
+  quote_or_summary: A sudden whirlwind draws the calabashes and tries to submerge
+    them; the supplied passage then breaks off after "But the calabashes,".
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized with brief excerpt.
+- id: ev:8
+  type: summary
+  locator: lines 16201-16204
+  quote_or_summary: Translator notes gloss Hori-ye as an excavated estuary or canal
+    and identify the personal-name glosses for Koha-kubi and Koromo no ko.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is limited by the supplied passage ending mid-sentence after the
+    whirlwind and calabashes; no outcome for Koromo no ko's test is available in this
+    range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata. No external comparison claims were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l16163-l16213
+  passage_sha256=e9231b15fbac0347f484b771b4a32f3a86f2f79b336f1786a0812833eb1ff7ed
+

@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l8688-l8736
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: B.C. 447. / B.C. 290. / THE EMPEROR OHO-YAMATO-NEKO-HIKO-KUNI-KURU. / B.C.
+    255.; lines 8688-8736
+  start: '8688'
+  end: '8736'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives the accession notice for Emperor Oho-Yamato-neko-hiko-kuni-kuru:
+    his parentage and appointment as Prince Imperial, the death and burial of his
+    predecessor, his assumption of imperial dignity, the honoring of the Empress as
+    Grand Empress, and the relocation of the capital to Karu at the Palace of Sakahibara.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Oho-Yamato-neko-hiko-kuni-kuru is identified as the eldest child of Emperor
+    Oho-Yamato-neko-hiko-futo-ni.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: His mother is named Hoso-bime, daughter of Oho-me, Agatanushi of Shiki.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: He had been created Prince Imperial in the 36th year of his predecessor's
+    reign, when he was nineteen years old.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Emperor Oho-Yamato-neko-hiko-futo-ni died in the 76th year of his reign.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: On the 14th day of the 1st month of the 1st year, the Prince Imperial assumed
+    the Imperial Dignity.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The new emperor honored the Empress with the title Grand Empress.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In the 4th year, the capital was removed to Karu and called the Palace of
+    Sakahibara.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: In the 6th year, Emperor Oho-Yamato-neko-hiko-futo-ni was buried in the Misasagi
+    on Muma-Zaka at Kataoka.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Emperor Oho-Yamato-neko-hiko-kuni-kuru
+  description: Eldest child of Emperor Oho-Yamato-neko-hiko-futo-ni; formerly Prince
+    Imperial; assumes the Imperial Dignity.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Emperor Oho-Yamato-neko-hiko-futo-ni
+  description: Father and predecessor of Oho-Yamato-neko-hiko-kuni-kuru; dies and
+    is later buried at Muma-Zaka at Kataoka.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: Hoso-bime
+  description: Mother of Oho-Yamato-neko-hiko-kuni-kuru; daughter of Oho-me.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Oho-me
+  description: Agatanushi of Shiki and father of Hoso-bime.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: Empress / Grand Empress
+  description: The Empress is honored with the title Grand Empress after the Prince
+    Imperial assumes the Imperial Dignity.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: imperial successor
+  assigned_to:
+  - fig:1
+  basis: He is described as eldest child, created Prince Imperial, and later assumes
+    the Imperial Dignity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: new emperor
+  assigned_to:
+  - fig:1
+  basis: The passage states that the Prince Imperial assumed the Imperial Dignity.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: deceased predecessor and father
+  assigned_to:
+  - fig:2
+  basis: He is named as father of the new emperor, dies before the accession, and
+    is buried later.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: role:4
+  label: royal mother
+  assigned_to:
+  - fig:3
+  basis: She is explicitly named as the mother of Oho-Yamato-neko-hiko-kuni-kuru.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: maternal ancestor
+  assigned_to:
+  - fig:4
+  basis: He is named as father of Hoso-bime and Agatanushi of Shiki.
+  evidence_refs:
+  - ev:1
+- id: role:6
+  label: honored empress
+  assigned_to:
+  - fig:5
+  basis: The emperor honors the Empress with the title Grand Empress.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Imperial Dignity
+  literal_form: royal status/title assumed by the Prince Imperial
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Grand Empress title
+  literal_form: honorific title granted to the Empress
+  associated_figures:
+  - fig:5
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Karu capital and Palace of Sakahibara
+  literal_form: capital place and named palace
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: Misasagi on Muma-Zaka at Kataoka
+  literal_form: burial mound or imperial tomb location
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dynastic identification and appointment
+  summary: The future emperor is identified by father, mother, and maternal lineage,
+    and is said to have been created Prince Imperial at age nineteen.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Accession and honorific elevation
+  summary: After the predecessor's death, the Prince Imperial assumes the Imperial
+    Dignity and honors the Empress with the title Grand Empress.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Removal of the capital
+  summary: The capital is moved to Karu and called the Palace of Sakahibara.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Burial of the predecessor
+  summary: The deceased Emperor Oho-Yamato-neko-hiko-futo-ni is buried in the Misasagi
+    on Muma-Zaka at Kataoka.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: Dynastic succession through named lineage and formal accession
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage grounds the new emperor's status in birth order, parental and
+    maternal genealogy, prior designation as Prince Imperial, and formal assumption
+    of Imperial Dignity.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is annalistic rather than mythic in tone; the motif is limited
+    to royal legitimacy and succession, not divine kingship.
+- id: motif:2
+  label: Royal ancestor burial after succession
+  taxonomy_refs: []
+  basis: The predecessor emperor dies, the successor assumes imperial status, and
+    the predecessor is later buried in a named Misasagi at a named location.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  confidence: medium
+  cautions: The passage records a burial event but provides no explicit ritual details
+    or symbolic interpretation.
+- id: motif:3
+  label: Establishment or relocation of royal center
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: After accession, the capital is removed to Karu and associated with a named
+    palace, linking rule with a specific seat of government.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: No cosmological or sacred-center claim is stated; classification under
+    royal legitimacy is cautious.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8697-8701
+  quote_or_summary: Oho-Yamato-neko-hiko-kuni-kuru is the eldest child of Emperor
+    Oho-Yamato-neko-hiko-futo-ni; his mother is Hoso-bime, daughter of Oho-me, Agatanushi
+    of Shiki.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8701-8704
+  quote_or_summary: He had been created Prince Imperial in the 36th year of the reign
+    of Emperor Oho-Yamato-neko-hiko-futo-ni and was nineteen years old at that time.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8704-8706
+  quote_or_summary: Emperor Oho-Yamato-neko-hiko-futo-ni died in the 2nd month of
+    the 76th year of his reign.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 8707-8710
+  quote_or_summary: '"The Prince Imperial assumed the Imperial Dignity. He honoured
+    the Empress with the title of Grand Empress."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: lines 8712-8714
+  quote_or_summary: In the 4th year, 3rd month, 11th day, the capital was removed
+    to Karu and called the Palace of Sakahibara.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 8715-8717
+  quote_or_summary: In the 6th year, 9th month, 6th day, Emperor Oho-Yamato-neko-hiko-futo-ni
+    was buried in the Misasagi on Muma-Zaka at Kataoka.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: note
+  locator: lines 8719-8724
+  quote_or_summary: A translator note says the Kojiki genealogies differ considerably
+    and that both genealogies may be inaccurate.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily annalistic, with clear evidence for succession,
+    title-bestowal, capital relocation, and burial. Motif labeling is limited to cautious
+    royal-legitimacy patterns. No comparison claims are made because the passage does
+    not itself support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The OCR text contains some irregular readings, but extraction relies on stable narrative content.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l8688-l8736
+  passage_sha256=2762240b391cba84d01cb19d09ee5208ef636a0a5db35dd3d0c4309f5606ab3b
+

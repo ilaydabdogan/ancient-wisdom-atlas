@@ -1,0 +1,198 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l15799-l15814
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: THE ALTAR. 295 / UMBRELLA-CANOPY. / THE OFFERINGS. 297 / THE CATHEDRAL OF
+    LHASA.; lines 15799-15814
+  start: '15799'
+  end: '15814'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces the Cathedral of Lhasa as the greatest temple of
+    Lamaism, compares it to St. Peter's, notes that a Lama artist visited Lhasa to
+    sketch the sacred city and temple from a hillock south of the city, and identifies
+    the temple as a colossal structure called “The Lord’s House.”
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage identifies the Cathedral of Lhasa as the greatest temple of Lamaism.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage compares the Cathedral of Lhasa to St. Peter's in relation to
+    Lamaism.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A Lama artist visited Lhasa and sketched the sacred city and its great temple
+    from a hillock about half a mile south of the city.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The temple is called “The Lord’s House” and is described as colossal.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that this description closes the account of temples.
+  category: sequence
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Lama artist
+  description: An artist described as having visited Lhasa to sketch the sacred city
+    and its great temple.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: sketch-maker and visitor
+  assigned_to:
+  - fig:1
+  basis: The passage says the artist visited Lhasa and sketched the sacred city and
+    great temple.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Cathedral of Lhasa
+  literal_form: great cathedral / colossal temple
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: The Lord’s House
+  literal_form: name of the colossal temple
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: sacred city
+  literal_form: Lhasa described as a sacred city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: hillock viewpoint
+  literal_form: hillock about half a mile south of the city
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Introduction of the Cathedral of Lhasa
+  summary: The text presents the Cathedral of Lhasa as the greatest temple of Lamaism
+    and introduces it as the final temple description.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: scene:2
+  label: Sketching Lhasa from outside the city
+  summary: A Lama artist visits Lhasa and sketches the sacred city and its great temple
+    from a hillock south of the city.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: preeminent sacred temple in a sacred city
+  taxonomy_refs: []
+  basis: The passage calls the Cathedral of Lhasa the greatest temple of Lamaism,
+    places it in the sacred city of Lhasa, and names it “The Lord’s House.”
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage is descriptive and ethnographic, not a mythic narrative; no
+    explicit cosmological or ritual function is developed in this excerpt.
+- id: motif:2
+  label: sacred site viewed and represented from a vantage point
+  taxonomy_refs: []
+  basis: The passage states that a Lama artist deliberately sketched the sacred city
+    and great temple from a hillock south of Lhasa.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a representational scene rather than a developed mythic motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself compares the Cathedral of Lhasa to St. Peter's as a way
+    of indicating its preeminence within Lamaism.
+  claim_level: same_function
+  target: St. Peter's as a preeminent cathedral comparison
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the author as an analogy of status; it does
+    not establish historical contact, shared ritual structure, or a broader mythological
+    motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 15799-15804
+  quote_or_summary: "“The greatest of all the temples of Lamadom is the great cathedval
+    of Lhasa, the St. Peter's of Limaism”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 15804-15810
+  quote_or_summary: The sketch was drawn for the author by a Lama artist who visited
+    Lhasa to sketch the sacred city and its great temple from a hillock about half
+    a mile south of the city; the author says this description closes the account
+    of temples.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 15812-15814
+  quote_or_summary: "“This colossal temple, called ‘The Lord’s House’ (Jo-wo Aas)”"
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal entities and observations are clear. Motif candidates are limited
+    because the excerpt is a brief descriptive introduction rather than a narrative
+    or doctrinal passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Spelling variants and apparent OCR forms in quoted evidence are retained from the provided text.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l15799-l15814
+  passage_sha256=69ed507ae8fcfff4f5dc500d7fbf7cba5830fdfabe26adb47e48d0e9d62222db
+

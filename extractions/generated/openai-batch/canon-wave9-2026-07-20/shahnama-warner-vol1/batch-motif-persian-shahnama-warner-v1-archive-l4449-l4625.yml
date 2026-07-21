@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.persian-shahnama-warner-v1-archive-l4449-l4625
+source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+passage_locator:
+  label: GARSHASP  (10) / ZAV  (8). / THE    KINGS    AND    HEEOES    OF / PASHANW,;
+    lines 4449-4625
+  start: '4449'
+  end: '4625'
+  translation: The Shahnama of Firdausi, Vol. I
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is chiefly a genealogical chart or tabular list. It opens with
+    a Zav-related list of names, then presents the kings and heroes of Pashang as
+    a combined Shahnama and Bundahish genealogy, including named descendants or relatives,
+    female links, Kai Khusrau, and an ending notice that the race becomes extinct.
+    The remainder lists abbreviations for editions and reference works.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening portion is formatted as a Zav-related list with names including
+    Tur, Duraushasp, Turak, Zadshain, Athrat, Tabshasp, and Salm.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A heading identifies a section as the kings and heroes of Pashang and says
+    that Shahnama and Bundahish material is combined.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Pashang section lists numerous named figures in a genealogical or tabular
+    arrangement rather than as a narrated episode.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: obs:4
+  text: The chart identifies Kai Katis as a female descendant or relative.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The chart identifies Tazhav as a daughter.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The chart links Farangis, Siyawush, and Janra with equals signs, and writes
+    Janra with the notation “d. Ruin.”
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: After Kai Khusrau and Fanid are named, the passage states that the race becomes
+    extinct.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: After the genealogical material, the passage gives abbreviations for editions,
+    translations, and reference works.
+  category: other
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Zav
+  description: 'Named heading figure in the opening section: “ZAV (8).”'
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Opening Zav-list figures
+  description: 'Collective set of names listed near the Zav heading: Tur, Duraushasp,
+    Turak, Zadshain, Athrat, Tabshasp, and Salm.'
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Pashanw / Pashang
+  description: Central named figure or lineage label in the section headed as the
+    kings and heroes of Pashang.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Named Pashang-line figures
+  description: Collective set listed around the Pashang genealogy, including T6B/Tob,
+    Duraushasp, Spaenyasp, Turak, Wisa, Aghriras, Afrasiyab, Garsiwaz, Kulbad, Nastihan,
+    Pilsam, Lahhak, Farshidward, Homan, Barman, Piran, Pashang Jahn, Ruin, Gurdgir,
+    Surkha, and Kurakhan.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:5
+  name_or_label: Kai Katis
+  description: Named as a female descendant or relative in the chart.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Tazhav
+  description: Named after the phrase “A daughter =”.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+- id: fig:7
+  name_or_label: Farangis, Siyawush, and Janra
+  description: Three names connected by equals signs in the line “Farangis=Siyawush
+    = Janra d. Ruin.”
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Kai Khusrau and Fanid
+  description: Named near the end of the genealogy before the statement that the race
+    becomes extinct.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: lineage heading or named royal-genealogical figure
+  assigned_to:
+  - fig:1
+  - fig:3
+  basis: Zav and Pashang/Pashanw appear as prominent headings or central names in
+    tabular genealogical material.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: opening listed genealogical names
+  assigned_to:
+  - fig:2
+  basis: The names are listed in sequence after the Zav heading.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: listed figures in the Pashang genealogy
+  assigned_to:
+  - fig:4
+  basis: These names are grouped in the Pashang section headed as the kings and heroes
+    of Pashang.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: female descendant or relative
+  assigned_to:
+  - fig:5
+  basis: The passage explicitly labels Kai Katis as “A female descendant or relative.”
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: daughter in chart
+  assigned_to:
+  - fig:6
+  basis: The passage explicitly introduces Tazhav with “A daughter =”.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: linked genealogical figures
+  assigned_to:
+  - fig:7
+  basis: The names Farangis, Siyawush, and Janra are connected by equals signs in
+    the chart.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: named near lineage-ending notice
+  assigned_to:
+  - fig:8
+  basis: Kai Khusrau and Fanid are named immediately before the note that the race
+    becomes extinct.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Genealogical listing and lineage ending
+  summary: The passage presents a tabular genealogy for Zav and for the kings and
+    heroes of Pashang, gives named descendants or relatives and linked figures, and
+    ends the Pashang-line material with a notice that the race becomes extinct.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: dynastic genealogy of kings and heroes
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage is explicitly headed as a genealogy of kings and heroes of Pashang
+    and lists names and relationships in a lineage chart.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is tabular and does not narrate an investiture, divine sanction,
+    or political argument; the royal-legitimacy taxonomy is inferred only from genealogical
+    framing of kings and heroes.
+- id: motif:2
+  label: extinction of a lineage
+  taxonomy_refs: []
+  basis: The chart ends with the statement that the race becomes extinct.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: No cause, event, or aftermath of the extinction is given in this passage.
+comparison_claims:
+- id: claim:1
+  claim: The heading explicitly presents the Pashang genealogy as material from the
+    Shahnama and Bundahish combined, supporting a cautious textual-combination comparison
+    between those traditions’ genealogical functions.
+  claim_level: same_function
+  target: Shahnama and Bundahish genealogical materials
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives only a combined heading and chart; it does not quote
+    or compare separate Shahnama and Bundahish versions.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4449-4625; opening Zav list
+  quote_or_summary: The passage opens with “ZAV (8)” followed by names including Tur,
+    Duraushasp, Turak, Zadshain, Athrat, Tabshasp, and Salm.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source text; excerpt supplied in request.
+- id: ev:2
+  type: quote
+  locator: lines 4449-4625; Pashang section heading
+  quote_or_summary: "“THE KINGS AND HEEOES OF ... (SHA'HNAMA AND BUNDAHISH COMBINED.)”"
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source text; excerpt supplied in request.
+- id: ev:3
+  type: summary
+  locator: lines 4449-4625; early Pashang genealogy
+  quote_or_summary: The chart includes T6B/Tob, Duraushasp, Spaenyasp, Turak, Pashanw/Pashang,
+    and then names including Wisa, Aghriras, Afrasiyab, Garsiwaz, Kulbad, Nastihan,
+    Pilsam, and Lahhak.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source text; excerpt supplied in request.
+- id: ev:4
+  type: summary
+  locator: lines 4449-4625; middle Pashang genealogy
+  quote_or_summary: Additional names include Farshidward, Homan, Barman, Piran, a
+    “female descendant or relative=Kai Katis (12),” Pashang Jahn, and “A daughter
+    = Tazhav.”
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source text; excerpt supplied in request.
+- id: ev:5
+  type: quote
+  locator: lines 4449-4625; end of Pashang genealogy
+  quote_or_summary: The chart lists Ruin, Gurdgir, Surkha, “Farangis=Siyawush = Janra
+    d. Ruin,” Kurakhan, “KAI KHUSRAU,” and Fanid, followed by “The race becomes extinct.”
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source text; excerpt supplied in request.
+- id: ev:6
+  type: summary
+  locator: lines 4449-4625; bibliographic abbreviations section
+  quote_or_summary: The remainder of the passage defines abbreviations for editions
+    and reference works, including editions of the Shahnama and works such as Arabian
+    Nights, Chahar Maqala, Zandavasta translations, histories of Persia, and other
+    reference titles.
+  source_text_path: texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md
+  rights_note: Public domain source text; excerpt supplied in request.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mostly a genealogical table with OCR irregularities and a
+    bibliography list. Genealogical observations are direct, but motif identification
+    is limited because there is no narrative episode.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbolic objects from the supplied symbol taxonomy are attested in this passage. The extracted motif candidates concern genealogy and lineage ending rather than narrated mythic action.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:persian-shahnama-warner-v1-archive__l4449-l4625
+  passage_sha256=763a4f549270c3638c370c247a4b0daaf2f752ba51c586563c2a8b5210966e26
+

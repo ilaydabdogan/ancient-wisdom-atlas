@@ -1,0 +1,362 @@
+---
+record_id: batch.motif.sikh-sikh-religion-macauliffe-v1-archive-l1258-l1307
+source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+passage_locator:
+  label: LIST OF ILLUSTRATIONS / VOLUME I PAGE / VOLUME II / VOLUME III; lines 1258-1307
+  start: '1258'
+  end: '1307'
+  translation: 'The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a table of contents and a list of illustrations. It names
+    Volume I contents and lists illustration subjects for Volumes I–III, including
+    Sikh gurus, pupils or disciples, the Granth Sahib, and sites at Amritsar.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage first gives contents for Volume I, including entries such as the
+    Preface, Introduction, Life of Guru Nanak, Japji, Rahiras, Sohila, Guru Nanak’s
+    Hymns, and Additional Sloks.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The illustration list is organized under Volume I, Volume II, and Volume III
+    headings.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: obs:3
+  text: The Volume I illustration entries include the author with Sikh assistants
+    and Guru Nanak identified as founder of the Sikh religion.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Volume II illustration entries include Guru Angad with a pupil, Guru Amar
+    Das, and Guru Ram Das receiving disciples.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The Volume III illustration entries include Guru Arjan reading the Granth
+    Sahib, the Tank and Temple of Amritsar, a general view of Amritsar, and Guru Arjan’s
+    Shrine.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: The Author
+  description: Listed as appearing with some Sikh assistants in the frontispiece illustration.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Some Sikh Assistants
+  description: Listed with the author in the frontispiece illustration.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Guru Nanak
+  description: Captioned as Guru Nanak, the founder of the Sikh religion.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Guru Angad
+  description: Listed in an illustration caption with a pupil.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: A Pupil
+  description: Listed in an illustration caption with Guru Angad.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: Guru Amar Das
+  description: Listed as an illustration subject in Volume II.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Guru Ram Das
+  description: Listed as receiving his disciples in an illustration caption.
+  role_refs:
+  - role:4
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: His Disciples
+  description: Listed as disciples received by Guru Ram Das.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Guru Arjan
+  description: Listed in a caption reading the Granth Sahib; also named in the caption
+    for Guru Arjan’s Shrine.
+  role_refs:
+  - role:4
+  - role:8
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: author
+  assigned_to:
+  - fig:1
+  basis: The caption names “The Author.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: Sikh assistants
+  assigned_to:
+  - fig:2
+  basis: The caption names “some of his Sikh Assistants.”
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: founder of the Sikh religion
+  assigned_to:
+  - fig:3
+  basis: The caption identifies Guru Nanak as “the Founder of the Sikh Religion.”
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: Guru-title figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  - fig:9
+  basis: These figures are named with the title “Guru” in the illustration captions.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:5
+  label: pupil
+  assigned_to:
+  - fig:5
+  basis: The caption pairs Guru Angad with “a Pupil.”
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: receiver of disciples
+  assigned_to:
+  - fig:7
+  basis: The caption states that Guru Ram Das is receiving his disciples.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: disciples
+  assigned_to:
+  - fig:8
+  basis: The caption names “his Disciples” in relation to Guru Ram Das.
+  evidence_refs:
+  - ev:3
+- id: role:8
+  label: reader of the Granth Sahib
+  assigned_to:
+  - fig:9
+  basis: The caption states that Guru Arjan is reading the Granth Sahib.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Granth Sahib
+  literal_form: Named sacred text or book in the caption “Guru Arjan Reading the Granth
+    Sahib.”
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: Tank and Temple of Amritsar
+  literal_form: Place and structure named in a Volume III illustration caption.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Amritsar
+  literal_form: Place named in the caption “General View of Amritsar.”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Guru Arjan’s Shrine
+  literal_form: Shrine named in a Volume III illustration caption.
+  associated_figures:
+  - fig:9
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Volume I illustration subjects
+  summary: The Volume I illustration list names the author with Sikh assistants and
+    Guru Nanak as founder of the Sikh religion.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Guru Angad with a pupil
+  summary: An illustration caption places Guru Angad with a pupil.
+  figure_refs:
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Guru Amar Das illustration
+  summary: An illustration caption lists Guru Amar Das as a subject.
+  figure_refs:
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Guru Ram Das receiving disciples
+  summary: An illustration caption describes Guru Ram Das receiving his disciples.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:5
+  label: Guru Arjan reading the Granth Sahib
+  summary: An illustration caption describes Guru Arjan reading the Granth Sahib.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:6
+  label: Amritsar site illustrations
+  summary: Volume III illustration captions list the Tank and Temple of Amritsar,
+    a general view of Amritsar, and Guru Arjan’s Shrine.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: religious founder identification
+  taxonomy_refs: []
+  basis: Guru Nanak is explicitly captioned as the founder of the Sikh religion.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an illustration list, not a narrative account of founding
+    acts.
+- id: motif:2
+  label: guru-pupil or guru-disciple relationship
+  taxonomy_refs: []
+  basis: The captions include Guru Angad with a pupil and Guru Ram Das receiving his
+    disciples.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The relationship is only indicated by captions; no teaching episode is
+    narrated.
+- id: motif:3
+  label: scriptural reading by a guru
+  taxonomy_refs: []
+  basis: Guru Arjan is captioned as reading the Granth Sahib.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage gives no details about the reading context or ritual function.
+- id: motif:4
+  label: sacred site cluster at Amritsar
+  taxonomy_refs: []
+  basis: The captions group the Tank and Temple of Amritsar, a general view of Amritsar,
+    and Guru Arjan’s Shrine.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: This is a place-and-illustration cluster rather than a narrated mythic
+    motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1258-1277
+  quote_or_summary: The Volume I contents list includes Preface, Introduction, Life
+    of Guru Nanak, Twelve Months, Japji, Rahiras, Sohila, Guru Nanak’s Hymns, and
+    Additional Sloks with page references.
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 1278-1283
+  quote_or_summary: "“The Author and some of his Sikh Assistants Frontispiece”; “Guru
+    Nanak, the Founder of the Sikh Religion . i”"
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source.
+- id: ev:3
+  type: quote
+  locator: lines 1284-1293
+  quote_or_summary: "“Guru Angad and a Pupil . i”; “Guru Amar Das ....... 58”; “Guru
+    Ram Das receiving his Disciples . . . 253”"
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source.
+- id: ev:4
+  type: quote
+  locator: lines 1294-1307
+  quote_or_summary: "“Guru Arjan Reading the Granth Sahib . . i”; “The Tank and Temple
+    of Amritsar ... 13”; “General View of Amritsar . 20”; “Guru Arjan’s Shrine ......
+    loi”"
+  source_text_path: texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md
+  rights_note: Public domain source.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif candidates are limited because
+    the passage is a contents and illustration list rather than a narrative passage.
+    No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned; the passage does not provide enough narrative or symbolic context to support them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sikh-sikh-religion-macauliffe-v1-archive__l1258-l1307
+  passage_sha256=4a8dbfc04d3411d7c35ed4cbd5a1e13fa65abf0f867d27d4e46c83afe59ca28e
+

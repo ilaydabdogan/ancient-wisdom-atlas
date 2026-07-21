@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasna-gathas-mills-archive-l14647-l14668
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+passage_locator:
+  label: YASNA XXXV. / YASNA XXXV. / YASNA XXXV. 283 / YASNA XXXVI.; lines 14647-14668
+  start: '14647'
+  end: '14668'
+  translation: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and
+    Miscellaneous Fragments'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A prayer addresses Ahura Mazda and the Fire as primeval ones. The speakers
+    approach the holy Fire in its house or service, warn that one who brings pollution
+    to the flame will be covered with pollution in return, and ask the Fire of the
+    Lord to grant zeal, approach them, and bring friendly blessing with praise.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The section is addressed to Ahura and the Fire.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speakers say they would approach two primeval ones in the house of the
+    holy Fire; an editorial note gives the alternative sense of service of the Fire.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: obs:3
+  text: Ahura Mazda is addressed as the most bounteous Spirit.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A person who brings pollutions to the flame is said to be covered with pollutions
+    in turn.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The speakers ask the Fire of the Lord to give them zeal, approach them, and
+    bring a loving friendly blessing with praise.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Addressed as Ahura Mazda and the most bounteous Spirit.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Fire of the Lord / holy Fire
+  description: A holy Fire or flame associated with Ahura; addressed directly as Fire
+    of the Lord.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:3
+  name_or_label: speakers
+  description: The praying group who says, “We would approach” and asks for zeal and
+    blessing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: bringer of pollutions
+  description: An unspecified person who brings pollutions to the flame.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: addressed divine recipient
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage is explicitly addressed to Ahura and the Fire, and the speakers
+    approach or invoke them.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: role:2
+  label: holy flame granting favor
+  assigned_to:
+  - fig:2
+  basis: The Fire is called holy and is asked to give zeal, approach the speakers,
+    and bring loving blessing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: supplicants
+  assigned_to:
+  - fig:3
+  basis: The speakers approach Ahura and the Fire and make requests for zeal and blessing.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: polluter of the flame
+  assigned_to:
+  - fig:4
+  basis: The passage mentions one who brings pollutions to the flame and receives
+    pollution in turn.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: holy Fire
+  literal_form: Fire / flame
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: pollutions
+  literal_form: pollutions brought to the flame and returned upon the polluter
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Approach to Ahura and the Fire
+  summary: The speakers approach Ahura Mazda and the holy Fire, described as two primeval
+    ones, in the house or service of the Fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Pollution returned to the polluter
+  summary: The passage states that whoever brings pollutions to the flame will be
+    covered with pollutions in return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Request for zeal and blessing
+  summary: The speakers ask the Fire of the Lord to grant zeal, approach them, and
+    bring a loving friendly blessing with praise.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Sacred fire approached in prayer
+  taxonomy_refs: []
+  basis: The passage centers on ritual approach and direct address to the holy Fire
+    alongside Ahura Mazda.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage is liturgical; the motif label is descriptive rather than
+    a claim of narrative myth.
+- id: motif:2
+  label: Reciprocal pollution for desecrating a sacred flame
+  taxonomy_refs:
+  - divine_judgment
+  basis: The text says that the one who brings pollution to the flame will be covered
+    with pollution in turn.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not describe a full judgment scene; the classification
+    rests on the stated retributive consequence.
+- id: motif:3
+  label: Prayerful exchange of praise for zeal and blessing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The speakers approach and praise the Fire while asking it to give zeal and
+    loving blessing.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The exchange is implied by liturgical request and praise, not narrated
+    as a completed transaction.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: Yasna XXXVI heading; lines 14647-14649
+  quote_or_summary: "“To Ahura and the Fire.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: Yasna XXXVI.1; lines 14650-14655
+  quote_or_summary: The speakers would approach two primeval ones in the house of
+    the holy Fire, addressing Ahura Mazda as the most bounteous Spirit.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: Yasna XXXVI.1; lines 14655-14657
+  quote_or_summary: One who brings pollutions to the flame will be covered with pollutions
+    in turn.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: Yasna XXXVI.2; lines 14657-14662
+  quote_or_summary: The speakers ask the Fire of the Lord to give zeal, approach them,
+    and bring loving friendly blessing with praise.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: note
+  locator: Footnote 2; lines 14664-14667
+  quote_or_summary: The note gives an alternative rendering, “in the service of the
+    Fire,” and comments that fire temples did not exist, though some shelter must
+    have been afforded.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  rights_note: Public domain source; short quotation from note used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based on a short liturgical passage. Motif assignments are
+    cautious because the passage is a prayer rather than a narrative episode. No comparison
+    claims were made because the passage itself does not support a specific cross-textual
+    comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy references applied only where directly supported by the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasna-gathas-mills-archive__l14647-l14668
+  passage_sha256=4ccf11e3161b9cd950ac6b5726f018ea9f6142c2600c9fc9905cf086a9c9c2c5
+

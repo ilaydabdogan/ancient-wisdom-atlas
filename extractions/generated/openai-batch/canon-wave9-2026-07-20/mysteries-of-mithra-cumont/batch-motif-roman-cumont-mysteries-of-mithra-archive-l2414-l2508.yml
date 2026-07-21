@@ -1,0 +1,185 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l2414-l2508
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAISM    IN    THE    ROMAN    EMPIRE  51 / MITHRAIC    BAS-RELIEF    OF    OSTERBURKEN.
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE / THE    MYSTERIES    OF    MITHRA;
+    lines 2414-2508
+  start: '2414'
+  end: '2508'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage contains page and figure material, including a caption for
+    the reverse of the grand Mithraic bas-relief of Heddernheim, Germany. It states
+    that monuments show how the new faith spread and was disseminated into the territory
+    of the Ubians and Batavians, and it begins a discussion of Mithraism’s influence
+    among troops on the Rhenish frontier.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A figure caption identifies the reverse of the grand Mithraic bas-relief of
+    Heddernheim, Germany.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says monuments have been found that show how the new faith spread.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The new faith is described as being disseminated into the heart of the Ubians
+    and Batavians.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage begins to discuss Mithraism’s influence among troops massed along
+    the Rhenish frontier.
+  category: setting
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Ubians
+  description: A barbarous tribe named as a group into whose territory the new faith
+    was disseminated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Batavians
+  description: A barbarous tribe named as a group into whose territory the new faith
+    was disseminated.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Troops along the Rhenish frontier
+  description: Troops massed along the Rhenish frontier, among whom Mithraism’s influence
+    is introduced.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: recipient frontier peoples
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage says the new faith was disseminated into the heart of the Ubians
+    and Batavians.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: military context for Mithraic influence
+  assigned_to:
+  - fig:3
+  basis: The passage begins a statement about Mithraism’s influence among troops on
+    the Rhenish frontier.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Mithraic bas-relief
+  literal_form: Reverse of the grand Mithraic bas-relief of Heddernheim, Germany
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: monuments as evidence of religious spread
+  literal_form: monuments found along the context discussed in the passage
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Archaeological evidence for the spread of Mithraism
+  summary: The passage says discovered monuments show how the new faith spread and
+    was disseminated among named frontier peoples.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Mithraism on the Rhenish frontier
+  summary: The passage transitions to Mithraism’s influence among troops stationed
+    along the Rhenish frontier.
+  figure_refs:
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: religious dissemination through frontier and military contexts
+  taxonomy_refs: []
+  basis: The passage describes the new faith spreading into the territories of named
+    frontier peoples and introduces its influence among troops on the Rhenish frontier.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: This is a cultural-historical pattern in modern scholarship, not a mythic
+    narrative motif in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2414-2508
+  quote_or_summary: '"REVERSE OF THE GRAND MITHRAIC BAS-RELIEF OF HEDDERNHEIM, GERMANY."'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 2414-2508
+  quote_or_summary: The text states that monuments have been found which clearly show
+    how the new faith spread.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 2414-2508
+  quote_or_summary: '"spread like an epidemic" and was disseminated into the heart
+    of the Ubians and Batavians.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 2414-2508
+  quote_or_summary: The next sentence begins by referring to Mithraism’s influence
+    among troops massed along the Rhenish frontier.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The passage is modern scholarly prose with page and figure material, not
+    a mythic episode. Literal extraction is limited to the clear caption and readable
+    prose.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol reference was assigned; available taxonomy symbols such as cave, fire, milk, mountain, serpent, tree, and water are not present in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l2414-l2508
+  passage_sha256=8db9d678faddd667c173bd9d56b0ecbbe25c4cb8563cb45deabe0f2d6857c076
+

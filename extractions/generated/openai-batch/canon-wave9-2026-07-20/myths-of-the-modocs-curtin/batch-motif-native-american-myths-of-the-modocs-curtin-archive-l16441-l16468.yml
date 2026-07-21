@@ -1,0 +1,349 @@
+---
+record_id: batch.motif.native-american-myths-of-the-modocs-curtin-archive-l16441-l16468
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+passage_locator:
+  label: THE STONE PEOPLE / CHARACTERS / MYTHS OF THE MODOCS 315 / MYTHS OF THE MODOCS
+    317; lines 16441-16468
+  start: '16441'
+  end: '16468'
+  translation: Myths of the Modocs
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A girl encounters a speaking voice associated with a mountain. She sinks
+    into the earth so that only one eye is visible, addresses the voice as bad, emerges,
+    applies black paint, and orders the speaker to go far away on the mountain. Because
+    he cannot leave unless he looks at her, she invites him to look at her. When he
+    does, he becomes red like her; she declares that she is a spirit and that he will
+    hereafter be a spirit. The two spirits will sometimes help each other and will
+    live always.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A voice speaks from or out of a mountain and asks the girl where she is going.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The girl sinks into the earth, leaving only one eye visible above ground.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The girl says she is looking at the voice, calls it bad, and says she wants
+    it to be something else.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The girl comes out of the ground and rubs black paint on her hands and face
+    from chin to forehead.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The girl orders the speaker to go far off on the mountain where it will not
+    bother traveling people and will not often be seen.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The speaker cannot go unless he looks at the girl; she knows this and asks
+    him to look at her.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: When the speaker looks at the girl, he becomes as red as she is.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The girl says she is a spirit and that the speaker will hereafter be a spirit;
+    the two will sometimes help each other.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: After looking at the girl, the transformed speaker goes off to the mountain;
+    each spirit goes its own way and both live always.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the girl
+  description: A female figure who sinks into the earth, emerges, paints herself black,
+    compels the speaker to look at her, and declares herself a spirit.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the mountain voice / speaker
+  description: A male-referenced voice associated with a mountain; after looking at
+    the girl he becomes red like her and is thereafter a spirit who goes to the mountain.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+roles:
+- id: role:1
+  label: spirit figure
+  assigned_to:
+  - fig:1
+  basis: The girl explicitly says, "I am a spirit."
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: transforming or compelling agent
+  assigned_to:
+  - fig:1
+  basis: She knows the speaker cannot go unless he looks at her, invites him to look,
+    and after he looks he changes and is declared a spirit.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:3
+  label: mountain-associated speaker
+  assigned_to:
+  - fig:2
+  basis: The passage introduces the figure as a voice speaking from a mountain and
+    later sends him off to the mountain.
+  evidence_refs:
+  - ev:1
+  - ev:7
+- id: role:4
+  label: transformed spirit
+  assigned_to:
+  - fig:2
+  basis: After looking at the girl, he becomes red like her and she says he will hereafter
+    be a spirit.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: mountain
+  literal_form: mountain
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:7
+- id: sym:2
+  label: earth concealment
+  literal_form: sinking into the earth with one eye visible
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: black paint
+  literal_form: black paint rubbed on hands and face from chin to forehead
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: red coloration
+  literal_form: becoming as red as the girl
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: compelling gaze
+  literal_form: the speaker must look at the girl before he can go
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Encounter with the mountain voice
+  summary: A voice from a mountain asks the girl where she is going, and she sinks
+    into the earth with one eye still showing.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Girl marks herself and orders relocation
+  summary: The girl emerges, applies black paint, questions the noisy speaker, and
+    orders him to go far off on the mountain away from traveling people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Gaze and transformation into spirit
+  summary: The girl invites the speaker to look at her because he cannot leave otherwise;
+    when he looks, he becomes red like her and is declared a spirit.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Departure of the spirits
+  summary: The transformed speaker goes to the mountain, the two spirits part ways,
+    and both will live always.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Compelled gaze causes transformation
+  taxonomy_refs: []
+  basis: The speaker cannot depart without looking at the girl; after he looks, he
+    becomes red like her and is declared a spirit.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The exact mechanism is not explained beyond the required look and immediate
+    transformation.
+- id: motif:2
+  label: Transformation into a spirit
+  taxonomy_refs:
+  - shapeshifter
+  basis: The girl says she is a spirit and that the speaker will hereafter be a spirit
+    after he looks at her.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The available taxonomy reference 'shapeshifter' is only approximate, since
+    the passage presents a change of status or being rather than repeated voluntary
+    shape-changing.
+- id: motif:3
+  label: Noisy or troubling being sent to a remote mountain
+  taxonomy_refs: []
+  basis: The girl calls the speaker noisy and tells him to go far off on the mountain
+    where he cannot bother traveling people and will not often be seen.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not identify the being before transformation beyond the
+    mountain-associated voice.
+- id: motif:4
+  label: Immortal spirits living apart with occasional mutual aid
+  taxonomy_refs: []
+  basis: After the transformation, the girl says the spirits will sometimes help each
+    other, and the passage states that each spirit goes its way and both will live
+    always.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: The passage gives only a brief statement and no later examples of their
+    mutual help.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 16441-16444
+  quote_or_summary: A voice speaks out of a mountain and asks where the girl is going;
+    she disappears by sinking into the earth, with only one eye looking out.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 16446-16449
+  quote_or_summary: The girl tells the voice that she is looking at it, calls it bad,
+    and says she wants it to become something else.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 16451-16453
+  quote_or_summary: The girl comes out of the ground and rubs black paint on her hands
+    and on her face from chin to forehead.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: lines 16453-16457
+  quote_or_summary: The girl asks who is talking so much and making noise, then tells
+    the speaker to go far off on the mountain where it cannot bother travelers and
+    will not be seen often.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 16459-16462
+  quote_or_summary: The speaker cannot go unless he looks at the girl; knowing this,
+    she tells him to look at her and says she wants to be friends.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 16464-16467
+  quote_or_summary: When the speaker looks at the girl, he becomes as red as she is;
+    she says she is a spirit, that he will hereafter be a spirit, and that they will
+    sometimes help each other.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 16467-16468
+  quote_or_summary: After looking at the girl, the transformed speaker goes to the
+    mountain; each spirit goes its own way and both will live always.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    are candidate descriptions and require human review, especially the approximate
+    taxonomy link to shapeshifter.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata; no external comparisons added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-myths-of-the-modocs-curtin-archive__l16441-l16468
+  passage_sha256=39d73269bcc9855bc4ef4762b6363d59f0737f8588398c7e217a49bdcc416797
+

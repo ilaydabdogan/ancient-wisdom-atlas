@@ -1,0 +1,378 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l4395-l4445
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: PAET OF THE PRECEDING TALE PARSED / BY DR. BLEEK. / TARS1NG. 147 / D 0 3
+    II; lines 4395-4445
+  start: '4395'
+  end: '4445'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A female figure descends from the sky and describes a clear, beautiful
+    place where trees and a springbok could be seen. The other people arise and ascend
+    into the sky; a note identifies them as Vultures and says they felt they became
+    Vultures. They eat springbok in haste when the elder sister's husband approaches,
+    fly away, alight elsewhere, and later descend again when they see another springbok,
+    with the elder sister following them.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A female figure descends from above or from the sky and sits among the other
+    people.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The other people ask what the place is like, and she says the place is clear
+    and very beautiful.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The female speaker says she can see the whole place, including the stems of
+    large trees and a springbok if one were lying under a tree.
+  category: setting
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: obs:4
+  text: All of the group arise and ascend into the sky; an editorial note says they
+    felt they altogether became Vultures.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: obs:5
+  text: When they see the elder sister's husband coming, they eat quickly because
+    they say he cannot endure them.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: They finish the springbok, fly heavily away, and alight while the elder sister's
+    husband comes to pick up the bones.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: When they perceive a springbok, they descend; their elder sister follows them,
+    and they eat while looking around and tell one another to leave meat for the elder
+    sister.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: female figure from above
+  description: The passage says she descended from above or from the sky and sat among
+    the other people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: other people / Vultures
+  description: The group is called the other people in the narrative; a note identifies
+    them as Vultures, and another note says they felt they altogether became Vultures.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+- id: fig:3
+  name_or_label: elder sister
+  description: The elder sister is mentioned as someone for whom they wish to leave
+    meat and who follows them up when they descend.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:4
+  name_or_label: elder sister's husband
+  description: He scolds them, approaches while they eat, cannot endure them according
+    to their speech, and comes to pick up bones.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: springbok
+  description: A springbok is imagined or perceived under a tree and is also eaten
+    by the group.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: sky-descending informant
+  assigned_to:
+  - fig:1
+  basis: She descends from above and answers questions about what the place is like.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: questioning group
+  assigned_to:
+  - fig:2
+  basis: The other people ask what the place is like.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ascending and flying eaters
+  assigned_to:
+  - fig:2
+  basis: They ascend into the sky, eat springbok in haste, fly away, and later descend
+    when they see another springbok.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: elder sister to be fed
+  assigned_to:
+  - fig:3
+  basis: The group wishes the elder sister should eat and later tells one another
+    to leave some meat for her.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:5
+  label: hostile or disapproving husband
+  assigned_to:
+  - fig:4
+  basis: The passage says he scolded them and that they said he could not endure them.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:6
+  label: prey or food animal
+  assigned_to:
+  - fig:5
+  basis: The springbok is perceived and then eaten or finished by the group.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: sky
+  literal_form: the sky / above
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:2
+  label: large trees
+  literal_form: stems of large trees and a tree under which a springbok could lie
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:3
+  label: springbok meat and bones
+  literal_form: springbok, meat, and bones
+  associated_figures:
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: Vultures
+  literal_form: Vultures
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:5
+  label: flight and descent
+  literal_form: ascending into the sky, flying away, alighting, and descending
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+scenes:
+- id: scene:1
+  label: descent from the sky and description of the place
+  summary: A female figure descends from the sky, sits among the other people, and
+    describes the place as clear and beautiful, with visible trees and the possibility
+    of seeing a springbok under a tree.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: scene:2
+  label: group ascends and becomes associated with Vultures
+  summary: The group arises and ascends into the sky, while the note says they felt
+    they had altogether become Vultures.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: scene:3
+  label: hasty eating before the husband arrives
+  summary: The group eats quickly when the elder sister's husband approaches, finishes
+    the springbok, flies heavily away, and alights while the husband comes to pick
+    up the bones.
+  figure_refs:
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: descent after another springbok
+  summary: When the group perceives a springbok, they descend; the elder sister follows,
+    and the group eats while looking around and instructs one another to leave some
+    meat for her.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:5
+  symbol_refs:
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ascent into the sky
+  taxonomy_refs:
+  - ascent
+  basis: The group arises and ascends into the sky after the female figure has descended
+    from above.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: The passage is fragmentary and does not state a larger cosmological purpose
+    for the ascent.
+- id: motif:2
+  label: human-animal becoming or vulture transformation
+  taxonomy_refs:
+  - shapeshifter
+  basis: The narrative footnote identifies the other people as Vultures and says they
+    felt they altogether became Vultures while ascending.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage says they felt they became Vultures; the exact narrative status
+    of the transformation is mediated by the footnote and surrounding context is incomplete.
+- id: motif:3
+  label: flight from an approaching hostile figure after eating
+  taxonomy_refs: []
+  basis: The group eats in haste because the elder sister's husband is approaching
+    and then flies away before he arrives to pick up bones.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No available taxonomy reference directly matches this local action pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4395-4401
+  quote_or_summary: A female figure descends from above or from the sky and sits among
+    the other people.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 4402-4412
+  quote_or_summary: The other people ask what the place is like; she says it is clear
+    and very beautiful and that she can see the whole place, including tree stems
+    and a springbok if one lay under a tree.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 4413-4417
+  quote_or_summary: All of them arise and ascend into the sky while wishing that their
+    elder sister should eat; the elder sister's husband has scolded them.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 4418-4428
+  quote_or_summary: When the elder sister's husband is seen approaching, the group
+    urges one another to eat quickly, finishes the springbok, flies heavily away,
+    alights elsewhere, and the husband comes to pick up the bones.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 4429-4438
+  quote_or_summary: When they perceive a springbok, they descend; the elder sister
+    follows them, and they eat while looking around and say to leave some meat for
+    the elder sister.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; supplied passage.
+- id: ev:6
+  type: note
+  locator: lines 4439-4445 footnotes keyed to 8365', 8366', 8367', 8370'
+  quote_or_summary: Notes identify the other people as Vultures, clarify the trees
+    as large trees, state that they felt they altogether became Vultures, and say
+    Vultures are those which are followed up.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is a fragment with editorial footnotes and typographic/OCR interruptions.
+    Literal actions are mostly clear, but the exact relation between the people and
+    Vultures depends on footnoted explanation.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage itself does not support a specific comparison beyond local motif candidates and available taxonomy labels.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l4395-l4445
+  passage_sha256=0d2f7998cc41ce593f6f5862eb96843fcab711142d17350d9adfbef33ea20cfc
+

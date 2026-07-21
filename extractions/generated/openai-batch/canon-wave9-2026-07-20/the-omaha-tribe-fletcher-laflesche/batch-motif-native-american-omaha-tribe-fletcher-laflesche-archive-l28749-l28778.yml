@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l28749-l28778
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: DEPARTURE    OF    A    DEFENSIVE    WAR    PARTY / RALLY  SONG / WARFARE
+    / WARFARE; lines 28749-28778
+  start: '28749'
+  end: '28778'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Have they not cried! Day approaches. He! Leader, lead me!”"
+  summary: The passage explains an Omaha warfare song. It glosses terms including
+    “honga” as leader and gives a translation in which day approaches and a speaker
+    calls for the leader to lead him. The song is described as the voice of a young
+    eager man remembering valiant warriors of the past. A repeated phrase is compared
+    in effect to the chorus of old ballads.
+  language: English with Omaha terms and vocables
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage glosses “honga” as “leader” and gives “a a zlia a ma a te” as
+    vocables.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The translated song includes a cry that day approaches and a request for the
+    leader to lead the speaker.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The song is described as the voice of a young and eager man.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The young eager man remembers valiant warriors of the past while singing.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The repeated phrase “Ayezhame tho” is described as similar in effect to the
+    chorus of old ballads.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: leader
+  description: The term “honga” is glossed as “leader,” and the translated song addresses
+    the leader to lead the speaker.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: young and eager man
+  description: The song is described as the voice of the young and eager man who sings
+    and remembers past warriors.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: valiant warriors of the past
+  description: Warriors remembered by the young eager man as he sings.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: leader addressed in song
+  assigned_to:
+  - fig:1
+  basis: The translation calls, “Leader, lead me.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: eager singer or voiced speaker
+  assigned_to:
+  - fig:2
+  basis: The passage states the song is the voice of the young and eager man as he
+    sings.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: remembered warrior exemplars
+  assigned_to:
+  - fig:3
+  basis: The young singer remembers the valiant warriors of the past.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: approaching day
+  literal_form: "“Day approaches” in the translated song"
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: repeated song phrase
+  literal_form: The repeated phrase “Ayezhame tho”
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: warfare rally song and call to leader
+  summary: 'A warfare song is explained and translated: the speaker hears or evokes
+    a cry that day approaches and asks the leader to lead him. The song is identified
+    as the voice of a young eager man remembering past warriors.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: repeated refrain explained
+  summary: The repeated elliptical phrase is explained as producing an effect similar
+    to a ballad chorus.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: departure under a war leader
+  taxonomy_refs:
+  - departure
+  basis: The translated song calls for the leader to lead the speaker as day approaches,
+    within a warfare context.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: The passage is a song explanation rather than a narrative account of an
+    actual departure; the line-range label supplies the defensive war-party context.
+- id: motif:2
+  label: rally song recalling warrior ancestors or predecessors
+  taxonomy_refs: []
+  basis: The song is described as the voice of a young eager man who remembers valiant
+    warriors of the past as he sings.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is a passage-level ritual/song pattern, not a taxonomy-listed mythic
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the repetition of “Ayezhame tho” to the chorus
+    effect of old ballads.
+  claim_level: same_function
+  target: chorus of old ballads
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns formal song function only; it does not establish
+    shared origin, direct contact, or a broader mythic equivalence.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 28749-28778
+  quote_or_summary: "“honga, leader; a a zlia a ma a te, vocables”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: quote
+  locator: lines 28749-28778
+  quote_or_summary: "“Have they not cried! Day approaches. He! Leader, lead me!”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:3
+  type: quote
+  locator: lines 28749-28778
+  quote_or_summary: "“This song is the voice of the young and eager man who remembers'
+    the valiant warriors of the past as he sings.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 28749-28778
+  quote_or_summary: The translation note states that repeated “Ayezhame” is elliptical
+    and that its repetition is similar in effect to the chorus of old ballads.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:5
+  type: citation
+  locator: passage label and lines 28749-28778
+  quote_or_summary: The passage is located under “WARFARE” and labeled as concerning
+    departure of a defensive war party and a rally song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain metadata and passage heading.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal song details and explicit formal comparison are clear. The departure
+    motif is supported by the line-range label and by the call for the leader to lead,
+    but the passage itself is not a full narrative departure scene.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or unsupported taxonomy IDs were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l28749-l28778
+  passage_sha256=834f7f0a815fa439141a8750f79bc91f5bbadc481a16aa1a68328406155cc745
+

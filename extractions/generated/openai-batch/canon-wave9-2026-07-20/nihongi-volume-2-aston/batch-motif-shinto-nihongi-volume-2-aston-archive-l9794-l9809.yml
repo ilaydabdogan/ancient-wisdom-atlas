@@ -1,0 +1,173 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l9794-l9809
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: A.D. 641. / BOOK XXIV. / A.D. 642. / KOGYOKU. 173; lines 9794-9809
+  start: '9794'
+  end: '9809'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A note explains tendoku as reading selected passages of a book to stand
+    for the whole, describes priests rapidly processing volumes by reading a little
+    at the beginning and end, and adds brief notes mentioning Bodhisattva and a Chinese
+    Buddhist style said to have had no result.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Tendoku is defined as reading passages of a book to represent the whole book.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narrator reports seeing about a dozen priests each working with books
+    placed on the right and then moving processed books to a growing pile on the left.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The described procedure includes reading a few words at the beginning, rapidly
+    letting the pages pass, and reading a few words at the end.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says that this method disposes of a book in only a few seconds
+    and can make progress through voluminous Buddhist scriptures within an hour or
+    two.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A separate note gives the term “Boddhisatwa.”
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Another note refers to a Chinese Buddhist style and says it had been without
+    result.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: dozen priests
+  description: A group of about twelve priests observed performing the described tendoku
+    reading procedure with piles of books.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: narrator-observer
+  description: The speaker who says he has seen the priests performing the procedure.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual or formal readers
+  assigned_to:
+  - fig:1
+  basis: The priests read selected words from books and process volumes as part of
+    the described tendoku practice.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: observer
+  assigned_to:
+  - fig:2
+  basis: The passage uses first-person testimony to describe having seen the priests
+    and their procedure.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: books or Buddhist scriptures
+  literal_form: piles of books and Buddhist scriptures
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tendoku reading procedure
+  summary: Priests process books by reading a little from the beginning and end while
+    rapidly turning pages, moving completed volumes from a right-hand pile to a left-hand
+    pile.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9794-9795
+  quote_or_summary: Tendoku is explained as reading passages from a book to represent
+    the whole.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 9795-9800
+  quote_or_summary: The narrator describes about a dozen priests taking books from
+    a pile on the right, reading a few words at the beginning, rapidly passing the
+    pages, reading a few words at the end, and placing the books on a growing pile
+    to the left.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9800-9803
+  quote_or_summary: The method is said to take only seconds per book and to make an
+    impression on the large body of Buddhist scriptures in one or two hours.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: '9805'
+  quote_or_summary: "“Boddhisatwa.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: summary
+  locator: 9807-9809
+  quote_or_summary: A note says this is Chinese in relation to a Buddhist style and
+    that it had been without result.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: uncertain
+  comparison_claims: uncertain
+  notes: The passage is mostly an explanatory note about a Buddhist reading practice,
+    not a mythic narrative. Motif and comparison fields are left empty because the
+    supplied text does not support a clear taxonomy motif or comparative claim.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif refs were assigned; available symbol refs do not include books or scriptures.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l9794-l9809
+  passage_sha256=8cd2b3ab6f865542e8b80d990981a040a46baeea92db14824a4c585a3742135b
+

@@ -1,0 +1,271 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l12007-l12039
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: BAHRAM VAST. 243 / XVII. / XVIII. / BAHRAM VAST. 247; lines 12007-12039
+  start: '12007'
+  end: '12039'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“We sacrifice to Verethraghna, made by Ahura.”"
+  summary: The passage invokes sacrifice to Verethraghna, made by Ahura. It recites
+    a formula locating strength, need, speech, victory, food, clothing, and tillage
+    in the ox, promises an offering for Verethraghna’s brightness and glory, and describes
+    Verethraghna as breaking, cutting, wounding, and shaking columns associated with
+    Daevas, men, Yatus, Pairikas, and other hostile groups.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The speaker states that sacrifice is made to Verethraghna, who is described
+    as made by Ahura.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: obs:2
+  text: The passage recites the formula “Yatha ahu vairyo” and gives its English rendering
+    beginning with the will of the Lord as the law of holiness.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ox is named as the location or source of strength, need, speech, victory,
+    food, clothing, and tillage that makes food grow.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The speaker promises to offer Verethraghna a sacrifice for his brightness
+    and glory.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: obs:5
+  text: Verethraghna is described as breaking, cutting to pieces, wounding, and shaking
+    columns.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The columns affected by Verethraghna are associated with Daevas and men, Yatus
+    and Pairikas, oppressors, the blind, and the deaf.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Verethraghna
+  description: A being made by Ahura, addressed as the recipient of sacrifice and
+    described as acting against columns.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: Ahura
+  description: Named as the one by whom Verethraghna is made.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:3
+  name_or_label: Daevas, men, Yatus, Pairikas, and other groups
+  description: Groups named in connection with the columns that Verethraghna breaks,
+    cuts, wounds, and shakes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: recipient of sacrifice
+  assigned_to:
+  - fig:1
+  basis: The passage twice states that sacrifice is made to Verethraghna.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: maker or source named in formula
+  assigned_to:
+  - fig:2
+  basis: Verethraghna is described as “made by Ahura.”
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:3
+  label: breaker of columns
+  assigned_to:
+  - fig:1
+  basis: Verethraghna is described as breaking, cutting, wounding, and shaking columns.
+  evidence_refs:
+  - ev:5
+- id: role:4
+  label: associated opponents or targets
+  assigned_to:
+  - fig:3
+  basis: The affected columns are described as belonging to or being associated with
+    Daevas, men, Yatus, Pairikas, oppressors, the blind, and the deaf.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ox as source of sustenance and victory
+  literal_form: ox
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: columns subject to destruction
+  literal_form: columns
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: sacrifice offered to Verethraghna
+  literal_form: sacrifice
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:6
+scenes:
+- id: scene:1
+  label: Sacrifice to Verethraghna and ox litany
+  summary: The passage opens with sacrifice to Verethraghna, recites a sacred formula,
+    and lists the ox as the source or locus of strength, need, speech, victory, food,
+    clothing, and tillage.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Verethraghna breaking hostile columns
+  summary: Verethraghna is invoked as one who breaks, cuts, wounds, and shakes columns
+    associated with Daevas, men, Yatus, Pairikas, and other named groups, followed
+    by a promise of sacrifice for his brightness and glory.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: sacrifice to a divine figure
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage repeatedly says “We sacrifice to Verethraghna” and promises an
+    offering for his brightness and glory.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage gives the ritual formula but does not narrate the performance
+    of a full sacrificial rite.
+- id: motif:2
+  label: sacred animal as source of communal sustenance and victory
+  taxonomy_refs: []
+  basis: The ox is said to contain or provide strength, need, speech, victory, food,
+    clothing, and tillage.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The ox is praised in a compact litany; the passage does not explicitly
+    call it a deity or give a narrative about the animal.
+- id: motif:3
+  label: divine power destroys enemy supports
+  taxonomy_refs: []
+  basis: Verethraghna is described as breaking, cutting, wounding, and shaking columns
+    associated with Daevas, men, Yatus, Pairikas, and other hostile or marginal groups.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The text names destructive actions against columns, but the exact literal
+    or symbolic meaning of the columns is not explained in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 12007-12015; section XX.61
+  quote_or_summary: "“We sacrifice to Verethraghna, made by Ahura.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 12016-12018; section XX.61
+  quote_or_summary: The passage includes the formula “Yatha ahu vairyo” and an English
+    rendering about the will of the Lord and the law of holiness.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 12019-12024; section XX.61
+  quote_or_summary: The ox is said to contain strength, need, speech, victory, food,
+    clothing, and tillage that makes food grow.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 12029-12030; section XXI.62
+  quote_or_summary: "“We sacrifice to Verethraghna, made by Ahura.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; short quotation used for extraction.
+- id: ev:5
+  type: summary
+  locator: lines 12031-12038; section XXI.62
+  quote_or_summary: Verethraghna is described as breaking, cutting, wounding, and
+    shaking columns of Daevas and men, Yatus and Pairikas, oppressors, the blind,
+    and the deaf.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 12025-12028 and 12039; sections XX.61 and XXI.62
+  quote_or_summary: The speaker says that, for Verethraghna’s brightness and glory,
+    a sacrifice worth being heard will be offered to him.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source metadata; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels beyond explicit sacrifice
+    are provisional because the passage gives formulaic praise rather than an explanatory
+    narrative. No comparison claims were generated.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage text and metadata were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l12007-l12039
+  passage_sha256=767eb8dcb41fd9c26e3af10ce01a6b3507649ae187cffa10df754bd61f240fa0
+

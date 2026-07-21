@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l5068-l5092
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: IZINGANEKWANJE. / USITUNGUSOBENHLE NAMAJUBATENTE. / USITUNGUSOBENHLE NAMAJUBATENTE.
+    / ULUHLAZASE.; lines 5068-5092
+  start: '5068'
+  end: '5092'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: all things returned to their former condition.
+  summary: A fowl, then a man, several domestic animals, and then all other things
+    come out and see the world. Men build houses again, are happy again, and the former
+    condition is restored.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A fowl comes out first and says that it sees the world.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The narration says the fowl had gone a long time without seeing the world.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: After the fowl, a man comes out and says that he at length sees the world.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: After the man, a bullock comes out and says that it sees the world.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A dog, a goat, and a sheep come out in order, each making its sound and saying
+    that it sees the world.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: After the sheep, all other things come out.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Men again build houses, are again happy, and all things return to their former
+    condition.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: fowl
+  description: The first being to come out; it speaks about seeing the world after
+    a long time without seeing it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: man
+  description: A man who comes out after the fowl and says he sees the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: bullock
+  description: A bullock that comes out after the man and says it sees the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: dog
+  description: A dog that comes out after the bullock, barks, and says it sees the
+    world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: goat
+  description: A goat that comes out after the dog, makes its sound, and says it sees
+    the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: sheep
+  description: A sheep that comes out after the goat, makes its sound, and says it
+    sees the world.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: men
+  description: Men who build houses again and are happy again after the emergence
+    of all things.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: first emerging speaker
+  assigned_to:
+  - fig:1
+  basis: The fowl is explicitly the first to come out and speaks about seeing the
+    world.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: subsequent emerging speakers
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The man and named animals come out after earlier figures and speak about
+    seeing the world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: rebuilding human community
+  assigned_to:
+  - fig:7
+  basis: Men build houses again and are again happy.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: the world seen again
+  literal_form: the world
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: rebuilt houses
+  literal_form: houses built again
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Sequential emergence and sight of the world
+  summary: A fowl comes out first, followed by a man, a bullock, a dog, a goat, and
+    a sheep; each says in some form that it sees the world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: General emergence and restoration
+  summary: After the sheep, all other things come out; men build houses again, are
+    happy again, and all things return to their former condition.
+  figure_refs:
+  - fig:7
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: ordered emergence into the world
+  taxonomy_refs: []
+  basis: The passage presents a sequence of beings coming out one after another and
+    announcing that they see the world.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied lines do not state from where they emerge or what caused
+    their prior absence.
+- id: motif:2
+  label: restoration and return to former condition
+  taxonomy_refs:
+  - return
+  basis: After all other things come out, men rebuild houses, happiness resumes, and
+    all things return to their former condition.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not include the preceding disruption, so the nature of
+    what is being restored remains unspecified within this extract.
+comparison_claims:
+- id: claim:1
+  claim: The passage can be compared at the functional level to a return/restoration
+    motif because it explicitly ends with all things returning to their former condition.
+  claim_level: same_function
+  target: return motif family
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional taxonomy comparison only; the passage alone does
+    not support claims of historical contact, common inheritance, or comparison to
+    a specific external text.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 5068-5074
+  quote_or_summary: A fowl comes out first, says it sees the world, and the narration
+    notes it had long been without seeing it.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: 5074-5078
+  quote_or_summary: A man comes out after the fowl and says he sees the world; after
+    him a bullock comes out and says it sees the world.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: 5078-5085
+  quote_or_summary: A dog, a goat, and a sheep come out in sequence, each making its
+    animal sound and saying it sees the world.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: 5085-5092
+  quote_or_summary: After the sheep, all other things come out; men build houses again,
+    are happy again, and all things return to their former condition.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal sequence and restoration are clear in the supplied passage. Motif
+    labeling is limited because the preceding narrative context is not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Extraction limited to the supplied passage and metadata; no external context or taxonomy beyond supplied refs was used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l5068-l5092
+  passage_sha256=c4003230689cf08d05ff57453f00bdad7ae95f3fc52c7b9d94614e541e968769
+

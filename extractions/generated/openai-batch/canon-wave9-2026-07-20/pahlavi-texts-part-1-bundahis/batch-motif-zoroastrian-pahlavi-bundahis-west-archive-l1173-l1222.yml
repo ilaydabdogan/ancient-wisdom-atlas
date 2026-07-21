@@ -1,0 +1,302 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l1173-l1222
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: INTRODUCTION. XXIX / XXX PAHLAVI TEXTS. / INTRODUCTION. XXXI / INTRODUCTION.
+    XXXIU; lines 1173-1222
+  start: '1173'
+  end: '1222'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses colophons, manuscript genealogy, and scribal comparison
+    used to approximate the age of a Bundahish manuscript. It also identifies introductory
+    sentences on a restored folio as a modern addition copied from another manuscript
+    and gives the beginning of a translated invocation to the creator Auharmazd.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An undated colophon is said to give the testimony of Dastur Rustam Gushtasp
+    Ardashir, who is known from another manuscript dated A.Y. 1068 / A.D. 1699.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A second colophon is attributed to Dastur Jamshed Jamasp Hakim and dated A.Y.
+    1113 / A.D. 1743; the editor suggests this may be the date when the final folio
+    was supplied to complete the defective manuscript.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A manuscript of the Daistan-i Dinik belonging to Tehmuras Dinshawji is described
+    as written by Gopatshah Rustom Bandar Malkamarzan in Kirman, and the editor identifies
+    him as the same person as the writer of TD.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another manuscript of the Daistan-i Dinik was written by Marzapan Frecun Vahrom
+    Rustam Bondar Malkamarzan Din-ayar in Kirman in A.Y. 941 / A.D. 1572.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The editor compares the genealogies and concludes that Gopatshah was probably
+    Vahrom's brother and Marzapan's grand-uncle.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: On the basis of two generations, the editor estimates that Gopatshah wrote
+    TD around A.Y. 900 / A.D. 1530, while noting exceptions where a son copied a manuscript
+    earlier than his father.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The introductory sentences on the first restored folio are described as a
+    modern addition made after the text had acquired the name Bundahish, apparently
+    copied from another manuscript by a copyist who hardly understood them.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The translated introductory sentence begins with propitiation of the creator
+    Auharmazd, described as radiant.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Dastur Rustam Gushtasp Ardashir
+  description: A Dastur whose testimony is given by an undated colophon; he is also
+    known to have written another manuscript dated A.Y. 1068 / A.D. 1699.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Dastur Jamshed Jamasp Hakim
+  description: The second colophon is by him and is dated A.Y. 1113 / A.D. 1743.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Tehmuras Dinshawji
+  description: Owner of a valuable manuscript of the Daistan-i Dinik mentioned for
+    comparison.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Gopatshah Rustom Bandar Malkamarzan
+  description: Writer of a Daistan-i Dinik manuscript in Kirman and identified by
+    the editor as the same person as the writer of TD.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Marzapan Frecun Vahrom Rustam Bondar Malkamarzan Din-ayar
+  description: Writer of another Daistan-i Dinik manuscript in Kirman in A.Y. 941
+    / A.D. 1572.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:6
+  name_or_label: Vahrom
+  description: Named as the grandfather of Marzapan and inferred to be the brother
+    of Gopatshah.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Auharmazd
+  description: Named in the translated introductory sentence as the creator and radiant.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+- id: fig:8
+  name_or_label: Unnamed copyist of the restored folio
+  description: The copyist who apparently copied introductory sentences continuously
+    with the beginning of the text and hardly understood them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: colophon witness
+  assigned_to:
+  - fig:1
+  basis: The undated colophon gives this Dastur's testimony.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: colophon author
+  assigned_to:
+  - fig:2
+  basis: The second colophon is said to be by Dastur Jamshed Jamasp Hakim.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: manuscript owner
+  assigned_to:
+  - fig:3
+  basis: A valuable manuscript of the Daistan-i Dinik is said to belong to Tehmuras
+    Dinshawji.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: manuscript writer
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Both figures are described as writers of Daistan-i Dinik manuscripts.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: genealogical relation in dating argument
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The editor compares genealogies and relates Gopatshah, Vahrom, and Marzapan
+    to estimate the manuscript's age.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: copyist of restored introductory folio
+  assigned_to:
+  - fig:8
+  basis: The passage says the introductory sentences seem to have been copied from
+    another manuscript and written continuously by a copyist who hardly understood
+    them.
+  evidence_refs:
+  - ev:4
+- id: role:7
+  label: creator invoked
+  assigned_to:
+  - fig:7
+  basis: The translated introductory sentence invokes the creator Auharmazd.
+  evidence_refs:
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Colophons used to complete and date the manuscript
+  summary: The passage reports an undated colophon connected with Dastur Rustam Gushtasp
+    Ardashir and a second dated colophon by Dastur Jamshed Jamasp Hakim, possibly
+    marking completion of a defective manuscript with a supplied final folio.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Genealogical comparison for dating TD
+  summary: The editor compares two Daistan-i Dinik manuscript genealogies from Kirman
+    and uses the inferred relationship among Gopatshah, Vahrom, and Marzapan to estimate
+    when TD was written.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Assessment of restored introductory sentences
+  summary: The editor identifies the first restored folio's introductory sentences
+    as a modern addition, apparently copied without full understanding, and introduces
+    a translation beginning with propitiation of Auharmazd.
+  figure_refs:
+  - fig:7
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 1173-1222; opening colophon paragraph
+  quote_or_summary: An undated colophon gives the testimony of Dastur Rustam Gushtasp
+    Ardashir; a second colophon by Dastur Jamshed Jamasp Hakim is dated A.Y. 1113
+    / A.D. 1743 and may mark the supplying of the last folio.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 1173-1222; paragraph beginning 'With regard to the age of the older part
+    of this MS.'
+  quote_or_summary: A Daistan-i Dinik manuscript owned by Tehmuras Dinshawji was written
+    by Gopatshah Rustom Bandar Malkamarzan in Kirman; another was written by Marzapan
+    Frecun Vahrom Rustam Bondar Malkamarzan Din-ayar in Kirman in A.Y. 941 / A.D.
+    1572.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 1173-1222; genealogical comparison and date estimate paragraph
+  quote_or_summary: The editor infers that Gopatshah was Vahrom's brother and Marzapan's
+    grand-uncle, and estimates that Gopatshah wrote TD about A.Y. 900 / A.D. 1530,
+    with a caveat about exceptions in manuscript dating by generations.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 1173-1222; paragraph beginning 'The introductory sentences on the first
+    restored folio'
+  quote_or_summary: The editor says the first restored folio's introductory sentences
+    are a modern addition after the text gained the name Bundahish, probably copied
+    from another manuscript by a copyist who hardly understood them and wrote them
+    without break.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 1173-1222; translated introductory sentence and accompanying notes
+  quote_or_summary: The language of the added introductory sentences is described
+    as difficult, and the translation begins with propitiation of the creator Auharmazd,
+    the radiant; notes also mention editorial additions in italics and Pahlavi vowel
+    interchange.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is primarily editorial and manuscript-historical rather than
+    mythological narrative. No candidate mythology motifs or comparative claims were
+    extracted beyond the literal invocation of Auharmazd.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the supplied passage contains no developed mythic scene, object symbol, or explicit comparative motif claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l1173-l1222
+  passage_sha256=1422050947cab4e591dbdae6807c4ad8c9665267d3ae5dce5a370785e7c7d1c1
+

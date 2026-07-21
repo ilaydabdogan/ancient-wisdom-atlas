@@ -1,0 +1,582 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l8199-l8254
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: SUIKO. 145 / A.D. 616, / A.D. 618. / SUIKO. 147; lines 8199-8254
+  start: '8199'
+  end: '8254'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A chronicle passage reports that Kahabe no Omi, ordered to build ships,
+    seeks timber in Aki and cuts a tree identified as a thunder-tree despite warning.
+    After offerings are made, storm and thunder occur; Kahabe confronts the Thunder-god,
+    who cannot harm him, changes into a small fish, and is burned, after which ships
+    are completed. The passage then gives brief notices of human-shaped or child-like
+    unknown aquatic beings, castaways from Yaku, and alterations to the Misasagi of
+    Hinokuma.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Kahabe no Omi is sent to Aki with orders to build ships and seeks ship timber
+    at a mountain.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man appears and warns that the marked tree is a thunder-tree and must not
+    be cut.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Kahabe no Omi invokes the Imperial commands, offers many mitegura, and sends
+    workmen to cut the timber.
+  category: sequence
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: obs:4
+  text: After the workmen are sent, great rain falls and thunder and lightning occur.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Kahabe no Omi draws his sword and tells the Thunder-god to harm him rather
+    than the workmen.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Although the God thunders more than ten times, he cannot harm Kahabe no Omi.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The God changes himself into a small fish stuck between the branches of the
+    tree; Kahabe no Omi takes the fish and burns it, and the ships are built.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A report from Afumi states that in the river Gamafu there is a creature in
+    the shape of a man.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A fisherman of Settsu casts his net in the Horiye, and something formed like
+    a child enters the net; it is neither a fish nor a man, and its name is unknown.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: Two men of Yaku are cast away on the island of Idzu.
+  category: action
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The top of the Misasagi of Hinokuma is covered with pebbles, and earth outside
+    the boundary is piled into a hill; the supplied excerpt then breaks off after
+    mentioning noble houses.
+  category: setting
+  evidence_refs:
+  - ev:8
+- id: obs:12
+  text: A source note defines mitegura as offerings of cloth.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:13
+  text: A source note labels the human-shaped river creature as a bad omen.
+  category: attribute
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Kahabe no Omi
+  description: Official sent to Aki to build ships; he orders the cutting of the thunder-tree,
+    confronts the Thunder-god, and burns the fish form.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed man at the mountain
+  description: A man who appears when Kahabe no Omi is about to cut the marked tree
+    and warns that it is a thunder-tree.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Thunder-god / God
+  description: Divine being associated with the thunder-tree, storm, repeated thunder,
+    and transformation into a small fish.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: Workmen
+  description: Workers sent by Kahabe no Omi to cut the timber; Kahabe tells the Thunder-god
+    not to harm them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: Human-shaped creature in the river Gamafu
+  description: A creature reported from Afumi, located in the river Gamafu and shaped
+    like a man.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: fig:6
+  name_or_label: Fisherman of Settsu
+  description: A fisherman who casts his net in the Horiye.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: Child-like unknown being in the Horiye
+  description: Something that enters the fisherman's net, formed like a child, neither
+    fish nor man, with unknown name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:6
+- id: fig:8
+  name_or_label: Two men of Yaku
+  description: Two men from Yaku who are cast away on Idzu.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: imperial ship-building agent
+  assigned_to:
+  - fig:1
+  basis: Kahabe no Omi is sent to Aki with orders to build ships.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: human challenger of a thunder deity
+  assigned_to:
+  - fig:1
+  basis: He invokes Imperial commands against the Thunder-god, offers himself as target,
+    and survives repeated thunder.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: warning figure
+  assigned_to:
+  - fig:2
+  basis: The man warns that the tree is a thunder-tree and must not be cut.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deity associated with thunder-tree and storm
+  assigned_to:
+  - fig:3
+  basis: The tree is called a thunder-tree; the God thunders, lightens, and is addressed
+    as Thunder-god.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: shapeshifting defeated deity
+  assigned_to:
+  - fig:3
+  basis: The God changes himself into a small fish and is then burned by Kahabe no
+    Omi.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: endangered laborers
+  assigned_to:
+  - fig:4
+  basis: Kahabe tells the Thunder-god to harm him rather than the workmen.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: unknown human-like aquatic being
+  assigned_to:
+  - fig:5
+  - fig:7
+  basis: One creature is shaped like a man in a river; another is formed like a child
+    in a canal and is neither fish nor man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: role:8
+  label: net caster
+  assigned_to:
+  - fig:6
+  basis: The fisherman casts his net in the Horiye.
+  evidence_refs:
+  - ev:6
+- id: role:9
+  label: castaways
+  assigned_to:
+  - fig:8
+  basis: The two men of Yaku are cast away on Idzu.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: thunder-tree
+  literal_form: Tree marked as ship timber and identified as a thunder-tree that must
+    not be cut.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: mountain timber source
+  literal_form: Mountain where Kahabe no Omi seeks and marks good ship timber.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: mitegura offerings
+  literal_form: Many mitegura, defined in the note as offerings of cloth.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:9
+- id: sym:4
+  label: drawn sword
+  literal_form: Sword drawn by Kahabe no Omi while addressing the Thunder-god.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: storm signs
+  literal_form: Great rain, thunder, and lightning following the command to cut the
+    timber.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: small fish form
+  literal_form: The God changes into a small fish stuck between the branches of the
+    tree.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: burning of the fish
+  literal_form: Kahabe no Omi burns the small fish form.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:8
+  label: river and canal waters
+  literal_form: The river Gamafu and the Horiye where unknown human-like beings appear
+    or are netted.
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:9
+  label: pebbled Misasagi and piled earth
+  literal_form: Top of the Misasagi of Hinokuma covered with pebbles and earth outside
+    the boundary piled into a hill.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+scenes:
+- id: scene:1
+  label: Search for ship timber and warning at the thunder-tree
+  summary: Kahabe no Omi, sent to build ships, finds timber on a mountain, but an
+    unnamed man warns that the tree is a thunder-tree and must not be cut.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Confrontation with the Thunder-god
+  summary: Kahabe invokes Imperial commands, offers mitegura, sends workmen to cut
+    the tree, and faces rain, thunder, and lightning. He draws his sword and tells
+    the Thunder-god to harm him instead of the workmen.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:9
+- id: scene:3
+  label: Transformation, burning, and completion of ships
+  summary: The God fails to harm Kahabe, changes into a small fish caught in the tree
+    branches, and is burned by Kahabe; the ships are then built.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:4
+  label: Human-shaped creature in the river Gamafu
+  summary: A report from Afumi says that a creature in the shape of a man is in the
+    river Gamafu; a note calls it a bad omen.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:10
+- id: scene:5
+  label: Child-like unknown being netted in the Horiye
+  summary: A fisherman of Settsu casts his net in the Horiye, and a child-like unknown
+    being enters it, described as neither fish nor man.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:8
+  evidence_refs:
+  - ev:6
+- id: scene:6
+  label: Castaways from Yaku
+  summary: Two men of Yaku are cast away on Idzu.
+  figure_refs:
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:7
+- id: scene:7
+  label: Pebbles and piled earth at the Misasagi of Hinokuma
+  summary: The Misasagi of Hinokuma is described as covered with pebbles on top, with
+    earth piled into a hill outside the boundary; the supplied passage breaks off
+    before the sentence is complete.
+  figure_refs: []
+  symbol_refs:
+  - sym:9
+  evidence_refs:
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Prohibited thunder-tree guarded by a deity
+  taxonomy_refs: []
+  basis: A tree selected for ship timber is identified as a thunder-tree that must
+    not be cut, and divine storm signs follow the attempt to cut it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage does not identify the tree as a world tree or axis; it is
+    only a marked timber tree associated with thunder.
+- id: motif:2
+  label: Offering before cutting a sacred or dangerous tree
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Before sending workmen to cut the thunder-tree, Kahabe no Omi offers many
+    mitegura, defined as offerings of cloth.
+  evidence_refs:
+  - ev:2
+  - ev:9
+  confidence: low
+  cautions: The passage reports the offering but does not state that the deity accepts
+    it or that a reciprocal exchange occurs.
+- id: motif:3
+  label: Imperial command overcoming divine opposition
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Kahabe no Omi explicitly asks whether even the Thunder-god will oppose Imperial
+    commands, then survives the deity's thunder and completes the ships.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The royal-legitimacy reading is supported by the quoted appeal to Imperial
+    commands, but the chronicle does not provide an explicit ideological explanation.
+- id: motif:4
+  label: Deity transforms into a small animal and is defeated
+  taxonomy_refs:
+  - shapeshifter
+  basis: The God changes himself into a small fish lodged in the branches, after which
+    Kahabe no Omi takes and burns it.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only this single transformation and does not elaborate
+    on the nature of the fish form.
+- id: motif:5
+  label: Unknown human-like beings appearing in water
+  taxonomy_refs: []
+  basis: One notice reports a man-shaped creature in the river Gamafu; another describes
+    a child-like being in the Horiye that is neither fish nor man.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: These are terse chronicle notices, and only the source note explicitly
+    labels one as a bad omen.
+- id: motif:6
+  label: Human-shaped water creature as omen
+  taxonomy_refs: []
+  basis: The report of the man-shaped creature in the river Gamafu is accompanied
+    by a source note calling it a bad omen.
+  evidence_refs:
+  - ev:5
+  - ev:10
+  confidence: medium
+  cautions: The omen interpretation comes from the provided note rather than from
+    narrative development in the main chronicle entry.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 8199-8203
+  quote_or_summary: Kahabe no Omi is sent to Aki to build ships; at a mountain he
+    seeks and marks good ship timber.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 8204-8208
+  quote_or_summary: A man warns that the marked tree is a thunder-tree and must not
+    be cut; Kahabe asks whether the Thunder-god will oppose Imperial commands, offers
+    many mitegura, and sends workmen to cut the timber.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8208-8213
+  quote_or_summary: Great rain, thunder, and lightning occur; Kahabe draws his sword
+    and tells the Thunder-god to harm him rather than the workmen, but the God thunders
+    more than ten times without harming him.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 8213-8216
+  quote_or_summary: The God changes into a small fish stuck between the tree branches;
+    Kahabe takes and burns the fish, and the ships are built.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 8218-8220
+  quote_or_summary: A report from Afumi says that in the river Gamafu there is a creature
+    in the shape of a man.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 8222-8224
+  quote_or_summary: A fisherman of Settsu casts a net in the Horiye, and something
+    formed like a child enters it; it is neither fish nor man, and its name is unknown.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: '8226'
+  quote_or_summary: Two men of Yaku are cast away on the island of Idzu.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 8228-8231
+  quote_or_summary: The top of the Misasagi of Hinokuma is covered with pebbles; outside
+    the boundary earth is piled into a hill, and the excerpt breaks off after mentioning
+    noble houses.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: note
+  locator: footnote 2 within 8199-8254
+  quote_or_summary: The note defines mitegura as offerings of cloth.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: note
+  locator: footnote 4 within 8199-8254
+  quote_or_summary: The note labels the human-shaped river creature as a bad omen.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main thunder-tree episode is clear, but several later notices are terse
+    chronicle entries. The passage range ends with an incomplete sentence, limiting
+    extraction for the Misasagi entry. No comparison claims were made because the
+    passage itself gives no explicit comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the provided passage text and metadata. Taxonomy references are limited to supplied available refs and are used only where directly supported or cautiously indicated.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l8199-l8254
+  passage_sha256=a34f691d3b6affd3e8e5b364f2d12a00708f094b9e668c6ed3c52d687ecd523c
+

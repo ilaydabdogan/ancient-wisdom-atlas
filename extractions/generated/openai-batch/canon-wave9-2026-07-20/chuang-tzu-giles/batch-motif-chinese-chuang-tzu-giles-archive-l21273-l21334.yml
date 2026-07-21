@@ -1,0 +1,137 @@
+---
+record_id: batch.motif.chinese-chuang-tzu-giles-archive-l21273-l21334
+source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+passage_locator:
+  label: INDEX / ERRA  TA  AND  ADDENDA / THE    END. / WVMAN    AND   SONS,    PRINTERS     GREAT   QUEEN     STREET,    LONDON,    W.C.;
+    lines 21273-21334
+  start: '21273'
+  end: '21334'
+  translation: 'Chuang Tzŭ: Mystic, Moralist, and Social Reformer'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: THE    END.
+  summary: 'The passage is closing and publisher end matter: it marks the end, gives
+    a printer imprint, and lists other works by the same author with brief descriptions
+    for some titles.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage marks the end of the volume.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A printer imprint names WVMAN AND SONS as printers at Great Queen Street,
+    London, W.C.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage introduces a list of works attributed to the same author.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The listed works include titles related to Chinese sketches, Chinese literature,
+    dialects, translations, travel, and Far Eastern reference subjects.
+  category: object
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: WVMAN AND SONS
+  description: Named in the printer imprint as printers.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the same author
+  description: An unnamed author associated with the listed works in the end matter.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: printer
+  assigned_to:
+  - fig:1
+  basis: The imprint explicitly identifies WVMAN AND SONS as printers.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: author of listed works
+  assigned_to:
+  - fig:2
+  basis: The heading states the list is by the same author.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols: []
+scenes:
+- id: scene:1
+  label: closing end matter and author bibliography
+  summary: The volume closes, provides a printer imprint, and presents a list of other
+    publications by the same author.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 21273-21274
+  quote_or_summary: "“THE    END.”"
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:2
+  type: quote
+  locator: lines 21275-21276
+  quote_or_summary: Printer imprint naming “WVMAN AND SONS” and “GREAT QUEEN STREET,
+    LONDON, W.C.”
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt summarized with minimal quotation.
+- id: ev:3
+  type: quote
+  locator: lines 21278-21279
+  quote_or_summary: 'Heading: “THE    SAME    AUTHOR.”'
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; short excerpt used for identification.
+- id: ev:4
+  type: summary
+  locator: lines 21280-21334
+  quote_or_summary: List of other works, including Chinese Sketches, Strange Stories
+    from a Chinese Studio, Historic China, Gems of Chinese Literature, dialect and
+    dictionary works, translations, travel writing, a Far East glossary, and The Remains
+    of Lao Tzŭ.
+  source_text_path: texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md
+  rights_note: Public domain source; passage summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is bibliographic end matter rather than a mythic or narrative
+    passage. No candidate mythology motifs or supported comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbols or motif families are supported by this end-matter passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:chinese-chuang-tzu-giles-archive__l21273-l21334
+  passage_sha256=1fadb1b086e44bcc24d3363de58cc931c05fb8fbd47163c652230e9033228c6e
+

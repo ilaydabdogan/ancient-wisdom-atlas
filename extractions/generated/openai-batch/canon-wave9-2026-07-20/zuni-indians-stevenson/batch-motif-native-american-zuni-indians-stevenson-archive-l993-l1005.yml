@@ -1,0 +1,277 @@
+---
+record_id: batch.motif.native-american-zuni-indians-stevenson-archive-l993-l1005
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: KOW'WITUMA APPOINTS YA'NUWWULUHA DKPUTV TO THK SUN / FATHEE / COMIXC; OF
+    TIIK WITCHES AND THE INTRODUCTION OF CORN / A'SHIWI COXTINUK THEIR JOURNEYING;
+    lines 993-1005
+  start: '993'
+  end: '1005'
+  translation: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"It was like burning sulphur; it was an odor that killed."'
+  summary: The A'shiwi travel over soft earth for many years, building and abandoning
+    villages as they seek the Middle of the world. They leave settlements because
+    of the corruption of the dead and the unbearable odor of their own bodies. During
+    the migration, the people repeatedly divide, with some going north and others
+    south, explaining ruins along and around their route.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The earth is described as not muddy but very soft, making travel difficult
+    for the A'shiwi.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The A'shiwi spend long years traveling, building many villages and then abandoning
+    them.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The A'shiwi continue in a quest for the Middle of the world.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: When the A'shiwi stay in the towns they build, they are driven away by the
+    corruption of their dead and by the unbearable effluvium of their own bodies.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The odor is compared to burning sulphur and is described as killing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Repeated divisions occur among the people during the migration, with some
+    going north and others south.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage states that these migrations explain many ruins north and south
+    of the A'shiwi line of march.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: A'shiwi
+  description: The people who journey over soft earth, build and abandon villages,
+    seek the Middle of the world, and divide during migration.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: dead of the A'shiwi
+  description: The dead whose corruption drives the A'shiwi from the towns where they
+    tarry.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: journeying people
+  assigned_to:
+  - fig:1
+  basis: The A'shiwi proceed with difficulty over soft earth and continue traveling
+    for long years.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: seekers of the Middle of the world
+  assigned_to:
+  - fig:1
+  basis: The passage says they push on in their quest for the Middle of the world.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: source of corrupting death-effluvium
+  assigned_to:
+  - fig:2
+  basis: The corruption of the dead is named as a cause driving the A'shiwi from their
+    towns.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Middle of the world
+  literal_form: A sought central place called the Middle of the world
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - world_center
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: soft earth
+  literal_form: Earth that is not muddy but very soft
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: abandoned villages and ruins
+  literal_form: Villages built and abandoned during migration; ruins north and south
+    of the route
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:4
+  label: deadly sulphurous odor
+  literal_form: Effluvium compared to burning sulphur and described as an odor that
+    killed
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Difficult journey over soft earth
+  summary: The A'shiwi try to proceed over earth that is soft though not muddy, and
+    their travel is difficult.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Long migration toward the Middle of the world
+  summary: Over long years, the A'shiwi build and abandon many villages while continuing
+    their quest for the Middle of the world.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Abandonment because of corruption and odor
+  summary: The A'shiwi are driven from their towns by the corruption of their dead
+    and by the unbearable effluvium of their bodies, described as a killing odor like
+    burning sulphur.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Division of the migrating people
+  summary: During the migrations, the people repeatedly divide, some going north and
+    others south; this is said to explain ruins in those directions from their line
+    of march.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Quest for the world center
+  taxonomy_refs:
+  - world_center
+  - mystical_quest
+  basis: The passage explicitly says the A'shiwi push on in their quest for the Middle
+    of the world.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives little detail about the nature of the Middle beyond
+    its name and status as the goal of travel.
+- id: motif:2
+  label: Long migration with founded and abandoned settlements
+  taxonomy_refs:
+  - departure
+  basis: The A'shiwi spend long years migrating, building and abandoning many villages,
+    and dividing north and south.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage describes migration rather
+    than a single formal departure episode.
+- id: motif:3
+  label: Expulsion from settlement by death pollution or deadly odor
+  taxonomy_refs: []
+  basis: The A'shiwi leave towns because of the corruption of their dead and the unbearable
+    effluvium of their own bodies, described as deadly.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: No supplied taxonomy reference directly matches this pattern, so it is
+    recorded as a local candidate motif without taxonomy assignment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 993-995
+  quote_or_summary: The earth is not muddy but very soft, and the A'shiwi find it
+    difficult to proceed.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 995-999
+  quote_or_summary: Long years pass; many villages are built and abandoned as the
+    A'shiwi push on in their quest for the Middle of the world.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 999-1002
+  quote_or_summary: 'The A''shiwi are driven from towns by the corruption of their
+    dead and their own effluvium; the odor is described: "It was like burning sulphur;
+    it was an odor that killed."'
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; brief quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 1002-1005
+  quote_or_summary: Repeated divisions occur during the migrations, with some people
+    going north and others south; this accounts for many ruins north and south of
+    the line of march.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is direct from the provided passage. Motif assignment
+    is strongest for the quest for the Middle of the world; broader migration and
+    death-pollution motifs require human review.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself make an explicit comparative claim beyond internal explanation of ruins along the migration route.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-zuni-indians-stevenson-archive__l993-l1005
+  passage_sha256=79d140ccd390e88db2fe6618cb318b54d1387c71321aca2a2753e2697125c309
+

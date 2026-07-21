@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l39366-l39387
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE    OMAHA   TRIBE / SOCIETIES / SOME  CURATIVE  PLANTS; lines
+    39366-39387
+  start: '39366'
+  end: '39387'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes an Omaha funeral song sung by bleeding singers. Explanatory
+    statements say music or sound can reach the unseen world and cheer the dead spirit
+    on an inevitable journey. Bloodletting and flesh cutting express sorrow for mourners,
+    while wailing must cease after a time so the departing one is not distressed.
+    The song has no words, only vocables.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Bleeding singers sing the funeral song in unison; the song is described as
+    the only one of its kind in the tribe.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The funeral song is described as having no words, only vocables.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:3
+  text: An explanation states that music can reach the unseen world and carry human
+    thought and aspiration there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The song is addressed to the spirit of the dead and is meant to cheer him
+    as he leaves loved ones and goes forward on a journey.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: The shedding of blood and cutting of flesh are explained as expressions of
+    sorrow and sympathy for the mourners; cutting flesh is identified as a common
+    method of indicating grief.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wailing is required to cease after a time because sound can reach the dead
+    and the departing one must not be distressed as he leaves his earthly home.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: bleeding singers
+  description: Singers who sing the funeral song in unison and are described as bleeding.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: spirit of the dead / departing one
+  description: The recipient of the song; he hears the voices of friends and goes
+    forward on an inevitable journey away from his earthly home.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: mourners
+  description: Those for whom the shedding of blood is performed as an expression
+    of sorrow and sympathy for their loss.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: friends and dear ones left behind
+  description: Living relations or friends whose voices and glad tones help the dead
+    spirit go forward.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: ceremonial funeral singers
+  assigned_to:
+  - fig:1
+  basis: They sing the unique funeral song in unison.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: departing spirit traveler
+  assigned_to:
+  - fig:2
+  basis: The dead spirit is addressed by the song and goes forward on an inevitable
+    journey away from earthly home.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: role:3
+  label: bereaved mourners
+  assigned_to:
+  - fig:3
+  basis: The bloodshed is for them as an expression of sorrow and sympathy for their
+    loss.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: living comforters by voice
+  assigned_to:
+  - fig:4
+  basis: The voices and glad tones of friends help the dead spirit go forward.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: funeral song / music
+  literal_form: Wordless funeral song with vocables, sung in unison, with major cadences.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: unseen world
+  literal_form: The unseen world that music can reach.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: shed blood and cut flesh
+  literal_form: Bleeding, shedding blood, and cutting flesh in a funeral context.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: sym:4
+  label: wailing
+  literal_form: Audible mourning that must cease after a time.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: inevitable journey from earthly home
+  literal_form: The dead spirit going forward on a journey and leaving his earthly
+    home behind.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Wordless funeral song for the dead spirit
+  summary: Bleeding singers sing a unique, wordless funeral song. The music is explained
+    as reaching the unseen world and cheering the dead spirit as he goes forward from
+    the living.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:6
+- id: scene:2
+  label: Bloodletting and regulated wailing in mourning
+  summary: Bloodletting and flesh cutting express sorrow and sympathy for mourners.
+    Wailing must stop after a time because the departing dead can hear sound and should
+    not be distressed.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Funeral music assists the dead spirit's journey
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The dead spirit is described as leaving loved ones and going forward on an
+    inevitable journey, while the funeral song reaches the unseen world and cheers
+    him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  confidence: medium
+  cautions: The passage gives an afterlife journey and auditory support, but no detailed
+    map, route, stations, trials, guide, or destination.
+- id: motif:2
+  label: Sound communicates with the dead or unseen world
+  taxonomy_refs: []
+  basis: Music is said to reach the unseen world, and wailing must cease because sound
+    can reach the dead.
+  evidence_refs:
+  - ev:2
+  - ev:5
+  confidence: high
+  cautions: The passage describes the function of sound but does not elaborate a broader
+    cosmology of sound.
+- id: motif:3
+  label: Ritual bloodletting as mourning expression
+  taxonomy_refs: []
+  basis: The shedding of blood and cutting of flesh are explained as visible expressions
+    of sorrow and sympathy for mourners.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage frames the act as grief expression, not as sacrifice to a
+    deity or exchange.
+- id: motif:4
+  label: Ceasing lament to spare the departing dead distress
+  taxonomy_refs: []
+  basis: Wailing must stop after a time so the departing one is not distressed while
+    leaving earthly home and going forward.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The passage states the custom but does not give timing, procedure, or
+    ritual authority.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage can be cautiously aligned with the afterlife_journey_map motif
+    family at the level of function: the dead spirit is represented as traveling,
+    and the funeral song helps him continue forward.'
+  claim_level: same_function
+  target: afterlife_journey_map motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: No detailed afterlife map, route, trials, guide, or named destination
+    is provided in this passage.
+- id: claim:2
+  claim: The passage supports a recurrent pattern in which ritual sound communicates
+    with the dead or unseen world.
+  claim_level: same_function
+  target: sound-based communication with the dead pattern
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim is limited to functional similarity; no external corpus or
+    historical-contact evidence is supplied in the passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 39366-39370
+  quote_or_summary: Bleeding singers sing in unison a funeral song described as the
+    only one of its kind in the tribe; the passage contrasts their bleeding with the
+    song's bright cadences.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: 39370-39375
+  quote_or_summary: An explanation states that music can reach the unseen world and
+    carry human thought and aspiration; the song is for the spirit of the dead and
+    cheers him as he leaves those on earth.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 39375-39377
+  quote_or_summary: The dead spirit hears the voices and glad tones of friends, which
+    help him go forward on his inevitable journey; the song is addressed directly
+    to him.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: 39377-39382
+  quote_or_summary: The shedding of blood is explained as being for the mourners,
+    who see it as sorrow and sympathy for their loss; cutting flesh is described as
+    a common method of indicating grief.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: 39382-39386
+  quote_or_summary: Because sound can reach the dead, wailing has to cease after a
+    time so the departing one is not distressed as he leaves his earthly home and
+    must go forward on his journey.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 39386-39387
+  quote_or_summary: The funeral song is described as having no words, only vocables.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is strong because the passage explicitly explains the
+    ritual actions and meanings. Taxonomic alignment is cautious because the passage
+    gives an afterlife journey but not a detailed afterlife map.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons or taxonomy IDs beyond the supplied motif family list were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l39366-l39387
+  passage_sha256=7e291cd38ce336740d50058935d9559f7e5c0333d9239377cae88a0945799537
+

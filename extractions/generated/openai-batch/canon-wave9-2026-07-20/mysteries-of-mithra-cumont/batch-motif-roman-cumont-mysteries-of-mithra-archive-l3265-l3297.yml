@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l3265-l3297
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAISM    IN    THE    ROMAN    EMPIRE  65 / SILVANUS. / THE    MYSTERIES    OF    MITHRA
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE  69; lines 3265-3297
+  start: '3265'
+  end: '3297'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: altars were dedicated to the invincible god
+  summary: The passage surveys archaeological and epigraphic traces of Mithraism across
+    parts of Italy, noting sites in Umbria, Etruria, Emilia, the Po valley, Milan,
+    and Alpine valleys, including a decorated spelaum, a list of collegium patrons,
+    inscriptions, altars, and monuments.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: In Umbria, the religion is associated with the Flaminian road and sites including
+    Interamna, Spoletum, and Sentinum.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: At Spoletum, the passage says one can visit a spelaum decorated with paintings.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: At Sentinum, a list of patrons of a collegium of Mithraists had been discovered.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: In Etruria, the religion is described as following the Cassian way and establishing
+    itself at Sutrium, Bolsena, and perhaps Arretium and Florence.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: North of the Apennines, traces are described as well marked but sporadic in
+    Emilia and the Po valley, with Milan singled out as a locality where the religion
+    enjoyed great favor and official protection.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Fragments of inscriptions from Tortona, Industria, and Novara are described
+    as insufficient evidence for widespread diffusion in the rest of the country.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: In Alpine regions, altars were dedicated to the invincible god at Introbbio,
+    in the Val Sassina, east of Lake Como, and in the Val Camonica watered by the
+    Oglio.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Monuments consecrated to the invincible god are said especially to abound
+    along the river Adige.
+  category: object
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: the invincible god
+  description: A deity to whom altars and monuments were dedicated in Alpine regions;
+    in context, associated with Mithraist evidence.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Mithraists
+  description: Members of a collegium whose patrons are listed at Sentinum.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: patrons of a collegium of Mithraists
+  description: Patrons named in a discovered list at Sentinum.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: dedicated deity
+  assigned_to:
+  - fig:1
+  basis: Altars and monuments are described as dedicated or consecrated to the invincible
+    god.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: religious association members
+  assigned_to:
+  - fig:2
+  basis: The passage refers to a collegium of Mithraists.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: collegium patrons
+  assigned_to:
+  - fig:3
+  basis: The passage mentions a discovered list of patrons of a collegium of Mithraists.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: spelaum
+  literal_form: spelaum decorated with paintings
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: altar
+  literal_form: altars dedicated to the invincible god
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: consecrated monuments
+  literal_form: monuments consecrated to the invincible god
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: inscriptions and patron list
+  literal_form: fragments of inscriptions and a list of patrons of a collegium of
+    Mithraists
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:4
+scenes:
+- id: scene:1
+  label: Mithraic traces along central Italian roads
+  summary: The passage locates evidence of Mithraism along the Flaminian road in Umbria
+    and the Cassian way in Etruria, including a decorated spelaum and a patron list.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Sporadic northern Italian evidence and Milanese favor
+  summary: The passage describes Mithraic traces north of the Apennines as sporadic
+    in Emilia and the Po valley, while Milan is said to have shown great favor and
+    official protection toward the religion.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Alpine dedications to the invincible god
+  summary: The passage contrasts the Alpine defiles with the plains of upper Italy,
+    noting altars and monuments dedicated or consecrated to the invincible god in
+    Alpine valleys and along the Adige.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:5
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3265-3272
+  quote_or_summary: In Umbria along the Flaminian road, the passage names Interamna,
+    Spoletum with a painted spelaum, and Sentinum with a discovered list of patrons
+    of a collegium of Mithraists.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:2
+  type: summary
+  locator: lines 3272-3277
+  quote_or_summary: In Etruria, the religion is described as following the Cassian
+    way and establishing itself at Sutrium, Bolsena, and perhaps Arretium and Florence.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:3
+  type: summary
+  locator: lines 3277-3288
+  quote_or_summary: North of the Apennines, traces are significant but sporadic in
+    Emilia and the Po valley; Milan is described as the only locality where the exotic
+    religion enjoyed great favor and official protection.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:4
+  type: summary
+  locator: lines 3288-3292
+  quote_or_summary: Fragments of inscriptions found at Tortona, Industria, and Novara
+    are said to be insufficient proof of widespread diffusion elsewhere in the country.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary provided.
+- id: ev:5
+  type: quote
+  locator: lines 3293-3297
+  quote_or_summary: At Alpine sites including Introbbio, Val Sassina, and Val Camonica,
+    “altars were dedicated to the invincible god,” and monuments to him especially
+    abound along the river Adige.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation from public domain text.
+confidence:
+  extraction: high
+  motif_candidates: high
+  comparison_claims: high
+  notes: The passage is primarily archaeological-geographical scholarship rather than
+    mythic narrative, so no candidate motif or comparison claim is extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the passage lists evidence for Mithraic diffusion rather than narrating or describing a mythic motif. The term spelaum was retained without mapping to the cave taxonomy because the passage does not explicitly gloss it.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l3265-l3297
+  passage_sha256=d92b94a97c43fbb0f6b725b4d7ee93a439b46e8de7b97548b6f13ca429b21213
+

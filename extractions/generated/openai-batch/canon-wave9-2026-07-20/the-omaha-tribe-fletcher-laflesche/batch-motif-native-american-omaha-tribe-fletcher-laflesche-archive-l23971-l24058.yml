@@ -1,0 +1,370 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l23971-l24058
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA   TRIBE / COOKING    AND    FOODS / DRESSING    AND    TANNING    SKINS
+    / SOCIAL    LIFE; lines 23971-24058
+  start: '23971'
+  end: '24058'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes Omaha procedures for dressing hides, jerking meat,
+    tanning skins with buffalo brains, soaking and softening skins, and finishing
+    skins differently for moccasins, tent covers, robes, deer, and elk.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A single wet skin is worked for several hours and then left to dry in the
+    sun until it becomes dry and hard.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hides intended for moccasins or tent covers are prepared on both sides; hair
+    is scraped off with an implement called we'uhi, and the scraping process is called
+    wafu.
+  category: action
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:3
+  text: Prepared skins are folded for packing and taken home for tanning; after successful
+    hunts, women may be kept busy day and night preparing many skins.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Meat is jerked immediately by cutting flesh into thin slices and hanging it
+    on frames so wind and sun can dry it rapidly.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Rain or a warm, moist atmosphere can cause quantities of meat and pelts to
+    spoil, and meat may be attacked by insects.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: For tanning at home, dried buffalo brains are boiled and smeared on the hard
+    skin with a brush made from wild sage; meat broth may substitute if brains are
+    unavailable.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The skin is immersed in a stream overnight under stones, then wrung out, stretched,
+    pressed with an implement, and rubbed with dry corn meal to absorb moisture.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: The final softening process uses a post and sinew loop; the skin is pulled
+    side to side through the loop several times.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: 'Finishing differs by intended use: moccasin skins are browned by smoke, tent-cover
+    skins are kept white, robes keep the hair, and deer and elk skins require less
+    labor than buffalo hide.'
+  category: attribute
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: women
+  description: Women are described as preparing skins, working rapidly at jerking
+    meat, and doing tanning at their convenience.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: hunters
+  description: Hunters' success is linked to families having many skins to prepare.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: men
+  description: Men sometimes help with jerking meat when necessity requires.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: hide preparers and tanners
+  assigned_to:
+  - fig:1
+  basis: The passage says women prepare many skins and that tanning is done at their
+    convenience.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: primary meat preservation workers
+  assigned_to:
+  - fig:1
+  basis: The passage emphasizes the rapidity with which women worked in the context
+    of jerking meat.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: successful hunt providers
+  assigned_to:
+  - fig:2
+  basis: Successful hunters result in families having many skins to prepare.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: occasional helpers in jerking meat
+  assigned_to:
+  - fig:3
+  basis: The passage states that men sometimes helped in jerking meat if necessity
+    required.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: stream water for soaking
+  literal_form: A stream in which the skin is immersed overnight and weighted down
+    with stones.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: sun and wind drying
+  literal_form: Sun dries skins; wind and sun rapidly dry meat slices hung on frames.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: sym:3
+  label: smoke browning
+  literal_form: Smoke used to brown skins intended for moccasins.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: buffalo brains tanning medium
+  literal_form: Dried buffalo brains, saved in bladder bags, boiled and smeared over
+    the hard skin.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: wild sage brush
+  literal_form: A bunch of wild sage used as a brush and said to counteract the odor
+    of boiled brains.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: post and sinew loop
+  literal_form: A post driven into the ground with a sinew rope loop through which
+    the skin is pulled for softening.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Initial hide dressing after the hunt
+  summary: A wet skin is worked, dried, scraped, folded, and prepared for transport
+    home, with women potentially preparing many skins after successful hunts.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Jerking meat for preservation
+  summary: Meat is cut thin and hung on frames for wind and sun drying; rapid work
+    is needed to avoid spoilage, and men may help if required.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Applying the tanning medium at home
+  summary: At home, boiled dried buffalo brains are applied to the hard skin with
+    a wild sage brush; broth can replace brains when needed.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Soaking and removing moisture
+  summary: The skin is soaked overnight in a stream under stones, then wrung, stretched,
+    pressed, and treated with corn meal to remove remaining moisture.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:5
+  label: Softening and finishing skins
+  summary: A post and sinew loop are used to soften the skin by friction; skins are
+    then finished differently according to use.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Sequential transformation of animal hide into usable skin
+  taxonomy_refs: []
+  basis: The passage presents an ordered craft sequence from wet or hard hide through
+    scraping, tanning, soaking, softening, and use-specific finishing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: high
+  cautions: This is an ethnographic craft pattern rather than a mythic narrative motif;
+    no supplied motif-family taxonomy is directly applicable.
+- id: motif:2
+  label: Urgent preservation after a successful hunt
+  taxonomy_refs: []
+  basis: The passage stresses immediate attention to skins and meat after hunting
+    because spoilage, insects, rain, and warm moisture threaten the products.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The motif is practical and subsistence-focused; the passage does not frame
+    it ritually or mythically.
+- id: motif:3
+  label: Gendered craft labor with occasional male assistance
+  taxonomy_refs: []
+  basis: Women are described as doing the main preparation and tanning work, while
+    men sometimes help with jerking meat when necessary.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives a practical division of labor only; broader social interpretation
+    would require other passages.
+- id: motif:4
+  label: Processing through natural media and friction
+  taxonomy_refs: []
+  basis: Sun, wind, stream water, smoke, sage, corn meal, and repeated friction are
+    all used in transforming or preserving skins and meat.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: This is an analytical grouping of practical operations; the passage does
+    not explicitly mark these media as symbolic.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 23971-23984
+  quote_or_summary: The passage names the wet-skin work, drying in the sun, later
+    hard skin, and scraping hair with the we'uhi for skins requiring preparation on
+    both sides.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: 23984-24002
+  quote_or_summary: The hide is scraped to even thickness, folded for packing, and
+    taken home; families may have many skins, and women may work day and night after
+    successful hunting.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: 24003-24016
+  quote_or_summary: Meat must be jerked immediately by thin slicing and frame drying
+    in wind and sun; rain or moist warmth can spoil meat and pelts, and men may help
+    when needed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: 24017-24031
+  quote_or_summary: At home, women tan when convenient; dried buffalo brains are boiled
+    and smeared on the skin with a wild sage brush, with meat broth as substitute.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: 24032-24042
+  quote_or_summary: The skin is soaked in a stream under stones overnight, wrung out,
+    stretched on a frame, pressed with a we'bamon, and rubbed with dry corn meal.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: 24043-24051
+  quote_or_summary: 'The final softening uses friction: a post, a sinew rope loop,
+    and repeated side-to-side pulling of the skin through the loop.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: 24052-24058
+  quote_or_summary: Moccasin skins are browned by smoke; tent-cover skins remain white;
+    robes are prepared with hair left on; deer and elk skins need less tanning labor.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Candidate motifs are practical
+    ethnographic patterns rather than mythic motif-family identifications. No comparison
+    claims are made because the passage itself does not support a comparative linkage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family reference was assigned; the only supplied symbol taxonomy reference used is water, for the stream-soaking step.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l23971-l24058
+  passage_sha256=8b4e368915b244dc6f5647fc107128a9e7607e47d03c2002b2286ba407579c50
+

@@ -1,0 +1,350 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15706-l15795
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter VI. / CHAPTER VI, 3-6. 295 / CHAPTER VI, 7 -VII, I. 297 / Chapter
+    VII.; lines 15706-15795
+  start: '15706'
+  end: '15795'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage opens with a fragment naming several religious groups. Chapter
+    VII prescribes reverence of the sun at successive periods of the day, discusses
+    reverence in relation to hand-washing, assigns sin to omission and good work to
+    performance, states that moon and fire are treated similarly, and permits reverence
+    when the sun is hidden by clouds.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The opening fragment names the Zandiki, the Christian, the Jew, and others
+    of that sort.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sun is to be reverenced from morning until midday, from midday until afternoon,
+    and from afternoon until night.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage discusses cases in which reverencing the sun is affected by whether
+    hands are washed, including reverencing before an occurrence and again after the
+    hands are washed.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Failing to reverence the sun once at the proper period is described as a sin
+    of thirty stirs.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Each act of reverencing the sun is described as a good work of one Tanapuhar,
+    and the moon and fire are said to be similar in this respect.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: When cloudiness makes the sun not visible, reverencing it is still described
+    as proper.
+  category: setting
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the sun
+  description: Celestial object to be reverenced at stated periods; it may be reverenced
+    even when not visible because of clouds.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: the moon
+  description: Named with fire as treated in like manner to the sun regarding reverence
+    or good work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: fire
+  description: Named with the moon as treated in like manner to the sun regarding
+    reverence or good work.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:4
+  name_or_label: unnamed ritual practitioner
+  description: The recurring 'one' or 'he' who reverences or does not reverence the
+    sun and whose hands may be washed.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: object of reverence
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The sun is repeatedly prescribed as the object of reverence, and the moon
+    and fire are said to be treated similarly.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:2
+  label: ritual agent
+  assigned_to:
+  - fig:4
+  basis: The passage describes an unnamed person who performs or omits reverence and
+    washes hands.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: subject of ritual merit or fault attribution
+  assigned_to:
+  - fig:4
+  basis: The passage assigns sin for omission and good work for reverencing.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: the morning, midday, and afternoon sun
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:6
+- id: sym:2
+  label: moon
+  literal_form: the moon
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: washed hands
+  literal_form: hands being washed before or after the act of reverence
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: thirty stirs
+  literal_form: a stated measure of sin for one omitted reverence
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: one Tanapuhar
+  literal_form: a stated measure of good work for each reverence
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: daily periods for solar reverence
+  summary: The passage prescribes reverence of the sun across morning, midday, afternoon,
+    and until night.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: hand-washing and reverence procedure
+  summary: The passage addresses a case in which hand-washing affects whether and
+    when the sun is reverenced.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: ritual accounting for reverence and omission
+  summary: The text assigns a sin of thirty stirs to missing one proper reverence
+    and a good work of one Tanapuhar to each reverence; the moon and fire are treated
+    similarly.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: reverence during cloudiness
+  summary: The passage states that reverencing the sun is proper even when clouds
+    make it invisible.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: timed reverence of the sun
+  taxonomy_refs: []
+  basis: The passage gives a sequence of daily periods for reverencing the sun and
+    says reverence remains proper even when the sun is not visible.
+  evidence_refs:
+  - ev:2
+  - ev:6
+  confidence: high
+  cautions: No supplied motif-family taxonomy item directly corresponds to solar reverence
+    or daily liturgical timing.
+- id: motif:2
+  label: ritual purity condition before worship
+  taxonomy_refs: []
+  basis: The text links proper reverence with hand-washing conditions and distinguishes
+    omission under such circumstances from irreverence.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The syntax around the hand-washing rule is difficult and interrupted by
+    notes; the extraction keeps the rule general.
+- id: motif:3
+  label: quantified ritual merit and fault
+  taxonomy_refs: []
+  basis: Omission of one proper sun reverence is measured as a sin of thirty stirs,
+    while reverencing is measured as a good work of one Tanapuhar.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage gives the measures but does not explain the full penitential
+    system.
+- id: motif:4
+  label: parallel veneration of sun, moon, and fire
+  taxonomy_refs: []
+  basis: After describing reverence of the sun, the passage states that moon and fire
+    are similar in this respect.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The parallel is internal to this passage and should not be extended beyond
+    the stated rule without further evidence.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents moon and fire reverence as functioning in like
+    manner to sun reverence for the stated good-work valuation.
+  claim_level: same_function
+  target: moon and fire reverence compared with sun reverence
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal textual parallel only; it does not establish historical
+    contact, common inheritance, or broader equivalence beyond the stated ritual rule.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15706-15708, opening fragment
+  quote_or_summary: The fragment names the Zandiki, the Christian, the Jew, and others
+    of that sort.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:2
+  type: summary
+  locator: Chapter VII.1; lines 15710-15716 approx.
+  quote_or_summary: The morning sun is to be reverenced until midday, the midday sun
+    until afternoon, and the afternoon sun until night.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:3
+  type: summary
+  locator: Chapter VII.2; lines 15733-15745 approx.
+  quote_or_summary: The passage discusses a case involving when it is not proper to
+    wash hands, reverencing the sun before the occurrence, and reverencing again after
+    the hands are washed.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:4
+  type: quote
+  locator: Chapter VII.3; lines 15757-15761 approx.
+  quote_or_summary: '"when he does not reverence it for once it is a sin of thirty
+    stirs"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:5
+  type: quote
+  locator: Chapter VII.4; lines 15761-15764 approx.
+  quote_or_summary: '"Reverencing the sun is every time a good work of one Tanapuhar;
+    and so of the moon and fire in like manner"'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+- id: ev:6
+  type: summary
+  locator: Chapter VII.5; lines 15764-15766 approx.
+  quote_or_summary: When cloudiness makes the sun not visible, reverencing it is still
+    proper.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain source text.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The main prescriptions are clear, but the passage is interrupted by footnotes
+    and contains OCR or transcription irregularities around the hand-washing rule.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. Taxonomy references were applied only where directly supported by the supplied symbol list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15706-l15795
+  passage_sha256=b185b0cf491fe99e8ae5ba5f5e61367b1e02dc14dbebd2817d787c6d4c2be112
+

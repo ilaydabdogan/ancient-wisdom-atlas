@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l18973-l19003
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: ISITWALANGCENGCE. / ISITWALANGCENGCE. / ISITWALANGCENGCE. / ISITSHAKAMANA.;
+    lines 18973-19003
+  start: '18973'
+  end: '19003'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A being addresses Udhlokweni about the mourning, crying children, and grief
+    of her people, and says it has taken her from her village forever. Udhlokweni
+    replies that she loved the children and gave generously to women and men. She
+    then catches hold of a tree and climbs up. The Isitwalangcengce goes on alone
+    to a river, throws itself down, and laments that it has killed itself while thinking
+    it was throwing down Udhlokweni. Udhlokweni has in fact fled and returned to her
+    mourning people.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: People are described as distressed or grieved because of Udhlokweni's funeral
+    lamentation.
+  category: relationship
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: obs:2
+  text: Children are said to be crying.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Udhlokweni says she loved the children and gave many things to women and men.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker says it has taken Udhlokweni from the people of her village forever.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Udhlokweni catches hold of a tree and climbs up.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The Isitwalangcengce goes on alone to a river and throws itself down.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The Isitwalangcengce says it has killed itself while thinking it was throwing
+    down Udhlokweni.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: Udhlokweni has fled and returned to her people, who were mourning for her.
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Udhlokweni
+  description: A female figure mourned by her people; she speaks of loving children
+    and giving to women and men, escapes by climbing a tree, and returns to her people.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Isitwalangcengce
+  description: A being that speaks to Udhlokweni, says it has taken her from her village
+    forever, goes alone to the river, throws itself down, and laments its mistaken
+    self-destruction.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Udhlokweni's people
+  description: The people of Udhlokweni's village, described as distressed, grieved,
+    and mourning for her.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+roles:
+- id: role:1
+  label: removed and returning woman
+  assigned_to:
+  - fig:1
+  basis: Udhlokweni is said to have been taken from her village, then flees and returns
+    to her mourning people.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:2
+  label: captor or hostile remover
+  assigned_to:
+  - fig:2
+  basis: The Isitwalangcengce says it has taken Udhlokweni from her village forever
+    and later says it thought it was throwing down Udhlokweni.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:3
+  label: mourning community
+  assigned_to:
+  - fig:3
+  basis: The people are described as distressed, grieved, and mourning for Udhlokweni.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:6
+symbols:
+- id: sym:1
+  label: tree used in escape
+  literal_form: tree
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: river at self-destruction
+  literal_form: river
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Dialogue about mourning and removal
+  summary: The Isitwalangcengce addresses Udhlokweni about the grief of her people
+    and crying children; Udhlokweni speaks of her care and generosity; the Isitwalangcengce
+    says it has taken her from her village forever.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Escape by tree
+  summary: Udhlokweni catches hold of a tree and climbs up, while the Isitwalangcengce
+    goes on alone.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Mistaken death at the river and return
+  summary: The Isitwalangcengce reaches the river, throws itself down, and laments
+    that it has killed itself by mistake; Udhlokweni has fled and returned to her
+    mourning people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: funeral lamentation for an absent living figure
+  taxonomy_refs: []
+  basis: The people mourn for Udhlokweni, but the passage later states that she has
+    fled and returned alive.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  confidence: high
+  cautions: The excerpt is fragmentary and does not show the full cause of the funeral
+    lamentation.
+- id: motif:2
+  label: forced removal from the village
+  taxonomy_refs:
+  - departure
+  basis: The Isitwalangcengce says it has taken Udhlokweni from the people of her
+    village forever.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy reference is broad; the passage frames the departure as imposed
+    removal rather than ordinary departure.
+- id: motif:3
+  label: escape by climbing a tree
+  taxonomy_refs: []
+  basis: Udhlokweni catches hold of a tree and climbs up immediately before the Isitwalangcengce
+    continues alone.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explicitly state whether the tree has sacred or supernatural
+    qualities.
+- id: motif:4
+  label: mistaken self-destruction of pursuer or captor
+  taxonomy_refs: []
+  basis: The Isitwalangcengce throws itself down at the river and says it has killed
+    itself while thinking it was throwing down Udhlokweni.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The wider tale context may clarify whether this is accident, deception,
+    or another mechanism.
+- id: motif:5
+  label: return to the mourning community
+  taxonomy_refs:
+  - return
+  basis: The passage states that Udhlokweni fled and had already returned to her people,
+    who were mourning for her.
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The return is literal and social; no resurrection is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 18975-18984
+  quote_or_summary: The speaker says the people are distressed by Udhlokweni's funeral
+    lamentation and that the children are crying.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: 18984-18990
+  quote_or_summary: Udhlokweni says she loved the children and gave many things to
+    women and men, regarding nothing and giving everything.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: 18990-18995
+  quote_or_summary: '"I have now taken you from the people of your village for ever."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: 18995-18997
+  quote_or_summary: '"Again she caught hold of a tree, and climbed up."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 18997-19001
+  quote_or_summary: The Isitwalangcengce goes alone to the river, throws itself down,
+    and says it has killed itself while thinking it was throwing down Udhlokweni.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: quote
+  locator: 19001-19003
+  quote_or_summary: '"Udhlokweni had fled, and had already returned to her people,
+    who were mourning for her."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based only on the supplied excerpt. Motif labels are literal
+    and tentative where the larger tale context is absent. No comparison claims are
+    made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage appears to be the end of a tale; surrounding context may alter figure roles or motif interpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l18973-l19003
+  passage_sha256=afaa270da7a2732e82f3210adc40f3acc4325c9ad076ffa20743285b422dc09a
+

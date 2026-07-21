@@ -1,0 +1,180 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l36217-l36263
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE   OMAHA   TRIBE / MEMBERS / SOCIETIES; lines 36217-36263
+  start: '36217'
+  end: '36263'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a song text with vocables and brief lexical glosses,
+    states that the song is old, and says it refers to a story episode in which children
+    are shot by a mysterious stranger. It then begins the heading for a second slow
+    song associated with a dramatic movement.
+  language: English with Omaha-language song text and vocables
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A song text is presented and marked as sung twice.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The literal translation glosses Dagotha as a question meaning what is it,
+    wakude as to shoot, and describes v:onage and Innonge as archaic words.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The remaining syllables of the song are described as vocables and vowel prolongations.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The song is said to be old.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The song is said to refer to the shooting of children by a mysterious stranger
+    in a story.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: A second song is identified as a slow song introductory to a dramatic movement,
+    sung in octaves and transcribed by Edwin S. Tracy.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: children
+  description: The persons whom the passage says were shot in the story to which the
+    old song refers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: mysterious stranger
+  description: The figure whom the passage identifies as shooting the children in
+    the story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: shooter in referenced story episode
+  assigned_to:
+  - fig:2
+  basis: The note says the song refers to the shooting of children by the mysterious
+    stranger.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: children shot in referenced story episode
+  assigned_to:
+  - fig:1
+  basis: The note says the song refers to the shooting of the children.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Old song and glosses
+  summary: A song is presented with glosses for selected words and a note that many
+    syllables are vocables or vowel prolongations.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Referenced story episode of shooting
+  summary: The song is said to refer to a story episode in which children are shot
+    by a mysterious stranger.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Second slow song heading
+  summary: The passage begins a second song labeled as slow and introductory to a
+    dramatic movement.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Mysterious stranger shoots children
+  taxonomy_refs: []
+  basis: The passage explicitly says the old song refers to the shooting of the children
+    by a mysterious stranger in a story.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The underlying story is not included in this excerpt, so the motive, outcome,
+    and ritual context of the shooting cannot be determined from this passage alone.
+- id: motif:2
+  label: Old song preserving a story episode
+  taxonomy_refs: []
+  basis: The passage identifies the song as old and states that it refers to a specific
+    narrative episode.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: This is a performance-pattern candidate rather than a specific mythological
+    taxonomy motif; details beyond the brief note are absent.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 36217-36245
+  quote_or_summary: Song text is given; the literal translation glosses Dagotha as
+    'what is it?' and wakude as 'to shoot,' describes v:onage and Innonge as archaic,
+    and says the other syllables are vocables and vowel prolongations.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpted terms used for identification.
+- id: ev:2
+  type: quote
+  locator: 36246-36248
+  quote_or_summary: The song is said to be old and to refer to 'the shooting of the
+    children by the mysterious stranger.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:3
+  type: summary
+  locator: 36250-36263
+  quote_or_summary: The next heading identifies a second song as a slow song introductory
+    to a dramatic movement, sung in octaves, and transcribed by Edwin S. Tracy; only
+    the opening text is shown in this excerpt.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but motif interpretation is limited
+    because the passage only alludes to a story outside the excerpt. No comparison
+    claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif or symbol reference is assigned because the excerpt does not explicitly support one.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l36217-l36263
+  passage_sha256=e360e2e150b8c02999c7aef0a11dff3f26c69ecd8662d61d1c42855f223e698a
+

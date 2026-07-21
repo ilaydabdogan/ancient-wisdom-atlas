@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l8971-l9013
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD VII. 83 / FARGARD VII. 85 / S6 VENDIDAD / VIII.; lines 8971-9013
+  start: '8971'
+  end: '9013'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage includes a note about healing by the holy word and then a
+    ritual-legal dialogue in which Ahura Mazda states how long the ground or earth
+    remains affected after contact with a corpse: one year when a corpse lies on the
+    ground under the light of heaven and sun, and fifty years when a corpse is buried
+    in the earth. A note explains that the land is restored to purity and fit to till
+    after that period.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note reports a variant in which people are directed to the healer who heals
+    with the holy word, described as the best healer and one who drives sickness from
+    the faithful body.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:2
+  text: The same note says healing by the holy word is not only recitation of spells
+    but is accompanied by the Barashnum ceremony.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A question asks how long after a dead man's corpse has been laid on the ground,
+    clothed with the light of heaven and beholding the sun, the ground is itself again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ahura Mazda answers that after the corpse has lain on the ground for a year,
+    the ground is itself again.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A question asks how long after a dead man's corpse has been buried in the
+    earth, the earth is itself again.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Ahura Mazda answers that after a corpse has lain buried in the earth for fifty
+    years, the earth is itself again.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: An explanatory note states that being itself again means restoration to the
+    purity of its nature and fitness to till; until then it remains Nasu.
+  category: attribute
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named speaker who answers the questions about corpse contact with ground
+    and earth.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Zarathushtra / Spitama Zarathushtra
+  description: Named addressee in Ahura Mazda's answers, called holy Zarathushtra
+    and Spitama Zarathushtra.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: dead man / corpse
+  description: A dead man's corpse laid on the ground or buried in the earth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:4
+  name_or_label: healer with the holy word
+  description: A generic healer described in the note as healing with the holy word
+    and driving away sickness from the faithful body.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: divine respondent and instructor
+  assigned_to:
+  - fig:1
+  basis: The passage twice introduces the answer with 'Ahura Mazda answered' and gives
+    his rulings on time periods for restoration.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:2
+  label: ritual-legal interlocutor or addressee
+  assigned_to:
+  - fig:2
+  basis: Ahura Mazda's answers address Zarathushtra by name and epithet.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: deceased source of corpse-contact condition
+  assigned_to:
+  - fig:3
+  basis: The questions concern a dead man's corpse laid on the ground or buried in
+    the earth, and the note says the affected land remains Nasu until restored.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:4
+  label: holy-word healer
+  assigned_to:
+  - fig:4
+  basis: The note describes one who heals with the holy word as the best healer among
+    healers.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: corpse and Nasu condition
+  literal_form: corpse of a dead man; land remaining Nasu until restored
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: ground or earth restored to itself
+  literal_form: ground or earth becoming 'itself again' after a stated period
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: light of heaven and sun
+  literal_form: corpse clothed with the light of heaven and beholding the sun
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: holy word and Barashnum rite
+  literal_form: holy word, spells, and Barashnum ceremony used in healing
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: healing by holy word in the note
+  summary: A note reports a variant teaching that the best healer heals by the holy
+    word, drives away sickness, and uses spells with the Barashnum ceremony.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: corpse laid on the ground under celestial light
+  summary: The dialogue asks when ground becomes itself again after a corpse lies
+    on it under the light of heaven and sun; Ahura Mazda answers that this occurs
+    after one year.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: scene:3
+  label: corpse buried in earth
+  summary: The dialogue asks when earth becomes itself again after a corpse is buried
+    in it; Ahura Mazda answers that this occurs after fifty years.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: healing through holy speech and rite
+  taxonomy_refs: []
+  basis: The note describes a healer who heals with the holy word and whose treatment
+    involves spells accompanied by the Barashnum ceremony.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This material appears in an explanatory note or variant rather than in
+    the main dialogue of section VIII.
+- id: motif:2
+  label: corpse contact polluting land until timed restoration
+  taxonomy_refs: []
+  basis: 'The passage gives fixed periods after corpse contact: one year for a corpse
+    laid on ground and fifty years for a corpse buried in earth, after which the ground
+    or earth is itself again.'
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage states a purity rule rather than narrating a mythic episode.
+- id: motif:3
+  label: corpse exposed beneath heavenly light and sun
+  taxonomy_refs: []
+  basis: The corpse laid on the ground is described as clothed with the light of heaven
+    and beholding the sun before the one-year restoration period is stated.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The phrase may be formulaic or ritual-legal; the passage does not elaborate
+    a solar myth.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 8971-8975
+  quote_or_summary: Fragmentary preceding material refers to one who will best drive
+    away sickness from the body of the faithful.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: note
+  locator: 8996-9005
+  quote_or_summary: The note reports that the Vendidad Sadah variant directs people
+    to the healer with the holy word, called the best healer; it adds that holy-word
+    treatment includes spells accompanied by the Barashnum ceremony.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 8977-8988
+  quote_or_summary: The section asks when ground is itself again after a dead man's
+    corpse is laid on it under the light of heaven and sun; Ahura Mazda answers that
+    after one year the ground is itself again.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized with short phrase retained.
+- id: ev:4
+  type: summary
+  locator: 8989-8995
+  quote_or_summary: The section asks when earth is itself again after a dead man's
+    corpse has been buried in it; Ahura Mazda answers that after fifty years the earth
+    is itself again.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized with short phrase retained.
+- id: ev:5
+  type: note
+  locator: 9007-9013
+  quote_or_summary: A note explains that 'itself again' means restored to the purity
+    of its nature and fit to till, since it remains Nasu until that time; further
+    cross-references are given.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized with short phrase retained.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based directly on the supplied passage and notes. Motif candidates
+    are conservative because the passage is primarily ritual-legal instruction rather
+    than narrative myth. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif-family or symbol references were assigned because the available taxonomy does not include an exact corpse-pollution, purity-restoration, or holy-word-healing category supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l8971-l9013
+  passage_sha256=5682b612d4158c1038cea7ee58736a27b19ae3c84aadf0bd47698fdc75d40ace
+

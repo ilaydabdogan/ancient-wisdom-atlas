@@ -1,0 +1,420 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l3737-l3822
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: INTRODUCTION. / DANISH SCHOLARS. XXV / XXX INTRODUCTION. / XXXIV INTRODUCTION.;
+    lines 3737-3822
+  start: '3737'
+  end: '3822'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage is a scholarly discussion of textual emendation in Old Norse
+    and Icelandic manuscripts. It describes how editors diagnose corrupt readings,
+    how errors may arise through resemblance in sound or appearance, and gives examples
+    from Old Gudrun Lay, Volsunga Saga, Hyndlu-liod, Hus-drapa, and Egil’s Sons’ Wreck.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that existing manuscripts contain errors and that, in important
+    cases, these manuscripts are unique.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says an editor needs knowledge of the poems and of manuscript
+    phenomena, comparing line with line and epithet with epithet.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage states that a clause that is grammatically lame, senseless, and
+    unfitted to context marks a corrupt text in the poems and Icelandic manuscripts.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says a correction is keyed by outward resemblance in sound or
+    appearance, while the corrected sense should differ from the false sense.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage distinguishes errors of the ear, attributed to minstrel, listener,
+    or collector, from errors of the eye, attributed to the scribe.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage says the person making an error coins a sense from words prompted
+    by a delusion of eye or ear.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage says an editor should catch key-words in a corrupt passage, after
+    which the rest of the phrase will become clear.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The passage states that a thorough emendation is preferred and that a weak
+    suggestion may be worse than leaving the text obelised.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: In the Old Gudrun Lay example, the passage rejects inserting an additional
+    word and instead proposes that a rare word resembling “hugin” was not recognized
+    by an Icelandic scribe, who was prompted by Hugin, Woden’s raven.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: In the Volsunga Saga example, Gundhere replies to Brynhild after she has chided
+    his mother; the passage uses resemblance between words to explain a proposed legal-term
+    correction.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:11
+  text: The final examples describe scribal errors caused by small visual differences
+    such as ink marks, faint curves, a prolonged down-stroke, or one additional stroke.
+  category: object
+  evidence_refs:
+  - ev:8
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: editor
+  description: The person who must compare poems, understand manuscripts, find key-words
+    in corrupt passages, and make or withhold emendations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: scribe
+  description: A copyist associated with visual errors, manuscript misreadings, and
+    false readings prompted by what appears before the eye.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:6
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: minstrel, listener, collector
+  description: Transmission figures named as possible sources of errors of the ear.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Hugin, Woden’s raven
+  description: Named parenthetically as “Woden’s raven” and as the word-association
+    that suggested itself to the scribe in the Old Gudrun Lay example.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: Gundhere
+  description: In the Volsunga Saga example, Gundhere retorts on Brynhild.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Brynhild
+  description: In the Volsunga Saga example, Brynhild has chided Gundhere’s mother
+    and is the addressee of Gundhere’s retort.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: Gundhere’s mother
+  description: In the Volsunga Saga example, she is the mother whom Brynhild chided
+    and whose fidelity is invoked by the required context.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: emending editor
+  assigned_to:
+  - fig:1
+  basis: The passage assigns the editor the tasks of comparing poems, identifying
+    corrupt passages, and deciding between emendation and obelising.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+- id: role:2
+  label: visual-copying error agent
+  assigned_to:
+  - fig:2
+  basis: The scribe is named as the source of errors arising from visual resemblance
+    or small manuscript marks.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+- id: role:3
+  label: auditory-transmission error agent
+  assigned_to:
+  - fig:3
+  basis: The minstrel, listener, and collector are named as sources of errors owed
+    to resemblance heard by the ear.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: mythological lexical association
+  assigned_to:
+  - fig:4
+  basis: Hugin is not presented in a narrative scene but as a known raven-name that
+    influenced a scribal reading.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: speaker in cited saga context
+  assigned_to:
+  - fig:5
+  basis: Gundhere is described as retorting on Brynhild in the Volsunga Saga example.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: addressee and chider in cited saga context
+  assigned_to:
+  - fig:6
+  basis: Brynhild is described as having chided Gundhere’s mother and as receiving
+    Gundhere’s retort.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: mother whose conduct is invoked
+  assigned_to:
+  - fig:7
+  basis: The context requires a statement that the mother was never false to her husband.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: Hugin raven-name
+  literal_form: Hugin, Woden’s raven
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:2
+  label: key-word image
+  literal_form: key-word or key-note used as an image for finding a correction
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:3
+  label: crucible image
+  literal_form: the corrected sentence coming out of a crucible
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Principles for emending corrupt manuscripts
+  summary: The passage outlines the qualifications and methods required for an editor
+    dealing with errors in unique manuscripts, including comparison within the poems
+    and attention to manuscript phenomena.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: scene:2
+  label: Mechanism of textual error
+  summary: The passage explains that corrupt readings may resemble true readings in
+    sound or appearance and may be generated through the ear or eye by transmission
+    figures or scribes.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Examples of emendation and misreading
+  summary: The passage gives examples from Old Gudrun Lay, Volsunga Saga, Hyndlu-liod,
+    Hus-drapa, and Egil’s Sons’ Wreck to illustrate rare-word misrecognition, legal-term
+    recovery, and small visual causes of scribal error.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: corrupt passage decoded through key-word resemblance
+  taxonomy_refs: []
+  basis: The passage repeatedly states that a corrupt reading is corrected by finding
+    a key resemblance in sound or appearance and then recovering a sense unlike the
+    false reading.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: This is an editorial-textual pattern, not a mythological narrative motif.
+- id: motif:2
+  label: error generated by eye or ear
+  taxonomy_refs: []
+  basis: The passage distinguishes auditory errors made by a minstrel, listener, or
+    collector from visual errors made by a scribe.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  - ev:9
+  confidence: high
+  cautions: This is a transmission pattern within manuscript criticism rather than
+    a mythic motif family.
+- id: motif:3
+  label: mythic name intruding as false lexical reading
+  taxonomy_refs: []
+  basis: In the Old Gudrun Lay example, the passage says the scribe could not catch
+    a rare word and that Hugin, Woden’s raven, suggested itself instead.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage uses the mythic raven-name as a philological example; it does
+    not narrate a mythic episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the resemblance between a corrupt reading
+    and a true emendation to popular etymology, where sound is similar but meanings
+    differ.
+  claim_level: linguistic_similarity
+  target: popular etymology, exemplified by Shotover for Chateau Vert
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The comparison concerns linguistic and textual process, not historical
+    contact or a mythological motif.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3737-3752
+  quote_or_summary: The passage says existing manuscripts have errors and that an
+    editor needs sympathy with and knowledge of the poems, plus acquaintance with
+    manuscript phenomena.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3753-3760
+  quote_or_summary: The passage describes a corrupt clause as grammatically lame,
+    senseless, and out of context; it says a correction depends on outward resemblance
+    in sound or appearance while producing a different sense.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3761-3768
+  quote_or_summary: The passage likens the process to popular etymology and distinguishes
+    errors due to ear by minstrel, listener, or collector from errors due to eye by
+    scribe.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 3769-3776
+  quote_or_summary: The passage says the editor must catch the key-words of a corrupt
+    passage; then the phrase becomes clear, and in many cases only one way out is
+    possible.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 3777-3784
+  quote_or_summary: The passage says a thorough emendation must cut deeply and light
+    up the text; otherwise the editors prefer to obelise rather than offer a weak
+    suggestion.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 3785-3797
+  quote_or_summary: The Old Gudrun Lay example rejects a cheap insertion and proposes
+    a rare word resembling “hugin”; the Icelandic scribe could not catch it, and Hugin,
+    Woden’s raven, suggested itself.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized with brief names.
+- id: ev:7
+  type: summary
+  locator: lines 3798-3807
+  quote_or_summary: The Volsunga Saga example says Gundhere retorts on Brynhild after
+    she chided his mother; the required context concerns the mother not being false
+    to her husband, and the proposed correction turns on resemblance between words.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 3808-3815
+  quote_or_summary: The Hyndlu-liod example says the scribe’s reading differed from
+    the true reading by small visual details such as an ink spot, scratch, or faint
+    curves.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 3816-3822
+  quote_or_summary: The Hus-drapa and Egil’s Sons’ Wreck examples explain misreadings
+    by small graphic differences such as a prolonged down-stroke or one additional
+    stroke.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is a philological introduction rather than a mythological narrative.
+    Extraction is strong for textual-transmission patterns and named examples, but
+    mythological motif content is limited to the Hugin reference and cited saga names.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was applied because the passage does not directly present one of the listed mythological motif families or literal taxonomy symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l3737-l3822
+  passage_sha256=1b6032779aea799ee84a58ece06a3d1534e8ee143a88e27d34808a253a1d4638
+

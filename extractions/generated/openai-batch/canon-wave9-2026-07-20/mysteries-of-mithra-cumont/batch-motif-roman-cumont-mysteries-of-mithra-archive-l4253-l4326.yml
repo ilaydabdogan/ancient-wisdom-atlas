@@ -1,0 +1,464 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l4253-l4326
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRA    AND    THE    IMPERIAL    POWER / Q6  THE    MYSTERIES    OF    MITHRA
+    / MITHRA    AND    THE    IMPERIAL    POWER  97 / M1THRA    AND    THE    IMPERIAL    POWER  99;
+    lines 4253-4326
+  start: '4253'
+  end: '4326'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Roman imperial use of solar and Mithraic symbolism:
+    the epithet “eternal,” palace fire and ceremonial lamp, radiate crown, and claims
+    or metaphors of kinship or identity between rulers and the Sun, Helios, or Mithra.
+    It also presents these usages as related to Persian, Hellenistic, Egyptian, Sassanian,
+    and Roman traditions of royal solar legitimation.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The epithet “eternal” is said to have been applied to sovereigns and to reveal
+    a conviction that they were united with the Sun by identity of nature.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An inextinguishable fire burned in the palace of the Caesars and was carried
+    before them in official ceremonies as an emblem of celestial fire.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A constantly lighted lamp is said to have served Persian kings as an image
+    of the perpetuity of their power and to have passed to the Diadochi and then to
+    the Romans.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The emperors adopted the radiate crown since Nero in imitation of Seleucids
+    and Ptolemies as a symbol of sovereignty and of the Sun’s rays.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says that Sassanian kings and Pharaohs proclaimed themselves brothers
+    of the sun and moon, while the Caesars were regarded in Asia as successive Avatars
+    of Helios.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Some autocrats caused statues of themselves to be made with solar attributes
+    and allowed themselves to be worshipped as emanations of Mithra.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The passage says Latin peoples rejected absolute claims of divine identity
+    and preferred metaphors comparing the sovereign to the celestial luminary, leaving
+    kinship with immortals undefined.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Roman emperors / Caesars
+  description: Sovereigns associated with the epithet “eternal,” palace fire, radiate
+    crown, solar comparison, and in some Asian contexts with Helios or Mithra.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Sun / Helios / planet-god
+  description: Solar divine figure or celestial luminary whose fire, rays, splendor,
+    and universal illumination are used to characterize or legitimate rulers.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: Mithra
+  description: Named as the divinity of whom some rulers allowed themselves to be
+    worshipped as emanations.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Persian kings
+  description: Royal predecessors whose constantly lighted lamp is described as an
+    image of the perpetuity of power.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Diadochi
+  description: Hellenistic successors through whom the lamp and its mystical ideas
+    are said to have passed to the Romans.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Seleucids and Ptolemies
+  description: Hellenistic dynasties imitated by emperors in adopting the radiate
+    crown.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: Sassanian kings and Pharaohs
+  description: Rulers said to have proclaimed themselves brothers of the sun and the
+    moon.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:8
+  name_or_label: Latin peoples / Occident
+  description: The passage describes them as rejecting absolute affirmations of ruler
+    divinity and preferring metaphorical language.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: solarized ruler
+  assigned_to:
+  - fig:1
+  - fig:7
+  basis: The passage associates rulers with the Sun through identity, brotherhood,
+    avatar language, and solar royal attributes.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: solar or Mithraic divine counterpart
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The Sun, Helios, and Mithra are divine reference points through which royal
+    status is expressed.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: precedent or transmitter of royal solar symbolism
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The passage presents Persian kings, Diadochi, Seleucids, and Ptolemies as
+    prior users or transmitters of royal fire and radiate crown symbolism.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: recipient of imperial solar emblems
+  assigned_to:
+  - fig:1
+  basis: The Caesars are linked to palace fire, ceremonial fire, and the radiate crown
+    as official or royal signs.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: cautious interpreter of royal divinity
+  assigned_to:
+  - fig:8
+  basis: The Occident and Latin peoples are described as avoiding absolute claims
+    and accepting metaphorical comparisons or undefined kinship.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: inextinguishable palace fire
+  literal_form: Inextinguishable fire burning in the palace of the Caesars and carried
+    before them in ceremonies.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: constantly lighted lamp
+  literal_form: A lamp kept constantly lighted, described as an image of the perpetuity
+    of royal power.
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: radiate crown
+  literal_form: A crown with rays, adopted by emperors as a symbol of sovereignty
+    and the Sun’s splendor.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: radiant solar disc
+  literal_form: The radiant disc illuminating the heavens, used in relation to the
+    human image representing it on earth.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: solar attributes on statues
+  literal_form: Statues of autocrats adorned with attributes of the solar divinity.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Imperial adoption of solar eternity
+  summary: The passage explains the epithet “eternal” for sovereigns as reflecting
+    a belief in their identity of nature with the Sun.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Palace and ceremonial fire of the Caesars
+  summary: An inextinguishable palace fire and ceremonial flame represent celestial
+    fire and royal perpetuity, with a stated line of transmission from Persian kings
+    to Diadochi and Romans.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Radiate crown as solar sovereignty
+  summary: The emperors adopt a radiate crown, modeled on Hellenistic dynasties, as
+    a sign of sovereignty and solar splendor.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:6
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Royal apotheosis and solar kinship
+  summary: The passage describes claims or views of rulers as brothers of the sun
+    and moon, Avatars of Helios, bearers of solar attributes, or emanations of Mithra.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:7
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Occidental preference for metaphor
+  summary: Latin and Occidental interpreters are said to reject absolute divine identification
+    while accepting metaphorical comparison between sovereign and celestial luminary.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: solar royal legitimacy
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Royal epithets, palace fire, radiate crown, solar kinship, and solar comparisons
+    are used to present rulership as linked with the Sun, Helios, or Mithra.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage is modern scholarly interpretation rather than a mythic narrative;
+    motif classification is based on described symbols and claims.
+- id: motif:2
+  label: inextinguishable fire as emblem of enduring sovereignty
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The inextinguishable palace fire and constantly lighted lamp are described
+    as emblems of celestial fire and the perpetuity of royal power.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The available motif taxonomy has no separate category for perpetual sacred
+    flame; it is placed under royal legitimacy because the passage connects it to
+    sovereignty.
+- id: motif:3
+  label: ruler as earthly image of a celestial body
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The monarch is described as a simulacrum of the planet-god and as a human
+    image representing the radiant disc on earth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ideological and symbolic pattern, not a narrative episode.
+- id: motif:4
+  label: ruler’s kinship or emanation from solar divinity
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage reports rulers as brothers of the sun and moon, Avatars of Helios,
+    and emanations of Mithra, while also noting that Latin usage left such kinship
+    undefined.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage distinguishes stronger Oriental claims from more cautious
+    Occidental metaphors; the motif should not be generalized uniformly across all
+    contexts mentioned.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the Roman imperial palace fire and ceremonial lamp as
+    historically transmitted from Persian royal usage through the Diadochi to the
+    Romans, with a shared function as an image of perpetual power.
+  claim_level: historical_contact
+  target: Persian royal lamp/fire symbolism, Diadochi, and Roman imperial court ritual
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim relies only on the passage’s statement; no external corroborating
+    evidence is included in the supplied text.
+- id: claim:2
+  claim: The passage says the Roman imperial radiate crown was adopted in imitation
+    of Seleucid and Ptolemaic models and functioned as a solar symbol of sovereignty.
+  claim_level: historical_contact
+  target: Seleucid and Ptolemaic radiate-crown royal iconography
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The excerpt gives a broad historical assertion without detailed examples
+    or dates beyond mentioning adoption since Nero.
+- id: claim:3
+  claim: The passage compares Asian views of the Caesars as Avatars of Helios with
+    broader royal solar apotheosis, including Sassanian and Egyptian claims of kinship
+    with the sun and moon.
+  claim_level: same_function
+  target: royal solar apotheosis and solar kinship claims in Asian, Sassanian, and
+    Egyptian contexts
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage itself notes that Latin and Occidental contexts preferred
+    metaphor and avoided absolute divine-identification claims.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 4253-4267
+  quote_or_summary: The epithet “eternal,” especially associated with Oriental solar
+    divinities, is applied to sovereigns and interpreted as expressing intimate companionship
+    and identity of nature with the Sun.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 4268-4287
+  quote_or_summary: The passage describes celestial fire as represented by inextinguishable
+    fire in the palace of the Caesars and by a constantly lighted lamp, earlier used
+    by Persian kings and transmitted through the Diadochi to the Romans.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 4288-4301
+  quote_or_summary: The emperors’ radiate crown, adopted since Nero in imitation of
+    the Seleucids and Ptolemies, is described as a symbol of sovereignty, the splendor
+    of the Sun, and its rays.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 4302-4319
+  quote_or_summary: 'The passage discusses sacred relation between heavenly radiant
+    disc and earthly human image: Sassanian kings and Pharaohs are called brothers
+    of sun and moon, Caesars in Asia are regarded as Avatars of Helios, and some rulers
+    are worshipped as emanations of Mithra.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 4319-4326
+  quote_or_summary: The passage states that Latin peoples repudiated absolute divine
+    claims, preferred metaphors comparing sovereign and celestial luminary, and allowed
+    only an undefined kinship between prince and immortals.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward from the supplied passage. Motif labels
+    and comparison claims require review because the passage is modern historical
+    analysis of symbols and imperial ideology rather than a myth narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. Available taxonomy references were applied conservatively.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l4253-l4326
+  passage_sha256=fea563b448725fcbcb1fdd42b4572fd9b51278097f02ea6aabe74efd51db21e2
+

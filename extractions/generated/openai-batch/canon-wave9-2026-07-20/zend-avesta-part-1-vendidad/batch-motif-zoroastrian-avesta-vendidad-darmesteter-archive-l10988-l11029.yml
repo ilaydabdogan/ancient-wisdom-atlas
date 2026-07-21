@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l10988-l11029
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD IX. I 25 / FARGARD IX. I 27 / FARGARD IX. I 29 / I30 VENDIDAD.; lines
+    10988-11029
+  start: '10988'
+  end: '11029'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the distress caused by death-defilement, the delight
+    caused by cleansing from Nasu, the otherworldly reward promised to the cleanser,
+    and Ahura Mazda's instruction that reciting Gathic words multiple times will cause
+    the Druj to fade away.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man defiled by the dead is associated with grief to the moon and stars.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man who cleanses people defiled by Nasu delights the fire, water, earth,
+    cow, trees, and the faithful, both men and women.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Zarathustra asks Ahura Mazda what reward belongs to a person who has cleansed
+    someone defiled by Nasu after that person's soul has parted from the body.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Ahura Mazda answers that the welfare of the blessed abode may be promised
+    as reward in the other world.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Zarathustra asks how to fight the Druf and Nasu, described as rushing or defiling
+    from the dead upon the living.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Ahura Mazda instructs that certain Gathic words should be said aloud twice,
+    thrice, and four times.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Druj is said to fade away like a self-moving arrow, like the earth's grass
+    at year's end, and like a seasonal garment.
+  category: sequence
+  evidence_refs:
+  - ev:3
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Zarathustra
+  description: Questioner who addresses Ahura Mazda about reward and about fighting
+    the Druf and Nasu.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Ahura Mazda
+  description: Addressed as Maker of the material world and Holy One; answers Zarathustra's
+    questions.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: cleanser from Nasu
+  description: A man who cleanses from Nasu those whom she has defiled and is promised
+    otherworldly reward.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:4
+  name_or_label: Nasu
+  description: A defiling female-referred force associated with the dead and the living.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:5
+  name_or_label: Druf / Druj
+  description: A hostile force from the dead that rushes upon the living and is said
+    to fade after recitation of Gathic words.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: the faithful, men and women
+  description: A group delighted by the cleansing of those defiled by Nasu.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: questioner
+  assigned_to:
+  - fig:1
+  basis: Zarathustra asks Ahura Mazda successive questions about reward and ritual
+    combat.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: divine respondent and instructor
+  assigned_to:
+  - fig:2
+  basis: Ahura Mazda answers with an otherworldly reward and gives instructions for
+    recitation.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: rewarded purifier
+  assigned_to:
+  - fig:3
+  basis: The cleanser removes Nasu's defilement and is promised welfare of the blessed
+    abode.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: death-associated defiling force
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: Nasu defiles from the dead; the Druf from the dead rushes upon the living.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:5
+  label: force defeated by recitation
+  assigned_to:
+  - fig:5
+  basis: The Druj fades away after the prescribed Gathic words are spoken aloud.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: community delighted by purification
+  assigned_to:
+  - fig:6
+  basis: The faithful, both men and women, are listed among those delighted by cleansing
+    from Nasu.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: fire delighted by purification
+  literal_form: fire
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water delighted by purification
+  literal_form: water
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: earth delighted by purification
+  literal_form: earth
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: cow delighted by purification
+  literal_form: cow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: trees delighted by purification
+  literal_form: trees
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:6
+  label: moon and stars grieved by death-defilement
+  literal_form: moon and stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:7
+  label: blessed abode
+  literal_form: the blessed abode in the other world
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: Gathic recitation counts
+  literal_form: words said twice, thrice, and four times
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:9
+  label: fading similes
+  literal_form: self-moving arrow, grass-like carpet of the earth at year's end, and
+    seasonal garment
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Purification delights the natural and faithful order
+  summary: Death-defilement grieves celestial bodies, while cleansing from Nasu delights
+    fire, water, earth, cow, trees, and the faithful.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:6
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Question about the cleanser's reward
+  summary: Zarathustra asks Ahura Mazda what reward follows death for the one who
+    cleanses a person defiled by Nasu; Ahura Mazda promises the welfare of the blessed
+    abode in the other world.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:7
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Liturgical combat with Druf and Nasu
+  summary: Zarathustra asks how to fight the death-associated Druf and Nasu; Ahura
+    Mazda prescribes spoken Gathic words repeated in specified counts, after which
+    the Druj fades away.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:8
+  - sym:9
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: purification from death-defilement restores delight to the sacred-natural
+    order
+  taxonomy_refs: []
+  basis: The cleanser from Nasu is said to delight fire, water, earth, cow, trees,
+    and the faithful, contrasting with the grief caused by death-defilement.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage gives a ritual purity pattern, but no explicit taxonomy ref
+    for purification is available in the supplied list.
+- id: motif:2
+  label: otherworld reward for the purifier
+  taxonomy_refs: []
+  basis: Ahura Mazda promises the welfare of the blessed abode in the other world
+    as reward for cleansing someone defiled by Nasu.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage mentions reward after the soul leaves the body, but it does
+    not describe a journey map or a formal judgment scene.
+- id: motif:3
+  label: sacred speech defeats a death-associated hostile force
+  taxonomy_refs: []
+  basis: Ahura Mazda instructs recitation of Gathic words, and the Druj is then said
+    to fade away.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage specifies ritual recitation but does not identify a broader
+    named motif family in the supplied taxonomy.
+- id: motif:4
+  label: opposition of living order and death-born defilement
+  taxonomy_refs:
+  - duality
+  basis: The Druf and Nasu are described as coming from the dead against the living,
+    while prescribed sacred words oppose them.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The duality label is a broad fit; the passage does not present a full
+    cosmological dualist exposition.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10988-11000; §42 (162)
+  quote_or_summary: Death-defilement grieves the moon and stars; one who cleanses
+    those defiled by Nasu delights fire, water, earth, cow, trees, and the faithful,
+    both men and women.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11001-11012; §§43-44 (164-166)
+  quote_or_summary: Zarathustra asks Ahura Mazda about the reward after the soul leaves
+    the body for one who cleansed someone defiled by Nasu; Ahura Mazda answers with
+    the welfare of the blessed abode in the other world.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 11013-11026; §§45-46 (167-169)
+  quote_or_summary: Zarathustra asks how to fight the Druf and Nasu from the dead;
+    Ahura Mazda answers to say Gathic words aloud twice, thrice, and four times, and
+    the Druj will fade away with several similes.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summary used.
+- id: ev:4
+  type: note
+  locator: lines 11027-11029; translator notes 2-3
+  quote_or_summary: Translator notes identify the earth's carpet or garment in the
+    simile as grass.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source text; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is based only on the supplied passage. Motif labels are cautious
+    because the supplied taxonomy lacks a direct purification or sacred-speech category.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added; comparison_claims is empty because the passage does not itself make a comparative claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l10988-l11029
+  passage_sha256=fe0ad468fcaf08e158398d5d3077a5c91499323d443b5f2307a1f2876ebf2548
+

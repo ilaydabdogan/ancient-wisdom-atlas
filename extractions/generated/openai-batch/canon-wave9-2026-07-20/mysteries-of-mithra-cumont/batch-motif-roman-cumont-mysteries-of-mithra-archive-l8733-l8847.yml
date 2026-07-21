@@ -1,0 +1,261 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l8733-l8847
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRA1C    ART / BIRTH    OF    ERICHTHONIOS. / MITHRAIC   ART  22? / INDEX;
+    lines 8733-8847
+  start: '8733'
+  end: '8847'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An index section lists topics and page references from The Mysteries of
+    Mithra, including Ahriman and world destruction, Mithraic art and its symbolism,
+    Christian adoption of symbols, the divine archer, the ark, Mithraic ascension,
+    animal disguises, animals and stars, and the secrecy of the arcana.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index section made up of alphabetized entries and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Ahriman is indexed with a note about destruction of the world by him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Mithraic art is indexed with references to intricacy, symbolism, influence
+    on Christian sculpture, and Christian adoption of its symbols.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: An ark is listed as an index entry.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A divine archer is listed as an index entry.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Mithraic ascension is listed as an index entry.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Animal disguises and animals associated with stars are listed as index entries.
+  category: object
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The secrecy of the arcana is listed as an index entry.
+  category: attribute
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Ahriman
+  description: Indexed figure associated in the entry with destruction of the world.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: the divine archer
+  description: Indexed as “Archer, the divine.”
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: agent of world destruction
+  assigned_to:
+  - fig:1
+  basis: The index entry for Ahriman includes “the destruction of the world by” him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: divine archer
+  assigned_to:
+  - fig:2
+  basis: The index entry explicitly labels an archer as divine.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ark
+  literal_form: Ark
+  associated_figures: []
+  taxonomy_refs:
+  - ark_vessel
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: animal disguises
+  literal_form: animal disguises
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: animals and stars
+  literal_form: animals and stars
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Mithraic ascension
+  taxonomy_refs:
+  - ascent
+  basis: The index explicitly lists “Ascension, Mithraic.”
+  evidence_refs:
+  - ev:6
+  confidence: high
+  cautions: The passage is only an index entry and gives no narrative details of the
+    ascension.
+- id: motif:2
+  label: ark as sacred or mythic vessel
+  taxonomy_refs:
+  - ark_vessel
+  basis: The index lists “Ark” as a topic.
+  evidence_refs:
+  - ev:4
+  confidence: low
+  cautions: The index does not describe the ark’s function, occupants, or mythic context.
+- id: motif:3
+  label: world destruction by Ahriman
+  taxonomy_refs: []
+  basis: The index associates Ahriman with destruction of the world.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: No destructive mechanism is specified in this passage; it should not be
+    equated here with the specific taxonomy item world-destroying fire.
+- id: motif:4
+  label: divine archer
+  taxonomy_refs: []
+  basis: The index has an entry for “Archer, the divine.”
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The archer is unnamed in this passage and no episode is described.
+- id: motif:5
+  label: animal disguise
+  taxonomy_refs: []
+  basis: The index lists “Animal disguises.”
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not state who uses the disguises or in what ritual or
+    mythic context.
+- id: motif:6
+  label: animals associated with stars
+  taxonomy_refs: []
+  basis: The index lists “Animals and stars.”
+  evidence_refs:
+  - ev:7
+  confidence: medium
+  cautions: The passage does not specify which animals or stars, nor the nature of
+    the association.
+- id: motif:7
+  label: secrecy of sacred arcana
+  taxonomy_refs: []
+  basis: The index lists “Arcana, the secrecy of the.”
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: The index identifies secrecy but gives no content of the arcana or ritual
+    context.
+comparison_claims:
+- id: claim:1
+  claim: The index states that Mithraic art influenced Christian sculpture and that
+    Christianity adopted symbols of Mithraic art.
+  claim_level: historical_contact
+  target: Christian sculpture and Christian symbolic adoption
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage is an index entry and does not name the specific symbols,
+    examples, dates, or mechanism of influence.
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8733-8847
+  quote_or_summary: The passage begins with the heading “INDEX” and consists of alphabetized
+    index entries with page references.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 8733-8847, entry “Ahriman”
+  quote_or_summary: "“Ahriman ... the destruction of the world by, 146.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 8733-8847, entry “Art, Mithraic”
+  quote_or_summary: "“Art, Mithraic ... symbolism of ... its influence on Christian
+    sculpture ... Christianity adopts symbols of.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: quote
+  locator: lines 8733-8847, entry “Ark”
+  quote_or_summary: "“Ark, 138.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:5
+  type: quote
+  locator: lines 8733-8847, entry “Archer”
+  quote_or_summary: "“Archer, the divine, 138, 197, 228.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:6
+  type: quote
+  locator: lines 8733-8847, entry “Ascension”
+  quote_or_summary: "“Ascension, Mithraic, 194.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:7
+  type: quote
+  locator: lines 8733-8847, entries “Animal disguises” and “Animals and stars”
+  quote_or_summary: "“Animal disguises, 153. Animals and stars, 122.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 8733-8847, entry “Arcana”
+  quote_or_summary: "“Arcana, the secrecy of the, 172.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is an index, so it supports identification of indexed themes
+    and cross-references but not detailed narrative scenes or full motif structures.
+    Candidate motifs should be checked against the referenced pages.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No narrative scenes were extracted because the provided text is an index page.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l8733-l8847
+  passage_sha256=f19c855e8290b8b66a22fd060b58a733cbb8d7ea887deec334e7578fe916080c
+

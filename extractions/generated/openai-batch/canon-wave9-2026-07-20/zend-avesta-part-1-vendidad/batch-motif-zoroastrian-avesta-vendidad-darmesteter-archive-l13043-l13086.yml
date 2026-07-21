@@ -1,0 +1,300 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l13043-l13086
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD XIV. 1 69 / I JO VENDIDAD / FARGARD XV. I 73 / I 74 VENDIDAD.; lines
+    13043-13086
+  start: '13043'
+  end: '13086'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives legal-religious rules about conception after a man approaches
+    a damsel. It forbids her, from fear of public opinion, to induce menses against
+    nature by water and plants, and states that doing so is a sin. A commentary glosses
+    the substances as drugs and describes a procedure in which, if the woman was forced,
+    the man publicly acknowledges the pregnancy before kin and household members and
+    supports her as a husband would. A preceding fragment also links harm causing
+    death in pregnancy with grave sin for the man.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A fragment states that if harm follows from a man's approach and the woman
+    or child dies, the man's sin makes him a Peshotanu.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man may come near a damsel whether she is dependent on a family chief or
+    not, and whether she has been delivered to a husband or not.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: If the damsel conceives by the man, she is told not to induce menses against
+    the course of nature from dread of the people.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The means named for inducing menses are water and plants.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: If the damsel induces menses in this way from dread of the people, the passage
+    states that sin is upon her head.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: A note glosses the use of water and plants as the use of drugs.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The commentary says that if the woman was forced and a man wants to remove
+    her shame, he calls together her relatives and household members, declares that
+    she is pregnant by him and that he rejoices in it, receives their acknowledgment,
+    and supports her as a husband does.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: man
+  description: The male figure who comes near the damsel, may cause conception, may
+    be charged with grave sin if harm leads to death, and in the commentary may acknowledge
+    the pregnancy and support the woman.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: damsel / woman
+  description: The female figure who may be dependent or not dependent on a family
+    chief, delivered or not delivered to a husband, conceives by the man, and is forbidden
+    to induce menses from dread of the people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: the people
+  description: The collective whose judgment is feared by the damsel in the rule.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: relatives and household members
+  description: The commentary lists father, mother, sisters, brothers, husband, servants,
+    menials, and the master and mistress of the house as those called together for
+    acknowledgment of the pregnancy.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: male sexual partner
+  assigned_to:
+  - fig:1
+  basis: The man comes near the damsel, and she conceives by him.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: pregnant damsel under prohibition
+  assigned_to:
+  - fig:2
+  basis: The damsel conceives and is forbidden to induce menses against nature by
+    water and plants.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: public whose opinion is feared
+  assigned_to:
+  - fig:3
+  basis: The text twice names dread of the people as the motive for the prohibited
+    act.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: kin and household witnesses
+  assigned_to:
+  - fig:4
+  basis: The commentary names relatives and household members assembled to hear the
+    man acknowledge the pregnancy.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: acknowledging provider
+  assigned_to:
+  - fig:1
+  basis: In the commentary the man declares the pregnancy to be by him and supports
+    the woman as a husband does.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: water
+  literal_form: water used as a means of inducing menses
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: plants / drugs
+  literal_form: plants, glossed in a note as drugs, used as a means of inducing menses
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+scenes:
+- id: scene:1
+  label: Forbidden induced menses after conception
+  summary: After a man comes near a damsel and she conceives, she is forbidden to
+    produce menses against nature through water and plants out of fear of the people;
+    if she does so, the act is called sin.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Public acknowledgment and support in commentary
+  summary: For a forced woman, the commentary describes the man gathering relatives
+    and household members, acknowledging that the woman is pregnant by him, and supporting
+    her as a husband does.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:3
+  label: Harm causing death and grave sin
+  summary: A preceding fragment states that if harm follows from the man's approach
+    and the woman or child dies, this makes the man a Peshotanu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Prohibition of concealing pregnancy through induced menses
+  taxonomy_refs: []
+  basis: The rule forbids a pregnant damsel to induce menses against nature with water
+    and plants from dread of the people and assigns sin if she does so.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a legal-religious prescription rather than a narrative mythic
+    episode; no wider comparative claim is made by the passage.
+- id: motif:2
+  label: Public acknowledgment of pregnancy to remove shame
+  taxonomy_refs: []
+  basis: The commentary describes a man publicly declaring that a woman is pregnant
+    by him, the assembled household acknowledging that her shame is removed, and the
+    man supporting her as a husband.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The material appears in commentary within the passage and is procedural;
+    motif status requires human review.
+- id: motif:3
+  label: Pregnancy harm resulting in grave male sin
+  taxonomy_refs: []
+  basis: The fragment states that if harm follows and the woman or child dies, the
+    man incurs a Peshotanu sin.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The opening sentence is fragmentary and a note offers an alternate reading
+    that the child, rather than the woman, dies.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 13043-13046
+  quote_or_summary: 'Fragment: if harm follows after a man''s approach and the woman
+    or child dies, the sin makes the man a Peshotanu.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 13050-13056
+  quote_or_summary: If a man comes near a damsel of specified dependency or marital
+    statuses and she conceives by him, she must not, from dread of the people, produce
+    menses against nature by water and plants.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13058-13062
+  quote_or_summary: If the damsel produces menses against nature from dread of the
+    people by water and plants, sin is upon her head.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13068-13076
+  quote_or_summary: Notes explain marital/dependency status, gloss water and plants
+    as drugs, and classify the act as a tanafuhr sin or 'sin on sin.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13076-13086
+  quote_or_summary: 'Commentary: if the woman was forced and a man wants to remove
+    her shame, he gathers family and household members, declares she is pregnant by
+    him and he rejoices, they acknowledge her shame is removed, and he supports her
+    as a husband does.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Extraction is limited by a fragmentary opening line and by the presence of
+    embedded commentary and translator notes. No comparison claims are included because
+    the passage itself does not make or clearly support an external comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata. Taxonomy reference applied only to the explicit water symbol from the provided symbol list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l13043-l13086
+  passage_sha256=9cc2e0af67576d4f64ad6a899c4a2b25195efbb98c7f030dae5b3f57d0efd8ff
+

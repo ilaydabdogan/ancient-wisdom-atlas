@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l9747-l9794
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: SEPT POR ETE / FRAGMENTS OF LOST MYTHOLOGICAL POEMS. / FRAGMENTS OF LOST
+    POEMS. 124 / EARLY WESTERN EPICS.; lines 9747-9794
+  start: '9747'
+  end: '9794'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: for I am minded to wade through thee to Giant-land.
+  summary: A fragmentary mythological speech states an intent to wade through an addressed
+    entity to Giant-land, claims that the speaker’s god-power will grow as high as
+    heaven if the addressee grows, and recalls using all that power in Giant-land
+    when Squall and Grip, Geirrod’s daughters, tried to lift the speaker to heaven.
+    The rest of the passage is editorial prose introducing a section called Early
+    Western Epics and describing groups of northern poems.
+  language: English with corrupted Old Norse/OCR fragments
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is headed as a fragment of lost poems before a short mythological
+    speech.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A first-person speaker says he is minded to wade through an addressed entity
+    to Giant-land.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker says that if the addressee waxes, the speaker’s god-power will
+    also wax as high as heaven.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The speaker recalls once putting forth all his god-power in Giant-land.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Squall and Grip are named as Geirrod’s daughters and are said to have tried
+    to lift the speaker up to heaven.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage later shifts into editorial prose describing the contents and
+    organization of a book of Early Western Epics.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: unnamed first-person speaker
+  description: The speaker intends to wade to Giant-land, claims waxing god-power,
+    and recalls using that power in Giant-land.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Squall
+  description: One of Geirrod’s daughters, named among those who tried to lift the
+    speaker up to heaven.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Grip
+  description: One of Geirrod’s daughters, named among those who tried to lift the
+    speaker up to heaven.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Geirrod
+  description: Named only through the phrase identifying Squall and Grip as Geirrod’s
+    daughters.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: intending traveler to Giant-land
+  assigned_to:
+  - fig:1
+  basis: The speaker says he is minded to wade through the addressee to Giant-land.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: possessor and user of god-power
+  assigned_to:
+  - fig:1
+  basis: The speaker says his god-power will wax and recalls putting forth all his
+    god-power in Giant-land.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: attempted lifters to heaven
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: Squall and Grip are said to have tried to lift the speaker up to heaven.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: daughters of Geirrod
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage identifies Squall and Grip as Geirrod’s daughters.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: named parent
+  assigned_to:
+  - fig:4
+  basis: Geirrod is named as the father or parent implied by the phrase “Geirrod’s
+    daughters.”
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Giant-land
+  literal_form: place-name or realm, “Giant-land”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: heaven
+  literal_form: upper place or height, “heaven”
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Intended wading to Giant-land
+  summary: The unnamed speaker addresses an entity, states an intent to wade through
+    it to Giant-land, and says his god-power will grow as high as heaven if the addressee
+    grows.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Recalled struggle in Giant-land
+  summary: The speaker recalls using all his god-power in Giant-land when Squall and
+    Grip, Geirrod’s daughters, tried to lift him up to heaven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wading passage toward Giant-land
+  taxonomy_refs:
+  - departure
+  basis: The speaker states an intention to wade through the addressed entity to Giant-land.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The fragment does not identify the addressed entity or narrate the completion
+    of the journey.
+- id: motif:2
+  label: divine power expanding against an opposing force
+  taxonomy_refs: []
+  basis: The speaker says that if the addressee waxes, his own god-power will wax
+    too, as high as heaven.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The opposing addressee is not named in the provided passage.
+- id: motif:3
+  label: attempted lifting of a divine speaker to heaven
+  taxonomy_refs:
+  - ascent
+  basis: Squall and Grip are said to have tried to lift the speaker up to heaven.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The action is only an attempted lifting; the fragment does not say that
+    an ascent was completed.
+- id: motif:4
+  label: power-contest in Giant-land
+  taxonomy_refs: []
+  basis: The speaker recalls putting forth all his god-power in Giant-land in response
+    to the actions of Geirrod’s daughters.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The larger narrative context is absent from this fragment.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: 9747-9750
+  quote_or_summary: Heading and fragmentary lines introduce “FRAGMENTS OF LOST POEMS.
+    124” before the mythological speech.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short citation/summary used.
+- id: ev:2
+  type: quote
+  locator: 9752-9753
+  quote_or_summary: "“for I am minded to wade through thee to Giant-land. Be sure
+    if thou waxest, my god-power will wax too, as high as heaven.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 9755-9756
+  quote_or_summary: "“Once I put forth all my God’s-power in Giant-land, when Squall
+    and Grip, Geirrod’s daughters, tried to lift me up to heaven.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 9760-9787
+  quote_or_summary: Editorial prose introduces “EARLY WESTERN EPICS,” describes northern
+    epic poetry, and outlines sections containing heroic poems, ballad-like poems,
+    Volo-spa, and early northern Christian poems.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The mythological material is short and fragmentary, with OCR-corrupted surrounding
+    text. Figures and motifs are limited to names and actions explicitly present in
+    the supplied passage. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external mythological context was used; taxonomy references are limited to available refs and only where directly supported by wording in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l9747-l9794
+  passage_sha256=5addc9b5231318e9311df840b1d7a8bc2a559c1a047ee33401197b9b7a0b0c11
+

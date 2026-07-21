@@ -1,0 +1,379 @@
+---
+record_id: batch.motif.vietnamese-annam-legends-chivas-baron-archive-l2806-l2860
+source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+passage_locator:
+  label: THE    CROW    AND    THE    PEACOCK / THE   DAUGHTER    OF    KING   MINH-TONG
+    / F  65 / THE    GENIE    OF   THE    TAN-VIEN; lines 2806-2860
+  start: '2806'
+  end: '2860'
+  translation: Stories and Legends of Annam
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A wily boy living by the Song-Koi learns from an old man that a dragon
+    in the river depths can grant kingship and immortality. To obtain kingship, one
+    must plunge to the river bottom with a bundle of ancestors' bones and place it
+    in the dragon's mouth, though seeing the dragon causes blindness. The youth covers
+    one eye, dives with the bones, loses one eye, and becomes the powerful one-eyed
+    Genie of the Tan-Vien.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Genie of the Tan-Vien is introduced as having once been a very wily boy
+    who lived on the shores of the Song-Koi.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: An old man tells the boy that a dragon dwells in the depths of the river.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that dragons give power and good fortune to mortals, and
+    that the Dragon of the Song-Koi can confer kingship and immortality.
+  category: attribute
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:4
+  text: Those seeking the dragon's gifts must plunge to the bottom of the Red River.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A person who desires to reign must make a bundle of ancestors' bones and place
+    it in the dragon's mouth.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The enterprise is dangerous because whoever looks on the dragon becomes blind.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The youth makes a bundle of his ancestors' bones, plunges into the Song-Koi,
+    and hides one eye with one of his hands.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The youth thinks that if he loses one eye, he will still see with the other
+    and will be a king.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The youth loses one eye and becomes a Genie; the passage explains this as
+    the reason the Genie of the Tan-Vien has one eye and mighty power.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Genie of the Tan-Vien as youth
+  description: A very wily boy living on the shores of the Song-Koi who later loses
+    one eye and becomes the Genie of the Tan-Vien.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: old man
+  description: An old man who tells the boy that a dragon dwells in the river depths.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dragon of the Song-Koi
+  description: A dragon dwelling in the river depths, able to confer kingship and
+    immortality, whose sight blinds the viewer.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+roles:
+- id: role:1
+  label: questing youth
+  assigned_to:
+  - fig:1
+  basis: He seeks the dragon's gifts by preparing ancestral bones and plunging into
+    the Song-Koi.
+  evidence_refs:
+  - ev:6
+- id: role:2
+  label: informant
+  assigned_to:
+  - fig:2
+  basis: He informs the boy that a dragon dwells in the river depths.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: boon-granting dangerous dragon
+  assigned_to:
+  - fig:3
+  basis: The dragon can grant kingship and immortality, but looking on it causes blindness.
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: role:4
+  label: one-eyed transformed genie
+  assigned_to:
+  - fig:1
+  basis: After the plunge, the youth loses one eye and becomes the powerful Genie
+    of the Tan-Vien.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: river dragon
+  literal_form: dragon dwelling in the depths of the river
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: river depths
+  literal_form: Song-Koi / Red River bottom into which seekers plunge
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:3
+  label: ancestors' bones
+  literal_form: bundle of ancestors' bones
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:4
+  label: dragon's mouth
+  literal_form: the dragon's mouth where the bundle of bones must be placed
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: hidden and lost eye
+  literal_form: one eye hidden with a hand; one eye lost after the encounter
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:7
+scenes:
+- id: scene:1
+  label: Instruction about the river dragon
+  summary: The youth living by the Song-Koi learns from an old man that a dragon lives
+    in the river depths and can grant power, good fortune, kingship, and immortality.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Conditions and danger of the boon
+  summary: The passage states that seekers must plunge to the river bottom; one who
+    wants to reign must put a bundle of ancestors' bones in the dragon's mouth, while
+    looking at the dragon causes blindness.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Plunge, eye-loss, and transformation
+  summary: The youth prepares the bundle, enters the Song-Koi, protects one eye with
+    his hand, loses one eye, and becomes the powerful Genie of the Tan-Vien.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: boon-granting river dragon
+  taxonomy_refs:
+  - serpent
+  - sacred_exchange
+  basis: A dragon in the river depths can confer kingship and immortality, and the
+    rite requires placing ancestral bones in its mouth.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The taxonomy reference 'serpent' is applied cautiously because the passage
+    says 'dragon' rather than 'serpent.'
+- id: motif:2
+  label: underwater descent for supernatural kingship
+  taxonomy_refs:
+  - hero_descent
+  - mystical_quest
+  - royal_legitimacy
+  basis: Those seeking the dragon's gifts must plunge to the bottom of the Red River;
+    the youth does so to obtain kingly power.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: high
+  cautions: The passage emphasizes a plunge into river depths rather than a fully
+    narrated underworld journey.
+- id: motif:3
+  label: ancestral bones as required offering
+  taxonomy_refs:
+  - sacred_exchange
+  - royal_legitimacy
+  basis: A would-be ruler must bundle ancestors' bones and place them in the dragon's
+    mouth to obtain the boon.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain why ancestors' bones are required; interpretation
+    should remain limited to the stated rite.
+- id: motif:4
+  label: loss of an eye in supernatural initiation
+  taxonomy_refs:
+  - initiation
+  basis: The youth deliberately protects one eye, loses the other after encountering
+    the dragon's danger, and becomes a powerful genie.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The text frames the outcome as transformation and explanation of the genie's
+    one eye, but it does not explicitly call the event an initiation.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits a royal-legitimacy pattern in which access to rule is mediated
+    by a supernatural being and a required rite.
+  claim_level: same_function
+  target: royal_legitimacy motif family
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison to an available motif family only;
+    it does not establish historical contact or dependence.
+- id: claim:2
+  claim: The river plunge resembles a descent-quest pattern because the seeker goes
+    into dangerous depths to obtain a supernatural boon.
+  claim_level: same_function
+  target: hero_descent / mystical_quest motif-family pattern
+  evidence_refs:
+  - ev:3
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a brief underwater action, not an extended descent
+    narrative with stages or return episodes.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2806-2812
+  quote_or_summary: The passage introduces the Genie of the Tan-Vien as once a very
+    wily boy living on the shores of the Song-Koi.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 2814-2818
+  quote_or_summary: An old man says a dragon dwells in the river depths; the narrator
+    adds that dragons give power and good fortune to mortals.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2820-2824
+  quote_or_summary: '"The Dragon of the Song-Koi could confer kingship and immortality";
+    seekers must plunge to the bottom of the Red River.'
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:4
+  type: summary
+  locator: lines 2826-2828
+  quote_or_summary: The one who wants to reign must make a bundle of ancestors' bones
+    and place it in the dragon's mouth.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 2830-2831
+  quote_or_summary: The enterprise is dangerous because anyone who looks on the dragon
+    becomes blind.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 2839-2847
+  quote_or_summary: The youth makes the bundle of ancestral bones, plunges into the
+    Song-Koi, hides one eye with his hand, and reasons that he can lose one eye while
+    still seeing with the other and becoming king.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 2849-2853
+  quote_or_summary: The youth loses one eye, becomes a Genie, and is thereafter known
+    as the one-eyed, mighty Genie of the Tan-Vien.
+  source_text_path: texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied passage. Motif taxonomy assignments
+    are cautious, especially the serpent reference for a dragon.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external sources or parallels were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:vietnamese-annam-legends-chivas-baron-archive__l2806-l2860
+  passage_sha256=8dc5dbcd4f8ffb460bd74db2c8ae8e65befd22fcf509acdec07f513f68db88a3
+

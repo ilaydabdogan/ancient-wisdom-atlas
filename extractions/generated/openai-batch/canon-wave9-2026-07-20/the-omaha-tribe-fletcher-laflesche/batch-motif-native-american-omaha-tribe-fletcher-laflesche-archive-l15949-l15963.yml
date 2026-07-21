@@ -1,0 +1,226 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l15949-l15963
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: A    - / A  A  A / TENTH  SONG / ELEVENTH  SONG; lines 15949-15963
+  start: '15949'
+  end: '15963'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the Tenth Song as reusing earlier music and words,
+    then describes arrows consecrated through smoke while a woman advances toward
+    the Pole holding an arrow aloft. The Eleventh Song is identified with the sixth
+    song, its words are repeated nine times, and the text explains squared numbers
+    in ceremonials as indicating completed action.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tenth Song uses the same music as the eighth song and the same words as
+    the first stanza of the song.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Arrows are consecrated by being passed through smoke.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: A woman advances toward the Pole and stands holding an arrow aloft while a
+    song is sung.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Eleventh Song is the same as the sixth song, and its words are repeated
+    nine times.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage states that, in ceremonials, a number multiplied by itself can
+    indicate completed action.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: the woman
+  description: A woman who advances toward the Pole and stands holding an arrow aloft
+    during the song.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: ritual participant
+  assigned_to:
+  - fig:1
+  basis: She advances toward the Pole during the described ceremonial action.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: arrow bearer
+  assigned_to:
+  - fig:1
+  basis: She stands holding an arrow aloft while the song is sung.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: arrows
+  literal_form: arrows consecrated through smoke; one arrow held aloft
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: smoke
+  literal_form: smoke through which the arrows are passed
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Pole
+  literal_form: the Pole toward which the woman advances
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: nine repetitions
+  literal_form: the words of the Eleventh Song repeated nine times
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: squared number
+  literal_form: a number multiplied by itself, such as 3 times 3 or 4 times 4
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Tenth Song identified by earlier music and words
+  summary: The Tenth Song is described as using the same music as the eighth song
+    and the same words as the first stanza.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Consecration of arrows and raised-arrow stance
+  summary: After the arrows are passed through smoke, the woman advances toward the
+    Pole and stands holding an arrow aloft while a song is sung.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Eleventh Song repeated nine times
+  summary: The Eleventh Song is equated with the sixth song, repeated nine times,
+    and explained in relation to squared numbers indicating completed action in ceremonial
+    contexts.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: consecration by smoke
+  taxonomy_refs: []
+  basis: The arrows are explicitly consecrated by being passed through smoke.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explain the source or broader symbolism of the smoke.
+- id: motif:2
+  label: raised ritual object before a Pole
+  taxonomy_refs: []
+  basis: The woman advances toward the Pole and stands with an arrow held aloft while
+    a song is sung.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not define the Pole’s symbolic meaning or the function
+    of holding the arrow aloft.
+- id: motif:3
+  label: completed action marked by squared repetition
+  taxonomy_refs: []
+  basis: The song words are repeated nine times, and the passage states that a number
+    multiplied by itself in ceremonials indicates completed action.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The interpretation is limited to the passage’s explicit statement about
+    ceremonial number use.
+- id: motif:4
+  label: ritual song reuse and repetition
+  taxonomy_refs: []
+  basis: The Tenth and Eleventh Songs are identified as repetitions or reuses of earlier
+    songs or stanzas.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage gives musical and verbal correspondences but does not explain
+    their ritual significance beyond the note on completed action.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 15949-15952
+  quote_or_summary: The Tenth Song is described as having the same music as the eighth
+    song and the same words as the first stanza.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:2
+  type: summary
+  locator: 15954-15956
+  quote_or_summary: Arrows are consecrated by passing them through smoke; the woman
+    advances toward the Pole and stands holding an arrow aloft while a song is sung.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+- id: ev:3
+  type: summary
+  locator: 15958-15963
+  quote_or_summary: The Eleventh Song is the same as the sixth song; its words are
+    repeated nine times, and squared numbers in ceremonials are said to indicate completed
+    action.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized rather than quoted at length.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif labels are descriptive and do
+    not rely on external taxonomy. No cross-tradition comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy reference was applied because the passage does not explicitly support the listed motif-family or symbol IDs.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l15949-l15963
+  passage_sha256=9da0aff5bba61e5334764b73be7013d75c6fb59da0463732a090a21d24f28276
+

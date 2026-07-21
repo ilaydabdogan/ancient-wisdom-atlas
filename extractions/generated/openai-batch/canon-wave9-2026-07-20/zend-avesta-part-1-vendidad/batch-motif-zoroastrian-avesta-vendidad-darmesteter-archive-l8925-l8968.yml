@@ -1,0 +1,348 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l8925-l8968
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD VII. 79 / FARGARD VII. 8 I / FARGARD VII. 83 / FARGARD VII. 85; lines
+    8925-8968
+  start: '8925'
+  end: '8968'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a graded tariff for healing different human and animal
+    patients, with payments scaled by social rank and type of patient. It then names
+    three kinds of healers: one using the knife, one using herbs, and one using the
+    holy word. A note glosses the holy word as spells and compares the classification
+    with Greek material about Asclepios.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: 'Healing fees for male household and civic ranks are listed in ascending value:
+    master of a house, lord of a borough, lord of a town, and lord of a province.'
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'The wives of the same ranked figures are assigned different healing fees:
+    she-ass, cow, mare, and she-camel.'
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The son of the lord of a borough is assigned a high-value ox as the healing
+    fee; oxen of different values and a sheep are also listed as patients with descending
+    payments.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'Several healers may offer themselves together: one heals with the knife,
+    one with herbs, and one with the holy word.'
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A translator's note glosses healing with the holy word as healing by spells
+    and cites a comparison with Asclepios using spells, drink or balsam, and the knife.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: healer
+  description: A practitioner who heals patients and may use knife, herbs, or the
+    holy word.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:2
+  name_or_label: master of a house
+  description: A ranked male patient whose healing fee is the value of an ox of low
+    value.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: lord of a borough
+  description: A ranked male patient whose healing fee is the value of an ox of average
+    value.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: lord of a town
+  description: A ranked male patient whose healing fee is the value of an ox of high
+    value.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: lord of a province
+  description: A ranked male patient whose healing fee is the value of a chariot and
+    four.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:6
+  name_or_label: wives of ranked men
+  description: Female patients whose healing fees are assigned according to the rank
+    of their husbands.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: son of the lord of a borough
+  description: A patient whose healing fee is the value of an ox of high value.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: oxen and sheep as patients
+  description: Animals listed as patients to be healed, with fees scaled by the animal's
+    value.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:9
+  name_or_label: Spitama Zarathustra
+  description: The addressee invoked in the instruction about several healers offering
+    themselves together.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: healer
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly says that a healer shall heal specified patients,
+    and later names healers by their methods.
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: role:2
+  label: human patient or fee category
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  basis: These human figures are named as persons to be healed for specified values.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:3
+  label: animal patient
+  assigned_to:
+  - fig:8
+  basis: Oxen and a sheep are explicitly listed as beings to be healed for specified
+    values.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: ritual-law addressee
+  assigned_to:
+  - fig:9
+  basis: The instruction addresses Spitama Zarathustra directly.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: knife
+  literal_form: knife used as a healing method
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: herbs
+  literal_form: herbs used as a healing method
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: holy word
+  literal_form: holy word used as a healing method; note glosses it as spells
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:4
+  label: graded animal payments
+  literal_form: oxen, she-ass, cow, mare, she-camel, sheep, and meal of meat used
+    as stated healing values
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: chariot and four
+  literal_form: chariot and four assigned as the healing value for a lord of a province
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: tariff of healing fees
+  summary: The passage assigns healing payments for human patients according to household
+    or civic rank, for wives according to corresponding rank, and for animal patients
+    according to value.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: three healers offer themselves
+  summary: When several healers present themselves together, the passage distinguishes
+    healers by knife, herbs, and holy word.
+  figure_refs:
+  - fig:1
+  - fig:9
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: graded recompense for healing
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The passage sets out a structured exchange in which healing service receives
+    payments scaled by social rank and patient type.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The taxonomy label is broader than the immediate legal-tariff context;
+    the passage gives fees rather than a narrative exchange episode.
+- id: motif:2
+  label: threefold healing by knife, herbs, and sacred speech
+  taxonomy_refs: []
+  basis: 'The passage distinguishes three healing modalities: surgical instrument,
+    herbal medicine, and holy word.'
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The excerpt cuts off immediately after introducing the three healers,
+    so any ranking among the methods is not extracted.
+comparison_claims:
+- id: claim:1
+  claim: The translator's note presents a functional comparison between the passage's
+    three healing methods and a Greek Asclepios classification involving spells, medicinal
+    drink or balsam, and the knife.
+  claim_level: same_function
+  target: Asclepios healing classification as cited from Pindaros, Pythian 3.51, with
+    an additional note to Odyssey 19.457 for spells
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is supplied by the translator's note, not by the Avestan
+    passage itself; it supports similarity of healing functions only, not historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8925-8931
+  quote_or_summary: The healer is assigned fees for healing the master of a house,
+    lord of a borough, lord of a town, and lord of a province, ending with a chariot
+    and four for the provincial lord.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 8933-8940
+  quote_or_summary: The wives of ranked men are to be healed for the values of a she-ass,
+    cow, mare, and she-camel according to rank.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 8942-8948
+  quote_or_summary: The son of a lord of a borough, oxen of high, average, and low
+    value, and a sheep are listed as patients, each with a stated fee.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 8950-8954
+  quote_or_summary: If several healers offer themselves together to Spitama Zarathustra,
+    they are identified as healing with the knife, with herbs, and with the holy word.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 8964-8968
+  quote_or_summary: A note glosses the holy word as spells and compares the classification
+    with Asclepios healing by spells, drink or balsam, and the knife.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The tariff and three healing modalities are explicit. Motif assignment is
+    cautious because the passage is legal-prescriptive rather than narrative. The
+    comparison claim is based only on the translator's note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported ranking among knife, herbs, and holy word was extracted because the excerpt ends before completing the statement.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l8925-l8968
+  passage_sha256=d896d7e6b316f8658f43cb6d9bc18f3b4c21a2e31efd0ff0319a6dfa9a878701
+

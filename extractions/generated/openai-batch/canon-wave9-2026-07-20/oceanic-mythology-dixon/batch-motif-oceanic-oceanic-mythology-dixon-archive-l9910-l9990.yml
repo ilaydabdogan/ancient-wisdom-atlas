@@ -1,0 +1,454 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l9910-l9990
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: TRICKSTER TALES 197 / PLATE XIX / TRICKSTER TALES 201 / TRICKSTER TALES 203;
+    lines 9910-9990
+  start: '9910'
+  end: '9990'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage finishes a trickster tale in which a man is successively blinded
+    by an egg, stung by an ant, slips on dung while descending a ladder, is bitten
+    by a snake, and dies. It then gives a comparative discussion of two groups of
+    Indonesian trickster tales: mouse-deer tales, associated especially with Java,
+    Borneo, Sumatra, India, and Indian-influenced regions; and ape or tortoise tales,
+    associated especially with eastern and northern Indonesia, the Philippines, Melanesia,
+    and at least one Polynesian theme. The author proposes Indian origin for some
+    mouse-deer tales, local Indonesian growth for others, and mostly local origin
+    for the ape/tortoise group.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An egg jumps from a cooking-pot into a man's face and blinds him.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man goes to a water-vessel to wash his face, and an ant stings him.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The man runs down a ladder, slips on dung, falls to the bottom, is bitten
+    by a snake, and dies.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: 'The author divides the trickster tales into two groups: one with the mouse-deer
+    as hero and one with the ape or tortoise as leading figure.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The mouse-deer group is described as strongest in Java, Borneo, and Sumatra,
+    and scarcely known in the Philippines.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The ape or tortoise group is described as best developed in Halmahera, Celebes,
+    and the Sangir Islands, and well represented in the Philippines.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The author states that neither tale group is known, according to available
+    material, among tribes with very little or no Indian cultural influence.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: The author states that none of the first group's stories had been reported
+    from Melanesia or farther east, while the second group is comparatively rare on
+    the Asiatic continent and widely distributed in Melanesia.
+  category: relationship
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: obs:9
+  text: The author concludes that part of the first group is of Indian origin, part
+    is local Indonesian growth perhaps modelled on Indian tales, and the second group
+    is wholly or almost wholly local in origin.
+  category: speech
+  evidence_refs:
+  - ev:10
+  - ev:11
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man in the tale who is blinded, stung, falls, is bitten, and dies.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: the ant
+  description: An ant that stings the man at the water-vessel.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the snake
+  description: A snake that bites the man after he falls, causing his death.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: mouse-deer
+  description: The figure described as the hero of one group of trickster tales.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: ape
+  description: One of the figures described as leading the second group of trickster
+    tales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: tortoise
+  description: One of the figures described as leading the second group of trickster
+    tales.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: victim in harmful sequence
+  assigned_to:
+  - fig:1
+  basis: The man is blinded, stung, falls, is bitten, and dies.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: harm-causing animal
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The ant stings the man and the snake bites him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: trickster-tale hero
+  assigned_to:
+  - fig:4
+  basis: The passage states that one tale group has the mouse-deer as hero.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: leading trickster-tale figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage states that the other tale group has the ape or tortoise as leading
+    figure.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: egg
+  literal_form: egg from a cooking-pot
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: fire to be lighted
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: water-vessel
+  literal_form: water-vessel used by the man to wash his face
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: ladder
+  literal_form: ladder down which the man runs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: dung
+  literal_form: dung on which the man slips
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: snake
+  literal_form: snake that bites the man
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: chain of injuries ending in death
+  summary: 'A man is harmed in a rapid sequence: an egg blinds him, an ant stings
+    him when he tries to wash, he slips and falls from a ladder, and a snake bites
+    him so that he dies.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: classification of Indonesian trickster tales
+  summary: The author classifies the tales into a mouse-deer hero group and an ape
+    or tortoise leading-figure group, then describes their different geographical
+    distributions.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+- id: scene:3
+  label: origin conclusions for tale groups
+  summary: The author proposes that some mouse-deer tales derive from Indian sources,
+    some are local Indonesian developments perhaps modelled on Indian examples, and
+    the ape/tortoise tales are wholly or almost wholly local in origin.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+  - ev:11
+candidate_motifs:
+- id: motif:1
+  label: trickster-tale harm sequence
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The passage belongs to a section on trickster tales and describes a sequence
+    of harmful reversals that ends in the man's death.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The supplied excerpt gives only the ending of the individual tale, so
+    the trickster role and full narrative setup are not visible in this passage.
+- id: motif:2
+  label: animal trickster hero traditions
+  taxonomy_refs:
+  - trickster_boundary
+  basis: 'The passage identifies groups of trickster tales organized around animal
+    leading figures: mouse-deer, ape, and tortoise.'
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage summarizes tale groups rather than narrating individual mouse-deer,
+    ape, or tortoise episodes.
+- id: motif:3
+  label: snake bite causing death
+  taxonomy_refs:
+  - serpent
+  basis: The snake bites the man after he falls, and he dies.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The snake appears as an agent in a comic or punitive sequence; the passage
+    does not assign it broader serpent symbolism.
+comparison_claims:
+- id: claim:1
+  claim: The passage compares the mouse-deer group with Indian and Southeast Asian
+    tale traditions and states that some examples occur in Buddhist Jatakas and other
+    early Indian sources.
+  claim_level: historical_contact
+  target: Indian Buddhist Jatakas and other early Indian sources
+  evidence_refs:
+  - ev:10
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is the author's secondary-source conclusion; the excerpt does
+    not provide individual Indian parallels or textual details.
+- id: claim:2
+  claim: 'The passage distinguishes the mouse-deer group from the ape/tortoise group
+    by distribution: the first is linked to India and Indian-influenced Southeast
+    Asia and is not reported from Melanesia, while the second is rarer on the Asiatic
+    mainland and widely distributed in Melanesia.'
+  claim_level: same_function
+  target: regional distributions of Indonesian and Melanesian trickster tale groups
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  - ev:9
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The claim concerns distribution and broad tale-group function, not
+    proof that all examples share the same plot.
+- id: claim:3
+  claim: The passage proposes that some non-Indian examples in the mouse-deer group
+    are local Indonesian imitations of foreign tale models.
+  claim_level: historical_contact
+  target: local Indonesian tales modelled on Indian or foreign tale patterns
+  evidence_refs:
+  - ev:11
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as the author's belief and as a reasonable
+    explanation, not as a demonstrated case-by-case derivation.
+- id: claim:4
+  claim: The passage proposes that the ape/tortoise group is wholly or almost wholly
+    of local origin despite rare occurrences on the Asiatic mainland.
+  claim_level: independent_recurrence
+  target: ape or tortoise trickster tale group in eastern/northern Indonesia and Melanesia
+  evidence_refs:
+  - ev:9
+  - ev:11
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt does not give specific plots or evaluate possible transmission
+    routes; 'local origin' is the author's broad conclusion.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 9910-9913
+  quote_or_summary: An egg jumps from a cooking-pot into the man's face and blinds
+    him while fire is being lighted.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: 9913-9915
+  quote_or_summary: The man hurries to a water-vessel to wash his face, and an ant
+    stings him.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: 9915-9918
+  quote_or_summary: The man runs down a ladder, slips on dung, falls to the bottom,
+    is bitten by a snake, and dies.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: 9922-9928
+  quote_or_summary: 'The tales fall into two groups: those with the mouse-deer as
+    hero and those with the ape or tortoise as leading figure.'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:5
+  type: summary
+  locator: 9928-9931
+  quote_or_summary: The mouse-deer group is most fully represented in Java, Borneo,
+    and Sumatra, and is scarcely known in the Philippines.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: 9931-9934
+  quote_or_summary: The ape or tortoise group is best developed in Halmahera, Celebes,
+    and the Sangir Islands, is well represented in the Philippines, and decreases
+    from south to north.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: 9934-9937
+  quote_or_summary: According to the available material, neither tale group is known
+    among tribes with very little or no Indian cultural influence.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: 9952-9961
+  quote_or_summary: The first group is described as known in India and in Indian-influenced
+    areas of Southeast Asia, but not reported from Melanesia or farther east.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: summary
+  locator: 9962-9973
+  quote_or_summary: The ape or tortoise group is strongest in eastern and northern
+    Indonesia and the Philippines, rare on the Asiatic mainland, widely distributed
+    in Melanesia, and has at least one theme reported from eastern Polynesia.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:10
+  type: summary
+  locator: 9976-9982
+  quote_or_summary: The author concludes that one set in the first group is of Indian
+    origin, occurring in Buddhist Jatakas and other early sources, and introduced
+    into Indonesia by Hindu immigrants.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+- id: ev:11
+  type: summary
+  locator: 9982-9990
+  quote_or_summary: The author concludes that another set in the first group is local
+    Indonesian growth perhaps copied from Indian models, and that the second group
+    is wholly or almost wholly local in origin.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary comparative discussion with a brief tale ending.
+    Literal event extraction is direct; motif assignments are cautious because the
+    individual trickster tale begins before the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to the provided lists.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l9910-l9990
+  passage_sha256=0c24d0f3fec44de2dbbcdabe074561d26ba94cb0af27b262a720dbca91e79e7d
+

@@ -1,0 +1,323 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l17624-l17669
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: FRAGMENT OF A STARKAD LAY. / SCHOLIA, / WICKING SONGS. / APPENDIX TO THE
+    FIRST VOLUME.; lines 17624-17669
+  start: '17624'
+  end: '17669'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The excerpt first describes three Icelandic chiefs meeting in council in
+    1120 and gives a ditty about regional “head” figures who carry a concealed plot
+    and harbor hatred. It then shifts into appendix material listing duplicate or
+    double texts, including references to Grimnismal and Vafprudnismal, followed by
+    a short Old Norse textual fragment and editorial notes.
+  language: English with Old Norse fragments
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Three chiefs of Iceland, named Haftidi, Hall, and Thord Thorwaldson, are said
+    to be meeting in council in 1120.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'A ditty made about them names three regional figures or labels: “Amb”-head
+    from the North, Ork-head from the South, and Hart-head from the West.'
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The ditty says the regional “head” figures had a plot under their coats.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage says there was much talk when the wise men met, while deadly hate
+    was in “Amb”-head’s breast.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The appendix heading identifies a section on duplicate or double texts and
+    lists paired text references, including Grimnismal and Vafprudnismal.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: A short Old Norse textual fragment appears near the end of the excerpt, with
+    editorial notes including an “Edda (better)” reading and a reference to Seneca.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Haftidi
+  description: One of the three chiefs of Iceland named as meeting in council in 1120.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Hall
+  description: One of the three chiefs of Iceland named as meeting in council in 1120.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: Thord Thorwaldson
+  description: One of the three chiefs of Iceland named as meeting in council in 1120.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: "“Amb”-head from the North"
+  description: A regional “head” figure or label in the ditty; the passage attributes
+    deadly hate to “Amb”-head. The excerpt does not explicitly map this label to one
+    of the named chiefs.
+  role_refs:
+  - role:3
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Ork-head from the South
+  description: A regional “head” figure or label in the ditty. The excerpt does not
+    explicitly map this label to one of the named chiefs.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Hart-head from the West
+  description: A regional “head” figure or label in the ditty. The excerpt does not
+    explicitly map this label to one of the named chiefs.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: Icelandic chief
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The passage calls Haftidi, Hall, and Thord Thorwaldson the three chiefs of
+    Iceland.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: council participant
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  basis: The three named chiefs are said to meet in council in 1120.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: regional head-label in ditty
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The ditty labels figures as coming from the North, South, and West.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: holder of concealed plot
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The ditty says the three regional “head” figures had a plot under their coats.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: harbors deadly hate
+  assigned_to:
+  - fig:4
+  basis: The passage specifically says deadly hate was in “Amb”-head’s breast.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: threefold chief group
+  literal_form: three chiefs
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: concealing coats
+  literal_form: plot under their coats
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: three directional origins
+  literal_form: North, South, and West
+  associated_figures:
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: breast containing hate
+  literal_form: deadly hate in “Amb”-head’s breast
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Council of the three Icelandic chiefs
+  summary: Haftidi, Hall, and Thord Thorwaldson are presented as three Icelandic chiefs
+    meeting in council in 1120.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ditty of regional heads and hidden plot
+  summary: The ditty names three regional “head” figures from North, South, and West,
+    says they hold a plot under their coats, and singles out “Amb”-head as harboring
+    deadly hate.
+  figure_refs:
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Triadic council with concealed conspiracy
+  taxonomy_refs: []
+  basis: The passage sets up a council of three named chiefs and a ditty on them that
+    describes three regional “head” figures carrying a hidden plot.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt does not explicitly map each regional nickname to each named
+    chief, and no supplied taxonomy family clearly fits.
+- id: motif:2
+  label: Public deliberation masking deadly hostility
+  taxonomy_refs: []
+  basis: The ditty contrasts abundant talk when wise men meet with deadly hate hidden
+    in “Amb”-head’s breast.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is a local social or poetic pattern rather than a clear mythological
+    motif family in the supplied taxonomy.
+- id: motif:3
+  label: Regional figures converging from three directions
+  taxonomy_refs: []
+  basis: The ditty arranges three figures or labels by origin from the North, South,
+    and West.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: Only three directions are named, the East is absent, and the passage gives
+    no explicit symbolic meaning for the directional pattern.
+comparison_claims:
+- id: claim:1
+  claim: The appendix section identifies material from Grimnismal and Vafprudnismal
+    as part of a duplicate or double-text listing, supporting only an editorial textual-comparison
+    claim.
+  claim_level: linguistic_similarity
+  target: Grimnismal and Vafprudnismal text pair in the duplicate/double-text appendix
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt does not provide enough parallel text to extract a specific
+    shared narrative motif, nor does it support claims of historical contact or common
+    inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 17624-17625
+  quote_or_summary: The passage states that the three chiefs of Iceland, Haftidi,
+    Hall, and Thord Thorwaldson, are meeting in council in 1120.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:2
+  type: summary
+  locator: lines 17625-17630
+  quote_or_summary: The ditty names “Amb”-head from the North, Ork-head from the South,
+    and Hart-head from the West; it says they had a plot under their coats, and that
+    deadly hate was in “Amb”-head’s breast.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short names and neutral summary supplied.
+- id: ev:3
+  type: summary
+  locator: line 17631
+  quote_or_summary: A brief editorial note says that items 46 and 47 are interchanged.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:4
+  type: summary
+  locator: lines 17633-17658
+  quote_or_summary: The appendix heading introduces duplicate or double texts and
+    lists text-pair references, including a text from Grimnismal and a text from Vafprudnismal.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+- id: ev:5
+  type: summary
+  locator: lines 17660-17669
+  quote_or_summary: A short Old Norse fragment appears with editorial notes, including
+    an “Edda (better)” note and a reference to Seneca.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary supplied.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The opening ditty is brief and OCR-noisy, and much of the line range consists
+    of editorial appendix material rather than narrative mythic content. Nickname-to-chief
+    correspondences are not explicit in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol was assigned because the passage chiefly preserves a council/conspiracy ditty and editorial apparatus, not a clear match to the listed mythic families.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l17624-l17669
+  passage_sha256=34f6884a00acc46443bfd1d621f4337f3387f26e65dd5903dd02c4ac3989a2d2
+

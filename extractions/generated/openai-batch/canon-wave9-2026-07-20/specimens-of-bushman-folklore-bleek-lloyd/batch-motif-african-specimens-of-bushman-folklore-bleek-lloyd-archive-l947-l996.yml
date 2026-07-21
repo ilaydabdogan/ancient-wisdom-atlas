@@ -1,0 +1,241 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l947-l996
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: L. C. LLOYD. / INTRODUCTION. / XXY111 INTRODUCTION. / XXX INTKODTJCTION.;
+    lines 947-996
+  start: '947'
+  end: '996'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: certain men and animals could exchange their forms
+  summary: The introduction discusses a reported Bushman custom of not eating two
+    thigh-sinew pieces from an animal, says the volume explains the reason, and relates
+    it to a belief that men and animals could exchange forms or had formerly been
+    one another. It then comments on the value of the side-by-side Bushman text and
+    English translation for philology and transitions to a mythology section headed
+    “The Mantis.”
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: An early Dutch Cape Colony record is described in which some Bushmen ate almost
+    an entire animal, including the intestines, but rejected two small pieces of flesh
+    containing the sinews of the thighs.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: When questioned about rejecting those parts, the people reportedly answered
+    only that it was their custom not to eat them.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The introduction states that the volume gives the reason for this custom.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The introduction says the reason fits a belief that certain men and animals
+    could exchange forms, and that some animals were formerly men while some men were
+    formerly animals.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The introduction states that the original Bushman text is printed side by
+    side with the English translation.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage comments that the Bushman language had no numeral higher than
+    three, formed many noun plurals by reduplication, and had highly expressive verbs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The excerpt ends by introducing the section “Mythology, Fables, Legends, and
+    Poetry” and the heading “The Mantis.”
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Bushmen in early Dutch Cape Colony record
+  description: People described as eating nearly all of an animal while avoiding two
+    thigh-sinew pieces.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Certain men in the stated belief
+  description: Men described as able to exchange forms with animals, with some men
+    said to have formerly been animals.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: Certain animals in the stated belief
+  description: Animals described as able to exchange forms with men, with some animals
+    said to have formerly been men.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: custom-observing eaters
+  assigned_to:
+  - fig:1
+  basis: They are reported to eat most of the animal but to avoid specified thigh-sinew
+    flesh because of custom.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: form-exchanging beings
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage describes men and animals as capable of exchanging forms and
+    as formerly having been one another.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: rejected thigh-sinew pieces
+  literal_form: two little pieces of flesh containing the sinews of the thighs
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: exchanged human-animal form
+  literal_form: men and animals exchanging forms, with animals formerly men and men
+    formerly animals
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - shapeshifter
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Food avoidance in an early Cape record
+  summary: Some Bushmen are described as eating almost all parts of an animal but
+    leaving two small thigh-sinew pieces, and they explain only that this avoidance
+    is their custom.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Custom related to human-animal form exchange belief
+  summary: The introduction says the volume gives a reason for the food custom and
+    that the explanation fits a belief in men and animals exchanging forms or formerly
+    being one another.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Human-animal form exchange
+  taxonomy_refs:
+  - shapeshifter
+  basis: The passage explicitly states a belief that certain men and animals could
+    exchange forms, and that some animals had formerly been men while some men had
+    formerly been animals.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt reports the belief in introductory summary form; it does not
+    narrate a specific transformation episode.
+- id: motif:2
+  label: Customary avoidance of specific animal body parts
+  taxonomy_refs: []
+  basis: The passage describes a custom of not eating two small thigh-sinew pieces
+    from an animal and says the volume supplies a reason for it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The exact mythic explanation for the taboo is not included in this excerpt,
+    so interpretation should remain limited.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 947-955
+  quote_or_summary: Early Dutch Cape Colony records are said to describe some Bushmen
+    eating nearly all of an animal, including the intestines, while rejecting two
+    small pieces of flesh containing the sinews of the thighs.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 955-962
+  quote_or_summary: When questioned, they reportedly answered only that not eating
+    those parts was their custom; the introduction notes that no further explanation
+    was given in that record.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 962-969
+  quote_or_summary: The volume is said to give the reason for the custom and to fit
+    “the belief ... that certain men and animals could exchange their forms,” with
+    some animals formerly men and some men formerly animals.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for verification.
+- id: ev:4
+  type: summary
+  locator: lines 970-990
+  quote_or_summary: The introduction says the original Bushman text is printed beside
+    the English translation and comments on vocabulary, numerals, reduplicated plurals,
+    and expressive verbs.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: lines 992-996
+  quote_or_summary: The passage moves to “A. Mythology, Fables, Legends, and Poetry”
+    and the heading “1. The Mantis.”
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for section identification.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an introduction rather than a full narrative. The human-animal
+    form-exchange motif is explicit, but the underlying explanation for the food custom
+    is only referred to, not supplied, in this excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added because the excerpt itself only makes an internal connection between a custom and a general belief pattern.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l947-l996
+  passage_sha256=405005c862541351aa86aa1009d14c73f1e8d78c5a9598d2b097e57a1894b796
+

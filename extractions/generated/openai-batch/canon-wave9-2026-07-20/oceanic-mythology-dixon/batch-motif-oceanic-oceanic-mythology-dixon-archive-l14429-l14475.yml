@@ -1,0 +1,235 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l14429-l14475
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: CONCLUSION 307 / NOTES / NOTES / PART I; lines 14429-14475
+  start: '14429'
+  end: '14475'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage is a notes section with bibliographic references. Two notes
+    provide mythic details: one account identifies the sun as Maui''s eye and the
+    moon as his brother''s eye; another note says an apparently unique Polynesian
+    myth may resemble a Celebes account in which the sun, moon, and stars are made
+    from the body of a girl.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: One cited account makes the sun the eye of Maui.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The same cited account makes the moon the eye of Maui's brother.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A cited Celebes account says the sun, moon, and stars were made from the body
+    of a girl.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The note says the Polynesian myth under discussion was apparently not recorded
+    elsewhere in Polynesia and may resemble the Celebes account.
+  category: other
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Maui
+  description: Named figure whose eye is identified with the sun in one account.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maui's brother
+  description: Unnamed brother of Maui whose eye is identified with the moon in one
+    account.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: girl in the Celebes account
+  description: A girl whose body is said to become the source material for the sun,
+    moon, and stars.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: source or bearer of sun-eye
+  assigned_to:
+  - fig:1
+  basis: The note says the sun is Maui's eye.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: source or bearer of moon-eye
+  assigned_to:
+  - fig:2
+  basis: The note says the moon is the eye of Maui's brother.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: body-source of celestial bodies
+  assigned_to:
+  - fig:3
+  basis: The Celebes account says the sun, moon, and stars were made from the girl's
+    body.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: sun
+  literal_form: The sun, identified as Maui's eye in one account and as one of the
+    celestial bodies made from a girl's body in the Celebes account.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: moon
+  literal_form: The moon, identified as the eye of Maui's brother in one account and
+    as one of the celestial bodies made from a girl's body in the Celebes account.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: stars
+  literal_form: Stars made from the body of a girl in the cited Celebes account.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: eye
+  literal_form: A body part identified with the sun for Maui and with the moon for
+    Maui's brother.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: body of a girl
+  literal_form: The body of a girl from which the sun, moon, and stars are made in
+    the Celebes account.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Sun and moon identified as eyes
+  summary: A note reports an account in which the sun is Maui's eye and the moon is
+    his brother's eye.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Celestial bodies made from a girl's body
+  summary: A comparative note reports a Celebes account in which the sun, moon, and
+    stars are made from the body of a girl.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:5
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Sun and moon as eyes of sibling figures
+  taxonomy_refs:
+  - sibling_pair
+  basis: The note links the sun to Maui's eye and the moon to the eye of Maui's brother.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The excerpt gives only a note, not the full narrative context.
+- id: motif:2
+  label: Celestial bodies formed from a human body
+  taxonomy_refs: []
+  basis: The Celebes account says the sun, moon, and stars were made from the body
+    of a girl.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is presented as a comparative parallel from Celebes, not as the primary
+    Polynesian narrative in the excerpt.
+comparison_claims:
+- id: claim:1
+  claim: The author cautiously notes a possible resemblance between the Polynesian
+    myth under discussion and a Celebes account in which the sun, moon, and stars
+    are made from a girl's body.
+  claim_level: same_motif
+  target: Celebes account of the sun, moon, and stars being made from the body of
+    a girl
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The excerpt does not reproduce the primary Polynesian myth being compared
+    and says it was apparently not recorded elsewhere in Polynesia.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 14442-14444; note 98
+  quote_or_summary: '"One account makes the sun the eye of Maui, and the moon that
+    of his brother"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: lines 14453-14457; note 103
+  quote_or_summary: '"This myth, apparently not recorded elsewhere in Polynesia, shows
+    possible resemblances to one from Celebes, according to which the sun, moon, and
+    stars were made from the body of a girl"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is mainly bibliographic notes; only two notes contain extractable
+    mythic content. Motif identifications are therefore limited and should be checked
+    against the full cited narratives.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, objects, or comparisons were inferred beyond the provided passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l14429-l14475
+  passage_sha256=519e1603dbbaa75bf723dfd63eb6ad14b10eafa865968eab896a21edd0148501
+

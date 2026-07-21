@@ -1,0 +1,214 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l19671-l19781
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SECOND  SONG / THE    OMAHA   TRIBE / THE    QUEST    OF    FOOD / J        J;
+    lines 19671-19781
+  start: '19671'
+  end: '19781'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Ethonbe ake da ha ha ha, cae tithe awathe
+  summary: A repeated Omaha song text is given with musical notation and an English
+    literal glossary. The glosses include appearing, a first-person return, sudden
+    making of voice-like noise, gratefulness, and murmuring like many people speaking
+    in low tones.
+  language: Omaha transliteration with English glosses
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage presents a song text with musical notation and repeated transliterated
+    lines.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The literal glossary defines a term for appearing and a first-person phrase
+    meaning return.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The literal glossary defines a voice-like noise and says the first-person
+    speaker makes it suddenly.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: One repeated verse uses a term glossed as grateful.
+  category: attribute
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: obs:5
+  text: One repeated verse uses a term glossed as murmuring like many people speaking
+    in low tones.
+  category: speech
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:6
+  text: The repeated groups of lines substitute the terms glossed as voice-like noise,
+    grateful, and murmur within the same song formula.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: unidentified first-person speaker
+  description: 'A first-person voice is present in the literal glosses: ''I return''
+    and ''I make them.'''
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: unidentified many people or voices
+  description: The glosses refer to noise made by voices and to murmuring as many
+    people talking in low tones.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: returning and causing speaker
+  assigned_to:
+  - fig:1
+  basis: The literal translation glosses 'ake' as 'I return' and 'awathe' as 'I make
+    them.'
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: voice or murmuring group
+  assigned_to:
+  - fig:2
+  basis: The glossary describes voice-like noise and murmuring by many people talking
+    in low tones.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: voice-like noise
+  literal_form: noise as made by voices
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: murmur
+  literal_form: murmur as many people talking in low tones
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: return
+  literal_form: first-person return in the sung phrase
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Repeated song formula of appearing, return, and voices
+  summary: The song repeats a formula glossed with appearing and first-person return,
+    followed by sudden making of a voice-like noise, gratefulness, or murmuring.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: first-person return in song
+  taxonomy_refs:
+  - return
+  basis: The literal glossary explicitly renders part of the repeated song phrase
+    as 'I return.'
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is a song fragment and glossary, not a narrative account of
+    departure and return.
+- id: motif:2
+  label: collective murmur or voices in ritual song
+  taxonomy_refs: []
+  basis: The song substitutes terms glossed as voice-like noise and murmuring by many
+    people within repeated lines.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage does not explain the ritual function or identify the speakers
+    beyond the glossary.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 19671-19781
+  quote_or_summary: The passage contains musical notation and repeated Omaha transliterated
+    song lines, followed by a literal translation glossary.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short summary used.
+- id: ev:2
+  type: quote
+  locator: lines 19671-19781, Literal translation item 1
+  quote_or_summary: '"Ethonbe, appear; ake... I return... cae, noise, as made by voices;
+    tithe, suddenly; awathe, I make them."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 19671-19781, Literal translation item 2
+  quote_or_summary: '"Wezhnon, grateful."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:4
+  type: quote
+  locator: lines 19671-19781, Literal translation item 3
+  quote_or_summary: '"Gthongthon, murmur, as many people talking in low tones."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; short excerpt used.
+- id: ev:5
+  type: summary
+  locator: lines 19671-19781, repeated song lines before Literal translation
+  quote_or_summary: The repeated song groups use the same formula while substituting
+    the terms later glossed as voice-like noise, grateful, and murmur.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source metadata; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is mainly a song transcription and literal glossary. Motif extraction
+    is limited to explicit glossed terms such as return, voices, gratefulness, and
+    murmur.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context or taxonomy IDs beyond those supplied were used.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l19671-l19781
+  passage_sha256=e30bd98b903c1607a67999fdc28fe4835d2a3c926fc0be2b23a4ab4c8ced726d
+

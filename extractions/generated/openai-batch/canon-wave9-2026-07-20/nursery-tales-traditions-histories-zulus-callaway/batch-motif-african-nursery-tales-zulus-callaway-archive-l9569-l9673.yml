@@ -1,0 +1,411 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l9569-l9673
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: UGUNGQU-KUBANTWAXA. / UGUNGQU-KUBANTWANA. / UGUNGQU-KUBANTWANA. / U GUN G
+    QU-KU BAN T W ANA.; lines 9569-9673
+  start: '9569'
+  end: '9673'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A traveling man reaches a group of izingogo at a river bank, imitates them,
+    and is accepted by the old ones despite the young ones' suspicion that he has
+    human features. At their kraal, where an old grandmother lives, hunting parties
+    leave and return. The newcomer claims stomach pain, remains behind, sends the
+    young ones to fetch water with a leaking vessel, then kills the grandmother and
+    removes her liver.
+  language: English translation with Zulu terms
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man travels carrying loaves, sleeps in the open air, and reaches a place
+    where many izingogo are playing by a river bank.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man approaches the izingogo by running and going on his hands and feet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The old izingogo identify the newcomer as an ingogo, while the young ones
+    point out human-like hair, eyes, ears, and nostrils and privately deny that he
+    is an ingogo.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the kraal there is an old grandmother.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The young ones do not want to leave the grandmother alone with the person
+    who has come.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The newcomer hunts with the old ones and asks for a leg of meat to be set
+    aside because he says his stomach hurts.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The next morning he again says his stomach is painful and remains behind while
+    the others go hunting.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:8
+  text: He sends the young ones to fetch water from the river.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The water-vessel leaks through a hole in the bottom, delaying the young ones
+    until midday.
+  category: object
+  evidence_refs:
+  - ev:6
+- id: obs:10
+  text: After the young ones leave, the newcomer takes a spear, kills the grandmother
+    of the absent izingogo, cuts open her body, and removes the liver.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: the man / newly arrived ingogo
+  description: A traveling man with human features who imitates an ingogo, is accepted
+    by the old izingogo, claims stomach pain, stays behind, and kills the grandmother.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:5
+  - ev:7
+- id: fig:2
+  name_or_label: old izingogo
+  description: Older members of the izingogo who call the newcomer their ingogo and
+    go hunting.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:3
+  name_or_label: young izingogo / little ones
+  description: Young members of the izingogo who notice the newcomer's human features,
+    privately doubt him, resist leaving the grandmother alone, and are sent to fetch
+    water.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: grandmother
+  description: An old grandmother at the kraal, killed while the old izingogo are
+    away.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:7
+roles:
+- id: role:1
+  label: disguised or pretending outsider
+  assigned_to:
+  - fig:1
+  basis: The man imitates the movements of the izingogo, is accepted by the old ones,
+    but is suspected by the young ones because of his human features.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: elder hunters and hosts
+  assigned_to:
+  - fig:2
+  basis: The old izingogo accept the newcomer and repeatedly go hunting.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:3
+  label: skeptical young witnesses
+  assigned_to:
+  - fig:3
+  basis: The young ones point out human features, privately say he is not an ingogo,
+    and fear leaving the grandmother with him.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: elderly household victim
+  assigned_to:
+  - fig:4
+  basis: The grandmother is old, remains at the kraal, and is killed while others
+    are absent.
+  evidence_refs:
+  - ev:3
+  - ev:7
+symbols:
+- id: sym:1
+  label: river and water
+  literal_form: River bank where the izingogo play; river water fetched in a vessel
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: leaking water-vessel
+  literal_form: A water-vessel with a hole in the bottom
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:3
+  label: spear
+  literal_form: A spear taken by the newcomer before killing the grandmother
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:4
+  label: liver
+  literal_form: The grandmother's liver, removed after she is killed
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+- id: sym:5
+  label: human bodily markers
+  literal_form: Hair, eyes, ears, and nostrils like a man
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Encounter at the river bank
+  summary: The man finds the izingogo playing by a river bank, imitates their movement,
+    and is accepted by the old ones while the young ones suspect his human features.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Arrival at the kraal
+  summary: At the kraal, an old grandmother is present; the old ones go hunting, and
+    the young ones object to leaving her alone with the newcomer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Illness claim and water errand
+  summary: After hunting with the old ones, the newcomer claims stomach pain. The
+    next morning he stays behind and sends the young ones to fetch water; their leaking
+    vessel delays them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Killing of the grandmother
+  summary: Once the young ones are away, the newcomer takes a spear, kills the grandmother,
+    cuts open her body, and removes her liver.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Disguised outsider among nonhuman hosts
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The man imitates the ingogo manner of movement, is accepted by older izingogo,
+    and remains in their household despite the young ones' doubts.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The passage shows imitation and social misrecognition, not a literal transformation.
+- id: motif:2
+  label: Young observers detect the disguised intruder
+  taxonomy_refs: []
+  basis: The young ones notice that the supposed ingogo has human-like features and
+    privately say he is not an ingogo, while the old ones accept him.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: No external motif index reference is supplied in the request.
+- id: motif:3
+  label: Water errand delayed by defective vessel
+  taxonomy_refs: []
+  basis: The newcomer sends the young ones for water, and their vessel leaks through
+    a hole, delaying their return until midday.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The passage does not explicitly state that the newcomer knew the vessel
+    would leak.
+- id: motif:4
+  label: Claimed illness creates separation from the group
+  taxonomy_refs: []
+  basis: The newcomer claims stomach pain when meat is served and again the next morning,
+    allowing him to remain behind when the others go hunting.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage reports his claim of pain but does not explicitly say the
+    pain is feigned.
+- id: motif:5
+  label: Killing of household elder and removal of liver
+  taxonomy_refs: []
+  basis: While the old izingogo are away and the young ones are delayed, the newcomer
+    kills the grandmother and removes her liver.
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage excerpt does not explain the purpose of taking the liver.
+comparison_claims:
+- id: claim:1
+  claim: The episode can be cautiously grouped with a trickster-boundary pattern because
+    an outsider performs the identity of another kind of being, is accepted by some
+    household members, and then violates the household's safety.
+  claim_level: same_function
+  target: trickster_boundary motif family
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives no evidence for historical contact, common inheritance,
+    or a wider comparative corpus link; it also describes imitation rather than explicit
+    shapeshifting.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9569-9673, opening journey and river-bank encounter
+  quote_or_summary: The man travels with loaves, sleeps in the open air, reaches the
+    new moon, and finds many izingogo leaping and playing on a river bank.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9569-9673, recognition dispute
+  quote_or_summary: The man approaches by running and going on hands and feet; the
+    old izingogo call him an ingogo, while the young ones cite his human-like hair,
+    eyes, ears, and nostrils and privately say he is not an ingogo.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9569-9673, kraal and first hunt
+  quote_or_summary: At the kraal there is an old grandmother; the old ones go hunting,
+    and the young ones say they do not want to leave the grandmother alone with the
+    person who has come.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9569-9673, hunt with the izingogo
+  quote_or_summary: The newcomer hunts with the old ones; when the game is cooked,
+    he asks that a leg be set aside for him because he has stomach pain and cannot
+    eat meat then.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9569-9673, second morning
+  quote_or_summary: The next morning he says his stomach is still painful; the old
+    ones go hunting, he remains with the young ones, and he sends them to fetch water
+    from the river.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9569-9673, leaking vessel
+  quote_or_summary: The water-vessel has a hole in the bottom and leaks, causing the
+    young ones to take a long time at the river until midday.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+- id: ev:7
+  type: summary
+  locator: lines 9569-9673, killing of the grandmother
+  quote_or_summary: After the young ones go out, the newcomer rises, takes a spear,
+    kills the grandmother of the absent izingogo, cuts open the chest and bowels,
+    and removes the liver.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is OCR-fragmented and includes headings or notes embedded in
+    the text. Core actions are clear, but some locators within the line range are
+    approximate and the nature of the izingogo is not defined in the excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The term ingogo/izingogo is left untranslated and is treated only according to its function in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l9569-l9673
+  passage_sha256=48b0931dd0f6fed82b1715f9a72c5795597bb43f7902c5a97d4db0d0545958e4
+

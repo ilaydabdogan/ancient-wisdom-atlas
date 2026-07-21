@@ -1,0 +1,479 @@
+---
+record_id: batch.motif.zoroastrian-pahlavi-bundahis-west-archive-l15880-l15962
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+passage_locator:
+  label: Chapter VII. / CHAPTER VII, 2-8. 299 / Chapter VI 1 1. / CHAPTER VII, 9-VIII,
+    3. 301; lines 15880-15962
+  start: '15880'
+  end: '15962'
+  translation: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives rules for atoning mortal sin through confession to high-priests,
+    surrender of body and wealth, renunciation, priestly decision, punishment, and
+    possible execution. It also states that certain non-atoning ceremonial worship
+    is demon worship, that ritual merit may go to the angels' store and benefit a
+    righteous-minded soul in spiritual existence, and that hunting is restricted by
+    status and wealth.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A soul is to be atoned for among the high-priests; when their commands are
+    followed, sin departs and later good works attain completion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The sin of a person worthy of death is to be confessed to the high-priests,
+    and that person is to deliver up his body to them rather than to anyone else.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage says hunting is not the business of horsemen and is not allowable
+    for others except a person whose wealth is less than three hundred stirs.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Ceremonial worship by those worthy of death is called demon worship when it
+    is not performed as a renunciation of sin.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:5
+  text: If the officiating priest does not know the character of that ceremonial,
+    its merit goes to the angels' store, and the angels give the enjoyment from that
+    merit in spiritual existence to the soul of a person righteous in mind.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:6
+  text: When a mortal sinner delivers body and wealth to the high-priests, mentally
+    renounces the sin, and receives their decision about duty and good works, previously
+    performed duty and good works come back to him.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: Punishment for three nights is said to prevent the mortal sinner from entering
+    hell.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: If the high-priest orders the sinner's head cut off, the sinner is righteous
+    on the spot and a three-nights ceremony is to be celebrated for him.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: the soul
+  description: The soul is to be atoned for, may receive enjoyment from ritual merit
+    in spiritual existence, and is connected with avoidance of hell.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: fig:2
+  name_or_label: high-priests
+  description: They receive confession, body, and wealth; command the penitent; give
+    decisions about duty and good works; inflict punishment or order beheading.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:3
+  name_or_label: person worthy of death / mortal sinner
+  description: A person who has committed a death-worthy sin, confesses, delivers
+    body and wealth to the high-priests, renounces sin, undergoes punishment, and
+    may be beheaded.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: fig:4
+  name_or_label: officiating priest
+  description: The officiating priest may not know that the ceremonial worship is
+    demon worship.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:5
+  name_or_label: angels
+  description: They have a store that receives ritual merit and give the enjoyment
+    from that merit to a soul in spiritual existence.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:6
+- id: fig:6
+  name_or_label: horsemen
+  description: Because of their dexterity, the passage says hunting is not their business.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: person whose wealth is less than three hundred stirs
+  description: This person is named as the exception for whom hunting game is allowable.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: priestly atonement authority
+  assigned_to:
+  - fig:2
+  basis: High-priests command atonement, receive confession and surrendered body or
+    wealth, decide duties and good works, and may order punishment or execution.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: penitent mortal sinner
+  assigned_to:
+  - fig:3
+  basis: The sinner confesses, surrenders body and wealth, renounces sin, receives
+    a priestly decision, and undergoes punishment or execution.
+  evidence_refs:
+  - ev:2
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:3
+  label: soul subject to atonement and afterlife outcome
+  assigned_to:
+  - fig:1
+  basis: The soul is atoned for, may receive spiritual enjoyment from merit, and is
+    associated with avoiding hell.
+  evidence_refs:
+  - ev:1
+  - ev:6
+  - ev:8
+- id: role:4
+  label: ritual officiant lacking knowledge
+  assigned_to:
+  - fig:4
+  basis: The officiating priest is specifically mentioned as not knowing the character
+    of the ceremonial worship.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: custodians and distributors of ritual merit
+  assigned_to:
+  - fig:5
+  basis: The merit goes to the angels' store, and they give enjoyment from it in spiritual
+    existence.
+  evidence_refs:
+  - ev:6
+- id: role:6
+  label: excluded hunters
+  assigned_to:
+  - fig:6
+  basis: Horsemen are said not to have hunting as their business.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: wealth-qualified hunting exception
+  assigned_to:
+  - fig:7
+  basis: A person whose wealth is less than three hundred stirs is the stated exception
+    to the hunting prohibition.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: three nights
+  literal_form: A three-night interval of punishment and ceremony, also linked in
+    the note with other-world punishment.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+  - ev:9
+- id: sym:2
+  label: hell
+  literal_form: An afterlife destination that the punished mortal sinner does not
+    enter.
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:3
+  label: angels' store
+  literal_form: The store or treasury of the angels that receives ritual merit.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: surrendered body and wealth
+  literal_form: The mortal sinner's body and wealth delivered to the high-priests.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:7
+- id: sym:5
+  label: three hundred stirs
+  literal_form: A stated wealth threshold that defines the hunting exception.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: cutting off the head
+  literal_form: The high-priest's ordered beheading of the mortal sinner.
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+scenes:
+- id: scene:1
+  label: Confession and atonement before high-priests
+  summary: A soul is atoned for among high-priests; a person guilty of a death-worthy
+    sin confesses to them and delivers up his body to them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Restriction on hunting
+  summary: Hunting is forbidden to horsemen and generally to others, with an exception
+    for someone whose wealth is below three hundred stirs.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Ritual merit redirected to angels
+  summary: Ceremonial worship by death-worthy persons not performed as renunciation
+    is called demon worship; if the officiating priest is unaware, its merit goes
+    to the angels' store and benefits a righteous-minded soul in spiritual existence.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Punishment, hell avoidance, and possible execution
+  summary: A mortal sinner who surrenders body and wealth, renounces sin, and receives
+    priestly direction has former good works restored; three-night punishment prevents
+    entry into hell, and if the high-priest orders beheading the sinner is declared
+    righteous immediately and receives a three-nights ceremony.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Priestly confession and atonement for mortal sin
+  taxonomy_refs: []
+  basis: The passage links confession to high-priests, surrender of the body, obedience
+    to priestly commands, renunciation, and decisions about duty and good works with
+    removal of sin and restoration of good works.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:7
+  confidence: high
+  cautions: This is a legal-ritual pattern within the passage, not a narrative episode.
+- id: motif:2
+  label: Temporal punishment averting afterlife punishment
+  taxonomy_refs:
+  - divine_judgment
+  basis: Three-night punishment is said to prevent entry into hell, and the note explains
+    it as saving the sinner from a three-night punishment in the other world.
+  evidence_refs:
+  - ev:8
+  confidence: medium
+  cautions: No divine judge is named in this passage; the taxonomy reference is broad
+    and should be reviewed.
+- id: motif:3
+  label: Ritual merit stored and dispensed by angels
+  taxonomy_refs:
+  - sacred_exchange
+  basis: Merit from a ceremonial is said to go to the angels' store, and angels give
+    the resulting enjoyment in spiritual existence to a righteous-minded soul.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage describes ritual accounting and distribution of merit; the
+    broader sacred-exchange label is interpretive.
+- id: motif:4
+  label: Improper ritual becomes demon worship
+  taxonomy_refs:
+  - duality
+  basis: Ceremonial worship by those worthy of death, when not done as renunciation
+    of sin, is explicitly identified as demon worship.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states the demon-worship classification but does not elaborate
+    a full cosmic dualist narrative here.
+- id: motif:5
+  label: Hunting restricted by wealth threshold
+  taxonomy_refs: []
+  basis: The passage prohibits hunting to horsemen and generally to others, except
+    for a person whose wealth is less than three hundred stirs.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: This is an embedded social-legal rule; the translator notes it is out
+    of place in the surrounding context.
+comparison_claims:
+- id: claim:1
+  claim: The passage's three-night temporal punishment is explicitly linked by the
+    translator's note to a three-night punishment in the other world in Bund. XXX,
+    16, suggesting a related functional pattern of substituting earthly punishment
+    for afterlife punishment.
+  claim_level: same_function
+  target: Bund. XXX, 16, as cited in the translator's note
+  evidence_refs:
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The compared passage is only cited in the note and is not included
+    in the supplied passage text; the link is mediated by the translator's explanation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §1
+  quote_or_summary: A soul is to be atoned for among high-priests; following their
+    commands causes sin to depart and later good works to attain completion.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §2
+  quote_or_summary: A death-worthy sin is confessed to the high-priests, and the sinner
+    delivers up his body to them, not to others.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §3 and note
+  quote_or_summary: Hunting is said not to be the business of horsemen and is allowed
+    only for someone whose wealth is less than three hundred stirs; the note says
+    the section is intended to preserve game for the poor and appears out of place.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 15880-15962; note on marg-arzan
+  quote_or_summary: The note explains a marg-arzan sin as a mortal or death-worthy
+    sin by which the person has forfeited his life and should place it at the disposal
+    of the high-priest.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:5
+  type: quote
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §4
+  quote_or_summary: Ceremonial worship of those worthy of death, when not performed
+    as renunciation of sin, is described as "demon worship."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §4
+  quote_or_summary: If the officiating priest does not know, the merit of the ceremonial
+    goes to the angels' store, and angels give the enjoyment from that merit in spiritual
+    existence to the soul of a person righteous in mind.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §5
+  quote_or_summary: A mortal sinner who delivers body and wealth to the high-priests,
+    mentally renounces the sin, and receives their decision about duty and good works
+    has earlier duty and good works restored.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §5 and note
+  quote_or_summary: Punishment for three nights is said to mean the sinner does not
+    enter hell; the note interprets this as temporal punishment saving him from the
+    three-night punishment in the other world mentioned in Bund. XXX, 16.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+- id: ev:9
+  type: summary
+  locator: lines 15880-15962; CHAPTER VII, 9-VIII, 3, §6
+  quote_or_summary: If the high-priest orders cutting off the sinner's head, the sinner
+    is righteous on the spot and the three-nights ceremony is to be celebrated for
+    him.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  rights_note: Public domain translation; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is legal-ritual and includes editorial notes; motif labels are
+    therefore cautious. The supplied excerpt begins after earlier context and ends
+    mid-sentence, so some surrounding context is unavailable.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references were limited to available references and marked cautiously where broad.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-pahlavi-bundahis-west-archive__l15880-l15962
+  passage_sha256=3802ea59ddc9910a0735e1daa092c21aceefe3378ddf61cfce55e2adcf7caf5d
+

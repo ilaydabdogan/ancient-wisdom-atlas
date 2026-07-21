@@ -1,0 +1,281 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l7801-l7817
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD V. 55 / FARGARD V. 57 / FARGARD V. 59 / FARGARD V. 6 1; lines 7801-7817
+  start: '7801'
+  end: '7817'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A question asks when fire may be brought back into a house where a man
+    has died. Ahura Mazda answers that the prescribed waiting period is nine nights
+    in winter and one month in summer. A second question asks the penalty for bringing
+    the fire back sooner, and Ahura Mazda states a Peshotanu penalty of two hundred
+    stripes with each of two named implements.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage concerns a house in which a man has died.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A question asks when fire should be brought back into that house.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Ahura Mazda answers that the fire should be brought back after nine nights
+    in winter or after a month in summer.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A second question asks what penalty applies if the fire is brought back within
+    the prohibited winter or summer period.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Ahura Mazda answers that the offenders shall be Peshotanus and receive two
+    hundred stripes with the Aspaheastra and two hundred stripes with the Sraosho-ztarana.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: 'The waiting period differs by season: winter is measured by nine nights,
+    while summer is measured by a month.'
+  category: attribute
+  evidence_refs:
+  - ev:2
+figures:
+- id: fig:1
+  name_or_label: Ahura Mazda
+  description: Named speaker who answers the questions about the return of fire and
+    the penalty.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Unnamed questioner addressing the Holy One
+  description: Speaker who asks when the fire should be returned and what penalty
+    applies if it is returned too early.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: The man who has died
+  description: The deceased man associated with the house in which the rule applies.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Unspecified people who bring back the fire
+  description: The plural actors referred to as those who may bring the fire back
+    into the house and who may incur the penalty.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: divine respondent and lawgiver
+  assigned_to:
+  - fig:1
+  basis: Ahura Mazda gives the rule for when fire may return and states the penalty
+    for violation.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:2
+  label: ritual questioner
+  assigned_to:
+  - fig:2
+  basis: The speaker asks procedural and penalty questions regarding a house where
+    a man has died.
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: role:3
+  label: deceased person
+  assigned_to:
+  - fig:3
+  basis: The rule is tied to the house where the man has died.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:4
+  label: ritual actors subject to penalty
+  assigned_to:
+  - fig:4
+  basis: The passage refers to those who bring the fire back too soon and states their
+    penalty.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: fire
+  literal_form: Fire brought back into a house after a death.
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: house where a man has died
+  literal_form: The house in which the man has died.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: seasonal waiting periods
+  literal_form: Nine nights in winter and a month in summer.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: penalty implements
+  literal_form: The Aspaheastra and the Sraosho-ztarana, named as implements with
+    which stripes are administered.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Rule for returning fire after death
+  summary: The questioner asks when fire may be returned to a house where a man has
+    died, and Ahura Mazda prescribes waiting nine nights in winter or a month in summer.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Penalty for returning fire too early
+  summary: The questioner asks the penalty for bringing fire back within the prohibited
+    period, and Ahura Mazda states a Peshotanu penalty of two hundred stripes with
+    each of two named implements.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: delayed return of fire after a death in the house
+  taxonomy_refs: []
+  basis: The passage prescribes a waiting period before fire is brought back into
+    a house where a man has died.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage gives a ritual-legal prescription; it does not explain the
+    symbolic rationale.
+- id: motif:2
+  label: seasonally varied death-house waiting period
+  taxonomy_refs: []
+  basis: The permitted return of fire is delayed for nine nights in winter and for
+    a month in summer.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage states the seasonal distinction but does not interpret why
+    the durations differ.
+- id: motif:3
+  label: corporal penalty for premature ritual action
+  taxonomy_refs: []
+  basis: Bringing the fire back before the prescribed period results in a Peshotanu
+    penalty of specified stripes with named implements.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage identifies the penalty but does not provide broader narrative
+    context.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7801-7804
+  quote_or_summary: The question asks when fire should be brought back into the house
+    where a man has died.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 7806-7808
+  quote_or_summary: Ahura Mazda says they shall “wait for nine nights in winter, for
+    a month in summer,” and then bring back the fire.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 7810-7813
+  quote_or_summary: The question asks what penalty applies if the fire is brought
+    back within the nine nights or within the month.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 7815-7817
+  quote_or_summary: Ahura Mazda says the offenders shall be Peshotanus, with two hundred
+    stripes using the Aspaheastra and two hundred using the Sraosho-ztarana.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal ritual prescription is clear. Motif labels are descriptive rather
+    than linked to a supplied motif-family taxonomy. No comparison claims were made
+    because the passage itself does not support a comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy reference was applied only for the explicit fire symbol.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l7801-l7817
+  passage_sha256=ac8b6652338af8b76a1f0d0b79663f57677a4d9ea7343d1405f7be3b0c86ec9c
+

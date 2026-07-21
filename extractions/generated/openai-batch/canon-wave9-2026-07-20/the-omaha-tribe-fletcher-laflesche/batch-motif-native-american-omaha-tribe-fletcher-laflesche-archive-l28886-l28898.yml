@@ -1,0 +1,282 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l28886-l28898
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: WARFARE / THE   OMAHA   TRIBE / WARFARE / RETURN    OF    A    WAR    PARTY;
+    lines 28886-28898
+  start: '28886'
+  end: '28898'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes prescribed procedures for an authorized aggressive
+    Omaha war party returning from battle: it travels back by the same route, kindles
+    a fire near the village if successful so smoke signals victory, and uses a bodily
+    gesture to indicate that one man has been lost.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: An authorized aggressive war party was required to travel directly toward
+    its destination and, after battle, return by the same path.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the successful return journey, when the war party was near the village,
+    a fire was kindled.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The rising smoke from the fire signaled the victorious return of the warriors.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: If any member of the party had been killed, a member stepped to one side and
+    threw himself on the ground.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The act of throwing oneself on the ground indicated to the village the loss
+    of one man.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The supplied passage begins a further condition for more than one fallen member,
+    but the continuation is not included.
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: authorized aggressive war party
+  description: A collective war party returning from battle under prescribed rules.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: warriors
+  description: The returning members whose victorious return is signaled by smoke.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: member indicating loss
+  description: A member of the war party who steps aside and throws himself on the
+    ground if someone has been killed.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: village
+  description: The village receives the smoke signal of victory and the bodily signal
+    of loss.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:5
+  name_or_label: fallen party member
+  description: A party member whose death is indicated by the gesture of another member.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: prescribed outbound-and-return traveler
+  assigned_to:
+  - fig:1
+  basis: The war party is required to take a direct course and return by the same
+    path.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: victorious returnee
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The successful return of the warriors is signaled by rising smoke.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: loss signaler
+  assigned_to:
+  - fig:3
+  basis: A member steps aside and throws himself on the ground to indicate a death.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: signal recipient
+  assigned_to:
+  - fig:4
+  basis: The village is the audience to which victory and loss are indicated.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: war casualty
+  assigned_to:
+  - fig:5
+  basis: The passage refers to a party member who had been killed and to the loss
+    of one man.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: signal fire
+  literal_form: a fire kindled near the village on a successful return
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: rising smoke
+  literal_form: smoke rising from the kindled fire as a signal of victorious return
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: ground-fall gesture
+  literal_form: a member stepping aside and throwing himself on the ground
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Prescribed route of the war party
+  summary: The authorized aggressive war party is required to go directly to its destination
+    and return after battle by the same path.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Smoke signal of victorious return
+  summary: When the successful war party is close to the village, a fire is kindled
+    and its smoke signals the warriors' victorious return.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Gesture indicating a death
+  summary: If a member has been killed, another member steps aside and throws himself
+    on the ground, indicating to the village the loss of one man.
+  figure_refs:
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: return by the same prescribed path
+  taxonomy_refs:
+  - return
+  basis: The war party must return after battle by the same path it took outward.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is an ethnographic rule for warfare rather than a mythic narrative;
+    the taxonomy link to 'return' is literal and broad.
+- id: motif:2
+  label: fire and smoke announcing victorious return
+  taxonomy_refs: []
+  basis: A fire kindled near the village produces smoke that signals the warriors'
+    victorious return.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes a communication practice; no broader mythic interpretation
+    is stated.
+- id: motif:3
+  label: bodily gesture announcing combat loss
+  taxonomy_refs: []
+  basis: A member's act of stepping aside and throwing himself on the ground indicates
+    to the village that one man has been lost.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The supplied passage ends before completing the procedure for multiple
+    fallen members.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 28886-28890
+  quote_or_summary: An authorized aggressive war party was required to go directly
+    to its destination and, after battle, return by the same path.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 28890-28894
+  quote_or_summary: On a successful return, when close to the village, the war party
+    kindled a fire whose rising smoke signaled the victorious return of the warriors.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 28894-28898
+  quote_or_summary: If a party member had been killed, a member stepped aside and
+    threw himself on the ground, indicating to the village the loss of one man.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: note
+  locator: line 28898
+  quote_or_summary: The supplied extract ends after beginning the condition 'If more
+    than one had fallen,' so the continuation is unavailable in this record.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; note generated from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward, but the passage is procedural ethnography
+    and ends mid-sentence. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparison was added because the supplied passage does not itself support a historical or cross-traditional comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l28886-l28898
+  passage_sha256=b7caba960c62900a416881c0e6a0e4365bf4e7f86f572f9a568f73bce799e4f0
+

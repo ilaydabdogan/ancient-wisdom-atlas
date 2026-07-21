@@ -1,0 +1,189 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l16164-l16223
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: NOTES 327 / NOTES 333 / NOTES 335 / NOTES 339; lines 16164-16223
+  start: '16164'
+  end: '16223'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: This incident strongly resembles that of Maui’s return to his brothers
+  summary: The passage is a set of comparative notes. One note says an unnamed incident
+    resembles Maui’s return to his brothers. Another note cites other examples of
+    a life-token. Additional notes list other examples or versions of unspecified
+    incidents across several regional sources.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: A note states that an unspecified incident strongly resembles Maui’s return
+    to his brothers.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A note refers to “other examples of the life-token” and lists comparative
+    sources in Halmahera, Soemba, New Guinea, Torres Straits, and New Hebrides.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Other notes cite additional examples or versions of unspecified incidents
+    in Halmahera, the Philippines, Annam, Celebes, Bali, Lombok, Soemba, and related
+    regional sources.
+  category: relationship
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Maui
+  description: Named in the note as the figure whose return to his brothers is being
+    used for comparison.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Maui’s brothers
+  description: Mentioned as the brothers to whom Maui returns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: returning figure
+  assigned_to:
+  - fig:1
+  basis: The passage refers to “Maui’s return to his brothers.”
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: brothers of returning figure
+  assigned_to:
+  - fig:2
+  basis: The passage identifies the destination group as Maui’s brothers.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: life-token
+  literal_form: life-token
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Maui’s return to his brothers
+  summary: The note mentions Maui returning to his brothers as a comparable incident.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Return to brothers
+  taxonomy_refs:
+  - return
+  basis: The note explicitly mentions “Maui’s return to his brothers” as a comparable
+    incident.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives only a brief note and does not narrate the episode.
+- id: motif:2
+  label: Life-token
+  taxonomy_refs: []
+  basis: The note explicitly identifies comparative examples of the “life-token.”
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not describe how the life-token functions in any cited
+    story.
+comparison_claims:
+- id: claim:1
+  claim: The note says an unnamed incident strongly resembles Maui’s return to his
+    brothers.
+  claim_level: same_motif
+  target: Maui’s return to his brothers, cited as supra p. 42
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The extracted passage does not identify or describe the unnamed incident,
+    and it provides no details of Maui’s episode beyond the return to his brothers.
+- id: claim:2
+  claim: The note treats the life-token as a recurring comparative pattern by citing
+    other examples in several regional sources.
+  claim_level: same_motif
+  target: Life-token examples in Halmahera, Soemba, New Guinea, Torres Straits, and
+    New Hebrides sources
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage lists references but does not summarize the narratives
+    or token functions in the cited examples.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 16172-16173
+  quote_or_summary: "“This incident strongly resembles that of Maui’s return to his
+    brothers; see supra, p. 42.”"
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: summary
+  locator: lines 16175-16178
+  quote_or_summary: Note 46 cites “other examples of the life-token” in Halmahera
+    (Loda), Soemba, New Guinea (Goodenough Bay), Torres Straits, and New Hebrides
+    sources.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: lines 16184-16186
+  quote_or_summary: Note 49 cites other examples of an unspecified incident in Halmahera,
+    the Philippines (Tinguian), and Annam.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:4
+  type: summary
+  locator: lines 16190-16194
+  quote_or_summary: Note 51 cites other versions in Celebes, Toradja, Bugi, Halmahera,
+    the Sangir Islands, and the Philippines.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction evidence.
+- id: ev:5
+  type: summary
+  locator: lines 16196-16200
+  quote_or_summary: Note 52 cites other versions of an unspecified incident in Celebes,
+    Halmahera, Bali, Lombok, Soemba, the Philippines, and Annam.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: 'The passage is mostly bibliographic notes rather than narrative text. Motif
+    extraction is limited to explicitly named or compared items: Maui’s return to
+    his brothers and the life-token.'
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, scenes, or taxonomy references were inferred beyond the passage wording and supplied taxonomy list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l16164-l16223
+  passage_sha256=1ce7c1a90d3beba4c11471b16c7f344be59fd86076c9433dd0ebbca00497802f
+

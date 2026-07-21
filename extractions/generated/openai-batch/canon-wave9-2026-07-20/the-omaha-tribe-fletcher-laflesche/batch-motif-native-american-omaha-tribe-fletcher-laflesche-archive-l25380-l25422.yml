@@ -1,0 +1,311 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l25380-l25422
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIAL   LIFE / THE    OMAHA   TRIBE / SOCIAL   LIFE / INSTRUMENTS; lines
+    25380-25422
+  start: '25380'
+  end: '25422'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Omaha musical instruments: the large water drum,
+    the small drum, the eagle-bone whistle, and the cedar flute. It gives their materials,
+    construction, sound qualities, tuning or playing methods, and contexts of use,
+    including religious and secular songs, treatment of the sick, magical performances,
+    and parts of the Wa''wan ceremony.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The drum is described as the most important Omaha musical instrument and as
+    generally accompanying religious and secular songs.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The large drum, called ne'xegaku, is made from a hollowed section of tree,
+    partly filled with water containing charcoal, and covered with buffalo skin.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The large drum is tuned by tipping it to wet the skin cover with internal
+    water and then drying the cover before fire until the desired tone is produced.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The large drum can be beaten with a single strong stroke or with a rebounding
+    movement consisting of a strong stroke followed by a light one.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The small drum is made by stretching skin over a small hoop and is used by
+    the “doctors” when attending the sick and in magical performances.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The small drum is beaten with a small stick in rapid tapping, described as
+    an agitated pulsation.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The whistle is made from the wing bone of the eagle, has one opening and one
+    tone, and its repeated shrill sound simulates the call of the eagle.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The eagle-bone whistle is used only in certain parts of the Wa'wan ceremony.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The flute or flageolet is generally made of cedar, has six holes, and is expected
+    to produce a full vibrating tone when blown with all six holes closed.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: Men, old and young, are described as taking up a flute to test it.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: "“doctors”"
+  description: Practitioners who use the small drum when attending the sick and in
+    magical performances.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: men, old and young
+  description: Men described as taking up a flute to test it.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: healing and magical-performance practitioner
+  assigned_to:
+  - fig:1
+  basis: The passage states that the small drum was used by the “doctors” when attending
+    the sick and in magical performances.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: flute tester
+  assigned_to:
+  - fig:2
+  basis: The passage describes men, old and young, taking up a flute to test it.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: large water drum
+  literal_form: Large drum, ne'xegaku, made from a hollowed tree section, water with
+    charcoal, and buffalo skin.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: water used in drum tuning
+  literal_form: Water inside the drum used to wet the skin cover during tuning.
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: fire used in drum tuning
+  literal_form: Fire used to dry the wetted skin cover until the drum gives the desired
+    tone.
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: small doctor’s drum
+  literal_form: Small hoop drum covered with skin and used by “doctors” in sickness
+    attendance and magical performances.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: eagle-bone whistle
+  literal_form: Whistle made from the wing bone of the eagle, with one opening and
+    one shrill repeated tone imitating the eagle call.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: cedar flute with six holes
+  literal_form: Flute or flageolet generally made of cedar, with six holes and a required
+    full vibrating tone.
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: construction and tuning of the large drum
+  summary: The large Omaha drum is described as a hollowed tree section containing
+    water and charcoal with buffalo skin stretched over it; it is tuned by wetting
+    and drying the skin before fire.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: small drum in healing and magical use
+  summary: The small drum is described as a skin-covered hoop instrument used by “doctors”
+    attending the sick and in magical performances, played with rapid tapping.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: eagle-bone whistle in Wa'wan ceremony
+  summary: The whistle made from eagle wing bone produces a single repeated shrill
+    tone that simulates the eagle call and is used only in certain parts of the Wa'wan
+    ceremony.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: cedar flute description and testing
+  summary: The flute is described as a cedar instrument with six holes and an acceptable
+    full vibrating tone; men of different ages are observed testing flutes.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: ritual and social song accompaniment by drum
+  taxonomy_refs: []
+  basis: The passage states that the drum generally accompanied most Omaha songs,
+    both religious and secular.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is an ethnographic functional pattern rather than a myth narrative
+    motif.
+- id: motif:2
+  label: healing and magical-performance drum
+  taxonomy_refs: []
+  basis: The small drum is explicitly connected with “doctors,” treatment of the sick,
+    and magical performances.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage describes use, not a mythic episode or explanatory tale.
+- id: motif:3
+  label: ceremonial animal-call whistle
+  taxonomy_refs: []
+  basis: The eagle-bone whistle imitates the call of the eagle and is restricted to
+    certain parts of the Wa'wan ceremony.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage does not explain symbolic meaning for the eagle or the ceremony
+    beyond instrument use.
+- id: motif:4
+  label: sound-making instrument tuned by water and fire
+  taxonomy_refs: []
+  basis: The large drum is tuned by wetting the skin with water from inside the drum
+    and drying it before fire to obtain the desired tone.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: Water and fire are literal parts of the tuning process here; symbolic
+    interpretation is not stated in the passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 25380-25387
+  quote_or_summary: The drum is described as the most important Omaha musical instrument;
+    the large drum, ne'xegaku, is made from a hollowed tree section, water with charcoal,
+    and buffalo skin.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short summary used.
+- id: ev:2
+  type: summary
+  locator: lines 25388-25396
+  quote_or_summary: The large drum is tuned by wetting its skin cover from the water
+    inside and drying it before fire; its tones are full and clear, and it can be
+    beaten with single or rebounding strokes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short summary used.
+- id: ev:3
+  type: summary
+  locator: lines 25397-25402
+  quote_or_summary: The small drum is a skin stretched over a small hoop, used by
+    “doctors” attending the sick and in magical performances, and played with rapid
+    tapping.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short summary used.
+- id: ev:4
+  type: summary
+  locator: lines 25403-25409
+  quote_or_summary: The whistle is made from the wing bone of the eagle, has one opening
+    and one tone, imitates the eagle call, and is used only in certain parts of the
+    Wa'wan ceremony.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short summary used.
+- id: ev:5
+  type: summary
+  locator: lines 25410-25422
+  quote_or_summary: The flute or flageolet is generally made of cedar, has six holes,
+    must produce a full vibrating tone with all holes closed, and is tested by men,
+    old and young.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The instrument descriptions are explicit. Motif labels are limited to passage-level
+    functional patterns because the passage gives no myth narrative or comparative
+    claims.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added. Taxonomy symbol references were used only for literal water, fire, and tree/cedar elements present in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l25380-l25422
+  passage_sha256=57b4d504f82ef57ed8cc365094f23505bdb504be057e0d549bfccb6e61c94c9f
+

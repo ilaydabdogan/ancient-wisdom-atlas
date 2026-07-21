@@ -1,0 +1,503 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l2486-l2523
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: TRIBAL  CONCEPT;  THE  NAME  OMAHA / THE    PONCA    TRIBE0 / THE    OMAHA    TRIBE
+    / RITES  AND  CUSTOMS  OP  THE  GENTES; lines 2486-2523
+  start: '2486'
+  end: '2523'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A leader directs a servant to obtain a specific smooth-barked ash sapling.
+    In a council setting, several eagles successively drop downy feathers in the cleared
+    center; the white, bald, and spotted eagles are rejected, while the fantail or
+    imperial eagle is accepted. Its feathers, together with other bird, animal, plant,
+    and material articles, are used in making peace pipes intended to establish friendly
+    relations with other tribes. A note lists the nine articles and recommends comparison
+    with Omaha accounts of the Wa'wa pipes.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The leader instructs the appointed servant to go to the woods and bring back
+    an ash sapling.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A rough-barked sapling is rejected; the servant is then told to bring a sapling
+    with smooth bark and a bluish joint, and returns with one of that kind.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: A white eagle soars above the council and drops a downy feather that balances
+    in the center of the cleared space; the leader rejects it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: A bald eagle swoops down, balances over the cleared space, cries fiercely,
+    and drops a downy feather that stands on the ground; the leader rejects it.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A spotted eagle soars over the council and drops a feather that stands as
+    the earlier feathers did; the leader rejects it.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: An eagle with a fantail, identified parenthetically as the imperial eagle,
+    soars over the people and drops a downy feather that stands upright in the center
+    of the cleared space; the leader accepts it.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The feathers of the accepted eagle are said to be used in making peace pipes,
+    together with other birds, animals, and articles, making nine kinds in all.
+  category: relationship
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: obs:8
+  text: The pipes are said to be used for establishing friendly relations with other
+    tribes.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note says the account was obtained from chiefs and other prominent Ponca
+    and directs comparison with Omaha accounts of the Wa'wa pipes.
+  category: other
+  evidence_refs:
+  - ev:6
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: leader
+  description: The person directing the servant, evaluating the saplings and feathers,
+    and declaring which eagle feather is wanted.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: appointed servant
+  description: The man appointed by the leader to act as servant and sent to fetch
+    the ash sapling.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: white eagle
+  description: An eagle that soars over the council and drops a downy feather in the
+    center of the cleared space, but is rejected by the leader.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: bald eagle
+  description: An eagle that swoops down as if attacking prey, cries fiercely, and
+    drops a downy feather, but is rejected by the leader.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: spotted eagle
+  description: An eagle that soars over the council and drops a feather, but is rejected
+    by the leader.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: eagle with the fantail / imperial eagle
+  description: The eagle whose upright downy feather is accepted and whose feathers
+    are used in making the peace pipes.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:7
+  name_or_label: council / people
+  description: The seated council or people over whom the eagles soar and in whose
+    cleared space the feathers fall.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:8
+  name_or_label: other tribes
+  description: The groups with whom the peace pipes are intended to establish friendly
+    relations.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: ritual leader or director
+  assigned_to:
+  - fig:1
+  basis: The leader issues instructions, rejects or accepts materials, and declares
+    the wanted feather.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: role:2
+  label: appointed retriever of the ash sapling
+  assigned_to:
+  - fig:2
+  basis: The servant is appointed by the leader and sent to bring the ash sapling
+    from the woods.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: rejected feather-giving eagle
+  assigned_to:
+  - fig:3
+  - fig:4
+  - fig:5
+  basis: Each of these eagles drops a feather, after which the leader says it is not
+    what is wanted and the eagle passes on.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:4
+  label: accepted feather-giving eagle
+  assigned_to:
+  - fig:6
+  basis: The fantail or imperial eagle drops a feather and the leader says it is what
+    is wanted; its feathers are used for the peace pipes.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: council audience
+  assigned_to:
+  - fig:7
+  basis: The eagles soar above the council or people, and the feathers fall in the
+    cleared space where they are gathered.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:6
+  label: intended friendly counterparts
+  assigned_to:
+  - fig:8
+  basis: The peace pipes are described as being used to establish friendly relations
+    with other tribes.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: ash sapling
+  literal_form: A smooth-barked ash sapling with a bluish color at the joint.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: downy eagle feather
+  literal_form: A downy feather dropped by an eagle, repeatedly described as balancing
+    or standing in the center of the cleared space.
+  associated_figures:
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: white eagle
+  literal_form: The white eagle that drops a downy feather and then passes on after
+    rejection.
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: bald eagle
+  literal_form: The bald eagle that swoops down, cries fiercely, drops a feather,
+    and then passes on after rejection.
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: spotted eagle
+  literal_form: The spotted eagle that drops a feather and then passes on after rejection.
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: fantail or imperial eagle
+  literal_form: The eagle with the fantail, parenthetically identified as Aquila heliaca
+    Savigny, whose feather is accepted.
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: peace pipes / Wa'wa pipes
+  literal_form: Peace pipes made with the accepted eagle feathers and other articles,
+    intended for establishing friendly relations with other tribes.
+  associated_figures:
+  - fig:6
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: sym:8
+  label: nine articles
+  literal_form: Owl feathers, eagle feathers, woodpecker, rabbit, deer, ash tree,
+    paint, cat-tail, and sinew.
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:7
+- id: sym:9
+  label: cleared center space
+  literal_form: The center of the cleared space where the dropped feathers balance
+    or stand upright.
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+scenes:
+- id: scene:1
+  label: Selection of the ash sapling
+  summary: The leader sends the servant to obtain an ash sapling, rejects a rough-barked
+    one, and specifies a smooth-barked sapling with a bluish joint.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Rejected eagle feathers
+  summary: The white eagle, bald eagle, and spotted eagle each appear above the council
+    and drop a feather in the cleared space; each is rejected by the leader and passes
+    on.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:9
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Accepted fantail eagle feather
+  summary: The fantail or imperial eagle soars above the people, drops a downy feather
+    upright in the center of the cleared space, and is accepted by the leader.
+  figure_refs:
+  - fig:1
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:2
+  - sym:6
+  - sym:9
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Peace-pipe materials and function
+  summary: The accepted eagle's feathers, together with other articles, are described
+    as materials for peace pipes used in establishing friendly relations with other
+    tribes; the note lists nine articles.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Repeated rejection followed by correct ritual selection
+  taxonomy_refs: []
+  basis: The leader rejects the first sapling and then rejects the white, bald, and
+    spotted eagles before accepting the fantail eagle's feather as the wanted material.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage presents a sequence of selection and rejection but does not
+    explicitly name it as a test or omen.
+- id: motif:2
+  label: Ritual materials for peace-making relations
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The accepted eagle feathers and the listed articles are used to make peace
+    pipes whose stated purpose is establishing friendly relations with other tribes.
+  evidence_refs:
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: The taxonomy mapping to sacred_exchange is interpretive; the passage states
+    diplomatic use of ritual pipes but does not describe a transaction in detail.
+- id: motif:3
+  label: Birds provide feathers for a ritual object
+  taxonomy_refs: []
+  basis: Several eagles drop downy feathers in the council space, and the accepted
+    eagle's feathers become materials for peace pipes.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage does not explicitly state whether the eagles are supernatural
+    beings or ordinary birds within the account.
+- id: motif:4
+  label: Nine-part assemblage for a ceremonial object
+  taxonomy_refs: []
+  basis: 'The note identifies nine articles associated with the pipes: owl feathers,
+    eagle feathers, woodpecker, rabbit, deer, ash tree, paint, cat-tail, and sinew.'
+  evidence_refs:
+  - ev:7
+  confidence: high
+  cautions: The passage lists the articles but does not explain the meaning of the
+    number nine.
+comparison_claims:
+- id: claim:1
+  claim: The passage's own note recommends comparing this Ponca account of the introduction
+    to the Wa'wa pipes with Omaha accounts concerning receiving these pipes from the
+    Arikara and with an Omaha ceremony.
+  claim_level: same_function
+  target: Omaha account of receiving the Wa'wa pipes from the Arikara and the Omaha
+    ceremony referenced in the source note
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The excerpt provides only the comparison note and page references,
+    not the contents of the Omaha accounts, so no detailed motif equivalence or historical-contact
+    claim can be extracted from this passage alone.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2486-2492
+  quote_or_summary: The leader tells the appointed servant to get an ash sapling;
+    a rough-barked sapling is rejected, and a smooth-barked sapling with bluish color
+    at the joint is requested and brought back.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2493-2498
+  quote_or_summary: A white eagle soars above the council, drops a downy feather in
+    the center of the cleared space, and is rejected by the leader before passing
+    on.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2499-2504
+  quote_or_summary: A bald eagle swoops down as though attacking prey, cries fiercely,
+    drops a downy feather that stands on the ground, and is rejected by the leader
+    before passing on.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 2505-2508
+  quote_or_summary: A spotted eagle soars over the council, drops a feather that stands
+    like the earlier feathers, and is rejected by the leader before passing on.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 2509-2515
+  quote_or_summary: The fantail or imperial eagle soars over the people and drops
+    an upright downy feather; the leader accepts it, and the eagle's feathers are
+    described as materials for peace pipes used to establish friendly relations with
+    other tribes.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:6
+  type: citation
+  locator: line 2517
+  quote_or_summary: The account is identified as obtained from chiefs and other prominent
+    Ponca.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+- id: ev:7
+  type: summary
+  locator: lines 2518-2522
+  quote_or_summary: 'A note says this Ponca account of the introduction to the Wa''wa
+    pipes should be compared with Omaha accounts; it lists nine articles: owl feathers,
+    eagle feathers, woodpecker, rabbit, deer, ash tree, paint, cat-tail, and sinew.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The literal sequence, figures, objects, and stated pipe function are clear
+    in the passage. Motif labels involving ritual or sacred exchange require human
+    review because the passage does not provide a full interpretive explanation. The
+    only comparison claim is based on the passage's own editorial note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external taxonomy IDs beyond the provided motif and symbol references were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l2486-l2523
+  passage_sha256=cf4001d3f3f68d7c2b4883c6487625fb464ef6ce0d6e29e55b8111592e0ee248
+

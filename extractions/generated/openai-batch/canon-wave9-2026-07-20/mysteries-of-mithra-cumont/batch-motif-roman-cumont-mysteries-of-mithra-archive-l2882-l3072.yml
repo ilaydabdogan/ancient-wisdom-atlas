@@ -1,0 +1,157 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l2882-l3072
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: MITHRAISM    IN    THE    ROMAN    EMPIRE  57 / MITHRAISM    IN    THE    ROMAN    EMPIRE  59
+    / MITHRAISM    IN    THE    ROMAN    EMPIRE  63 / MITHRAISM    IN    THE    ROMAN    EMPIRE  65;
+    lines 2882-3072
+  start: '2882'
+  end: '3072'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: all the Asiatic religions soon had here their chapels and their congregations
+    of devotees.
+  summary: The passage fragment states that Ostia inherited prosperity from a Campanian
+    rival and that Asiatic religions soon had chapels and congregations of devotees
+    there. Much of the excerpt consists of page headers, OCR noise, and a figure reference.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The excerpt identifies Ostia as the city under discussion.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The text says the city inherited the prosperity of its Campanian rival.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The text says Asiatic religions soon had chapels in the city.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The text says Asiatic religions soon had congregations of devotees in the
+    city.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The excerpt includes a reference to “Fig. 17.”
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Ostia
+  description: A city said to have inherited prosperity and to have hosted chapels
+    and congregations of Asiatic religions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Asiatic religions
+  description: Religions described collectively as having chapels and congregations
+    of devotees at Ostia.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Congregations of devotees
+  description: Groups of devotees associated with the Asiatic religions at Ostia.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: urban setting
+  assigned_to:
+  - fig:1
+  basis: Ostia is the named city where the religious chapels and congregations are
+    located.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: religious groups present in the city
+  assigned_to:
+  - fig:2
+  basis: The passage states that Asiatic religions had chapels and congregations of
+    devotees there.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: devotee groups
+  assigned_to:
+  - fig:3
+  basis: The passage explicitly mentions congregations of devotees.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Asiatic religions established at Ostia
+  summary: After Ostia is said to have inherited prosperity from a Campanian rival,
+    Asiatic religions are described as having chapels and congregations of devotees
+    there.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2882-3072
+  quote_or_summary: "“Ostia, this latter city inherited the prosperity of its Campanian
+    rival”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:2
+  type: quote
+  locator: lines 2882-3072
+  quote_or_summary: "“all the Asiatic religions soon had here their chapels and their
+    congregations of devotees”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+- id: ev:3
+  type: quote
+  locator: lines 2882-3072
+  quote_or_summary: "“Fig. 17.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source metadata; short quotation used for extraction
+    evidence.
+confidence:
+  extraction: medium
+  motif_candidates: high
+  comparison_claims: high
+  notes: The coherent prose is limited and fragmentary, with substantial OCR noise.
+    No mythic symbols, motif candidates, or comparison claims are supported by the
+    provided passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif or symbol references were assigned because the excerpt only supports historical observations about religious presence at Ostia.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l2882-l3072
+  passage_sha256=8986d9fff888b7bc175a0a7ff36e6f69a12acf4f217dbabc4d7c916c707893a9
+

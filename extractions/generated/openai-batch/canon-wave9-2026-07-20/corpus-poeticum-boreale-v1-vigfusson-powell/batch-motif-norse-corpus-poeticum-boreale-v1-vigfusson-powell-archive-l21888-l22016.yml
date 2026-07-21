@@ -1,0 +1,297 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l21888-l22016
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: AND TEUTONIC METRE. 437 / GERMAN, / AND TEUTONIC METRE. 439 / AND TEUTONIC
+    METRE. 441; lines 21888-22016
+  start: '21888'
+  end: '22016'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage combines short Germanic verse examples with prose analysis
+    of Old Northern and Teutonic metres. The verse examples include fragmentary references
+    to Mud-spell/Muspell, Hel-gate, opening mounds, Gunnarr, cold sleeping places,
+    goats, and a mountain. The prose discusses the Northern short Epic-line, its relationship
+    to Western short-line and Cynewulf-type verse, Turf-Einar’s line, Kraka-mal line,
+    and later Icelandic metrical use.
+  language: English with Old Germanic and Old Norse verse examples
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with segmented verse examples rather than a continuous narrative.
+  category: sequence
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: obs:2
+  text: One verse example mentions “Mud-spelles Megin” passing over man and another
+    says “mut-spelli” comes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: One verse example states that Hel-grind and mounds open.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: One verse example names Gunnarr and includes a word for sleep or dream, “svefni.”
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Other verse examples mention a cold hall or bed and goats from a mountain.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The prose describes the Northern short Epic-line as a curtailed form of the
+    old long-line, shorter and more trochaic or monosyllabic than the Western short-line.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The prose states that Northern-type lines may be mixed with Cynewulf-type
+    lines in many poems, while the overall metre of a poem can still be identified.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The prose identifies Turf-Einar’s line as a metre apparently developed or
+    invented in the Western Islands and traces it down to Kraka-mal and the Ragnar-Songs.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The prose states that Kraka-mal line is formed out of Turf-Einar’s line, with
+    its last half becoming three-measured.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Gunnarr
+  description: A named person appearing in a fragmentary verse example associated
+    with sleep or dream language.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: named person in verse example
+  assigned_to:
+  - fig:1
+  basis: The passage includes the name Gunnarr in one of the quoted metrical examples.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: Hel-gate
+  literal_form: Hel-grind
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: Opening mounds
+  literal_form: Haugar opnask
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Mountain
+  literal_form: fialli
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Cold hall or bed
+  literal_form: Svalt-allt-i salt; Seing kalda
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: Mud-spell or Muspell force/event
+  literal_form: Mud-spelles Megin; mut-spelli
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Mud-spell or Muspell arrival fragment
+  summary: Fragmentary verse examples mention Mud-spell’s might passing over man and
+    mut-spelli coming.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Hel-gate and mounds opening fragment
+  summary: A verse example states that Hel-grind and mounds open.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:3
+  label: Gunnarr and sleep fragment
+  summary: A verse example names Gunnarr and includes sleep or dream language.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Cold place and mountain goats fragment
+  summary: Verse examples mention a cold hall or bed and goats from a mountain.
+  figure_refs: []
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: Muspell as an arriving force or event
+  taxonomy_refs: []
+  basis: The verse examples say Mud-spell’s might passes over man and that mut-spelli
+    comes.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The lines are isolated metrical examples with OCR uncertainty; the passage
+    does not supply a full eschatological scene or explicitly mention fire.
+- id: motif:2
+  label: Opening of an afterlife threshold and burial mounds
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: A verse example combines Hel-grind with opening mounds.
+  evidence_refs:
+  - ev:1
+  confidence: low
+  cautions: The passage gives only a fragmentary example line; no journey, ritual,
+    or narrative context is described.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly contrasts the Northern short Epic-line with the Western
+    short-line as related short metrical patterns with different degrees of curtailment
+    and rhythm.
+  claim_level: linguistic_similarity
+  target: Western short-line
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a metrical comparison, not a mythological motif comparison.
+- id: claim:2
+  claim: The passage states that Northern-type lines can occur mixed with Cynewulf-type
+    lines in many poems, while the poem’s overall metre remains distinguishable.
+  claim_level: linguistic_similarity
+  target: Cynewulf type
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim concerns poetic metre and scribal or formal variation, not
+    narrative content.
+- id: claim:3
+  claim: The passage describes Kraka-mal line as formed out of Turf-Einar’s line,
+    with a change to a three-measured second half.
+  claim_level: linguistic_similarity
+  target: Turf-Einar’s line and Kraka-mal line
+  evidence_refs:
+  - ev:7
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage asserts formal metrical derivation but does not connect
+    this to mythic motifs.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 21888-21898
+  quote_or_summary: 'Opening examples include “Mud-spelles | Megin,” “mut-spelli ;
+    cumit,” and “Hel-grind : Haugar | opnask.”'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: quote
+  locator: 21899-21906
+  quote_or_summary: Examples include “Gunnarr ... i | svefni,” “Seing | kalda,” and
+    “Geitr af | fialli.”
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:3
+  type: summary
+  locator: 21907-21928
+  quote_or_summary: The prose explains that the Northern short Epic-line derives from
+    vigorous curtailment of the old long-line and is shorter, stiffer, and more trochaic
+    or monosyllabic than the Western short-line.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:4
+  type: summary
+  locator: 21929-21951
+  quote_or_summary: The passage says Northern-type lines occur mixed with Cynewulf-type
+    lines in many poems and notes a tendency in England to shorten metre as the tenth
+    century advanced.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:5
+  type: summary
+  locator: 21952-21971
+  quote_or_summary: The passage describes Turf-Einar’s line as a metre born from the
+    long-line, apparently developed or invented in the Western Islands, with traces
+    down to Kraka-mal and the Ragnar-Songs.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:6
+  type: summary
+  locator: 21972-21995
+  quote_or_summary: The passage describes Turf-Einar’s line as five-measured, arranged
+    3:2, with two letter-stresses in the first half and a distinctive ending.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:7
+  type: summary
+  locator: 21996-22005
+  quote_or_summary: The passage states that Kraka-mal line is formed out of Turf-Einar’s
+    line and that Snorri’s Edda contains a spurious imitation with rhymes added.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:8
+  type: summary
+  locator: 22006-22016
+  quote_or_summary: The passage says Biarni Thorarinson later used the metre for dirges
+    on friends and countrymen and reproduced its lilt successfully.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: high
+  notes: The prose metrical comparisons are explicit and reliable. Motif extraction
+    is tentative because the mythic material appears only in isolated, OCR-uncertain
+    example lines rather than a continuous narrative passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  This passage is primarily a discussion of metre. Candidate motifs are limited to literal fragments present in the example lines and should not be treated as full narrative attestations without consulting the surrounding source context.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l21888-l22016
+  passage_sha256=a237d2f0909c1c1cbbbe7a9e03a6e5fd7299d9bb804a53fae90e43e902d423f5
+

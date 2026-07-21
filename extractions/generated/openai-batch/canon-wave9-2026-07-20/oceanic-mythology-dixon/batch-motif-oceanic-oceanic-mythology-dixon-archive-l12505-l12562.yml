@@ -1,0 +1,320 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l12505-l12562
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: MYTHS OF ORIGINS AND THE DELUGE 253 / MYTHS OF ORIGINS AND THE DELUGE 255
+    / MYTHS OF ORIGINS AND THE DELUGE 257 / AUSTRALIA 269; lines 12505-12562
+  start: '12505'
+  end: '12562'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage introduces Australian mythology as fragmentary, then summarizes
+    Australian world-origin traditions as often lacking detailed cosmogony, with earth
+    and sky generally assumed. It notes reports of a deity or supernatural being making
+    all things, cautions that these may refer only to special landscape features,
+    gives an Arunta account of an original salt-water-covered world whose sea was
+    withdrawn by northern people so land appeared, and classifies human-origin myths
+    into three types.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The source states that material on the mythology of Australian natives is
+    comparatively meagre, fragmentary, and almost absent for Tasmania.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The source states that myths of the origin of the world are largely lacking
+    in Australia, as in Melanesia.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: With few exceptions, the existence of the earth and sky is said to be assumed
+    rather than narrated as created.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Certain special mountains, rocks, rivers, and other natural features are identified
+    as landscape elements for which origins may be addressed.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:5
+  text: In a number of cases, mainly in south-eastern Australia, the source reports
+    the assertion that all things were made in the beginning by a deity or supernatural
+    being.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The author cautions that the general reports about all things being made may
+    overstate the belief and may refer only to special landscape features.
+  category: other
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: In the Arunta account, the world was originally covered with salt water; the
+    sea was gradually withdrawn by people living to the north; land then appeared.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: 'Beliefs about the origin of mankind are described as numerous and grouped
+    into three types: wholly independent origin, independent origin as incomplete
+    beings who are later completed, and definite making or creation by a deity.'
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Unnamed deity or supernatural being
+  description: A generic deity or supernatural being reported in some accounts as
+    making all things in the beginning; the author cautions that this may mean only
+    special landscape features.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: People living to the north
+  description: In the Arunta account, the people who gradually withdrew the sea, after
+    which land appeared.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Mankind or man
+  description: The subject of origin myths classified as independent origin, incomplete
+    origin with later completion, or creation by a deity.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: supernatural maker
+  assigned_to:
+  - fig:1
+  basis: The passage reports claims that all things were made in the beginning by
+    a deity or supernatural being, with a stated caveat.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: sea-withdrawing agents
+  assigned_to:
+  - fig:2
+  basis: The Arunta account says the sea was gradually withdrawn by people living
+    to the north.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: subject of origin accounts
+  assigned_to:
+  - fig:3
+  basis: The passage classifies myths concerning the origin of mankind.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: earth and sky
+  literal_form: earth and sky
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: special landscape features
+  literal_form: special mountains, rocks, rivers, and other natural features
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - mountain
+  - water
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: original sea
+  literal_form: salt water or sea covering the world
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: appearing land
+  literal_form: land appearing after the sea is withdrawn
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+scenes:
+- id: scene:1
+  label: Assumed world and localized landscape origins
+  summary: The passage says Australian world-origin myths are generally lacking; earth
+    and sky are usually assumed, though origins may be attached to special landscape
+    features.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Supernatural making claim
+  summary: Reports from mainly south-eastern Australia state that all things were
+    made in the beginning by a deity or supernatural being, but the author warns that
+    the claim may only concern special landscape features.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Arunta original sea withdrawal
+  summary: In the Arunta account, the world is first covered by salt water; northern
+    people withdraw the sea, and land appears.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Typology of human origins
+  summary: The passage classifies origin-of-mankind myths into independent origin,
+    incomplete origin followed by completion, and creation by a deity.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Minimal cosmogony with assumed earth and sky
+  taxonomy_refs: []
+  basis: The passage states that myths of world origin are largely lacking and that
+    the existence of earth and sky is generally assumed.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a secondary-source summary of a pattern of absence or minimal
+    narration, not a complete myth narrative.
+- id: motif:2
+  label: Supernatural maker at the beginning
+  taxonomy_refs: []
+  basis: Some south-eastern reports assert that all things were made in the beginning
+    by a deity or supernatural being.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The author explicitly cautions that these reports may not mean universal
+    creation and may refer only to special landscape features.
+- id: motif:3
+  label: Primordial salt-water world and land emergence by sea withdrawal
+  taxonomy_refs:
+  - flood_and_renewal
+  basis: The Arunta account says the world was covered with salt water, the sea was
+    withdrawn by northern people, and land appeared.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: The passage describes an original sea and land emergence rather than a
+    destructive flood followed by renewal; the taxonomy link is approximate.
+- id: motif:4
+  label: Human origin by independence, completion, or deity creation
+  taxonomy_refs: []
+  basis: 'The passage classifies myths of mankind''s origin into three forms: independent
+    origin, incomplete beings later completed, or definite creation by a deity.'
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: Only a typology is provided here; no specific narrative details or named
+    agents are supplied.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares Australia with Melanesia in saying that myths
+    of the origin of the world are largely lacking in both contexts.
+  claim_level: same_function
+  target: Melanesian mythology, with respect to limited or absent world-origin myths
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is made by the secondary source and concerns a broad
+    absence or scarcity of cosmogonic narratives; no specific Melanesian myth or historical
+    relationship is presented in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12515-12523
+  quote_or_summary: Material on Australian native mythology is described as comparatively
+    meagre and fragmentary, with almost nothing for Tasmania, though enough remains
+    for an outline and relationships.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 12528-12532
+  quote_or_summary: World-origin myths are said to be largely lacking in Australia
+    as in Melanesia; earth and sky are generally assumed, except for certain special
+    landscape features.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: quote
+  locator: lines 12533-12542
+  quote_or_summary: Reports mainly from the south-east say that “all things were made
+    in the beginning by a deity or supernatural being,” but the author says this may
+    only concern special landscape features.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: lines 12542-12546
+  quote_or_summary: 'For the Arunta of central Australia, an original sea is reported:
+    the world was covered with salt water, the sea was gradually withdrawn by people
+    to the north, and land appeared.'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 12548-12555
+  quote_or_summary: Human-origin beliefs are said to be numerous and are classified
+    as independent origin, independent origin as incomplete beings later completed,
+    or definite making or creation by a deity.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is a secondary-source overview with explicit authorial cautions
+    and fragmentary source conditions. The Arunta water-world sequence is clear, but
+    broader motif taxonomy should be reviewed by a human.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No named mythic figures are given in this passage; generic figures were retained only where the passage explicitly mentions them.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l12505-l12562
+  passage_sha256=5cabff577df13b2d743e8cb24531ced30ed4440853aeca7c3219153140e12a3f
+

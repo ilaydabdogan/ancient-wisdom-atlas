@@ -1,0 +1,217 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l15913-l16070
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: NOTES 325 / NOTES 327 / NOTES 333 / NOTES 335; lines 15913-16070
+  start: '15913'
+  end: '16070'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage consists mainly of bibliographic notes. Two notes give extractable
+    motif-pattern information: a widespread charm formula phrased as a claim of being
+    the son of a diwata, glossed as a divinity, and the idea that fire or bright light
+    marks the presence of a beautiful woman in Malay and Indonesian tales.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A note describes a special form of charm as widespread and gives the formulaic
+    example, "If I am the son of a diwata."
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The note glosses diwata through Sanskrit devata as meaning "divinity."
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The note lists other examples of the charm form from several cited regions
+    and sources, including Celebes, Halmahera, Sangir Islands, and the Philippines.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Another note states that fire or a bright light can mark the presence of a
+    beautiful woman.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage characterizes the fire or bright-light idea as generally current
+    in Malay and Indonesian tales.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: charm speaker claiming divine descent
+  description: The speaker implied by the charm formula, "If I am the son of a diwata."
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: diwata / devata
+  description: A diwata, glossed in the note as a divinity.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: beautiful woman
+  description: A beautiful woman whose presence may be marked by fire or a bright
+    light.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: claimant of divine parentage in a charm formula
+  assigned_to:
+  - fig:1
+  basis: The charm formula is phrased as a conditional claim of being the son of a
+    diwata.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: divinity named as parent in formula
+  assigned_to:
+  - fig:2
+  basis: The charm formula names a diwata as the parent, and the note glosses the
+    term as divinity.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: woman signaled by fire or light
+  assigned_to:
+  - fig:3
+  basis: The note says fire or a bright light marks the presence of a beautiful woman.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: fire or bright light
+  literal_form: fire or a bright light
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: divine-descent charm formula
+  summary: A widespread charm form is represented by a formula in which the speaker
+    says, conditionally, that they are the son of a diwata.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: luminous marker of a beautiful woman
+  summary: Fire or bright light appears as a sign marking the presence of a beautiful
+    woman.
+  figure_refs:
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: charm formula invoking divine parentage
+  taxonomy_refs:
+  - divine_parent_child
+  basis: The passage explicitly gives a charm formula in which the speaker claims
+    to be the son of a diwata, glossed as a divinity, and calls this charm form widespread.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage is an endnote, not a full tale text; the ritual or narrative
+    context of the charm is not provided here.
+- id: motif:2
+  label: fire or bright light announces a beautiful woman
+  taxonomy_refs: []
+  basis: The passage states that fire or bright light marking the presence of a beautiful
+    woman is an idea current in Malay and Indonesian tales.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The note does not give a full narrative example or identify whether the
+    woman is divine, mortal, or otherwise supernatural.
+comparison_claims:
+- id: claim:1
+  claim: The passage presents the divine-parentage charm formula as a widespread charm
+    pattern attested by examples from multiple cited Island Southeast Asian and Philippine
+    contexts.
+  claim_level: same_function
+  target: Charm formula examples cited for Celebes, Halmahera, Sangir Islands, and
+    the Philippines
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage provides citations but not the full variant texts, so the
+    comparison is limited to the author's summarized note.
+- id: claim:2
+  claim: The passage states that the motif of fire or bright light marking a beautiful
+    woman's presence is generally current in Malay and Indonesian tales.
+  claim_level: same_motif
+  target: Malay and Indonesian tales
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives a general comparative statement without individual
+    tale excerpts or detailed contexts.
+evidence:
+- id: ev:1
+  type: quote
+  locator: Chapter III, note 10, within lines 15913-16070
+  quote_or_summary: '"This special form of charm is wide-spread, often in the form,
+    ''If I am the son of a diwata (Sanskrit devata, ''divinity''),'' etc."'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:2
+  type: summary
+  locator: Chapter III, note 10, within lines 15913-16070
+  quote_or_summary: The note cites examples of the charm form from Celebes (Toradja),
+    Halmahera, Sangir Islands, and the Philippines (Subanun), among others.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata.
+- id: ev:3
+  type: quote
+  locator: Chapter III, note 26, within lines 15913-16070
+  quote_or_summary: '"The appearance of fire or a bright light marking the presence
+    of a beautiful woman is an idea generally current in Malay and Indonesian tales."'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short quotation used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The extractable motif data comes from secondary endnotes rather than complete
+    narrative passages. The charm formula and fire/light marker are explicit, but
+    their narrative contexts are absent.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No additional figures, objects, or taxonomy mappings were inferred beyond the explicit charm formula, diwata gloss, and fire/bright-light marker stated in the passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l15913-l16070
+  passage_sha256=aeaa3352958682f24500aac97c76aa60320fa0790ae33ae3efb5c18338436df9
+

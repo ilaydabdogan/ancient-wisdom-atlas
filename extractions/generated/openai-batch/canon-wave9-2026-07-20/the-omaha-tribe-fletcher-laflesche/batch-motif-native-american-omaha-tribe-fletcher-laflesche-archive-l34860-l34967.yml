@@ -1,0 +1,306 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34860-l34967
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: THE    OMAHA    TRIBE / ELDEST   SON'S   SONG / SOCIETIES / THE    OMAHA    TRIBE;
+    lines 34860-34967
+  start: '34860'
+  end: '34967'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"I have found it!"'
+  summary: The passage gives song notation and a literal translation of a phrase glossed
+    as “I have found it” and “said.” An explanatory note states that the song refers
+    to a mother finding a shell. After the song, the second son leads others eastward
+    in single file, circles the fire alone, and returns to stand at the right of the
+    eldest son. The daughter then faces south and begins another song.
+  language: English, with Omaha vocables/transcription in the song notation
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The song’s literal translation identifies a phrase meaning “I have found it”
+    and another meaning “said.”
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The explanatory note says vocables are used to stretch the words to the music.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The song is said to refer to the mother finding a shell and exclaiming that
+    she has found it.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: At the close of the song, the second son leads toward the east while the others
+    follow in single file.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: After all stand in line, the second son leaves his place, circles the fire
+    alone, and returns.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: On returning, the second son takes his place to the right of the eldest son.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The daughter turns, faces south, and sings the following song.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: mother
+  description: The figure whose finding of the shell is referenced by the song and
+    who exclaims that she has found it.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: second son
+  description: The participant who leads toward the east, circles the fire alone,
+    and then stands at the right of the eldest son.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: others
+  description: The participants who follow the second son in single file and stand
+    in line.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: eldest son
+  description: The figure beside whom the second son takes his place, specifically
+    at the eldest son’s right.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: daughter
+  description: The participant who turns, faces south, and sings the following song.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: finder and exclaiming speaker in referenced song episode
+  assigned_to:
+  - fig:1
+  basis: The song is explained as referring to the mother finding the shell and exclaiming
+    “I have found it.”
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: eastward leader and solitary fire-circler
+  assigned_to:
+  - fig:2
+  basis: The second son leads toward the east, later circles the fire alone, and returns
+    to his place.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:3
+  label: single-file followers
+  assigned_to:
+  - fig:3
+  basis: The others follow the second son in single file and stand in line.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:4
+  label: eldest son as positional reference
+  assigned_to:
+  - fig:4
+  basis: The second son’s final position is described relative to the eldest son,
+    at his right.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: south-facing singer
+  assigned_to:
+  - fig:5
+  basis: The daughter turns, faces the south, and sings the following song.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: shell
+  literal_form: shell found by the mother
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire
+  literal_form: fire circled by the second son
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: east
+  literal_form: eastward direction of the second son’s leading movement
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: south
+  literal_form: southward direction faced by the daughter before singing
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Song reference to finding the shell
+  summary: The song is glossed with words meaning “I have found it” and “said,” and
+    the explanatory note states that it refers to the mother finding the shell.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Eastward procession and circling of the fire
+  summary: The second son leads eastward with others following in single file; after
+    the group stands in line, he circles the fire alone and returns to stand at the
+    right of the eldest son.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Daughter faces south to sing
+  summary: The daughter turns toward the south and sings the next song.
+  figure_refs:
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: discovery of a shell announced in song
+  taxonomy_refs: []
+  basis: The explanatory note says the song refers to the mother finding the shell
+    and exclaiming that she has found it.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The broader story context is only alluded to and not included in this
+    passage.
+- id: motif:2
+  label: ritual procession oriented to directions and fire
+  taxonomy_refs: []
+  basis: The second son leads toward the east, the group follows in single file, he
+    circles the fire alone, and the daughter later faces south to sing.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage describes the actions but does not explain their symbolic
+    meanings.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly links the song to a story episode in which the mother
+    finds the shell, so the song and the referenced story share the shell-discovery
+    pattern.
+  claim_level: same_motif
+  target: the story episode referred to by the passage’s phrase “as recounted in the
+    story”
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The referenced story itself is not included in this excerpt, so only
+    the passage’s explicit editorial link can be recorded.
+evidence:
+- id: ev:1
+  type: quote
+  locator: 34860-34967, song translation note
+  quote_or_summary: Literal translation glosses the song as “I have found it” and
+    “said”; the note says vocables stretch the words to the music.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; brief excerpt/summary from supplied passage.
+- id: ev:2
+  type: quote
+  locator: 34860-34967, explanatory note after song
+  quote_or_summary: The song refers to the mother finding the shell and exclaiming,
+    “I have found it!”
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; brief excerpt/summary from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 34860-34967, paragraph beginning “At the close of the song”
+  quote_or_summary: At the song’s close, the second son leads toward the east, and
+    the others follow in single file until all stand in line.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:4
+  type: summary
+  locator: 34860-34967, continuation of post-song action
+  quote_or_summary: The second son leaves his place, circles the fire alone, returns,
+    and takes his place to the right of the eldest son.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: 34860-34967, paragraph beginning “The daughter”
+  quote_or_summary: The daughter turns, faces south, and sings the following song.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain; summary from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Ritual actions and named participants are explicit in the passage. Motif
+    labels are descriptive because the excerpt gives little interpretation of symbolic
+    meaning. Sub-locators are descriptive within the supplied line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external context used. Taxonomy refs were applied only where the supplied taxonomy contained a direct literal match, as with fire.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34860-l34967
+  passage_sha256=e67b212730c36d2ae15eae711ba18102ceef156123c6c2ab16fe570ecae03a77
+

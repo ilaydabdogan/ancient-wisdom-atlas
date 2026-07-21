@@ -1,0 +1,481 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l20999-l21063
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 476. / YURIAKU. 36.7 / XIV. 44. / A.D. 478.; lines 20999-21063
+  start: '20999'
+  end: '21063'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The chronicle records Prince Shiraga being made Heir Apparent. It then
+    tells that a man associated with Urashima went fishing, caught a large tortoise
+    or turtle that changed into a woman, married her, descended with her into the
+    sea, reached Horai San, and saw genii. Notes identify Horai San with the Chinese
+    P'eng-Lai-Shan, one of the Three Isles of the Genii, and describe it as a paradise
+    with a fountain of life and ever-growing plants. The passage also notes the death
+    of a Pekché king.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Prince Shiraga was made Heir Apparent in the 22nd year, first month.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A man of Tsutsukaha in Yosa, Tamba, described as the child of Urashima of
+    Midzunoye, went fishing in a boat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The fisherman caught a large tortoise, with a note allowing turtle as an alternative
+    rendering.
+  category: object
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: The tortoise straightway changed into a woman.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Urashima's child fell in love with the woman and made her his wife.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The couple went down together into the sea and reached Horai San.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: At Horai San they saw genii.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:8
+  text: A note identifies Mount Horai with the Chinese P'eng-Lai-Shan, one of the
+    Three Isles of the Genii in the Eastern Sea.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: A note describes the isles as a paradise of the Genii with a fountain of life,
+    enduring trees and plants, sacred fungus, and an ancient crane nesting in a never-dying
+    pine.
+  category: setting
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Interlinear Kana renders Horai San as Tokoyo no Kuni, or Eternal Land,
+    according to a note.
+  category: speech
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: A note states that the Shukai editor rejects the Urashima story as an unauthorized
+    addition.
+  category: other
+  evidence_refs:
+  - ev:7
+- id: obs:12
+  text: The passage reports the death of King Munkeun of Pekché, with a note questioning
+    the king's name.
+  category: action
+  evidence_refs:
+  - ev:3
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: Prince Shiraga
+  description: A prince made Heir Apparent.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Urashima's child
+  description: A man of Tsutsukaha in Yosa, Tamba, child of Urashima of Midzunoye;
+    he fishes, marries the transformed woman, and travels under the sea to Horai San.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Transformed tortoise-woman
+  description: A large tortoise or turtle caught by the fisherman that changes into
+    a woman and becomes his wife.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: Genii at Horai San
+  description: Genii seen by the couple at Horai San.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:5
+  name_or_label: King Munkeun of Pekché
+  description: A Pekché king whose death is reported; a note questions this name.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:3
+  - ev:8
+roles:
+- id: role:1
+  label: heir apparent
+  assigned_to:
+  - fig:1
+  basis: The passage says Prince Shiraga was made Heir Apparent.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: fisherman
+  assigned_to:
+  - fig:2
+  basis: The man went fishing in a boat and caught a large tortoise.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: undersea traveler
+  assigned_to:
+  - fig:2
+  basis: He went down into the sea with the woman and reached Horai San.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: shapeshifting animal bride
+  assigned_to:
+  - fig:3
+  basis: The tortoise changed into a woman, and the fisherman married her.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: wife
+  assigned_to:
+  - fig:3
+  basis: The passage says Urashima's child made the woman his wife.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: inhabitants of Horai San
+  assigned_to:
+  - fig:4
+  basis: The couple saw genii at Horai San; the note calls the place a paradise of
+    the Genii.
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: role:7
+  label: deceased king
+  assigned_to:
+  - fig:5
+  basis: The passage reports that King Munkeun of Pekché died.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: large tortoise or turtle
+  literal_form: large tortoise/turtle
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: boat
+  literal_form: fishing boat
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: sea
+  literal_form: sea into which the couple descend
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Horai San
+  literal_form: Horai San / Mount Horai
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: fountain of life
+  literal_form: waters of the fountain of life flowing in a perpetual stream
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: enduring plants of Horai
+  literal_form: pine, plum, peach-tree, and sacred fungus growing forever
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:5
+- id: sym:7
+  label: ancient crane
+  literal_form: ancient crane nesting in the never-dying pine
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:8
+  label: Eternal Land
+  literal_form: Tokoyo no Kuni, or Eternal Land
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Appointment of Prince Shiraga
+  summary: Prince Shiraga is made Heir Apparent.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Fishing and transformation
+  summary: Urashima's child goes fishing in a boat, catches a large tortoise or turtle,
+    and the creature changes into a woman.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Marriage and descent into the sea
+  summary: The fisherman falls in love with the transformed woman, marries her, and
+    they go down together into the sea.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+- id: scene:4
+  label: Arrival at Horai San
+  summary: The couple reaches Horai San and sees genii there.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:5
+  label: Description of Horai in the note
+  summary: A note identifies Horai with P'eng-Lai-Shan, an Eastern Sea isle-paradise
+    of the Genii, associated with a fountain of life, enduring plants, sacred fungus,
+    and a crane in a never-dying pine.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Death of a Pekché king
+  summary: The death of King Munkeun of Pekché is reported, while a note questions
+    the name.
+  figure_refs:
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: animal transforms into human bride
+  taxonomy_refs:
+  - shapeshifter
+  basis: The caught tortoise or turtle changes into a woman, after which the fisherman
+    falls in love with her and marries her.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  confidence: high
+  cautions: The passage gives only a brief chronicle notice and does not elaborate
+    the woman's origin or powers beyond the transformation.
+- id: motif:2
+  label: journey beneath the sea to a wondrous land
+  taxonomy_refs:
+  - hero_descent
+  - mystical_quest
+  basis: The couple goes down together into the sea and reaches Horai San, where they
+    see genii.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage says they descend into the sea but does not frame the journey
+    as a quest or underworld descent.
+- id: motif:3
+  label: immortal paradise of genii
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: The note describes Horai/P'eng-Lai-Shan as a paradise of the Genii with a
+    fountain of life and ever-growing plants, and another note gives the rendering
+    Eternal Land.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The afterlife association is suggested by paradise, immortality imagery,
+    and 'Eternal Land,' but the passage does not explicitly state that this is an
+    afterlife realm.
+- id: motif:4
+  label: royal succession appointment
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: Prince Shiraga is formally made Heir Apparent.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: This is a chronicle notice of succession rather than a developed mythic
+    episode in the passage.
+comparison_claims:
+- id: claim:1
+  claim: The note explicitly identifies Japanese Horai San with the Chinese P'eng-Lai-Shan,
+    one of the Three Isles of the Genii in the Eastern Sea.
+  claim_level: same_motif
+  target: Chinese P'eng-Lai-Shan / Three Isles of the Genii tradition
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This comparison is supplied by the translator's note rather than by
+    the chronicle narrative itself.
+- id: claim:2
+  claim: The note places Horai San within broader Chinese and Japanese legendary lore
+    concerning an immortal land of genii.
+  claim_level: same_function
+  target: Chinese and Japanese immortal-isle paradise traditions
+  evidence_refs:
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage excerpt provides only a compact note and does not include
+    the broader legends themselves.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 20999-21063; XIV.44, 22nd year, Spring, 1st month
+  quote_or_summary: Prince Shiraga was made Heir Apparent.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: lines 20999-21063; XIV.44, 22nd year, Autumn, 7th month
+  quote_or_summary: A man associated with Urashima went fishing in a boat, caught
+    a large tortoise, the tortoise changed into a woman, he married her, and they
+    went down into the sea to Horai San, where they saw genii.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: summary
+  locator: lines 20999-21063; XIV.44, 23rd year, Summer, 4th month
+  quote_or_summary: King Munkeun of Pekché died.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: note
+  locator: lines 20999-21063; footnote 1
+  quote_or_summary: The tortoise is also glossed as 'Or turtle.'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short note quoted.
+- id: ev:5
+  type: summary
+  locator: lines 20999-21063; footnote 2
+  quote_or_summary: Mount Horai is identified with Chinese P'eng-Lai-Shan, one of
+    the Three Isles of the Genii in the Eastern Sea, described as a paradise with
+    a fountain of life, enduring trees and plants, sacred fungus, and an ancient crane
+    nesting in a never-dying pine.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: lines 20999-21063; footnote following note 2
+  quote_or_summary: The Interlinear Kana renders Horai San as Tokoyo no Kuni, or Eternal
+    Land, though the note calls this rendering inadequate.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: lines 20999-21063; footnote 3
+  quote_or_summary: The Shukai editor rejects the Urashima story as an unauthorized
+    addition.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: lines 20999-21063; footnote 4
+  quote_or_summary: A note says there is no Pekché king of the stated name and suggests
+    King Sam-Keun is meant.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The main Urashima notice and Horai notes are explicit, but motif labels beyond
+    transformation, descent, and immortal-isle paradise require cautious interpretation.
+    Comparison claims rely on the translator's explanatory note.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The passage itself states that the Urashima story is in another book, and a note reports that one editor rejected it as an unauthorized addition.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l20999-l21063
+  passage_sha256=142aeb2141d6177df7b5fd119f2f34bba87aab3030fd511aa58929683bed1a1d
+

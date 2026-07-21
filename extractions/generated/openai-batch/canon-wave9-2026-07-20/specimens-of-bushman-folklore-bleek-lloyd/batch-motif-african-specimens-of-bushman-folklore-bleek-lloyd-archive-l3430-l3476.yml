@@ -1,0 +1,352 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l3430-l3476
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: TO A STAR. / THE SON OF THE WIND. / THE SON OF THE WIND. / THE HYENA'S EEVENGE.;
+    lines 3430-3476
+  start: '3430'
+  end: '3476'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: In the first version of “The Hyena's Revenge,” Hyena acts against Lion
+    after feeling that Lion had been grudging about quagga flesh. Lion comes to Hyena's
+    house, where Hyena is boiling ostrich flesh in a pot. Hyena gives Lion soup, asks
+    to pour it into Lion's mouth, puts the hot pot over Lion's head, and the hot soup
+    burns Lion until he dies. Hyena then beats him with a stick and breaks the pot;
+    the narration states that Hyena killed him with hot soup from a pot that had stood
+    on the fire.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Hyena went to Lion's house and deceived Lion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Hyena felt that Lion had acted grudgingly toward him about quagga flesh.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Lion came to Hyena's house while Hyena was boiling ostrich flesh in Hyena's
+    pot.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Hyena gave soup to Lion, and the pot was hot.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Hyena asked Lion to allow him to pour soup into Lion's mouth.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Hyena poured soup into Lion's mouth and put the mouth of the hot pot over
+    Lion's head.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: The soup burned Lion's eyes and mouth; Lion swallowed hot soup and died with
+    his head inside the pot.
+  category: sequence
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: obs:8
+  text: Hyena took up Hyena's stick, beat Lion while Lion's head was inside the pot,
+    and struck so that the pot split apart.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:9
+  text: The narration states that Hyena killed Lion with hot soup and that the pot
+    had stood upon the fire.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Hyena
+  description: Animal figure who deceives Lion, receives Lion at Hyena's house, gives
+    Lion hot soup, places the hot pot over Lion's head, beats him with a stick, and
+    is said to kill him with hot soup.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+- id: fig:2
+  name_or_label: Lion
+  description: Animal figure whom Hyena deceives; Lion is described as having acted
+    grudgingly about quagga flesh, comes to Hyena's house, receives hot soup, is burned,
+    and dies with his head inside the pot.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: aggrieved revenger
+  assigned_to:
+  - fig:1
+  basis: The title names Hyena's revenge, and Hyena acts after feeling Lion had been
+    grudging about quagga flesh.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deceiver
+  assigned_to:
+  - fig:1
+  basis: The passage states that Hyena deceived Lion.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: killer using hot soup
+  assigned_to:
+  - fig:1
+  basis: The narration states that Hyena killed Lion with hot soup.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: source of grievance
+  assigned_to:
+  - fig:2
+  basis: Hyena felt that Lion had acted grudgingly toward him about quagga flesh.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: guest and victim
+  assigned_to:
+  - fig:2
+  basis: Lion comes to Hyena's house, is given soup, is burned by hot soup, and dies
+    with his head in the pot.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: hot soup
+  literal_form: soup / hot soup
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+- id: sym:2
+  label: hot pot
+  literal_form: Hyena's pot; the pot put over Lion's head
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+- id: sym:3
+  label: Hyena's stick
+  literal_form: Hyena's stick used to beat Lion
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: fire
+  literal_form: fire upon which the pot had stood
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Grievance and setup
+  summary: Hyena deceives Lion after feeling that Lion had been grudging about quagga
+    flesh; Lion later comes to Hyena's house, where Hyena is boiling ostrich flesh
+    in a pot.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Hot soup attack
+  summary: Hyena gives Lion soup, asks to pour soup into Lion's mouth, pours it, places
+    the hot pot over Lion's head, and Lion is burned and dies.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:3
+  label: Beating and broken pot
+  summary: After Lion's head is inside the pot, Hyena beats him with a stick and strikes
+    the pot so that it splits apart.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:6
+- id: scene:4
+  label: Killing by hot soup from fire-heated pot
+  summary: The passage concludes by saying Hyena killed Lion with hot soup, while
+    noting that the pot had stood on the fire.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:4
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: revenge for grudging food-sharing
+  taxonomy_refs: []
+  basis: Hyena's revenge is connected to his feeling that Lion had acted grudgingly
+    about quagga flesh, after which Hyena kills Lion with hot soup.
+  evidence_refs:
+  - ev:1
+  - ev:7
+  confidence: high
+  cautions: The passage gives Hyena's motive but does not elaborate a broader moral
+    rule about food sharing.
+- id: motif:2
+  label: deceptive hospitality as attack
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Hyena hosts Lion at Hyena's house, gives soup, speaks invitingly, and then
+    uses the hot soup and pot to harm and kill Lion.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: medium
+  cautions: Hyena is not explicitly labeled a trickster in this passage; the taxonomy
+    link rests on the observed deception pattern.
+- id: motif:3
+  label: hot food and vessel as lethal weapon
+  taxonomy_refs: []
+  basis: The hot soup burns Lion's eyes, mouth, and throat, and Lion dies with his
+    head inside the pot; the passage later states Hyena killed him with hot soup.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:7
+  confidence: high
+  cautions: This is a passage-level action pattern rather than a named motif in the
+    supplied taxonomy.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3443-3446
+  quote_or_summary: Hyena went to Lion's house, deceived Lion, and felt that Lion
+    had acted grudgingly toward him about quagga flesh.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; concise summary from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 3446-3449
+  quote_or_summary: Lion came to Hyena's house while Hyena was boiling ostrich flesh
+    in Hyena's pot.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; concise summary from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 3451-3455
+  quote_or_summary: "“Hyena gave soup to the Lion”; the pot was hot, and Hyena said,
+    “Allow me to pour soup into the inside of thy mouth.”"
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 3456-3460
+  quote_or_summary: Hyena poured soup into Lion's mouth and put the mouth of the hot
+    pot over Lion's head; the soup burned Lion's eyes and mouth.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; concise summary from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 3460-3462
+  quote_or_summary: Lion swallowed hot soup and died with his head inside the pot.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; concise summary from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 3464-3467
+  quote_or_summary: Hyena took up Hyena's stick, beat Lion while Lion's head was in
+    the pot, and struck so that the pot was cleft apart.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; concise summary from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 3471-3472
+  quote_or_summary: The passage states that Hyena killed Lion with hot soup and notes
+    that the pot had stood upon the fire.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain; concise summary from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Core actions and figures are clear, but the passage contains OCR-like irregularities
+    and an ambiguous sentence around lines 3468-3469; no external comparison claims
+    were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No figures were created for quagga or ostrich because only their flesh is mentioned.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l3430-l3476
+  passage_sha256=3edebefbb251b42ff687e9983469e0f64f64cedba47aa99a9097582e984bb3f5
+

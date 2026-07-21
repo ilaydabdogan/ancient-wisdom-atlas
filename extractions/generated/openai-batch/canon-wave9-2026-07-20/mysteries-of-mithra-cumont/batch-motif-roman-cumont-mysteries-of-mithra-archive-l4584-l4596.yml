@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l4584-l4596
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: ZERVAN  AKARANA)  REP / RESENTING  BOUND / THE    MYSTERIES    OF    MITHRA
+    / THE    MYSTERIES    OF    MITHRA; lines 4584-4596
+  start: '4584'
+  end: '4596'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'A caption describes Fig. 22 as a Mithraic Kronos, Aion, or Infinite Time:
+    a nude lion-headed figure standing on a globe, holding a key in each hand, with
+    four wings and a serpent wound three times around the body, its head passing over
+    the skull toward the mouth. The sketch is attributed to Bartoli from a description
+    found in a mithraeum discovered in sixteenth-century Rome between the Quirinal
+    and Viminal.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage labels the figure as “Mithraic Kronos,” with Aion or Infinite
+    Time given parenthetically.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The figure is nude, lion-headed, and standing upright on a globe.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The figure holds a key in each hand.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The figure has four wings.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: A serpent winds around the figure three times; the serpent’s head passes over
+    the skull and is about to enter the mouth.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The image was sketched by Bartoli from a description found in a mithraeum
+    discovered in sixteenth-century Rome between the Quirinal and Viminal.
+  category: setting
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Mithraic Kronos / Aion / Infinite Time
+  description: Nude leontocephalous figure standing upright on a globe, holding keys,
+    with four wings and entwined by a serpent.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: serpent
+  description: A serpent wound three times around the main figure, with its head passing
+    over the skull and about to enter the mouth.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: identified time figure
+  assigned_to:
+  - fig:1
+  basis: The caption identifies the figure as Mithraic Kronos, Aion, or Infinite Time.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: central depicted figure
+  assigned_to:
+  - fig:1
+  basis: The passage describes the figure’s body, posture, objects, wings, and relation
+    to the serpent.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: entwining animal
+  assigned_to:
+  - fig:2
+  basis: The serpent is described as wound three times around the main figure.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: serpent
+  literal_form: serpent entwining the figure three times
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: globe
+  literal_form: globe under the standing figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: keys
+  literal_form: one key in each hand
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: four wings
+  literal_form: four wings on the figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: lion-headed form
+  literal_form: leontocephalous figure
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Serpent-entwined Mithraic time figure
+  summary: A lion-headed, winged, nude figure identified as Mithraic Kronos or Aion
+    stands on a globe with keys in both hands while a serpent winds around the body
+    and reaches toward the mouth.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: serpent-entwined divine or cosmic figure
+  taxonomy_refs:
+  - serpent
+  basis: The main figure, identified with Mithraic Kronos/Aion or Infinite Time, is
+    entwined three times by a serpent whose head reaches over the skull toward the
+    mouth.
+  evidence_refs:
+  - ev:1
+  - ev:4
+  confidence: medium
+  cautions: The passage is a caption describing an image; it does not explain the
+    serpent’s meaning.
+- id: motif:2
+  label: cosmic time figure on a globe
+  taxonomy_refs: []
+  basis: The caption identifies the figure with Kronos/Aion/Infinite Time and describes
+    it standing upright on a globe.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: No explicit interpretation of the globe or cosmic status is provided beyond
+    the title and visual description.
+- id: motif:3
+  label: key-bearing supernatural figure
+  taxonomy_refs: []
+  basis: The figure identified as Mithraic Kronos/Aion holds a key in each hand.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: low
+  cautions: The passage does not state what the keys signify.
+comparison_claims:
+- id: claim:1
+  claim: The caption identifies the Mithraic figure with Kronos and Aion, glossed
+    as Infinite Time.
+  claim_level: linguistic_similarity
+  target: Kronos / Aion / Infinite Time identification in the caption
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a caption-level identification only; the passage does not provide
+    a developed comparative argument.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4584-4587
+  quote_or_summary: "“MITHRAIC KRONOS (AION, OR INFINITE TIME).”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used for identification.
+- id: ev:2
+  type: summary
+  locator: lines 4588-4589
+  quote_or_summary: The figure is described as a nude leontocephalous figure standing
+    upright on a globe.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4589-4590
+  quote_or_summary: The figure has a key in each hand and four wings.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4590-4592
+  quote_or_summary: A serpent winds three times around the figure; its head passes
+    over the skull and is about to enter the mouth.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4592-4596
+  quote_or_summary: The sketch was made by Bartoli from a description found in a mithraeum
+    discovered in sixteenth-century Rome between the Quirinal and Viminal.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal visual details are explicit in the caption. Motif labels are cautious
+    because the passage does not interpret the symbolism beyond naming the figure.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Passage is an image caption from a public-domain modern scholarly text; extraction separates the described iconographic elements from motif interpretation.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l4584-l4596
+  passage_sha256=0e62ba5ac5bfc15e8aaa0ec3f992e06f30df40b369780b3d043f01bf4d9636c7
+

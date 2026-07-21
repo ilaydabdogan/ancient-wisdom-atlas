@@ -1,0 +1,326 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l17574-l17605
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: M.  M.  J-108 / HE'DEWACHI  DANCE / MAIZE  RITUAL  SONG / CULTIVATION  OF  MAIZE;
+    lines 17574-17605
+  start: '17574'
+  end: '17605'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage describes Omaha maize cultivation practices: streamside garden
+    plots, occupancy-based use rights, shared labor by men and women, south-slanting
+    oblong planting mounds, placement of corn, squash, beans, and melons, hoeing and
+    weeding schedules, and the end of cultivation when the annual buffalo hunt begins.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Garden patches were located on the borders of streams.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Occupancy constituted ownership while a family cultivated a tract; if abandoned
+    for a season, the ground was free for others to use.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Men and women worked together on garden plots, which commonly ranged from
+    half an acre to two or three acres, with larger tracts for especially good workers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The gardens were made into oblong flat-topped mounds slanting toward the south,
+    with specified height, dimensions, and spacing.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Seven kernels of corn were scattered in one mound, squash seeds were placed
+    in the next, and the planting alternated in that way.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Beans were planted in separate mounds with willow poles when space allowed,
+    but with corn when space was limited so the corn stalks could support the vines.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Squash and corn were not planted together, and corn, beans, and squash were
+    not grown in the same mound.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:8
+  text: After planting, the ground was kept free of weeds, and sprouted corn was hoed
+    with an implement made from an elk shoulder blade.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: A second hoeing occurred when the corn was a foot or more high; afterward
+    the corn was left to grow and ripen without further cultivation.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:10
+  text: Squash and melon mounds were cared for until the second hoeing of the corn,
+    when the tribe started the annual buffalo hunt.
+  category: sequence
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: cultivating family
+  description: A family cultivated and held a garden tract by occupancy.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: men and women workers
+  description: Men and women worked together on the garden plots.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the tribe
+  description: The tribe started out on the annual buffalo hunt around the time cultivation
+    was left after the second hoeing.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: occupancy-based cultivator-holder
+  assigned_to:
+  - fig:1
+  basis: The cultivated tract was treated as held by a family while they occupied
+    and cultivated it.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: garden laborers
+  assigned_to:
+  - fig:2
+  basis: The passage states that men and women worked together on garden plots.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: annual buffalo-hunt participants
+  assigned_to:
+  - fig:3
+  basis: The tribe left for the annual buffalo hunt after the cultivation sequence
+    reached the second hoeing.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: streams
+  literal_form: stream borders where garden patches were located
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: south-slanting garden mounds
+  literal_form: oblong flat-topped earth mounds arranged to slant toward the south
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: seven corn kernels
+  literal_form: seven kernels of corn scattered in a mound
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: squash seeds
+  literal_form: squash seeds placed in alternating mounds
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:5
+  label: beans with climbing support
+  literal_form: beans planted with willow poles or with corn stalks used as vine supports
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:6
+  label: elk shoulder-blade hoe
+  literal_form: hoeing implement made from the shoulder blade of an elk
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:7
+  label: annual buffalo hunt
+  literal_form: annual buffalo hunt begun when cultivation was left after second hoeing
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: streamside garden tenure and labor
+  summary: Garden plots are situated by streams, held through active family cultivation,
+    and worked jointly by men and women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: mound construction and crop placement
+  summary: Oblong south-slanting mounds are prepared, with corn kernels and squash
+    seeds placed in alternating mounds.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: bean placement and crop separation
+  summary: Beans are planted either separately with willow poles or with corn for
+    support, while squash and corn and the three crops together are not put in the
+    same mound.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: weeding, hoeing, and departure for buffalo hunt
+  summary: The planted ground is weeded and hoed; after the second hoeing, crops are
+    left to ripen as the tribe begins the annual buffalo hunt.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: seasonal cultivation followed by annual hunt
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage presents a timed sequence in which planting, weeding, and second
+    hoeing are followed by leaving crops to ripen while the tribe begins the annual
+    buffalo hunt.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage is an ethnographic agricultural description rather than a
+    mythic narrative; the taxonomy reference marks a seasonal pattern only.
+- id: motif:2
+  label: ordered maize-squash-bean planting regimen
+  taxonomy_refs: []
+  basis: The passage specifies alternating corn and squash mounds, separate or corn-supported
+    beans, and prohibitions against planting squash with corn or all three crops in
+    one mound.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: This is a practical cultivation pattern in the passage; no explicit mythic
+    or symbolic interpretation is stated.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 17574-17582
+  quote_or_summary: Garden patches were on stream borders; active family cultivation
+    constituted ownership, abandoned plots became free for use, and men and women
+    worked together on plots of varying size.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 17582-17591
+  quote_or_summary: Earth was heaped into oblong flat-topped mounds slanting south;
+    seven corn kernels were scattered in one mound and squash seeds placed in the
+    next, alternating.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 17591-17598
+  quote_or_summary: Beans were planted separately with willow poles when space allowed,
+    or with corn stalks as support when space was limited; squash and corn, and all
+    three crops together, were not grown in the same mound.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 17598-17603
+  quote_or_summary: After planting, the ground was weeded; sprouted corn was hoed
+    with an elk shoulder-blade implement, and after a second hoeing the corn was left
+    to ripen.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 17603-17605
+  quote_or_summary: Squash and melon mounds were cared for until the second hoeing
+    of corn, about when the tribe started the annual buffalo hunt.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal agricultural practices are explicit. Motif assignment is limited
+    because the passage does not narrate a myth or provide explicit symbolic interpretation;
+    comparison claims are omitted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l17574-l17605
+  passage_sha256=34e726867488fa9e3a5f36c98162e6bf2a257798bb1da6578f4b68ed916405bd
+

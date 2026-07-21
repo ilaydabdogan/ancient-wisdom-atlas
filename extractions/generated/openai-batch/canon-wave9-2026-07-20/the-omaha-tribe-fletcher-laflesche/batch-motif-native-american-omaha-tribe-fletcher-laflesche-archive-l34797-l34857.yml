@@ -1,0 +1,274 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l34797-l34857
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE    OMAHA    TRIBE / ELDEST   SON'S   SONG / SOCIETIES; lines
+    34797-34857
+  start: '34797'
+  end: '34857'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"Where do I send this (the shell)? I send it in your direction."'
+  summary: A ritual song called the Cry of Mystic Ancients is glossed as sending a
+    shell with secret power in a given direction. The eldest son leads others in single
+    file to the north side of the fire, the group stands facing south, and the eldest
+    son circles the fire alone before returning beside the youngest son. The second
+    son then faces east and sings.
+  language: English with Omaha song text
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage gives a song titled the Cry of Mystic Ancients and explains its
+    words as asking where to send the shell and answering that it is sent in the addressee's
+    direction.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The shell is explicitly described in the translation note as having secret
+    power.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The eldest son leads the others in single file to the north side of the fire.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The group stands in line facing south.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The eldest son leaves his place, circles the fire alone, and returns to stand
+    beside the youngest son.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The second son turns, faces east, and sings the following song.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: eldest son
+  description: A ritual participant who leads the others, circles the fire alone,
+    and returns beside the youngest son.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: others
+  description: Participants who follow the eldest son in single file and stand in
+    line facing south.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: youngest son
+  description: A participant beside whom the eldest son takes his place after circling
+    the fire.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: second son
+  description: A participant who turns, faces east, and sings.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: procession leader
+  assigned_to:
+  - fig:1
+  basis: The eldest son leads the way while the others follow in single file.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: solo fire-circler
+  assigned_to:
+  - fig:1
+  basis: He leaves his place and circles the fire alone before returning.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: following participants
+  assigned_to:
+  - fig:2
+  basis: The others follow the eldest son in single file and stand in line.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: ritual position marker beside eldest son
+  assigned_to:
+  - fig:3
+  basis: The eldest son returns and takes his place beside the youngest son.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: east-facing singer
+  assigned_to:
+  - fig:4
+  basis: The second son turns, faces east, and sings.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: shell with secret power
+  literal_form: shell
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fire
+  literal_form: fire
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:3
+  label: ritual directions
+  literal_form: north side, facing south, facing east, and sending in a direction
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+scenes:
+- id: scene:1
+  label: Song of sending the shell
+  summary: A song is presented and translated as sending a shell with secret power
+    in a specified direction.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Procession to the fire and circling
+  summary: The eldest son leads participants to the north side of the fire, the group
+    faces south, and the eldest son circles the fire alone before returning beside
+    the youngest son.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Second son's east-facing song
+  summary: The second son turns toward the east and begins a song.
+  figure_refs:
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: sending an empowered ritual object toward an addressee or direction
+  taxonomy_refs: []
+  basis: The translated song centers on sending a shell described as having secret
+    power in a specified direction.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a gloss of the song but does not explain the broader
+    ritual meaning of the sending.
+- id: motif:2
+  label: fire-centered ritual procession and circumambulation
+  taxonomy_refs: []
+  basis: The eldest son leads the group to the fire, the group takes directional positions,
+    and the eldest son circles the fire alone.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage describes the actions but does not state their symbolic interpretation.
+- id: motif:3
+  label: directional orientation during ritual song
+  taxonomy_refs: []
+  basis: The translation speaks of sending in a direction, the group faces south,
+    and the second son faces east to sing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  confidence: medium
+  cautions: Directional significance is evident as action, but its doctrinal or cosmological
+    meaning is not explained in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 34797-34825
+  quote_or_summary: The passage presents the Cry of Mystic Ancients and glosses it
+    as asking where to send the shell, described as having secret power, and answering
+    that it is sent in the addressee's direction.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 34826-34830
+  quote_or_summary: The eldest son leads the others in single file to the north side
+    of the fire, where all stand in line facing south.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 34830-34832
+  quote_or_summary: The eldest son leaves his place, circles the fire alone, and returns
+    to stand beside the youngest son.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 34833-34857
+  quote_or_summary: The second son turns, faces east, and sings the following song,
+    which is then transcribed.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal actions and objects are explicit in the passage. Motif labels are
+    descriptive rather than interpretive; no comparison claims were made because the
+    excerpt itself does not support a specific cross-traditional comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or broad comparative claims are inferred from this short ritual excerpt.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l34797-l34857
+  passage_sha256=2ced21131029db06a0cf176cb615cf3a27547217286186958e20e4ebcd8ea929
+

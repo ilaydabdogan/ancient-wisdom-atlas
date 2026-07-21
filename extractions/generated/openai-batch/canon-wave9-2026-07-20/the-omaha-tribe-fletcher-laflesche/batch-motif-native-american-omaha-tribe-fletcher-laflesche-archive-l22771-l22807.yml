@@ -1,0 +1,188 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l22771-l22807
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIAL    LIFE / LOVE  CALL / THE    OMAHA   TRIBE / WAAN  NO.  2; lines
+    22771-22807
+  start: '22771'
+  end: '22807'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage presents WAAN No. 2 as a notated song with no words, only vocables.
+    It then describes another class of songs that some writers have mistaken for love
+    songs; these songs refer to flirtatious and amorous adventures and were sung by
+    men alone, not in the presence of women.
+  language: English with notated vocables
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is headed “WAAN NO. 2” and includes musical or vocal notation.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The song material is described as having no words and consisting of vocables.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The prose identifies another class of songs that some writers have mistaken
+    for love songs.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: That class of songs is said to refer to flirtatious and amorous adventures.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The songs were sung by men when they were by themselves and were not sung
+    in the presence of women.
+  category: action
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: men
+  description: Men are identified as the singers of the songs when by themselves.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: women
+  description: Women are mentioned as persons in whose presence the songs were not
+    sung.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: some writers
+  description: Some writers are said to have mistaken this class of songs for love
+    songs.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: male singers in private company
+  assigned_to:
+  - fig:1
+  basis: The passage says the songs were sung by men when by themselves.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: women not present during performance
+  assigned_to:
+  - fig:2
+  basis: The passage says the songs were not sung in the presence of women.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: writers who misidentified the song class
+  assigned_to:
+  - fig:3
+  basis: The passage says some writers mistook these songs for love songs.
+  evidence_refs:
+  - ev:2
+symbols: []
+scenes:
+- id: scene:1
+  label: Notated WAAN No. 2 vocable song
+  summary: The passage gives the heading and notation for WAAN No. 2 and states that
+    it has no words, only vocables.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Explanation of male-only amorous song class
+  summary: The passage explains a class of songs associated with flirtatious and amorous
+    adventures, distinguished from love songs and sung by men alone rather than before
+    women.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: wordless vocable song
+  taxonomy_refs: []
+  basis: WAAN No. 2 is described as having no words and only vocables.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is a musical-form pattern rather than a mythic narrative motif.
+- id: motif:2
+  label: male-only songs about flirtatious or amorous adventures
+  taxonomy_refs: []
+  basis: The prose states that the songs refer to flirtatious and amorous adventures
+    and were sung by men by themselves, not in the presence of women.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The passage is ethnographic and social-musical; it does not present a
+    mythic story or sacred narrative.
+- id: motif:3
+  label: song class mistaken for love songs
+  taxonomy_refs: []
+  basis: The passage explicitly says some writers have mistaken this class of songs
+    for love songs.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: This is primarily a genre-classification note by the authors, not an internally
+    narrated motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 22771-22790
+  quote_or_summary: "“No words — vocables Ha-hc lie ha he, etc.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: 22792-22802
+  quote_or_summary: The prose states that another class of songs has been mistaken
+    by some writers for love songs and that these songs refer to flirtatious and amorous
+    adventures.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized for evidence.
+- id: ev:3
+  type: quote
+  locator: 22802-22805
+  quote_or_summary: "“They were not sung in the presence of women but by men when
+    by themselves.”"
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward from the prose. Motif candidacy is
+    limited because the passage concerns social song classification rather than a
+    narrative myth. No comparison claims were extracted.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The page footer text was not treated as passage content. No available taxonomy motif or symbol reference was applied because the passage does not support one directly.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l22771-l22807
+  passage_sha256=4de70e95df3c85c751b11a6a46c9abf0de7d42767504d41edd92d0e76f16decc
+

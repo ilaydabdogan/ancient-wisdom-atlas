@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l9229-l9252
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: CANNIBALISM. / CANNIBALISM. / CANNIBALISM. / U GUN GQTJ-KUBANTWANA.; lines
+    9229-9252
+  start: '9229'
+  end: '9252'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: she could not eat the milk of her son-in-law.
+  summary: An old woman lives with her daughter at her son-in-law's kraal during a
+    famine. The son-in-law offers her amasi and then a cow or milk, but she refuses
+    because she cannot eat her son-in-law's milk. An explanatory note states that
+    parents-in-law may not eat their son-in-law's milk and describes related milk
+    restrictions.
+  language: English with Zulu title and terms
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The old woman lives with her daughter at her son-in-law's kraal and is identified
+    as the mother-in-law.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that there was little food because it was a famine.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The son-in-law offers the old woman amasi and tells her to eat.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The old woman refuses the amasi.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The son-in-law offers her a cow and tells her to eat the milk.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The old woman refuses and says that she cannot eat the milk of her son-in-law.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The note states that a father-in-law and mother-in-law may not eat their son-in-law's
+    milk and gives related restrictions on milk between affinal households.
+  category: relationship
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: old woman
+  description: An old woman living with her daughter; identified as the mother-in-law.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: daughter
+  description: The daughter with whom the old woman lives.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: son-in-law
+  description: The old woman's son-in-law; he offers her amasi and then a cow or milk.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+roles:
+- id: role:1
+  label: mother-in-law
+  assigned_to:
+  - fig:1
+  basis: The passage identifies the old woman as the mother-in-law.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: daughter
+  assigned_to:
+  - fig:2
+  basis: The passage says the old woman was living with her daughter.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: son-in-law
+  assigned_to:
+  - fig:3
+  basis: The household is described as the son-in-law's kraal, and he is called her
+    son-in-law.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:4
+  label: food and milk offerer
+  assigned_to:
+  - fig:3
+  basis: He offers amasi and then a cow or milk to the old woman.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:5
+  label: refuser of son-in-law's milk
+  assigned_to:
+  - fig:1
+  basis: She refuses both amasi and milk from her son-in-law, stating that she cannot
+    eat his milk.
+  evidence_refs:
+  - ev:2
+  - ev:3
+symbols:
+- id: sym:1
+  label: milk and amasi
+  literal_form: amasi; milk
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: cow
+  literal_form: cow
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: son-in-law's kraal
+  literal_form: kraal
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Old woman in her son-in-law's household
+  summary: An old woman lives with her daughter at the kraal of her son-in-law and
+    is described as the mother-in-law.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Refusal of amasi during famine
+  summary: During a famine with little food, the son-in-law offers amasi to the old
+    woman, but she refuses it.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Refusal of son-in-law's milk
+  summary: The son-in-law offers a cow and milk, and the old woman refuses, explaining
+    that she cannot eat her son-in-law's milk.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Affinal milk taboo
+  taxonomy_refs: []
+  basis: The old woman refuses milk from her son-in-law, and the note states that
+    parents-in-law may not eat their son-in-law's milk.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage gives the rule in an explanatory note; its wider ritual or
+    symbolic scope should not be inferred beyond the supplied text.
+- id: motif:2
+  label: Refusal of food in famine because of kinship restriction
+  taxonomy_refs: []
+  basis: The son-in-law offers food in a famine, but the mother-in-law refuses amasi
+    and milk because of the son-in-law relationship.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The passage excerpt does not include later narrative consequences, so
+    the motif's function in the larger tale remains uncertain.
+comparison_claims:
+- id: claim:1
+  claim: 'Within the passage and its note, the old woman''s refusal has the same stated
+    social function as other milk restrictions described for affinal or prospective
+    marital relations: limiting who may eat milk from another household.'
+  claim_level: same_function
+  target: Related milk prohibitions described in the explanatory note for parents-in-law,
+    bride elect, and suitor
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is an internal comparison to the passage's own explanatory note,
+    not evidence for historical contact or a broader external motif distribution.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 9229-9237
+  quote_or_summary: The passage opens with the title and states that an old woman
+    lives with her daughter at her son-in-law's kraal; she is the mother-in-law.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 9238-9244
+  quote_or_summary: The son-in-law offers the old woman amasi and tells her to eat
+    because there is little food in a famine; she refuses the amasi.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 9244-9248
+  quote_or_summary: He offered her a cow and milk; she refused, saying that she could
+    not eat the milk of her son-in-law.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; short quotation/paraphrase.
+- id: ev:4
+  type: summary
+  locator: lines 9250-9252 and note 95
+  quote_or_summary: The note explains that fathers-in-law and mothers-in-law may not
+    eat their son-in-law's milk, and gives related restrictions for a bride elect,
+    suitor, and members of different houses.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source metadata; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif and comparison labels are cautious
+    because the excerpt is brief and does not include the broader tale context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No external comparisons or taxonomy motif IDs were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l9229-l9252
+  passage_sha256=4bc97c1e8b27bc9f80a5b7741e1d1bacd8c192fd4847b7c6cbabb46799be05fe
+

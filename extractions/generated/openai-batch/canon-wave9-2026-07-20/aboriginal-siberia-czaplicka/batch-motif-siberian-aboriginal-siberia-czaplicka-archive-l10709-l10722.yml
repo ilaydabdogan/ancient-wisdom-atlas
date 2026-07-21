@@ -1,0 +1,298 @@
+---
+record_id: batch.motif.siberian-aboriginal-siberia-czaplicka-archive-l10709-l10722
+source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+passage_locator:
+  label: THE  ACCESSORIES   OF  THE   SHAMAN  205 / THE   ACCESSORIES   OF  THE   SHAMAN  207
+    / THE   ACCESSORIES   OF   THE   SHAMAN  209 / THE   ACCESSORIES   OF  THE   SHAMAN  211;
+    lines 10709-10722
+  start: '10709'
+  end: '10722'
+  translation: Aboriginal Siberia - A Study in Social Anthropology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses disputed names and interpretations for disk or circle-shaped
+    objects associated with the shaman's coat. It reports copper disks sewn on the
+    backs and sometimes breasts of shamanic coats among north-western Asian Mongolians/Altaians,
+    and a Dolgan breast disk said by one source to represent a chief evil spirit,
+    a reading disputed by another source who treats the term as a word for the disk
+    itself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A genitive form is described as showing that the named objects belong to the
+    shaman's coat.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: One cited author gives a term glossed as a joyous or happy sun, while Troshchanski
+    is reported to reject that form and prefer a term glossed as a laughing circle.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Among Mongolians of north-western Asia, two round copper disks are reported
+    as sewn on the back of the shaman's coat, with sometimes two additional disks
+    on the breasts.
+  category: object
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The round copper disks on the coat are said to be called by Altaian terms
+    rendered in the passage as kusungy or kuler-kusungii.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Dolgan shamans are reported to have a disk hanging on the breast.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Tretyakoff is reported to interpret the Dolgan breast disk as representing
+    a chief evil spirit called kiiganna.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Troshchanski disputes the evil-spirit interpretation and suggests that kuganna
+    is a Yakut term for the disk itself.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: shaman
+  description: Generic ritual specialist whose coat bears the described disk or circle
+    objects.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: kiiganna/kuganna
+  description: A name Tretyakoff reports as a chief evil spirit represented by the
+    breast disk; Troshchanski disputes this and identifies the word as a term for
+    the disk.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: wearer of disk-bearing shamanic coat
+  assigned_to:
+  - fig:1
+  basis: The objects are described as belonging to the shaman's coat, and disks are
+    described as sewn or hanging on the coat or breast of shamans.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+- id: role:2
+  label: reported represented spirit or disputed object-name
+  assigned_to:
+  - fig:2
+  basis: One source treats the name as a chief evil spirit represented by the disk,
+    while another treats it as a word for the disk.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols:
+- id: sym:1
+  label: round copper disks on shamanic coat
+  literal_form: Two round copper disks sewn on the back of a shaman's coat, with sometimes
+    two more on the breasts.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Dolgan breast disk
+  literal_form: A disk hanging on the breast of a Dolgan shaman, interpreted by one
+    source as representing kiiganna and by another as simply the disk named kuganna.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:3
+  label: circle object belonging to shaman's coat
+  literal_form: A named circle or disk-like object whose grammatical form is said
+    to indicate possession by the shaman's coat.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+scenes:
+- id: scene:1
+  label: Terminological discussion of coat accessories
+  summary: The passage presents conflicting scholarly interpretations of terms for
+    disk or circle-like objects attached to the shaman's coat.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Copper disks sewn to shamanic coats
+  summary: A cited account states that Mongolian shamans of north-western Asia have
+    round copper disks sewn to the back of the coat and sometimes to the breasts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Dolgan breast disk and disputed referent
+  summary: A Dolgan shaman's breast disk is reported by one source as representing
+    a chief evil spirit, while another source disputes this and treats the name as
+    referring to the disk itself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: disk-bearing shamanic garment
+  taxonomy_refs: []
+  basis: Multiple statements describe disk or circle objects attached to a shaman's
+    coat, including copper disks on the back and breast.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage is an ethnographic discussion of ritual accessories rather
+    than a myth narrative; symbolic meanings are not consistently explained.
+- id: motif:2
+  label: ritual disk as represented spirit or disputed object-name
+  taxonomy_refs: []
+  basis: The Dolgan breast disk is said by one source to represent a chief evil spirit,
+    while another source says the term names the disk rather than a spirit.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The spirit interpretation is explicitly disputed in the passage.
+- id: motif:3
+  label: ritual-object terminology corrected through linguistic comparison
+  taxonomy_refs: []
+  basis: Several terms for the object are reported, glossed, and corrected by cited
+    scholars, including the suggestion that kuganna is a Yakut word for the disk.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+  confidence: medium
+  cautions: OCR and transliteration uncertainty make exact lexical forms uncertain;
+    this is a scholarly philological pattern rather than a narrative motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a visual comparison between Mongolian/Altaian shamanic
+    coat disks and the Dolgan breast disk as disk-shaped accessories worn on shamanic
+    clothing.
+  claim_level: visual_similarity
+  target: Mongolian/Altaian and Dolgan shamanic disk accessories within the cited
+    Siberian and north-western Asian material
+  evidence_refs:
+  - ev:3
+  - ev:4
+  counter_evidence_refs:
+  - ev:5
+  confidence: medium
+  limitations: The passage does not establish identical meaning or ritual function;
+    the Dolgan interpretation as a spirit-representation is disputed.
+- id: claim:2
+  claim: The passage presents a cautious linguistic comparison between the name reported
+    as kiganna/kuganna and a Yakut term for the disk.
+  claim_level: linguistic_similarity
+  target: Dolgan kiganna/kuganna and the Yakut term for the disk mentioned by Troshchanski
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: The claim depends on a cited scholarly suggestion and the passage contains
+    unstable transliteration or OCR forms.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 10709-10710
+  quote_or_summary: Troshchanski's term is discussed, and the genitive form is said
+    to show that the objects belong to the shaman's coat.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 10711-10714
+  quote_or_summary: Priklonski's gloss as a happy or joyous sun is reported; Troshchanski
+    rejects it and says the term should mean laughing circle.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:3
+  type: summary
+  locator: lines 10714-10718
+  quote_or_summary: Potanin states that among Mongolians of north-western Asia, two
+    round copper disks are sewn on the back of the shaman's coat, sometimes with two
+    others on the breasts, and gives Altaian names for them.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 10718-10720
+  quote_or_summary: Tretyakoff reports that Dolgan shamans have a disk hanging on
+    the breast, representing the chief evil spirit called kiiganna.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 10720-10721
+  quote_or_summary: Troshchanski suggests that kuganna is not an evil-spirit term
+    but the Yakut word for the disk.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+- id: ev:6
+  type: summary
+  locator: line 10722
+  quote_or_summary: A note states that Sieroszewski quotes a native description of
+    the object elsewhere.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain source; summary generated from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The material evidence is clear at a general level, but several object names
+    are affected by transliteration/OCR uncertainty and by explicit disagreement among
+    cited authorities.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy motif family or symbol reference was assigned because the passage concerns shamanic garment disks rather than the listed taxonomy items.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-aboriginal-siberia-czaplicka-archive__l10709-l10722
+  passage_sha256=59103605d863279db232f3186bd16e2be8d11176a797cec65ad4189e12ce61e7
+

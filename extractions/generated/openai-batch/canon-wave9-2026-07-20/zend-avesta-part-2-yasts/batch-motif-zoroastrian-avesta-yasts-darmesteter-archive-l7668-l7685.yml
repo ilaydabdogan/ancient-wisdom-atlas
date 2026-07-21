@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.zoroastrian-avesta-yasts-darmesteter-archive-l7668-l7685
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+passage_locator:
+  label: MIHIR YAST. 151 / XXXI. / MIHIR VAST. 15; / MIHIR VAST. 155; lines 7668-7685
+  start: '7668'
+  end: '7685'
+  translation: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: all the Daevas unseen and the Varenya fiends flee away in fear.
+  summary: The passage says Bushyasta, unseen Daevas, and Varenya fiends flee in fear.
+    A speaker prays not to encounter Mithra’s angry rush or be smitten by him. Mithra
+    is described as standing on the earth and as strongest, most valiant, most energetic,
+    swiftest, and most fiend-smiting among the gods. The speaker vows to offer him
+    a sacrifice for his brightness and glory.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Bushyasta, the unseen Daevas, and the Varenya fiends flee away in fear.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The speaker asks not to fall across the rush of Mithra when he is angry.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The speaker asks that Mithra not smite them in anger.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Mithra is described as standing upon the earth.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Mithra is described as strongest, most valiant, most energetic, swiftest,
+    and most fiend-smiting among the gods.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The speaker says they will offer Mithra a sacrifice for his brightness and
+    glory.
+  category: action
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Mithra, lord of wide pastures
+  description: A god invoked by the speaker; described as angry, capable of smiting,
+    standing upon earth, and foremost among gods in strength, valor, energy, swiftness,
+    and fiend-smiting.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Bushyasta
+  description: Called long-handed; flees away in fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: unseen Daevas
+  description: A group said to flee away in fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: Varenya fiends
+  description: A group said to flee away in fear.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:5
+  name_or_label: speaker or worshipping group
+  description: The voice that prays not to be struck by Mithra and vows to offer him
+    sacrifice.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: powerful fiend-smiting deity
+  assigned_to:
+  - fig:1
+  basis: Mithra is called the most fiend-smiting of the gods and is feared in anger.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:2
+  label: fearful hostile beings
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: These beings are said to flee away in fear.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: ritual petitioner
+  assigned_to:
+  - fig:5
+  basis: The speaker petitions Mithra not to smite them and vows to offer sacrifice.
+  evidence_refs:
+  - ev:2
+  - ev:4
+symbols:
+- id: sym:1
+  label: brightness and glory
+  literal_form: Mithra’s brightness and glory
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:2
+  label: sacrifice
+  literal_form: a sacrifice worth being heard
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: earth
+  literal_form: this earth
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Fiends flee in fear
+  summary: Bushyasta, unseen Daevas, and Varenya fiends flee away in fear.
+  figure_refs:
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Prayer before angry Mithra
+  summary: The speaker prays not to encounter Mithra’s angry rush or be smitten by
+    him, while describing Mithra’s surpassing strength and fiend-smiting power.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Vow of sacrifice
+  summary: The speaker vows to offer sacrifice to Mithra for his brightness and glory.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: fearful flight of hostile beings before a powerful deity
+  taxonomy_refs:
+  - duality
+  basis: The passage presents hostile beings or fiends fleeing in fear, while Mithra
+    is described as the most fiend-smiting of the gods.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: medium
+  cautions: The passage does not explicitly state that the beings flee because of
+    Mithra in this excerpt, though the sequence and epithets support a cautious linkage.
+- id: motif:2
+  label: divine anger and threatened smiting
+  taxonomy_refs:
+  - divine_judgment
+  basis: The speaker asks not to encounter Mithra in anger and not to be smitten by
+    him.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage speaks of divine anger and smiting, but does not describe
+    a formal judgment scene.
+- id: motif:3
+  label: ritual sacrifice to a radiant deity
+  taxonomy_refs:
+  - sacrifice
+  basis: The speaker vows to offer Mithra a sacrifice for his brightness and glory.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The passage gives only the vow of sacrifice, not the ritual details.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 7668-7671
+  quote_or_summary: Bushyasta flees in fear; all unseen Daevas and Varenya fiends
+    flee in fear.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; brief quotation or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 7673-7678
+  quote_or_summary: "“May we never fall across the rush of Mithra ... when in anger”;
+    may Mithra never smite the speaker’s group in anger."
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; brief quotation or summary used.
+- id: ev:3
+  type: summary
+  locator: lines 7678-7683
+  quote_or_summary: Mithra stands upon the earth and is described as strongest, most
+    valiant, most energetic, swiftest, and most fiend-smiting of all gods.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; summary used.
+- id: ev:4
+  type: quote
+  locator: lines 7684-7685
+  quote_or_summary: "“For his brightness and glory, I will offer him a sacrifice worth
+    being heard.”"
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  rights_note: Public domain source; brief quotation used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal figures and actions are clear. Motif classification is cautious,
+    especially for divine judgment and duality, because the excerpt is short and does
+    not provide broader context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage does not itself support a specific cross-textual comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-yasts-darmesteter-archive__l7668-l7685
+  passage_sha256=e851e38e551c1a379250c4a06f455c2ab81dbf5b37cd3adb5187949c9fd302d0
+

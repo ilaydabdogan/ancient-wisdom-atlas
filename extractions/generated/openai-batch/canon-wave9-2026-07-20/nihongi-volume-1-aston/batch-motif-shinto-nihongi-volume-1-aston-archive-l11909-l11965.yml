@@ -1,0 +1,461 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l11909-l11965
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 98. / A.D. 110. / KEIKO. 203 / KEIKO. 205; lines 11909-11965
+  start: '11909'
+  end: '11965'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Yamato-dake no Mikoto sets out on an eastern expedition, visits the shrine
+    of Ise, and receives the sword Kusa-nagi from Yamato-hime no Mikoto. In Suruga,
+    brigands lure him into a moor and set it on fire; he escapes by making a counter-fire,
+    while an alternate version says the sword mows down the surrounding herbage. He
+    then destroys the robber-band, after which the place is named Yaketsu, and proceeds
+    toward Sagami and Kadzusa.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Yamato-dake no Mikoto sets out on a journey in winter on the 10th month, 2nd
+    day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: On the 7th day, he turns aside to worship at the shrine of Ise and takes leave
+    of Yamato-hime no Mikoto.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Yamato-dake no Mikoto says he is proceeding east by order of the Emperor to
+    put rebels to death.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Yamato-hime no Mikoto gives Yamato-dake no Mikoto the sword Kusa-nagi and
+    tells him to be cautious but not remiss.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: In Suruga, local brigands feign obedience and deceive him by claiming that
+    a moor contains many large deer suitable for hunting.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: Yamato-dake no Mikoto believes the brigands and enters the middle of the moor
+    to seek game.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The brigands set fire to the moor because they wish to kill the Prince.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: In the main account, the Prince recognizes the deception, produces fire with
+    a fire-drill, kindles a counter-fire, and escapes.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: An alternate version says the sword Mura-kumo wields itself and mows away
+    the herbage near the Prince, allowing him to escape; this is given as the reason
+    the sword was called Kusa-nagi.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: The Prince says he was almost betrayed, burns the robber-band, exterminates
+    them, and the place is called Yaketsu.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:11
+  text: Afterward he marches to Sagami, wishes to proceed to Kadzusa, looks over the
+    sea, and begins to address it aloud.
+  category: sequence
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Yamato-dake no Mikoto
+  description: A Prince who sets out on an eastern expedition, receives the sword
+    Kusa-nagi, is ambushed in a burning moor, escapes, and destroys the robber-band.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+  - ev:6
+- id: fig:2
+  name_or_label: Yamato-hime no Mikoto
+  description: The figure at Ise from whom Yamato-dake no Mikoto takes leave; she
+    gives him the sword Kusa-nagi and gives a warning.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: The Emperor
+  description: The ruler whose order sends Yamato-dake no Mikoto east against rebels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Brigands of Suruga / robber-band
+  description: Local brigands who feign obedience, lure the Prince into a moor, set
+    it on fire to kill him, and are later exterminated.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+roles:
+- id: role:1
+  label: commissioned expeditionary prince
+  assigned_to:
+  - fig:1
+  basis: He sets out and says he is proceeding east by the Emperor's order against
+    rebels.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: sword-giver and counselor at Ise
+  assigned_to:
+  - fig:2
+  basis: She gives Kusa-nagi to Yamato-dake no Mikoto and admonishes him to be cautious.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: imperial order-giver
+  assigned_to:
+  - fig:3
+  basis: Yamato-dake states that the expedition is by order of the Emperor.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: deceiving ambushers
+  assigned_to:
+  - fig:4
+  basis: They feign obedience, lure the Prince into the moor, and set fire to it to
+    kill him.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: retaliatory destroyer of robber-band
+  assigned_to:
+  - fig:1
+  basis: After escaping, he burns and exterminates the robber-band.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: Kusa-nagi / Mura-kumo sword
+  literal_form: Named sword given to Yamato-dake no Mikoto; in one version it moves
+    by itself and mows surrounding herbage.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:5
+  - ev:8
+- id: sym:2
+  label: Shrine of Ise
+  literal_form: Shrine where Yamato-dake no Mikoto turns aside to worship and takes
+    leave of Yamato-hime no Mikoto.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Moor fire and counter-fire
+  literal_form: Fire set by the brigands in the moor and the counter-fire kindled
+    by the Prince to escape.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: Moor and herbage
+  literal_form: The moor into which the Prince is lured; in the alternate version,
+    its herbage is mowed down by the sword.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+- id: sym:5
+  label: Sea between Sagami and Kadzusa
+  literal_form: The sea viewed and addressed by Yamato-dake no Mikoto after he marches
+    to Sagami.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:7
+- id: sym:6
+  label: Yaketsu place-name
+  literal_form: Place-name assigned after the Prince burns and exterminates the robber-band;
+    a note glosses it as a port or ferry of burning.
+  associated_figures:
+  - fig:1
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+  - ev:8
+scenes:
+- id: scene:1
+  label: Departure and visit to Ise
+  summary: Yamato-dake no Mikoto sets out, turns aside to worship at Ise, takes leave
+    of Yamato-hime no Mikoto, states the Emperor's order, and receives the sword Kusa-nagi
+    with a warning.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Deceptive hunting lure in Suruga
+  summary: The brigands of Suruga feign obedience and lure Yamato-dake no Mikoto into
+    a moor by speaking of abundant deer.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Burning moor and escape
+  summary: The brigands set fire to the moor to kill the Prince. The main account
+    says he makes a counter-fire and escapes; an alternate version says the sword
+    mows away the herbage to enable escape.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Retaliation and naming of Yaketsu
+  summary: After saying he was almost betrayed, Yamato-dake no Mikoto burns and exterminates
+    the robber-band, and the place is called Yaketsu.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:6
+  evidence_refs:
+  - ev:6
+  - ev:8
+- id: scene:5
+  label: March to Sagami and speech over the sea
+  summary: Yamato-dake no Mikoto marches to Sagami, intends to proceed to Kadzusa,
+    looks over the sea, and begins a loud statement about it.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: Commissioned heroic departure
+  taxonomy_refs:
+  - departure
+  basis: The Prince sets out on a journey and states that he proceeds east by the
+    Emperor's order, taking leave before departure.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage presents the departure in chronicle style and does not elaborate
+    a full quest structure.
+- id: motif:2
+  label: Sacred weapon bestowed before danger
+  taxonomy_refs:
+  - sacred_exchange
+  basis: At Ise, Yamato-hime no Mikoto gives the named sword Kusa-nagi to Yamato-dake
+    no Mikoto with an admonition before he encounters danger.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The act is a gift or bestowal; the passage does not describe a reciprocal
+    exchange.
+- id: motif:3
+  label: Deceptive hunting lure leading to ambush
+  taxonomy_refs: []
+  basis: The brigands feign obedience, speak deceptively of plentiful deer, and lure
+    the Prince into the moor before setting it on fire.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: No broader taxonomy reference is assigned from the supplied list.
+- id: motif:4
+  label: Escape from lethal fire through countermeasure or wondrous weapon
+  taxonomy_refs: []
+  basis: The main account has the Prince generate a counter-fire to escape; an alternate
+    version has the sword act on its own to clear the herbage.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The passage preserves two different mechanisms for the same escape, so
+    the precise motif form is variant.
+- id: motif:5
+  label: Etiological naming after event
+  taxonomy_refs: []
+  basis: The sword is called Kusa-nagi because it mowed herbage in the alternate version,
+    and the place is called Yaketsu after the burning of the robber-band.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  confidence: high
+  cautions: The comparison is internal to this passage and its notes.
+comparison_claims:
+- id: claim:1
+  claim: 'The passage gives two same-function variants for Yamato-dake no Mikoto''s
+    escape from the burning moor: counter-fire produced by fire-making and autonomous
+    grass-cutting by the sword.'
+  claim_level: same_function
+  target: Alternate version of the burning-moor escape within the same passage
+  evidence_refs:
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The alternate version is brief and does not explain its source beyond
+    'one version says.'
+- id: claim:2
+  claim: The sword-name Kusa-nagi and the place-name Yaketsu are both explained by
+    events in the narrative, forming an internal etiological naming pattern.
+  claim_level: same_motif
+  target: Etiological naming pattern within the passage
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a passage-internal pattern, not evidence here for historical
+    contact or common inheritance.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 11909-11912
+  quote_or_summary: Yamato-dake no Mikoto sets out on his journey in winter on the
+    10th month, 2nd day.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 11913-11922
+  quote_or_summary: He turns aside to worship at Ise, takes leave of Yamato-hime no
+    Mikoto, says the Emperor sends him east against rebels, and receives Kusa-nagi
+    with the warning to be cautious and not remiss.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 11923-11931
+  quote_or_summary: In Suruga, brigands feign obedience and deceive him by describing
+    abundant large deer on a moor; he believes them and enters the moor seeking game.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:4
+  type: summary
+  locator: lines 11932-11938
+  quote_or_summary: The brigands set the moor on fire to kill the Prince; he sees
+    the deception, produces fire by a fire-drill, kindles a counter-fire, and escapes.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 11939-11945
+  quote_or_summary: An alternate version says the sword Mura-kumo wielded itself and
+    mowed away the herbage near the Prince, enabling escape; therefore the sword was
+    called Kusa-nagi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 11946-11949
+  quote_or_summary: The Prince says he was almost betrayed, burns and exterminates
+    the robber-band, and the place is called Yaketsu.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:7
+  type: summary
+  locator: lines 11950-11955
+  quote_or_summary: He next marches to Sagami, wishes to proceed to Kadzusa, looks
+    over the sea, and says aloud that it is only a little sea; the supplied excerpt
+    breaks off soon after.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; concise summary used.
+- id: ev:8
+  type: note
+  locator: lines 11956-11964
+  quote_or_summary: Notes identify Yamato-hime as priestess in the chronology, discuss
+    the fire-striker/fire-drill, gloss Mura-kumo as 'Assembled-clouds,' Kusa-nagi
+    as 'the herbage mower,' Yaketsu as a burning-related port or ferry, and the sea
+    as the bay of Yedo.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation and notes; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Extraction is based only on the supplied public-domain passage. Motif assignments
+    are cautious because the chronicle passage presents brief narrative events and
+    one alternate version. The final sea episode is incomplete in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No historical-contact or common-inheritance claims are made. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l11909-l11965
+  passage_sha256=34d57950992606c0b7a0e3e89ad1b06d153dfb0d860ba371af7d7273e822dde9
+

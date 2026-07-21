@@ -1,0 +1,305 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l20792-l20819
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 417 / OF THE OLD NORTHMEN. 419 / OF THE OLD NORTHMEN.
+    421 / OF THE OLD NORTHMEN. 423; lines 20792-20819
+  start: '20792'
+  end: '20819'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: neither to cut nor comb his hair till he had conquered the whole of Norway
+  summary: The passage discusses Harold Fairhair’s vow not to cut or comb his hair
+    until conquering Norway, his later bathing and grooming after fulfilment, and
+    the resulting name Shockhead. It then compares the Longbeard/Lombard story with
+    a possible oath by emigrant colonizing warriors, notes lack of evidence for a
+    Scandinavian libation-oath connection, and mentions spear-throwing as a fecial
+    ceremony in Hildebrand’s.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Harold Fairhair vowed not to cut or comb his hair until he had conquered all
+    Norway.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: After fulfilling the vow, Harold took a bath and had his hair cut and combed.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The name Shockhead is presented as a contemporary name and as a monument of
+    Harold’s task and its fulfilment.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The Longbeard story of Paul the Deacon is described as possibly referring
+    to a vow taken by emigrant warriors going forth to colonise.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says the name Lombard may be owing to the oath, while the original
+    tribal name was Winnil.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The passage states that a connection between libation, sponsio, and oath is
+    not apparently known to the Scandinavians, and that evidence for a libation is
+    lacking.
+  category: other
+  evidence_refs:
+  - ev:4
+- id: obs:7
+  text: Spear-throwing in Hildebrand’s is mentioned under fecial ceremonies.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Harold Fairhair
+  description: A figure who made a hair-cutting and combing vow until conquering Norway,
+    then bathed and had his hair cut and combed after fulfilment.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Emigrant warriors in the Longbeard story
+  description: Warriors of an over-populous tribe, associated by the passage with
+    going forth to colonise and possibly taking a vow.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: vow-bound conqueror
+  assigned_to:
+  - fig:1
+  basis: Harold’s vow is tied to the condition of conquering the whole of Norway and
+    is fulfilled after that conquest.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: vow-taking colonizing warriors
+  assigned_to:
+  - fig:2
+  basis: The passage cautiously interprets the Longbeard story as possibly referring
+    to an oath by emigrant warriors going forth to colonise.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: uncut and uncombed hair
+  literal_form: hair left uncut and uncombed during a vow
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: bath and grooming after fulfilment
+  literal_form: bath, haircut, and combing after the vow is fulfilled
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: oath-derived name
+  literal_form: the names Shockhead and Lombard as names linked in the passage to
+    vow or oath fulfilment
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:4
+  label: spear-throwing ceremony
+  literal_form: throwing a spear in a fecial ceremony
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Harold’s hair vow and fulfilment
+  summary: Harold makes a vow not to cut or comb his hair until conquering Norway,
+    then bathes and has his hair cut and combed after the vow is fulfilled.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Longbeard colonizing oath hypothesis
+  summary: The passage presents the Longbeard story as possibly preserving a vow by
+    emigrant warriors of an over-populous tribe going forth to colonise, and links
+    the Lombard name to the oath.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Notes on oath ritual evidence
+  summary: The passage says that evidence is lacking for a Scandinavian libation-oath
+    connection and briefly identifies spear-throwing in Hildebrand’s as a fecial ceremony.
+  figure_refs: []
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: vow marked by uncut hair until conquest
+  taxonomy_refs: []
+  basis: Harold’s uncut and uncombed hair is explicitly tied to a vow whose fulfilment
+    depends on conquering Norway.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is scholarly commentary and does not provide a full narrative
+    episode beyond the vow and fulfilment.
+- id: motif:2
+  label: ritual grooming after fulfilment of a vow
+  taxonomy_refs: []
+  basis: After the vow is fulfilled, Harold bathes and has his hair cut and combed.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage does not explicitly call the bath and haircut a ritual; it
+    only reports the sequence after fulfilment.
+- id: motif:3
+  label: oath or vow giving rise to an epithet or tribal name
+  taxonomy_refs: []
+  basis: Harold’s name Shockhead is linked to his completed task, and the passage
+    says the name Lombard may be owing to an oath.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: medium
+  cautions: The Lombard connection is presented cautiously, and the passage does not
+    give the full Longbeard narrative.
+- id: motif:4
+  label: collective oath before colonizing departure
+  taxonomy_refs:
+  - departure
+  basis: The Longbeard story is interpreted as possibly referring to a vow by emigrant
+    warriors going forth to colonise.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: 'The wording is conjectural: the story only ''looks as if'' it had reference
+    to such a vow.'
+- id: motif:5
+  label: spear-throwing as formal fecial ceremony
+  taxonomy_refs: []
+  basis: The passage lists spear-throwing in Hildebrand’s under fecial ceremonies.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: The reference is very brief and gives no details of the ceremony in the
+    quoted passage.
+comparison_claims:
+- id: claim:1
+  claim: The passage cautiously compares Harold Fairhair’s hair vow with the Longbeard/Lombard
+    material as cases where a vow or oath is reflected in a public name or identity
+    marker.
+  claim_level: same_function
+  target: Longbeard story of Paul the Deacon and the Lombard name
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The comparison is inferential; the passage uses cautious language and
+    does not quote the Longbeard story itself.
+- id: claim:2
+  claim: The passage identifies spear-throwing in Hildebrand’s as belonging to the
+    functional category of fecial ceremony.
+  claim_level: same_function
+  target: fecial ceremonies
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: low
+  limitations: Only a fragmentary reference is supplied, without a narrative description
+    of the spear-throwing.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 20792-20795
+  quote_or_summary: Harold Fairhair vowed neither to cut nor comb his hair until conquering
+    Norway; when the vow was fulfilled, he bathed and had his hair cut and combed.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt summarized.
+- id: ev:2
+  type: summary
+  locator: lines 20795-20797
+  quote_or_summary: The passage says the name Shockhead, given by Harold’s contemporaries,
+    commemorates his arduous task and its happy fulfilment.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 20797-20800
+  quote_or_summary: The Longbeard story of Paul the Deacon is said to look as if it
+    referred to a vow by emigrant warriors of an over-populous tribe going forth to
+    colonise; the name Lombard may owe to this oath, while the original tribal name
+    was Winnil.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 20802-20805
+  quote_or_summary: The passage states that the connection between libation, sponsio,
+    and oath is not apparently known to Scandinavians, and that there is no evidence
+    for a libation connection in the noted case.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 20807-20809
+  quote_or_summary: The passage notes spear-throwing in Hildebrand’s under the heading
+    of fecial ceremonies.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: low
+  notes: The passage is editorial commentary rather than a full mythic narrative.
+    Harold’s vow is clear, but the Longbeard/Lombard and fecial-ceremony material
+    is presented briefly and partly conjecturally.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No unsupported libation-oath motif was extracted because the passage explicitly says evidence is lacking.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l20792-l20819
+  passage_sha256=284a092b23f51f3e76c63abaa935b14be40ccdb339ee82cb31a998cd237ce52a
+

@@ -1,0 +1,342 @@
+---
+record_id: batch.motif.zoroastrian-avesta-vendidad-darmesteter-archive-l12992-l13040
+source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+passage_locator:
+  label: FARGARD XIV. 1 67 / FARGARD XIV. 1 69 / I JO VENDIDAD / FARGARD XV. I 73;
+    lines 12992-13040
+  start: '12992'
+  end: '13040'
+  translation: 'The Zend-Avesta, Part I: The Vendidad'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage lists several sins: harming a dog by giving it dangerous bones
+    or hot food; causing a pregnant bitch to die by frightening or striking her; intercourse
+    with a woman who has an issue of blood; and the beginning of a rule concerning
+    intercourse with a pregnant woman. Several offenses are said to make the man a
+    Peshotanu.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Giving too hard bones or too hot food to a shepherd's dog or house dog is
+    identified as the second of the listed sins.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: If the bones stick in the dog's teeth or throat, or hot food burns its mouth
+    or tongue, and the dog dies, the man becomes a Peshotanu.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Smiting a pregnant bitch or frightening her by running after her with shouting
+    or clapping is identified as the third sin.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: If the pregnant bitch falls into a hole, well, precipice, river, or canal
+    and dies, the man becomes a Peshotanu.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Intercourse with a woman who has an issue of blood, whether irregular or at
+    the usual period, is identified as the fourth sin and makes the man a Peshotanu.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage begins a fifth sin concerning intercourse with a woman quick with
+    child, but the excerpt is cut off after a reference to milk.
+  category: action
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: A note states that at four months and ten days of pregnancy the child is formed
+    and a soul is added to its body.
+  category: other
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: man committing the offense
+  description: A man who gives dangerous food to dogs, frightens or strikes a pregnant
+    bitch, or has prohibited intercourse.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: shepherd's dog or house dog
+  description: A dog that may be harmed by too hard bones or too hot food.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: bitch big with young
+  description: A pregnant bitch who may be struck or frightened and may die after
+    falling into a hazardous place.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:4
+  name_or_label: woman with an issue of blood
+  description: A woman described as having an issue of blood, either outside the ordinary
+    course or at the usual period.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: woman quick with child
+  description: A pregnant woman mentioned in the beginning of the fifth listed sin.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: offender
+  assigned_to:
+  - fig:1
+  basis: The passage repeatedly describes sins that men commit and states that the
+    offender becomes a Peshotanu.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:2
+  label: animal victim
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The dogs are the beings harmed or killed by the described actions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:3
+  label: pregnant being
+  assigned_to:
+  - fig:3
+  - fig:5
+  basis: The passage identifies a bitch big with young and a woman quick with child.
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: role:4
+  label: woman in prohibited-intercourse rule
+  assigned_to:
+  - fig:4
+  - fig:5
+  basis: The fourth and fifth listed sins concern intercourse with women in specified
+    bodily states.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: dangerous food
+  literal_form: too hard bones; too hot food
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: hazardous fall places
+  literal_form: hole, well, precipice, river, canal
+  associated_figures:
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: blood issue
+  literal_form: issue of blood
+  associated_figures:
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: milk reference
+  literal_form: milk
+  associated_figures:
+  - fig:5
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Dog harmed by improper feeding
+  summary: A man gives a shepherd's dog or house dog bones or hot food; if the dog
+    is injured and dies, the man is declared a Peshotanu.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Pregnant bitch frightened into fatal danger
+  summary: A man strikes or frightens a pregnant bitch; if she falls into a dangerous
+    place and dies, the man is declared a Peshotanu.
+  figure_refs:
+  - fig:1
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Intercourse with woman having blood issue
+  summary: A man has intercourse with a woman who has an issue of blood, and this
+    is said to make him a Peshotanu.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Beginning of rule on intercourse with pregnant woman
+  summary: The passage begins to state a fifth sin involving intercourse with a woman
+    quick with child, but the excerpt is incomplete.
+  figure_refs:
+  - fig:1
+  - fig:5
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: transgression causing Peshotanu status
+  taxonomy_refs: []
+  basis: Multiple listed actions are defined as sins and are followed by the consequence
+    that the man becomes a Peshotanu.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage defines a religious-legal consequence, but does not explain
+    the full meaning of Peshotanu within this excerpt.
+- id: motif:2
+  label: protection of dogs from human-caused harm
+  taxonomy_refs: []
+  basis: The passage treats killing a dog through dangerous feeding and killing a
+    pregnant bitch through frightening or striking as serious sins.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a passage-level legal pattern rather than a narrative mythic episode.
+- id: motif:3
+  label: sexual prohibition tied to blood and pregnancy
+  taxonomy_refs: []
+  basis: The passage prohibits intercourse with a woman having an issue of blood and
+    begins a prohibition concerning intercourse with a pregnant woman.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: The fifth rule is incomplete in the provided excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12994-12997
+  quote_or_summary: 'Second sin: a man gives too hard bones or too hot food to a shepherd''s
+    dog or house dog.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 12999-13004
+  quote_or_summary: If bones stick in the dog's teeth or throat, or hot food burns
+    its mouth or tongue, and the dog dies, the man is made a Peshotanu.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 13006-13009
+  quote_or_summary: 'Third sin: a man smites a pregnant bitch or frightens her by
+    running after her with shouting or clapping.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 13011-13015
+  quote_or_summary: If the bitch falls into a hole, well, precipice, river, or canal
+    and dies, the man is made a Peshotanu.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 13017-13021
+  quote_or_summary: 'Fourth sin: intercourse with a woman who has an issue of blood,
+    whether irregular or at the usual period; this makes the man a Peshotanu.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 13023-13026
+  quote_or_summary: 'Fifth sin begins: intercourse with a woman quick with child;
+    the provided excerpt ends after the phrase about whether milk has already occurred.'
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+- id: ev:7
+  type: summary
+  locator: footnote 5, lines 13037-13040
+  quote_or_summary: A note explains that after four months and ten days of pregnancy
+    the child is formed and a soul is added to its body.
+  source_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward for the completed rules. Motif labeling
+    is cautious because the excerpt is primarily legal-prescriptive rather than narrative,
+    and the final rule is incomplete.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a direct comparison to another text, tradition, or motif family.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:zoroastrian-avesta-vendidad-darmesteter-archive__l12992-l13040
+  passage_sha256=014276f5da0e04307ba4b59f9f60564c603e97bacd3190a2c7e8c2ddefd6eae6
+

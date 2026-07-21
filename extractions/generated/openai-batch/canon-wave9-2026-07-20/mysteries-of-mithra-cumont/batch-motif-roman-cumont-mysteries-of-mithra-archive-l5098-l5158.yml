@@ -1,0 +1,223 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l5098-l5158
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    MYSTERIES    OF    MITHRA / DOCTRINE    OF    THE    M1THRAIC    MYSTERIES  123
+    / THE    MYSTERIES    OF    MITHRA / H      53; lines 5098-5158
+  start: '5098'
+  end: '5158'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"belief in Fatality"; "an Inevitable Destiny controlling the events of this
+    world"'
+  summary: 'The passage states that Babylon introduced into Mazdaism a central doctrine
+    of Fatality: an inevitable Destiny controlling worldly events and inseparably
+    joined to the revolution of the starry heavens. The excerpt ends with an incomplete
+    phrase identifying this Destiny with a name beginning “Zer-.”'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The opening fragment says that the existence of men was controlled and the
+    course of things was guided, but the subject of this clause is missing in the
+    supplied excerpt.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says Babylon introduced a capital doctrine into Mazdaism.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The doctrine is described as belief in Fatality.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage describes an Inevitable Destiny as controlling the events of this
+    world.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The passage says this Destiny is inseparably conjoined with the revolution
+    of the starry heavens.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The excerpt ends while saying that this Destiny was identified with a name
+    beginning “Zer-.”
+  category: other
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Babylon
+  description: Named as the source that introduced the doctrine into Mazdaism.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Mazdaism
+  description: Named as the tradition into which the doctrine was introduced.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Fatality / Inevitable Destiny
+  description: A controlling destiny associated with the events of the world and the
+    starry heavens.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: men
+  description: Humans whose existence is said in the opening fragment to be controlled.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: doctrinal source
+  assigned_to:
+  - fig:1
+  basis: Babylon is said to have introduced the doctrine into Mazdaism.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: recipient tradition
+  assigned_to:
+  - fig:2
+  basis: Mazdaism is named as the tradition receiving the doctrine introduced by Babylon.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: cosmic controller
+  assigned_to:
+  - fig:3
+  basis: Fatality or Inevitable Destiny is said to control worldly events and to be
+    joined with the revolution of the starry heavens.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: affected humans
+  assigned_to:
+  - fig:4
+  basis: The opening fragment refers to the existence of men being controlled.
+  evidence_refs:
+  - ev:1
+symbols:
+- id: sym:1
+  label: starry heavens
+  literal_form: the revolution of the starry heavens
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Doctrine of fatal destiny
+  summary: 'The passage presents a doctrinal claim: Babylon introduced into Mazdaism
+    belief in Fatality, conceived as an inevitable Destiny controlling the world and
+    joined to the revolution of the starry heavens.'
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: cosmic fatality governing worldly events
+  taxonomy_refs: []
+  basis: The passage explicitly describes belief in Fatality and an Inevitable Destiny
+    controlling the events of this world.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: The supplied taxonomy has no exact motif-family reference for fate or
+    fatalism.
+- id: motif:2
+  label: celestial revolution linked to destiny
+  taxonomy_refs: []
+  basis: The passage says Destiny is inseparably conjoined with the revolution of
+    the starry heavens.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The excerpt does not elaborate a full astrological system; it only states
+    the connection between Destiny and the starry heavens.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself makes a historical-comparative claim that a doctrine of
+    Fatality was introduced from Babylon into Mazdaism.
+  claim_level: historical_contact
+  target: Babylonian doctrine in Mazdaism
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a claim reported within the supplied modern scholarly passage;
+    the excerpt provides no primary evidence or detailed argument for the transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5098-5158, opening fragment
+  quote_or_summary: The fragment says the existence of men was controlled and the
+    course of things guided, though the controlling subject is not present in the
+    excerpt.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5098-5158
+  quote_or_summary: "“This was the capital doctrine that Babylon introduced into Mazdaism:
+    belief in Fatality”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:3
+  type: quote
+  locator: lines 5098-5158
+  quote_or_summary: "“an Inevitable Destiny controlling the events of this world and
+    inseparably conjoined with the revolution of the starry heavens”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: quote
+  locator: lines 5098-5158, ending fragment
+  quote_or_summary: "“This Destiny, identified with Zer-”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short quotation used; passage is truncated.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is fragmentary and includes OCR/page-header noise. Extraction
+    is limited to explicit doctrinal statements present in the supplied excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol directly matches the starry heavens image, and no exact motif-family reference for fatality or astrological destiny is present in the supplied taxonomy.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l5098-l5158
+  passage_sha256=14b9862fca2f2a02c1097c07f963957c4a990bee3262b5bd6d2762c8cf4db123
+

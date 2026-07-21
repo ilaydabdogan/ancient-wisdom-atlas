@@ -1,0 +1,262 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l3486-l3525
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: THE  STORY  OF  SIMBUKUMBUKWANA,      73 / THE  STORY  OF  SIMBUKUMBUKWANA.      75
+    / THE  STORY  OF  SIMBUKUMBUKWANA,       77 / THE  STORY  OF  SIKULUME.; lines
+    3486-3525
+  start: '3486'
+  end: '3525'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: At the beginning of the story of Sikulume, a poor old childless man with
+    a few cattle sits by the cattle-fold on a clear sunny day. He notices seven unusually
+    beautiful birds singing joyfully nearby. They have long tails and topknots and
+    sing differently from other birds. The old man reports what he has seen to the
+    chief, who asks how many birds there were.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage begins in a certain village with an old man who is very poor.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The old man has no children and only a few cattle.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The old man sits by the cattle-fold on a clear, bright day.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The old man notices birds close by that are singing very joyfully.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The birds are described as very beautiful, as singing differently from other
+    birds, and as having long tails and topknots on their heads.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The old man goes to the chief and tells him what he has seen.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The chief asks how many birds there were, and the old man replies that there
+    were seven.
+  category: speech
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: poor old man
+  description: An old man in a village who is very poor, has no children, and has
+    only a few cattle.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:2
+  name_or_label: seven birds
+  description: Seven nearby birds that sing joyfully, are very beautiful, sing differently
+    from other birds, and have long tails and topknots.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:3
+  name_or_label: chief
+  description: The chief to whom the old man reports the birds; he asks how many there
+    were.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: childless poor elder
+  assigned_to:
+  - fig:1
+  basis: The old man is described as very poor, without children, and with only a
+    few cattle.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: witness and reporter
+  assigned_to:
+  - fig:1
+  basis: He observes the unusual birds and reports what he has seen to the chief.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:3
+  label: unusual beautiful singing birds
+  assigned_to:
+  - fig:2
+  basis: The birds are beautiful, sing differently from other birds, have distinctive
+    tails and topknots, and are counted as seven.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: chief as recipient of report
+  assigned_to:
+  - fig:3
+  basis: The old man tells the chief what he has seen, and the chief asks for the
+    number of birds.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: seven birds
+  literal_form: Seven beautiful birds with long tails and topknots, singing joyfully
+    and differently from other birds.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: cattle-fold
+  literal_form: The place by which the old man sits when he first sees the birds.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: few cattle
+  literal_form: The old man's small number of cattle.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+scenes:
+- id: scene:1
+  label: Old man at the cattle-fold
+  summary: A poor old childless man with a few cattle sits by the cattle-fold on a
+    clear sunny day.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Discovery of the seven birds
+  summary: The old man notices seven unusually beautiful birds nearby, listens to
+    their joyful singing, and observes their distinctive appearance.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Report to the chief
+  summary: The old man reports the sight to the chief, who asks how many birds there
+    were; the old man answers that there were seven.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: poor childless elder encounters a marvel
+  taxonomy_refs: []
+  basis: The opening presents a poor old man with no children who encounters unusually
+    beautiful birds near the cattle-fold.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The excerpt only gives the opening encounter; its later narrative function
+    is not available in this passage.
+- id: motif:2
+  label: seven unusual singing birds
+  taxonomy_refs: []
+  basis: The birds are explicitly counted as seven and distinguished from ordinary
+    birds by their beauty, song, long tails, and topknots.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  confidence: high
+  cautions: No broader symbolic meaning for the number or the birds is stated in the
+    excerpt.
+- id: motif:3
+  label: marvel reported to a chief
+  taxonomy_refs: []
+  basis: After seeing the unusual birds, the old man goes to the chief and tells him
+    what he has seen; the chief questions him about their number.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The passage does not show what action the chief takes after receiving
+    the report.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 3486-3496
+  quote_or_summary: In a certain village there is a very poor old man with no children
+    and only a few cattle; on a clear sunny day he sits by the cattle-fold.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 3497-3513
+  quote_or_summary: The old man notices nearby birds singing joyfully, listens, stands
+    to observe them, and sees that they are beautiful, sing differently from other
+    birds, and have long tails and topknots.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 3514-3525
+  quote_or_summary: The old man goes to the chief and reports what he has seen. The
+    chief asks how many birds there were, and the old man answers that there were
+    seven.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward despite OCR damage in the supplied
+    passage. Motif labels are cautious and passage-local because the excerpt provides
+    only the story opening.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No taxonomy motif family was assigned because the excerpt does not support one from the available list. No comparison claims were made.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l3486-l3525
+  passage_sha256=bcdd4ac0bcbff3df0d9f7caf776c4c864b38fd70c5c3627bfd8900e80cbd37e6
+

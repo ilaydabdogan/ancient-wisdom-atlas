@@ -1,0 +1,473 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l9233-l9312
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: RPL RLE LET BEE LEAD / MYTHS OF ORIGINS AND THE DELUGE 183 / MYTHS OF ORIGINS
+    AND THE DELUGE 185 / TRICKSTER TALES ' 187; lines 9233-9312
+  start: '9233'
+  end: '9312'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A series of trickster episodes describes the kantjil repeatedly deceiving
+    a tiger into harming himself with objects falsely presented as royal possessions.
+    A following Bornean mouse-deer episode begins with a fishing party whose smoked
+    fish are repeatedly stolen by a giant forest demon until the mouse-deer prepares
+    to catch the thief.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The tiger wants to eat the royal food; the kantjil warns him not to touch
+    it, then lets him do so after first getting safely away, and the tiger is deceived
+    and pursues him.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The kantjil sits beside a sleeping venomous snake and tells the tiger that
+    it is the king's magic girdle; when the tiger seizes it, the snake bites him.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The kantjil presents a clump of bamboo as the king's trumpet and induces the
+    tiger to put his tongue between two bamboos; a gust of wind makes the bamboos
+    pinch the tiger's tongue off.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The kantjil identifies a wasp's nest as the king's drum; after the tiger strikes
+    it, angry wasps swarm him.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: In a Bornean version, the mouse-deer goes fishing with the tortoise, deer,
+    elephant, and other animals, and the party decides to smoke part of a large catch.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: A huge giant, described as a forest demon, repeatedly steals and eats the
+    drying fish while different animals are left to guard it.
+  category: action
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: obs:7
+  text: After the other animals fail, the mouse-deer boasts that he will catch and
+    kill the thief, drives four strong posts into the ground, and gathers rattan to
+    begin plaiting.
+  category: action
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: kantjil
+  description: A small trickster animal who deceives the tiger in successive episodes
+    involving food, a snake, bamboo, and a wasp's nest.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: tiger
+  description: A larger adversary who desires the objects presented by the kantjil
+    and is repeatedly injured or deceived.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:3
+  name_or_label: venomous snake
+  description: A sleeping venomous snake falsely described by the kantjil as the king's
+    girdle; it bites the tiger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: angry wasps
+  description: A swarm emerging from the nest struck by the tiger.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: mouse-deer
+  description: The Bornean trickster figure who joins a fishing expedition and later
+    prepares to catch the fish thief.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+  - ev:7
+- id: fig:6
+  name_or_label: giant forest demon
+  description: A huge being who comes from the forest, steals the fish, eats them,
+    and leaves while the guards fail to stop him.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:6
+- id: fig:7
+  name_or_label: fishing animals
+  description: The tortoise, deer, elephant, and several other animals who fish with
+    the mouse-deer and take turns guarding the drying fish.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+roles:
+- id: role:1
+  label: trickster
+  assigned_to:
+  - fig:1
+  - fig:5
+  basis: The passage labels the surrounding material as trickster tales and describes
+    the kantjil's deceptions and the mouse-deer's famous exploit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+- id: role:2
+  label: deceived pursuer and adversary
+  assigned_to:
+  - fig:2
+  basis: The tiger is tricked, becomes furious, pursues the kantjil, and is repeatedly
+    tempted into further traps.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: role:3
+  label: dangerous being used in trick
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The snake and wasps injure the tiger after the kantjil represents their setting
+    as royal possessions.
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: role:4
+  label: fish thief
+  assigned_to:
+  - fig:6
+  basis: The giant forest demon steals and eats the drying fish.
+  evidence_refs:
+  - ev:6
+- id: role:5
+  label: unsuccessful guards
+  assigned_to:
+  - fig:7
+  basis: The animals take turns guarding the drying fish but fail to prevent the giant's
+    theft.
+  evidence_refs:
+  - ev:5
+  - ev:6
+symbols:
+- id: sym:1
+  label: royal food as lure
+  literal_form: royal food desired by the tiger
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: snake as king's girdle
+  literal_form: sleeping venomous snake falsely called the king's magic girdle
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: bamboo as king's trumpet
+  literal_form: clump of tall bamboo falsely called the king's trumpet
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: wasp nest as king's drum
+  literal_form: great wasp's nest falsely called the king's drum
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: drying fish
+  literal_form: fish caught by the party and smoked or dried for preservation
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:6
+  label: posts and rattan
+  literal_form: four strong posts driven into the ground and rattan collected for
+    plaiting
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Tiger deceived over royal food
+  summary: The kantjil warns the tiger away from royal food, then permits him to eat
+    only after escaping to safety; the tiger is deceived and chases him.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Snake presented as royal girdle
+  summary: The kantjil guards a sleeping venomous snake and calls it the king's magic
+    girdle; the tiger tries it and is bitten.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Bamboo presented as royal trumpet
+  summary: The kantjil calls tall bamboo the king's trumpet and persuades the tiger
+    to place his tongue between two bamboos, which the wind then forces together.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Wasp nest presented as royal drum
+  summary: The kantjil calls a wasp nest the king's drum and withdraws before the
+    tiger strikes it and is attacked by wasps.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Fishing party and fish theft
+  summary: The mouse-deer and other animals catch and preserve fish, but a giant forest
+    demon repeatedly steals and eats the drying fish while different animals are on
+    guard.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:6
+  label: Mouse-deer prepares against the thief
+  summary: After the other animals fail, the mouse-deer declares he will catch and
+    kill the thief and begins setting up posts and rattan.
+  figure_refs:
+  - fig:5
+  - fig:7
+  symbol_refs:
+  - sym:6
+  evidence_refs:
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: small trickster deceives stronger animal adversary
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The kantjil repeatedly survives pursuit by misleading the tiger into self-injury;
+    the Bornean mouse-deer is introduced as another trickster exploit.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:7
+  confidence: high
+  cautions: The passage is a secondary retelling and the Bornean episode is incomplete
+    within the provided range.
+- id: motif:2
+  label: dangerous ordinary thing disguised as royal object
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The kantjil represents a snake, bamboo, and a wasp's nest as royal possessions
+    or instruments, causing the tiger to approach or strike them.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The motif label is descriptive; no external motif-index identifier is
+    supplied.
+- id: motif:3
+  label: food theft by giant challenged by small trickster
+  taxonomy_refs:
+  - trickster_boundary
+  basis: A giant forest demon steals the animals' preserved fish after larger animals
+    fail to guard it, and the mouse-deer prepares to catch the thief.
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:7
+  confidence: medium
+  cautions: The provided passage ends before the outcome of the mouse-deer's plan.
+- id: motif:4
+  label: curiosity and desire exploited by warnings
+  taxonomy_refs:
+  - trickster_boundary
+  basis: The tiger's wish to try forbidden or royal things is repeatedly intensified
+    by the kantjil's warnings and apparent reluctance.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an inferred pattern across repeated episodes, not an explicit
+    named motif in the passage.
+comparison_claims:
+- id: claim:1
+  claim: 'The snake-girdle, bamboo-trumpet, and wasp-drum episodes share the same
+    narrative function: the trickster mislabels a dangerous object as a royal possession,
+    withdraws to safety, and the tiger harms himself.'
+  claim_level: same_function
+  target: successive kantjil-tiger trick episodes within the passage
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal structural comparison only; it does not establish
+    historical relationship beyond the passage.
+- id: claim:2
+  claim: The passage itself frames the Bornean mouse-deer episode as another exploit
+    of the trickster, allowing a cautious comparison with the preceding kantjil trickster
+    episodes at the level of trickster function.
+  claim_level: same_function
+  target: Bornean mouse-deer episode compared with preceding kantjil episodes
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:7
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The Bornean episode is incomplete in the supplied excerpt, so only
+    the setup and trickster framing can be compared.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 9233-9247
+  quote_or_summary: The tiger asks to eat the royal food; the kantjil warns against
+    it, then allows it after getting away, and the tiger is deceived and pursues him.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: 9248-9265
+  quote_or_summary: The kantjil waits beside a sleeping venomous snake, calls it the
+    king's magic girdle, lets the tiger approach after the kantjil escapes, and the
+    tiger is bitten.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: 9266-9277
+  quote_or_summary: The kantjil says a bamboo clump is the king's trumpet, induces
+    the tiger to put his tongue between bamboos, and a gust pinches the tiger's tongue
+    off.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:4
+  type: summary
+  locator: 9278-9289
+  quote_or_summary: The kantjil identifies a wasp's nest as the king's drum; after
+    he has moved away, the tiger strikes it and is attacked by angry wasps.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:5
+  type: summary
+  locator: 9290-9300
+  quote_or_summary: A Bornean version begins with the mouse-deer going fishing with
+    the tortoise, deer, elephant, and other animals; they make a large catch and decide
+    to smoke part of it.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: 9300-9309
+  quote_or_summary: A huge giant, called a forest demon, arrives from the forest,
+    steals and eats the drying fish, and leaves; this repeats while the animals take
+    turns guarding.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: 9309-9312
+  quote_or_summary: After all the other animals fail, the mouse-deer boasts that he
+    will catch and kill the thief, drives four strong posts into the ground, and gathers
+    rattan to plait.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The repeated kantjil-tiger episodes are clear in the excerpt. The Bornean
+    mouse-deer episode is truncated at the end of the supplied range, limiting motif
+    confidence for its outcome.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage, metadata, and available taxonomy references. Taxonomy references are limited to supplied motif families and symbols.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l9233-l9312
+  passage_sha256=43b1c5046fa5cd320e160cd201972cc40a444d06e9fbb6eec7b818d006377993
+

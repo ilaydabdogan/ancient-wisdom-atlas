@@ -1,0 +1,283 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l2308-l2337
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: STORY  OF  THE  BIRD   THAT  MADE  MILK.   43 / STORY  OF  THE  BIRD   THAT  MADE  MILK.   45
+    / STORY  OF  THE  BIRD   THAT  MADE  MILK,   47 / THE  STORY  OF  FIVE  HEADS.;
+    lines 2308-2337
+  start: '2308'
+  end: '2337'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The opening of “The Story of Five Heads” introduces a man with two marriageable
+    daughters. He visits a village across a river where a great chief lives, learns
+    that the chief wants a wife, returns home, and asks his daughters which of them
+    wishes to marry the chief. The eldest daughter, named Mpunzikazi, says that she
+    wishes to be the chief’s wife.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A man is said to have two daughters old enough to be married.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The man travels over a river to another village that is described as the residence
+    of a great chief.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: People in the other village ask the man for news; he says there is no news
+    from his place and asks for their news.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The people report that the news of their place is that the chief wants a wife.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The man returns home and asks his two daughters which of them wishes to be
+    the wife of a chief.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The eldest daughter answers that she wishes to be the wife of a chief; her
+    name is given as Mpunzikazi.
+  category: speech
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the man
+  description: A man with two daughters old enough to be married; he visits another
+    village and later questions his daughters about marrying a chief.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: fig:2
+  name_or_label: two daughters
+  description: The man’s two daughters, described as old enough to be married.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: great chief
+  description: A great chief whose residence is in the village across the river; the
+    village news is that he wants a wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:4
+  name_or_label: people of the other village
+  description: People who ask the visiting man for news and tell him that the chief
+    wants a wife.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: fig:5
+  name_or_label: Mpunzikazi
+  description: The eldest daughter of the man; she says she wishes to be the wife
+    of a chief.
+  role_refs:
+  - role:2
+  - role:5
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: father of marriageable daughters
+  assigned_to:
+  - fig:1
+  basis: The passage says the man had two daughters old enough to be married and shows
+    him asking them about marriage to a chief.
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: role:2
+  label: marriageable daughter
+  assigned_to:
+  - fig:2
+  - fig:5
+  basis: The daughters are described as old enough to be married; Mpunzikazi is the
+    eldest daughter who responds to the marriage question.
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: role:3
+  label: chief seeking a wife
+  assigned_to:
+  - fig:3
+  basis: The village news is that the chief wants a wife.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: news-givers
+  assigned_to:
+  - fig:4
+  basis: The people of the village ask for news and then give the news about the chief.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: eldest daughter who volunteers
+  assigned_to:
+  - fig:5
+  basis: The eldest daughter says she wishes to be the wife of a chief.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: river
+  literal_form: river crossed by the man on the way to the chief’s village
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: chief’s wife
+  literal_form: desired marital status named by the villagers and by the man’s question
+    to his daughters
+  associated_figures:
+  - fig:2
+  - fig:3
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Visit to the chief’s village
+  summary: The man crosses a river to a village where a great chief lives. The villagers
+    ask him for news, and then tell him that their chief wants a wife.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Question to the daughters
+  summary: After returning home, the man asks his two daughters which of them wants
+    to be the wife of a chief. The eldest daughter, Mpunzikazi, says that she wants
+    this.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: two daughters as potential marriage candidates
+  taxonomy_refs:
+  - sibling_pair
+  basis: The narrative opens with a man who has two marriageable daughters and asks
+    which of them wishes to become the chief’s wife.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The excerpt shows the sibling-pair setup but does not yet show rivalry,
+    cooperation, contrast, or paired action between the daughters.
+- id: motif:2
+  label: chief seeks a wife
+  taxonomy_refs: []
+  basis: The village news states that the chief wants a wife, prompting the father
+    to ask his daughters about marrying a chief.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: No sacred or dynastic consequences are stated in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 2310-2314
+  quote_or_summary: A man living in a certain place has two daughters old enough to
+    be married.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: summary
+  locator: lines 2315-2318
+  quote_or_summary: The man goes over the river to another village, described as the
+    residence of a great chief.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 2318-2323
+  quote_or_summary: The people ask him for news; he says there is no news from his
+    place and asks about their news.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: quote
+  locator: lines 2324-2327
+  quote_or_summary: "“the chief wanted a wife.”"
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short quotation.
+- id: ev:5
+  type: quote
+  locator: lines 2328-2331
+  quote_or_summary: "“Which of you wishes to be the wife of a chief?”"
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short quotation.
+- id: ev:6
+  type: summary
+  locator: lines 2332-2337
+  quote_or_summary: The eldest daughter says that she wishes to be the wife of a chief,
+    and her name is given as Mpunzikazi.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is brief and appears to be the opening of a longer tale. Literal
+    extraction is straightforward, but motif identification is provisional because
+    later narrative developments are not included.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. The visible passage includes the tale title and opening events only.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l2308-l2337
+  passage_sha256=492f71939c4d029e9236272c90a564dbddf8ba641d13929039c763cbde6b61e3
+

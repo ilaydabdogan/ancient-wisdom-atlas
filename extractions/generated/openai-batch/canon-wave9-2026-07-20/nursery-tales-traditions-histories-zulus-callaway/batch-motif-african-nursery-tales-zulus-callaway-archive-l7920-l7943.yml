@@ -1,0 +1,240 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l7920-l7943
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: INHLAMVU. / THE HONEY-BIRD. / THE HONEY-BIRD. / ITSHE LIKANTUNJAMBILI.; lines
+    7920-7943
+  start: '7920'
+  end: '7943'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: "“Bock of Untunjambili, open for me, that I may enter.”"
+  summary: The passage introduces a fragment about the Rock of Two-holes, also described
+    as the cannibal’s cave. It is a dwelling of cannibals with a doorway that cannot
+    be opened by hand; it opens when someone near the doorway shouts the house’s name
+    and asks to enter. A note explains that Untunjambili means Two-holes.
+  language: English with Zulu title/name
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage is presented as a fragment inserted as an introduction to the
+    tale “The Girl and the Cannibals,” where the Rock of Two-holes is alluded to.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Rock of Two-holes is parenthetically identified as the rock of two holes
+    or the cannibal’s cave.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Rock of Two-holes is described as a house where cannibals lived.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The doorway had nothing a person could take hold of by hand to open it.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The dwelling was opened by mouth or shouting rather than by hands.
+  category: action
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: obs:6
+  text: The required speech names the house and asks it to open so the speaker may
+    enter.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: A footnote identifies Untunjambili as a personal name meaning Two-holes.
+  category: attribute
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: cannibals
+  description: The beings said to have lived in the Rock of Two-holes.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: a man who comes to the doorway
+  description: A generic person described as coming near the doorway and shouting
+    the opening words.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: inhabitants of the rock-house
+  assigned_to:
+  - fig:1
+  basis: The passage says the Rock of Two-holes was a house where cannibals lived.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: speaker seeking entrance
+  assigned_to:
+  - fig:2
+  basis: The passage describes a man coming near the doorway and shouting the formula
+    for entry.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: Rock of Two-holes / cannibal’s cave
+  literal_form: A rock, house, or cave associated with two holes and cannibals.
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: sym:2
+  label: ungraspable doorway
+  literal_form: A doorway with nothing that can be held by hand to open it.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: spoken opening formula
+  literal_form: The house-name shouted near the doorway with the request to open and
+    allow entry.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Editorial framing of the Rock of Two-holes fragment
+  summary: The fragment is introduced as related to the tale “The Girl and the Cannibals,”
+    in which the Rock of Two-holes is mentioned.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Opening the cannibal dwelling by speech
+  summary: The Rock of Two-holes is a cannibal dwelling whose doorway cannot be opened
+    by hand; entry is gained by shouting the house’s name and asking it to open.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Cannibal dwelling in a rock or cave
+  taxonomy_refs: []
+  basis: The passage identifies the Rock of Two-holes as the cannibal’s cave and as
+    a house where cannibals lived.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: high
+  cautions: The passage is a fragment and gives no narrative episode beyond the dwelling’s
+    description.
+- id: motif:2
+  label: Closed doorway opened by spoken name or formula
+  taxonomy_refs: []
+  basis: The doorway cannot be opened by hand and opens when the house is named and
+    asked to open.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not describe what happens after entry.
+- id: motif:3
+  label: Cunning access to an otherwise inaccessible entrance
+  taxonomy_refs: []
+  basis: The passage says the dwelling was opened by the cunning of the owner and
+    not by hands, but by mouth.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The identity and actions of the owner are not elaborated in the supplied
+    fragment.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself connects the Rock of Two-holes fragment with the tale
+    “The Girl and the Cannibals,” where the same named place is said to be alluded
+    to.
+  claim_level: same_motif
+  target: "“The Girl and the Cannibals” within the same collected Zulu oral-tradition
+    source"
+  evidence_refs:
+  - ev:1
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: Only the introductory note is supplied here; the related tale’s allusion
+    is not included in this passage.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7920-7927
+  quote_or_summary: The heading names ITSHE LIKANTUNJAMBILI, parenthetically “the
+    rock of two-holes” or “the cannibal’s cave,” and the editor says the fragment
+    introduces “The Girl and the Cannibals,” where the Rock of Two-holes is alluded
+    to.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: summary
+  locator: lines 7928-7933
+  quote_or_summary: The Rock of Two-holes is described as a house where cannibals
+    lived, opened by the cunning of the owner, not by hands but by mouth.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:3
+  type: quote
+  locator: lines 7933-7942
+  quote_or_summary: The doorway had no handhold; it was opened by shouting the house’s
+    name and saying, “Bock of Untunjambili, open for me, that I may enter.”
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:4
+  type: summary
+  locator: line 7943
+  quote_or_summary: Footnote 67 states that Untunjambili is a personal name meaning
+    Two-holes.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is short and fragmentary, but the named place, inhabitants, and
+    opening mechanism are explicit. Motif labeling is limited because the broader
+    tale is not included in this line range.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The apparent text form “Bock” is preserved in the quoted formula as supplied, though surrounding context indicates Rock.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l7920-l7943
+  passage_sha256=549c32fdd2d02ef157bcbab821e4f8d03e0226e426007174d0df2d85500cdf13
+

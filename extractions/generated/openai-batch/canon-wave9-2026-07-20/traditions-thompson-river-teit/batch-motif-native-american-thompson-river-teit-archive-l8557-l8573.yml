@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.native-american-thompson-river-teit-archive-l8557-l8573
+source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+passage_locator:
+  label: XXVII. TCISKI'KIK. / XXVIII. THE ANTS AND THE TWO BROTHERS. / XXIX. AQ. /
+    XXXII. THE YOUNG MEN WHO LOST THEIR MOTHER.; lines 8557-8573
+  start: '8557'
+  end: '8573'
+  translation: Traditions of the Thompson River Indians of British Columbia
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"country of the ghosts, across a great lake"'
+  summary: Two hunters discover that their mother has disappeared. After preparing
+    moccasins, they search in all four directions without success. Their guardian
+    spirit instructs them to go across a great lake to the country of the ghosts.
+    On the way the light changes from darker to lighter. At the house of the ghosts,
+    a man initially bars them, then admits them after removing their mortal parts.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Two hunters live with their mother and find on returning home that she has
+    disappeared.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The hunters make many moccasins and set out to search for their mother.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: They travel over the four points of the compass but do not find her.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Their guardian spirit instructs them to go to the country of the ghosts across
+    a great lake.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: As they proceed, it grows darker, and near their destination it grows lighter
+    again.
+  category: sequence
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: At the house of the ghosts, a man forbids them to enter, then lets them pass
+    after taking away their mortal parts.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: two hunters / young men
+  description: Two hunters who live with their mother and search for her after she
+    disappears.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: mother
+  description: The mother of the two hunters; she has disappeared before they return
+    home.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: guardian spirit
+  description: A guardian spirit whose instruction directs the hunters to the country
+    of the ghosts.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: ghosts
+  description: The dead or ghostly inhabitants associated with the country and house
+    of the ghosts.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: fig:5
+  name_or_label: man at the house of the ghosts
+  description: A man who bars entry to the house of the ghosts, then allows passage
+    after removing the hunters' mortal parts.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: searchers
+  assigned_to:
+  - fig:1
+  basis: They set out to search for their disappeared mother.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: paired sons or kin of the missing mother
+  assigned_to:
+  - fig:1
+  basis: The passage says the two hunters live with their mother and search for her.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: missing mother
+  assigned_to:
+  - fig:2
+  basis: She has disappeared when the hunters return home.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: spirit guide or adviser
+  assigned_to:
+  - fig:3
+  basis: The guardian spirit gives the instruction that sends them to the ghost country.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: ghostly inhabitants
+  assigned_to:
+  - fig:4
+  basis: The destination is called the country and house of the ghosts.
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: role:6
+  label: threshold guardian at the ghost house
+  assigned_to:
+  - fig:5
+  basis: He forbids entry, then permits passage only after taking away the hunters'
+    mortal parts.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: moccasins for the search journey
+  literal_form: many moccasins
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: four-direction search
+  literal_form: four points of the compass
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:3
+  label: great lake before ghost country
+  literal_form: a great lake
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:4
+- id: sym:4
+  label: country and house of the ghosts
+  literal_form: country of the ghosts; house of the ghosts
+  associated_figures:
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:6
+- id: sym:5
+  label: darkness and returning light on the approach
+  literal_form: it grows first darker and darker, then lighter again
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: mortal parts removed before entry
+  literal_form: their mortal parts
+  associated_figures:
+  - fig:1
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Mother found missing
+  summary: The two hunters return home and discover that their mother has disappeared.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Preparation and four-direction search
+  summary: They make many moccasins and search in all four directions without finding
+    her.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:3
+  label: Spirit-directed route to the ghost country
+  summary: Their guardian spirit instructs them to go across a great lake to the country
+    of the ghosts.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:4
+  label: Approach through changing light
+  summary: On the way, the environment grows darker and then lighter again as they
+    near the destination.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:5
+- id: scene:5
+  label: Threshold at the house of the ghosts
+  summary: A man at the ghost house blocks entry but permits them to pass after taking
+    away their mortal parts.
+  figure_refs:
+  - fig:1
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:4
+  - sym:6
+  evidence_refs:
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: journey to the land of the dead across water
+  taxonomy_refs:
+  - afterlife_journey_map
+  basis: Living hunters are instructed by a guardian spirit to travel across a great
+    lake to the country and house of the ghosts.
+  evidence_refs:
+  - ev:4
+  - ev:6
+  confidence: high
+  cautions: The passage is an abstract and does not give the full route or outcome.
+- id: motif:2
+  label: quest for a missing mother
+  taxonomy_refs:
+  - mystical_quest
+  basis: The hunters prepare for a long search after their mother disappears, fail
+    in a four-direction search, and are redirected by a guardian spirit to the ghost
+    realm.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: medium
+  cautions: The abstract does not state whether the mother is recovered or why she
+    disappeared.
+- id: motif:3
+  label: paired kin searchers
+  taxonomy_refs:
+  - sibling_pair
+  basis: Two hunters jointly live with and search for their mother.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage implies shared kinship through 'their mother' but does not
+    explicitly call the two hunters brothers.
+- id: motif:4
+  label: liminal transformation before entering the ghost realm
+  taxonomy_refs:
+  - initiation
+  basis: A man at the house of the ghosts permits entry only after taking away the
+    hunters' mortal parts.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: The passage states the removal of mortal parts but does not explain ritual
+    meaning or later consequences.
+comparison_claims:
+- id: claim:1
+  claim: The passage fits an afterlife-journey pattern in which living seekers reach
+    a ghost country across water and must undergo a threshold change before entry.
+  claim_level: same_motif
+  target: afterlife_journey_map
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The source passage is a brief abstract, so details of route, rules,
+    and return are not available here.
+- id: claim:2
+  claim: 'The entry episode has the same function as a liminal gatekeeping pattern:
+    a figure at the boundary controls access and alters the travelers'' mortal condition.'
+  claim_level: same_function
+  target: threshold guardian before otherworld entry
+  evidence_refs:
+  - ev:6
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage does not identify the man further or describe a formal
+    initiation.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 8557-8560
+  quote_or_summary: Two hunters living with their mother return home and find that
+    she has disappeared.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: summary
+  locator: lines 8560-8561
+  quote_or_summary: They make many moccasins and set out to search for her.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: lines 8561-8562
+  quote_or_summary: They travel over the four points of the compass but do not find
+    her.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: quote
+  locator: lines 8562-8564
+  quote_or_summary: By instruction of their guardian spirit, they go to the "country
+    of the ghosts, across a great lake."
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; short quote used.
+- id: ev:5
+  type: summary
+  locator: lines 8564-8566
+  quote_or_summary: As they proceed it grows darker and darker, and as they near their
+    destination it grows lighter again.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:6
+  type: summary
+  locator: lines 8566-8568
+  quote_or_summary: At the house of the ghosts, a man forbids entry but lets them
+    pass after taking away their mortal parts.
+  source_text_path: texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The basic extraction is clear, but motif interpretation is limited because
+    the passage is an abstract and omits the ending and broader narrative context.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. No external tale-type or motif-index identifiers were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-thompson-river-teit-archive__l8557-l8573
+  passage_sha256=9772462c3bb5d38efb213e04c81d0a025a96e3745ce4347cd6fab97f9e108e89
+

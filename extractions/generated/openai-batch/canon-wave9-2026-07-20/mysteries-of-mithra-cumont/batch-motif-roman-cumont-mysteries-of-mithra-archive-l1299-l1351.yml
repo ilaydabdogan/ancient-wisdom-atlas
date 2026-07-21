@@ -1,0 +1,366 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l1299-l1351
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    ORIGINS    OF    MITHRAISM  IQ / BACTRIAN    COINS. / THE    ORIGINS    OF    MITHRAISM
+    / TYPICAL   REPRESENTATION    OF   MITHRA.; lines 1299-1351
+  start: '1299'
+  end: '1351'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Mithra is sacrificing the bull in the cave.
+  summary: 'The passage captions a typical Mithraic bas-relief: Mithra sacrifices
+    a bull in a cave, accompanied by torch-bearing youths, animals, Helios, and Selene.
+    It also notes art-historical features used to attribute the type to Pergamon and
+    states that Mithra was associated with Helios without being subordinated to him.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The passage identifies a white-marble Borghesi bas-relief, now in the Louvre
+    and taken from the mithraeum of the Capitol, as a typical representation of Mithra.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mithra is described as sacrificing a bull in a cave.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The described monument includes youths with an upright and an inverted torch,
+    a snake, a dog, a raven, Helios, and Selene.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Helios is identified as the god of the sun, and Selene as the goddess of the
+    moon.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The text says Mithra was associated with Helios but was not subordinated to
+    him, and that Mithra's Persian name was not replaced in the liturgy by a translation.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage attributes the original of the artistic type to an artist of Pergamon
+    on the basis of Diadochian features, including a Phrygian cap, resemblance to
+    Alexander, and imitation of a Greek Nike bull-sacrifice motif.
+  category: relationship
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Mithra
+  description: Shown sacrificing the bull in the cave; later described as associated
+    with Helios but not subordinated to him.
+  role_refs:
+  - role:1
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:2
+  name_or_label: Bull
+  description: The bull being sacrificed by Mithra in the cave.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Torch-bearing youths
+  description: Youths represented with an upright torch and an inverted torch.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Snake
+  description: A snake listed among the characteristic features represented in the
+    Mithra monument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Dog
+  description: A dog listed among the characteristic features represented in the Mithra
+    monument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Raven
+  description: A raven listed among the characteristic features represented in the
+    Mithra monument.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:2
+- id: fig:7
+  name_or_label: Helios
+  description: Identified as the god of the sun and represented in the monument.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: fig:8
+  name_or_label: Selene
+  description: Identified as the goddess of the moon and represented in the monument.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: bull-sacrificing figure
+  assigned_to:
+  - fig:1
+  basis: The passage states that Mithra is sacrificing the bull in the cave.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bull being sacrificed
+  assigned_to:
+  - fig:2
+  basis: The bull is the object of Mithra's sacrifice.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: torch-bearing youths
+  assigned_to:
+  - fig:3
+  basis: The passage lists youths with an upright and an inverted torch.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: represented animal or bird in the monument
+  assigned_to:
+  - fig:4
+  - fig:5
+  - fig:6
+  basis: The snake, dog, and raven are listed among the characteristic features represented
+    in the monument.
+  evidence_refs:
+  - ev:2
+- id: role:5
+  label: celestial deity
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: Helios is identified as the god of the sun, and Selene as the goddess of
+    the moon.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: deity associated with Helios but not subordinated to him
+  assigned_to:
+  - fig:1
+  basis: The passage states that Mithra was associated with Helios but not subordinated
+    to him.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: cave
+  literal_form: cave
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: bull
+  literal_form: bull
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: upright and inverted torches
+  literal_form: upright torch and inverted torch
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: snake
+  literal_form: snake
+  associated_figures:
+  - fig:4
+  taxonomy_refs:
+  - serpent
+  evidence_refs:
+  - ev:2
+- id: sym:5
+  label: dog
+  literal_form: dog
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:6
+  label: raven
+  literal_form: raven
+  associated_figures:
+  - fig:6
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:7
+  label: sun deity
+  literal_form: Helios, god of the sun
+  associated_figures:
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:8
+  label: moon deity
+  literal_form: Selene, goddess of the moon
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Mithraic bull sacrifice in a cave
+  summary: In the described bas-relief, Mithra sacrifices a bull in a cave. The scene
+    includes torch-bearing youths, a snake, a dog, a raven, Helios, and Selene.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  - sym:7
+  - sym:8
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: bull sacrifice in a cave
+  taxonomy_refs:
+  - sacrifice
+  basis: The passage explicitly states that Mithra sacrifices the bull in the cave.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage identifies the scene iconographically but does not explain
+    its ritual or theological meaning.
+- id: motif:2
+  label: opposed torch-bearing youths
+  taxonomy_refs: []
+  basis: The characteristic features include youths with an upright torch and an inverted
+    torch.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage names the opposed torch positions but does not interpret them.
+- id: motif:3
+  label: sun and moon deities represented together
+  taxonomy_refs: []
+  basis: Helios, god of the sun, and Selene, goddess of the moon, are both listed
+    as represented features of the monument.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not state their function in the scene.
+- id: motif:4
+  label: Mithra associated with Helios without subordination
+  taxonomy_refs: []
+  basis: The passage states that Mithra was associated with Helios, but not subordinated
+    to him, and that his Persian name was retained in liturgy.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: This is a theological or liturgical relationship rather than a narrative
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a cautious visual comparison between the Mithraic bull-sacrifice
+    type and a classical Greek group of Nike sacrificing a bull, because it states
+    that the Mithraic type imitates that motif.
+  claim_level: visual_similarity
+  target: classical Greek group of Nike sacrificing a bull
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage gives an art-historical attribution and comparison but
+    does not provide detailed visual analysis or independent evidence for transmission.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 1299-1311
+  quote_or_summary: 'Figure caption identifies a typical representation of Mithra:
+    the famous Borghesi white-marble bas-relief, now in the Louvre, originally from
+    the mithraeum of the Capitol.'
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; source metadata indicates full text allowed.
+- id: ev:2
+  type: quote
+  locator: lines 1312-1318
+  quote_or_summary: Mithra is sacrificing the bull in the cave; characteristic features
+    include torch-bearing youths, snake, dog, raven, Helios, and Selene.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt/summary.
+- id: ev:3
+  type: summary
+  locator: lines 1319-1327
+  quote_or_summary: The text cites the Phrygian cap, resemblance to Alexander, and
+    imitation of the classical Greek Nike bull-sacrifice motif as Diadochian features
+    used to attribute the original type to an artist of Pergamon.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 1337-1345
+  quote_or_summary: Mithra is said to be associated with Helios but not subordinated
+    to him; his Persian name was not replaced in liturgy by a translation.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The iconographic elements are explicit in the passage. Motif interpretation
+    is limited because the passage is chiefly a figure caption and art-historical
+    note, with a partial sentence at the end.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. The final sentence in the passage is truncated, so no extraction was based on its incomplete claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l1299-l1351
+  passage_sha256=ccea916046b2eda2756f64c41240af048d13bd46cad3aa11f765ff7142c4162f
+

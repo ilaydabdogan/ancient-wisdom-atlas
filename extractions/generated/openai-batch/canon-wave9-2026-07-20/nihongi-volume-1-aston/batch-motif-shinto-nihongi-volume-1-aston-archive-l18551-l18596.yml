@@ -1,0 +1,531 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l18551-l18596
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: A.D. 422. / XIII. 13. / A.D. 425. / INGIO. EX:; lines 18551-18596
+  start: '18551'
+  end: '18596'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A divine speaker says that beasts were not caught by his intent and requires
+    a pearl from the bottom of the sea of Akashi as an offering. Fishermen search
+    for it; Wosashi dives to the bottom, retrieves a great sea-ear containing a peach-sized
+    pearl, and dies after surfacing. The pearl is offered to the God of the Island,
+    after which many beasts are caught, and Wosashi is buried in a tomb. The next
+    dated notice names Imperial Prince Kinashi Karu heir to the throne and describes
+    his beauty, his sister's beauty, and his desire to be united with her.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A divine speaker states that no beast was caught by his intent and says a
+    pearl at the bottom of the sea of Akashi must be sacrificed to him for the people
+    to catch all the beasts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Fishermen from various places are assembled and ordered to search the bottom
+    of the sea of Akashi.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The divers cannot reach the sea bottom until Wosashi, a fisherman of Naga-zato
+    in Aha, ties a rope to his loins and descends.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Wosashi reports that a great sea-ear is at the sea bottom and that the place
+    is shining.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The people infer that the pearl requested by the God of the Island is inside
+    the sea-ear's belly.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Wosashi resurfaces carrying the great sea-ear, but he has stopped breathing
+    and dies on the surface of the waves.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: The sea depth is measured as sixty fathoms.
+  category: attribute
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: When the sea-ear is split open, a true pearl the size of a peach is found
+    in its belly.
+  category: object
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: The pearl is offered to the God of the Island, and after a hunt many beasts
+    are caught.
+  category: sequence
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: Wosashi is mourned, given a tomb, and reverently interred; the tomb is said
+    to exist at the time of the text.
+  category: action
+  evidence_refs:
+  - ev:10
+- id: obs:11
+  text: Imperial Prince Kinashi Karu is made Heir to the Throne and is described as
+    fair to look upon and spontaneously loved by those who see him.
+  category: attribute
+  evidence_refs:
+  - ev:11
+- id: obs:12
+  text: Imperial Princess Karu no Oho-iratsume, the Heir Apparent's sister by the
+    same mother, is described as beautiful.
+  category: relationship
+  evidence_refs:
+  - ev:12
+- id: obs:13
+  text: The Heir Apparent's thoughts are described as constantly bent on becoming
+    united to his sister.
+  category: attribute
+  evidence_refs:
+  - ev:13
+figures:
+- id: fig:1
+  name_or_label: God of the Island
+  description: A god who is said to have prevented the capture of beasts and who asks
+    for a pearl from the sea of Akashi.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:5
+  - ev:9
+- id: fig:2
+  name_or_label: Wosashi
+  description: A fisherman of Naga-zato in the province of Aha who excels other fishers,
+    dives to the sea bottom, retrieves the sea-ear, and dies after surfacing.
+  role_refs:
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:10
+- id: fig:3
+  name_or_label: Fishermen of various places
+  description: Fishermen assembled to search the bottom of the sea of Akashi.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: fig:4
+  name_or_label: Everybody / the people present
+  description: The group that identifies the shining sea-ear as probably containing
+    the requested pearl.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:5
+- id: fig:5
+  name_or_label: Imperial Prince Kinashi Karu
+  description: An imperial prince made Heir to the Throne, described as fair and loved
+    by those who see him.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:11
+  - ev:13
+- id: fig:6
+  name_or_label: Imperial Princess Karu no Oho-iratsume
+  description: The sister by the same mother of the Heir Apparent, described as beautiful.
+  role_refs:
+  - role:9
+  evidence_refs:
+  - ev:12
+  - ev:13
+roles:
+- id: role:1
+  label: divine withholder of game
+  assigned_to:
+  - fig:1
+  basis: The speaker says it was by his intent that no beast was caught.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: recipient of offering
+  assigned_to:
+  - fig:1
+  basis: The requested pearl is later offered to the God of the Island.
+  evidence_refs:
+  - ev:1
+  - ev:9
+- id: role:3
+  label: exceptional diver-fisherman
+  assigned_to:
+  - fig:2
+  basis: Wosashi is identified as a fisherman who excels all the fishers and reaches
+    the bottom by rope-aided descent.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: dead retriever of the pearl-bearing sea-ear
+  assigned_to:
+  - fig:2
+  basis: He returns with the sea-ear but dies on the waves and is buried.
+  evidence_refs:
+  - ev:6
+  - ev:10
+- id: role:5
+  label: collective searchers
+  assigned_to:
+  - fig:3
+  basis: Fishermen from various places are assembled to search the sea bottom.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: interpreters of the shining sea-ear
+  assigned_to:
+  - fig:4
+  basis: The group says the requested pearl is probably inside the sea-ear.
+  evidence_refs:
+  - ev:5
+- id: role:7
+  label: heir apparent
+  assigned_to:
+  - fig:5
+  basis: Kinashi Karu is made Heir to the Throne.
+  evidence_refs:
+  - ev:11
+- id: role:8
+  label: desirer of union with sister
+  assigned_to:
+  - fig:5
+  basis: His thoughts are said to be constantly bent on becoming united to his sister.
+  evidence_refs:
+  - ev:13
+- id: role:9
+  label: beautiful sister by same mother
+  assigned_to:
+  - fig:6
+  basis: The princess is identified as the Heir Apparent's sister by the same mother
+    and is described as beautiful.
+  evidence_refs:
+  - ev:12
+symbols:
+- id: sym:1
+  label: sea of Akashi
+  literal_form: sea / sea bottom
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:7
+- id: sym:2
+  label: required pearl
+  literal_form: pearl at the bottom of the sea; true pearl in the sea-ear belly, size
+    like a peach
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:8
+  - ev:9
+- id: sym:3
+  label: great sea-ear
+  literal_form: large sea-ear containing the pearl in its belly
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:8
+- id: sym:4
+  label: rope for descent and measurement
+  literal_form: rope tied to Wosashi's loins; rope later let down to measure the depth
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:7
+- id: sym:5
+  label: Wosashi's tomb
+  literal_form: tomb made for Wosashi after his death and said to still exist
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:10
+scenes:
+- id: scene:1
+  label: Divine demand for a sea-bottom pearl
+  summary: A god explains the failure to catch beasts as his doing and states that
+    a pearl from the sea of Akashi must be sacrificed to him before beasts can be
+    caught.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Search and descent into the sea
+  summary: Fishermen are assembled to search the sea bottom. Wosashi, distinguished
+    from the other fishers, ties a rope to himself, dives, and reports a shining place
+    with a great sea-ear.
+  figure_refs:
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Recovery of the sea-ear and Wosashi's death
+  summary: The people suspect the pearl is in the sea-ear. Wosashi dives again, resurfaces
+    holding it, and dies on the surface of the waves.
+  figure_refs:
+  - fig:2
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:3
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: scene:4
+  label: Pearl offering and successful hunt
+  summary: The sea is measured at sixty fathoms. The sea-ear is opened, a true pearl
+    is found, the pearl is offered to the God of the Island, and many beasts are caught.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:5
+  label: Burial of Wosashi
+  summary: The people grieve over Wosashi's death, make a tomb, and reverently inter
+    him.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:5
+  evidence_refs:
+  - ev:10
+- id: scene:6
+  label: Appointment of Kinashi Karu and desire for his sister
+  summary: Kinashi Karu is made heir apparent and is praised for beauty. His sister
+    Karu no Oho-iratsume is also praised for beauty, and he is said to desire union
+    with her.
+  figure_refs:
+  - fig:5
+  - fig:6
+  symbol_refs: []
+  evidence_refs:
+  - ev:11
+  - ev:12
+  - ev:13
+candidate_motifs:
+- id: motif:1
+  label: Offering demanded by a deity to restore successful hunting
+  taxonomy_refs:
+  - sacrifice
+  - sacred_exchange
+  basis: The God of the Island requires the pearl as a sacrifice; after the pearl
+    is offered, a hunt catches many beasts.
+  evidence_refs:
+  - ev:1
+  - ev:9
+  confidence: high
+  cautions: The offering is a pearl rather than an animal or human victim; the passage
+    frames it as a sacrifice/exchange for hunting success.
+- id: motif:2
+  label: Dangerous descent to a watery depth to retrieve a precious object
+  taxonomy_refs:
+  - hero_descent
+  basis: Wosashi descends to the bottom of the sea, locates and retrieves the sea-ear
+    containing the pearl, and dies after returning to the surface.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:8
+  confidence: medium
+  cautions: The passage does not explicitly call Wosashi a hero or present the dive
+    as an underworld journey; the motif label is limited to the literal descent and
+    retrieval pattern.
+- id: motif:3
+  label: Commemorative tomb for a death in service of a sacred demand
+  taxonomy_refs: []
+  basis: After Wosashi dies retrieving the object needed for the divine offering,
+    the people grieve, make a tomb, and reverently inter him.
+  evidence_refs:
+  - ev:6
+  - ev:9
+  - ev:10
+  confidence: medium
+  cautions: No available taxonomy reference directly matches commemorative burial;
+    this is recorded as a candidate passage pattern only.
+- id: motif:4
+  label: Royal heir's desire for union with a sister
+  taxonomy_refs:
+  - sibling_pair
+  basis: The Heir Apparent is said to have thoughts constantly bent on becoming united
+    to his sister by the same mother.
+  evidence_refs:
+  - ev:12
+  - ev:13
+  confidence: medium
+  cautions: The passage excerpt ends mid-sentence after this notice; it does not provide
+    the outcome or a fuller explanation of the intended union.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 18551-18556
+  quote_or_summary: A speaker says that beasts were not caught by his intent and that
+    if a pearl from the bottom of the sea of Akashi is sacrificed to him, all the
+    beasts can be caught.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:2
+  type: summary
+  locator: lines 18556-18559
+  quote_or_summary: Fishermen from various places are assembled and made to search
+    the bottom of the sea of Akashi.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:3
+  type: summary
+  locator: lines 18559-18564
+  quote_or_summary: The divers cannot reach the bottom; Wosashi, a fisherman of Naga-zato
+    in Aha who excels the others, ties a rope to his loins and descends.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:4
+  type: quote
+  locator: lines 18564-18567
+  quote_or_summary: "“In the bottom of the sea there is a great sea-ear, and this
+    place is shining.”"
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; short quotation used as evidence.
+- id: ev:5
+  type: summary
+  locator: lines 18567-18570
+  quote_or_summary: The people say that the pearl requested by the God of the Island
+    is probably in the sea-ear's belly.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:6
+  type: summary
+  locator: lines 18570-18573
+  quote_or_summary: Wosashi dives again, comes to the surface carrying the great sea-ear,
+    but his breath has ceased and he dies on the waves.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:7
+  type: summary
+  locator: lines 18573-18575
+  quote_or_summary: A rope is let down to measure the sea bottom, and the depth is
+    found to be sixty fathoms.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:8
+  type: summary
+  locator: lines 18575-18577
+  quote_or_summary: The sea-ear is split open, and a true pearl, the size of a peach,
+    is found in its belly.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:9
+  type: summary
+  locator: lines 18577-18579
+  quote_or_summary: The pearl is offered to the God of the Island, and when a hunt
+    is made, many beasts are caught.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:10
+  type: summary
+  locator: lines 18579-18583
+  quote_or_summary: The people grieve that Wosashi died by entering the sea, make
+    a tomb, reverently inter him, and state that the tomb still exists.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:11
+  type: summary
+  locator: lines 18584-18587
+  quote_or_summary: On the 23rd year, spring, 3rd month, 7th day, Imperial Prince
+    Kinashi Karu is made Heir to the Throne and is described as fair and spontaneously
+    loved by those who see him.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:12
+  type: summary
+  locator: lines 18587-18590
+  quote_or_summary: Imperial Princess Karu no Oho-iratsume is identified as the Heir
+    Apparent's sister by the same mother and is described as beautiful.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+- id: ev:13
+  type: summary
+  locator: lines 18590-18592
+  quote_or_summary: The Heir Apparent's thoughts are described as constantly bent
+    on becoming united to the princess.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain translation; summarized for extraction.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is strong for the sea-dive and offering episode. Motif
+    labels are cautious because the passage does not explicitly classify the descent
+    or the sibling union. No comparison claims were added because the excerpt itself
+    does not support a specific cross-text comparison.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The passage contains two distinct notices: the Wosashi sea-bottom pearl episode and the beginning of the Kinashi Karu succession/sibling-union notice. Footnotes were not used for motif extraction except as part of the supplied passage context.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l18551-l18596
+  passage_sha256=58a5e36d54fc35b518bd0ebd33f8351079535361f254d95e79fa5b155763034c
+

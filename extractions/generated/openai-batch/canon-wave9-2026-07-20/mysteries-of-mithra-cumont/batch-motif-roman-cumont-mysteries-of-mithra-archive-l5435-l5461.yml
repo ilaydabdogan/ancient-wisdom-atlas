@@ -1,0 +1,219 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l5435-l5461
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: THE    MYSTERIES    OF    MITHRA / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES
+    / DOCTRINE    OF    THE    MITHRAIC    MYSTERIES          133 / THE    MYSTERIES    OF    MITHRA;
+    lines 5435-5461
+  start: '5435'
+  end: '5461'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage states that an ingenious fable reaches back to the beginnings
+    of civilization and could have arisen only among shepherds and hunters for whom
+    cattle were the source of wealth and had become a religious object. It includes
+    a figure caption identifying a bull-slaying Mithra and a bull-bearing Mithra,
+    with a dog between them, on a clay cup found at Lanuvium.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage says the fable carries the reader back to the beginnings of civilization.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage says the fable could have arisen only among shepherds and hunters.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The passage describes cattle as the source of all wealth and as having become
+    an object of religious significance.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The figure caption identifies a tauroctonous, or bull-slaying, Mithra.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The figure caption identifies a taurophorous, or bull-bearing, Mithra.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The figure caption says a dog is between the two Mithra figures.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: The image is identified as being on a clay cup found at Lanuvium.
+  category: object
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Tauroctonous Mithra
+  description: Mithra identified in the caption as bull-slaying.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:2
+- id: fig:2
+  name_or_label: Taurophorous Mithra
+  description: Mithra identified in the caption as bull-bearing.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: Dog
+  description: A dog positioned between the bull-slaying and bull-bearing Mithra figures.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: bull-slayer
+  assigned_to:
+  - fig:1
+  basis: The caption explicitly calls this figure the tauroctonous, or bull-slaying,
+    Mithra.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: bull-bearer
+  assigned_to:
+  - fig:2
+  basis: The caption explicitly calls this figure the taurophorous, or bull-bearing,
+    Mithra.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: intervening animal
+  assigned_to:
+  - fig:3
+  basis: The caption places the dog between the two Mithra figures.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: bull or cattle
+  literal_form: bull/cattle
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:2
+  label: dog
+  literal_form: dog
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Pastoral-hunting origin context
+  summary: The passage frames the fable as belonging to early civilization among shepherds
+    and hunters for whom cattle were wealth and a religious object.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Bull-slaying and bull-bearing Mithra on a clay cup
+  summary: A figure caption describes bull-slaying Mithra and bull-bearing Mithra,
+    with a dog between them, on a clay cup found at Lanuvium.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+  - ev:3
+candidate_motifs:
+- id: motif:1
+  label: Bull-slaying Mithra
+  taxonomy_refs:
+  - sacrifice
+  basis: The caption names a bull-slaying Mithra, and the surrounding passage places
+    cattle in a religious context.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly call the slaying a sacrifice; the taxonomy
+    reference is therefore only a cautious candidate.
+- id: motif:2
+  label: Bull-bearing Mithra
+  taxonomy_refs: []
+  basis: The caption names a bull-bearing Mithra as one of the depicted figures.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage gives only a figure caption and does not narrate the action.
+- id: motif:3
+  label: Sacralized cattle in a pastoral-hunting society
+  taxonomy_refs: []
+  basis: The passage says cattle were the source of all wealth and had become an object
+    of religious significance among shepherds and hunters.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The sentence is fragmentary at the end, so the exact religious status
+    being described is incomplete.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5435-5461
+  quote_or_summary: The passage says the fable reaches back to the beginnings of civilization
+    and could have arisen only among shepherds and hunters for whom cattle were the
+    source of all wealth and had become a religious object.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: quote
+  locator: lines 5435-5461, figure caption
+  quote_or_summary: "“THE TAUROCTONOUS (BULL-SLAYING) MITHRA AND THE TAUROPHOROUS
+    (BULL-BEARING) MITHRA; BETWEEN THEM THE DOG.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 5435-5461, figure caption
+  quote_or_summary: "“Clay cup found at Lanuvium.”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain; short excerpt from supplied passage.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is short, OCR-line-broken, and ends mid-sentence. Caption-level
+    observations are clear, but motif assignments remain candidates.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the supplied passage does not itself make a cross-textual or cross-traditional comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l5435-l5461
+  passage_sha256=c70aa69afef7a154b415ce13f88ef5b464249d598bf52d663bb3bb4f8a888721
+

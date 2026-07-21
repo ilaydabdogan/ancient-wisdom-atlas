@@ -2,19 +2,16 @@
 batch_pipeline_manifest_version: '1'
 run_id: canon-wave7b-2026-07-19
 created_at: '2026-07-19T19:50:19Z'
-updated_at: '2026-07-20T07:49:25Z'
+updated_at: '2026-07-20T18:51:19Z'
 artifacts:
   passages_path: data/batches/canon-wave7b-2026-07-19/passages.jsonl
   requests_index_path: data/batches/canon-wave7b-2026-07-19/requests/index.yml
   request_map_path: data/batches/canon-wave7b-2026-07-19/request-map.jsonl
   results_dir: data/batches/canon-wave7b-2026-07-19/results
-  ingested_results_path: data/batches/canon-wave7b-2026-07-19/ingested-results.jsonl
-  generated_extractions_dir: extractions/generated/openai-batch/canon-wave7b-2026-07-19
 openai: {}
 state:
-  last_realtime_run_at: '2026-07-20T06:53:01Z'
+  last_realtime_run_at: '2026-07-20T18:51:19Z'
   realtime_concurrency: 48
-  last_ingest_at: '2026-07-20T07:49:25Z'
 pipeline: motif_extraction
 status: results_downloaded
 config:
@@ -174,8 +171,6 @@ counts:
   requests_prepared: 29931
   request_shards: 30
   skipped_ingested_requests: 0
-  ingested_records: 16911
-  failed_ingestions: 25
 source_texts:
 - path: texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md
   source_text_id: australian.ethnological_studies_queensland.roth_archive

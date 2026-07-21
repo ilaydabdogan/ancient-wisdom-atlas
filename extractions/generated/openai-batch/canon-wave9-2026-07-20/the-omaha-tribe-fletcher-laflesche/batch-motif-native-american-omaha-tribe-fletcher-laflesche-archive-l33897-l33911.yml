@@ -1,0 +1,387 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l33897-l33911
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / SOCIETIES / THE    OMAHA    TRIBE / ORIGIN; lines 33897-33911
+  start: '33897'
+  end: '33911'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: '"I am going away, and shall take your children that you have given me. But
+    I shall come again; you will find me on the lake shore."'
+  summary: A stranger tells parents that he has sought a family to receive his magic
+    gifts, promising game, wealth, and chiefly status. He says he will leave with
+    the children they have given him and later be found on the lake shore. The next
+    morning, in still conditions, he gives everyone water to drink, washes and combs
+    the children, orders the children dressed and the tent arranged, and sets a seating
+    order around the fireplace.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The stranger tells the father and mother that he has long sought a family
+    like theirs to receive his magic gifts.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The gifts are described as enabling the family to find game, accumulate wealth,
+    and become chiefs in the tribe.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The stranger says he is going away and will take the children that the parents
+    have given him.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The stranger says he will come again and that the parents will find him on
+    the lake shore in something found there.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: On the morning of the fourth day, the lake is still and there is no wind.
+  category: setting
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The stranger gets water and gives all present some to drink.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The stranger combs the children's hair and washes them.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The stranger instructs the mother to dress the children in their best clothing
+    and put the tent in order.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:9
+  text: The stranger instructs that a skin be spread at the back of the fire with
+    its head toward the west.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:10
+  text: 'The stranger assigns seats near the fireplace: the mother on the south side
+    near the door, her husband on her left, and the stranger at his left.'
+  category: sequence
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: the stranger
+  description: An unnamed stranger who says he has magic gifts, will take the children,
+    and directs the morning preparations and seating.
+  role_refs:
+  - role:1
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:2
+  name_or_label: father
+  description: The father addressed by the stranger and seated to the mother's left
+    near the fireplace.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:6
+- id: fig:3
+  name_or_label: mother
+  description: The mother addressed by the stranger and instructed to dress the children,
+    order the tent, spread a skin, and sit near the door.
+  role_refs:
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:4
+  - ev:5
+  - ev:6
+- id: fig:4
+  name_or_label: children
+  description: The children whom the stranger says the parents have given him; he
+    combs their hair, washes them, and has them dressed in their best clothing.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:4
+roles:
+- id: role:1
+  label: magic gift-giver
+  assigned_to:
+  - fig:1
+  basis: The stranger says he has sought a family to whom he can give magic gifts.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: departing taker of children
+  assigned_to:
+  - fig:1
+  basis: The stranger states that he is going away and will take the children given
+    to him.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: ritual director
+  assigned_to:
+  - fig:1
+  basis: The stranger directs washing, dressing, tent arrangement, placement of a
+    skin, and seating.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:4
+  label: recipient parents
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The father and mother are the people addressed as the family that will receive
+    the magic gifts.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: domestic arranger
+  assigned_to:
+  - fig:3
+  basis: The mother is told to dress the children, order the tent, spread the skin,
+    and take a specified seat.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: role:6
+  label: given children
+  assigned_to:
+  - fig:4
+  basis: The stranger calls them the children the parents have given him and says
+    he will take them.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: magic gifts
+  literal_form: magic gifts that bring game, wealth, and chiefly status
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: lake shore
+  literal_form: lake shore where the stranger says he will later be found
+  associated_figures:
+  - fig:1
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: water to drink
+  literal_form: water obtained and given to all to drink on the still morning
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: fireplace and fire
+  literal_form: fireplace, with a skin spread at the back of the fire and assigned
+    seating around it
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:5
+  - ev:6
+- id: sym:5
+  label: skin with head west
+  literal_form: a skin spread at the back of the fire with its head to the west
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:6
+  label: third and fourth day sequence
+  literal_form: evening of the third day followed by morning of the fourth day
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:3
+scenes:
+- id: scene:1
+  label: Stranger announces gifts and departure
+  summary: On the evening of the third day, the stranger tells the father and mother
+    that he has sought a family to receive magic gifts bringing game, wealth, and
+    chiefly standing; he says he will leave with the children and later be found on
+    the lake shore.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:6
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Morning preparation and seating
+  summary: On the windless fourth morning, the stranger gives water to all, washes
+    and combs the children, directs their clothing and the tent's order, orders a
+    skin placed by the fire with its head west, and assigns the adults' seats near
+    the fireplace.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: exchange of children for magic gifts and status
+  taxonomy_refs:
+  - sacred_exchange
+  basis: The stranger frames the children as given to him and offers magic gifts that
+    will bring game, wealth, and chiefly status to the family.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage states the exchange-like relationship but does not provide
+    the broader ritual or narrative outcome.
+- id: motif:2
+  label: departure with promised return in altered or hidden form
+  taxonomy_refs:
+  - departure
+  - return
+  basis: The stranger says he is going away, will take the children, and will come
+    again, telling the parents to find him on the lake shore in what they find there.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage does not identify what form he will take or what is found
+    on the shore.
+- id: motif:3
+  label: preparatory washing and ordered seating before transition
+  taxonomy_refs:
+  - initiation
+  basis: Before the announced departure with the children, the stranger gives water,
+    washes and combs the children, orders special clothing, arranges the tent, places
+    a skin by the fire, and assigns seating.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: low
+  cautions: The passage shows formal preparation, but it does not explicitly call
+    the actions an initiation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 33897-33900
+  quote_or_summary: On the evening of the third day, the stranger tells the father
+    and mother that he has long sought a family to receive his magic gifts, by which
+    they would find plenty of game, accumulate wealth, and become chiefs.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:2
+  type: quote
+  locator: 33900-33903
+  quote_or_summary: '"I am going away, and shall take your children that you have
+    given me. But I shall come again; you will find me on the lake shore; I shall
+    be in what you find there."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short quotation from supplied passage.
+- id: ev:3
+  type: summary
+  locator: 33903-33905
+  quote_or_summary: On the morning of the fourth day, with no wind and the lake perfectly
+    still, the stranger gets water and gives everyone some to drink.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:4
+  type: summary
+  locator: 33905-33908
+  quote_or_summary: The stranger combs and washes the children, then tells the mother
+    to put them in their best clothing and make the tent tidy and orderly.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:5
+  type: summary
+  locator: 33908-33909
+  quote_or_summary: The stranger instructs the mother to spread a skin at the back
+    of the fire with its head to the west.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+- id: ev:6
+  type: summary
+  locator: 33909-33911
+  quote_or_summary: The stranger tells the mother to sit on the south side of the
+    fireplace near the door, with her husband to her left, and the stranger seats
+    himself at the husband's left.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summary based on supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is based only on the supplied passage. Motif labels are
+    candidate interpretations and need review because the excerpt ends before the
+    described rite or narrative event is completed.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support a specific cross-text or cross-tradition comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l33897-l33911
+  passage_sha256=d1d143e2910b2f455e3fb79675979520a6db83e116e9f7f15e89647f58ca68e9
+

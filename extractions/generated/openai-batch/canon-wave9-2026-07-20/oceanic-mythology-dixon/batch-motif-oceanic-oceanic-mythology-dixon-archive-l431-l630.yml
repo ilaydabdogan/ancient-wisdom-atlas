@@ -1,0 +1,339 @@
+---
+record_id: batch.motif.oceanic-oceanic-mythology-dixon-archive-l431-l630
+source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+passage_locator:
+  label: Chapter I Myths of Origins and the Deluge. . ..... 4 / Chapter I Myths of
+    Origins and the Deluge. . . . . . . 105 / Chapter I Myths of Origins andthe Deluge
+    ...... 248 / Chapter I Myths of Origins and the Deluge... .... 270; lines 431-630
+  start: '431'
+  end: '630'
+  translation: Oceanic Mythology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The supplied passage is primarily front matter: garbled contents entries,
+    OCR noise, and a list of full-page illustrations with plate captions. It names
+    several illustrated images, carved objects, masks, ancestral images, and drawings
+    from Oceanic and nearby regional contexts, but it does not contain a readable
+    myth narrative.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage opens with contents-style entries naming myths of origins and
+    the deluge, followed by animal and miscellaneous tales.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A substantial middle portion of the supplied range consists of OCR noise or
+    non-lexical fragments rather than readable narrative prose.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The readable later portion is headed as an illustrations section for full-page
+    illustrations, with plates and facing-page references.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The illustrations list includes named images or figures from Hawaii, Austral
+    Island, Rarotonga, and other island contexts.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Several captions describe carved, wooden, ancestral, mask, amulet, and drawing
+    objects rather than narrative actions.
+  category: object
+  evidence_refs:
+  - ev:5
+  - ev:6
+  - ev:8
+- id: obs:6
+  text: One caption identifies Bugan as the sister-wife of Wigan.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:7
+  text: One caption identifies Auuenau as an evil spirit shown in a native drawing.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:8
+  text: One caption describes Wurruna spearing emus in an Aboriginal drawing from
+    Australia.
+  category: action
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Kuila~-Moku
+  description: Captioned as an image from Hawaii.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Tangaroa Upao Vahu
+  description: Captioned as a wooden figure from Austral Island.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Taria-Nui
+  description: Captioned as a wooden figure from Rarotonga, Cook Islands.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Bugan
+  description: Captioned as the sister-wife of Wigan.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:7
+- id: fig:5
+  name_or_label: Wigan
+  description: Named in the caption identifying Bugan as Wigan's sister-wife.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:7
+- id: fig:6
+  name_or_label: Auuenau
+  description: Captioned as an evil spirit in a native drawing.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:8
+- id: fig:7
+  name_or_label: Wurruna
+  description: Captioned as spearing emus in an Aboriginal drawing from Australia.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:9
+roles:
+- id: role:1
+  label: captioned illustration subject
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:6
+  - fig:7
+  basis: These figures are named as the subject of an image, wooden figure, or drawing
+    in the illustrations list.
+  evidence_refs:
+  - ev:4
+  - ev:7
+  - ev:8
+  - ev:9
+- id: role:2
+  label: sister-wife
+  assigned_to:
+  - fig:4
+  basis: The caption explicitly calls Bugan the sister-wife of Wigan.
+  evidence_refs:
+  - ev:7
+- id: role:3
+  label: named relational counterpart
+  assigned_to:
+  - fig:5
+  basis: Wigan is named as the person to whom Bugan is related as sister-wife.
+  evidence_refs:
+  - ev:7
+- id: role:4
+  label: evil spirit
+  assigned_to:
+  - fig:6
+  basis: The caption calls Auuenau an evil spirit.
+  evidence_refs:
+  - ev:8
+- id: role:5
+  label: spearer of emus
+  assigned_to:
+  - fig:7
+  basis: The caption states that Wurruna is spearing emus.
+  evidence_refs:
+  - ev:9
+symbols:
+- id: sym:1
+  label: wooden or carved figure/image
+  literal_form: Image; wooden figure; carved wooden figure; carved club head; carved
+    staff end; carved wooden panel.
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:2
+  label: mask
+  literal_form: Ancestral mask made of a skull; wooden dance-mask; wooden ghost-mask.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+- id: sym:3
+  label: amulet
+  literal_form: Hei-Tiki jadeite amulet from New Zealand.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:4
+  label: ancestral image
+  literal_form: Monolithic ancestral image; wooden ancestral image; Ifugao ancestral
+    image.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:5
+  label: totemic being drawing
+  literal_form: Aboriginal drawing of a totemic being from Australia.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:8
+- id: sym:6
+  label: mythical animal carving
+  literal_form: Mythical animal carved from drift-wood, Easter Island.
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Full-page illustrations catalogue
+  summary: A non-narrative illustrations section lists plates, facing pages, and captions
+    for images, figures, masks, ancestral objects, amulets, drawings, and carved objects.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: sister-wife relationship in named pair
+  taxonomy_refs:
+  - sibling_pair
+  basis: The caption identifies Bugan as the sister-wife of Wigan.
+  evidence_refs:
+  - ev:7
+  confidence: low
+  cautions: The evidence is only an illustration caption, not a myth episode; it supports
+    a possible relationship motif but not a full narrative pattern.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 431-630, opening contents entries
+  quote_or_summary: '"Chapter I Myths of Origins andthe Deluge ...... 248" and "II
+    Animal and Miscellaneous Tales ....... 288"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:2
+  type: note
+  locator: lines 431-630, middle OCR-noise portion
+  quote_or_summary: The supplied range contains extensive OCR noise and non-lexical
+    fragments between the contents entries and the illustrations heading.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:3
+  type: quote
+  locator: lines 431-630, illustrations heading
+  quote_or_summary: '"ILLUSTRATIONS / FULL PAGE ILLUSTRATIONS" and "PLATE , FACING
+    PAGE"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:4
+  type: quote
+  locator: lines 431-630, early plate captions
+  quote_or_summary: '"Image of Kuila~-Moku, Hawaii"; "Wooden Figure of Tangaroa Upao
+    Vahu, Austral Island"; "Wooden Figure of Taria-Nui, Rarotonga, Cook Islands"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:5
+  type: summary
+  locator: lines 431-630, object and artifact plate captions
+  quote_or_summary: Captions list carved club and staff elements, a Hei-Tiki jadeite
+    amulet, carved wooden panels, a mythical animal carved from drift-wood, a tapa
+    figure, and ancestral images.
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; neutral summary.
+- id: ev:6
+  type: quote
+  locator: lines 431-630, mask plate captions
+  quote_or_summary: '"Ancestral Mask Made of a Skull"; "Wooden Dance-Mask"; "Wooden
+    Ghost-Mask"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:7
+  type: quote
+  locator: lines 431-630, Bugan caption
+  quote_or_summary: '"Image of Bugan, the Sister-Wife of Wigan"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:8
+  type: quote
+  locator: lines 431-630, drawing captions
+  quote_or_summary: '"Aboriginal Drawing of Totemic Being, Australia" and "Native
+    Drawing of an Evil Spirit, called Auuenau"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+- id: ev:9
+  type: quote
+  locator: lines 431-630, final visible plate caption
+  quote_or_summary: '"Wurruna Spearing Emus, Aboriginal Drawing, Australia"'
+  source_text_path: texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md
+  rights_note: Public domain source metadata; short excerpt used for identification.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: Readable extraction is limited to the contents and illustrations list. The
+    passage is largely front matter with OCR corruption and contains no sustained
+    myth narrative; motif identification is therefore minimal and tentative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were generated. The only taxonomy-linked motif candidate is based on a captioned relationship, not on a narrative episode.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:oceanic-oceanic-mythology-dixon-archive__l431-l630
+  passage_sha256=4f82b064173360f9e36a7e5ddac660e6d67a1bd0885db6aec97c3b6fb2a3732f
+

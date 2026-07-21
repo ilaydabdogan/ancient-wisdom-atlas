@@ -1,0 +1,434 @@
+---
+record_id: batch.motif.sufi-rumi-masnavi-whinfield-archive-l7088-l7112
+source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+passage_locator:
+  label: THE THIRSTY MAN. / THE MASH AVI. / THE MASHA VI. / THE MASHA VI.; lines 7088-7112
+  start: '7088'
+  end: '7112'
+  translation: 'Masnavi i Ma''navi: Teachings of Rumi'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: The moral is, not to find fault with others
+  summary: 'Four Hindustanis begin prayer in a mosque, but each successively speaks:
+    one questions the Muazzin, two rebuke earlier speakers, and the fourth praises
+    himself for not making their error. The narrator states a moral against fault-finding
+    and adds a brief exemplum of two prisoners in which a condemned man asks that
+    his companion be killed instead.'
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: Four Hindustanis go to a mosque to say prayers and begin them devoutly.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A Muazzin enters during the prayers.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first speaker asks the Muazzin whether he has yet called to prayer and
+    says it is time.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The second speaker tells the first that words unconnected with worship have
+    spoiled his prayers.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The third speaker scolds the second and tells him to rebuke himself.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The fourth speaker praises God that he has not fallen into the same ditch
+    as his three companions.
+  category: speech
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The narrator states that the moral is not to find fault with others, but to
+    be admonished by their bad example.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: A second story concerns two prisoners captured by the tribe of Ghuz, with
+    one to be killed to frighten the other into revealing hidden treasure.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The doomed prisoner asks the captors to kill his companion and frighten him
+    instead.
+  category: speech
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: first Hindustani worshipper
+  description: One of the four Hindustanis praying in the mosque; he calls out to
+    the Muazzin.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: second Hindustani worshipper
+  description: One of the worshippers; he says the first has spoken words unconnected
+    with worship and spoiled his prayers.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:3
+- id: fig:3
+  name_or_label: third Hindustani worshipper
+  description: One of the worshippers; he scolds the second speaker and tells him
+    to rebuke himself.
+  role_refs:
+  - role:1
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:4
+- id: fig:4
+  name_or_label: fourth Hindustani worshipper
+  description: One of the worshippers; he praises God that he has not fallen into
+    the same ditch as the others.
+  role_refs:
+  - role:1
+  - role:5
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:5
+  name_or_label: Muazzin
+  description: The Muazzin enters the mosque during the prayers and is addressed about
+    the call to prayer.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:6
+  name_or_label: Ghuzians
+  description: Members of the tribe of Ghuz who hold two prisoners and plan to kill
+    one of them.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:7
+- id: fig:7
+  name_or_label: doomed prisoner
+  description: One of the two prisoners; he discovers the captors' object and asks
+    them to kill his companion instead.
+  role_refs:
+  - role:7
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: fig:8
+  name_or_label: companion prisoner
+  description: The other prisoner, whom the doomed man suggests should be killed instead.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+  - ev:8
+roles:
+- id: role:1
+  label: worshipper
+  assigned_to:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: They go to the mosque to say prayers and are described as saying prayers.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: caller to prayer
+  assigned_to:
+  - fig:5
+  basis: The figure is called the Muazzin and is asked whether he has called to prayer.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: ritual interrupter
+  assigned_to:
+  - fig:1
+  basis: He calls out to the Muazzin during prayer.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: rebuking speaker
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The second rebukes the first, and the third scolds the second.
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: role:5
+  label: self-exempting speaker
+  assigned_to:
+  - fig:4
+  basis: He says he has not fallen into the same ditch as the other three.
+  evidence_refs:
+  - ev:5
+- id: role:6
+  label: captors
+  assigned_to:
+  - fig:6
+  basis: They have captured two prisoners and are about to kill one.
+  evidence_refs:
+  - ev:7
+- id: role:7
+  label: condemned speaker
+  assigned_to:
+  - fig:7
+  basis: He is the doomed man who speaks after discovering the captors' purpose.
+  evidence_refs:
+  - ev:7
+  - ev:8
+- id: role:8
+  label: prisoner
+  assigned_to:
+  - fig:7
+  - fig:8
+  basis: The passage identifies both as prisoners captured by the tribe of Ghuz.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: mosque
+  literal_form: mosque
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: same ditch
+  literal_form: ditch image in the phrase about not falling into the same ditch
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:3
+  label: concealed treasure
+  literal_form: treasure concealed from the captors
+  associated_figures:
+  - fig:6
+  - fig:7
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+scenes:
+- id: scene:1
+  label: Prayer interrupted by successive speech
+  summary: In the mosque, four worshippers begin prayer; after the Muazzin enters,
+    each of the four speaks in turn, with later speakers rebuking or distinguishing
+    themselves from earlier ones.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: scene:2
+  label: Narrated moral
+  summary: The narrator states that one should not find fault with others but should
+    be admonished by their bad example.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:6
+- id: scene:3
+  label: Prisoner exemplum
+  summary: The Ghuzians prepare to kill one prisoner in order to frighten another
+    into revealing hidden treasure, but the doomed prisoner asks them to kill his
+    companion and frighten him instead.
+  figure_refs:
+  - fig:6
+  - fig:7
+  - fig:8
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:7
+  - ev:8
+candidate_motifs:
+- id: motif:1
+  label: Fault-finding repeats the fault
+  taxonomy_refs:
+  - wisdom
+  basis: The prayer anecdote shows successive speakers criticizing or distinguishing
+    themselves from others while themselves speaking during prayer; the stated moral
+    warns against finding fault with others.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: high
+  cautions: The taxonomy reference is used broadly for the didactic moral function.
+- id: motif:2
+  label: Bad example as admonition
+  taxonomy_refs:
+  - wisdom
+  basis: The narrator explicitly says to be admonished by others' bad example, and
+    introduces the following prisoner story as apropos of this proverb.
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  confidence: high
+  cautions: The motif is framed by the passage as a proverb-based moral rather than
+    a mythic episode.
+- id: motif:3
+  label: Speech invalidates or disrupts ritual action
+  taxonomy_refs: []
+  basis: The second worshipper states that words unconnected with worship have spoiled
+    the first speaker's prayers, and the sequence shows all four speaking during prayer.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: This is a didactic anecdotal pattern; the passage does not elaborate a
+    formal ritual doctrine beyond the speaker's statement.
+- id: motif:4
+  label: Condemned captive proposes substitution
+  taxonomy_refs: []
+  basis: The doomed prisoner, realizing the captors' plan, asks them to kill his companion
+    and frighten him instead.
+  evidence_refs:
+  - ev:7
+  - ev:8
+  confidence: medium
+  cautions: The prisoner story is very brief and is presented only as an exemplum
+    for a proverb.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself links the prayer anecdote and the prisoner story as exempla
+    serving the same proverbial lesson about learning from another's bad example rather
+    than fault-finding.
+  claim_level: same_function
+  target: the cited proverb about being admonished by others' bad example
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is an internal comparison made by the passage; it does not establish
+    historical contact or identity with an external motif tradition.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 7088-7091
+  quote_or_summary: Four Hindustanis go to the mosque for prayers, pronounce the lakhir,
+    and pray devoutly when the Muazzin enters.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 7091-7094
+  quote_or_summary: One worshipper calls out to the Muazzin, asking whether he has
+    called to prayer and saying it is time.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; short quotation/summarized quotation
+    used.
+- id: ev:3
+  type: summary
+  locator: 7094-7098
+  quote_or_summary: The second worshipper says the first has spoken words unconnected
+    with worship and, according to the Sadis, has spoiled his prayers.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:4
+  type: quote
+  locator: 7098-7101
+  quote_or_summary: The third scolds the second and says, “Rather rebuke yourself.”
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; short quotation used.
+- id: ev:5
+  type: summary
+  locator: 7101-7103
+  quote_or_summary: The fourth praises God that he has not fallen into the same ditch
+    as his three companions.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:6
+  type: quote
+  locator: 7103-7106
+  quote_or_summary: The moral is not to find fault with others, but to be admonished
+    by their bad example.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; short quotation/paraphrase used.
+- id: ev:7
+  type: summary
+  locator: 7106-7110
+  quote_or_summary: A story is introduced about two prisoners captured by the tribe
+    of Ghuz; the Ghuzians plan to kill one to frighten the other into confessing where
+    treasure is hidden.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; concise summary used.
+- id: ev:8
+  type: quote
+  locator: 7110-7112
+  quote_or_summary: The doomed man asks the captors to kill his companion and frighten
+    him instead.
+  source_text_path: texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md
+  rights_note: Public domain source metadata; concise summary of direct speech used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is straightforward. Motif labels are candidate-level because
+    the passage is a didactic anecdote with proverb and exemplum rather than an explicit
+    mythic taxonomy.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  OCR irregularities in the supplied passage were not normalized beyond concise summarization.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:sufi-rumi-masnavi-whinfield-archive__l7088-l7112
+  passage_sha256=fa8381a8ce4f0d8692b4ac558cbf30fb0d61bb54b75cea1fb6f12db497646cb5
+

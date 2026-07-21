@@ -1,0 +1,316 @@
+---
+record_id: batch.motif.siberian-aboriginal-siberia-czaplicka-archive-l167-l297
+source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+passage_locator:
+  label: PART   I.     ETHNO-GEOGRAPHY / CHAPTER   I / GEOGEAPHY / GEOGRAPHY  3; lines
+    167-297
+  start: '167'
+  end: '297'
+  translation: Aboriginal Siberia - A Study in Social Anthropology
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage gives a geographical and climatic description of Siberia:
+    its western and eastern divisions, the Amur region and Sakhalin, severe continental
+    cold, permafrost preserving extinct animals, and distinctions between Arctic,
+    sub-Arctic, northern, and southern climatic zones.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Siberia is described as comprising Western Siberia, from the Ural Mountains
+    to the Yenisei, and Eastern Siberia, east of the Yenisei, with older formations
+    and high mountains in the far east.
+  category: setting
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Amur region is described as a separate geographical district sloping toward
+    the Pacific, with the Amur and its tributaries aiding navigation; Sakhalin lies
+    opposite and marks the eastern extremity.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Siberia is said to have a cold continental climate because mountains keep
+    off warm southern winds while the land is open to northern winds.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The severe cold is illustrated by windows breaking, milk being sold in pieces,
+    people becoming blind from glittering snow, and breath freezing.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The ground is described as remaining frozen below the surface for the whole
+    year in most of Siberia; a Yakutsk well dug to 380 feet found the ground temperature
+    at that depth to be 0 degrees.
+  category: setting
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Extinct diluvial animals, including mammoth, have been found preserved in
+    the eternal ice with bones, flesh, and hair.
+  category: object
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Only northern and north-eastern Siberia are described as truly Arctic, while
+    the south and south-west are described as sub-Arctic; Arctic conditions extend
+    farther south in the east than in the west.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The Northern Zone is described as climatically more or less uniform, while
+    the Southern Zone is divided into four distinct climatic types.
+  category: setting
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The Arctic region is described as low, exposed to the north, high in latitude,
+    extending far south, and subject to very great extremes of heat and cold.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The continental climate is described as extremely dry, with summer wetter
+    than winter, less rainfall and snowfall toward the north, and the coldest places
+    located near the middle Yana River rather than on the Arctic coast.
+  category: setting
+  evidence_refs:
+  - ev:9
+- id: obs:11
+  text: Warm air currents are described as rising toward mountain tops, while colder
+    heavier air sinks into valleys and causes bitter cold.
+  category: sequence
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: People affected by Siberian cold
+  description: People are mentioned as becoming blind from glittering snows, and human
+    breath is described as freezing.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+- id: fig:2
+  name_or_label: Extinct diluvial animals, including mammoth
+  description: Long-extinct animals are described as preserved in eternal ice with
+    bones, flesh, and hair.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: human beings exposed to severe climate
+  assigned_to:
+  - fig:1
+  basis: The passage uses people and breath to illustrate the effects of extreme cold.
+  evidence_refs:
+  - ev:3
+- id: role:2
+  label: preserved extinct animals
+  assigned_to:
+  - fig:2
+  basis: The passage says extinct animals such as mammoth have been found preserved
+    in eternal ice.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: mountains
+  literal_form: Ural Mountains, southern mountain boundaries, high eastern mountains,
+    and mountainous regions affecting air currents
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:9
+- id: sym:2
+  label: waterways and sea
+  literal_form: Yenisei River, Amur River and tributaries, Pacific, Arctic Sea, and
+    middle Yana River
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:9
+- id: sym:3
+  label: milk frozen by cold
+  literal_form: Milk sold in pieces under severe cold conditions
+  associated_figures: []
+  taxonomy_refs:
+  - milk
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: eternal ice and frozen ground
+  literal_form: Ground remaining frozen below the surface and ice preserving animal
+    bodies
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: glittering snow
+  literal_form: Glittering snows associated with people becoming blind
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Geographical division of Siberia
+  summary: The passage divides Siberia into western and eastern regions and adds the
+    Amur region and Sakhalin as eastern geographical features.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Extreme cold and frozen ground
+  summary: The passage explains Siberia's cold continental climate, lists effects
+    of extreme cold, and describes year-round frozen ground.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: scene:3
+  label: Animal bodies preserved in ice
+  summary: The passage states that extinct animals such as mammoth have been found
+    preserved in eternal ice with bones, flesh, and hair.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Arctic and sub-Arctic climatic zoning
+  summary: The passage distinguishes Arctic, sub-Arctic, northern, and southern climatic
+    regions and explains variations in cold, dryness, and air movement.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs: []
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 167-176
+  quote_or_summary: Siberia is divided into Western Siberia from the Ural Mountains
+    to the Yenisei and Eastern Siberia east of the Yenisei, with hilly regions and
+    high mountains in the extreme east near the Bering Sea.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 178-183
+  quote_or_summary: The Amur region slopes eastward toward the Pacific; the Amur and
+    its tributaries provide navigation, and Sakhalin lies opposite the Amur region
+    at the eastern extremity of Siberia.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 185-193
+  quote_or_summary: Siberia is shut in by mountains, open to northern winds, and so
+    cold that “the milk is sold in pieces,” people may become blind from glittering
+    snows, and breath freezes.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 193-202
+  quote_or_summary: The ground below the surface remains frozen through the year in
+    most of Siberia; a Yakutsk well dug to 380 feet found the ground temperature at
+    that depth to be 0 degrees.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 203-207
+  quote_or_summary: In the eternal ice, bodies of long-extinct diluvial animals, including
+    mammoth, have been found preserved with bones, flesh, and hair.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:6
+  type: summary
+  locator: lines 209-216
+  quote_or_summary: Northern and north-eastern Siberia are described as truly Arctic;
+    the south and south-west as sub-Arctic; Arctic conditions occur farther south
+    in the east than in the west.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:7
+  type: summary
+  locator: lines 218-229
+  quote_or_summary: 'The Northern Zone is described as more or less uniform in climate,
+    while the Southern Zone is divided into four climatic types: southern Tobolsk/Yeniseisk/Tomsk,
+    Kirgiz Steppe, south-eastern Siberia, and Amur/Sea-Coast regions.'
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+- id: ev:8
+  type: quote
+  locator: lines 231-237
+  quote_or_summary: The Arctic region’s low level, northern exposure, high latitude,
+    and southward extension are given as reasons for its “greatest extremes of heat
+    and cold.”
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; short quotation from supplied passage.
+- id: ev:9
+  type: summary
+  locator: lines 239-252
+  quote_or_summary: The continental climate is very dry; summer is wetter than winter;
+    rainfall and snowfall decrease northward; the coldest places are near the middle
+    Yana River, where heavier cold air sinks into valleys while warmer currents rise
+    toward mountain tops.
+  source_text_path: texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md
+  rights_note: Public domain; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: low
+  comparison_claims: low
+  notes: The passage is descriptive ethno-geography rather than mythic narrative.
+    Literal geographical and climatic elements are extractable, but no comparative
+    mythological motif or internally supported comparison claim is present.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No candidate motifs or comparison claims were added because the supplied passage does not present a myth, ritual episode, symbolic interpretation, or explicit comparative pattern.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:siberian-aboriginal-siberia-czaplicka-archive__l167-l297
+  passage_sha256=e8a56223e3f238345b2fe89cb1af6159e80bb3902e64adeffbf09fabe58066e5
+

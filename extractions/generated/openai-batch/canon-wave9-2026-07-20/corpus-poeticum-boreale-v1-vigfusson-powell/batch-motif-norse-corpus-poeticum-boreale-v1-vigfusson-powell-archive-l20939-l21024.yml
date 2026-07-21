@@ -1,0 +1,470 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l20939-l21024
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: OF THE OLD NORTHMEN. 421 / OF THE OLD NORTHMEN. 423 / OF THE OLD NORTHMEN.
+    425 / OF THE OLD NORTHMEN. 427; lines 20939-21024
+  start: '20939'
+  end: '21024'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Editorial commentary on Old Norse religion, the Walhall creed, Yggdrasil,
+    proposed Christian and Irish influences, rejected classical influence, and early
+    Teutonic calendar evidence including week-days, loan-words, battle dating, and
+    five-day proverbial intervals.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage describes ordinary religion as involving feasts and an honest
+    homely character, while allowing that crueller rites and more superstitious observances
+    may have occurred in some royal houses on great occasions.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes the Walhall creed as including Heaven, a Host, a regular
+    Hierarchy, an Armageddon-like battle, and a final Doomsday.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage states that the Walhall belief is a borrowed faith derived from
+    notions caught from Christians of the West and South and adopted especially among
+    western Wickings, warrior courts, and later poets.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The passage states that the legend of the Gallows-tree Yggdrasil is inspired
+    by Christianity.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: 'The passage rejects direct influence from classical mythology on Northern
+    mythology and lists parallel pairs or themes: Dedalos and Weyland, Sigmund and
+    Apollo in dragon fights, and Thor and Herakles in struggles or toils.'
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage suggests that Western poems, including the Helgi Trilogy, have
+    been affected by Irish tradition, and that Irish history and myth may explain
+    points of Northern mythology and legend.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: The passage says evidence for the early Teutonic calendar is sparse, consisting
+    of month lists, scattered annual festival notices, Northern poems, Ari's notes,
+    and modern Icelandic reckoning.
+  category: other
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: The passage states that the week is non-Teutonic, that heathen day names came
+    north with Christianity, and that some day-name forms are loan-words or translations
+    from Latin and Saxon forms.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The passage notes a short-lived poetic fashion after St. Olaf's death of dating
+    events by weekdays or Christian holidays.
+  category: sequence
+  evidence_refs:
+  - ev:8
+- id: obs:10
+  text: The passage cites Guests' Wisdom proverbs saying that weather changes often
+    in five days and more often in a month, and that bad friends' love blazes high
+    for five days before being slaked.
+  category: speech
+  evidence_refs:
+  - ev:9
+figures:
+- id: fig:1
+  name_or_label: Dedalos
+  description: Named as one member of a parallel-myth example paired with Weyland.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:2
+  name_or_label: Weyland
+  description: Named as one member of a parallel-myth example paired with Dedalos.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+- id: fig:3
+  name_or_label: Sigmund
+  description: Named in the example of dragon fights of Sigmund and Apollo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Apollo
+  description: Named in the example of dragon fights of Sigmund and Apollo.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+- id: fig:5
+  name_or_label: Thor
+  description: Named in the example comparing the struggles of Thor with the toils
+    of Herakles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:6
+  name_or_label: Herakles
+  description: Named in the example comparing the struggles of Thor with the toils
+    of Herakles.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: parallel-myth named counterpart
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: The passage lists Dedalos and Weyland as an example of parallel myths.
+  evidence_refs:
+  - ev:4
+- id: role:2
+  label: dragon-fight named figure
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The passage lists dragon fights of Sigmund and Apollo as a parallel example.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: struggle-or-toil named figure
+  assigned_to:
+  - fig:5
+  - fig:6
+  basis: The passage lists the struggles of Thor and the toils of Herakles as a parallel
+    example.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Gallows-tree Yggdrasil
+  literal_form: tree
+  associated_figures: []
+  taxonomy_refs:
+  - tree
+  evidence_refs:
+  - ev:3
+- id: sym:2
+  label: Walhall heaven and host
+  literal_form: afterlife creed with Heaven, Host, and Hierarchy
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: Armageddon battle and final Doomsday
+  literal_form: apocalyptic battle and final doom
+  associated_figures: []
+  taxonomy_refs:
+  - divine_judgment
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Dragon fights
+  literal_form: dragon fights named as a parallel mythic theme
+  associated_figures:
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:5
+  label: Five-day interval
+  literal_form: five days
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:6
+  label: Month interval
+  literal_form: month
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:9
+- id: sym:7
+  label: Week
+  literal_form: week as a mode of counting time
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:7
+  - ev:8
+scenes:
+- id: scene:1
+  label: Walhall and Yggdrasil origin argument
+  summary: The passage presents the Walhall creed as Christian-borrowed and later
+    poetically elaborated, and says the Gallows-tree Yggdrasil legend is Christian-inspired.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: scene:2
+  label: Classical parallels rejected as direct influence
+  summary: The passage lists mythic parallels involving Dedalos, Weyland, Sigmund,
+    Apollo, Thor, and Herakles, but frames them as parallel developments among related
+    branches rather than as classical influence on Northern mythology.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  - fig:6
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:3
+  label: Irish tradition as proposed influence on Western poems
+  summary: The passage suggests that Irish tradition may have affected Western Northern
+    poems such as the Helgi Trilogy and may help explain Northern myth and legend.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:5
+- id: scene:4
+  label: Calendar, week, and proverbial intervals
+  summary: The passage surveys sparse calendar evidence, treats the week and day names
+    as Christian-era imports, notes poetic dating by weekdays or holidays, and cites
+    five-day and month proverbs from Guests' Wisdom.
+  figure_refs: []
+  symbol_refs:
+  - sym:5
+  - sym:6
+  - sym:7
+  evidence_refs:
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+candidate_motifs:
+- id: motif:1
+  label: Ordered afterlife and apocalyptic doomsday creed
+  taxonomy_refs:
+  - divine_judgment
+  basis: The Walhall creed is described as having Heaven, Host, Hierarchy, an Armageddon
+    battle, and final Doomsday.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is editorial commentary and gives no detailed primary myth
+    narrative; the judgment taxonomy is inferred from the stated Doomsday language.
+- id: motif:2
+  label: Gallows-tree Yggdrasil
+  taxonomy_refs:
+  - sacred_tree_axis
+  basis: The passage names the legend of the Gallows-tree Yggdrasil and states an
+    origin claim for it.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: Only the tree and its name are mentioned here; axis or cosmological functions
+    are not described in this passage.
+- id: motif:3
+  label: Dragon-fight parallel
+  taxonomy_refs: []
+  basis: The passage explicitly names the dragon fights of Sigmund and Apollo as a
+    parallel mythic example.
+  evidence_refs:
+  - ev:4
+  confidence: medium
+  cautions: No details of the fights are given, and no direct influence is asserted.
+- id: motif:4
+  label: Calendar and annual festival reckoning
+  taxonomy_refs:
+  - seasonal_cycle
+  basis: The passage discusses month lists, scattered notices of annual festivals,
+    Northern poems, Ari's notes, and modern Icelandic reckoning as evidence for time
+    arrangement.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: This is primarily cultural-calendar commentary rather than a mythic episode.
+- id: motif:5
+  label: Wisdom proverbs about time intervals
+  taxonomy_refs:
+  - wisdom
+  basis: Guests' Wisdom is cited for proverbs about weather changes over five days
+    and a month and about bad friends' love lasting five days.
+  evidence_refs:
+  - ev:9
+  confidence: medium
+  cautions: The passage quotes proverbial wisdom, not a narrative myth scene.
+comparison_claims:
+- id: claim:1
+  claim: The passage treats the Walhall afterlife and apocalypse complex as a borrowed
+    faith shaped from Christian notions of the West and South.
+  claim_level: historical_contact
+  target: Christian afterlife and apocalyptic pattern including Heaven, hosts, Armageddon,
+    and Doomsday
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This records the passage's editorial claim only; the passage does not
+    provide primary textual proof.
+- id: claim:2
+  claim: The passage treats the Gallows-tree Yggdrasil legend as inspired by Christianity.
+  claim_level: historical_contact
+  target: Christian tradition as source of inspiration for the Yggdrasil gallows-tree
+    legend
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is stated directly but without detailed supporting examples
+    in this excerpt.
+- id: claim:3
+  claim: The passage rejects direct classical influence on Northern mythology and
+    instead presents named Greek-Norse parallels as belonging to related sister branches.
+  claim_level: common_inheritance
+  target: 'Classical and Northern parallels: Dedalos/Weyland, Sigmund/Apollo dragon
+    fights, Thor/Herakles struggles or toils'
+  evidence_refs:
+  - ev:4
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage uses older comparative terminology and gives examples without
+    detailed argumentation.
+- id: claim:4
+  claim: The passage suggests that Irish tradition affected Western Northern poems,
+    including the Helgi Trilogy, and may explain points of Northern mythology and
+    legend.
+  claim_level: historical_contact
+  target: Irish tradition in relation to Western Northern poems and the Helgi Trilogy
+  evidence_refs:
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage frames this as a research desideratum dependent on fuller
+    access to Irish myth and history.
+- id: claim:5
+  claim: The passage presents week-counting, weekday names, and the term vika as non-Teutonic
+    or loan-derived calendar elements associated with Christianity and Latin/Saxon
+    forms.
+  claim_level: linguistic_similarity
+  target: Latin and Saxon Christian calendar terminology compared with Northern weekday
+    and week terms
+  evidence_refs:
+  - ev:7
+  - ev:8
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is a linguistic-calendar comparison rather than a mythological
+    motif comparison.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 20939-20943
+  quote_or_summary: Religion is described as homely and associated with feasts, while
+    some royal houses may have practiced crueller rites on great occasions.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:2
+  type: summary
+  locator: 20945-20955
+  quote_or_summary: The Walhall creed is described as having Heaven, Host, Hierarchy,
+    an Armageddon battle, and final Doomsday, and as a borrowed faith derived from
+    Christian notions.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:3
+  type: quote
+  locator: 20955-20956
+  quote_or_summary: "“the legend of the Gallows-tree Yggdrasil we find to be inspired
+    by Christianity.”"
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:4
+  type: summary
+  locator: 20958-20972
+  quote_or_summary: 'The passage says classical mythology has not affected Northern
+    mythology and lists parallel myths: Dedalos and Weyland, Sigmund and Apollo dragon
+    fights, and Thor and Herakles struggles or toils.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:5
+  type: summary
+  locator: 20972-20982
+  quote_or_summary: The passage suggests Western poems such as the Helgi Trilogy were
+    affected by Irish tradition and that Irish history and myth may explain Northern
+    mythology, legend, usages, words, and phrases.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:6
+  type: summary
+  locator: 20984-20992
+  quote_or_summary: The calendar section says Bede and Latin chroniclers leave little
+    information; evidence consists of month lists, annual festival notices, Northern
+    poems, Ari's notes, and modern Icelandic reckoning.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:7
+  type: summary
+  locator: 20994-21003
+  quote_or_summary: The passage states that the week is non-Teutonic, that heathen
+    day names came north with Christianity, and that forms such as Friadag are loan-words
+    or translations from Latin/Saxon usage.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:8
+  type: summary
+  locator: 21005-21018
+  quote_or_summary: After St. Olaf's death, poets briefly date battles or events by
+    Monday, Friday, Wednesday, Saturday, Thomas-mass evening, and similar Christian
+    calendar markers; vika is also described as a loan-word.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+- id: ev:9
+  type: summary
+  locator: 21020-21024
+  quote_or_summary: Guests' Wisdom proverbs say weather changes often in five days
+    and more often in a month, and that bad friends' love blazes high for five days
+    before being slaked.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; summary used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The passage is mainly scholarly commentary rather than a mythic narrative.
+    Directly stated comparison claims are strong as claims within the passage, but
+    motif extraction is limited by sparse narrative detail.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the supplied passage and metadata were used. Taxonomy references are conservative and marked with cautions where the passage gives limited detail.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l20939-l21024
+  passage_sha256=383fd0bd1babc38f8ec38b665c3fb55eefe42254094c9d32e7ca24df6b610222
+

@@ -1,0 +1,392 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l32583-l32603
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE    OMAHA   TRIBE / GHOST  SONG / SOCIETIES; lines 32583-32603
+  start: '32583'
+  end: '32603'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Two men, one Ponca and one Omaha, feast together while secretly attempting
+    lethal magic against each other. The Ponca draws a picture of the Omaha on the
+    ground, strikes it with a club associated with the Thunder beings, and asks the
+    Thunder beings to strike the Omaha. The Omaha suspects magic and protects himself
+    by singing his songs. After the Omaha party returns home, the Ponca who invoked
+    the Thunder is struck by lightning. A song is composed to commemorate the event,
+    naming the Ponca Gati'demonthin and representing him as weeping because his request
+    was turned back upon himself.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Two men met, feasted each other, and secretly sought each other's death by
+    magic.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Ponca drew a picture of the Omaha on the ground.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The Ponca struck the picture with his club.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The club is described as the weapon of the Thunder beings.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The Ponca called on the Thunder beings to strike the original person represented
+    by the picture.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The Omaha suspected magical attempts and sang his songs, relying on them for
+    protection.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: After the Omaha party returned home, the Ponca who drew the picture and invoked
+    the Thunder was struck by lightning.
+  category: sequence
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: A song was composed to commemorate the incident.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:9
+  text: The Ponca is named Gati'demonthin in the song and is represented as weeping
+    because his request to the Thunder beings was turned upon himself.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Gati'demonthin, the Ponca
+  description: The Ponca man who drew the picture of the Omaha, invoked the Thunder
+    beings, and was later struck by lightning; named in the commemorative song as
+    Gati'demonthin.
+  role_refs:
+  - role:1
+  - role:4
+  - role:5
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: The Omaha man or magician
+  description: The Omaha who was represented in the ground picture, suspected magical
+    attempts, and relied on his songs for protection.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:5
+- id: fig:3
+  name_or_label: Thunder beings
+  description: Beings invoked by the Ponca to strike the Omaha; their weapon is described
+    as a club.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:2
+  - ev:5
+- id: fig:4
+  name_or_label: Omaha party
+  description: The group whose visit ended and who returned home before the Ponca
+    was struck by lightning.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: worker of hostile magic
+  assigned_to:
+  - fig:1
+  basis: The Ponca drew a picture of the Omaha, struck it with a club, and invoked
+    the Thunder beings to strike the original.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: intended target of image-based magic
+  assigned_to:
+  - fig:2
+  basis: The picture drawn on the ground represented the Omaha, and the Ponca asked
+    the Thunder beings to strike the original of the picture.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: singer relying on songs for protection
+  assigned_to:
+  - fig:2
+  basis: The Omaha suspected magical attempts and sang his songs, relying on them
+    for protection.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: recipient of returned harmful request
+  assigned_to:
+  - fig:1
+  basis: The song represents the Ponca as weeping because his request to the Thunder
+    beings had been turned upon himself.
+  evidence_refs:
+  - ev:5
+- id: role:5
+  label: person struck by lightning
+  assigned_to:
+  - fig:1
+  basis: After the Omaha party returned home, the Ponca who drew the picture and invoked
+    the Thunder was struck by lightning.
+  evidence_refs:
+  - ev:4
+- id: role:6
+  label: invoked striking beings
+  assigned_to:
+  - fig:3
+  basis: The Ponca called on the Thunder beings to strike the Omaha, and the passage
+    associates their weapon with a club.
+  evidence_refs:
+  - ev:2
+- id: role:7
+  label: returning visitors
+  assigned_to:
+  - fig:4
+  basis: The visit of the Omaha party ended and the people returned home before the
+    lightning strike.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: ground picture as magical substitute
+  literal_form: Picture of the Omaha drawn on the ground
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: club of the Thunder beings
+  literal_form: Club described as the weapon of the Thunder beings
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: protective songs
+  literal_form: Songs sung by the Omaha and relied on for protection
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: lightning strike
+  literal_form: Lightning striking the Ponca after he invoked the Thunder
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: sym:5
+  label: commemorative song
+  literal_form: Song composed to commemorate the incident and naming Gati'demonthin
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Feast with concealed mutual hostility
+  summary: Two men feast together while each secretly seeks the other's death through
+    magic.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Ponca image-magic invocation
+  summary: The Ponca draws a picture of the Omaha on the ground, strikes it with a
+    club associated with the Thunder beings, and asks the Thunder beings to strike
+    the Omaha.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Omaha song protection
+  summary: The Omaha suspects magical attempts and sings his songs, relying on them
+    as his only protection.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Return and lightning reversal
+  summary: After the Omaha party returns home, the Ponca who drew the picture and
+    invoked the Thunder is struck by lightning.
+  figure_refs:
+  - fig:1
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+- id: scene:5
+  label: Commemorative song of the turned request
+  summary: A song is composed to commemorate the event, naming Gati'demonthin and
+    representing him as weeping because his request to the Thunder beings was turned
+    upon himself.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:5
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Image-based hostile magic
+  taxonomy_refs: []
+  basis: The Ponca attacks a ground-drawn picture of the Omaha while asking the Thunder
+    beings to strike the original person represented by the picture.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage describes the act but does not provide a broader taxonomy
+    term.
+- id: motif:2
+  label: Protective power of songs
+  taxonomy_refs: []
+  basis: The Omaha suspects magical attempts and relies solely on his songs for protection.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: The passage does not explain the songs' content or ritual setting beyond
+    their protective use.
+- id: motif:3
+  label: Harmful invocation turned back on the requester
+  taxonomy_refs: []
+  basis: The Ponca invokes the Thunder beings against the Omaha, but later is struck
+    by lightning; the song says his request was turned upon himself.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: The passage reports the reversal but does not explicitly state the mechanism
+    by which it occurred.
+- id: motif:4
+  label: Song commemorating a supernatural reversal
+  taxonomy_refs: []
+  basis: A song is composed to commemorate the incident and represents the Ponca as
+    weeping over the turned-back request.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage gives only a brief account of the song and no complete song
+    text.
+comparison_claims:
+- id: claim:1
+  claim: 'The episode has the same narrative function as a rebounding-magic or harmful-request-returned
+    pattern: an attempted supernatural attack against another person results in harm
+    to the requester.'
+  claim_level: same_function
+  target: rebounding harmful magic / harmful invocation returned on the sender pattern
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: This is a functional comparison only. The passage supplies no evidence
+    for historical contact, common inheritance, or a named external motif classification.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 32583-32586
+  quote_or_summary: '"while they feasted each other they secretly sought each other''s
+    death by means of their magic"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 32586-32590
+  quote_or_summary: The Ponca drew a picture of the Omaha on the ground, struck it
+    with his club, described as the weapon of the Thunder beings, and called on the
+    Thunder beings to strike the original of the picture.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 32590-32592
+  quote_or_summary: The Omaha suspected magical attempts and sang his songs, relying
+    solely on them for protection.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 32592-32596
+  quote_or_summary: After the Omaha party's visit ended and the people returned home,
+    the Ponca who had drawn the picture and invoked the Thunder was struck by lightning.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 32596-32603
+  quote_or_summary: The incident became known to the Omaha magician, and a song was
+    composed naming the Ponca Gati'demonthin and representing him as weeping because
+    his request to the Thunder beings was turned upon himself.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: Literal extraction is based directly on the supplied passage. Motif labels
+    are descriptive rather than tied to supplied taxonomy IDs. The comparison claim
+    is limited to narrative function.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy symbol or motif ref was applied because the available taxonomy list does not contain a close literal match for thunder, lightning, image magic, song protection, or rebounding magic.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l32583-l32603
+  passage_sha256=5d62e37191389482ea99486f25d3844287ccd096a02f07f39f11d7ee43dea64b
+

@@ -1,0 +1,432 @@
+---
+record_id: batch.motif.norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive-l3911-l4004
+source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+passage_locator:
+  label: INTRODUCTION. / DANISH SCHOLARS. XXV / XXX INTRODUCTION. / XXXIV INTRODUCTION.;
+    lines 3911-4004
+  start: '3911'
+  end: '4004'
+  translation: Corpus Poeticum Boreale, Volume 1
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage discusses editorial restoration of corrupt Eddic text by comparing
+    paraphrases and related lays. Examples include a Voluspa reading concerning a
+    league and hostages between the Wanes and the Anses, and a Brunhild-lay passage
+    restored from Hamtheow's Lay as Eormunrec treading a woman to death with horses.
+    It also describes corrupt court-poetry, manuscript copying and loss, Arne Magnusson's
+    testimony, and early editions of Eddic lays.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The editors state that a corrupt text can sometimes be restored from a paraphrase
+    when a reciter has forgotten the right word and substituted another word with
+    the needed alliteration.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: In the Voluspa example, Ari's paraphrase is said to support the reading involving
+    hostages and compensation rather than the manuscript corruption.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage identifies the league and the hostages between the Wanes and the
+    Anses as two important facts in the restored reading.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: In the Brunhild example, Hamtheow's Lay is said to provide the phrase that
+    Eormunrec shall tread a woman to death with his horses.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The editors say corrupt court-poetry is often impossible to emend fully, so
+    they obelise corrupt text and translate according to the presumed original contents
+    of the verse.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: The passage describes inverted commas marking corrupt text as like head- and
+    foot-stones over a buried verse.
+  category: other
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Several early copies of the Edda manuscript are said to have existed after
+    the discovery of R, but first-generation copies have not been preserved.
+  category: sequence
+  evidence_refs:
+  - ev:6
+- id: obs:8
+  text: Arne Magnusson is cited as having collected vellums and paper copies, and
+    the missing Edda copies are said probably to have perished in a great fire.
+  category: sequence
+  evidence_refs:
+  - ev:7
+- id: obs:9
+  text: The paper manuscripts are described as small poetic corpora containing the
+    Lays of Codex Regius and other old pieces similar in style or subject.
+  category: object
+  evidence_refs:
+  - ev:8
+figures:
+- id: fig:1
+  name_or_label: the reciter
+  description: A reciter who is said to have forgotten the right word and substituted
+    another alliterating word.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Wanes
+  description: One group named in connection with the league and hostages.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: the Anses
+  description: One group named in connection with the league and hostages.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Ari
+  description: The author of a paraphrase cited as supporting the correct Voluspa
+    reading.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Iormunrec/Eormunrec
+  description: A figure in the Brunhild and Hamtheow comparison; the restored phrase
+    says he shall tread a woman to death with his horses.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:6
+  name_or_label: unnamed woman
+  description: The woman referred to by 'her' in the restored phrase about being trodden
+    to death.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+- id: fig:7
+  name_or_label: horses
+  description: The horses with which Eormunrec is said to tread the unnamed woman
+    to death.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+- id: fig:8
+  name_or_label: the editors
+  description: The editorial voice that obelises corrupt court-poetry and translates
+    according to the presumed original contents.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:9
+  name_or_label: Arne Magnusson
+  description: A collector whose memoranda and statements are cited concerning Edda
+    copies and their dates.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:7
+roles:
+- id: role:1
+  label: alliterative substitute maker
+  assigned_to:
+  - fig:1
+  basis: The passage says the reciter forgot the right word and put in another with
+    the needed alliteration.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: textual witness through paraphrase
+  assigned_to:
+  - fig:4
+  basis: Ari's paraphrase is cited as showing the correct reading in the Voluspa example.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: parties to league and hostages
+  assigned_to:
+  - fig:2
+  - fig:3
+  basis: The passage names the Wanes and the Anses as parties connected by a league
+    and hostages.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: agent of horse-trampling death
+  assigned_to:
+  - fig:5
+  basis: The restored phrase says Eormunrec shall tread her to death with his horses.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: victim of horse-trampling
+  assigned_to:
+  - fig:6
+  basis: The restored phrase refers to the unnamed 'her' as the person trodden to
+    death.
+  evidence_refs:
+  - ev:3
+- id: role:6
+  label: instruments of trampling
+  assigned_to:
+  - fig:7
+  basis: The horses are the means by which Eormunrec is said to tread the woman to
+    death.
+  evidence_refs:
+  - ev:3
+- id: role:7
+  label: textual restorers and markers of corruption
+  assigned_to:
+  - fig:8
+  basis: The editors describe obelising corrupt text and marking it with inverted
+    commas.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:8
+  label: collector and manuscript witness
+  assigned_to:
+  - fig:9
+  basis: Arne Magnusson's collecting practices, memoranda, and statement about Edda
+    copies are cited.
+  evidence_refs:
+  - ev:7
+symbols:
+- id: sym:1
+  label: hostages in a league
+  literal_form: hostages between the Wanes and the Anses
+  associated_figures:
+  - fig:2
+  - fig:3
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  evidence_refs:
+  - ev:2
+- id: sym:2
+  label: fire destroying copies
+  literal_form: the great fire in which Edda copies are said probably to have perished
+  associated_figures: []
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:7
+- id: sym:3
+  label: death-dealing horses
+  literal_form: horses used to tread the unnamed woman to death
+  associated_figures:
+  - fig:5
+  - fig:6
+  - fig:7
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:4
+  label: buried verse marked by stones
+  literal_form: inverted commas as head- and foot-stones over a buried verse
+  associated_figures:
+  - fig:8
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Voluspa reading restored by paraphrase
+  summary: A corrupt Voluspa phrase is explained through Ari's paraphrase, with the
+    important facts identified as the league and hostages between the Wanes and the
+    Anses.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Brunhild passage restored from Hamtheow's Lay
+  summary: A corrupt manuscript phrase in the Long Lay of Brunhild is interpreted
+    by comparison with Hamtheow's Lay as saying that Eormunrec shall tread a woman
+    to death with his horses.
+  figure_refs:
+  - fig:5
+  - fig:6
+  - fig:7
+  symbol_refs:
+  - sym:3
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Corrupt court-poetry marked as buried verse
+  summary: The editors describe court-poetry as often too corrupt for full emendation,
+    so corrupt passages are obelised and marked with inverted commas, compared to
+    stones over a buried verse.
+  figure_refs:
+  - fig:8
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: scene:4
+  label: Loss of early Edda copies
+  summary: The passage recounts that early Edda copies existed but are no longer extant,
+    with Arne Magnusson's notes used to explain that they likely perished in a great
+    fire.
+  figure_refs:
+  - fig:9
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:6
+  - ev:7
+candidate_motifs:
+- id: motif:1
+  label: league sealed by hostages between opposing groups
+  taxonomy_refs:
+  - covenant
+  - sacred_exchange
+  basis: The passage explicitly identifies a league and hostages between the Wanes
+    and the Anses as central facts of the restored Voluspa reading.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage is an editorial discussion of a reading, not a full myth narrative;
+    the motif label is inferred only from the named league and hostages.
+- id: motif:2
+  label: death by trampling under horses
+  taxonomy_refs: []
+  basis: The restored phrase from Hamtheow's Lay is summarized as Eormunrec treading
+    a woman to death with his horses.
+  evidence_refs:
+  - ev:3
+  confidence: high
+  cautions: No supplied taxonomy family directly matches this motif; the passage gives
+    the action as a textual-restoration example rather than narrating the whole episode.
+comparison_claims:
+- id: claim:1
+  claim: The passage supports a textual comparison between a Voluspa manuscript reading
+    and Ari's paraphrase in Ynglinga Saga because the paraphrase is said to reveal
+    the correct reading about the league and hostages.
+  claim_level: linguistic_similarity
+  target: Ari's paraphrase in Ynglinga Saga, chapter 4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The passage reports the editor's conclusion and does not provide the
+    full paraphrase text.
+- id: claim:2
+  claim: The passage supports a textual comparison between the Long Lay of Brunhild
+    and Hamtheow's Lay because Hamtheow's Lay is said to give the needed phrase and
+    the corrupt text has sound and visual resemblance to it.
+  claim_level: linguistic_similarity
+  target: Hamtheow's Lay phrase about Eormunrec treading her to death with horses
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim is limited to restoration of a corrupt phrase; it does not
+    establish broader historical contact beyond the compared Eddic materials.
+evidence:
+- id: ev:1
+  type: summary
+  locator: 3911-3914
+  quote_or_summary: The editors say a text can be restored from paraphrase when a
+    reciter has forgotten the right word and substituted another alliterating word.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: 3914-3918
+  quote_or_summary: Ari's paraphrase supports the reading involving 'gislar oc gildi';
+    the passage names 'the league and the hostages between the Wanes and the Anses'.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: 3919-3926
+  quote_or_summary: 'Hamtheow''s Lay gives the needed sense: ''Eormunrec shall tread
+    her to death with his horses''.'
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: 3928-3936
+  quote_or_summary: The editors describe court-poetry as peculiarly corrupt, often
+    impossible to emend fully, and therefore obelised and translated according to
+    presumed original contents.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: quote
+  locator: 3938-3940
+  quote_or_summary: Inverted commas mark corrupt text, described as 'head and foot-stones'
+    over a 'buried verse'.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:6
+  type: summary
+  locator: 3944-3951
+  quote_or_summary: Between the discovery of R and its arrival in Denmark, copies
+    were likely made, but first-generation copies have not been preserved.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:7
+  type: summary
+  locator: 3952-3960
+  quote_or_summary: Arne Magnusson's memoranda mention many Edda copies and state
+    that copies he had seen were later than Bryniolf's episcopate; the missing copies
+    are said likely to have perished in the great fire.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:8
+  type: summary
+  locator: 3961-3968
+  quote_or_summary: Paper Edda manuscripts are described as small poetic corpora containing
+    the Lays of Codex Regius and other old pieces consonant in style or subject.
+  source_text_path: texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The passage is primarily editorial and bibliographic. Motif extraction is
+    limited to explicit mythic allusions and textual comparisons named in the passage.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only supplied passage text and metadata were used. No external identification of Wanes/Anses, Iormunrec, or related traditions has been added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:norse-corpus-poeticum-boreale-v1-vigfusson-powell-archive__l3911-l4004
+  passage_sha256=26c5aa596555a9701b998f4909fae13062963db4ef5ca0e50921179caaa9b4a2
+

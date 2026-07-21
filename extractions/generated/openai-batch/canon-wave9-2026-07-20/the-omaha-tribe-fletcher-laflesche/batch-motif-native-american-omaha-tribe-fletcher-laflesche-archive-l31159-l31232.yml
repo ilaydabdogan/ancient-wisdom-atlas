@@ -1,0 +1,178 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l31159-l31232
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / SOCIETIES / SOCIETIES / SECOND  SONG-  THE  HETHU'SHKA,   REPRESENTING  THE  TRIBE,  DEFY  THE  ENEMY;
+    lines 31159-31232
+  start: '31159'
+  end: '31232'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: SECOND SONG- THE HETHU'SHKA, REPRESENTING THE TRIBE, DEFY THE ENEMY
+  summary: The passage presents a song with musical notation. Its heading identifies
+    the Hethu'shka as representing the tribe and defying the enemy. The notation includes
+    a drum beat marking and credits harmonization to John C. Fillmore.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The heading identifies the passage as the second song.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The heading says the Hethu'shka represent the tribe.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The heading says the Hethu'shka defy the enemy.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: The passage contains musical notation and a drum beat marking of 120.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The passage credits harmonization to John C. Fillmore for interpretation.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Hethu'shka
+  description: A named group identified in the heading as representing the tribe and
+    defying the enemy.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the tribe
+  description: The collective represented by the Hethu'shka in the heading.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+- id: fig:3
+  name_or_label: the enemy
+  description: An unnamed opposing party whom the Hethu'shka defy according to the
+    heading.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:1
+- id: fig:4
+  name_or_label: John C. Fillmore
+  description: Person credited with harmonizing the song for interpretation.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: representative group
+  assigned_to:
+  - fig:1
+  basis: The heading states that the Hethu'shka represent the tribe.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: defiant party
+  assigned_to:
+  - fig:1
+  basis: The heading states that the Hethu'shka defy the enemy.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: represented collective
+  assigned_to:
+  - fig:2
+  basis: The heading identifies the tribe as the group represented by the Hethu'shka.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: opposing enemy
+  assigned_to:
+  - fig:3
+  basis: The heading names an enemy as the object of defiance.
+  evidence_refs:
+  - ev:1
+- id: role:5
+  label: harmonizer
+  assigned_to:
+  - fig:4
+  basis: The passage credits John C. Fillmore with harmonization.
+  evidence_refs:
+  - ev:3
+symbols: []
+scenes:
+- id: scene:1
+  label: Song of tribal representation and defiance
+  summary: A song is presented whose heading frames the Hethu'shka as representing
+    the tribe and defying an enemy.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: collective defiance of an enemy
+  taxonomy_refs: []
+  basis: The heading explicitly frames the song as the Hethu'shka, representing the
+    tribe, defying the enemy.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage provides only a heading and musical notation, with little
+    narrative detail; the motif label is descriptive rather than tied to a supplied
+    taxonomy family.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 31159-31232, heading
+  quote_or_summary: '"SECOND SONG- THE HETHU''SHKA, REPRESENTING THE TRIBE, DEFY THE
+    ENEMY"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+- id: ev:2
+  type: summary
+  locator: lines 31159-31232, musical notation
+  quote_or_summary: The passage contains staff notation, sung syllables or words,
+    and a drum beat marking of 120.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: quote
+  locator: lines 31159-31232, notation credit
+  quote_or_summary: '"Harmonized by John C. Fillmore for interpreta-"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt quoted.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The heading is clear, but the passage is mostly musical notation and provides
+    minimal narrative context. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No supplied taxonomy motif family or symbol was directly supported by the passage text.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l31159-l31232
+  passage_sha256=5c7225bcf767a2daf636f2f946536c97456a8650029a4ae3666e5fee14059ada
+

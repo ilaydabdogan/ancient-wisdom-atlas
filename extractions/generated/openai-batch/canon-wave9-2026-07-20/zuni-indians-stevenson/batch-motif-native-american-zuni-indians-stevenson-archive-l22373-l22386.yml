@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.native-american-zuni-indians-stevenson-archive-l22373-l22386
+source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+passage_locator:
+  label: MEDICAL PRACTICE / WITCHCRAFT / BTKVENSOX! WITCHCRAFT 399 / WITCHCRAFT 405;
+    lines 22373-22386
+  start: '22373'
+  end: '22386'
+  translation: 'The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Sus'slstinnako, identified as creator, draws crossed meal lines aligned
+    north-south and east-west, places two valuable little parcels north of the cross
+    line, and alone knows their contents. He sits in a specified position beside the
+    lines and sings; the parcels shake with the song, and two women appear, one evolving
+    from each parcel. A following note explains the term Shi'wannakwe as people who
+    do not fast from animal food.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Sus'slstinnako, identified as creator, drew a line of meal from north to south
+    and crossed it midway with a line from east to west.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Two little parcels were placed north of the cross line, one on each side of
+    the north-south line.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The parcels are described as very valuable and precious, and their contents
+    are unknown to the people; only Sus'slstinnako knew them.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: Sus'slstinnako sat west of the north-south line and south of the cross line,
+    then began to sing.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The two parcels accompanied the singing by shaking, and the music is described
+    as low and sweet.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: Two women appeared, one evolving from each parcel.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:7
+  text: A note explains Shi'wannakwe as meaning people who do not fast from animal
+    food.
+  category: other
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: Sus'slstinnako
+  description: Identified parenthetically as creator; draws the meal lines, places
+    the parcels, knows their contents, sits by the lines, and sings.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: two women
+  description: Two women appear, each evolving from one of the two parcels.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+roles:
+- id: role:1
+  label: creator
+  assigned_to:
+  - fig:1
+  basis: The passage identifies Sus'slstinnako as creator.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: singer and arranger of ritual objects
+  assigned_to:
+  - fig:1
+  basis: Sus'slstinnako draws the crossed meal lines, places the parcels, sits in
+    a specified position, and begins to sing.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: emergent women
+  assigned_to:
+  - fig:2
+  basis: The two women appear by evolving from the parcels.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: crossed meal lines
+  literal_form: A line of meal from north to south crossed midway by a line from east
+    to west.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: two little parcels
+  literal_form: Two valuable and precious parcels placed north of the cross line,
+    one on each side of the north-south line, with contents known only to Sus'slstinnako.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: paired emergence
+  literal_form: Two parcels and two women, with one woman evolving from each parcel.
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Arrangement of meal lines and parcels
+  summary: Sus'slstinnako draws crossed lines of meal oriented north-south and east-west,
+    then places two valuable little parcels north of the cross line.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Singing and emergence from parcels
+  summary: Sus'slstinnako sits beside the lines and sings; the parcels shake with
+    the song, and two women appear from them.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:2
+candidate_motifs:
+- id: motif:1
+  label: emergence of persons from concealed parcels
+  taxonomy_refs:
+  - sacred_birth
+  basis: Two women appear, each evolving from a valuable parcel whose contents were
+    known only to the creator.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage describes emergence or evolution from parcels, not biological
+    birth.
+- id: motif:2
+  label: creation or manifestation through song
+  taxonomy_refs: []
+  basis: After Sus'slstinnako begins to sing, the parcels shake with the song and
+    the two women appear.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage does not explicitly state causal mechanics beyond the sequence
+    of singing, shaking, and appearance.
+- id: motif:3
+  label: concealed contents known only to the creator
+  taxonomy_refs: []
+  basis: The people do not know what the valuable parcels contain, and only Sus'slstinnako
+    ever knew their contents.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: The passage does not describe the knowledge as forbidden, only unknown
+    to everyone except the creator.
+- id: motif:4
+  label: cardinal cross marking ritual placement
+  taxonomy_refs: []
+  basis: The lines of meal are drawn north-south and east-west, and the parcels and
+    Sus'slstinnako are positioned in relation to the crossed lines.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  confidence: medium
+  cautions: The passage does not explicitly explain the symbolic meaning of the cardinal
+    arrangement.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22373-22377
+  quote_or_summary: Sus'slstinnako, identified as creator, draws north-south and east-west
+    meal lines, places two valuable parcels north of the cross line, and alone knows
+    their contents.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:2
+  type: summary
+  locator: lines 22377-22382
+  quote_or_summary: Sus'slstinnako sits west of the north-south line and south of
+    the cross line, sings, the parcels shake with the music, and two women appear,
+    one from each parcel.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+- id: ev:3
+  type: summary
+  locator: lines 22383-22386
+  quote_or_summary: A note explains Shi'wannakwe as people who do not fast from animal
+    food.
+  source_text_path: texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md
+  rights_note: Public domain source; summarized rather than quoted.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal extraction is straightforward. Motif labels are cautious because
+    the excerpt is brief and gives little interpretation of the meal cross, parcels,
+    or the status of the two women. No comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  The parenthetical citation to The Sia is retained only as source context in the supplied passage; no cross-tradition comparison claim is inferred.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-zuni-indians-stevenson-archive__l22373-l22386
+  passage_sha256=b20a5aabb94a59e233dfd2eac7923a31711b61f2db61c9251d4c72718d7f5b26
+

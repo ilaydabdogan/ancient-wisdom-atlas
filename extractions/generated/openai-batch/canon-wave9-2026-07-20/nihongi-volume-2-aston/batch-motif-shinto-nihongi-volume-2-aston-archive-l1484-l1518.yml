@@ -1,0 +1,315 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-2-aston-archive-l1484-l1518
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+passage_locator:
+  label: KEIDAI. 21 / A.D. 530. / KEIDAI. 23 / KEIDAI. 25; lines 1484-1518
+  start: '1484'
+  end: '1518'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 2'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage records the burial of the emperor in a misasagi on the Awi
+    plain, then cites an alternate chronological account from a Pékché record concerning
+    the emperor's death year. The cited record also reports an army's advance to Ara,
+    the construction of Kwi-tok, the slaying of King An by Koryé, and the simultaneous
+    death and burial of the Emperor of Japan and the Prince Imperial. Notes emphasize
+    uncertainty in the chronology.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The emperor was buried in a misasagi on the Awi plain on the 5th day of the
+    12th month in winter.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A cited alternate book says the emperor died in the 28th year of his reign,
+    while the main text gives the 25th year.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The main text's 25th-year date is said to derive from a passage in the 'Original
+    Record' of Pékché.
+  category: relationship
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: obs:4
+  text: The cited Pékché passage reports that an army advanced to Ara and constructed
+    the fortified place of Kwi-tok.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: The cited Pékché passage reports that Koryé slew King An in the same month.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The cited Pékché passage reports that the Emperor of Japan and the Prince
+    Imperial died at the same time and were buried.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The passage leaves the correct date to later inquirers and includes notes
+    highlighting chronological uncertainty.
+  category: other
+  evidence_refs:
+  - ev:4
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Emperor Keidai / Emperor of Japan
+  description: The ruler whose burial is recorded and whose death date is discussed;
+    the cited record refers to the Emperor of Japan.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: fig:2
+  name_or_label: Prince Imperial
+  description: The imperial prince reported in the cited record to have died at the
+    same time as the Emperor of Japan and to have been buried.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+- id: fig:3
+  name_or_label: King An
+  description: A king reported in the cited record as slain by Koryé.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Koryé
+  description: The named polity or group reported as slaying King An.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:5
+  name_or_label: Unnamed army
+  description: An army reported as advancing to Ara and constructing the fortified
+    place of Kwi-tok.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: deceased and buried emperor
+  assigned_to:
+  - fig:1
+  basis: The passage records his burial and discusses reports of his death year.
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: role:2
+  label: co-deceased imperial heir
+  assigned_to:
+  - fig:2
+  basis: The cited record says the Prince Imperial died at the same time as the Emperor
+    of Japan and was buried.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: slain king
+  assigned_to:
+  - fig:3
+  basis: The cited record says King An was slain by Koryé.
+  evidence_refs:
+  - ev:3
+- id: role:4
+  label: slayer polity
+  assigned_to:
+  - fig:4
+  basis: Koryé is named as the actor that slew King An.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: fort-building army
+  assigned_to:
+  - fig:5
+  basis: The unnamed army advanced to Ara and constructed Kwi-tok.
+  evidence_refs:
+  - ev:3
+symbols:
+- id: sym:1
+  label: imperial burial mound
+  literal_form: misasagi on the Awi plain
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: fortified place
+  literal_form: Kwi-tok, constructed after an army advanced to Ara
+  associated_figures:
+  - fig:5
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Burial on the Awi plain
+  summary: The emperor is buried in the misasagi on the Awi plain.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Disputed death chronology
+  summary: A certain book reports a different death year from the main text, and the
+    passage attributes the main text's date to the 'Original Record' of Pékché.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:4
+- id: scene:3
+  label: Events in the cited Pékché record
+  summary: The cited record reports a military advance to Ara, construction of Kwi-tok,
+    the slaying of King An by Koryé, and the simultaneous death and burial of the
+    Emperor of Japan and the Prince Imperial.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+- id: scene:4
+  label: Chronological uncertainty noted
+  summary: The passage and notes leave the correct chronology open and mention difficulties
+    with the dates and ages.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: imperial burial in a named tomb-place
+  taxonomy_refs: []
+  basis: The passage records the emperor's burial in a misasagi on the Awi plain.
+  evidence_refs:
+  - ev:1
+  confidence: high
+  cautions: This is an annalistic funerary notice, not an elaborated mythic episode.
+- id: motif:2
+  label: simultaneous death and burial of ruler and heir
+  taxonomy_refs: []
+  basis: The cited record states that the Emperor of Japan and the Prince Imperial
+    died at the same time and were buried.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The motif is present only as a reported chronological notice from a cited
+    source.
+- id: motif:3
+  label: contested royal chronology and source authority
+  taxonomy_refs: []
+  basis: The passage contrasts a 28th-year death report with the main text's 25th-year
+    date, attributes the latter to the 'Original Record' of Pékché, and leaves the
+    issue for later inquiry.
+  evidence_refs:
+  - ev:2
+  - ev:4
+  - ev:5
+  confidence: high
+  cautions: This is a textual-historical pattern rather than a clear mythological
+    motif.
+comparison_claims:
+- id: claim:1
+  claim: The passage explicitly compares the Nihongi chronology with the 'Original
+    Record' of Pékché and states that the main text's death-year claim was taken from
+    that Pékché passage.
+  claim_level: historical_contact
+  target: the 'Original Record' of Pékché as a cited neighboring chronicle source
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  counter_evidence_refs: []
+  confidence: high
+  limitations: The claim supports direct textual reliance for a chronological notice,
+    not necessarily transmission of a mythic motif.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 1484-1487
+  quote_or_summary: '"Winter, 12th month, 5th day. He was buried in the misasagi on
+    the Awi plain."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 1489-1494
+  quote_or_summary: A certain book says the emperor died in the 28th year of his reign,
+    while the text's 25th-year statement is said to be taken from the 'Original Record'
+    of Pékché.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 1494-1499
+  quote_or_summary: The cited Pékché passage reports an army advancing to Ara and
+    constructing Kwi-tok; Koryé slaying King An; and the Emperor of Japan and the
+    Prince Imperial dying at the same time and being buried.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 1500-1503
+  quote_or_summary: The passage says this Pékché record was the authority for the
+    statement, notes that Kanoto I corresponds to the 25th year, and leaves correctness
+    to later inquirers.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 1509-1518
+  quote_or_summary: Notes identify the misasagi as in Settsu and state that uncertainty
+    about the date shows imperfect chronological records; another note raises age
+    and interregnum difficulties.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal extraction is straightforward. Motif candidates are cautious because
+    the passage is primarily annalistic and chronological rather than mythic. The
+    comparison claim is strong because the passage explicitly names the Pékché record
+    as source authority.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available symbol taxonomy references clearly match the literal forms in this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-2-aston-archive__l1484-l1518
+  passage_sha256=d38f1441328ee5de344e0460b8ae4b3acbfa21cdc5eca3b8aba7788e3a88a970
+

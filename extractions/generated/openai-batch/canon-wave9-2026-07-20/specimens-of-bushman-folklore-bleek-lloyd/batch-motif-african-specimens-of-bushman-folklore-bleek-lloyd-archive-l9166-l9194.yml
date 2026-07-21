@@ -1,0 +1,245 @@
+---
+record_id: batch.motif.african-specimens-of-bushman-folklore-bleek-lloyd-archive-l9166-l9194
+source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+passage_locator:
+  label: THE BUSHMAN DEUM AND DANCING / RATTLES. / THE BUSHMAN DRUM AND DANCING /
+    THE MABKING OF AREOWS.; lines 9166-9194
+  start: '9166'
+  end: '9194'
+  translation: Specimens of Bushman Folklore
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: A passage attributed to Jlian^kass'o from personal observation describes
+    the name of a mark on arrows and a procedure involving feather brushes, a dug
+    hole, live coals, roasted plant stems, springbok skin, a stone, and smoke directed
+    through ostrich feathers while avoiding flames.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is presented as given in March 1879 by Jlian^kass'o from personal
+    observation.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: A named mark on arrows is associated with materials transcribed as \kwag and
+    tto.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: Feather brushes are put away, then later laid over smoke from a roasted plant
+    or stem transcribed as Wkuam or similar.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: A small hole is dug with a stick pointed with horn, and live coals are placed
+    into the hole.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The plant material is placed on live coals with the desired effect that it
+    smokes quietly and does not flame up.
+  category: action
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage states that flames could set the feather brushes on fire.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:7
+  text: Springbok skin is put over the fire, and a stone is placed where the feather-brush
+    sticks are so that smoke goes out only through the ostrich feathers.
+  category: action
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: Jlian^kass'o
+  description: Named source who gave the account from personal observation.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: the Bushmen
+  description: Group described as performing the procedure with fire, smoke, springbok
+    skin, stone, and feather brushes.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: personal-observation informant
+  assigned_to:
+  - fig:1
+  basis: The heading states that the account was given by Jlian^kass'o from personal
+    observation.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: makers or practitioners of the described procedure
+  assigned_to:
+  - fig:2
+  basis: The text explicitly says the Bushmen put the springbok skin over the fire
+    and place a stone near the feather-brush sticks.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: fire, coals, and smoke
+  literal_form: live coals, fire, smoke from roasted plant stems
+  associated_figures:
+  - fig:2
+  taxonomy_refs:
+  - fire
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+- id: sym:2
+  label: arrows and arrow mark
+  literal_form: arrows bearing a named mark made with materials transcribed as \kwag
+    and tto
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:3
+  label: feather brushes and ostrich feathers
+  literal_form: feather brushes and ostrich feathers through which smoke is directed
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:4
+  label: springbok skin and stone covering arrangement
+  literal_form: springbok skin over the fire and a stone placed where the feather-brush
+    sticks are
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:6
+scenes:
+- id: scene:1
+  label: Naming of arrow mark
+  summary: The passage identifies a named mark on arrows made with materials transcribed
+    as \kwag and tto.
+  figure_refs: []
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:2
+- id: scene:2
+  label: Smoke treatment of feather brushes
+  summary: The practitioners dig a small hole, place live coals in it, put plant material
+    on the coals, avoid flames, and direct smoke through ostrich feathers using springbok
+    skin and a stone.
+  figure_refs:
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:3
+  - sym:4
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: controlled smoke treatment in craft preparation
+  taxonomy_refs: []
+  basis: The passage repeatedly describes arranging coals, plant material, skin, stone,
+    and feathers so that smoke passes through the ostrich feathers without open flame.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  confidence: medium
+  cautions: This is a literal craft procedure rather than an explicit mythic narrative
+    motif; no comparative taxonomy family is directly supported by the passage.
+- id: motif:2
+  label: arrow marking with named materials
+  taxonomy_refs: []
+  basis: The passage names a mark on arrows and identifies materials used to make
+    it, though the details are partly unclear due to transcription/OCR difficulties.
+  evidence_refs:
+  - ev:2
+  confidence: low
+  cautions: The passage excerpt gives limited context for the mark and does not explain
+    its symbolic or narrative function.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 9166-9169
+  quote_or_summary: '"Given in March, 1879, by Jlian^kass''o, from personal observation."'
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; short quotation used for evidence.
+- id: ev:2
+  type: summary
+  locator: lines 9170-9172
+  quote_or_summary: The text gives a transcribed name for a mark on arrows and says
+    the mark is made with materials transcribed as \kwag and tto.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:3
+  type: summary
+  locator: lines 9174-9179
+  quote_or_summary: Feather brushes are put away; a plant or stem transcribed as Wkuam/Wkuq'm
+    is dug up and roasted, and feather brushes are laid over its smoke as the smoke
+    ascends into them.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:4
+  type: summary
+  locator: lines 9181-9183
+  quote_or_summary: A small hole is dug with a stick pointed with horn, and live coals
+    are put into it.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:5
+  type: summary
+  locator: lines 9183-9188
+  quote_or_summary: The plant material is placed on the coals with the intention that
+    it should smoke quietly and not flame up, because flame would set the feather
+    brushes on fire.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+- id: ev:6
+  type: summary
+  locator: lines 9190-9194
+  quote_or_summary: The Bushmen put springbok skin over the fire and place a stone
+    where the feather-brush sticks are so that smoke should only go out through the
+    ostrich feathers.
+  source_text_path: texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md
+  rights_note: Public domain source; summarized evidence.
+confidence:
+  extraction: medium
+  motif_candidates: low
+  comparison_claims: uncertain
+  notes: The literal craft sequence is fairly clear, but the passage has OCR/transcription
+    irregularities and offers little explicit mythic or comparative framing.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself does not support comparison to another tradition or motif family. Available taxonomy symbol 'fire' is used only for the literal fire/coals/smoke element.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-specimens-of-bushman-folklore-bleek-lloyd-archive__l9166-l9194
+  passage_sha256=7fc0c106698f744132ae97c956d2a2cf33d1a8a6d11f18062f8f76bdfe14c6f1
+

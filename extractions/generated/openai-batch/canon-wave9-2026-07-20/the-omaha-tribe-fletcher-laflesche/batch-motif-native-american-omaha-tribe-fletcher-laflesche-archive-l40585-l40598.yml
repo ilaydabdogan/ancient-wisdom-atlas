@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l40585-l40598
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: DECLINE  OF  OLD  AVOCATIONS  AND  THE  EFFECT  ON  THE  PEOPLE / CHANGES  IN  ORNAMENTS  AND  DECORATION
+    / INTRODUCTIOX  OF  CLOTH / INTRODUCTION  OF  GUNS; lines 40585-40598
+  start: '40585'
+  end: '40598'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes the introduction of guns among the Omaha in the early
+    nineteenth century, the Omaha names given to guns, bullets, and gunpowder, the
+    later arrival of rifles, and the resulting decline of arrow making and some teachings
+    for the young. It also notes that metal utensils replaced native pottery, while
+    wooden bowls, though disappearing from family use, remained in sacred tribal ceremonies
+    and serious rites.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Guns were introduced to the Omaha toward the close of the first quarter of
+    the nineteenth century and were given a name glossed as "to make a noise with."
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The bullet was named with a term glossed as "metal arrow," and gunpowder with
+    a term glossed as "ashes."
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first guns received by the Omaha were flintlocks; rifles arrived later,
+    in the third or fourth decade of the century.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The use of guns ended arrow making as a native industry and made some older
+    teachings for the young pointless.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:5
+  text: Copper kettles and tin and iron utensils replaced native pottery, and the
+    pottery industry was abandoned.
+  category: relationship
+  evidence_refs:
+  - ev:4
+- id: obs:6
+  text: Wooden bowls and cups gradually disappeared from family use, but wooden bowls
+    were retained in sacred tribal ceremonies and other serious rites.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Omaha
+  description: The people who received guns, named related objects, and experienced
+    changes in native industries and household objects.
+  role_refs:
+  - role:1
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: the young
+  description: The young people for whom some older teachings became pointless after
+    the use of guns.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:3
+roles:
+- id: role:1
+  label: community receiving and naming introduced weapons
+  assigned_to:
+  - fig:1
+  basis: The passage states that the first guns were received by the Omaha and gives
+    Omaha terms for guns, bullets, and gunpowder.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:2
+  label: learners affected by obsolete teachings
+  assigned_to:
+  - fig:2
+  basis: The passage says that guns made some old teachings to the young pointless.
+  evidence_refs:
+  - ev:3
+- id: role:3
+  label: community retaining ceremonial utensils
+  assigned_to:
+  - fig:1
+  basis: The passage reports that wooden bowls disappeared from family use but were
+    retained in sacred tribal ceremonies and serious rites.
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: gun
+  literal_form: guns, first flintlocks and later rifles
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+- id: sym:2
+  label: metal arrow
+  literal_form: bullet named as "metal arrow"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: ashes
+  literal_form: gunpowder named as "ashes"
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: arrow making
+  literal_form: native industry of making arrows
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: native pottery
+  literal_form: pottery replaced by copper kettles and tin and iron utensils
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:6
+  label: wooden bowls
+  literal_form: wooden bowls retained in sacred tribal ceremonies and serious rites
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Introduction and naming of guns
+  summary: Guns are introduced to the Omaha, given a descriptive name, and related
+    objects are named by reference to older or familiar forms.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Decline of arrow making and old instruction
+  summary: The use of guns ends arrow making as a native industry and changes the
+    relevance of some teachings directed to the young.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  - sym:4
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Replacement of pottery and ritual retention of bowls
+  summary: Metal vessels replace pottery and lead to abandonment of pottery making,
+    while wooden bowls disappear from everyday family use but continue in ceremonial
+    contexts.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:5
+  - sym:6
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: introduced technology displacing older craft
+  taxonomy_refs: []
+  basis: Guns destroyed arrow making, and metal utensils replaced native pottery,
+    leading to abandonment of the pottery industry.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is an ethnographic cultural-change pattern rather than a mythic narrative
+    motif.
+- id: motif:2
+  label: new object named through older categories
+  taxonomy_refs: []
+  basis: The gun, bullet, and gunpowder are described through names glossed as making
+    noise, metal arrow, and ashes.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage supports a lexical naming pattern, not a full symbolic interpretation.
+- id: motif:3
+  label: ceremonial retention of abandoned domestic object
+  taxonomy_refs: []
+  basis: Wooden bowls and cups disappeared from family use, but wooden bowls were
+    retained in sacred tribal ceremonies and serious rites.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The passage states ceremonial retention but does not explain any ritual
+    meaning for the bowls.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: 40585-40589
+  quote_or_summary: Guns were introduced near the close of the first quarter of the
+    nineteenth century; the gun name is glossed as "to make a noise with," the bullet
+    as "metal arrow," and gunpowder as "ashes."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise excerpt/summary used.
+- id: ev:2
+  type: summary
+  locator: 40589-40591
+  quote_or_summary: The first guns received by the Omaha were flintlocks, while rifles
+    did not reach them until the third or fourth decade of the century.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:3
+  type: summary
+  locator: 40591-40593
+  quote_or_summary: The use of guns destroyed arrow making as a native industry and
+    made some old teachings to the young pointless.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:4
+  type: summary
+  locator: 40593-40595
+  quote_or_summary: Copper kettles and tin and iron utensils took the place of native
+    pottery, and the pottery industry was abandoned.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: 40595-40598
+  quote_or_summary: Wooden bowls and cups gradually disappeared from family use, but
+    wooden bowls were retained in sacred tribal ceremonies and other serious rites.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: Literal ethnographic observations are clear. Motif candidates are framed
+    as cultural-change and ritual-retention patterns; no comparative claims are made
+    because the passage itself does not support them.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy references were applied; none were directly supported by this passage.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l40585-l40598
+  passage_sha256=ab6c172d9a0a0e2e76c9725e4069e0f4eb799f1f1828b4c347007cb75fa126e0
+

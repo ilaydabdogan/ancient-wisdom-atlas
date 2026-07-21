@@ -1,0 +1,259 @@
+---
+record_id: batch.motif.african-yoruba-speaking-peoples-ellis-archive-l2232-l2355
+source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+passage_locator:
+  label: CHAPTER II. / I I I / II II II II / II II I I; lines 2232-2355
+  start: '2232'
+  end: '2355'
+  translation: 'The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their
+    Religion, Manners, Customs, Laws, Language, Etc.'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Meji means " two," or " a pair,"
+  summary: The passage describes a repeated mark-making process that produces figures
+    in two columns of four. It lists and glosses named Meji figures, notes that several
+    numbered figures are inversions of others, and explains that combinations made
+    from columns of two different "mothers" form figures called "children."
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The mark-making process is repeated eight times, with marks made successively
+    in two columns of four each.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The term Meji is defined in the passage as meaning "two" or "a pair."
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:3
+  text: Several numbered figures are described as inverted forms of other numbered
+    figures.
+  category: relationship
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: The named Meji figures are glossed as descriptive kinds of pairs, including
+    close, removed, street, closed-up, squatting-dog, cross-bow, striped, edge, folded-up,
+    opened, and alternate pairs.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: Sixteen figures are called "mothers," and other figures called "children"
+    are formed by taking a column from two different mothers.
+  category: relationship
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Sixteen "mothers"
+  description: A set of sixteen named Meji mark-figures, each treated as a pair and
+    used as source forms for later combinations.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: '"Children" figures'
+  description: Derived figures formed by combining a column from two different mother
+    figures.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+roles:
+- id: role:1
+  label: source mother-figure
+  assigned_to:
+  - fig:1
+  basis: The passage calls the sixteen primary figures "mothers" and says combinations
+    are made from them.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: derived child-figure
+  assigned_to:
+  - fig:2
+  basis: The passage says figures formed from columns of two different mothers are
+    called "children."
+  evidence_refs:
+  - ev:5
+symbols:
+- id: sym:1
+  label: Meji pair
+  literal_form: The word Meji as a designation of "two" or "a pair" for the named
+    mark-figures.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+- id: sym:2
+  label: Two columns of four marks
+  literal_form: Marks arranged in two columns of four each after eight repetitions
+    of the process.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:3
+  label: Inverted mark-figures
+  literal_form: Numbered figures explicitly identified as inverted forms of other
+    numbered figures.
+  associated_figures:
+  - fig:1
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+- id: sym:4
+  label: Mother-child sign derivation
+  literal_form: Sixteen "mothers" and derived "children" made from columns of two
+    mothers.
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+scenes:
+- id: scene:1
+  label: Formation and naming of paired signs
+  summary: The passage presents a repeated process for making marks in two columns
+    of four, then identifies and glosses named Meji figures and notes some inversion
+    relationships among them.
+  figure_refs:
+  - fig:1
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Derivation of child figures
+  summary: The passage explains that many combinations can be made from the sixteen
+    mothers by taking a column from two different mothers, and that the resulting
+    figures are called children.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:4
+  evidence_refs:
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: Paired sign formation
+  taxonomy_refs:
+  - duality
+  basis: The passage defines Meji as "two" or "a pair," names the figures as pair-types,
+    and describes marks organized into two columns.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: This is a technical sign-classification pattern; the passage does not
+    present a narrative episode or explicit metaphysical dualism.
+- id: motif:2
+  label: Mother-child derivation of signs
+  taxonomy_refs: []
+  basis: The sixteen primary figures are called mothers, and new figures called children
+    are made by combining columns from two different mothers.
+  evidence_refs:
+  - ev:5
+  confidence: high
+  cautions: The parent-child language is used for mark-figures; the passage does not
+    describe biological genealogy or divine parentage.
+- id: motif:3
+  label: Inversion as formal relation
+  taxonomy_refs: []
+  basis: The passage explicitly states that several numbered figures are inverted
+    forms of other numbered figures.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is an internal visual/formal relation among figures, not a cross-cultural
+    comparison.
+comparison_claims:
+- id: claim:1
+  claim: Within the listed figures, some mother-figures are explicitly compared as
+    inverted versions of other numbered figures.
+  claim_level: visual_similarity
+  target: 'Internal comparison among numbered Meji figures: 6/5, 8/7, 10/9, 13/12,
+    and 14/11.'
+  evidence_refs:
+  - ev:2
+  counter_evidence_refs: []
+  confidence: high
+  limitations: This is only an internal formal comparison within the same passage;
+    it does not support historical contact, common inheritance, or comparison to another
+    tradition.
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 2232-2355; paragraph beginning "This process"
+  quote_or_summary: '"This process is repeated eight times, and the marks are made
+    in succession in two columns of four each."'
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:2
+  type: quote
+  locator: lines 2232-2355; paragraph beginning "No. 6 is No. 5 inverted"
+  quote_or_summary: '"No. 6 is No. 5 inverted; 8 is 7 inverted; 10, 9 inverted; 13,
+    12 inverted; and 14, 11 inverted."'
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:3
+  type: quote
+  locator: lines 2232-2355; paragraph beginning "Meji means"
+  quote_or_summary: '"Meji means \" two,\" or \" a pair,\""'
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; short excerpt from provided passage.
+- id: ev:4
+  type: summary
+  locator: lines 2232-2355; name-gloss paragraph following "Meji means"
+  quote_or_summary: The passage glosses the named Meji forms as descriptive pair-types,
+    including close, removed, street, closed-up, squatting-dog, cross-bow, striped,
+    vulture, pointing, downward-ending, top-heavy, tattoo-mark, edge, folded-up, opened,
+    and alternate pairs.
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:5
+  type: summary
+  locator: lines 2232-2355; paragraph beginning "From these sixteen"
+  quote_or_summary: The passage says that many combinations can be made from the sixteen
+    "mothers" by taking a column from two different mothers, and that figures formed
+    this way are called "children."
+  source_text_path: texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md
+  rights_note: Public domain source; summarized from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: high
+  notes: The literal extraction is straightforward, but motif labeling is cautious
+    because the passage is a technical description of sign forms and terminology rather
+    than a mythic narrative.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No external comparisons were added. Available taxonomy was used only for the directly supported duality motif family.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-yoruba-speaking-peoples-ellis-archive__l2232-l2355
+  passage_sha256=3e51940448e2e8f1fbca56e387f329ff3bf2487d770075a23af1d9d820c6ef9e
+

@@ -1,0 +1,289 @@
+---
+record_id: batch.motif.roman-cumont-mysteries-of-mithra-archive-l8850-l8987
+source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+passage_locator:
+  label: BIRTH    OF    ERICHTHONIOS. / MITHRAIC   ART  22? / INDEX / INDEX; lines
+    8850-8987
+  start: '8850'
+  end: '8987'
+  translation: The Mysteries of Mithra
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: An alphabetized index segment from The Mysteries of Mithra listing topics,
+    names, places, and page references related to Mithraism, including ritual practices,
+    astrology, imperial solar associations, the bull myth, and consecrated caves.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage is an index segment with alphabetized entries and page references.
+  category: other
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The index includes entries for astrologers and astrology.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The index lists ritual or religious practices and materials, including sacred
+    banquets, baptism, blood baptism, consecrated bread and water, austerities, catharsis,
+    and Christian catechumens.
+  category: other
+  evidence_refs:
+  - ev:3
+  - ev:8
+- id: obs:4
+  text: The bull entry lists the capture of the wild bull, the immolation of the mythical
+    bull, the Evil Spirit and the bull, and the divine bull.
+  category: object
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The Caesars entry links the Caesars with the Sun, Helios, and Mithraism.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The index includes an entry for caves consecrated to the gods.
+  category: setting
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Regional entries identify Mithraism in Babylon, Britain, and Cappadocia.
+  category: setting
+  evidence_refs:
+  - ev:7
+figures:
+- id: fig:1
+  name_or_label: Caesars
+  description: Imperial rulers indexed as having an intimate alliance with the Sun
+    and as successive Avatars of Helios, with Mithraism favoring their pretensions.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: Sun / Helios
+  description: Solar figure named in relation to the Caesars.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: Bull
+  description: A wild, mythical, and divine bull associated in the index with capture
+    and immolation.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:4
+- id: fig:4
+  name_or_label: Evil Spirit
+  description: A named mythic agent listed in relation to the bull.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: solar-imperial rulers
+  assigned_to:
+  - fig:1
+  basis: The index says the Caesars have an intimate alliance with the Sun and are
+    successive Avatars of Helios.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: solar divine figure
+  assigned_to:
+  - fig:2
+  basis: The Sun and Helios are named as the figures with whom the Caesars are allied
+    or identified.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: mythical or divine bull
+  assigned_to:
+  - fig:3
+  basis: The bull entry describes the bull as wild, mythical, and divine, and mentions
+    its capture and immolation.
+  evidence_refs:
+  - ev:4
+- id: role:4
+  label: mythic agent associated with the bull
+  assigned_to:
+  - fig:4
+  basis: The index lists the Evil Spirit in a subentry concerning the bull.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: Sun / Helios
+  literal_form: Sun; Helios
+  associated_figures:
+  - fig:1
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:5
+- id: sym:2
+  label: Bull
+  literal_form: wild, mythical, and divine bull
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+- id: sym:3
+  label: Cave
+  literal_form: caves consecrated to the gods
+  associated_figures: []
+  taxonomy_refs:
+  - cave
+  evidence_refs:
+  - ev:6
+- id: sym:4
+  label: Consecrated bread and water
+  literal_form: bread and water, consecrated
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:3
+- id: sym:5
+  label: Blood baptism
+  literal_form: blood, baptism of
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes: []
+candidate_motifs:
+- id: motif:1
+  label: Ritual initiation and purification
+  taxonomy_refs:
+  - initiation
+  basis: The index lists baptism, blood baptism, austerities, catharsis, and catechumens
+    among relevant topics.
+  evidence_refs:
+  - ev:3
+  - ev:8
+  confidence: medium
+  cautions: The passage is an index only; it does not describe a full ritual sequence.
+- id: motif:2
+  label: Mythical bull capture and immolation
+  taxonomy_refs:
+  - sacrifice
+  basis: The bull entry explicitly includes capture of the wild bull and immolation
+    of the mythical bull.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The index identifies the topic but does not narrate the myth in this passage.
+- id: motif:3
+  label: Sacred meal with consecrated substances
+  taxonomy_refs: []
+  basis: The index includes sacred banquets and consecrated bread and water.
+  evidence_refs:
+  - ev:3
+  confidence: medium
+  cautions: The index does not state the rite's meaning or participants.
+- id: motif:4
+  label: Solar imperial legitimation
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Caesars are indexed as allied with the Sun, as successive Avatars of
+    Helios, and as supported by Mithraism in their pretensions.
+  evidence_refs:
+  - ev:5
+  confidence: medium
+  cautions: The index gives headings and page references rather than an argumentative
+    passage.
+- id: motif:5
+  label: Sacred cave setting
+  taxonomy_refs: []
+  basis: The passage includes the entry for caves consecrated to the gods.
+  evidence_refs:
+  - ev:6
+  confidence: medium
+  cautions: No specific cave ritual or mythic scene is described in this passage.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: citation
+  locator: lines 8850-8987, index heading and entries
+  quote_or_summary: The passage begins with the heading “INDEX” and consists of alphabetized
+    entries with page references.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt or summary used.
+- id: ev:2
+  type: quote
+  locator: lines 8850-8987, entries “Astrologers” and “Astrology”
+  quote_or_summary: "“Astrologers” and “Astrology” appear as index entries with page
+    references."
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: summary
+  locator: lines 8850-8987, entries “Banquets,” “Baptism,” “Blood,” and “Bread and
+    water”
+  quote_or_summary: The index includes entries for sacred banquets, baptism, blood
+    baptism, and consecrated bread and water.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary of index entries used.
+- id: ev:4
+  type: summary
+  locator: lines 8850-8987, entry “Bull”
+  quote_or_summary: The bull entry lists capture of the wild bull, immolation of the
+    mythical bull, the Evil Spirit and the bull, and the divine bull.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary of index entry used.
+- id: ev:5
+  type: summary
+  locator: lines 8850-8987, entries “Caesars” and “Caesar”
+  quote_or_summary: The Caesars entry mentions an intimate alliance with the Sun,
+    religions of Asia and the Caesars, successive Avatars of Helios, and Mithraism
+    favoring the pretensions of the Caesars.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary of index entry used.
+- id: ev:6
+  type: quote
+  locator: lines 8850-8987, entry “Caves”
+  quote_or_summary: "“Caves, consecrated to the gods”"
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:7
+  type: summary
+  locator: lines 8850-8987, entries “Babylon,” “Britain,” and “Cappadocia”
+  quote_or_summary: The index lists Mithraism in Babylon, Britain, and Cappadocia.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary of index entries used.
+- id: ev:8
+  type: summary
+  locator: lines 8850-8987, entries “Austerities,” “Catharsis,” and “Catechumens”
+  quote_or_summary: The index includes entries for austerities, catharsis, and Christian
+    catechumens.
+  source_text_path: texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md
+  rights_note: Public domain source; summary of index entries used.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: This is an index passage rather than a narrative or doctrinal exposition.
+    Motif candidates are based on indexed topics and should be checked against the
+    referenced pages before being treated as full motif attestations.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the passage itself supplies index entries but no explicit comparative argument.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:roman-cumont-mysteries-of-mithra-archive__l8850-l8987
+  passage_sha256=47850eadab975a7ed554eea6c43e18153981ba83cae417ebfbe91d76b92bc01a
+

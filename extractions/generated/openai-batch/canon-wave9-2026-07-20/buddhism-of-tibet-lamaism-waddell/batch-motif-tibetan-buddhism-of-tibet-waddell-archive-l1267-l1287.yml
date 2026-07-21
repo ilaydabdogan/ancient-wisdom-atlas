@@ -1,0 +1,189 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l1267-l1287
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: ITSS FORA IN TIBET. 17 / RISK, DEVELOPMENT, AND SPREAD OF LAMATSM. / INTRODUCTION
+    OF BUDDHISM. 21 / ROYAL PATRONS OF BUDDITISM. 23; lines 1267-1287
+  start: '1267'
+  end: '1287'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage says that Tibetans, described as beset by malignant devils,
+    welcomed the Guru because he brought deliverance from their tormentors. Notes
+    mention a legend of his birth from a lotus and discuss a place identified by Tibetans
+    as Ghazni, with a cited alternative geographical description locating Udyana north
+    of Peshawar on the Swat river.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The Tibetans are described as steeped in superstition and beset on every side
+    by malignant devils.
+  category: attribute
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The Tibetans warmly welcomed the Guru.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The Guru is said to have brought deliverance from the Tibetans' terrible tormentors.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: A note refers to a legend of the Guru's birth from a lotus.
+  category: other
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: A geographical note reports that Tibetans identify a place as Ghazni, while
+    a cited view locates Udyana north of Peshawar on the Swat river.
+  category: setting
+  evidence_refs:
+  - ev:3
+figures:
+- id: fig:1
+  name_or_label: The Tibetans
+  description: A collective group described as beset by malignant devils and as welcoming
+    the Guru.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: The Guru
+  description: A religious figure welcomed by the Tibetans because he brought deliverance
+    from their tormentors; a note refers to his birth from a lotus.
+  role_refs:
+  - role:2
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Malignant devils / terrible tormentors
+  description: Beings described as besetting the Tibetans and tormenting them.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+roles:
+- id: role:1
+  label: afflicted welcoming community
+  assigned_to:
+  - fig:1
+  basis: The Tibetans are described as beset by devils and as warmly welcoming the
+    Guru.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: deliverer
+  assigned_to:
+  - fig:2
+  basis: The Guru is said to have brought deliverance from terrible tormentors.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: tormenting demonic beings
+  assigned_to:
+  - fig:3
+  basis: The devils are described as malignant and as the Tibetans' terrible tormentors.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: lotus-born figure in cited legend
+  assigned_to:
+  - fig:2
+  basis: A note refers to a legend of his birth from a lotus.
+  evidence_refs:
+  - ev:2
+symbols:
+- id: sym:1
+  label: lotus birth-source
+  literal_form: lotus
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Tibetans welcome the Guru as deliverer
+  summary: The Tibetans, described as surrounded by malignant devils, welcome the
+    Guru because he brings deliverance from those tormentors.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+candidate_motifs:
+- id: motif:1
+  label: Delivering teacher frees an afflicted community from demonic tormentors
+  taxonomy_refs:
+  - culture_hero
+  basis: The Guru is welcomed because he brings deliverance to Tibetans beset by malignant
+    devils.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage gives a compressed ethnographic statement rather than a full
+    narrative of how the deliverance occurs.
+- id: motif:2
+  label: Birth from a lotus
+  taxonomy_refs:
+  - sacred_birth
+  - miraculous_child
+  basis: A note explicitly refers to a legend of the Guru's birth from a lotus.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage only cross-references the legend and does not narrate the
+    birth episode.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: 1267-1271
+  quote_or_summary: The Tibetans, described as beset by malignant devils, "warmly
+    welcomed the Guru" as he brought "deliverance from their terrible tormentors."
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:2
+  type: quote
+  locator: 1273-1274
+  quote_or_summary: '"For legend of his birth from a lotus see p. 380."'
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short quotation used for extraction evidence.
+- id: ev:3
+  type: summary
+  locator: 1276-1285
+  quote_or_summary: The note says Tibetans identify the place as Ghazni, while citing
+    Sir H. Yule's statement that Udyana lay north of Peshawar on the Swat river and
+    may have covered a larger hill region south of the Hindu Kush.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; neutral summary used for extraction evidence.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The main action and lotus-birth reference are explicit, but the passage is
+    OCR-noisy and very compressed; no independent comparison claims are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. No taxonomy symbol reference was assigned for lotus because it is not present in the supplied symbol list.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l1267-l1287
+  passage_sha256=acefd7be8eeb7762b29c5c10092fa8099eb198b6ec3b2a4088d1df9b7ed3e965
+

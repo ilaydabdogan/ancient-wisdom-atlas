@@ -1,0 +1,284 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l12540-l12578
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: AD. 128, / KD. 430. / SEIMU. 215 / VII. 40.; lines 12540-12578
+  start: '12540'
+  end: '12578'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage describes shields and spears as emblems of authority, the use
+    of mountains, rivers, and lanes to define administrative boundaries, directional
+    reckoning by relation to the sun, and names for the sunny and shady sides of mountains.
+    It then states that the people possessed their dwellings tranquilly and the Empire
+    was at peace. Later annal entries report that the Emperor appointed his nephew
+    Tarashi-naka-tsu-hiko no Mikoto as Prince Imperial and that the Emperor died aged
+    107.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Shields and spears are described as emblems of authority.
+  category: object
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Mountains and rivers are made boundaries separating provinces and districts
+    from one another.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: Township and village bounds are established by means of lanes.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:4
+  text: East and West are reckoned as in a line with the sun, while North and South
+    are reckoned as athwart the sun.
+  category: setting
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: The sunny side of mountains is called the light-face, and the shady side is
+    called the back-face.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: The people are said to have tranquil possession of their dwellings, and the
+    Empire is said to be at peace.
+  category: sequence
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: The Emperor appoints his nephew Tarashi-naka-tsu-hiko no Mikoto as Prince
+    Imperial.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:8
+  text: The Emperor dies aged 107.
+  category: action
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: The Emperor
+  description: The ruler who appoints his nephew as Prince Imperial and later dies
+    aged 107.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: fig:2
+  name_or_label: Tarashi-naka-tsu-hiko no Mikoto
+  description: The Emperor's nephew, appointed Prince Imperial.
+  role_refs:
+  - role:2
+  - role:3
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: emperor
+  assigned_to:
+  - fig:1
+  basis: The passage calls this figure the Emperor and reports his appointment of
+    a Prince Imperial and later death.
+  evidence_refs:
+  - ev:4
+  - ev:5
+- id: role:2
+  label: appointed Prince Imperial
+  assigned_to:
+  - fig:2
+  basis: The Emperor appoints Tarashi-naka-tsu-hiko no Mikoto Prince Imperial.
+  evidence_refs:
+  - ev:4
+- id: role:3
+  label: imperial nephew
+  assigned_to:
+  - fig:2
+  basis: The passage identifies Tarashi-naka-tsu-hiko no Mikoto as the Emperor's nephew.
+  evidence_refs:
+  - ev:4
+symbols:
+- id: sym:1
+  label: martial emblems of authority
+  literal_form: shields and spears
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:2
+  label: mountain boundary and aspect
+  literal_form: mountains, including sunny and shady sides named light-face and back-face
+  associated_figures: []
+  taxonomy_refs:
+  - mountain
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: sym:3
+  label: river boundary
+  literal_form: rivers used as administrative boundaries
+  associated_figures: []
+  taxonomy_refs:
+  - water
+  evidence_refs:
+  - ev:1
+- id: sym:4
+  label: lanes as local boundary markers
+  literal_form: lanes marking bounds of townships and villages
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+- id: sym:5
+  label: sun as directional reference
+  literal_form: the sun used to reckon East-West and North-South orientation
+  associated_figures: []
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+scenes:
+- id: scene:1
+  label: Territorial demarcation and directional ordering
+  summary: Authority is associated with shields and spears; provinces and districts
+    are divided by mountains and rivers, townships and villages by lanes, and directions
+    are reckoned in relation to the sun.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  - sym:3
+  - sym:4
+  - sym:5
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Peace after ordering
+  summary: After the described ordering of boundaries, the people are said to possess
+    their dwellings tranquilly and the Empire is at peace.
+  figure_refs: []
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+- id: scene:3
+  label: Imperial succession and death notice
+  summary: The Emperor appoints his nephew Tarashi-naka-tsu-hiko no Mikoto as Prince
+    Imperial, and in a later annal entry the Emperor dies aged 107.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: authority represented by martial emblems
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage explicitly calls shields and spears emblems of authority in a
+    context of imperial administrative ordering.
+  evidence_refs:
+  - ev:1
+  confidence: medium
+  cautions: The passage is annalistic and administrative; it does not narrate a ritual
+    transfer or conflict over authority.
+- id: motif:2
+  label: ordering territory through natural and constructed boundaries
+  taxonomy_refs: []
+  basis: Mountains, rivers, and lanes are used to separate provinces, districts, townships,
+    and villages, followed by a statement of peace and settled dwellings.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  confidence: high
+  cautions: This is a political-geographic ordering pattern rather than a fully developed
+    mythic episode.
+- id: motif:3
+  label: solar orientation of space
+  taxonomy_refs: []
+  basis: The passage states that East-West and North-South are reckoned by their relation
+    to the sun, and mountain faces are named according to sun and shade.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The text gives terminology and orientation, but does not elaborate a cosmological
+    doctrine.
+- id: motif:4
+  label: imperial succession by appointment of a royal relative
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The Emperor appoints his nephew Tarashi-naka-tsu-hiko no Mikoto as Prince
+    Imperial.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: The entry is brief and gives no account of succession dispute, consecration,
+    or public acclamation.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 12540-12578; boundary-ordering paragraph
+  quote_or_summary: Shields and spears are named as emblems of authority; mountains
+    and rivers define provincial and district boundaries; lanes define township and
+    village boundaries.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:2
+  type: summary
+  locator: lines 12540-12578; directional terminology paragraph
+  quote_or_summary: East-West is reckoned in line with the sun, North-South athwart
+    the sun; sunny mountain sides are called light-face and shady sides back-face.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:3
+  type: quote
+  locator: lines 12540-12578; peace statement
+  quote_or_summary: '"the people had tranquil possession of their dwellings, and the
+    Empire was at peace"'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short excerpt from supplied passage.
+- id: ev:4
+  type: summary
+  locator: lines 12540-12578; 48th year, Spring, 3rd month, 1st day
+  quote_or_summary: The Emperor appoints his nephew Tarashi-naka-tsu-hiko no Mikoto
+    Prince Imperial.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+- id: ev:5
+  type: summary
+  locator: lines 12540-12578; 60th year, Summer, 6th month, 11th day
+  quote_or_summary: The Emperor dies aged 107.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized from supplied passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Literal administrative and annalistic details are clear. Motif labels are
+    cautious because the passage is a chronicle notice rather than an extended mythic
+    narrative. No external comparison claims were made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage and metadata. OCR-like noise in the passage header was not interpreted.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l12540-l12578
+  passage_sha256=bd30205ba16d382d92857100e0f63c529ea4d0304d3f833b809357b035df5b0d
+

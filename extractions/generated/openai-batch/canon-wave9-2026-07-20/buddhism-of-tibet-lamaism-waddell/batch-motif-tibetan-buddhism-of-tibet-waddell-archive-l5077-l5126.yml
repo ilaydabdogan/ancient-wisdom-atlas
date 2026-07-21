@@ -1,0 +1,221 @@
+---
+record_id: batch.motif.tibetan-buddhism-of-tibet-waddell-archive-l5077-l5126
+source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+passage_locator:
+  label: THE MANES OR PRETA, 97 / TANTALIZED SPIRITS. / HARITI, THE CANNIBAL SHE-DEVIL,
+    99 / BUDDHIST METAPHYSICS.; lines 5077-5126
+  start: '5077'
+  end: '5126'
+  translation: The Buddhism of Tibet, or Lamaism
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: 'The passage presents an expository account of Buddhist metaphysics as
+    described by Waddell: Buddha is said to have accepted inherited Indian ideas about
+    the universe, metempsychosis, and Karma, while later modifying them. It describes
+    death as a change of form rather than a break in life-continuity, with repeated
+    death and rebirth until cosmic dissolution after a kalpa. It also defines Karma
+    as an ethical doctrine of retribution and includes a quotation from Huxley comparing
+    inherited character with transmigration.'
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage states that Buddha accepted the Hindi theory of the universe and
+    the current notions of metempsychosis and Karma, with modifications.
+  category: relationship
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage describes death as altering form without breaking the continuity
+    of life.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage describes a repeated sequence of death, rebirth, further deaths,
+    and further rebirths through changing states until the universe breaks up after
+    a kalpa.
+  category: sequence
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Karma is identified as an ethical doctrine of retribution that explains the
+    acts and events of a person's life.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage states that metempsychosis or palingenesis was known outside India,
+    including in ancient Hellenic literature, Jewish literature, and western fairy-tales.
+  category: relationship
+  evidence_refs:
+  - ev:3
+- id: obs:6
+  text: The Huxley quotation describes character as passing from one body to another
+    through generations and notes that Indian philosophers called this character Karma.
+  category: speech
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Buddha
+  description: Presented as accepting inherited Indian theories of the universe, metempsychosis,
+    and Karma, while modifying them.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Professor Huxley
+  description: Cited as a modern man of science whose lecture on Evolution and Ethics
+    discusses heredity, character, and Karma.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:4
+  - ev:5
+roles:
+- id: role:1
+  label: recipient and modifier of inherited metaphysical doctrines
+  assigned_to:
+  - fig:1
+  basis: The passage says Buddha accepted the Hindi theory of the universe and current
+    notions of metempsychosis and Karma, with modifications.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: quoted comparative authority on heredity and Karma
+  assigned_to:
+  - fig:2
+  basis: The passage cites Huxley and quotes his lecture as discussing character,
+    heredity, transmigration, and the Indian philosophical term Karma.
+  evidence_refs:
+  - ev:4
+  - ev:5
+symbols: []
+scenes:
+- id: scene:1
+  label: Exposition of rebirth and Karma
+  summary: The passage explains a doctrine in which life continues through changes
+    of form, moving through repeated deaths and rebirths, and pairs this with Karma
+    as ethical retribution.
+  figure_refs:
+  - fig:1
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:4
+- id: scene:2
+  label: Cross-traditional and modern comparison of transmigration
+  summary: The passage notes that metempsychosis appears in other literatures and
+    includes Huxley's comparison of inherited character with transmigration and Karma.
+  figure_refs:
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:5
+candidate_motifs:
+- id: motif:1
+  label: cycle of death and rebirth
+  taxonomy_refs:
+  - death_rebirth
+  basis: The passage explicitly describes life proceeding from death to rebirth and
+    from fresh deaths to fresh rebirths in constant succession.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: The passage is expository rather than narrative and gives no individual
+    rebirth story.
+- id: motif:2
+  label: karma as ethical retribution shaping life events
+  taxonomy_refs: []
+  basis: The passage defines Karma as an ethical doctrine of retribution that explains
+    the acts and events of a person's life.
+  evidence_refs:
+  - ev:4
+  confidence: high
+  cautions: No precise taxonomy reference is available among the supplied motif families.
+- id: motif:3
+  label: cosmic-cycle dissolution after a kalpa
+  taxonomy_refs: []
+  basis: The passage says the succession of changing states continues until the breaking
+    up of the universe after a kalpa.
+  evidence_refs:
+  - ev:2
+  confidence: medium
+  cautions: The passage mentions cosmic dissolution briefly and does not describe
+    its mechanism or imagery.
+comparison_claims:
+- id: claim:1
+  claim: The passage itself presents metempsychosis or palingenesis as a pattern also
+    known in ancient Hellenic literature, Jewish literature, and western fairy-tales.
+  claim_level: same_motif
+  target: ancient Hellenic literature, Jewish literature, and western fairy-tales
+  evidence_refs:
+  - ev:3
+  counter_evidence_refs: []
+  confidence: medium
+  limitations: The passage names broad traditions but gives no specific parallel texts,
+    narratives, or details.
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 5079-5084
+  quote_or_summary: Buddha is said to have accepted the Hindi theory of the universe
+    and current notions of metempsychosis and Karma, with modifications.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:2
+  type: quote
+  locator: lines 5091-5097
+  quote_or_summary: "“Death merely alters the form, but does not break the continuity
+    of the life,” which proceeds through repeated death and rebirth until the universe
+    breaks up after a kalpa."
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:3
+  type: quote
+  locator: lines 5086-5089
+  quote_or_summary: Metempsychosis, or palingenesis, is said to be “not unknown to
+    the ancient Hellenic and even Jewish literature, and western fairy-tales.”
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; short excerpt used.
+- id: ev:4
+  type: summary
+  locator: lines 5098-5102
+  quote_or_summary: Karma is described as an ethical doctrine of retribution that
+    explains the acts and events of one's life, and Huxley is cited in connection
+    with its general principle.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; concise summary used.
+- id: ev:5
+  type: summary
+  locator: lines 5107-5126
+  quote_or_summary: The Huxley quotation discusses heredity and character passing
+    from one bodily incarnation to another through generations; it says Indian philosophers
+    called this character Karma and held that it was modified by acts.
+  source_text_path: texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md
+  rights_note: Public domain source; concise summary used.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: medium
+  notes: The doctrinal terms and comparisons are explicit, but the passage is expository
+    and partly footnoted rather than a mythic narrative. Motif mapping is therefore
+    limited to broad conceptual patterns.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Only the provided passage and metadata were used. No taxonomy IDs beyond supplied references were added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:tibetan-buddhism-of-tibet-waddell-archive__l5077-l5126
+  passage_sha256=f50bdfdf3d559d91893e66a2e87cc4ef7d65e71976556973a318d02499dc8f84
+

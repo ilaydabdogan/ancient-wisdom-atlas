@@ -1,0 +1,365 @@
+---
+record_id: batch.motif.shinto-nihongi-volume-1-aston-archive-l22424-l22478
+source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+passage_locator:
+  label: 'XV. 20. / A.D. 486. / DEV. 220: / NINKEN. 308; lines 22424-22478'
+  start: '22424'
+  end: '22478'
+  translation: 'Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697,
+    Volume 1'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage ends an account of conflict involving Imna and Pekché, then
+    introduces Emperor Ohoke/Ninken, giving his personal name, alternate name, designation,
+    sibling relation to Emperor Woke, character traits, and the beginning of a note
+    that he took refuge after Emperor Anaho's death.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: A warrior or leader opposed many enemies, ran short of weapons, became exhausted,
+    and returned from Imna.
+  category: sequence
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Pekché killed Cha-ro-na-kwi, pep kap-ie, and their people, numbering more
+    than three hundred men.
+  category: action
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The passage introduces Emperor Ohoke, also identified as Ninken Tennō.
+  category: attribute
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: Emperor Ohoke's personal name is given as Ohoshi, with Ohosu as another form.
+  category: attribute
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage says this is the only instance of an Emperor's personal name or
+    designation being stated and that it comes from an old manuscript.
+  category: attribute
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: Emperor Ohoke's designation is stated as Shima no Iratsuko.
+  category: attribute
+  evidence_refs:
+  - ev:6
+- id: obs:7
+  text: Emperor Ohoke is described as the elder brother, by the same mother, of Emperor
+    Woke.
+  category: relationship
+  evidence_refs:
+  - ev:7
+- id: obs:8
+  text: In childhood, Emperor Ohoke is described as intelligent, quick, and accomplished.
+  category: attribute
+  evidence_refs:
+  - ev:8
+- id: obs:9
+  text: In adulthood, Emperor Ohoke is described as kind, indulgent, and gentle.
+  category: attribute
+  evidence_refs:
+  - ev:9
+- id: obs:10
+  text: After the death of Emperor Anaho, Emperor Ohoke took refuge; the supplied
+    passage ends before stating the place of refuge.
+  category: action
+  evidence_refs:
+  - ev:10
+figures:
+- id: fig:1
+  name_or_label: Unnamed returning combatant
+  description: A person described as fighting against many opponents, running short
+    of weapons, becoming exhausted, and returning from Imna.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:1
+- id: fig:2
+  name_or_label: Cha-ro-na-kwi
+  description: A named person killed by Pekché along with pep kap-ie and their people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:3
+  name_or_label: pep kap-ie
+  description: A named person killed by Pekché along with Cha-ro-na-kwi and their
+    people.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: People of Cha-ro-na-kwi and pep kap-ie
+  description: A group of more than three hundred people killed by Pekché.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:2
+- id: fig:5
+  name_or_label: Land of Pekché
+  description: The polity or land said to have slain Cha-ro-na-kwi, pep kap-ie, and
+    their people.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:2
+- id: fig:6
+  name_or_label: Emperor Ohoke / Ninken Tennō
+  description: An emperor introduced with personal name Ohoshi, alternate form Ohosu,
+    designation Shima no Iratsuko, and characterizing traits.
+  role_refs:
+  - role:4
+  - role:5
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  - ev:10
+- id: fig:7
+  name_or_label: Emperor Woke
+  description: The younger brother by the same mother of Emperor Ohoke.
+  role_refs:
+  - role:7
+  evidence_refs:
+  - ev:7
+- id: fig:8
+  name_or_label: Emperor Anaho
+  description: An emperor whose death is followed by Ohoke taking refuge.
+  role_refs:
+  - role:8
+  evidence_refs:
+  - ev:10
+roles:
+- id: role:1
+  label: outnumbered combatant
+  assigned_to:
+  - fig:1
+  basis: The figure is described as one against a hundred, with weapons running short
+    and power exhausted.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: slain persons
+  assigned_to:
+  - fig:2
+  - fig:3
+  - fig:4
+  basis: The passage states that Pekché slew these named persons and their people.
+  evidence_refs:
+  - ev:2
+- id: role:3
+  label: killer polity
+  assigned_to:
+  - fig:5
+  basis: The Land of Pekché is said to have slain the named persons and their people.
+  evidence_refs:
+  - ev:2
+- id: role:4
+  label: emperor
+  assigned_to:
+  - fig:6
+  basis: The passage introduces Ohoke as an emperor and identifies him as Ninken Tennō.
+  evidence_refs:
+  - ev:3
+- id: role:5
+  label: elder maternal brother
+  assigned_to:
+  - fig:6
+  basis: Ohoke is described as the elder brother by the same mother of Emperor Woke.
+  evidence_refs:
+  - ev:7
+- id: role:6
+  label: refuge-taker
+  assigned_to:
+  - fig:6
+  basis: The passage says that at Emperor Anaho's death, Ohoke took refuge.
+  evidence_refs:
+  - ev:10
+- id: role:7
+  label: younger maternal brother
+  assigned_to:
+  - fig:7
+  basis: Emperor Woke is named as the brother by the same mother of Ohoke, who is
+    elder.
+  evidence_refs:
+  - ev:7
+- id: role:8
+  label: deceased predecessor figure
+  assigned_to:
+  - fig:8
+  basis: Ohoke's taking refuge is dated to the death of Emperor Anaho.
+  evidence_refs:
+  - ev:10
+symbols: []
+scenes:
+- id: scene:1
+  label: Return from Imna after exhaustion
+  summary: An outnumbered combatant runs short of weapons, becomes exhausted, and
+    returns from Imna; afterward, Pekché kills Cha-ro-na-kwi, pep kap-ie, and more
+    than three hundred of their people.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  - fig:5
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: scene:2
+  label: Introduction of Emperor Ohoke
+  summary: Emperor Ohoke is introduced with names, designation, textual-note provenance,
+    sibling relation to Emperor Woke, and personal qualities in childhood and adulthood.
+  figure_refs:
+  - fig:6
+  - fig:7
+  symbol_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+- id: scene:3
+  label: Refuge after Emperor Anaho's death
+  summary: At Emperor Anaho's death, Emperor Ohoke takes refuge; the supplied excerpt
+    does not include the refuge location.
+  figure_refs:
+  - fig:6
+  - fig:8
+  symbol_refs: []
+  evidence_refs:
+  - ev:10
+candidate_motifs:
+- id: motif:1
+  label: royal identity and legitimacy through names, kinship, and virtues
+  taxonomy_refs:
+  - royal_legitimacy
+  basis: The passage introduces the emperor by title, personal name, alternate name,
+    designation, manuscript provenance, maternal sibling relation to another emperor,
+    and exemplary personal qualities.
+  evidence_refs:
+  - ev:3
+  - ev:4
+  - ev:5
+  - ev:6
+  - ev:7
+  - ev:8
+  - ev:9
+  confidence: medium
+  cautions: The passage is chronicle-biographical rather than explicitly mythic; royal
+    legitimacy is inferred from the formal presentation of imperial identity and qualities.
+- id: motif:2
+  label: refuge after ruler's death
+  taxonomy_refs:
+  - departure
+  basis: The passage states that after Emperor Anaho died, Ohoke took refuge.
+  evidence_refs:
+  - ev:10
+  confidence: low
+  cautions: The excerpt is truncated immediately after 'in the,' so the destination,
+    cause, and narrative function of the refuge are not available.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 22424-22431
+  quote_or_summary: A combatant continues with growing valor, routs opponents, is
+    one against a hundred, runs short of weapons, becomes exhausted, and returns from
+    Imna.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:2
+  type: quote
+  locator: lines 22431-22434
+  quote_or_summary: '"the Land of Pekché slew Cha-ro-na-kwi, pep kap- ie and their
+    people—more than three hundred men."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation.
+- id: ev:3
+  type: quote
+  locator: lines 22436-22438
+  quote_or_summary: '": THE EMPEROR OHOKE.’ (NINKEN®? TENNO.)"'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation.
+- id: ev:4
+  type: summary
+  locator: lines 22440-22441
+  quote_or_summary: Emperor Ohoke's personal name is Ohoshi, otherwise Ohosu.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 22441-22444
+  quote_or_summary: The text notes that this is the only instance of an emperor's
+    personal name or designation being stated and that it is taken from an old manuscript.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: quote
+  locator: lines 22445-22445
+  quote_or_summary: '"His designation was Shima no Iratsuko."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation.
+- id: ev:7
+  type: summary
+  locator: lines 22445-22447
+  quote_or_summary: Ohoke is identified as the elder brother by the same mother of
+    Emperor Woke.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:8
+  type: summary
+  locator: lines 22447-22449
+  quote_or_summary: In childhood, Ohoke is described as intelligent, quick, and highly
+    accomplished.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+- id: ev:9
+  type: quote
+  locator: lines 22449-22451
+  quote_or_summary: '"When he grew to man’s estate, he was kind, indulgent and gentle."'
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; short quotation.
+- id: ev:10
+  type: summary
+  locator: lines 22452-22453
+  quote_or_summary: At the death of Emperor Anaho, Ohoke took refuge; the excerpt
+    ends before the destination is stated.
+  source_text_path: texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The named figures and actions are explicit, but the passage includes a truncated
+    refuge sentence and mostly chronicle-biographical material. Motif assignments
+    are therefore cautious.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No symbols from the available symbol list are directly attested in the passage. Comparison claims were left empty because the passage does not itself develop a comparative motif claim.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:shinto-nihongi-volume-1-aston-archive__l22424-l22478
+  passage_sha256=76fb37fdca85d63693207bfab8e01fb47985080b98886b67d81390c9c2539310
+

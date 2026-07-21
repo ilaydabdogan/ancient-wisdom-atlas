@@ -1,0 +1,255 @@
+---
+record_id: batch.motif.african-nursery-tales-zulus-callaway-archive-l4736-l4753
+source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+passage_locator:
+  label: USITUNGUSOBENHLE.90 / USITUNGUSOBENHLE. / USITUNGUSOEENHLE. / USITUN GUSOBENHLE
+    NAM A JUB ATENTE. 4; lines 4736-4753
+  start: '4736'
+  end: '4753'
+  translation: Nursery Tales, Traditions, and Histories of the Zulus, in Their Own
+    Words
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: Usitungusobenthle is carried off by Pigeons.
+  summary: The passage introduces a tale in which Usitungusobenthle, a girl who has
+    come to womanhood, is said to be carried off by Pigeons/Amajubatente. Her kraal’s
+    people go to dig at a distance, and the girls also have gone to pluck something
+    unspecified in this excerpt. A note glosses Amajubatente as Pigeons, while adding
+    that they later appear to be a people, possibly horse-riders.
+  language: English
+  quote_policy: quoted
+literal_observations:
+- id: obs:1
+  text: The tale heading states that Usitungusobenthle is carried off by Pigeons.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: Usitungusobenthle is described as a girl who had come to womanhood.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: All the people of Usitungusobenthle’s kraal went to dig at a distance from
+    the kraal.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The girls also had gone to pluck something; the object is not preserved within
+    this excerpt.
+  category: action
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: A footnote glosses Amajubatente as Pigeons and says the bird idea is maintained
+    at first but later left; the note interprets them as a people, probably riding
+    horses.
+  category: other
+  evidence_refs:
+  - ev:5
+figures:
+- id: fig:1
+  name_or_label: Usitungusobenthle
+  description: A girl who had come to womanhood and is named in the heading as the
+    one carried off.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:2
+  name_or_label: Pigeons / Amajubatente
+  description: Named in the heading as those who carry off Usitungusobenthle; a note
+    glosses Amajubatente as Pigeons and suggests they are evidently a people, probably
+    on horses.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: fig:3
+  name_or_label: People of the kraal
+  description: The people of the kraal who go to dig at a distance.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:3
+- id: fig:4
+  name_or_label: Girls of the kraal
+  description: The girls who also had gone to pluck something unspecified in the excerpt.
+  role_refs:
+  - role:4
+  evidence_refs:
+  - ev:4
+roles:
+- id: role:1
+  label: young woman
+  assigned_to:
+  - fig:1
+  basis: The passage says the girl had come to womanhood.
+  evidence_refs:
+  - ev:2
+- id: role:2
+  label: carried-off figure
+  assigned_to:
+  - fig:1
+  basis: The tale heading says Usitungusobenthle is carried off.
+  evidence_refs:
+  - ev:1
+- id: role:3
+  label: carriers-off / abducting group
+  assigned_to:
+  - fig:2
+  basis: The heading identifies Pigeons as those who carry off Usitungusobenthle.
+  evidence_refs:
+  - ev:1
+- id: role:4
+  label: absent kraal members
+  assigned_to:
+  - fig:3
+  - fig:4
+  basis: The excerpt says the people went to dig at a distance and the girls also
+    had gone to pluck.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: Pigeons / Amajubatente
+  literal_form: Pigeons, glossing Amajubatente
+  associated_figures:
+  - fig:2
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:1
+  - ev:5
+- id: sym:2
+  label: kraal
+  literal_form: The kraal from which the people go away to work at a distance
+  associated_figures:
+  - fig:1
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+scenes:
+- id: scene:1
+  label: Introduction and carrying-off premise
+  summary: The tale introduces Usitungusobenthle and states in the heading that she
+    is carried off by Pigeons/Amajubatente.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:5
+- id: scene:2
+  label: Kraal people leave for work
+  summary: The people of the kraal go away to dig at a distance, and the girls also
+    go to pluck something not specified in the excerpt.
+  figure_refs:
+  - fig:3
+  - fig:4
+  symbol_refs:
+  - sym:2
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: carrying off of a young woman by nonhuman or ambiguously human beings
+  taxonomy_refs:
+  - stolen_beloved
+  basis: The heading states that Usitungusobenthle is carried off by Pigeons; the
+    note makes the identity of the Pigeons/Amajubatente ambiguous between birds and
+    a human group.
+  evidence_refs:
+  - ev:1
+  - ev:5
+  confidence: medium
+  cautions: The excerpt is only the tale opening and does not say she is a beloved,
+    bride, or spouse; the taxonomy link is therefore approximate.
+- id: motif:2
+  label: community absence before removal of central figure
+  taxonomy_refs:
+  - departure
+  basis: The people of the kraal leave to dig at a distance, and the girls also leave
+    to pluck, immediately after the tale’s carrying-off premise is introduced.
+  evidence_refs:
+  - ev:1
+  - ev:3
+  - ev:4
+  confidence: low
+  cautions: The excerpt does not yet state a causal relation between the kraal’s absence
+    and the carrying off.
+- id: motif:3
+  label: ambiguous bird-people group
+  taxonomy_refs: []
+  basis: Amajubatente are glossed as Pigeons, but the note says the bird idea is later
+    left and that they are evidently a people, probably riding horses.
+  evidence_refs:
+  - ev:5
+  confidence: low
+  cautions: This is based partly on an editorial note rather than the narrative action
+    preserved in the excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 4736-4739
+  quote_or_summary: '"Usitungusobenthle is carried off by Pigeons."'
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; short quotation used.
+- id: ev:2
+  type: summary
+  locator: lines 4740-4744
+  quote_or_summary: A girl who had come to womanhood is named Usitungusobenthle.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:3
+  type: summary
+  locator: lines 4744-4748
+  quote_or_summary: All the people of her kraal go to dig at a distance from the kraal.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:4
+  type: summary
+  locator: lines 4748-4749
+  quote_or_summary: The girls also had gone to pluck; the excerpt breaks off before
+    giving the object.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+- id: ev:5
+  type: summary
+  locator: lines 4751-4753
+  quote_or_summary: The note glosses Amajubatente as Pigeons and says the bird idea
+    is initially kept but later left; it interprets them as evidently a people, probably
+    riding horses.
+  source_text_path: texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: medium
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The passage is an introductory fragment with an editorial note; basic figures
+    and actions are clear, but motif interpretation is limited by the short, incomplete
+    excerpt.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No comparison claims were added because the excerpt itself does not support a specific cross-textual comparison beyond tentative motif-family candidates.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-nursery-tales-zulus-callaway-archive__l4736-l4753
+  passage_sha256=8c1cf509e34335bf228cf2a29a227d3b98ae355597b0ec3acde19718aab24931
+

@@ -1,0 +1,265 @@
+---
+record_id: batch.motif.african-kaffir-folk-lore-theal-archive-l7729-l7758
+source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+passage_locator:
+  label: STORY  OF  THE  HARE. / STORY  OF  THE  HARE.  183 / STORY  OF  THE  HARE,  185
+    / STORY  OF  LION  AND  LITTLE  JACKAL.; lines 7729-7758
+  start: '7729'
+  end: '7758'
+  translation: 'Kaffir Folk-Lore: A Selection from the Traditional Tales Current among
+    the People Living on the Eastern Border of the Cape Colony'
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: Little Jackal meets Lion while hunting. Lion proposes that they hunt together,
+    assigning small antelope to Little Jackal and large kills to Lion. After a large
+    eland is killed, Lion sends Little Jackal to call Lion's children to carry the
+    meat, but Little Jackal instead calls his own hungry children to take it.
+  language: English
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: Little Jackal goes hunting and meets Lion.
+  category: action
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: 'Lion proposes a joint hunt with a rule: small antelope will belong to Little
+    Jackal and large antelope will belong to Lion.'
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:3
+  text: The first animal killed is a large eland.
+  category: object
+  evidence_refs:
+  - ev:2
+- id: obs:4
+  text: Lion tells Little Jackal to go to Lion's house and call Lion's children to
+    carry the meat home while Lion continues hunting.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:5
+  text: Little Jackal verbally agrees to Lion's instruction.
+  category: speech
+  evidence_refs:
+  - ev:2
+- id: obs:6
+  text: After Lion leaves, Little Jackal goes to his own house and calls his own children
+    to carry away the meat.
+  category: action
+  evidence_refs:
+  - ev:3
+- id: obs:7
+  text: Little Jackal says that Lion takes him for a fool if Lion thinks he will call
+    Lion's children while his own children are dying with hunger.
+  category: speech
+  evidence_refs:
+  - ev:4
+figures:
+- id: fig:1
+  name_or_label: Little Jackal
+  description: A jackal who hunts with Lion, agrees to call Lion's children, then
+    calls his own children to carry away the eland meat.
+  role_refs:
+  - role:1
+  - role:3
+  - role:4
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: fig:2
+  name_or_label: Lion
+  description: A lion who proposes the hunting arrangement, claims large kills under
+    that arrangement, and sends Little Jackal to call Lion's children for the meat.
+  role_refs:
+  - role:1
+  - role:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: fig:3
+  name_or_label: Lion's children
+  description: Children whom Lion expects Little Jackal to call to carry the meat
+    home.
+  role_refs:
+  - role:5
+  evidence_refs:
+  - ev:2
+- id: fig:4
+  name_or_label: Little Jackal's children
+  description: Little Jackal's hungry children, whom he calls to carry away the meat.
+  role_refs:
+  - role:6
+  evidence_refs:
+  - ev:3
+  - ev:4
+roles:
+- id: role:1
+  label: hunting partner
+  assigned_to:
+  - fig:1
+  - fig:2
+  basis: Little Jackal and Lion agree to hunt together.
+  evidence_refs:
+  - ev:1
+- id: role:2
+  label: large-kill claimant
+  assigned_to:
+  - fig:2
+  basis: Lion's proposed terms assign large antelope to Lion, and the first kill is
+    a large eland.
+  evidence_refs:
+  - ev:1
+  - ev:2
+- id: role:3
+  label: verbal agreer who acts otherwise
+  assigned_to:
+  - fig:1
+  basis: Little Jackal agrees to Lion's instruction but, after Lion leaves, calls
+    his own children instead.
+  evidence_refs:
+  - ev:2
+  - ev:3
+- id: role:4
+  label: provider for hungry children
+  assigned_to:
+  - fig:1
+  basis: Little Jackal explains his action by referring to his own children's hunger.
+  evidence_refs:
+  - ev:4
+- id: role:5
+  label: intended meat carriers
+  assigned_to:
+  - fig:3
+  basis: Lion tells Little Jackal to call Lion's children to carry the meat home.
+  evidence_refs:
+  - ev:2
+- id: role:6
+  label: actual meat carriers and hungry dependents
+  assigned_to:
+  - fig:4
+  basis: Little Jackal calls his own children to carry the meat and says they are
+    dying with hunger.
+  evidence_refs:
+  - ev:3
+  - ev:4
+symbols:
+- id: sym:1
+  label: contested eland meat
+  literal_form: large eland and its meat
+  associated_figures:
+  - fig:1
+  - fig:2
+  - fig:3
+  - fig:4
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:2
+  - ev:3
+scenes:
+- id: scene:1
+  label: Hunting agreement
+  summary: Little Jackal meets Lion while hunting, and Lion sets terms for dividing
+    small and large antelope killed during their joint hunt.
+  figure_refs:
+  - fig:1
+  - fig:2
+  symbol_refs: []
+  evidence_refs:
+  - ev:1
+- id: scene:2
+  label: Large eland killed and Lion's instruction
+  summary: A large eland is killed. Lion, pleased with the kill, tells Little Jackal
+    to call Lion's children to carry the meat while Lion keeps hunting, and Little
+    Jackal agrees.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:2
+- id: scene:3
+  label: Little Jackal redirects the meat
+  summary: After Lion departs, Little Jackal goes to his own house and calls his own
+    hungry children to carry away the meat, explaining that he will not prioritize
+    Lion's children over his own.
+  figure_refs:
+  - fig:1
+  - fig:4
+  symbol_refs:
+  - sym:1
+  evidence_refs:
+  - ev:3
+  - ev:4
+candidate_motifs:
+- id: motif:1
+  label: Trickster redirects another's share to his own household
+  taxonomy_refs:
+  - trickster_boundary
+  basis: Little Jackal agrees to summon Lion's children for the meat but instead summons
+    his own children, openly reasoning that he will not benefit Lion's children while
+    his own are hungry.
+  evidence_refs:
+  - ev:2
+  - ev:3
+  - ev:4
+  confidence: high
+  cautions: The passage segment gives only the opening action of the tale; later consequences
+    are not included in the supplied excerpt.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: summary
+  locator: lines 7729-7739
+  quote_or_summary: Little Jackal goes hunting, meets Lion, and agrees to Lion's proposal
+    that small antelope belong to Little Jackal and large antelope belong to Lion.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:2
+  type: summary
+  locator: lines 7740-7749
+  quote_or_summary: A large eland is killed. Lion is glad and tells Little Jackal
+    to go to Lion's house and call Lion's children to carry the meat home while Lion
+    continues hunting; Little Jackal agrees.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:3
+  type: summary
+  locator: lines 7750-7755
+  quote_or_summary: After Lion leaves, Little Jackal goes to his own house and calls
+    his own children to carry away the meat.
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; summarized from provided passage.
+- id: ev:4
+  type: quote
+  locator: lines 7755-7758
+  quote_or_summary: '"Lion takes me for a fool if he thinks I will call his children
+    while my own are dying with hunger."'
+  source_text_path: texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md
+  rights_note: Public domain source; short excerpt from provided passage.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: The literal sequence is clear in the supplied excerpt. Motif identification
+    is limited to the broad trickster-boundary family because the excerpt ends before
+    any resolution or consequence.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  Used only the supplied passage text and metadata; no external comparisons added.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:african-kaffir-folk-lore-theal-archive__l7729-l7758
+  passage_sha256=0707686a947c1d382e4bbd83d2987f34a890fda4076a531b2026c5fdfac2c212
+

@@ -1,0 +1,246 @@
+---
+record_id: batch.motif.native-american-omaha-tribe-fletcher-laflesche-archive-l35851-l35905
+source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+passage_locator:
+  label: SOCIETIES / THE    OMAHA   TRIBE / SOCIETIES / SOCIETIES; lines 35851-35905
+  start: '35851'
+  end: '35905'
+  translation: The Omaha Tribe
+  notes: Generated from OpenAI Batch run canon-wave9-2026-07-20; human review required.
+canonical_text:
+  quote: ''
+  summary: The passage gives a society song made of repeated Omaha or archaic vocables,
+    states that its words cannot be translated by contemporary Omaha speakers, and
+    reports its meaning as a renewed taking of a path. It explains weshige as possessions
+    or wealth, connected with the successful hunter's magic and the possessions given
+    through magic imparted by the society.
+  language: English with Omaha song words or vocables
+  quote_policy: summarized
+literal_observations:
+- id: obs:1
+  text: The passage presents a song with repeated phrases, including repeated forms
+    such as Thegethe ge ga ha and Weshige ha a.
+  category: speech
+  evidence_refs:
+  - ev:1
+- id: obs:2
+  text: The passage states that the song words cannot be translated and are said to
+    be old and unintelligible to Omaha people of the author's present day.
+  category: attribute
+  evidence_refs:
+  - ev:2
+- id: obs:3
+  text: The reported meaning of the song is that the singers or society will again
+    take a path.
+  category: speech
+  evidence_refs:
+  - ev:3
+- id: obs:4
+  text: The passage says that weshige, or a similar-sounding word, occurs in the song
+    and means possessions or wealth.
+  category: speech
+  evidence_refs:
+  - ev:4
+- id: obs:5
+  text: The passage connects weshige with the fruits of a successful hunter whose
+    magic helped him reach animals in a story.
+  category: relationship
+  evidence_refs:
+  - ev:5
+- id: obs:6
+  text: The passage says that the path may refer to possessions given through magic
+    imparted by the society.
+  category: relationship
+  evidence_refs:
+  - ev:6
+figures:
+- id: fig:1
+  name_or_label: successful hunter
+  description: A hunter whose magic helped him reach the animals in the referenced
+    story.
+  role_refs:
+  - role:1
+  evidence_refs:
+  - ev:5
+- id: fig:2
+  name_or_label: animals in the story
+  description: Animals reached by the successful hunter through his magic.
+  role_refs:
+  - role:2
+  evidence_refs:
+  - ev:5
+- id: fig:3
+  name_or_label: this society
+  description: The society associated with imparting magic connected to possessions.
+  role_refs:
+  - role:3
+  evidence_refs:
+  - ev:6
+roles:
+- id: role:1
+  label: magic-aided successful hunter
+  assigned_to:
+  - fig:1
+  basis: The passage describes the successful hunter as having magic that helped him
+    reach animals.
+  evidence_refs:
+  - ev:5
+- id: role:2
+  label: animals reached through magic
+  assigned_to:
+  - fig:2
+  basis: The animals are described as reached by the hunter with the aid of his magic.
+  evidence_refs:
+  - ev:5
+- id: role:3
+  label: magic-imparting society
+  assigned_to:
+  - fig:3
+  basis: The passage says possessions are given through the magic imparted by the
+    society.
+  evidence_refs:
+  - ev:6
+symbols:
+- id: sym:1
+  label: path
+  literal_form: the path
+  associated_figures:
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:3
+  - ev:6
+- id: sym:2
+  label: weshige / possessions or wealth
+  literal_form: the word weshige, meaning possessions or wealth
+  associated_figures:
+  - fig:1
+  - fig:3
+  taxonomy_refs: []
+  evidence_refs:
+  - ev:4
+  - ev:5
+  - ev:6
+scenes:
+- id: scene:1
+  label: Old song with stated meaning
+  summary: A song of repeated words or vocables is presented; the passage says its
+    words are old and not translatable, while its meaning is given as taking a path
+    again.
+  figure_refs: []
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:1
+  - ev:2
+  - ev:3
+  - ev:4
+- id: scene:2
+  label: Explanation of wealth, hunter, animals, and society magic
+  summary: The word weshige is explained as possessions or wealth, tied to a successful
+    hunter's magic and to possessions given through magic imparted by the society.
+  figure_refs:
+  - fig:1
+  - fig:2
+  - fig:3
+  symbol_refs:
+  - sym:1
+  - sym:2
+  evidence_refs:
+  - ev:5
+  - ev:6
+candidate_motifs:
+- id: motif:1
+  label: renewed taking of a ritual path
+  taxonomy_refs: []
+  basis: The song's reported meaning is that a path will be taken again, and the passage
+    links the path to possessions obtained through society magic.
+  evidence_refs:
+  - ev:3
+  - ev:6
+  confidence: medium
+  cautions: The passage gives only a brief explanation and does not narrate an actual
+    journey.
+- id: motif:2
+  label: magic-assisted hunting success and wealth
+  taxonomy_refs: []
+  basis: The passage links possessions or wealth with a successful hunter whose magic
+    helped him reach animals.
+  evidence_refs:
+  - ev:4
+  - ev:5
+  confidence: medium
+  cautions: The underlying story is only alluded to, not recounted in this passage.
+- id: motif:3
+  label: archaic unintelligible ritual song
+  taxonomy_refs: []
+  basis: The passage states that the song words cannot be translated and are said
+    to be old and unintelligible to contemporary Omaha speakers.
+  evidence_refs:
+  - ev:2
+  confidence: high
+  cautions: This is a ritual-song pattern rather than a narrative motif.
+comparison_claims: []
+evidence:
+- id: ev:1
+  type: quote
+  locator: lines 35851-35905
+  quote_or_summary: The song repeats forms such as "Thegethe ge ga ha" and "Weshige
+    ha a."
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:2
+  type: quote
+  locator: lines 35851-35905
+  quote_or_summary: '"The words of this song can not be translated" and are said to
+    be old and unintelligible to the Omaha of today.'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:3
+  type: quote
+  locator: lines 35851-35905
+  quote_or_summary: '"The meaning of the song is said to be: ''We will again take
+    this path.''"'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:4
+  type: quote
+  locator: lines 35851-35905
+  quote_or_summary: '"The word weshige" occurs and means "possessions" or "wealth."'
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; short excerpt.
+- id: ev:5
+  type: summary
+  locator: lines 35851-35905
+  quote_or_summary: The passage says weshige refers to the fruits of the successful
+    hunter whose magic helped him reach the animals in the story.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+- id: ev:6
+  type: summary
+  locator: lines 35851-35905
+  quote_or_summary: The passage says the path may refer to possessions given through
+    the magic imparted by this society.
+  source_text_path: texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md
+  rights_note: Public domain source; summarized.
+confidence:
+  extraction: high
+  motif_candidates: medium
+  comparison_claims: uncertain
+  notes: Extraction is based directly on the supplied passage. Motif labels are cautious
+    because the referenced hunting story is not included here, and no comparison claims
+    are made.
+reviewer_status:
+  status: needs_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Machine-generated draft from OpenAI Batch; not human-reviewed.
+extracted_by: openai_batch:gpt-5.5
+extracted_at: '2026-07-20'
+notes: |-
+  No available taxonomy symbol refs match the passage symbols. No comparison claims were added because the passage itself does not support a specific cross-traditional comparison.
+  batch_run_id=canon-wave9-2026-07-20
+  custom_id=motif_extract:native-american-omaha-tribe-fletcher-laflesche-archive__l35851-l35905
+  passage_sha256=0792f6211279123b41bbe7821b0bd028056fc669f2c7fc7a27048c6fecde1813
+
