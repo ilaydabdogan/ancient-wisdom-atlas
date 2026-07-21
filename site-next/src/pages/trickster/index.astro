@@ -61,27 +61,43 @@ const primaryK = crown.primary_k ?? 64;
 const primary = (crown.results ?? []).find((r) => r.k === primaryK) ?? {};
 const matched = primary.matched_bonds ?? [];
 const crownBondTotal = matched.length;
-const trickBond = matched.find((b) =>
-  (b.iso_cluster_a ?? []).some((l) => /trickster/i.test(l)),
-);
+// A bond "touches" the trickster if any of its four blind clusters name him
+// (his own labels can land in either the a- or b-slot of the pairing).
+const TRICK_RE = /trickster|coyote|raven/i;
+const bondText = (b) =>
+  [b.iso_cluster_a, b.iso_cluster_b, b.con_cluster_a, b.con_cluster_b]
+    .flat()
+    .filter(Boolean)
+    .join(' ');
+const trickBonds = matched.filter((b) => TRICK_RE.test(bondText(b)));
+const trickCount = trickBonds.length;
+const trickBond = trickBonds[0] ?? null;
 const isoW = trickBond?.iso_weight ?? null;
 const conW = trickBond?.con_weight ?? null;
-const trickIsoLabels = (trickBond?.iso_cluster_a ?? []).slice(0, 5);
-const trickAlignedTo = (trickBond?.con_cluster_a ?? []).slice(0, 2);
 const trickRatio = isoW && conW ? conW / isoW : null;
-// Verified theme tally across the 24 strongest cross-world bonds: how often
-// each theme carries as a matched bond in BOTH independently-built worlds.
-// The trickster is present in 68 traditions yet carries in just one bond.
-const themeTally = [
-  { theme: 'ritual / offering', n: 15 },
-  { theme: 'afterlife / death / return', n: 14 },
-  { theme: 'battle / war', n: 12 },
-  { theme: 'marriage', n: 5 },
-  { theme: 'emergence / creation', n: 5 },
-  { theme: 'healing', n: 5 },
-  { theme: 'trickster', n: 1 },
+// Which side of the pairing is the trickster, and what he bonds *to*.
+const trickOnA = trickBond ? TRICK_RE.test((trickBond.iso_cluster_a ?? []).join(' ')) : false;
+const trickIsoLabels = (trickBond ? (trickOnA ? trickBond.iso_cluster_a : trickBond.iso_cluster_b) : []) ?? [];
+const trickPartnerLabels = (trickBond ? (trickOnA ? trickBond.iso_cluster_b : trickBond.iso_cluster_a) : []) ?? [];
+const trickAlignedTo = (trickBond ? (trickOnA ? trickBond.con_cluster_a : trickBond.con_cluster_b) : []) ?? [];
+// Dynamic theme tally across the strongest cross-world matched bonds: how many
+// name each theme in either independently-built world. Keyword-classified at
+// build time from the crown result, so it moves with the corpus.
+const THEMES = [
+  { theme: 'ritual / offering', re: /ritual|offering|sacrifice|purificat|libation|prayer|feast/i },
+  { theme: 'afterlife / death / return', re: /afterlife|death|dead|underworld|resurrect|revive|return|funeral|grave|soul|ghost/i },
+  { theme: 'battle / war', re: /battle|\bwar\b|combat|warrior|fight|slay|duel|raid/i },
+  { theme: 'marriage / union', re: /marriage|marry|\bwed|bride|groom|union|courtship|abduct/i },
+  { theme: 'emergence / creation', re: /creation|emergence|origin|primordial|cosmos|world[- ]|first (man|people)/i },
+  { theme: 'healing', re: /heal|cure|medicine|restore|revive/i },
+  { theme: 'trickster / theft by cunning', re: /trickster|coyote|raven|decept|deceiv|trick|steal|theft|disguise/i },
 ];
-const tallyMax = Math.max(...themeTally.map((t) => t.n));
+const themeTally = THEMES.map((t) => ({
+  theme: t.theme,
+  n: matched.filter((b) => t.re.test(bondText(b))).length,
+})).sort((a, b) => b.n - a.n);
+const tallyMax = Math.max(1, ...themeTally.map((t) => t.n));
+const trickThemeN = themeTally.find((t) => /trickster/.test(t.theme))?.n ?? trickCount;
 
 /* ------------------------------------------------------------------ */
 /* 4 · Real passages — loaded from the extraction records at build      */
@@ -211,9 +227,9 @@ const questions = [
     id: 'universal',
     numeral: 'V',
     q: 'Is it truly universal?',
-    atlas: `He is present in <strong>${fmtInt(traditionCount)} traditions</strong> — as universal in presence as any figure the Atlas holds. But <em>presence</em> and <em>structure</em> are not the same measurement. Most patterns keep the same company in both never-connected worlds: death bonds with return in the Dreamtime <em>and</em> in the old world; offering bonds with purification nearly everywhere. Those pairings travel. The trickster is the exception. He appears in almost every culture, yet <em>what</em> he bonds to differs in every place — here to animal-origin tales, there to wisdom, elsewhere to theft, or shapeshifting, or the dead. His companions do not carry across. Of the ${crownBondTotal} strongest cross-world bonds, afterlife appears in 14 and ritual in 15 — the trickster in just <strong>1</strong>, and that one the loosest match of all (${isoW?.toFixed(2)} vs ${conW?.toFixed(2)}, a ratio of ${trickRatio ? trickRatio.toFixed(2) : '—'}). Universal in presence; with no fixed allies anywhere.`,
-    scholarship: `For a century the trickster has been called one of the great universals — Radin, Jung, Campbell all place him among the archetypes that surface everywhere the human mind tells stories. That intuition is not wrong. It simply could not measure its own edge — presence it could see; the absence of fixed companions it could not.`,
-    synthesis: `This is the correction the whole page turns on. Intuition and old scholarship say “the same figure, everywhere.” The Atlas refines it: everywhere in <em>presence</em>, yet <em>patterned nowhere</em> — the boundary-crosser won't hold still even in the mathematics. And notice the rhyme with the first question: the figure whose defining act is crossing boundaries is also the one that refuses to bond to a stable set of companions across cultures. That is the same character trait, measured.`,
+    atlas: `He is present in <strong>${fmtInt(traditionCount)} traditions</strong> — as universal in presence as any figure the Atlas holds. But <em>presence</em> and <em>structure</em> are two different measurements, and the gap between them is where he lives. As the corpus tripled, his masks stayed stubbornly local: spider, raven, coyote, fox, the grinning god at the crossroads — no two of their tales converge. Yet when the crown lets two never-connected worlds each build their web blind, he now carries in <strong>${trickThemeN} of the ${crownBondTotal} strongest cross-world bonds</strong> — and both are the <em>same act</em>: obtaining by deception what could not be taken by force. His strongest conserved partnership of all, in ${strongestBond?.traditions ?? 0} traditions, is with <strong>sacred&nbsp;knowledge</strong> — the theft of fire. So the honest reading is not “allied to nothing.” It is narrower and stranger: he is universal not as a <em>character</em> but as a <em>deed</em>. You cannot catch what he looks like. You can only catch what he does — and what he does, everywhere, is steal by cunning.`,
+    scholarship: `For a century the trickster has been called one of the great universals — Radin, Jung, Campbell all place him among the archetypes that surface everywhere the human mind tells stories. That intuition is not wrong. What it could not do was locate the invariant: Hyde came closest, naming theft and the loosening of what is fixed as his essence. The Atlas turns that into a measurement — his form varies without limit; his function, theft-by-cunning, is what reproduces across worlds.`,
+    synthesis: `This is the correction the whole page turns on, and the enlarged corpus sharpened it. Intuition and old scholarship say “the same figure, everywhere.” The first, smaller reading of the Atlas over-corrected to “everywhere in presence, patterned nowhere.” The truth sits between: everywhere in presence, and patterned in exactly <em>one</em> thing — the act of taking the fire, the food, the forbidden knowledge by wit rather than strength. His companions drift; his crime does not. The figure whose defining act is crossing boundaries reproduces, across peoples who never met, precisely as the one who crosses the boundary to steal.`,
   },
 ];
 
@@ -223,7 +239,7 @@ const crumbs = [{ label: 'Findings', href: '/findings/' }, { label: 'The Trickst
 
 <Manuscript
   title="The Trickster — A Study in Three Hands — Ancient Wisdom Atlas"
-  description="The one who slips the net. What the models intuit, what the Atlas's own evidence discovers across 68 traditions, and what the scholarship says — held side by side, question by question."
+  description={`The one who slips the net. What the models intuit, what the Atlas's own evidence discovers across ${traditionCount} traditions, and what the scholarship says — held side by side, question by question.`}
   crumbs={crumbs}
 >
   <style>
@@ -407,7 +423,7 @@ const crumbs = [{ label: 'Findings', href: '/findings/' }, { label: 'The Trickst
         <p class="stat"><strong>{fmtInt(traditionCount)}</strong> <span>traditions hold him</span></p>
         <p class="stat"><strong>{fmtInt(occurrenceTotal)}</strong> <span>tagged occurrences</span></p>
         <p class="stat"><strong>{fmtInt(dominant?.occurrence_count ?? 0)}</strong> <span>“at the boundary”</span></p>
-        <p class="stat"><strong>1 of {crownBondTotal}</strong> <span>shared bonds carry him</span></p>
+        <p class="stat"><strong>{trickCount} of {crownBondTotal}</strong> <span>shared bonds carry him</span></p>
       </div>
     </section>
 
@@ -570,50 +586,51 @@ const crumbs = [{ label: 'Findings', href: '/findings/' }, { label: 'The Trickst
     <!-- ✦ the crown coda · resists the net --------------------------- -->
     <section class="story-section">
       <div class="reading">
-        <p class="rubric">The crown finding · present everywhere, matched nowhere</p>
-        <h2>The boundary-crosser resists the net</h2>
+        <p class="rubric">The crown finding · present everywhere, matched in one act</p>
+        <h2>The boundary-crosser resists every net but one</h2>
         <p class="dropcap">
           The crown experiment let two worlds that never met — the isolated lineages and the
           connected old world — each build its own web of which patterns keep company, blind
           to the other. From that we took the <strong>{crownBondTotal} strongest bonds that
-          formed in both</strong>. Most themes carry over and over: <em>ritual and offering</em>
-          appears in 15 of the 24, <em>afterlife, death, and return</em> in 14, <em>battle</em>
-          in 12. These pairings travel — death bonds with return in the Dreamtime and in the
-          old world alike. The trickster appears in just <strong>one</strong>.
+          formed in both</strong>. Most themes carry over and over: {themeTally[0]?.theme} leads,
+          with <em>afterlife, death, and return</em> and <em>ritual</em> close behind. The
+          trickster carries in only <strong>{trickThemeN}</strong> — but as the corpus tripled,
+          those {trickThemeN} came into focus as the <em>same act</em>: obtaining food, fire, and
+          the forbidden by deception. His form scatters across cultures; his crime reproduces.
         </p>
       </div>
 
       <!-- verified theme tally across the 24 shared cross-world bonds -->
-      <figure class="tk-tally" role="img" aria-label={`Of the ${crownBondTotal} strongest bonds formed in both never-connected worlds, ritual and offering appear in 15, afterlife death and return in 14, battle in 12, marriage emergence and healing in 5 each, and the trickster in only 1.`}>
+      <figure class="tk-tally" role="img" aria-label={`Of the ${crownBondTotal} strongest bonds formed in both never-connected worlds: ${themeTally.map((t) => `${t.theme} in ${t.n}`).join(', ')}.`}>
         {themeTally.map((t) => (
-          <div class={t.theme === 'trickster' ? 'tk-tally-row trick' : 'tk-tally-row'}>
+          <div class={/trickster/.test(t.theme) ? 'tk-tally-row trick' : 'tk-tally-row'}>
             <span class="lbl">{t.theme}</span>
             <span class="bar"><span class="fill" style={`width:${Math.round((t.n / tallyMax) * 100)}%`}></span></span>
             <span class="cnt">{t.n}</span>
           </div>
         ))}
-        <figcaption>How often each theme carries as a matched bond across the {crownBondTotal} strongest cross-world pairings. The trickster — present in {fmtInt(traditionCount)} traditions — bonds consistently to nothing.</figcaption>
+        <figcaption>How often each theme carries as a matched bond across the {crownBondTotal} strongest cross-world pairings. The trickster — present in {fmtInt(traditionCount)} traditions — carries in only {trickThemeN}, and each names the same act: theft by cunning.</figcaption>
       </figure>
 
       <div class="tk-crown">
         <div class="tk-scale">
-          <span class="big">{isoW?.toFixed(2)}</span>
-          <span class="cap">bond weight in his own isolated homelands</span>
-          <p>Where the Raven cycles, Coyote, and the spider are the evidence, his constellation is dense and sure — “<em>{trickIsoLabels[0]}</em>” bonds tightly to the tales that explain why animals are as they are.</p>
+          <span class="big">{trickThemeN}</span>
+          <span class="cap">of {crownBondTotal} cross-world bonds carry him — and both are one act</span>
+          <p>In the isolated world's own blind map, his surviving bonds are “<em>{trickIsoLabels[0]}</em>” and its kin — the trickster obtaining by deception what could not be taken by force, bonded to the tales that explain why the animals are as they are.</p>
         </div>
-        <div class="tk-scale faint">
-          <span class="big">{conW?.toFixed(2)}</span>
-          <span class="cap">weight where it was forced to align across worlds</span>
-          <p>The one alignment it made was a stretch: the isolated world's “<em>{trickIsoLabels[0]}</em>” got matched to the old world's “<em>{trickAlignedTo[0]}</em>” — a ratio of {trickRatio ? trickRatio.toFixed(2) : '—'}, the loosest of all {crownBondTotal}. That is the alignment reaching, not a true echo.</p>
+        <div class="tk-scale">
+          <span class="big">{strongestBond?.traditions ?? 0}</span>
+          <span class="cap">traditions bind him to sacred knowledge — the theft of fire</span>
+          <p>His single strongest conserved partnership of all. As the corpus tripled it nearly doubled its reach: the thief of fire, caught mid-theft, in tradition after unconnected tradition. His companions drift; this crime does not.</p>
         </div>
       </div>
 
       <p class="footnote" style="margin-top:1.3rem;">
-        Present in {fmtInt(traditionCount)} traditions, yet carrying as a shared bond in only
-        1 of {crownBondTotal} — because <em>what</em> he bonds to differs in every place: here
-        animal-origin tales, there wisdom, elsewhere theft or shapeshifting or the dead. He is
-        everywhere, and patterned nowhere. The figure whose defining act is crossing boundaries
-        won't hold still even in the mathematics. The full reckoning is in
+        Present in {fmtInt(traditionCount)} traditions, carrying as a shared cross-world bond in
+        {' '}{trickThemeN} of {crownBondTotal} — and both of those the same deed. He is universal
+        not as a <em>character</em> — his masks stay local, his tales never converge — but as an
+        <em>act</em>: theft-by-cunning at the threshold. You cannot catch what he looks like; you
+        can only catch what he does. The full reckoning is in
         {' '}<a href="/letters/">Letter II — “The trickster refused our net.”</a>
       </p>
     </section>
