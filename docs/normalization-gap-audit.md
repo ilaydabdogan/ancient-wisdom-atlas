@@ -90,7 +90,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `accounting_of_the_living_and_dead_after_battle` | Accounting of the living and dead after battle | 1 | hindu |
 | `accumulated_sin_as_cargo_that_sinks_the_sinner_to_hell` | Accumulated sin as cargo that sinks the sinner to hell | 1 | buddhist |
 | `accusation_that_foreign_treatment_causes_death` | Accusation that foreign treatment causes death | 1 | chaco_amerindian |
-| `accused_soul_stealer_punished_by_community` | accused soul-stealer punished by community | 1 | arctic-inuit |
+| `accused_soul_stealer_punished_by_community` | accused soul-stealer punished by community | 1 | arctic_inuit |
 | `acquisition_or_return_of_hunting_efficacy_after_helper_contact` | Acquisition or return of hunting efficacy after helper contact | 1 | native_american_plains |
 | `acquisition_or_return_of_valued_resources` | acquisition or return of valued resources | 1 | native_american_southeast |
 | `action_as_obligatory_even_for_divine_and_ancestral_beings` | Action as obligatory even for divine and ancestral beings | 1 | hindu |
@@ -432,7 +432,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ancestral_magical_power_as_tradition` | Ancestral magical power as tradition | 1 | andamanese |
 | `ancestral_mandate_delivered_through_a_sage` | ancestral mandate delivered through a sage | 1 | hindu |
 | `ancestral_migration_and_settlement_foundation_after_emergence` | ancestral migration and settlement foundation after emergence | 1 | melanesian |
-| `ancestral_migration_from_beyond_the_sea` | Ancestral migration from beyond the sea | 1 | arctic-inuit |
+| `ancestral_migration_from_beyond_the_sea` | Ancestral migration from beyond the sea | 1 | arctic_inuit |
 | `ancestral_migration_into_a_present_homeland` | ancestral migration into a present homeland | 1 | african_bantu |
 | `ancestral_migration_road_remains_visible` | ancestral migration road remains visible | 1 | african_bantu |
 | `ancestral_model_for_present_heroism` | Ancestral model for present heroism | 1 | vietnamese |
@@ -545,7 +545,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ancestral_technology_reinterpreted_as_sacred_object` | ancestral technology reinterpreted as sacred object | 1 | african_akan |
 | `ancestral_temple_priority_in_building` | Ancestral temple priority in building | 1 | confucian |
 | `ancestral_territorial_allotment_for_descendants` | ancestral territorial allotment for descendants | 1 | jewish_pseudepigrapha |
-| `ancestral_testimony_about_feared_spirits` | Ancestral testimony about feared spirits | 1 | arctic-inuit |
+| `ancestral_testimony_about_feared_spirits` | Ancestral testimony about feared spirits | 1 | arctic_inuit |
 | `ancestral_time_magical_object_causing_deaths` | ancestral-time magical object causing deaths | 1 | australian_aboriginal |
 | `ancestral_tomb_as_required_resting_place` | ancestral tomb as required resting place | 1 | malagasy |
 | `ancestral_tomb_restoration_against_decay` | Ancestral tomb restoration against decay | 1 | egyptian |
@@ -591,7 +591,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `angry_retaliation_against_spirits_blamed_for_death` | angry retaliation against spirits blamed for death | 1 | andamanese |
 | `aniconic_spiritual_presence_of_the_deity` | Aniconic spiritual presence of the deity | 1 | egyptian |
 | `animal_abduction_suspicion_leads_to_deadly_search` | Animal-abduction suspicion leads to deadly search | 1 | amazonian |
-| `animal_alarm_during_spirit_consultation` | animal alarm during spirit consultation | 1 | arctic-inuit |
+| `animal_alarm_during_spirit_consultation` | animal alarm during spirit consultation | 1 | arctic_inuit |
 | `animal_ally_destroys_monstrous_or_deadly_animals` | Animal ally destroys monstrous or deadly animals | 1 | celtic_irish |
 | `animal_ancestor_and_inherited_shamanic_clan_power` | Animal ancestor and inherited shamanic clan power | 1 | finnic |
 | `animal_ancestor_from_sacred_mountain_associated_village` | Animal ancestor from sacred mountain-associated village | 1 | native_american_southwest |
@@ -889,7 +889,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `attempted_evasion_of_death_by_moving_the_bed` | Attempted evasion of Death by moving the bed | 1 | greek |
 | `attempted_expulsion_of_animal_followed_by_return` | attempted expulsion of animal followed by return | 1 | native_american_plains |
 | `attempted_killing_fails_because_the_attacker_flees_before_confirming_death` | attempted killing fails because the attacker flees before confirming death | 1 | chaco_amerindian |
-| `attempted_return_of_the_first_dead_is_blocked` | Attempted return of the first dead is blocked | 1 | arctic-inuit |
+| `attempted_return_of_the_first_dead_is_blocked` | Attempted return of the first dead is blocked | 1 | arctic_inuit |
 | `audible_or_partially_invisible_ghosts` | audible or partially invisible ghosts | 1 | native_american_southwest |
 | `audible_sign_of_spirit_approach` | Audible sign of spirit approach | 1 | guiana_amerindian |
 | `auditory_and_animal_death_omens` | auditory and animal death omens | 1 | germanic |
@@ -900,7 +900,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `authority_invoking_ancestral_violence_as_admonition` | authority invoking ancestral violence as admonition | 1 | celtic |
 | `autonomous_arrow_messenger_returns_an_unwanted_object` | Autonomous arrow messenger returns an unwanted object | 1 | buryat_mongol |
 | `avenged_death_marked_by_placing_scalp_poles_at_a_grave` | Avenged death marked by placing scalp poles at a grave | 1 | native_american_great_lakes |
-| `avenger_brings_justice_for_widows_dead_husbands` | Avenger brings justice for widows' dead husbands | 1 | arctic-inuit |
+| `avenger_brings_justice_for_widows_dead_husbands` | Avenger brings justice for widows' dead husbands | 1 | arctic_inuit |
 | `avenger_of_widows_and_dead_hunters` | avenger of widows and dead hunters | 1 | inuit |
 | `avenger_promised_by_the_dying` | Avenger promised by the dying | 1 | bavili |
 | `avenger_s_oath_after_wrongful_death` | avenger's oath after wrongful death | 1 | persian |
@@ -951,11 +951,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `banishment_of_death_and_destruction` | Banishment of death and destruction | 1 | hindu |
 | `banishment_of_disease_to_remote_waters_or_underworld` | banishment of disease to remote waters or underworld | 1 | finnic |
 | `banquet_skeleton_as_mortality_reminder` | Banquet skeleton as mortality reminder | 1 | egyptian |
-| `baptism_ends_prior_helping_spirit_relationship` | Baptism ends prior helping-spirit relationship | 1 | arctic-inuit |
+| `baptism_ends_prior_helping_spirit_relationship` | Baptism ends prior helping-spirit relationship | 1 | arctic_inuit |
 | `bargain_with_dead_reversed_by_theft_and_bird_carrying` | bargain with Dead reversed by theft and bird-carrying | 1 | afro_caribbean |
 | `barred_hell_and_open_paradise_as_protective_formula` | barred hell and open paradise as protective formula | 1 | germanic |
 | `barren_wife_in_an_ancestral_family_line` | Barren wife in an ancestral family line | 1 | jewish_christian |
-| `barren_woman_seeking_return_to_husband` | barren woman seeking return to husband | 1 | arctic-inuit |
+| `barren_woman_seeking_return_to_husband` | barren woman seeking return to husband | 1 | arctic_inuit |
 | `basket_ornamentation_with_worked_in_fibre_paint_and_shells` | basket ornamentation with worked-in fibre, paint, and shells | 1 | andamanese |
 | `bat_as_guardian_familiar_spirit` | Bat as guardian familiar spirit | 1 | guiana_amerindian |
 | `bat_as_underworld_sign_and_bat_deity` | Bat as underworld sign and bat deity | 1 | nahua_maya_inca |
@@ -1148,7 +1148,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `bodily_corruption_and_failed_senses_as_death_signs` | bodily corruption and failed senses as death signs | 1 | hindu |
 | `bodily_deterioration_or_alteration_as_death_sign` | Bodily deterioration or alteration as death sign | 1 | hindu |
 | `bodily_emission_as_channel_of_spirit_influence` | Bodily emission as channel of spirit influence | 1 | ganda |
-| `bodily_heaviness_as_sign_of_helping_spirit_arrival` | Bodily heaviness as sign of helping-spirit arrival | 1 | arctic-inuit |
+| `bodily_heaviness_as_sign_of_helping_spirit_arrival` | Bodily heaviness as sign of helping-spirit arrival | 1 | arctic_inuit |
 | `bodily_immortality_through_liberation_from_causal_nexus` | bodily immortality through liberation from causal nexus | 1 | tibetan_buddhist |
 | `bodily_measurement_used_to_infer_ancestral_population_history` | bodily measurement used to infer ancestral population history | 1 | finnic |
 | `bodily_organ_placed_in_the_sky_after_death` | Bodily organ placed in the sky after death | 1 | san |
@@ -1539,7 +1539,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `chosen_death_to_rejoin_an_absent_father` | chosen death to rejoin an absent father | 1 | native_american_plains |
 | `chosen_death_with_ritual_brother_and_desire_to_rejoin_father` | chosen death with ritual brother and desire to rejoin father | 1 | native_american_plains |
 | `chosen_spouse_under_foretold_early_death` | chosen spouse under foretold early death | 1 | hindu |
-| `christian_death_posture_of_the_transformed_outsider` | Christian death posture of the transformed outsider | 1 | arctic-inuit |
+| `christian_death_posture_of_the_transformed_outsider` | Christian death posture of the transformed outsider | 1 | arctic_inuit |
 | `christian_demonization_of_earlier_spirits` | Christian demonization of earlier spirits | 1 | germanic |
 | `christian_penance_contrasted_with_heathen_burial` | Christian penance contrasted with heathen burial | 1 | norse |
 | `christian_ritual_expulsion_or_silencing_of_spirits` | Christian ritual expulsion or silencing of spirits | 1 | germanic |
@@ -1945,7 +1945,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `corpse_sign_used_to_identify_a_concealed_holy_man` | corpse sign used to identify a concealed holy man | 1 | hindu |
 | `corpse_signs_foretell_another_death` | Corpse signs foretell another death | 1 | germanic |
 | `corpse_staged_as_a_sleeping_person` | Corpse staged as a sleeping person | 1 | siberian |
-| `corpse_stealing_and_corpse_eating_hill_spirit` | corpse-stealing and corpse-eating hill spirit | 1 | arctic-inuit |
+| `corpse_stealing_and_corpse_eating_hill_spirit` | corpse-stealing and corpse-eating hill spirit | 1 | arctic_inuit |
 | `corpse_stolen_from_guarded_display_and_hidden` | corpse stolen from guarded display and hidden | 1 | celtic |
 | `corpse_strewn_battlefield_after_heroic_slaughter` | corpse-strewn battlefield after heroic slaughter | 1 | hindu |
 | `corpse_strewn_battlefield_and_total_carnage` | corpse-strewn battlefield and total carnage | 1 | hindu |
@@ -2023,7 +2023,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `courageous_laughter_at_death` | Courageous laughter at death | 1 | germanic |
 | `courtship_task_followed_by_death_of_intended_spouse_and_withdrawal` | courtship task followed by death of intended spouse and withdrawal | 1 | native_american_plains |
 | `covering_nudity_as_omen_of_misfortune_or_death` | Covering nudity as omen of misfortune or death | 1 | guiana_amerindian |
-| `covering_the_dead_with_snow` | covering the dead with snow | 1 | arctic-inuit |
+| `covering_the_dead_with_snow` | covering the dead with snow | 1 | arctic_inuit |
 | `covering_the_executed_dead_with_one_s_robe` | Covering the executed dead with one's robe | 1 | taoist |
 | `cow_or_bull_soul_as_animal_kingdom_protector` | Cow or bull-soul as animal-kingdom protector | 1 | zoroastrian |
 | `cowrie_shells_used_as_loaded_dice` | cowrie shells used as loaded dice | 1 | hausa |
@@ -2065,7 +2065,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `crossroads_offering_disperses_harmful_spirits` | crossroads offering disperses harmful spirits | 1 | yoruba |
 | `crowd_gathered_for_the_spectacle_of_death` | Crowd gathered for the spectacle of death | 1 | burmese |
 | `crowded_migration_intensifying_epidemic_death` | crowded migration intensifying epidemic death | 1 | roman |
-| `crying_orphan_baby_summons_deadly_supernatural_danger` | Crying orphan baby summons deadly supernatural danger | 1 | arctic-inuit |
+| `crying_orphan_baby_summons_deadly_supernatural_danger` | Crying orphan baby summons deadly supernatural danger | 1 | arctic_inuit |
 | `cult_foundation_at_a_disappearance_or_descent_site` | Cult foundation at a disappearance or descent site | 1 | yoruba |
 | `cult_of_woodland_spirits_at_dedicated_trees_and_temples` | Cult of woodland spirits at dedicated trees and temples | 1 | germanic |
 | `cultural_continuity_despite_mixed_descent` | Cultural continuity despite mixed descent | 1 | greek |
@@ -2139,7 +2139,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dangerous_feet_first_birth_and_crossroads_burial` | dangerous feet-first birth and crossroads burial | 1 | ganda |
 | `dangerous_female_decoy_and_death_at_bone_place` | dangerous female decoy and death at bone-place | 1 | native_american_northeast_woodlands |
 | `dangerous_food_followed_by_death` | Dangerous food followed by death | 1 | native_american_plateau |
-| `dangerous_food_gift_preceding_child_death` | dangerous food-gift preceding child death | 1 | arctic-inuit |
+| `dangerous_food_gift_preceding_child_death` | dangerous food-gift preceding child death | 1 | arctic_inuit |
 | `dangerous_food_on_the_road_of_spirits` | dangerous food on the road of spirits | 1 | native_american_plateau |
 | `dangerous_forest_spirit_kills_through_tickling_dance_or_wrestling` | Dangerous forest spirit kills through tickling, dance, or wrestling | 1 | finnic |
 | `dangerous_fostered_outsider_or_creature_returning_to_nature` | Dangerous fostered outsider or creature returning to nature | 1 | persian |
@@ -2190,7 +2190,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dark_enclosure_and_distant_spirit_voice` | dark enclosure and distant spirit voice | 1 | guiana_amerindian |
 | `dark_enclosure_as_spirit_contact_setting` | Dark enclosure as spirit-contact setting | 1 | arctic_inuit |
 | `dark_ghost_world_and_magical_defense_against_hostile_spirits` | Dark ghost-world and magical defense against hostile spirits | 1 | egyptian |
-| `dark_season_famine_leading_to_eating_the_dead` | Dark-season famine leading to eating the dead | 1 | arctic-inuit |
+| `dark_season_famine_leading_to_eating_the_dead` | Dark-season famine leading to eating the dead | 1 | arctic_inuit |
 | `dark_shade_land_after_death` | dark shade-land after death | 1 | chaco_amerindian |
 | `dark_underworld_for_the_dead` | dark underworld for the dead | 1 | egyptian |
 | `darkness_arising_from_ancestral_misconduct` | darkness arising from ancestral misconduct | 1 | andamanese |
@@ -2413,10 +2413,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `deadly_race_contest_with_a_feared_antagonist` | deadly race-contest with a feared antagonist | 1 | native_american_plains |
 | `deadly_recognition_test_among_identical_animal_kin` | deadly recognition test among identical animal kin | 1 | native_american_plains |
 | `deadly_ritual_object_by_touch` | deadly ritual object by touch | 1 | ekoi |
-| `deadly_sight_of_the_flesh_bare_magician` | Deadly sight of the flesh-bare magician | 1 | arctic-inuit |
+| `deadly_sight_of_the_flesh_bare_magician` | Deadly sight of the flesh-bare magician | 1 | arctic_inuit |
 | `deadly_sight_of_the_hidden_solar_return` | Deadly sight of the hidden solar return | 1 | african_bantu |
 | `deadly_snow_journey_toward_place_of_plenty` | deadly snow journey toward place of plenty | 1 | native_american_northeast_woodlands |
-| `deadly_sudden_winds_from_the_hills` | Deadly sudden winds from the hills | 1 | arctic-inuit |
+| `deadly_sudden_winds_from_the_hills` | Deadly sudden winds from the hills | 1 | arctic_inuit |
 | `deadly_suitor_challenge_around_a_guarded_woman` | Deadly suitor challenge around a guarded woman | 1 | native_american_plateau |
 | `deadly_supernatural_bird_voice` | deadly supernatural bird voice | 1 | slavic |
 | `deadly_sweatlodge_heat_ordeal_defeated_by_hidden_substitute_or_helper` | Deadly sweatlodge heat ordeal defeated by hidden substitute or helper | 1 | native_american_plains |
@@ -2545,7 +2545,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `death_attributed_to_wife_s_unfaithfulness_and_avenged_by_decapitation` | death attributed to wife’s unfaithfulness and avenged by decapitation | 1 | native_american_northwest_coast |
 | `death_avenging_obligation_assigned_through_kinship` | death-avenging obligation assigned through kinship | 1 | australian_aboriginal |
 | `death_averting_restorative_sacred_plant` | Death-averting restorative sacred plant | 1 | zoroastrian |
-| `death_avoidance_rule_code` | Death-avoidance rule code | 1 | arctic-inuit |
+| `death_avoidance_rule_code` | Death-avoidance rule code | 1 | arctic_inuit |
 | `death_before_bondage` | death before bondage | 1 | guiana_amerindian |
 | `death_before_dishonor_and_self_starvation_after_shame` | Death before dishonor and self-starvation after shame | 1 | hindu |
 | `death_before_flight` | Death before flight | 1 | norse |
@@ -3477,7 +3477,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `domestic_animals_informed_of_a_death` | Domestic animals informed of a death | 1 | african_bantu |
 | `domestic_disorder_as_the_dwelling_place_of_a_harmful_spirit` | Domestic disorder as the dwelling-place of a harmful spirit | 1 | hindu |
 | `domestic_effigy_of_the_honored_dead` | Domestic effigy of the honored dead | 1 | finnic |
-| `domestic_house_as_meeting_place_of_humans_and_spirits` | domestic house as meeting place of humans and spirits | 1 | arctic-inuit |
+| `domestic_house_as_meeting_place_of_humans_and_spirits` | domestic house as meeting place of humans and spirits | 1 | arctic_inuit |
 | `domestic_pounding_or_cracking_implement_in_shell_mound_context` | Domestic pounding or cracking implement in shell-mound context | 1 | guiana_amerindian |
 | `domestic_rites_at_departure_return_and_entry_into_marriage_home` | domestic rites at departure, return, and entry into marriage home | 1 | greek_roman |
 | `domestic_spirit_enforces_orderly_labor` | domestic spirit enforces orderly labor | 1 | germanic |
@@ -3541,7 +3541,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `drowned_dead_incorporated_into_the_water_spirit_world` | Drowned dead incorporated into the water-spirit world | 1 | finnic |
 | `drowned_dead_joining_the_company_of_water_spirits` | Drowned dead joining the company of water spirits | 1 | finnic |
 | `drowned_dead_transformed_into_water_spirits` | Drowned dead transformed into water spirits | 1 | finnic |
-| `drowned_figure_reports_his_own_death_to_a_shamanic_mediator` | drowned figure reports his own death to a shamanic mediator | 1 | arctic-inuit |
+| `drowned_figure_reports_his_own_death_to_a_shamanic_mediator` | drowned figure reports his own death to a shamanic mediator | 1 | arctic_inuit |
 | `drowned_person_water_spirit_as_omen` | Drowned-person water spirit as omen | 1 | finnic |
 | `druidic_interpretation_of_an_omen_as_coming_death_or_defeat` | Druidic interpretation of an omen as coming death or defeat | 1 | celtic |
 | `drum_as_bond_between_shaman_community_and_spirits` | drum as bond between shaman, community, and spirits | 1 | siberian |
@@ -3587,7 +3587,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dying_love_under_a_broken_tree_in_winter` | dying love under a broken tree in winter | 1 | armenian |
 | `dying_mother_sets_a_remarriage_sign_on_her_grave` | Dying mother sets a remarriage sign on her grave | 1 | celtic_welsh |
 | `dying_patient_accusation_leading_to_condemnation` | Dying patient accusation leading to condemnation | 1 | native_american_southwest |
-| `dying_person_dressed_as_corpse_before_self_chosen_death` | dying person dressed as corpse before self-chosen death | 1 | arctic-inuit |
+| `dying_person_dressed_as_corpse_before_self_chosen_death` | dying person dressed as corpse before self-chosen death | 1 | arctic_inuit |
 | `dying_person_expects_to_be_called_by_a_named_power` | dying person expects to be called by a named power | 1 | african_akan |
 | `dying_person_treated_as_already_dead_when_survival_is_deemed_hopeless` | Dying person treated as already dead when survival is deemed hopeless | 1 | chaco_amerindian |
 | `dying_person_urged_to_postpone_death` | dying person urged to postpone death | 1 | chaco_amerindian |
@@ -3738,7 +3738,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ensouled_seat_or_soul_repository_object` | ensouled seat or soul-repository object | 1 | african_akan |
 | `ensouled_world_of_objects_and_beings` | Ensouled world of objects and beings | 1 | guiana_amerindian |
 | `enspirited_natural_objects` | Enspirited natural objects | 1 | finnic |
-| `entertainment_song_distinguished_from_spirit_incantation_song` | entertainment song distinguished from spirit-incantation song | 1 | arctic-inuit |
+| `entertainment_song_distinguished_from_spirit_incantation_song` | entertainment song distinguished from spirit-incantation song | 1 | arctic_inuit |
 | `entry_into_a_death_house_or_underworld_threshold` | entry into a death-house or underworld threshold | 1 | greek |
 | `envy_induced_wasting_death_of_a_gifted_youth` | Envy-induced wasting death of a gifted youth | 1 | celtic |
 | `epidemic_and_general_death_associated_with_foreign_arrivals` | Epidemic and general death associated with foreign arrivals | 1 | maya |
@@ -3813,7 +3813,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `euphemistic_transformation_of_royal_death` | euphemistic transformation of royal death | 1 | malagasy |
 | `evening_star_ancestor_enters_earth_feature_and_returns_nightly` | evening star ancestor enters earth-feature and returns nightly | 1 | australian_aboriginal |
 | `evergreen_grave_tree_association` | evergreen grave-tree association | 1 | shinto |
-| `everything_named_has_a_spirit` | Everything named has a spirit | 1 | arctic-inuit |
+| `everything_named_has_a_spirit` | Everything named has a spirit | 1 | arctic_inuit |
 | `evil_deed_followed_by_degraded_and_hellish_rebirth` | Evil deed followed by degraded and hellish rebirth | 1 | buddhist |
 | `evil_omen_speech_followed_by_self_inflicted_death_near_the_royal_center` | evil-omen speech followed by self-inflicted death near the royal center | 1 | shinto |
 | `evil_or_dangerous_spirit_invoked_to_remove_affliction` | evil or dangerous spirit invoked to remove affliction | 1 | finnic |
@@ -4004,7 +4004,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `family_spirit_inhabiting_a_stone_defeated_by_christian_ritual` | family-spirit inhabiting a stone defeated by Christian ritual | 1 | norse |
 | `family_spirits_housed_in_domestic_or_clan_sanctuary` | Family spirits housed in domestic or clan sanctuary | 1 | finnic |
 | `family_vigil_and_restrained_mourning_at_deathbed` | family vigil and restrained mourning at deathbed | 1 | native_american_southwest |
-| `famine_driven_family_death_by_drowning` | famine-driven family death by drowning | 1 | arctic-inuit |
+| `famine_driven_family_death_by_drowning` | famine-driven family death by drowning | 1 | arctic_inuit |
 | `famine_survivors_eat_the_dead` | famine survivors eat the dead | 1 | arctic_inuit |
 | `farewell_object_breaking_before_death` | farewell object-breaking before death | 1 | ganda |
 | `fatal_boast_against_the_death_figure` | Fatal boast against the death figure | 1 | greek |
@@ -4043,7 +4043,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fear_of_death_dispelled_in_battle_challenge` | fear of death dispelled in battle challenge | 1 | native_american_plains |
 | `fear_of_death_recurring_across_frame_and_former_birth_tale` | fear of death recurring across frame and former-birth tale | 1 | buddhist |
 | `fear_of_death_triggered_by_ordinary_sounds` | Fear of death triggered by ordinary sounds | 1 | buddhist |
-| `fear_of_dogs_causes_death_bleeding_and_flight` | Fear of dogs causes death, bleeding, and flight | 1 | arctic-inuit |
+| `fear_of_dogs_causes_death_bleeding_and_flight` | Fear of dogs causes death, bleeding, and flight | 1 | arctic_inuit |
 | `fear_of_encountering_the_deceased_presence_at_the_grave` | fear of encountering the deceased presence at the grave | 1 | aboriginal_australian |
 | `fear_of_ghost_or_evil_influence_during_rescue` | fear of ghost or evil influence during rescue | 1 | chaco_amerindian |
 | `fear_of_hell_prompting_refusal_of_kingship_and_desire` | fear of hell prompting refusal of kingship and desire | 1 | buddhist |
@@ -4061,7 +4061,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `feared_spirit_hill` | Feared spirit hill | 1 | melanesian |
 | `fearful_clinging_above_a_deadly_sea_danger` | Fearful clinging above a deadly sea danger | 1 | greek |
 | `fearful_hiding_leads_to_death_despite_promised_reconciliation` | fearful hiding leads to death despite promised reconciliation | 1 | inuit |
-| `fearful_hiding_under_domestic_sleeping_place_ending_in_death` | fearful hiding under domestic sleeping-place ending in death | 1 | arctic-inuit |
+| `fearful_hiding_under_domestic_sleeping_place_ending_in_death` | fearful hiding under domestic sleeping-place ending in death | 1 | arctic_inuit |
 | `fearful_household_hides_from_returning_female_kin` | Fearful household hides from returning female kin | 1 | native_american_plateau |
 | `fearful_visionary_testing_in_the_after_death_state` | Fearful visionary testing in the after-death state | 1 | tibetan_buddhist |
 | `fearless_warrior_king_s_death_in_battle` | fearless warrior-king's death in battle | 1 | norse |
@@ -4235,7 +4235,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fixed_period_of_remembrance_after_death` | fixed period of remembrance after death | 1 | buryat_mongol |
 | `fixed_personal_taboo_whose_alteration_brings_death` | fixed personal taboo whose alteration brings death | 1 | arctic_inuit |
 | `flags_marking_or_addressing_spirit_inhabited_places` | Flags marking or addressing spirit-inhabited places | 1 | tibetan_buddhist |
-| `flesh_eating_spirit_traps_humans_in_a_house` | flesh-eating spirit traps humans in a house | 1 | arctic-inuit |
+| `flesh_eating_spirit_traps_humans_in_a_house` | flesh-eating spirit traps humans in a house | 1 | arctic_inuit |
 | `flesh_from_dead_bodies_offered_as_emergency_food` | flesh from dead bodies offered as emergency food | 1 | caucasian |
 | `flight_and_hiding_from_a_pursuing_dead_spouse` | Flight and hiding from a pursuing dead spouse | 1 | guiana_amerindian |
 | `flight_down_to_hell` | flight down to hell | 1 | zoroastrian |
@@ -4269,7 +4269,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `food_preservation_by_cold_drying_rendering_and_burial` | food preservation by cold, drying, rendering, and burial | 1 | arctic_inuit |
 | `food_renunciation_after_death_tale` | food renunciation after death tale | 1 | micronesian |
 | `food_sharing_stomach_spirit_protects_fire` | Food-sharing stomach spirit protects fire | 1 | yoruba |
-| `food_taboo_confirmed_by_speech_of_a_dying_infant` | Food taboo confirmed by speech of a dying infant | 1 | arctic-inuit |
+| `food_taboo_confirmed_by_speech_of_a_dying_infant` | Food taboo confirmed by speech of a dying infant | 1 | arctic_inuit |
 | `food_taboo_explained_by_ancestral_actions` | Food taboo explained by ancestral actions | 1 | australian_aboriginal |
 | `food_taboo_from_suspected_animal_spirit_danger` | food taboo from suspected animal spirit danger | 1 | guiana_amerindian |
 | `food_taboo_grounded_in_ancestral_cannibalism` | Food taboo grounded in ancestral cannibalism | 1 | australian_aboriginal |
@@ -4400,7 +4400,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `frightful_female_shaped_terror_image_set_up_after_child_deaths` | frightful female-shaped Terror image set up after child deaths | 1 | greek |
 | `fruit_used_as_deadly_weapon` | fruit used as deadly weapon | 1 | japanese |
 | `fruitfulness_grove_with_dead_placed_beneath_a_tree` | fruitfulness grove with dead placed beneath a tree | 1 | bavili |
-| `fugitive_mistaken_for_a_spirit` | Fugitive mistaken for a spirit | 1 | arctic-inuit |
+| `fugitive_mistaken_for_a_spirit` | Fugitive mistaken for a spirit | 1 | arctic_inuit |
 | `fulfilled_staged_death_prophecy` | fulfilled staged death prophecy | 1 | native_american_northwest_coast |
 | `full_length_body_placement_with_grave_covering_or_enclosure` | Full-length body placement with grave covering or enclosure | 1 | arctic_inuit |
 | `fumigation_with_remains_of_a_dead_wronged_person` | fumigation with remains of a dead wronged person | 1 | greek |
@@ -4735,7 +4735,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hamlet_based_burial_ground` | hamlet-based burial ground | 1 | melanesian |
 | `happy_life_until_death_closure` | happy life until death closure | 1 | celtic |
 | `hard_battles_used_as_indirect_death_sentence` | hard battles used as indirect death sentence | 1 | celtic |
-| `hardened_child_s_emotional_reversal_at_caregiver_death` | hardened child’s emotional reversal at caregiver death | 1 | arctic-inuit |
+| `hardened_child_s_emotional_reversal_at_caregiver_death` | hardened child’s emotional reversal at caregiver death | 1 | arctic_inuit |
 | `harm_returned_or_redirected_to_an_underworld_place` | harm returned or redirected to an underworld place | 1 | finnic |
 | `harm_returning_to_the_sender` | Harm returning to the sender | 1 | yoruba |
 | `harmful_dead_man_walking_again` | harmful dead man walking again | 1 | norse |
@@ -4934,7 +4934,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_death_trap_avoided_through_insider_warning` | Hidden death trap avoided through insider warning | 1 | ganda |
 | `hidden_encounter_with_dangerous_beings_causing_death` | Hidden encounter with dangerous beings causing death | 1 | arctic_inuit |
 | `hidden_household_burial_of_unwanted_or_disposed_of_children` | hidden household burial of unwanted or disposed-of children | 1 | fijian |
-| `hidden_household_spirit_attacks_sleepers` | Hidden household spirit attacks sleepers | 1 | arctic-inuit |
+| `hidden_household_spirit_attacks_sleepers` | Hidden household spirit attacks sleepers | 1 | arctic_inuit |
 | `hidden_internal_attack_causing_death` | hidden internal attack causing death | 1 | native_american_plateau |
 | `hidden_internal_ndongo_revealed_after_death` | hidden internal ndongo revealed after death | 1 | bavili |
 | `hidden_lover_exposed_through_corpse_display_to_wife_s_kin` | hidden lover exposed through corpse display to wife’s kin | 1 | zulu |
@@ -4958,7 +4958,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hierarchical_god_and_spirit_ritual_pairing` | Hierarchical God-and-Spirit ritual pairing | 1 | confucian |
 | `hierarchy_of_spirits_under_a_death_associated_great_spirit` | hierarchy of spirits under a death-associated great spirit | 1 | arctic_inuit |
 | `hill_of_the_dead_as_memorial_of_battle` | hill of the dead as memorial of battle | 1 | germanic |
-| `hill_spirits_associated_with_stone_caves` | Hill-spirits associated with stone caves | 1 | arctic-inuit |
+| `hill_spirits_associated_with_stone_caves` | Hill-spirits associated with stone caves | 1 | arctic_inuit |
 | `hired_night_vigil_over_a_corpse` | Hired night vigil over a corpse | 1 | roman |
 | `hoard_winning_or_treasure_lifting_brings_death_or_misfortune` | Hoard-winning or treasure-lifting brings death or misfortune | 1 | germanic |
 | `hollow_shell_cosmos_with_layered_origin_beings` | Hollow-shell cosmos with layered origin beings | 1 | oceanic |
@@ -5010,7 +5010,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hostile_dead_restrained_by_repellent_protective_mixture` | Hostile dead restrained by repellent protective mixture | 1 | native_american_northwest_coast |
 | `hostile_dead_returning_from_another_world` | Hostile dead returning from another world | 1 | australian_aboriginal |
 | `hostile_hosts_impose_successive_deadly_trials` | hostile hosts impose successive deadly trials | 1 | samoan |
-| `hostile_invisible_spirits_near_human_dwellings_and_landscape_events` | Hostile invisible spirits near human dwellings and landscape events | 1 | arctic-inuit |
+| `hostile_invisible_spirits_near_human_dwellings_and_landscape_events` | Hostile invisible spirits near human dwellings and landscape events | 1 | arctic_inuit |
 | `hostile_nether_world_demon_threatening_the_dead` | hostile Nether World demon threatening the dead | 1 | egyptian |
 | `hostile_night_beings_try_to_draw_souls_from_a_tent` | Hostile night beings try to draw souls from a tent | 1 | siberian |
 | `hostile_or_offended_spirits_causing_illness_and_danger` | hostile or offended spirits causing illness and danger | 1 | tibetan_buddhist |
@@ -5199,7 +5199,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `imperishable_national_spirit` | imperishable national spirit | 1 | armenian |
 | `impermanence_and_death_s_summons` | impermanence and death's summons | 1 | sikh |
 | `impermanence_and_equality_in_death` | impermanence and equality in death | 1 | hindu |
-| `impersonating_a_spirit_to_calm_a_crisis` | Impersonating a spirit to calm a crisis | 1 | arctic-inuit |
+| `impersonating_a_spirit_to_calm_a_crisis` | Impersonating a spirit to calm a crisis | 1 | arctic_inuit |
 | `impiety_toward_cosmic_and_spiritual_powers` | impiety toward cosmic and spiritual powers | 1 | taoist |
 | `impossible_feast_with_death_penalty_overcome_by_helpers` | Impossible feast with death penalty overcome by helpers | 1 | tongan |
 | `impossible_feeding_of_a_dead_animal_as_didactic_mirror` | impossible feeding of a dead animal as didactic mirror | 1 | buddhist |
@@ -5255,7 +5255,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `inexplicable_birth_and_death_as_paired_life_boundaries` | Inexplicable birth and death as paired life-boundaries | 1 | native_american_plains |
 | `infant_corpse_folded_into_compact_or_embryo_like_posture` | infant corpse folded into compact or embryo-like posture | 1 | andamanese |
 | `infant_dead_present_among_gods_despite_absence_of_rites` | infant dead present among gods despite absence of rites | 1 | african_bantu |
-| `infant_death_through_absence_of_milk` | infant death through absence of milk | 1 | arctic-inuit |
+| `infant_death_through_absence_of_milk` | infant death through absence of milk | 1 | arctic_inuit |
 | `infant_deaths_attributed_to_invisible_witchcraft_by_a_relative` | Infant deaths attributed to invisible witchcraft by a relative | 1 | ekoi |
 | `infant_funerary_rites_omitted_by_ancestral_law` | Infant funerary rites omitted by ancestral law | 1 | greek |
 | `infant_or_child_exposed_to_fire_for_protection_or_immortality` | Infant or child exposed to fire for protection or immortality | 1 | germanic |
@@ -5272,7 +5272,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `inherited_territory_bound_to_ancestral_presence` | Inherited territory bound to ancestral presence | 1 | australian_aboriginal |
 | `inherited_witchcraft_power_from_wizard_ancestors` | Inherited witchcraft power from wizard ancestors | 1 | native_american_southwest |
 | `inhumation_as_original_burial_custom_contrasted_with_borrowed_cremation` | inhumation as original burial custom contrasted with borrowed cremation | 1 | finnic |
-| `initially_slight_supernatural_wound_leads_to_wasting_death` | Initially slight supernatural wound leads to wasting death | 1 | arctic-inuit |
+| `initially_slight_supernatural_wound_leads_to_wasting_death` | Initially slight supernatural wound leads to wasting death | 1 | arctic_inuit |
 | `injured_dead_directing_vengeance_through_agents` | Injured dead directing vengeance through agents | 1 | greek |
 | `injured_supernatural_mount_restored_after_return_to_rightful_keeper` | Injured supernatural mount restored after return to rightful keeper | 1 | native_american_plains |
 | `injury_to_spirit_double_reflected_in_the_physical_body` | Injury to spirit-double reflected in the physical body | 1 | finnic |
@@ -5321,7 +5321,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `invincible_warrior_neutralized_by_deceptive_death_report` | invincible warrior neutralized by deceptive death report | 1 | hindu |
 | `inviolable_swan_and_soul_in_swan_form` | Inviolable swan and soul in swan form | 1 | celtic |
 | `invisibility_through_control_of_one_s_spirit` | Invisibility through control of one’s spirit | 1 | guiana_amerindian |
-| `invisibility_through_selling_the_soul_to_the_devil` | Invisibility through selling the soul to the Devil | 1 | arctic-inuit |
+| `invisibility_through_selling_the_soul_to_the_devil` | Invisibility through selling the soul to the Devil | 1 | arctic_inuit |
 | `invisibility_used_to_overcome_a_bride_s_deadly_trap` | invisibility used to overcome a bride’s deadly trap | 1 | slavic |
 | `invisible_ancestral_or_sacred_singer_intercedes_behind_ritual_performers` | Invisible ancestral or sacred singer intercedes behind ritual performers | 1 | native_american_southwest |
 | `invisible_bird_spirit_causes_sickness_and_is_killed_by_ritual_specialist` | Invisible bird-spirit causes sickness and is killed by ritual specialist | 1 | arctic_inuit |
@@ -5434,7 +5434,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `labor_intensive_transformation_of_shell_and_stone_into_miniature_beads` | labor-intensive transformation of shell and stone into miniature beads | 1 | native_american_southwest |
 | `lack_of_ability_exposes_an_animal_to_death` | Lack of ability exposes an animal to death | 1 | taoist |
 | `lack_of_burial_or_violent_death_causes_unrest_of_the_dead` | lack of burial or violent death causes unrest of the dead | 1 | greek |
-| `lake_appearing_spirit_vanishes_into_the_earth_when_seen` | Lake-appearing spirit vanishes into the earth when seen | 1 | arctic-inuit |
+| `lake_appearing_spirit_vanishes_into_the_earth_when_seen` | Lake-appearing spirit vanishes into the earth when seen | 1 | arctic_inuit |
 | `lake_of_the_dead` | lake of the dead | 1 | ekoi |
 | `lake_of_the_dead_as_sacred_or_supernatural_place` | Lake of the Dead as sacred or supernatural place | 1 | ekoi |
 | `lake_spirit_sends_extraordinary_abundance_of_fish` | lake spirit sends extraordinary abundance of fish | 1 | african_akan |
@@ -5589,7 +5589,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `living_creature_detected_by_smell_in_ghost_domain` | Living creature detected by smell in ghost domain | 1 | ekoi |
 | `living_dead_messengers` | Living-dead messengers | 1 | celtic |
 | `living_dead_ritual_mirroring` | living-dead ritual mirroring | 1 | finnic |
-| `living_earth_protected_after_human_death` | Living earth protected after human death | 1 | arctic-inuit |
+| `living_earth_protected_after_human_death` | Living earth protected after human death | 1 | arctic_inuit |
 | `living_elements_and_elemental_spirits` | living elements and elemental spirits | 1 | germanic |
 | `living_grave_marker_grove` | Living grave marker grove | 1 | african_bantu |
 | `living_grove_planted_around_a_grave_offering_place` | Living grove planted around a grave offering place | 1 | african_bantu |
@@ -5664,7 +5664,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `lost_human_spirit_reunion_and_lost_deathlessness` | lost human-spirit reunion and lost deathlessness | 1 | native_american_plains |
 | `lost_immortality_and_the_law_of_human_death` | lost immortality and the law of human death | 1 | egyptian |
 | `lost_life_restoring_message_causes_permanent_human_death` | Lost life-restoring message causes permanent human death | 1 | ekoi |
-| `lost_nonhuman_wife_never_returns` | lost nonhuman wife never returns | 1 | arctic-inuit |
+| `lost_nonhuman_wife_never_returns` | lost nonhuman wife never returns | 1 | arctic_inuit |
 | `lost_or_absent_book_of_ancestral_tradition` | lost or absent book of ancestral tradition | 1 | germanic |
 | `lost_or_opaque_ancestral_craft_symbols` | Lost or opaque ancestral craft symbols | 1 | native_american_southwest |
 | `lost_soul_recovered_as_a_butterfly` | lost soul recovered as a butterfly | 1 | finnic |
@@ -6402,7 +6402,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `offspring_secures_desired_ancestral_regions` | offspring secures desired ancestral regions | 1 | hindu |
 | `ogre_serves_food_and_death_marked_water_vessels` | ogre serves food and death-marked water vessels | 1 | melanesian |
 | `ogre_thrown_fruit_followed_by_companion_s_death` | Ogre-thrown fruit followed by companion's death | 1 | african_bantu |
-| `old_burial_cairns_on_a_height_facing_the_sea` | Old burial cairns on a height facing the sea | 1 | arctic-inuit |
+| `old_burial_cairns_on_a_height_facing_the_sea` | Old burial cairns on a height facing the sea | 1 | arctic_inuit |
 | `old_chief_s_house_associated_with_burial_place` | old chief's house associated with burial place | 1 | micronesian |
 | `old_gods_surviving_as_fairies_or_spirits_in_popular_belief` | old gods surviving as fairies or spirits in popular belief | 1 | celtic |
 | `old_princes_named_in_burial_chant` | old princes named in burial chant | 1 | fjort |
@@ -7359,7 +7359,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `renaming_living_person_after_a_dead_person_as_ritual_mediation` | renaming living person after a dead person as ritual mediation | 1 | native_american_southwest |
 | `renewal_or_transfer_of_water_soul_power_by_adding_new_water` | renewal or transfer of water soul-power by adding new water | 1 | finnic |
 | `renewed_conception_after_infant_death` | renewed conception after infant death | 1 | siberian |
-| `renewed_happiness_after_deaths_in_the_family` | renewed happiness after deaths in the family | 1 | arctic-inuit |
+| `renewed_happiness_after_deaths_in_the_family` | renewed happiness after deaths in the family | 1 | arctic_inuit |
 | `renewed_house_and_egg_laying_after_death` | Renewed house and egg-laying after death | 1 | san |
 | `renounced_burial_of_sacred_objects_with_final_keeper` | renounced burial of sacred objects with final keeper | 1 | native_american_plains |
 | `renunciation_before_death` | renunciation before death | 1 | hindu |
@@ -7515,7 +7515,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `return_to_battle_after_bloodshed_and_rest` | Return to battle after bloodshed and rest | 1 | hindu |
 | `return_to_battle_with_death_as_goal` | return to battle with death as goal | 1 | hindu |
 | `return_to_battlefield_and_taking_enemy_trophies` | return to battlefield and taking enemy trophies | 1 | native_american_great_lakes |
-| `return_to_failed_hunting_watch` | return to failed hunting watch | 1 | arctic-inuit |
+| `return_to_failed_hunting_watch` | return to failed hunting watch | 1 | arctic_inuit |
 | `return_to_hidden_tree_cache_of_weapons_and_clothing` | Return to hidden tree-cache of weapons and clothing | 1 | hindu |
 | `return_to_home_town_with_bride_and_co_wives` | return to home town with bride and co-wives | 1 | hausa |
 | `return_to_kin_after_rescue` | return to kin after rescue | 1 | arctic_inuit |
@@ -7611,7 +7611,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritual_battle_with_sickness_causing_spirit` | ritual battle with sickness-causing spirit | 1 | arctic_inuit |
 | `ritual_beer_feast_thanking_grave_diggers` | ritual beer feast thanking grave-diggers | 1 | african_bantu |
 | `ritual_benefaction_for_the_dead_in_the_other_world` | ritual benefaction for the dead in the other world | 1 | hindu |
-| `ritual_blinding_of_an_avenging_soul` | ritual blinding of an avenging soul | 1 | arctic-inuit |
+| `ritual_blinding_of_an_avenging_soul` | ritual blinding of an avenging soul | 1 | arctic_inuit |
 | `ritual_blinding_of_ghosts_and_enemies` | ritual blinding of ghosts and enemies | 1 | ekoi |
 | `ritual_blowing_to_expel_animal_spirit_from_food` | ritual blowing to expel animal spirit from food | 1 | guiana_amerindian |
 | `ritual_borrowing_and_return_of_a_fairy_tool` | Ritual borrowing and return of a fairy tool | 1 | celtic |
@@ -7633,7 +7633,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritual_containment_of_an_anomalous_corpse_outside_the_community` | ritual containment of an anomalous corpse outside the community | 1 | greek |
 | `ritual_containment_of_corpse_pollution_away_from_water_and_trees` | Ritual containment of corpse pollution away from water and trees | 1 | zoroastrian |
 | `ritual_control_or_capture_of_a_spirit` | ritual control or capture of a spirit | 1 | ganda |
-| `ritual_darkness_and_spirit_assembly` | ritual darkness and spirit assembly | 1 | arctic-inuit |
+| `ritual_darkness_and_spirit_assembly` | ritual darkness and spirit assembly | 1 | arctic_inuit |
 | `ritual_death_preparation_before_danger` | ritual death-preparation before danger | 1 | caucasian |
 | `ritual_deception_or_disorientation_of_the_dead` | ritual deception or disorientation of the dead | 1 | finnic |
 | `ritual_declaration_before_sacred_objects_in_a_death_liability_dispute` | ritual declaration before sacred objects in a death-liability dispute | 1 | bavili |
@@ -8055,7 +8055,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `scientific_cleansing_threatens_sacred_ancestral_landscape` | Scientific cleansing threatens sacred ancestral landscape | 1 | japanese |
 | `scout_kill_followed_by_return_song` | scout kill followed by return song | 1 | native_american_plains |
 | `scriptural_cremation_rites_for_the_dead` | Scriptural cremation rites for the dead | 1 | hindu |
-| `sea_as_chosen_death_place` | sea as chosen death place | 1 | arctic-inuit |
+| `sea_as_chosen_death_place` | sea as chosen death place | 1 | arctic_inuit |
 | `sea_associated_with_descent_and_perishing` | sea associated with descent and perishing | 1 | jewish_pseudepigrapha |
 | `sea_bathing_before_return_from_grave_watch` | Sea bathing before return from grave watch | 1 | melanesian |
 | `sea_child_whose_death_is_mourned_by_the_waves` | Sea-child whose death is mourned by the waves | 1 | celtic |
@@ -8199,7 +8199,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `shamanic_retrieval_of_a_soul_taken_by_spirits` | shamanic retrieval of a soul taken by spirits | 1 | finnic |
 | `shamanic_rivalry_through_hostile_spirit_power` | Shamanic rivalry through hostile spirit power | 1 | native_american_northwest_coast |
 | `shamanic_soul_capture_and_spirit_aided_war_provisioning` | Shamanic soul-capture and spirit-aided war provisioning | 1 | native_american_northwest_coast |
-| `shamanic_soul_flight_for_route_finding` | Shamanic soul-flight for route-finding | 1 | arctic-inuit |
+| `shamanic_soul_flight_for_route_finding` | Shamanic soul-flight for route-finding | 1 | arctic_inuit |
 | `shamanic_spirits_counter_hostile_animal_people` | Shamanic spirits counter hostile animal-people | 1 | native_american_northwest_coast |
 | `shamanic_treatment_of_spirit_caused_illness` | Shamanic treatment of spirit-caused illness | 1 | arctic_inuit |
 | `shamanic_visualization_of_the_soul_as_a_moving_object` | shamanic visualization of the soul as a moving object | 1 | siberian |
@@ -8305,7 +8305,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `snail_shell_spiral_impression_ornament` | snail-shell spiral impression ornament | 1 | finnic |
 | `sneezing_requires_calling_the_soul_back` | Sneezing requires calling the soul back | 1 | arctic_inuit |
 | `snow_surface_burial_when_stone_burial_is_impracticable` | Snow-surface burial when stone burial is impracticable | 1 | arctic_inuit |
-| `snowstorm_and_lamp_fuel_shortage_bring_freezing_death` | Snowstorm and lamp-fuel shortage bring freezing death | 1 | arctic-inuit |
+| `snowstorm_and_lamp_fuel_shortage_bring_freezing_death` | Snowstorm and lamp-fuel shortage bring freezing death | 1 | arctic_inuit |
 | `social_death_through_ostracism` | Social death through ostracism | 1 | arctic_inuit |
 | `social_status_and_caste_expressed_through_tomb_form_access_and_body_placement` | Social status and caste expressed through tomb form, access, and body placement | 1 | malagasy |
 | `socially_ranked_divine_allotment_of_the_dead_or_human_groups` | Socially ranked divine allotment of the dead or human groups | 1 | norse |
@@ -8461,7 +8461,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `speaking_corpse_on_burial_scaffold` | Speaking corpse on burial scaffold | 1 | native_american_plains |
 | `speaking_corpse_or_hanged_man_compels_proper_ritual_action` | Speaking corpse or hanged man compels proper ritual action | 1 | celtic_irish |
 | `speaking_food_warning_of_death` | speaking food warning of death | 1 | hausa |
-| `speaking_remains_reveal_elapsed_time_after_return` | speaking remains reveal elapsed time after return | 1 | native-american-southwest |
+| `speaking_remains_reveal_elapsed_time_after_return` | speaking remains reveal elapsed time after return | 1 | native_american_southwest |
 | `special_burial_and_sacred_places_for_medicine_men` | Special burial and sacred places for medicine-men | 1 | native_american_southwest |
 | `special_burial_for_a_high_ranking_fallen_woman_after_collective_slaughter` | Special burial for a high-ranking fallen woman after collective slaughter | 1 | greek |
 | `special_burial_for_lightning_struck_dead_with_inverted_pot` | special burial for lightning-struck dead with inverted pot | 1 | shan |
@@ -8494,7 +8494,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_apparition_and_concealment_of_form` | spirit apparition and concealment of form | 1 | germanic |
 | `spirit_appearing_as_wind_or_dust_cloud` | Spirit appearing as wind or dust-cloud | 1 | egyptian |
 | `spirit_appearing_through_dreams_to_ritual_specialists` | spirit appearing through dreams to ritual specialists | 1 | native_american_plateau |
-| `spirit_appears_only_to_solitary_person_in_human_like_form` | Spirit appears only to solitary person in human-like form | 1 | arctic-inuit |
+| `spirit_appears_only_to_solitary_person_in_human_like_form` | Spirit appears only to solitary person in human-like form | 1 | arctic_inuit |
 | `spirit_appropriation_of_lost_wounded_game` | spirit appropriation of lost wounded game | 1 | australian_aboriginal |
 | `spirit_army_emanating_from_a_wrathful_agent_s_body` | Spirit army emanating from a wrathful agent's body | 1 | hindu |
 | `spirit_arrival_causing_collapse_and_omen` | Spirit arrival causing collapse and omen | 1 | siberian |
@@ -8528,7 +8528,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_blood_produces_effects_or_new_spirits` | Spirit blood produces effects or new spirits | 1 | finnic |
 | `spirit_body_reflects_traits_of_its_natural_object` | Spirit body reflects traits of its natural object | 1 | yoruba |
 | `spirit_breath_as_cosmic_production_and_transformation` | Spirit-breath as cosmic production and transformation | 1 | confucian |
-| `spirit_calling_without_full_conjuration` | Spirit-calling without full conjuration | 1 | arctic-inuit |
+| `spirit_calling_without_full_conjuration` | Spirit-calling without full conjuration | 1 | arctic_inuit |
 | `spirit_captivity_by_removal_and_external_storage_of_bones` | Spirit captivity by removal and external storage of bones | 1 | guiana_amerindian |
 | `spirit_captured_in_a_vessel_and_expelled` | spirit captured in a vessel and expelled | 1 | ganda |
 | `spirit_caused_bodily_transformation` | spirit-caused bodily transformation | 1 | guiana_amerindian |
@@ -8557,9 +8557,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_children_travelling_in_whirlwinds` | spirit children travelling in whirlwinds | 1 | australian_aboriginal |
 | `spirit_chosen_hereditary_ritual_mediator` | Spirit-chosen hereditary ritual mediator | 1 | finnic |
 | `spirit_communication_through_possessed_medium` | Spirit communication through possessed medium | 1 | african_bantu |
-| `spirit_conjuring_healing_by_a_magician` | spirit-conjuring healing by a magician | 1 | arctic-inuit |
+| `spirit_conjuring_healing_by_a_magician` | spirit-conjuring healing by a magician | 1 | arctic_inuit |
 | `spirit_consent_required_to_end_mourning` | Spirit consent required to end mourning | 1 | australian_aboriginal |
-| `spirit_consultation_used_to_identify_and_afflict_intruders` | spirit consultation used to identify and afflict intruders | 1 | arctic-inuit |
+| `spirit_consultation_used_to_identify_and_afflict_intruders` | spirit consultation used to identify and afflict intruders | 1 | arctic_inuit |
 | `spirit_controlling_ritual_rattle` | spirit-controlling ritual rattle | 1 | guiana_amerindian |
 | `spirit_danger_tied_to_calendrical_months_and_directions` | spirit danger tied to calendrical months and directions | 1 | tibetan_buddhist |
 | `spirit_defenders_emerging_from_a_mound` | Spirit defenders emerging from a mound | 1 | native_american_southeast |
@@ -8572,7 +8572,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_double_tied_to_a_local_nanja_place` | Spirit double tied to a local Nanja place | 1 | australian_aboriginal |
 | `spirit_doubles_and_spirit_individuals` | spirit doubles and spirit individuals | 1 | australian_aboriginal |
 | `spirit_dress_used_in_ritual_communication` | spirit dress used in ritual communication | 1 | arctic_inuit |
-| `spirit_drink_leaves_vermin_in_the_water_bucket` | spirit drink leaves vermin in the water bucket | 1 | arctic-inuit |
+| `spirit_drink_leaves_vermin_in_the_water_bucket` | spirit drink leaves vermin in the water bucket | 1 | arctic_inuit |
 | `spirit_dwelling_in_or_identified_with_stone_or_mountain` | Spirit dwelling in or identified with stone or mountain | 1 | finnic |
 | `spirit_dwelling_in_ritual_rattle_and_emerging_when_shaken` | spirit dwelling in ritual rattle and emerging when shaken | 1 | guiana_amerindian |
 | `spirit_embodied_or_localized_in_sacred_object_or_natural_form` | Spirit embodied or localized in sacred object or natural form | 1 | finnic |
@@ -8651,7 +8651,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_maidens_visit_a_scholar_with_otherworldly_lore` | spirit-maidens visit a scholar with otherworldly lore | 1 | japanese |
 | `spirit_may_withhold_prey_or_aid_the_animal_if_not_invoked` | Spirit may withhold prey or aid the animal if not invoked | 1 | finnic |
 | `spirit_mediated_expulsion_of_disease` | spirit-mediated expulsion of disease | 1 | siberian |
-| `spirit_mediated_identification_of_a_newborn_s_name` | Spirit-mediated identification of a newborn's name | 1 | arctic-inuit |
+| `spirit_mediated_identification_of_a_newborn_s_name` | Spirit-mediated identification of a newborn's name | 1 | arctic_inuit |
 | `spirit_mediated_messages_to_the_dead` | Spirit-mediated messages to the dead | 1 | native_american_southwest |
 | `spirit_mediated_sickness_and_cure` | Spirit-mediated sickness and cure | 1 | guiana_amerindian |
 | `spirit_medium_preserves_power_through_abstention_from_heating_substances` | spirit medium preserves power through abstention from heating substances | 1 | australian_aboriginal |
@@ -8731,7 +8731,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `spirit_sighting_as_death_warning_requiring_disclosure` | Spirit sighting as death warning requiring disclosure | 1 | arctic_inuit |
 | `spirit_sighting_as_disaster_or_death_omen` | Spirit sighting as disaster or death omen | 1 | finnic |
 | `spirit_signaled_by_lights_and_loud_sounds_on_water` | spirit signaled by lights and loud sounds on water | 1 | african_akan |
-| `spirit_songs_transmitted_in_childhood_memory` | spirit songs transmitted in childhood memory | 1 | arctic-inuit |
+| `spirit_songs_transmitted_in_childhood_memory` | spirit songs transmitted in childhood memory | 1 | arctic_inuit |
 | `spirit_speaks_through_a_bird_voice` | spirit speaks through a bird voice | 1 | fjort |
 | `spirit_specialist_sees_spirits_through_reflective_ornaments` | Spirit specialist sees spirits through reflective ornaments | 1 | chaco_amerindian |
 | `spirit_specific_tsere_items` | spirit-specific tsere items | 1 | hausa |
@@ -8909,7 +8909,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `subterranean_cave_burial_with_reopened_trench_access` | Subterranean cave burial with reopened trench access | 1 | malagasy |
 | `subterranean_cave_of_a_death_associated_female_being` | Subterranean cave of a death-associated female being | 1 | germanic |
 | `subterranean_emergence_and_return_of_totem_ancestors` | subterranean emergence and return of totem ancestors | 1 | oceanic |
-| `subterranean_houses_of_hidden_spirits` | Subterranean houses of hidden spirits | 1 | arctic-inuit |
+| `subterranean_houses_of_hidden_spirits` | Subterranean houses of hidden spirits | 1 | arctic_inuit |
 | `subterranean_movement_for_attack_and_return` | Subterranean movement for attack and return | 1 | native_american_southeast |
 | `subterranean_or_hill_haunting_spirits` | subterranean or hill-haunting spirits | 1 | germanic |
 | `subterranean_or_mining_spirit_receiving_a_deposit` | Subterranean or mining spirit receiving a deposit | 1 | germanic |
@@ -9841,7 +9841,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `weapons_seized_before_defenders_return` | weapons seized before defenders return | 1 | hopi |
 | `weariness_prompts_a_call_for_death` | weariness prompts a call for Death | 1 | greek |
 | `wearing_body_parts_of_the_dead` | wearing body parts of the dead | 1 | melanesian |
-| `weather_controlling_spirits_in_rocks` | Weather-controlling spirits in rocks | 1 | arctic-inuit |
+| `weather_controlling_spirits_in_rocks` | Weather-controlling spirits in rocks | 1 | arctic_inuit |
 | `weather_omen_of_a_prince_s_death` | weather omen of a prince’s death | 1 | bavili |
 | `weather_power_ending_with_the_death_of_the_old_chief` | Weather power ending with the death of the old chief | 1 | native_american_plains |
 | `weather_ruling_high_spirit` | weather-ruling high spirit | 1 | fjort |
@@ -9986,7 +9986,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `regional_variation_in_travel_equipment` | regional variation in travel equipment | 2 | arctic_inuit |
 | `abandoned_survivor_rescued_by_later_voyagers` | abandoned survivor rescued by later voyagers | 1 | roman |
 | `abandoned_sweat_house_traces_along_travel_routes` | abandoned sweat-house traces along travel routes | 1 | arctic_inuit |
-| `abandonment_of_vulnerable_survivors_during_boat_travel` | Abandonment of vulnerable survivors during boat travel | 1 | arctic-inuit |
+| `abandonment_of_vulnerable_survivors_during_boat_travel` | Abandonment of vulnerable survivors during boat travel | 1 | arctic_inuit |
 | `absence_of_domestic_pottery_as_marker_of_travel_rather_than_settlement` | Absence of domestic pottery as marker of travel rather than settlement | 1 | guiana_amerindian |
 | `absent_invincible_protector_questioned_during_attack_on_a_king` | Absent invincible protector questioned during attack on a king | 1 | hindu |
 | `absorbing_unity_over_kinship` | absorbing unity over kinship | 1 | greek |
@@ -10029,10 +10029,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ambiguous_evening_arrival_repeating_the_food_bringing_pattern` | Ambiguous evening arrival repeating the food-bringing pattern | 1 | native_american_plains |
 | `ambiguous_or_abject_arrival_at_court` | Ambiguous or abject arrival at court | 1 | celtic |
 | `ambiguous_word_or_literal_instruction_at_a_road_fork` | Ambiguous word or literal instruction at a road fork | 1 | african_bantu |
-| `ambivalent_friendship_with_an_alleged_witchcraft_practitioner` | ambivalent friendship with an alleged witchcraft practitioner | 1 | arctic-inuit |
+| `ambivalent_friendship_with_an_alleged_witchcraft_practitioner` | ambivalent friendship with an alleged witchcraft practitioner | 1 | arctic_inuit |
 | `ambivalent_wild_hunter_who_can_aid_wanderers` | Ambivalent wild hunter who can aid wanderers | 1 | germanic |
 | `ambush_at_a_water_crossing` | Ambush at a water crossing | 1 | shinto |
-| `ambush_at_the_house_passage` | ambush at the house passage | 1 | arctic-inuit |
+| `ambush_at_the_house_passage` | ambush at the house passage | 1 | arctic_inuit |
 | `ambush_of_invading_or_traveling_military_forces` | ambush of invading or traveling military forces | 1 | native_american_northeast_woodlands |
 | `ambush_of_travelers_to_feed_cannibal_hosts` | Ambush of travelers to feed cannibal hosts | 1 | hawaiian |
 | `ambush_of_travellers_by_armed_groups` | Ambush of travellers by armed groups | 1 | melanesian |
@@ -10151,9 +10151,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animated_stones_that_travel_speak_and_punish_unbelief` | Animated stones that travel, speak, and punish unbelief | 1 | native_american_plains |
 | `animated_trees_enabling_boundary_crossing` | Animated trees enabling boundary crossing | 1 | celtic_irish |
 | `annihilation_requested_as_release_from_torment` | Annihilation requested as release from torment | 1 | islamic |
-| `announced_arrival_of_strangers` | announced arrival of strangers | 1 | arctic-inuit |
+| `announced_arrival_of_strangers` | announced arrival of strangers | 1 | arctic_inuit |
 | `announced_arrival_of_the_champion_by_chariot_sound` | announced arrival of the champion by chariot sound | 1 | celtic |
-| `annoying_sparks_from_elder_s_fires_prompt_departure` | annoying sparks from elder’s fires prompt departure | 1 | native-american-southwest |
+| `annoying_sparks_from_elder_s_fires_prompt_departure` | annoying sparks from elder’s fires prompt departure | 1 | native_american_southwest |
 | `annual_sea_crossing_for_trade_and_material_procurement` | annual sea crossing for trade and material procurement | 1 | arctic_inuit |
 | `anonymous_or_pseudonymous_romance_authorship` | anonymous or pseudonymous romance authorship | 1 | arthurian |
 | `ant_passage_through_a_spiral_labyrinth` | ant passage through a spiral labyrinth | 1 | tibetan_buddhist |
@@ -10209,7 +10209,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `arrival_of_outsiders` | arrival of outsiders | 1 | native_american_southwest |
 | `arrival_of_people_upon_earth` | Arrival of people upon Earth | 1 | guiana_amerindian |
 | `arrival_of_perfected_helpers_to_remove_corruption` | Arrival of perfected helpers to remove corruption | 1 | zoroastrian |
-| `arrival_of_strangers_after_ominous_traces` | arrival of strangers after ominous traces | 1 | arctic-inuit |
+| `arrival_of_strangers_after_ominous_traces` | arrival of strangers after ominous traces | 1 | arctic_inuit |
 | `arrival_of_strangers_subject_to_foreign_coastal_law` | arrival of strangers subject to foreign coastal law | 1 | norse |
 | `arrival_of_the_gods` | arrival of the gods | 1 | celtic |
 | `arrival_of_unfamiliar_strangers_brings_wonder_and_fear` | Arrival of unfamiliar strangers brings wonder and fear | 1 | temne |
@@ -10553,7 +10553,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `companionship_between_deity_and_mortal` | companionship between deity and mortal | 1 | hindu |
 | `companionship_of_artistic_inspiration_and_grace` | Companionship of artistic inspiration and grace | 1 | greek_roman |
 | `companionship_reduced_and_friend_found` | Companionship reduced and friend found | 1 | confucian |
-| `companionship_under_isolation_and_hardship` | Companionship under isolation and hardship | 1 | arctic-inuit |
+| `companionship_under_isolation_and_hardship` | Companionship under isolation and hardship | 1 | arctic_inuit |
 | `comparative_kinship_mapping_by_matched_genealogical_trees` | comparative kinship mapping by matched genealogical trees | 1 | australian_aboriginal |
 | `compassion_through_long_companionship_with_nonhuman_beings` | Compassion through long companionship with nonhuman beings | 1 | hindu |
 | `compelled_heroic_wandering_and_labors` | Compelled heroic wandering and labors | 1 | greek |
@@ -10563,7 +10563,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `compelled_wandering_under_torment` | compelled wandering under torment | 1 | greek |
 | `compensation_refused_and_exile_imposed_after_homicide` | compensation refused and exile imposed after homicide | 1 | norse |
 | `composition_figured_as_voyage` | Composition figured as voyage | 1 | roman |
-| `compulsory_confession_before_final_departure` | compulsory confession before final departure | 1 | arctic-inuit |
+| `compulsory_confession_before_final_departure` | compulsory confession before final departure | 1 | arctic_inuit |
 | `comrade_fellowship_expressed_through_resource_sharing` | Comrade fellowship expressed through resource sharing | 1 | melanesian |
 | `concealed_arrival_before_open_confrontation` | concealed arrival before open confrontation | 1 | zulu |
 | `concealed_authorship_followed_by_disclosure` | Concealed authorship followed by disclosure | 1 | hindu |
@@ -10740,7 +10740,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `crossing_cleansing_and_unbinding` | Crossing, cleansing, and unbinding | 1 | buddhist |
 | `crossing_dangerous_waters_as_liberation` | Crossing dangerous waters as liberation | 1 | buddhist |
 | `crossing_of_great_water_by_chiefs` | crossing of great water by chiefs | 1 | native_american_plains |
-| `crossing_of_habitat_boundary_with_reversal` | crossing of habitat boundary with reversal | 1 | arctic-inuit |
+| `crossing_of_habitat_boundary_with_reversal` | crossing of habitat boundary with reversal | 1 | arctic_inuit |
 | `crossing_or_cutting_the_stream_of_desire` | Crossing or cutting the stream of desire | 1 | buddhist |
 | `crossing_or_negating_physical_boundaries` | Crossing or negating physical boundaries | 1 | buddhist |
 | `crossing_or_overcoming` | crossing or overcoming | 1 | hindu |
@@ -10864,7 +10864,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `daughters_transferred_abroad_into_heroic_genealogy` | Daughters transferred abroad into heroic genealogy | 1 | greek |
 | `dawn_arrival_of_a_radiant_armed_royal_woman` | dawn arrival of a radiant armed royal woman | 1 | caucasian |
 | `dawn_awakens_divine_arrival` | Dawn awakens divine arrival | 1 | hindu |
-| `dawn_departure_after_camp_meal` | dawn departure after camp meal | 1 | arctic-inuit |
+| `dawn_departure_after_camp_meal` | dawn departure after camp meal | 1 | arctic_inuit |
 | `deceit_as_a_failed_voyage` | Deceit as a failed voyage | 1 | egyptian |
 | `deceitful_game_as_catalyst_for_loss_of_kingdom_and_exile` | deceitful game as catalyst for loss of kingdom and exile | 1 | hindu |
 | `deceptive_ferryman_diverts_travelers` | Deceptive ferryman diverts travelers | 1 | native_american_plains |
@@ -11113,7 +11113,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `domestic_animals_addressed_through_kinship_and_ancestry` | domestic animals addressed through kinship and ancestry | 1 | shan |
 | `domestic_ultimatum_prompting_a_quest_for_a_servant` | Domestic ultimatum prompting a quest for a servant | 1 | buddhist |
 | `door_guardian_opens_passage_for_a_deity` | Door guardian opens passage for a deity | 1 | hindu |
-| `double_bereavement_during_perilous_sledge_journey` | double bereavement during perilous sledge journey | 1 | arctic-inuit |
+| `double_bereavement_during_perilous_sledge_journey` | double bereavement during perilous sledge journey | 1 | arctic_inuit |
 | `dragon_duel_on_a_courtship_journey_with_magical_protection` | dragon duel on a courtship journey with magical protection | 1 | finnic |
 | `dragon_prowed_chiefly_warship` | Dragon-prowed chiefly warship | 1 | norse |
 | `dragon_ship_as_leader_s_central_battle_vessel` | Dragon ship as leader's central battle vessel | 1 | norse |
@@ -11149,7 +11149,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `efficacious_sacred_language_opaque_to_the_worshipper` | efficacious sacred language opaque to the worshipper | 1 | tibetan_buddhist |
 | `effortless_hidden_rulership` | effortless hidden rulership | 1 | taoist |
 | `effortless_reverent_rulership` | Effortless reverent rulership | 1 | confucian |
-| `elder_arranged_pairing_of_traveler_with_local_woman` | Elder-arranged pairing of traveler with local woman | 1 | arctic-inuit |
+| `elder_arranged_pairing_of_traveler_with_local_woman` | Elder-arranged pairing of traveler with local woman | 1 | arctic_inuit |
 | `elder_devotees_ritual_departure_with_sacred_implement` | elder devotees' ritual departure with sacred implement | 1 | greek |
 | `elder_mother_as_guardian_of_women_youth_and_rites_of_passage` | elder mother as guardian of women, youth, and rites of passage | 1 | african_akan |
 | `eldest_sibling_protects_younger_siblings_in_exile` | Eldest sibling protects younger siblings in exile | 1 | celtic |
@@ -11197,7 +11197,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `envoy_reception_with_correspondence_banquet_gifts_and_departure` | Envoy reception with correspondence, banquet, gifts, and departure | 1 | shinto |
 | `envoy_voyage_ends_in_shipwreck_and_drowning` | Envoy voyage ends in shipwreck and drowning | 1 | shinto |
 | `ephemeral_map_drawn_in_snow_before_travel` | ephemeral map drawn in snow before travel | 1 | inuit |
-| `epidemic_during_travel_to_trading_places` | Epidemic during travel to trading places | 1 | arctic-inuit |
+| `epidemic_during_travel_to_trading_places` | Epidemic during travel to trading places | 1 | arctic_inuit |
 | `epistolary_exchange_within_a_quest_romance_sequence` | Epistolary exchange within a quest-romance sequence | 1 | georgian |
 | `epistolary_friendship_between_eminent_figures` | epistolary friendship between eminent figures | 1 | christian_apocrypha |
 | `eponymous_crossing_and_place_name_origin` | eponymous crossing and place-name origin | 1 | greek |
@@ -11227,7 +11227,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `evasion_of_soldiers_during_hunting_travel` | evasion of soldiers during hunting travel | 1 | native_american_southwest |
 | `exaggerated_conquest_report` | exaggerated conquest report | 1 | native_american_southeast |
 | `exceptional_hunter_traveler_senses` | exceptional hunter-traveler senses | 1 | andamanese |
-| `exchange_journey_for_valued_goods` | Exchange journey for valued goods | 1 | arctic-inuit |
+| `exchange_journey_for_valued_goods` | Exchange journey for valued goods | 1 | arctic_inuit |
 | `exclusive_divine_worship_against_image_worship` | exclusive divine worship against image worship | 1 | sikh |
 | `exclusive_worship_of_the_most_high_god` | Exclusive worship of the Most High God | 1 | jewish_pseudepigrapha |
 | `execution_commuted_to_humiliation_and_exile` | Execution commuted to humiliation and exile | 1 | celtic |
@@ -11297,7 +11297,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `false_hunting_prowess_in_courtship_exposed_by_kin` | false hunting prowess in courtship exposed by kin | 1 | native_american_southeast |
 | `false_kinship_claim_to_gain_access_and_status` | false kinship claim to gain access and status | 1 | native_american_plains |
 | `false_kinship_claim_to_rescue_a_prisoner` | false kinship claim to rescue a prisoner | 1 | buddhist |
-| `false_kinship_or_namesake_claim_rewarded_with_gifts` | False kinship or namesake claim rewarded with gifts | 1 | arctic-inuit |
+| `false_kinship_or_namesake_claim_rewarded_with_gifts` | False kinship or namesake claim rewarded with gifts | 1 | arctic_inuit |
 | `false_mother_and_concealed_kinship` | false mother and concealed kinship | 1 | guiana_amerindian |
 | `false_request_for_advice_as_disguised_praise` | False request for advice as disguised praise | 1 | greek |
 | `false_sacred_lineage_and_false_pilgrimage` | false sacred lineage and false pilgrimage | 1 | persian |
@@ -11714,7 +11714,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hostile_encounter_during_journey_with_followers` | Hostile encounter during journey with followers | 1 | zulu |
 | `hostile_giant_community_destroys_fleet_while_one_ship_escapes` | Hostile giant community destroys fleet while one ship escapes | 1 | roman |
 | `hostile_island_people_seize_a_ship_and_abandon_its_crew` | Hostile island people seize a ship and abandon its crew | 1 | islamicate_folklore |
-| `hostile_islanders_use_fog_to_destroy_approaching_travelers` | Hostile islanders use fog to destroy approaching travelers | 1 | arctic-inuit |
+| `hostile_islanders_use_fog_to_destroy_approaching_travelers` | Hostile islanders use fog to destroy approaching travelers | 1 | arctic_inuit |
 | `hostile_outsiders_removed_from_a_deity_s_worship` | Hostile outsiders removed from a deity's worship | 1 | hindu |
 | `hostile_schemes_against_forest_exiles_are_frustrated` | Hostile schemes against forest exiles are frustrated | 1 | hindu |
 | `hostile_ships_at_uncertain_landfall` | hostile ships at uncertain landfall | 1 | norse |
@@ -12107,7 +12107,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `life_as_ocean_crossing` | life as ocean crossing | 1 | tibetan_buddhist |
 | `life_as_perilous_journey_and_forest` | Life as perilous journey and forest | 1 | hindu |
 | `life_as_temporary_lodging_or_journey` | Life as temporary lodging or journey | 1 | persian |
-| `life_defined_by_continual_journeying` | life defined by continual journeying | 1 | arctic-inuit |
+| `life_defined_by_continual_journeying` | life defined by continual journeying | 1 | arctic_inuit |
 | `life_journey_over_four_hills` | life journey over four hills | 1 | native_american_plains |
 | `life_requested_from_an_immortal_treasure_in_a_divine_house` | Life requested from an immortal treasure in a divine house | 1 | hindu |
 | `life_stage_male_guardianship_of_women` | Life-stage male guardianship of women | 1 | hindu |
@@ -12199,7 +12199,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magically_responsive_boat_for_passage_between_homes` | magically responsive boat for passage between homes | 1 | native_american_northeast_woodlands |
 | `magically_sabotaged_crossing` | Magically sabotaged crossing | 1 | ekoi |
 | `maintained_fire_guarding_voyage_luck` | maintained fire guarding voyage luck | 1 | melanesian |
-| `maintenance_of_dependent_animals_during_hardship` | maintenance of dependent animals during hardship | 1 | arctic-inuit |
+| `maintenance_of_dependent_animals_during_hardship` | maintenance of dependent animals during hardship | 1 | arctic_inuit |
 | `male_guardianship_across_a_woman_s_life_stages` | male guardianship across a woman's life stages | 1 | hindu |
 | `male_ownership_and_household_harvest_labor` | male ownership and household harvest labor | 1 | african_bantu |
 | `male_sonship_requirement_in_offspring_recognition` | Male sonship requirement in offspring recognition | 1 | zoroastrian |
@@ -12299,7 +12299,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `misrecognition_of_prayer_as_object_worship` | misrecognition of prayer as object worship | 1 | shan |
 | `missed_salvific_request_through_evil_obstruction` | Missed salvific request through evil obstruction | 1 | buddhist |
 | `missing_child_as_necessary_quest_helper` | missing child as necessary quest helper | 1 | celtic |
-| `missing_eastbound_travelers_investigated_by_a_lone_survivor` | Missing eastbound travelers investigated by a lone survivor | 1 | arctic-inuit |
+| `missing_eastbound_travelers_investigated_by_a_lone_survivor` | Missing eastbound travelers investigated by a lone survivor | 1 | arctic_inuit |
 | `missing_or_retained_animal_plate_prompts_coerced_voyage_and_settlement` | missing or retained animal plate prompts coerced voyage and settlement | 1 | tongan |
 | `missionary_journey_relocation_and_succession` | missionary journey, relocation, and succession | 1 | native_american_southeast |
 | `mistaken_animal_worship_from_literal_translation` | Mistaken animal worship from literal translation | 1 | egyptian |
@@ -12378,7 +12378,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `narrow_passage_traps_a_pursuing_animal` | narrow passage traps a pursuing animal | 1 | ainu |
 | `narrowing_of_broad_grade_terms_into_specific_kin_terms` | Narrowing of broad grade terms into specific kin terms | 1 | yoruba |
 | `natural_beings_and_life_supporting_elements_addressed_in_cleansing_worship` | Natural beings and life-supporting elements addressed in cleansing worship | 1 | zoroastrian |
-| `natural_object_mistaken_for_feared_supernatural_or_foreign_arrival` | Natural object mistaken for feared supernatural or foreign arrival | 1 | arctic-inuit |
+| `natural_object_mistaken_for_feared_supernatural_or_foreign_arrival` | Natural object mistaken for feared supernatural or foreign arrival | 1 | arctic_inuit |
 | `natural_witnesses_questioned_about_a_hidden_crime` | natural witnesses questioned about a hidden crime | 1 | hindu |
 | `natural_world_worships_the_sacred_object` | Natural world worships the sacred object | 1 | ethiopian_christian |
 | `nature_master_seeks_human_companionship_or_marriage_ties` | Nature Master seeks human companionship or marriage ties | 1 | finnic |
@@ -12429,7 +12429,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `oath_bound_comradeship_before_battle` | Oath-bound comradeship before battle | 1 | hindu |
 | `oath_brotherhood_produces_aid_to_an_exiled_ruler` | oath-brotherhood produces aid to an exiled ruler | 1 | norse |
 | `oath_like_obligation_imposed_through_a_dangerous_hand_request` | Oath-like obligation imposed through a dangerous hand request | 1 | caucasian |
-| `object_wife_drowns_during_river_crossing` | object-wife drowns during river crossing | 1 | native-american-southwest |
+| `object_wife_drowns_during_river_crossing` | object-wife drowns during river crossing | 1 | native_american_southwest |
 | `obligatory_gifts_and_services_within_an_initiatory_relationship` | obligatory gifts and services within an initiatory relationship | 1 | african_bantu |
 | `obstacle_clearing_and_reversal_on_a_road` | Obstacle-clearing and reversal on a road | 1 | finnic |
 | `obstacle_sequence_before_arrival_in_another_world` | obstacle sequence before arrival in another world | 1 | native_american_plateau |
@@ -12847,8 +12847,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `questioned_eyewitness_authority_in_sacred_biography` | questioned eyewitness authority in sacred biography | 1 | sikh |
 | `questioned_moral_of_idle_husband_and_laboring_wife` | Questioned moral of idle husband and laboring wife | 1 | hausa |
 | `questioned_or_absent_totem_animal_food_taboo` | Questioned or absent totem-animal food taboo | 1 | guiana_amerindian |
-| `questioning_a_distant_people_s_wealth_and_poverty` | Questioning a distant people's wealth and poverty | 1 | arctic-inuit |
-| `questioning_a_spared_monster_child_for_family_secrets` | Questioning a spared monster-child for family secrets | 1 | native-american-southwest |
+| `questioning_a_distant_people_s_wealth_and_poverty` | Questioning a distant people's wealth and poverty | 1 | arctic_inuit |
+| `questioning_a_spared_monster_child_for_family_secrets` | Questioning a spared monster-child for family secrets | 1 | native_american_southwest |
 | `questioning_bird_in_royal_praise_poem` | questioning bird in royal praise-poem | 1 | norse |
 | `questioning_holiness_from_outward_signs` | questioning holiness from outward signs | 1 | buddhist |
 | `questioning_the_unseen_deity` | Questioning the unseen deity | 1 | hindu |
@@ -12993,7 +12993,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `requests_for_aid_on_an_otherworld_route` | Requests for aid on an otherworld route | 1 | hopi |
 | `rescue_crossing_governed_by_star_sighting_condition` | Rescue crossing governed by star-sighting condition | 1 | native_american_plains |
 | `rescue_imagined_as_a_boat_crossing_dangerous_water` | rescue imagined as a boat crossing dangerous water | 1 | hindu |
-| `rescue_of_exhausted_travelers_by_sledge` | Rescue of exhausted travelers by sledge | 1 | arctic-inuit |
+| `rescue_of_exhausted_travelers_by_sledge` | Rescue of exhausted travelers by sledge | 1 | arctic_inuit |
 | `rescue_of_shipwrecked_people_at_sea` | rescue of shipwrecked people at sea | 1 | norse |
 | `rescuer_traveling_by_water_to_free_captives` | rescuer traveling by water to free captives | 1 | native_american_northeast_woodlands |
 | `resistance_followed_by_conquest_and_submission` | resistance followed by conquest and submission | 1 | african_bantu |
@@ -13497,7 +13497,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `speaking_birds_question_a_distressed_human` | speaking birds question a distressed human | 1 | xhosa |
 | `speaking_clay_vessels_question_makers_and_handlers` | Speaking clay vessels question makers and handlers | 1 | sufi |
 | `speaking_food_and_drink_test_travelers_on_the_road` | speaking food and drink test travelers on the road | 1 | hausa |
-| `speaking_object_or_creature_encountered_on_a_journey` | speaking object or creature encountered on a journey | 1 | arctic-inuit |
+| `speaking_object_or_creature_encountered_on_a_journey` | speaking object or creature encountered on a journey | 1 | arctic_inuit |
 | `speaking_plant_or_fruit_requests_plucking` | Speaking plant or fruit requests plucking | 1 | finnish_karelian |
 | `speaking_tree_feeds_stranded_traveler` | Speaking tree feeds stranded traveler | 1 | tongan |
 | `speaking_vessel_as_voyage_guide` | speaking vessel as voyage guide | 1 | greek |
@@ -13561,7 +13561,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `subordinate_fails_at_critical_guardianship` | subordinate fails at critical guardianship | 1 | norse |
 | `subsistence_journey_through_named_places` | subsistence journey through named places | 1 | native_american_southwest |
 | `substance_crossing_water_brings_bad_weather` | Substance crossing water brings bad weather | 1 | malagasy |
-| `substitute_spouse_for_journey_or_travel_need` | Substitute spouse for journey or travel need | 1 | arctic-inuit |
+| `substitute_spouse_for_journey_or_travel_need` | Substitute spouse for journey or travel need | 1 | arctic_inuit |
 | `substitution_left_behind_before_departure` | substitution left behind before departure | 1 | native_american_northwest_coast |
 | `substitution_of_relationship_term_for_personal_name` | Substitution of relationship term for personal name | 1 | melanesian |
 | `substitution_of_son_for_prospective_daughter_in_a_kinship_obligation` | substitution of son for prospective daughter in a kinship obligation | 1 | australian_aboriginal |
@@ -13633,7 +13633,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `suppression_of_divine_worship_by_ruling_powers` | Suppression of divine worship by ruling powers | 1 | hermetic |
 | `suppression_of_idolatry_and_turning_to_zion_worship` | Suppression of idolatry and turning to Zion worship | 1 | ethiopian_christian |
 | `supreme_god_with_celestial_court_modeled_on_kingship` | supreme god with celestial court modeled on kingship | 1 | egyptian |
-| `survival_journey_in_search_of_people_and_food` | Survival journey in search of people and food | 1 | arctic-inuit |
+| `survival_journey_in_search_of_people_and_food` | Survival journey in search of people and food | 1 | arctic_inuit |
 | `survival_of_cosmological_mythology_and_nature_worship_in_doctrinal_figures` | Survival of cosmological mythology and nature-worship in doctrinal figures | 1 | buddhist |
 | `survival_of_divine_worship_in_folk_curses_and_protestations` | survival of divine worship in folk curses and protestations | 1 | germanic |
 | `survival_of_elemental_worship_after_collapse_of_gods` | survival of elemental worship after collapse of gods | 1 | germanic |
@@ -13756,7 +13756,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `travel_prohibition_concerning_sealed_vessel_plugs` | Travel prohibition concerning sealed vessel plugs | 1 | navajo |
 | `travel_technology_made_from_animal_and_ice_materials` | Travel technology made from animal and ice materials | 1 | inuit |
 | `travel_through_the_seven_regions` | Travel through the seven regions | 1 | zoroastrian |
-| `travel_timed_by_natural_forces` | travel timed by natural forces | 1 | arctic-inuit |
+| `travel_timed_by_natural_forces` | travel timed by natural forces | 1 | arctic_inuit |
 | `travel_under_threat_from_an_armed_host` | Travel under threat from an armed host | 1 | celtic |
 | `traveler_adopts_local_dress_to_cross_social_boundaries` | traveler adopts local dress to cross social boundaries | 1 | shan |
 | `traveler_danger_story_triad_involving_poison` | traveler danger-story triad involving poison | 1 | guiana_amerindian |
@@ -13848,7 +13848,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `unrivaled_warrior_acclaimed_and_sent_forth_in_conquest` | Unrivaled warrior acclaimed and sent forth in conquest | 1 | hindu |
 | `unsatisfied_greed_drives_wandering_consumption` | Unsatisfied greed drives wandering consumption | 1 | buddhist |
 | `unseasonal_fruit_as_impossible_quest_object` | Unseasonal fruit as impossible quest object | 1 | celtic |
-| `unseen_force_seizing_a_traveller_s_object` | unseen force seizing a traveller's object | 1 | arctic-inuit |
+| `unseen_force_seizing_a_traveller_s_object` | unseen force seizing a traveller's object | 1 | arctic_inuit |
 | `unsuitable_animal_courtship_proposal` | Unsuitable animal courtship proposal | 1 | buddhist |
 | `unusual_water_soaked_arrival` | Unusual water-soaked arrival | 1 | celtic |
 | `unwaged_custodianship_balanced_by_use_rights` | Unwaged custodianship balanced by use-rights | 1 | african_bantu |
@@ -13986,7 +13986,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `weapon_worship_or_identification_of_weapon_with_war_god` | weapon worship or identification of weapon with war god | 1 | germanic |
 | `weasel_crossing_interrupts_public_action` | Weasel crossing interrupts public action | 1 | germanic |
 | `weather_and_wandering_light_phenomena` | weather and wandering-light phenomena | 1 | germanic |
-| `weather_marked_arrivals_of_family_members` | Weather-marked arrivals of family members | 1 | native-american-southwest |
+| `weather_marked_arrivals_of_family_members` | Weather-marked arrivals of family members | 1 | native_american_southwest |
 | `weather_power_accompanying_a_supernatural_questioner` | weather power accompanying a supernatural questioner | 1 | native_american_plains |
 | `well_worship_and_sacred_water` | well worship and sacred water | 1 | germanic |
 | `wender_or_wanderer_deity_name_pattern` | wender or wanderer deity-name pattern | 1 | germanic |
@@ -14086,14 +14086,14 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `yielding_one_s_riding_place_to_vulnerable_travellers` | Yielding one's riding place to vulnerable travellers | 1 | chaco_amerindian |
 | `younger_brothers_repeat_the_quest_after_elder_brothers_fail` | Younger brothers repeat the quest after elder brothers fail | 1 | celtic |
 | `youngest_companion_becomes_disabled_on_a_journey` | youngest companion becomes disabled on a journey | 1 | native_american_plains |
-| `youth_house_courtship_leading_to_marriage` | Youth house courtship leading to marriage | 1 | arctic-inuit |
+| `youth_house_courtship_leading_to_marriage` | Youth house courtship leading to marriage | 1 | arctic_inuit |
 | `youth_raised_and_secluded_aboard_a_ship_until_adulthood` | youth raised and secluded aboard a ship until adulthood | 1 | celtic |
 
 ## Divine Presence, Ritual, Sacrifice, And Purity
 
 | Motif ID | Label | Occurrences | Traditions |
 | --- | --- | ---: | --- |
-| `fourfold_ritual_repetition` | Fourfold ritual repetition | 8 | native-american-southwest, native_american_plains, native_american_southwest, navajo |
+| `fourfold_ritual_repetition` | Fourfold ritual repetition | 8 | native_american_plains, native_american_southwest, navajo |
 | `songs_concerning_sacred_stones` | Songs concerning sacred stones | 4 | native_american_plains |
 | `four_direction_ritual_action` | Four-direction ritual action | 3 | native_american_plains, native_american_southwest |
 | `fourfold_ritual_action` | Fourfold ritual action | 3 | native_american_northwest_coast, native_american_plains, native_american_southwest |
@@ -15865,7 +15865,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cremation_and_inhumation_as_rites_for_bodily_dissolution` | cremation and inhumation as rites for bodily dissolution | 1 | greek |
 | `cremation_as_an_honorific_funerary_rite` | Cremation as an honorific funerary rite | 1 | greek |
 | `cremation_with_offerings_and_controlled_mourning` | Cremation with offerings and controlled mourning | 1 | buddhist |
-| `crisis_authority_of_ritual_specialist` | Crisis authority of ritual specialist | 1 | arctic-inuit |
+| `crisis_authority_of_ritual_specialist` | Crisis authority of ritual specialist | 1 | arctic_inuit |
 | `crisis_fasting_humiliation_and_divine_petition` | crisis fasting, humiliation, and divine petition | 1 | egyptian |
 | `crisis_time_abbreviated_ritual_equals_fuller_ideal_ritual` | Crisis-time abbreviated ritual equals fuller ideal ritual | 1 | zoroastrian |
 | `crocodile_cult_juju_forms_taboo_and_rain_making` | crocodile cult, juju forms, taboo, and rain-making | 1 | ekoi |
@@ -16195,7 +16195,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `deity_summoned_from_cosmic_locations_by_ritual_song_and_transported_by_divine_horses` | Deity summoned from cosmic locations by ritual song and transported by divine horses | 1 | hindu |
 | `deity_summoned_through_priestly_speech_or_song` | deity summoned through priestly speech or song | 1 | hindu |
 | `dekan_god_catalogue_with_alternate_divine_identifications` | Dekan-god catalogue with alternate divine identifications | 1 | egyptian |
-| `delay_through_ritualized_demands_from_the_four_directions` | Delay through ritualized demands from the four directions | 1 | native-american-southwest |
+| `delay_through_ritualized_demands_from_the_four_directions` | Delay through ritualized demands from the four directions | 1 | native_american_southwest |
 | `delayed_release_of_destructive_fire_after_divine_withdrawal` | Delayed release of destructive fire after divine withdrawal | 1 | hindu |
 | `delayed_witness_to_a_ritual_event` | delayed witness to a ritual event | 1 | buryat_mongol |
 | `delegated_creation_through_divine_instruction` | delegated creation through divine instruction | 1 | hindu |
@@ -18989,7 +18989,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fourfold_ritual_passing_and_blowing` | fourfold ritual passing and blowing | 1 | native_american_southwest |
 | `fourfold_ritual_patterning_before_and_during_battle` | Fourfold ritual patterning before and during battle | 1 | native_american_southwest |
 | `fourfold_ritual_personnel_and_actions` | fourfold ritual personnel and actions | 1 | native_american_plains |
-| `fourfold_ritual_recovery_sequence` | Fourfold ritual recovery sequence | 1 | native-american-southwest |
+| `fourfold_ritual_recovery_sequence` | Fourfold ritual recovery sequence | 1 | native_american_southwest |
 | `fourfold_ritual_repetition_with_feints_before_completion` | Fourfold ritual repetition with feints before completion | 1 | native_american_plains |
 | `fourfold_ritual_spatial_arrangement` | Fourfold ritual spatial arrangement | 1 | native_american_southwest |
 | `fourfold_ritual_structuring` | fourfold ritual structuring | 1 | native_american_southwest |
@@ -18999,7 +18999,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fourfold_ritual_timing_before_confronting_danger` | fourfold ritual timing before confronting danger | 1 | native_american_northwest_coast |
 | `fourfold_ritualized_action_before_a_supernatural_result` | fourfold ritualized action before a supernatural result | 1 | native_american_plains |
 | `fourfold_ritualized_combat_repetition` | Fourfold ritualized combat repetition | 1 | native_american_plains |
-| `fourfold_ritualized_movement_and_timing` | Fourfold ritualized movement and timing | 1 | native-american-southwest |
+| `fourfold_ritualized_movement_and_timing` | Fourfold ritualized movement and timing | 1 | native_american_southwest |
 | `fourfold_ritualized_sequence` | Fourfold ritualized sequence | 1 | native_american_plains |
 | `fourfold_ritualized_storm_weapon_against_pursuers` | Fourfold ritualized storm weapon against pursuers | 1 | native_american_southwest |
 | `fourfold_ritualized_weather_pattern` | Fourfold ritualized weather pattern | 1 | navajo |
@@ -19056,7 +19056,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `future_way_of_life_fixed_by_curse_like_speech` | future way of life fixed by curse-like speech | 1 | native_american_plateau |
 | `gallows_object_placed_at_sacred_threshold` | Gallows object placed at sacred threshold | 1 | germanic |
 | `gambling_as_impurity_and_ruinous_fate` | Gambling as impurity and ruinous fate | 1 | hindu |
-| `game_animal_fails_to_perceive_hunter_after_prayer` | Game animal fails to perceive hunter after prayer | 1 | native-american-southwest |
+| `game_animal_fails_to_perceive_hunter_after_prayer` | Game animal fails to perceive hunter after prayer | 1 | native_american_southwest |
 | `game_taboo_preventing_future_hunting_injury` | game taboo preventing future hunting injury | 1 | arctic_inuit |
 | `games_attributed_to_divine_or_sacred_origins` | games attributed to divine or sacred origins | 1 | native_american_southwest |
 | `garlic_as_protection_against_harmful_divine_breath` | garlic as protection against harmful divine breath | 1 | shinto |
@@ -21398,7 +21398,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `origin_of_taboo_through_refused_speech_or_refused_water` | Origin of taboo through refused speech or refused water | 1 | fjort |
 | `origins_or_legends_of_sacred_objects_and_rites` | Origins or legends of sacred objects and rites | 1 | native_american_plains |
 | `ornament_personified_as_goddess` | ornament personified as goddess | 1 | germanic |
-| `orphaned_skilled_hunter_lacking_inherited_tools` | orphaned skilled hunter lacking inherited tools | 1 | arctic-inuit |
+| `orphaned_skilled_hunter_lacking_inherited_tools` | orphaned skilled hunter lacking inherited tools | 1 | arctic_inuit |
 | `orphic_inheritance_of_a_sacred_vessel_symbol` | Orphic inheritance of a sacred vessel symbol | 1 | hermetic |
 | `otherworld_fosterage_and_divine_weapons` | Otherworld fosterage and divine weapons | 1 | celtic |
 | `otherworld_recovery_through_ritual_knowledge` | Otherworld recovery through ritual knowledge | 1 | hindu |
@@ -22563,7 +22563,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `release_of_a_bound_or_held_divine_figure` | release of a bound or held divine figure | 1 | hindu |
 | `released_dangerous_substance_partly_recovered_by_ritual_object` | released dangerous substance partly recovered by ritual object | 1 | native_american_plateau |
 | `released_enemy_causes_conflict_within_divine_family` | released enemy causes conflict within divine family | 1 | egyptian |
-| `reliance_on_ritual_specialists_for_life_and_food_security` | Reliance on ritual specialists for life and food security | 1 | arctic-inuit |
+| `reliance_on_ritual_specialists_for_life_and_food_security` | Reliance on ritual specialists for life and food security | 1 | arctic_inuit |
 | `relic_container_as_authority_for_sacred_mission_history` | relic container as authority for sacred mission history | 1 | buddhist |
 | `relic_or_sacred_object_as_locus_of_divine_power` | Relic or sacred object as locus of divine power | 1 | germanic |
 | `relic_veneration_after_a_holy_one_s_extinction` | Relic veneration after a holy one's extinction | 1 | buddhist |
@@ -23309,7 +23309,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritual_encounter_at_sacred_water` | ritual encounter at sacred water | 1 | hindu |
 | `ritual_encounter_with_or_detection_of_the_devil` | ritual encounter with or detection of the devil | 1 | germanic |
 | `ritual_ending_of_mourning` | ritual ending of mourning | 1 | ganda |
-| `ritual_endurance_without_visible_reaction` | ritual endurance without visible reaction | 1 | arctic-inuit |
+| `ritual_endurance_without_visible_reaction` | ritual endurance without visible reaction | 1 | arctic_inuit |
 | `ritual_enumeration_of_plant_growth_parts` | ritual enumeration of plant growth parts | 1 | native_american_plains |
 | `ritual_enumeration_of_prayers_with_beads_and_counters` | ritual enumeration of prayers with beads and counters | 1 | tibetan_buddhist |
 | `ritual_erasure_of_body_design_by_elder_women` | ritual erasure of body design by elder women | 1 | australian_aboriginal |
@@ -23902,7 +23902,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritual_performance_supported_by_offerings` | ritual performance supported by offerings | 1 | hausa |
 | `ritual_performance_used_as_a_martial_lure` | Ritual performance used as a martial lure | 1 | native_american_southwest |
 | `ritual_performance_with_thigh_bone_trumpet` | Ritual performance with thigh-bone trumpet | 1 | tibetan_buddhist |
-| `ritual_performed_with_improvised_domestic_objects` | ritual performed with improvised domestic objects | 1 | arctic-inuit |
+| `ritual_performed_with_improvised_domestic_objects` | ritual performed with improvised domestic objects | 1 | arctic_inuit |
 | `ritual_performer_bearing_adoration` | Ritual performer bearing adoration | 1 | hindu |
 | `ritual_performer_embodies_a_ceremonial_object` | Ritual performer embodies a ceremonial object | 1 | native_american_great_lakes |
 | `ritual_personation_and_masked_enactment` | Ritual personation and masked enactment | 1 | native_american_southwest |
@@ -24482,7 +24482,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritual_strengthening_and_bodily_protection_of_the_infant` | Ritual strengthening and bodily protection of the infant | 1 | ganda |
 | `ritual_striking_of_a_suspended_animal_hide` | ritual striking of a suspended animal hide | 1 | germanic |
 | `ritual_structure_as_wings_and_tail` | Ritual structure as wings and tail | 1 | hindu |
-| `ritual_struggle_with_an_invisible_being` | Ritual struggle with an invisible being | 1 | arctic-inuit |
+| `ritual_struggle_with_an_invisible_being` | Ritual struggle with an invisible being | 1 | arctic_inuit |
 | `ritual_subdivisions_within_tribal_organization` | Ritual subdivisions within tribal organization | 1 | native_american_plains |
 | `ritual_submission_through_wreath_and_prayer` | ritual submission through wreath and prayer | 1 | greek |
 | `ritual_substance_as_warrior_protector` | Ritual substance as warrior-protector | 1 | hindu |
@@ -24502,7 +24502,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritual_summons_by_bell_and_conch` | ritual summons by bell and conch | 1 | tibetan_buddhist |
 | `ritual_summons_by_decorated_pipe_and_smoking_assent` | ritual summons by decorated pipe and smoking assent | 1 | native_american_plains |
 | `ritual_summons_by_sound` | ritual summons by sound | 1 | african_akan |
-| `ritual_summons_by_tobacco_tokens_and_all_night_song` | Ritual summons by tobacco tokens and all-night song | 1 | native-american-southwest |
+| `ritual_summons_by_tobacco_tokens_and_all_night_song` | Ritual summons by tobacco tokens and all-night song | 1 | native_american_southwest |
 | `ritual_summons_of_game_before_the_hunt` | Ritual summons of game before the hunt | 1 | melanesian |
 | `ritual_summons_through_designated_offices` | Ritual summons through designated offices | 1 | native_american_southwest |
 | `ritual_summons_to_communal_rejoicing` | ritual summons to communal rejoicing | 1 | native_american_plains |
@@ -24709,7 +24709,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ritualized_cutting_up_of_game_through_sung_commands` | ritualized cutting up of game through sung commands | 1 | native_american_plains |
 | `ritualized_daily_time_division_by_celestial_measurement` | Ritualized daily time division by celestial measurement | 1 | zoroastrian |
 | `ritualized_dance_in_ceremonial_dress` | ritualized dance in ceremonial dress | 1 | micronesian |
-| `ritualized_deer_killing_through_blood_footprints_rings_and_material_arrows` | ritualized deer killing through blood footprints, rings, and material arrows | 1 | native-american-southwest |
+| `ritualized_deer_killing_through_blood_footprints_rings_and_material_arrows` | ritualized deer killing through blood footprints, rings, and material arrows | 1 | native_american_southwest |
 | `ritualized_deference_in_food_giving` | ritualized deference in food-giving | 1 | hausa |
 | `ritualized_deference_to_a_ranked_superior` | Ritualized deference to a ranked superior | 1 | melanesian |
 | `ritualized_deference_to_sacred_persons_and_places` | ritualized deference to sacred persons and places | 1 | hindu |
@@ -24912,7 +24912,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `rival_ritual_specialists_resist_new_religious_movement` | rival ritual specialists resist new religious movement | 1 | chaco_amerindian |
 | `rival_sacred_center_borrowing_prestigious_holy_names` | rival sacred center borrowing prestigious holy names | 1 | micronesian |
 | `rival_sacred_institutions_encoded_in_destructive_name_pair` | rival sacred institutions encoded in destructive name-pair | 1 | tibetan_buddhist |
-| `rival_sacred_specialists_claiming_exclusive_prophetic_status` | Rival sacred specialists claiming exclusive prophetic status | 1 | arctic-inuit |
+| `rival_sacred_specialists_claiming_exclusive_prophetic_status` | Rival sacred specialists claiming exclusive prophetic status | 1 | arctic_inuit |
 | `rivalry_expressed_through_separate_or_divided_ritual_buildings` | Rivalry expressed through separate or divided ritual buildings | 1 | melanesian |
 | `river_as_divine_offspring_and_purifier` | river as divine offspring and purifier | 1 | hindu |
 | `river_catalogue_as_sacred_geographic_mapping` | river catalogue as sacred-geographic mapping | 1 | zoroastrian |
@@ -25686,7 +25686,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sacred_or_protected_dog_whose_killing_brings_severe_sanction` | Sacred or protected dog whose killing brings severe sanction | 1 | zoroastrian |
 | `sacred_or_protected_ground_where_fire_cannot_burn` | Sacred or protected ground where fire cannot burn | 1 | buddhist |
 | `sacred_or_protected_water_site` | sacred or protected water site | 1 | hindu |
-| `sacred_or_revelatory_text_lost_through_practical_burning` | sacred or revelatory text lost through practical burning | 1 | arctic-inuit |
+| `sacred_or_revelatory_text_lost_through_practical_burning` | sacred or revelatory text lost through practical burning | 1 | arctic_inuit |
 | `sacred_or_ritual_act_before_military_mobilization` | sacred or ritual act before military mobilization | 1 | shinto |
 | `sacred_or_ritual_fire_term` | sacred or ritual fire term | 1 | germanic |
 | `sacred_or_ritual_object_authorizes_a_visible_honor_mark` | sacred or ritual object authorizes a visible honor mark | 1 | native_american_plains |
@@ -26299,7 +26299,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `self_moving_sacred_objects_as_signs_of_divine_presence_or_danger` | self-moving sacred objects as signs of divine presence or danger | 1 | african_bantu |
 | `self_moving_sacred_or_royal_object_restrained_by_iron` | Self-moving sacred or royal object restrained by iron | 1 | african_bantu |
 | `self_moving_sacred_statue_after_human_refusal` | self-moving sacred statue after human refusal | 1 | egyptian |
-| `self_offering_hunted_animals` | Self-offering hunted animals | 1 | arctic-inuit |
+| `self_offering_hunted_animals` | Self-offering hunted animals | 1 | arctic_inuit |
 | `self_or_divine_entrant_entering_by_the_skull_door` | self or divine entrant entering by the skull-door | 1 | hindu |
 | `self_originating_divine_being` | self-originating divine being | 1 | hindu |
 | `self_powered_divine_existence_and_action` | Self-powered divine existence and action | 1 | hindu |
@@ -26581,7 +26581,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `soma_like_divine_refreshment` | Soma-like divine refreshment | 1 | hindu |
 | `soma_produced_divine_rapture_and_power` | Soma-produced divine rapture and power | 1 | hindu |
 | `song_accompanied_casting_away_divorce_rite` | song-accompanied casting-away divorce rite | 1 | native_american_great_lakes |
-| `song_and_drumming_as_inherited_identity_and_emotional_expression` | song and drumming as inherited identity and emotional expression | 1 | arctic-inuit |
+| `song_and_drumming_as_inherited_identity_and_emotional_expression` | song and drumming as inherited identity and emotional expression | 1 | arctic_inuit |
 | `song_and_herb_healing_rite` | Song-and-herb healing rite | 1 | native_american_plains |
 | `song_as_approach_to_sacred_power` | song as approach to sacred power | 1 | native_american_plains |
 | `song_authenticity_judged_by_ritual_authority` | song authenticity judged by ritual authority | 1 | native_american_great_lakes |
@@ -26797,7 +26797,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sun_god_syncretism_into_a_common_deity` | sun-god syncretism into a common deity | 1 | egyptian |
 | `sun_identified_as_god` | Sun identified as God | 1 | guiana_amerindian |
 | `sun_or_luminary_as_divine_eye` | Sun or luminary as divine eye | 1 | germanic |
-| `sun_oriented_mortuary_rite` | Sun-oriented mortuary rite | 1 | arctic-inuit |
+| `sun_oriented_mortuary_rite` | Sun-oriented mortuary rite | 1 | arctic_inuit |
 | `sun_s_under_earth_route_and_dawn_ritual_explanation` | sun's under-earth route and dawn ritual explanation | 1 | hopi |
 | `sun_substituted_for_deity_in_a_curse` | Sun substituted for deity in a curse | 1 | germanic |
 | `sun_visibility_taboo_and_solar_impregnation_belief` | sun visibility taboo and solar impregnation belief | 1 | comparative |
@@ -28324,7 +28324,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_speech_as_a_catalyst` | Animal speech as a catalyst | 1 | hindu |
 | `animal_speech_explains_characteristic_sayings_or_traits` | Animal speech explains characteristic sayings or traits | 1 | afro_caribbean |
 | `animal_speech_imitated_in_oral_performance` | Animal speech imitated in oral performance | 1 | hausa |
-| `animal_speech_in_primordial_time` | animal speech in primordial time | 1 | arctic-inuit |
+| `animal_speech_in_primordial_time` | animal speech in primordial time | 1 | arctic_inuit |
 | `animal_speech_preventing_a_hunter_s_shot` | animal speech preventing a hunter’s shot | 1 | native_american_southwest |
 | `animal_speech_reveals_a_hidden_human_condition` | Animal speech reveals a hidden human condition | 1 | ekoi |
 | `animal_speech_reveals_the_hidden_heroine` | animal speech reveals the hidden heroine | 1 | slavic |
@@ -28346,7 +28346,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_young_named_as_human_child_s_brothers` | Animal young named as human child’s brothers | 1 | native_american_plains |
 | `animals_as_singers_in_folk_tale_songs` | Animals as singers in folk-tale songs | 1 | native_american_plains |
 | `animals_endowed_with_speech_and_reason` | animals endowed with speech and reason | 1 | egyptian |
-| `animals_hear_human_speech` | animals hear human speech | 1 | arctic-inuit |
+| `animals_hear_human_speech` | animals hear human speech | 1 | arctic_inuit |
 | `animals_once_had_speech_and_later_lost_it` | animals once had speech and later lost it | 1 | inuit |
 | `animals_once_had_speech_and_lost_it_after_an_offense` | Animals once had speech and lost it after an offense | 1 | native_american_southeast |
 | `animals_perceiving_a_supernatural_being_invisible_or_unacknowledged_by_humans` | Animals perceiving a supernatural being invisible or unacknowledged by humans | 1 | chaco_amerindian |
@@ -28374,7 +28374,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `appearing_dream_vision` | appearing dream-vision | 1 | germanic |
 | `appeasement_by_speech_versus_material_gifts` | Appeasement by speech versus material gifts | 1 | hindu |
 | `approaching_bridal_song_seeks_a_named_young_man` | approaching bridal song seeks a named young man | 1 | native_american_northeast_woodlands |
-| `approaching_darkness_as_a_named_presence` | Approaching darkness as a named presence | 1 | arctic-inuit |
+| `approaching_darkness_as_a_named_presence` | Approaching darkness as a named presence | 1 | arctic_inuit |
 | `approaching_named_riders_who_voice_the_song_words` | approaching named riders who voice the song words | 1 | native_american_plains |
 | `aquatic_monster_in_a_named_deep_river_place` | aquatic monster in a named deep river place | 1 | native_american_southeast |
 | `archaic_or_special_language_in_song_incantation` | archaic or special language in song/incantation | 1 | micronesian |
@@ -28496,7 +28496,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `bird_cry_as_remembered_speech` | bird cry as remembered speech | 1 | native_american_plateau |
 | `bird_feathers_associated_with_memory_loss_and_insanity` | Bird feathers associated with memory loss and insanity | 1 | guiana_amerindian |
 | `bird_head_incorporated_into_named_pipes` | Bird head incorporated into named pipes | 1 | native_american_plains |
-| `bird_like_loss_and_recovery_of_human_speech` | bird-like loss and recovery of human speech | 1 | arctic-inuit |
+| `bird_like_loss_and_recovery_of_human_speech` | bird-like loss and recovery of human speech | 1 | arctic_inuit |
 | `bird_name_as_fool_or_foolishness_marker` | Bird-name as fool or foolishness marker | 1 | germanic |
 | `bird_name_imagery` | bird-name imagery | 1 | native_american_plains |
 | `bird_name_or_bird_figure_standing_for_the_devil` | Bird name or bird figure standing for the devil | 1 | germanic |
@@ -28526,7 +28526,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `blinding_by_song_or_spell` | blinding by song or spell | 1 | aboriginal_australian |
 | `blindness_linked_to_poetic_memory_and_song` | Blindness linked to poetic memory and song | 1 | germanic |
 | `blocked_inquiry_into_witchcraft_knowledge` | blocked inquiry into witchcraft knowledge | 1 | african_bantu |
-| `blood_marked_named_seeker_summons_deer` | Blood-marked named seeker summons deer | 1 | native-american-southwest |
+| `blood_marked_named_seeker_summons_deer` | Blood-marked named seeker summons deer | 1 | native_american_southwest |
 | `blood_sign_and_etiological_place_name` | Blood sign and etiological place-name | 1 | tongan |
 | `bloodless_named_battle` | bloodless named battle | 1 | celtic_irish |
 | `boar_associated_with_a_named_place` | Boar associated with a named place | 1 | celtic |
@@ -28801,8 +28801,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `communal_song_coordinating_movement_and_labor` | Communal song coordinating movement and labor | 1 | ganda |
 | `communal_song_producing_social_incident_and_new_song` | communal song producing social incident and new song | 1 | native_american_northwest_coast |
 | `communal_water_allocation_by_named_authorities` | communal water allocation by named authorities | 1 | native_american_southwest |
-| `communal_wordless_drum_song_with_bodily_movement` | communal wordless drum-song with bodily movement | 1 | arctic-inuit |
-| `community_division_over_a_leader_s_visionary_claim` | community division over a leader's visionary claim | 1 | arctic-inuit |
+| `communal_wordless_drum_song_with_bodily_movement` | communal wordless drum-song with bodily movement | 1 | arctic_inuit |
+| `community_division_over_a_leader_s_visionary_claim` | community division over a leader's visionary claim | 1 | arctic_inuit |
 | `community_exclusion_over_esoteric_teaching` | community exclusion over esoteric teaching | 1 | gnostic |
 | `community_flight_from_disruptive_speech` | Community flight from disruptive speech | 1 | greek |
 | `companion_urges_hero_toward_another_named_adversary` | Companion urges hero toward another named adversary | 1 | norse |
@@ -29357,12 +29357,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dreamed_unknown_beloved_knight` | dreamed unknown beloved knight | 1 | slavic |
 | `dreamer_awakened_by_dawn_animals_or_calls` | dreamer awakened by dawn animals or calls | 1 | germanic |
 | `dreamer_joins_supernatural_mounted_party_and_leads_charge` | dreamer joins supernatural mounted party and leads charge | 1 | native_american_plains |
-| `dreams_as_a_resource_during_enforced_waiting` | Dreams as a resource during enforced waiting | 1 | arctic-inuit |
+| `dreams_as_a_resource_during_enforced_waiting` | Dreams as a resource during enforced waiting | 1 | arctic_inuit |
 | `dreams_as_fatal_omens` | dreams as fatal omens | 1 | native_american_plateau |
 | `dreams_as_flying_birds` | dreams as flying birds | 1 | germanic |
 | `dreams_as_guides_or_influences_on_action` | Dreams as guides or influences on action | 1 | chaco_amerindian |
 | `dreams_as_narrative_topic` | dreams as narrative topic | 1 | norse |
-| `dreams_as_omens_when_events_are_scarce` | dreams as omens when events are scarce | 1 | arctic-inuit |
+| `dreams_as_omens_when_events_are_scarce` | dreams as omens when events are scarce | 1 | arctic_inuit |
 | `dreams_as_reappearing_impressions_from_present_and_past_lives` | Dreams as reappearing impressions from present and past lives | 1 | hindu |
 | `dreams_as_true_or_contrary_omens` | Dreams as true or contrary omens | 1 | ekoi |
 | `dreams_as_warnings_or_advice_governing_conduct` | Dreams as warnings or advice governing conduct | 1 | andamanese |
@@ -29587,13 +29587,13 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `famine_driven_migration_and_provision` | Famine-driven migration and provision | 1 | jewish_pseudepigrapha |
 | `famine_provision_and_food_for_land_exchange` | famine provision and food-for-land exchange | 1 | jewish_pseudepigrapha |
 | `famine_song` | famine song | 1 | native_american_plains |
-| `farewell_provisions_and_symbolic_gunshot` | Farewell provisions and symbolic gunshot | 1 | arctic-inuit |
+| `farewell_provisions_and_symbolic_gunshot` | Farewell provisions and symbolic gunshot | 1 | arctic_inuit |
 | `fastened_animal_heads_as_place_name_origin` | fastened animal heads as place-name origin | 1 | germanic |
 | `fasting_vigil_and_concealed_dream_song` | fasting vigil and concealed dream song | 1 | native_american_great_lakes |
 | `fasting_vigil_dream_linked_to_song_or_war_use` | fasting-vigil dream linked to song or war use | 1 | native_american_great_lakes |
 | `fatal_abandonment_of_essential_provisions` | Fatal abandonment of essential provisions | 1 | buddhist |
 | `fatal_descendant_prophecy_and_confinement_response` | fatal descendant prophecy and confinement response | 1 | greek |
-| `fatal_disobedience_of_counsel_during_a_dangerous_encounter` | fatal disobedience of counsel during a dangerous encounter | 1 | arctic-inuit |
+| `fatal_disobedience_of_counsel_during_a_dangerous_encounter` | fatal disobedience of counsel during a dangerous encounter | 1 | arctic_inuit |
 | `fatal_disobedience_of_otherworld_instructions` | Fatal disobedience of otherworld instructions | 1 | yoruba |
 | `fatal_encounter_involving_water_drawn_for_an_unnamed_person` | Fatal encounter involving water drawn for an unnamed person | 1 | xhosa |
 | `fatal_fire_accompanied_by_a_heard_song` | Fatal fire accompanied by a heard song | 1 | norse |
@@ -30050,7 +30050,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `host_initiates_speech_with_silent_visitor` | host initiates speech with silent visitor | 1 | african_bantu |
 | `hostile_anti_love_agency_or_damaging_speech` | Hostile anti-love agency or damaging speech | 1 | finnic |
 | `hound_name_heroic_symbolism` | hound-name heroic symbolism | 1 | celtic |
-| `house_made_where_none_stood_marked_by_song` | house made where none stood, marked by song | 1 | native-american-southwest |
+| `house_made_where_none_stood_marked_by_song` | house made where none stood, marked by song | 1 | native_american_southwest |
 | `house_named_from_carved_animal_posts` | House named from carved animal posts | 1 | native_american_northwest_coast |
 | `household_ambush_at_domestic_provisioning_sites` | household ambush at domestic provisioning sites | 1 | native_american_northeast_woodlands |
 | `household_provision_from_visiting_and_leftovers` | Household provision from visiting and leftovers | 1 | native_american_plains |
@@ -30344,7 +30344,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `loss_at_sea_mourned_in_song` | Loss at sea mourned in song | 1 | melanesian |
 | `loss_of_a_named_man_s_weapon_before_fatal_events` | loss of a named man's weapon before fatal events | 1 | norse |
 | `loss_of_a_named_person_s_sword` | loss of a named person's sword | 1 | norse |
-| `loss_of_animal_speech_through_conjuring` | loss of animal speech through conjuring | 1 | arctic-inuit |
+| `loss_of_animal_speech_through_conjuring` | loss of animal speech through conjuring | 1 | arctic_inuit |
 | `loss_of_dream_contact_with_revered_ancient_model` | Loss of dream contact with revered ancient model | 1 | confucian |
 | `loss_of_heir_and_name` | loss of heir and name | 1 | celtic |
 | `loss_of_human_speech_prevents_appeal_to_authority` | loss of human speech prevents appeal to authority | 1 | roman |
@@ -30566,7 +30566,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `miraculous_tears_associated_with_song_or_blessed_figures` | Miraculous tears associated with song or blessed figures | 1 | germanic |
 | `miraculous_water_provision_after_denial` | miraculous water provision after denial | 1 | sikh |
 | `miraculous_water_provision_by_piercing_the_earth` | miraculous water provision by piercing the earth | 1 | hindu |
-| `miscarriage_penance_affecting_speech_and_hunter_safety` | Miscarriage penance affecting speech and hunter safety | 1 | arctic-inuit |
+| `miscarriage_penance_affecting_speech_and_hunter_safety` | Miscarriage penance affecting speech and hunter safety | 1 | arctic_inuit |
 | `misdirected_marriage_choice_through_ignored_instruction` | misdirected marriage choice through ignored instruction | 1 | native_american_northeast_woodlands |
 | `misfit_instruction_harms_collective_identity` | Misfit instruction harms collective identity | 1 | african_bantu |
 | `misfortune_attributed_to_disrespect_toward_a_named_entity` | Misfortune attributed to disrespect toward a named entity | 1 | guiana_amerindian |
@@ -30599,7 +30599,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `moon_derived_board_ornament` | moon-derived board ornament | 1 | melanesian |
 | `moon_imagery_in_female_names` | Moon imagery in female names | 1 | native_american_plains |
 | `moon_name_imagery` | moon-name imagery | 1 | native_american_plains |
-| `moonlit_communal_song_at_a_coastal_camp` | Moonlit communal song at a coastal camp | 1 | arctic-inuit |
+| `moonlit_communal_song_at_a_coastal_camp` | Moonlit communal song at a coastal camp | 1 | arctic_inuit |
 | `moral_action_by_body_mind_and_speech` | moral action by body, mind, and speech | 1 | hindu |
 | `moral_counsel_framed_by_family_hierarchy` | Moral counsel framed by family hierarchy | 1 | taoist |
 | `moral_order_mapped_onto_geography_and_social_divisions` | moral order mapped onto geography and social divisions | 1 | hindu |
@@ -31030,7 +31030,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ominous_vision_before_fatal_betrayal` | ominous vision before fatal betrayal | 1 | celtic |
 | `omnipresent_deity_localized_in_multiple_named_hills` | Omnipresent deity localized in multiple named hills | 1 | germanic |
 | `one_deity_manifesting_in_many_names_and_forms` | One deity manifesting in many names and forms | 1 | hindu |
-| `one_eyed_giant_associated_with_a_named_mountain` | one-eyed giant associated with a named mountain | 1 | arctic-inuit |
+| `one_eyed_giant_associated_with_a_named_mountain` | one-eyed giant associated with a named mountain | 1 | arctic_inuit |
 | `one_eyed_named_beings` | one-eyed named beings | 1 | slavic |
 | `one_name_denoting_both_first_being_and_class_of_beings` | one name denoting both first being and class of beings | 1 | andamanese |
 | `one_origin_of_many_waters_with_regional_names` | One origin of many waters with regional names | 1 | zoroastrian |
@@ -31060,7 +31060,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `oral_epic_preserved_as_remembered_truth` | Oral epic preserved as remembered truth | 1 | slavic |
 | `oral_knowledge_transmitted_through_living_witnesses` | oral knowledge transmitted through living witnesses | 1 | african_bantu |
 | `oral_memory_of_volcanic_ash_disaster` | oral memory of volcanic ash disaster | 1 | arctic_inuit |
-| `oral_transmission_of_a_legend_through_a_named_mediator` | oral transmission of a legend through a named mediator | 1 | arctic-inuit |
+| `oral_transmission_of_a_legend_through_a_named_mediator` | oral transmission of a legend through a named mediator | 1 | arctic_inuit |
 | `ordeal_by_fire_as_a_test_of_truth` | ordeal by fire as a test of truth | 1 | buddhist |
 | `ordeal_revealing_truth_and_falsehood` | ordeal revealing truth and falsehood | 1 | hindu |
 | `ordinary_animal_described_in_boastful_heroic_language` | ordinary animal described in boastful heroic language | 1 | african_bantu |
@@ -31392,7 +31392,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `prodigious_animal_hunting_and_household_provisioning` | prodigious animal hunting and household provisioning | 1 | native_american_southwest |
 | `progeny_and_son_granting_language` | progeny and son-granting language | 1 | hindu |
 | `progressive_names_mark_completion_of_hidden_act` | Progressive names mark completion of hidden act | 1 | fjort |
-| `prohibited_speech_about_lice_after_childbirth` | Prohibited speech about lice after childbirth | 1 | arctic-inuit |
+| `prohibited_speech_about_lice_after_childbirth` | Prohibited speech about lice after childbirth | 1 | arctic_inuit |
 | `prolonged_campaign_against_a_demon_named_region` | Prolonged campaign against a demon-named region | 1 | confucian |
 | `prolonged_duel_with_a_gandharva_namesake` | Prolonged duel with a Gandharva namesake | 1 | hindu |
 | `proper_hierarchy_in_teaching_posture` | proper hierarchy in teaching posture | 1 | buddhist |
@@ -31435,7 +31435,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `prophecy_through_angelic_words_and_songs` | prophecy through angelic words and songs | 1 | celtic |
 | `prophecy_triggered_rebellion` | Prophecy-triggered rebellion | 1 | buddhist |
 | `prophecy_used_as_historical_marker` | prophecy used as historical marker | 1 | buddhist |
-| `prophecy_writing_that_exhausts_ordinary_materials` | Prophecy writing that exhausts ordinary materials | 1 | arctic-inuit |
+| `prophecy_writing_that_exhausts_ordinary_materials` | Prophecy writing that exhausts ordinary materials | 1 | arctic_inuit |
 | `prophetic_battle_omen_vision` | prophetic battle-omen vision | 1 | hindu |
 | `prophetic_counsel_leading_to_royal_refusal_of_surrender` | prophetic counsel leading to royal refusal of surrender | 1 | mesopotamian |
 | `prophetic_dream_of_being_trapped_at_a_rock` | prophetic dream of being trapped at a rock | 1 | celtic |
@@ -31446,7 +31446,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `prophetic_dream_of_reversal_and_enemy_downfall` | prophetic dream of reversal and enemy downfall | 1 | hindu |
 | `prophetic_dream_of_threatened_companions` | Prophetic dream of threatened companions | 1 | celtic |
 | `prophetic_dreams_before_a_king_s_fatal_campaign` | prophetic dreams before a king's fatal campaign | 1 | norse |
-| `prophetic_household_as_communal_center_for_food_and_revelation` | Prophetic household as communal center for food and revelation | 1 | arctic-inuit |
+| `prophetic_household_as_communal_center_for_food_and_revelation` | Prophetic household as communal center for food and revelation | 1 | arctic_inuit |
 | `prophetic_or_fulfilled_dream_of_old_age` | Prophetic or fulfilled dream of old age | 1 | native_american_great_lakes |
 | `prophetic_speech_about_rival_rulers` | prophetic speech about rival rulers | 1 | norse |
 | `prophetic_vision_warning_of_imminent_raid` | prophetic vision warning of imminent raid | 1 | celtic |
@@ -31724,7 +31724,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `reverent_response_to_revelatory_teaching` | reverent response to revelatory teaching | 1 | buddhist |
 | `reversal_of_a_wicked_woman_s_spells_by_the_real_sword` | Reversal of a wicked woman's spells by the real sword | 1 | celtic |
 | `reverse_or_backwards_speech_among_danger_defying_warriors` | Reverse or backwards speech among danger-defying warriors | 1 | native_american_plains |
-| `reversed_or_opposite_speech` | reversed or opposite speech | 1 | arctic-inuit |
+| `reversed_or_opposite_speech` | reversed or opposite speech | 1 | arctic_inuit |
 | `revision_of_historical_testimony_after_renewed_inquiry` | revision of historical testimony after renewed inquiry | 1 | tibetan_buddhist |
 | `reviving_speech_compared_to_nectar` | reviving speech compared to nectar | 1 | hindu |
 | `rhythmic_classification_of_song_performance` | Rhythmic classification of song performance | 1 | native_american_plains |
@@ -32277,7 +32277,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `syncretic_identification_of_deities_under_different_names` | syncretic identification of deities under different names | 1 | hermetic |
 | `tabu_regulated_transfer_of_mortuary_ornaments_across_social_divisions` | Tabu-regulated transfer of mortuary ornaments across social divisions | 1 | australian_aboriginal |
 | `taking_of_named_stones_across_time_periods` | taking of named stones across time periods | 1 | maya |
-| `taking_provisions_after_killing_hostile_household` | taking provisions after killing hostile household | 1 | arctic-inuit |
+| `taking_provisions_after_killing_hostile_household` | taking provisions after killing hostile household | 1 | arctic_inuit |
 | `tale_acknowledged_as_untruth_or_lucky_lie` | tale acknowledged as untruth or lucky lie | 1 | hausa |
 | `tale_elements_transformed_by_local_language_and_memory` | tale elements transformed by local language and memory | 1 | celtic |
 | `talismanic_speech_under_bodhisattva_authority` | Talismanic speech under bodhisattva authority | 1 | buddhist |
@@ -33596,7 +33596,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `communal_animal_food_distribution_followed_by_household_cooking` | Communal animal-food distribution followed by household cooking | 1 | andamanese |
 | `communal_circulation_of_smoking_pipe` | communal circulation of smoking pipe | 1 | chaco_amerindian |
 | `communal_corroboree_marking_healing_and_transformation` | communal corroboree marking healing and transformation | 1 | aboriginal_australian |
-| `communal_dance_as_energetic_social_release` | Communal dance as energetic social release | 1 | arctic-inuit |
+| `communal_dance_as_energetic_social_release` | Communal dance as energetic social release | 1 | arctic_inuit |
 | `communal_dependence_and_encouragement_of_the_honored_person` | Communal dependence and encouragement of the honored person | 1 | native_american_plains |
 | `communal_disposal_of_a_socially_dangerous_person` | communal disposal of a socially dangerous person | 1 | arctic_inuit |
 | `communal_dwelling_as_social_microcosm` | communal dwelling as social microcosm | 1 | andamanese |
@@ -34155,7 +34155,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `egalitarian_labor_and_limited_chiefly_authority` | egalitarian labor and limited chiefly authority | 1 | chaco_amerindian |
 | `elder_and_guest_honor_seating` | Elder-and-guest honor seating | 1 | arctic_inuit |
 | `elder_council_enforcing_ceremonial_and_customary_law` | Elder council enforcing ceremonial and customary law | 1 | australian_aboriginal |
-| `elder_hunters_joking_rivalry` | elder hunters’ joking rivalry | 1 | arctic-inuit |
+| `elder_hunters_joking_rivalry` | elder hunters’ joking rivalry | 1 | arctic_inuit |
 | `elders_arranging_ceremonial_order` | elders arranging ceremonial order | 1 | australian_aboriginal |
 | `elders_assigning_social_identity_to_outsiders` | Elders assigning social identity to outsiders | 1 | australian_aboriginal |
 | `elemental_and_celestial_ordering_of_the_cosmos` | Elemental and celestial ordering of the cosmos | 1 | hermetic |
@@ -34578,7 +34578,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `four_direction_deities_support_heaven_and_order_earth` | four-direction deities support heaven and order earth | 1 | native_american_plains |
 | `four_direction_ordered_world_geography` | four-direction ordered world geography | 1 | tibetan_buddhist |
 | `four_directional_ordering_of_the_world` | four-directional ordering of the world | 1 | native_american_plains |
-| `four_stage_mountain_tracking` | Four-stage mountain tracking | 1 | native-american-southwest |
+| `four_stage_mountain_tracking` | Four-stage mountain tracking | 1 | native_american_southwest |
 | `fourfold_cardinal_color_ordering` | Fourfold cardinal-color ordering | 1 | native_american_southwest |
 | `fourfold_ceremonial_ordering` | fourfold ceremonial ordering | 1 | native_american_plains |
 | `fourfold_cosmological_ordering` | fourfold cosmological ordering | 1 | gnostic |
@@ -35009,7 +35009,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `incomplete_artificial_creation_lacking_a_rib` | incomplete artificial creation lacking a rib | 1 | germanic |
 | `independence_threatened_by_debt_and_outside_pressure` | independence threatened by debt and outside pressure | 1 | micronesian |
 | `indifferent_nations_witnessing_atrocity` | Indifferent nations witnessing atrocity | 1 | armenian |
-| `indirect_female_influence_within_male_authority` | Indirect female influence within male authority | 1 | arctic-inuit |
+| `indirect_female_influence_within_male_authority` | Indirect female influence within male authority | 1 | arctic_inuit |
 | `indirect_self_praise_through_honoring_a_similar_or_greater_figure` | indirect self-praise through honoring a similar or greater figure | 1 | greek |
 | `individual_cooking_fire_and_separation` | Individual cooking fire and separation | 1 | comparative |
 | `ineffective_last_stand_of_the_aged_ruler` | ineffective last stand of the aged ruler | 1 | roman |
@@ -35201,7 +35201,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `land_grant_enacted_by_cutting_bush_and_marking_natural_boundaries` | Land grant enacted by cutting bush and marking natural boundaries | 1 | african_bantu |
 | `land_mourns_with_the_loss_of_the_king` | Land mourns with the loss of the king | 1 | norse |
 | `land_taking_and_household_foundation` | land-taking and household foundation | 1 | norse |
-| `landscape_feature_as_marker_for_social_identity` | landscape feature as marker for social identity | 1 | native-american-southwest |
+| `landscape_feature_as_marker_for_social_identity` | landscape feature as marker for social identity | 1 | native_american_southwest |
 | `landscape_features_marking_mythic_events` | Landscape features marking mythic events | 1 | australian_aboriginal |
 | `last_stand_oath_invoking_sky_and_earth` | last-stand oath invoking sky and earth | 1 | celtic |
 | `late_confession_unable_to_avert_punishment` | late confession unable to avert punishment | 1 | greek |
@@ -35273,7 +35273,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `liturgical_veneration_of_fravashis_of_heroes_and_kings` | Liturgical veneration of Fravashis of heroes and kings | 1 | zoroastrian |
 | `live_prey_presented_to_district_authority` | Live prey presented to district authority | 1 | ganda |
 | `livestock_grant_after_taking_a_wife` | livestock grant after taking a wife | 1 | siberian |
-| `living_wife_made_socially_a_widow` | living wife made socially a widow | 1 | arctic-inuit |
+| `living_wife_made_socially_a_widow` | living wife made socially a widow | 1 | arctic_inuit |
 | `local_communal_justice_in_taxation` | Local communal justice in taxation | 1 | burmese |
 | `local_cult_incorporated_into_state_religion` | Local cult incorporated into state religion | 1 | egyptian |
 | `local_intermediaries_linking_coast_and_interior` | Local intermediaries linking coast and interior | 1 | african_bantu |
@@ -35325,7 +35325,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magic_ring_draws_a_king_to_a_maiden_and_woodland` | Magic ring draws a king to a maiden and woodland | 1 | germanic |
 | `magic_square_numerical_order` | magic-square numerical order | 1 | confucian |
 | `magic_terminology_and_the_act_of_making_or_fashioning` | magic terminology and the act of making or fashioning | 1 | germanic |
-| `magic_working_animal` | Magic-working animal | 1 | arctic-inuit |
+| `magic_working_animal` | Magic-working animal | 1 | arctic_inuit |
 | `magical_charm_grants_social_protection` | Magical charm grants social protection | 1 | hausa |
 | `magical_concealment_of_an_island_kingdom` | magical concealment of an island kingdom | 1 | celtic |
 | `magical_cooking_vessel_and_inexhaustible_or_expanding_food` | Magical cooking vessel and inexhaustible or expanding food | 1 | native_american_northeast_woodlands |
@@ -35440,7 +35440,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `medicine_grants_rain_making_and_bodily_sight` | medicine grants rain-making and bodily sight | 1 | native_american_plateau |
 | `medicine_making_helper_disarms_the_killer` | medicine-making helper disarms the killer | 1 | native_american_plains |
 | `medicine_object_gives_ruler_power_over_recipient` | Medicine object gives ruler power over recipient | 1 | bavili |
-| `medicine_objects_used_to_approach_a_wild_water_walking_being` | medicine objects used to approach a wild water-walking being | 1 | native-american-southwest |
+| `medicine_objects_used_to_approach_a_wild_water_walking_being` | medicine objects used to approach a wild water-walking being | 1 | native_american_southwest |
 | `medicine_power_provoking_rivalry` | Medicine power provoking rivalry | 1 | native_american_plains |
 | `memorial_honor_for_a_warrior_who_is_no_more` | memorial honor for a warrior who is no more | 1 | native_american_plains |
 | `memorialization_of_rulers_and_heroic_figures` | memorialization of rulers and heroic figures | 1 | greek |
@@ -36210,7 +36210,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `punishment_of_corrupt_exchange_and_dishonest_craft` | Punishment of corrupt exchange and dishonest craft | 1 | hindu |
 | `punishment_of_deceptive_substitute_in_a_pit_or_hole` | punishment of deceptive substitute in a pit or hole | 1 | zulu |
 | `punishment_of_laziness` | punishment of laziness | 1 | hausa |
-| `punishment_of_one_offender_to_protect_the_innocent_community` | Punishment of one offender to protect the innocent community | 1 | arctic-inuit |
+| `punishment_of_one_offender_to_protect_the_innocent_community` | Punishment of one offender to protect the innocent community | 1 | arctic_inuit |
 | `punishment_of_rivals_and_attendants` | punishment of rivals and attendants | 1 | celtic |
 | `punishment_of_royal_kin_balanced_with_private_mourning` | Punishment of royal kin balanced with private mourning | 1 | confucian |
 | `punishment_of_the_deceptive_former_spouse` | Punishment of the deceptive former spouse | 1 | slavic |
@@ -36255,7 +36255,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `queen_or_chief_of_nymphs_in_wild_places` | queen or chief of nymphs in wild places | 1 | greek |
 | `queenly_mediation_of_dangerous_anger` | queenly mediation of dangerous anger | 1 | hindu |
 | `queenly_reminiscence_or_analogue` | Queenly reminiscence or analogue | 1 | persian |
-| `race_around_the_border_of_the_earth` | race around the border of the earth | 1 | native-american-southwest |
+| `race_around_the_border_of_the_earth` | race around the border of the earth | 1 | native_american_southwest |
 | `radiant_disguise_overawes_an_authority_figure` | radiant disguise overawes an authority figure | 1 | celtic |
 | `radiant_hero_eclipsing_assembled_rulers` | Radiant hero eclipsing assembled rulers | 1 | hindu |
 | `radiant_lotus_throned_youthful_deity` | Radiant lotus-throned youthful deity | 1 | tibetan_buddhist |
@@ -36410,7 +36410,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `religious_authority_contest` | Religious authority contest | 1 | chaco_amerindian |
 | `religious_authority_inverted_by_the_wine_drinker` | religious authority inverted by the wine-drinker | 1 | sufi |
 | `religious_authority_through_incarnation_and_carried_karma` | religious authority through incarnation and carried Karma | 1 | tibetan_buddhist |
-| `religious_authority_undermined_by_perceived_misconduct` | religious authority undermined by perceived misconduct | 1 | arctic-inuit |
+| `religious_authority_undermined_by_perceived_misconduct` | religious authority undermined by perceived misconduct | 1 | arctic_inuit |
 | `religious_authority_versus_liberal_learning` | religious authority versus liberal learning | 1 | gnostic |
 | `religious_calling_linked_to_social_office` | religious calling linked to social office | 1 | roman |
 | `religious_doctrine_embedded_in_law` | Religious doctrine embedded in law | 1 | germanic |
@@ -37165,7 +37165,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `storm_castaway_survival_with_shelter_and_fire_making` | Storm castaway survival with shelter and fire-making | 1 | native_american_northwest_coast |
 | `storm_cloud_filling_under_cosmic_order` | storm-cloud filling under cosmic order | 1 | hindu |
 | `storm_deities_shaking_and_subduing_natural_features` | Storm deities shaking and subduing natural features | 1 | hindu |
-| `storm_disordered_camp_and_collective_securing_of_shelter_and_boats` | storm-disordered camp and collective securing of shelter and boats | 1 | arctic-inuit |
+| `storm_disordered_camp_and_collective_securing_of_shelter_and_boats` | storm-disordered camp and collective securing of shelter and boats | 1 | arctic_inuit |
 | `storm_making_bird_figure` | storm-making bird figure | 1 | native_american_plains |
 | `storm_sign_and_rain_seeking_lightning` | Storm sign and rain-seeking lightning | 1 | hindu |
 | `storm_warrior_host_shaking_earth_mountains_and_forests` | Storm-warrior host shaking earth, mountains, and forests | 1 | hindu |
@@ -37722,7 +37722,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `widowed_queen_rejects_suitors` | widowed queen rejects suitors | 1 | nahua_maya_inca |
 | `wife_accused_and_violently_executed_by_king` | wife accused and violently executed by king | 1 | norse |
 | `wife_and_kinsman_slay_the_husband_king` | wife and kinsman slay the husband-king | 1 | norse |
-| `wife_escapes_intended_cooking` | Wife escapes intended cooking | 1 | arctic-inuit |
+| `wife_escapes_intended_cooking` | Wife escapes intended cooking | 1 | arctic_inuit |
 | `wife_given_by_ruler_or_chief_as_reward` | wife given by ruler or chief as reward | 1 | ganda |
 | `wife_sister_concealment_before_a_foreign_ruler` | Wife-sister concealment before a foreign ruler | 1 | ethiopian_christian |
 | `wily_gaming_opponent_defeats_a_king` | Wily gaming opponent defeats a king | 1 | hindu |
@@ -37870,7 +37870,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `abandoned_person_aided_during_famine` | Abandoned person aided during famine | 1 | native_american_northwest_coast |
 | `abandoned_person_in_river_rescued_by_ascetic` | abandoned person in river rescued by ascetic | 1 | buddhist |
 | `abandoned_person_trapped_on_an_island_by_water_threats` | Abandoned person trapped on an island by water threats | 1 | native_american_northeast_woodlands |
-| `abandoned_pregnant_woman_survives_and_raises_child` | abandoned pregnant woman survives and raises child | 1 | arctic-inuit |
+| `abandoned_pregnant_woman_survives_and_raises_child` | abandoned pregnant woman survives and raises child | 1 | arctic_inuit |
 | `abandoned_troublesome_child_aided_by_hidden_elder_relative` | Abandoned troublesome child aided by hidden elder relative | 1 | native_american_plateau |
 | `abandoned_unsuccessful_hunter_aided_by_a_wife` | abandoned unsuccessful hunter aided by a wife | 1 | native_american_northwest_coast |
 | `abandoned_wife_endangered_in_wilderness` | abandoned wife endangered in wilderness | 1 | hindu |
@@ -37913,7 +37913,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `abused_animal_child_identified_as_supernatural` | Abused animal child identified as supernatural | 1 | native_american_northwest_coast |
 | `abused_child_seeks_outside_protection` | abused child seeks outside protection | 1 | native_american_plateau |
 | `abused_wife_flees_to_her_brothers` | abused wife flees to her brothers | 1 | inuit |
-| `abused_wife_resists_and_overturns_husband` | abused wife resists and overturns husband | 1 | arctic-inuit |
+| `abused_wife_resists_and_overturns_husband` | abused wife resists and overturns husband | 1 | arctic_inuit |
 | `abused_wives_prepare_a_deceptive_trap_for_a_violent_husband` | abused wives prepare a deceptive trap for a violent husband | 1 | indigenous_australian |
 | `abusive_stepfather_underfeeds_non_biological_children` | abusive stepfather underfeeds non-biological children | 1 | native_american_plains |
 | `acceptance_of_a_co_wife_s_son_as_one_s_own` | Acceptance of a co-wife’s son as one’s own | 1 | hindu |
@@ -37962,7 +37962,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `age_and_gender_ranked_reservation_of_foods` | age- and gender-ranked reservation of foods | 1 | australian_aboriginal |
 | `age_and_gender_segregated_youth_spaces_with_guarded_entrance` | Age- and gender-segregated youth spaces with guarded entrance | 1 | african_bantu |
 | `age_class_participation_in_enforcing_a_personal_prohibition` | age-class participation in enforcing a personal prohibition | 1 | ekoi |
-| `aged_parent_left_to_die_by_fearful_children` | aged parent left to die by fearful children | 1 | arctic-inuit |
+| `aged_parent_left_to_die_by_fearful_children` | aged parent left to die by fearful children | 1 | arctic_inuit |
 | `aggrieved_wife_in_childbirth_threatens_self_destruction_by_fire` | Aggrieved wife in childbirth threatens self-destruction by fire | 1 | shinto |
 | `aging_and_rejuvenation_tied_to_the_child_s_condition` | Aging and rejuvenation tied to the child's condition | 1 | native_american_plateau |
 | `agnatic_clan_boundary_controlling_marriage_inheritance` | agnatic clan boundary controlling marriage inheritance | 1 | african_bantu |
@@ -37981,7 +37981,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ambiguous_personhood_of_non_human_beings` | ambiguous personhood of non-human beings | 1 | african_bantu |
 | `ambivalent_characterization_of_a_noble_maiden` | Ambivalent characterization of a noble maiden | 1 | norse |
 | `ambivalent_plant_power_that_cures_or_poisons` | ambivalent plant power that cures or poisons | 1 | fjort |
-| `amulet_transferred_from_wished_for_child_to_animal` | Amulet transferred from wished-for child to animal | 1 | arctic-inuit |
+| `amulet_transferred_from_wished_for_child_to_animal` | Amulet transferred from wished-for child to animal | 1 | arctic_inuit |
 | `amulets_and_animal_or_birth_materials_securing_luck` | Amulets and animal or birth materials securing luck | 1 | arctic_inuit |
 | `analogical_harm_avoided_by_nursing_mother` | Analogical harm avoided by nursing mother | 1 | malagasy |
 | `analogical_transmission_from_food_action_or_sight_to_child_and_birth` | Analogical transmission from food, action, or sight to child and birth | 1 | african_bantu |
@@ -38054,7 +38054,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_human_marriage_story` | animal-human marriage story | 1 | arctic_inuit |
 | `animal_human_offspring_avenges_slain_animal_parent` | Animal-human offspring avenges slain animal parent | 1 | native_american_plains |
 | `animal_husband_accepted_by_the_youngest_sister` | animal husband accepted by the youngest sister | 1 | oceanic |
-| `animal_husband_and_human_mother` | animal husband and human mother | 1 | arctic-inuit |
+| `animal_husband_and_human_mother` | animal husband and human mother | 1 | arctic_inuit |
 | `animal_husband_killed_by_the_wife_s_brothers` | animal husband killed by the wife's brothers | 1 | native_american_plains |
 | `animal_husbandry_borrowing_through_contact` | animal-husbandry borrowing through contact | 1 | native_american_southwest |
 | `animal_husbands_hidden_in_the_household` | Animal husbands hidden in the household | 1 | native_american_plains |
@@ -38121,7 +38121,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_skin_disguise_conceals_the_bride_s_identity` | Animal-skin disguise conceals the bride's identity | 1 | basque |
 | `animal_son_rescues_captured_mother` | animal son rescues captured mother | 1 | hausa |
 | `animal_sons_as_prospective_husbands` | animal sons as prospective husbands | 1 | zulu |
-| `animal_speaker_as_father_like_task_figure` | Animal speaker as father-like task figure | 1 | native-american-southwest |
+| `animal_speaker_as_father_like_task_figure` | Animal speaker as father-like task figure | 1 | native_american_southwest |
 | `animal_spouse_and_bear_human_marriage` | Animal spouse and bear-human marriage | 1 | native_american_northwest_coast |
 | `animal_spouse_and_rescued_animal_woman_s_children` | animal spouse and rescued animal-woman's children | 1 | native_american_plains |
 | `animal_spouse_marriage_followed_by_aid_to_the_human_community` | Animal-spouse marriage followed by aid to the human community | 1 | native_american_plains |
@@ -38300,7 +38300,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `banishment_of_royal_and_elite_persons_to_an_island` | banishment of royal and elite persons to an island | 1 | shinto |
 | `baptismal_omens_and_sympathetic_shaping_of_a_child_s_future` | Baptismal omens and sympathetic shaping of a child's future | 1 | germanic |
 | `bargain_over_a_person_with_a_supernatural_claimant` | bargain over a person with a supernatural claimant | 1 | celtic |
-| `barren_wife_and_marital_rejection` | barren wife and marital rejection | 1 | arctic-inuit |
+| `barren_wife_and_marital_rejection` | barren wife and marital rejection | 1 | arctic_inuit |
 | `barrow_as_family_cult_site_and_patriarchal_seat` | barrow as family cult site and patriarchal seat | 1 | norse |
 | `battle_between_maternal_uncle_and_sister_s_sons` | battle between maternal uncle and sister’s sons | 1 | hindu |
 | `battle_challenge_against_a_beloved_friend` | battle challenge against a beloved friend | 1 | hindu |
@@ -38725,11 +38725,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cannibal_host_who_attacks_visiting_children` | Cannibal host who attacks visiting children | 1 | native_american_plains |
 | `cannibal_host_with_marriage_offer` | Cannibal host with marriage offer | 1 | native_american_northeast_woodlands |
 | `cannibal_husband_discovered_by_wife` | cannibal husband discovered by wife | 1 | siberian |
-| `cannibal_husband_fattens_and_eats_wives` | Cannibal husband fattens and eats wives | 1 | arctic-inuit |
+| `cannibal_husband_fattens_and_eats_wives` | Cannibal husband fattens and eats wives | 1 | arctic_inuit |
 | `cannibal_husband_or_wife_eater` | cannibal husband or wife-eater | 1 | arctic_inuit |
 | `cannibal_husband_threatens_sleeping_bride` | cannibal husband threatens sleeping bride | 1 | temne |
 | `cannibal_husband_threatens_wife_after_eating_kin_and_neighbors` | Cannibal husband threatens wife after eating kin and neighbors | 1 | arctic_inuit |
-| `cannibal_like_old_woman_pursuing_a_child` | cannibal-like old woman pursuing a child | 1 | arctic-inuit |
+| `cannibal_like_old_woman_pursuing_a_child` | cannibal-like old woman pursuing a child | 1 | arctic_inuit |
 | `cannibal_marriage_and_fattening_for_slaughter` | cannibal marriage and fattening for slaughter | 1 | siberian |
 | `cannibal_mother_or_predatory_parent` | cannibal mother or predatory parent | 1 | xhosa |
 | `cannibal_mother_threatens_her_own_children` | Cannibal mother threatens her own children | 1 | samoan |
@@ -38896,7 +38896,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `child_denied_milk_through_household_poverty` | Child denied milk through household poverty | 1 | hindu |
 | `child_devouring_female_demon_converted_through_loss_of_her_own_child` | child-devouring female demon converted through loss of her own child | 1 | tibetan_buddhist |
 | `child_devouring_witch_who_fattens_victims` | Child-devouring witch who fattens victims | 1 | germanic |
-| `child_devours_its_parents` | child devours its parents | 1 | arctic-inuit |
+| `child_devours_its_parents` | child devours its parents | 1 | arctic_inuit |
 | `child_disappearance_and_bear_people_conflict` | child disappearance and bear-people conflict | 1 | native_american_northwest_coast |
 | `child_discovers_a_hidden_or_stranded_person` | Child discovers a hidden or stranded person | 1 | native_american_northwest_coast |
 | `child_disobeys_warning_and_enters_danger` | child disobeys warning and enters danger | 1 | native_american_southwest |
@@ -38931,7 +38931,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `child_hidden_away_to_avert_foretold_disaster` | child hidden away to avert foretold disaster | 1 | celtic |
 | `child_hunter_provides_communal_food` | child hunter provides communal food | 1 | fjort |
 | `child_identifies_true_father_through_a_public_test` | child identifies true father through a public test | 1 | native_american_plains |
-| `child_imitation_in_communal_game` | Child imitation in communal game | 1 | arctic-inuit |
+| `child_imitation_in_communal_game` | Child imitation in communal game | 1 | arctic_inuit |
 | `child_in_tree_above_aquatic_danger` | child in tree above aquatic danger | 1 | melanesian |
 | `child_keeps_sharp_aquatic_creature` | child keeps sharp aquatic creature | 1 | native_american_northwest_coast |
 | `child_killed_by_deceptive_host_or_caretaker` | child killed by deceptive host or caretaker | 1 | arctic_inuit |
@@ -39004,8 +39004,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `child_stealing_cave_dwelling_predator` | child-stealing cave-dwelling predator | 1 | native_american_southwest |
 | `child_stealing_child_eating_goblin` | child-stealing child-eating goblin | 1 | buddhist |
 | `child_stealing_female_supernatural_beings` | Child-stealing female supernatural beings | 1 | tibetan_buddhist |
-| `child_stealing_monster_with_hollow_back` | child-stealing monster with hollow back | 1 | arctic-inuit |
-| `child_stealing_sea_monster_attracted_by_screams` | Child-stealing sea monster attracted by screams | 1 | arctic-inuit |
+| `child_stealing_monster_with_hollow_back` | child-stealing monster with hollow back | 1 | arctic_inuit |
+| `child_stealing_sea_monster_attracted_by_screams` | Child-stealing sea monster attracted by screams | 1 | arctic_inuit |
 | `child_stealing_uncanny_outsider` | child-stealing uncanny outsider | 1 | japanese |
 | `child_stolen_at_birth` | Child stolen at birth | 1 | celtic |
 | `child_substitute_carried_nursed_or_treated_as_real` | Child substitute carried, nursed, or treated as real | 1 | siberian |
@@ -39071,7 +39071,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `childless_woman_kills_another_woman_s_child` | childless woman kills another woman’s child | 1 | ekoi |
 | `childlessness_and_imagined_child_seizure` | Childlessness and imagined child seizure | 1 | african_bantu |
 | `childlessness_as_a_cause_or_sign_of_marital_strain` | childlessness as a cause or sign of marital strain | 1 | burmese |
-| `childlessness_as_misfortune` | Childlessness as misfortune | 1 | arctic-inuit |
+| `childlessness_as_misfortune` | Childlessness as misfortune | 1 | arctic_inuit |
 | `childlessness_as_public_religious_reproach` | Childlessness as public religious reproach | 1 | christian_apocrypha |
 | `childlike_vitality_and_protective_harmony` | Childlike vitality and protective harmony | 1 | taoist |
 | `childlike_vitality_of_the_adept` | Childlike vitality of the adept | 1 | taoist |
@@ -39113,7 +39113,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `children_rescued_from_a_swallowing_monster` | children rescued from a swallowing monster | 1 | zulu |
 | `children_reveal_a_concealed_route` | Children reveal a concealed route | 1 | indigenous_australian |
 | `children_reveal_parental_hunting_secrets_through_imitation` | children reveal parental hunting secrets through imitation | 1 | akan |
-| `children_s_game_preserving_an_old_terror` | Children’s game preserving an old terror | 1 | arctic-inuit |
+| `children_s_game_preserving_an_old_terror` | Children’s game preserving an old terror | 1 | arctic_inuit |
 | `children_s_games_as_preparation_for_adult_hunting_and_weapon_use` | children's games as preparation for adult hunting and weapon use | 1 | xhosa |
 | `children_s_hearthside_storytelling_leading_into_sleep` | children's hearthside storytelling leading into sleep | 1 | native_american_great_lakes |
 | `children_s_hunting_enactment_of_wounded_animal` | children’s hunting enactment of wounded animal | 1 | african_bantu |
@@ -39397,7 +39397,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `crisis_caused_by_proposed_sibling_marriage` | Crisis caused by proposed sibling marriage | 1 | zulu |
 | `crocodile_associated_with_treason_in_title` | Crocodile associated with treason in title | 1 | khoisan_south_african |
 | `crop_maidens_as_personified_cultivated_plants` | crop maidens as personified cultivated plants | 1 | native_american_southwest |
-| `cross_community_marriage_with_contrasting_customs` | cross-community marriage with contrasting customs | 1 | arctic-inuit |
+| `cross_community_marriage_with_contrasting_customs` | cross-community marriage with contrasting customs | 1 | arctic_inuit |
 | `cross_cousin_marriage_terminology` | cross-cousin marriage terminology | 1 | guiana_amerindian |
 | `cross_cultural_recognition_of_visual_beauty` | cross-cultural recognition of visual beauty | 1 | ekoi |
 | `cross_gender_clothing_as_ground_for_separation` | cross-gender clothing as ground for separation | 1 | norse |
@@ -39409,7 +39409,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cruel_stepparent_or_child_starvation_warning` | Cruel stepparent or child-starvation warning | 1 | native_american_plains |
 | `cruelty_to_an_animal_exposes_a_person_s_nature_or_status` | Cruelty to an animal exposes a person's nature or status | 1 | hindu |
 | `cruelty_to_valued_reindeer_as_a_mark_of_a_bad_person` | cruelty to valued reindeer as a mark of a bad person | 1 | siberian |
-| `crying_child_separated_from_mother` | Crying child separated from mother | 1 | arctic-inuit |
+| `crying_child_separated_from_mother` | Crying child separated from mother | 1 | arctic_inuit |
 | `cuckolded_husband_made_unwitting_assistant` | Cuckolded husband made unwitting assistant | 1 | roman |
 | `cult_office_preserved_across_a_family_line` | Cult office preserved across a family line | 1 | greek |
 | `cultural_borrowing_through_intermarriage_and_adjacent_settlement` | cultural borrowing through intermarriage and adjacent settlement | 1 | melanesian |
@@ -39430,7 +39430,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dangerous_being_with_beautiful_daughters_sought_by_suitor` | dangerous being with beautiful daughters sought by suitor | 1 | zulu |
 | `dangerous_bird_affecting_nursing_and_milk` | dangerous bird affecting nursing and milk | 1 | australian_aboriginal |
 | `dangerous_bride_neutralized_with_etiological_explanation` | dangerous bride neutralized with etiological explanation | 1 | native_american_plains |
-| `dangerous_bride_with_toothed_vagina_transformed_before_marriage` | dangerous bride with toothed vagina transformed before marriage | 1 | native-american-southwest |
+| `dangerous_bride_with_toothed_vagina_transformed_before_marriage` | dangerous bride with toothed vagina transformed before marriage | 1 | native_american_southwest |
 | `dangerous_captured_child_becomes_resident_brother` | Dangerous captured child becomes resident brother | 1 | native_american_plains |
 | `dangerous_celestial_household_with_protective_mother` | dangerous celestial household with protective mother | 1 | basque |
 | `dangerous_child_made_safe_by_surrendering_teeth` | dangerous child made safe by surrendering teeth | 1 | native_american_plains |
@@ -39853,7 +39853,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `everyday_objects_personified_as_animals_or_human_figures` | Everyday objects personified as animals or human figures | 1 | celtic |
 | `everyday_objects_recast_as_animals_persons_or_natural_scenes` | Everyday objects recast as animals, persons, or natural scenes | 1 | african_bantu |
 | `evil_eye_harming_persons_animals_and_objects_and_averted_by_cures_or_amulets` | evil eye harming persons, animals, and objects and averted by cures or amulets | 1 | greek |
-| `exaggerated_giant_scale_through_animal_comparison` | exaggerated giant scale through animal comparison | 1 | arctic-inuit |
+| `exaggerated_giant_scale_through_animal_comparison` | exaggerated giant scale through animal comparison | 1 | arctic_inuit |
 | `exalted_beloved_addressed_through_repeated_epithet` | exalted beloved addressed through repeated epithet | 1 | armenian |
 | `exalted_maternal_house_of_the_desired_bride` | exalted maternal house of the desired bride | 1 | zulu |
 | `exalted_mother_in_ceremonial_and_celestial_display` | exalted mother in ceremonial and celestial display | 1 | slavic |
@@ -39878,7 +39878,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `exogamous_marriage_rule` | Exogamous marriage rule | 1 | native_american_plains |
 | `exorcist_overcomes_personified_frost` | Exorcist overcomes personified Frost | 1 | finnic |
 | `expansion_of_a_personal_royal_boon_to_family_and_subjects` | Expansion of a personal royal boon to family and subjects | 1 | hindu |
-| `expectation_that_a_wife_receive_other_men` | Expectation that a wife receive other men | 1 | arctic-inuit |
+| `expectation_that_a_wife_receive_other_men` | Expectation that a wife receive other men | 1 | arctic_inuit |
 | `expiation_for_marriage_as_authorial_pattern` | expiation for marriage as authorial pattern | 1 | australian_aboriginal |
 | `expiation_of_a_parent_s_fault_by_the_virtuous_son` | expiation of a parent’s fault by the virtuous son | 1 | hindu |
 | `exploitation_of_a_wish_granting_child_by_a_servant` | Exploitation of a wish-granting child by a servant | 1 | georgian |
@@ -40025,7 +40025,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `father_child_combat_with_tragic_variants` | father-child combat with tragic variants | 1 | slavic |
 | `father_commands_sons_to_avenge_betrayal` | Father commands sons to avenge betrayal | 1 | greek |
 | `father_discovers_powerful_sons_through_a_game_or_contest` | father discovers powerful sons through a game or contest | 1 | celtic |
-| `father_eaten_by_people_at_home` | father eaten by people at home | 1 | native-american-southwest |
+| `father_eaten_by_people_at_home` | father eaten by people at home | 1 | native_american_southwest |
 | `father_follows_animal_tracks_to_find_missing_son` | Father follows animal tracks to find missing son | 1 | native_american_plains |
 | `father_killed_by_son_born_of_nonhuman_wife` | Father killed by son born of nonhuman wife | 1 | guiana_amerindian |
 | `father_kills_son_and_laments` | father kills son and laments | 1 | celtic |
@@ -40090,7 +40090,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `female_giantess_as_child_frightening_figure` | Female giantess as child-frightening figure | 1 | germanic |
 | `female_helper_aids_pursued_woman_against_stronger_husband` | female helper aids pursued woman against stronger husband | 1 | native_american_northeast_woodlands |
 | `female_hybrid_nursing_offspring` | Female hybrid nursing offspring | 1 | greek |
-| `female_indispensability_in_a_marriage_economy` | Female indispensability in a marriage economy | 1 | arctic-inuit |
+| `female_indispensability_in_a_marriage_economy` | Female indispensability in a marriage economy | 1 | arctic_inuit |
 | `female_lament_over_slain_husband_warrior` | Female lament over slain husband-warrior | 1 | celtic |
 | `female_managed_birth_enclosure_with_temporary_male_exclusion` | female-managed birth enclosure with temporary male exclusion | 1 | ekoi |
 | `female_medicine_person` | female medicine-person | 1 | guiana_amerindian |
@@ -40715,7 +40715,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_poison_and_fire_ambush` | Hidden poison-and-fire ambush | 1 | amazonian |
 | `hidden_prey_exposed_by_child_witness` | hidden prey exposed by child witness | 1 | australian_aboriginal |
 | `hidden_remains_revealed_by_a_child_s_utterance` | Hidden remains revealed by a child's utterance | 1 | tongan |
-| `hidden_rock_dwelling_with_wife_inside` | hidden rock dwelling with wife inside | 1 | arctic-inuit |
+| `hidden_rock_dwelling_with_wife_inside` | hidden rock dwelling with wife inside | 1 | arctic_inuit |
 | `hidden_rogue_desires_under_forced_restraint` | hidden rogue desires under forced restraint | 1 | greek |
 | `hidden_scout_observes_the_captive_beloved` | hidden scout observes the captive beloved | 1 | hindu |
 | `hidden_supernatural_helper_promises_to_rescue_endangered_children` | hidden supernatural helper promises to rescue endangered children | 1 | fijian |
@@ -40781,7 +40781,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `human_animal_boundary_bridged_by_rebirth_belief` | Human-animal boundary bridged by rebirth belief | 1 | burmese |
 | `human_animal_equality_and_one_family_coexistence` | Human-animal equality and one-family coexistence | 1 | taoist |
 | `human_animal_family_relations` | human-animal family relations | 1 | hausa |
-| `human_animal_hybrid_birth` | human-animal hybrid birth | 1 | arctic-inuit |
+| `human_animal_hybrid_birth` | human-animal hybrid birth | 1 | arctic_inuit |
 | `human_animal_marriage_or_spouse_title` | human-animal marriage or spouse title | 1 | arctic_inuit |
 | `human_animal_marriage_producing_offspring` | Human-animal marriage producing offspring | 1 | arctic_inuit |
 | `human_animal_mating_or_marriage` | human-animal mating or marriage | 1 | arctic_inuit |
@@ -40813,7 +40813,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `human_marriage_with_she_dwarf_or_mountain_woman` | Human marriage with she-dwarf or mountain woman | 1 | germanic |
 | `human_midwife_aids_hidden_or_nonhuman_birth` | Human midwife aids hidden or nonhuman birth | 1 | germanic |
 | `human_midwife_summoned_to_a_supernatural_water_being_s_childbirth` | Human midwife summoned to a supernatural water-being's childbirth | 1 | germanic |
-| `human_mother_of_animal_offspring` | Human mother of animal offspring | 1 | native-american-southwest |
+| `human_mother_of_animal_offspring` | Human mother of animal offspring | 1 | native_american_southwest |
 | `human_mothers_bearing_animal_offspring` | Human mothers bearing animal offspring | 1 | zulu |
 | `human_nonhuman_marriage_and_offspring` | Human-nonhuman marriage and offspring | 1 | hausa |
 | `human_nonhuman_union_produces_a_marked_child` | Human-nonhuman union produces a marked child | 1 | amazonian |
@@ -40877,7 +40877,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `impossible_promise_made_at_birth` | impossible promise made at birth | 1 | romanian |
 | `impossible_spear_thrust_comparison` | impossible spear-thrust comparison | 1 | celtic_irish |
 | `impossible_spinning_task_for_royal_marriage` | Impossible spinning task for royal marriage | 1 | germanic |
-| `impossible_task_completed_by_daughter_helper` | Impossible task completed by daughter-helper | 1 | native-american-southwest |
+| `impossible_task_completed_by_daughter_helper` | Impossible task completed by daughter-helper | 1 | native_american_southwest |
 | `impossible_tasks_imposed_by_an_antagonist_and_solved_by_a_daughter_helper` | impossible tasks imposed by an antagonist and solved by a daughter-helper | 1 | afro_caribbean |
 | `impossible_tasks_to_win_a_bride` | impossible tasks to win a bride | 1 | temne |
 | `impossible_young_father_and_aged_sons` | impossible young father and aged sons | 1 | buddhist |
@@ -40904,7 +40904,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `inauspicious_birth_under_a_constellation` | Inauspicious birth under a constellation | 1 | hindu |
 | `incantation_to_turn_love_and_hate_or_harm_goods` | Incantation to turn love and hate or harm goods | 1 | germanic |
 | `incantatory_wail_in_personal_distress` | Incantatory wail in personal distress | 1 | siberian |
-| `incapacitated_child_left_alone` | incapacitated child left alone | 1 | arctic-inuit |
+| `incapacitated_child_left_alone` | incapacitated child left alone | 1 | arctic_inuit |
 | `incapacitated_person_abandoned_and_robbed` | Incapacitated person abandoned and robbed | 1 | celtic |
 | `incomparable_adorned_beloved` | incomparable adorned beloved | 1 | burmese |
 | `incompatible_wishes_within_one_family` | incompatible wishes within one family | 1 | greek |
@@ -40964,8 +40964,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `intermediary_led_access_to_a_silent_beloved` | Intermediary-led access to a silent beloved | 1 | georgian |
 | `international_tale_type_localized_around_local_personalities` | International tale type localized around local personalities | 1 | caucasian |
 | `interrupted_immortalization_of_a_child_by_fire` | Interrupted immortalization of a child by fire | 1 | egyptian |
-| `interspecies_bird_marriage` | Interspecies bird marriage | 1 | arctic-inuit |
-| `interspecies_bird_marriage_and_widowhood` | interspecies bird marriage and widowhood | 1 | arctic-inuit |
+| `interspecies_bird_marriage` | Interspecies bird marriage | 1 | arctic_inuit |
+| `interspecies_bird_marriage_and_widowhood` | interspecies bird marriage and widowhood | 1 | arctic_inuit |
 | `interspecies_marriage_explaining_an_animal_s_origin` | Interspecies marriage explaining an animal's origin | 1 | ekoi |
 | `interspecies_or_nonhuman_marriage_pursuit` | interspecies or nonhuman marriage pursuit | 1 | native_american_plateau |
 | `intertribal_affinity_through_marriage_and_intercourse` | Intertribal affinity through marriage and intercourse | 1 | inuit |
@@ -41371,7 +41371,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `maiden_hides_the_suitor_s_projectile` | Maiden hides the suitor’s projectile | 1 | oceanic |
 | `maiden_huntress_deity` | maiden huntress deity | 1 | greek |
 | `maiden_imagined_as_blossom_hidden_among_branches` | maiden imagined as blossom hidden among branches | 1 | shinto |
-| `maiden_in_a_tree_claims_a_hunter_as_husband_and_pursues_him` | Maiden in a tree claims a hunter as husband and pursues him | 1 | native-american-southwest |
+| `maiden_in_a_tree_claims_a_hunter_as_husband_and_pursues_him` | Maiden in a tree claims a hunter as husband and pursues him | 1 | native_american_southwest |
 | `maiden_in_glass_tower_with_pearl_tears` | maiden in glass tower with pearl tears | 1 | romanian |
 | `maiden_left_as_tribute_and_rescued_from_takers` | maiden left as tribute and rescued from takers | 1 | celtic |
 | `maiden_noticed_by_warrior_at_public_gathering` | maiden noticed by warrior at public gathering | 1 | hawaiian |
@@ -41410,7 +41410,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `marked_person_selected_for_capture` | marked person selected for capture | 1 | ganda |
 | `marriage_acceptance_by_residence_without_further_ceremony` | marriage acceptance by residence without further ceremony | 1 | native_american_southwest |
 | `marriage_acquisition` | marriage acquisition | 1 | norse |
-| `marriage_across_coast_dweller_and_inland_dweller_groups` | Marriage across coast-dweller and inland-dweller groups | 1 | arctic-inuit |
+| `marriage_across_coast_dweller_and_inland_dweller_groups` | Marriage across coast-dweller and inland-dweller groups | 1 | arctic_inuit |
 | `marriage_across_local_groups_or_tribes` | marriage across local groups or tribes | 1 | andamanese |
 | `marriage_across_varna_or_status_boundary` | marriage across varna or status boundary | 1 | hindu |
 | `marriage_after_completion_of_a_dangerous_task` | marriage after completion of a dangerous task | 1 | celtic |
@@ -41513,7 +41513,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `marriage_contracted_by_material_transfer` | marriage contracted by material transfer | 1 | african_bantu |
 | `marriage_controlled_by_formal_hand_giving` | marriage controlled by formal hand-giving | 1 | celtic |
 | `marriage_delayed_by_demands_for_extraordinary_objects` | marriage delayed by demands for extraordinary objects | 1 | celtic |
-| `marriage_desirability_follows_hunting_success` | marriage desirability follows hunting success | 1 | arctic-inuit |
+| `marriage_desirability_follows_hunting_success` | marriage desirability follows hunting success | 1 | arctic_inuit |
 | `marriage_dispute_referred_to_elders_and_religious_authorities` | marriage dispute referred to elders and religious authorities | 1 | hindu |
 | `marriage_dissolution_through_reversal_of_marriage_payment` | marriage dissolution through reversal of marriage payment | 1 | african_bantu |
 | `marriage_distribution_among_rescued_maidens` | Marriage distribution among rescued maidens | 1 | georgian |
@@ -41714,7 +41714,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `maternal_reaction_imprints_the_child_s_bodily_condition` | maternal reaction imprints the child's bodily condition | 1 | hindu |
 | `maternal_recovery_of_transformed_daughters` | Maternal recovery of transformed daughters | 1 | native_american_plateau |
 | `maternal_retaliation_for_child_murder` | maternal retaliation for child murder | 1 | xhosa |
-| `maternal_retention_of_children_from_exchange` | Maternal retention of children from exchange | 1 | arctic-inuit |
+| `maternal_retention_of_children_from_exchange` | Maternal retention of children from exchange | 1 | arctic_inuit |
 | `maternal_shielding_of_a_doomed_child_from_kin_violence` | Maternal shielding of a doomed child from kin violence | 1 | guiana_amerindian |
 | `maternal_substitute_raises_the_exceptional_child` | Maternal substitute raises the exceptional child | 1 | buddhist |
 | `maternal_vengeance_through_destruction_of_son_s_life_token` | Maternal vengeance through destruction of son's life-token | 1 | greek |
@@ -41790,7 +41790,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `mistreated_child_deprived_of_food_by_a_household_usurper` | Mistreated child deprived of food by a household usurper | 1 | ekoi |
 | `mistreated_girl_aided_by_stepmother_rather_than_real_mother` | mistreated girl aided by stepmother rather than real mother | 1 | hausa |
 | `mistreated_kin_avenged_by_a_son` | mistreated kin avenged by a son | 1 | native_american_plains |
-| `mistreated_wife_seeks_protection_from_brothers` | mistreated wife seeks protection from brothers | 1 | arctic-inuit |
+| `mistreated_wife_seeks_protection_from_brothers` | mistreated wife seeks protection from brothers | 1 | arctic_inuit |
 | `mistreated_youngest_child_as_humble_protagonist` | mistreated youngest child as humble protagonist | 1 | vietnamese |
 | `mistreating_children_leads_to_abandonment` | mistreating children leads to abandonment | 1 | hausa |
 | `mixed_animal_human_child_as_mediator_or_provider` | Mixed animal-human child as mediator or provider | 1 | native_american_plains |
@@ -41857,7 +41857,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `mother_as_inviolable_parent` | mother as inviolable parent | 1 | hindu |
 | `mother_as_tender_begetter` | mother as tender begetter | 1 | african_bantu |
 | `mother_attempts_to_kill_or_abandon_son_in_a_pit` | mother attempts to kill or abandon son in a pit | 1 | native_american_plains |
-| `mother_avenges_her_son` | mother avenges her son | 1 | arctic-inuit |
+| `mother_avenges_her_son` | mother avenges her son | 1 | arctic_inuit |
 | `mother_carries_child_while_foraging` | mother carries child while foraging | 1 | australian_aboriginal |
 | `mother_carrying_child_image` | mother carrying child image | 1 | arctic_inuit |
 | `mother_child_affection_in_epic_expression` | Mother-child affection in epic expression | 1 | finnish_karelian |
@@ -41876,7 +41876,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `mother_instructs_daughter_to_enslave_husband_by_magic` | Mother instructs daughter to enslave husband by magic | 1 | native_american_northeast_woodlands |
 | `mother_killed_during_escape_while_child_survives` | mother killed during escape while child survives | 1 | native_american_plains |
 | `mother_kills_child_and_laments` | Mother kills child and laments | 1 | roman |
-| `mother_kills_daughter_from_envy_of_her_husband` | Mother kills daughter from envy of her husband | 1 | arctic-inuit |
+| `mother_kills_daughter_from_envy_of_her_husband` | Mother kills daughter from envy of her husband | 1 | arctic_inuit |
 | `mother_kills_her_own_child_without_recognition` | Mother kills her own child without recognition | 1 | greek |
 | `mother_kills_herself_and_child_by_binding_and_fatal_plunge` | Mother kills herself and child by binding and fatal plunge | 1 | roman |
 | `mother_leaves_child_or_male_figure_behind` | mother leaves child or male figure behind | 1 | hausa |
@@ -41974,7 +41974,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `natural_forces_personified_as_friendly_or_hostile_beings` | Natural forces personified as friendly or hostile beings | 1 | egyptian |
 | `natural_parental_affection_among_animals` | Natural parental affection among animals | 1 | greek |
 | `natural_phenomenon_personified_through_human_costume_and_vessel_imagery` | natural phenomenon personified through human costume and vessel imagery | 1 | celtic |
-| `natural_sound_personified_as_subterranean_weeping` | Natural sound personified as subterranean weeping | 1 | arctic-inuit |
+| `natural_sound_personified_as_subterranean_weeping` | Natural sound personified as subterranean weeping | 1 | arctic_inuit |
 | `natural_substances_transformed_into_weapon_poison` | natural substances transformed into weapon poison | 1 | amazonian |
 | `natural_world_laments_or_longs_to_follow_a_beloved_figure` | natural world laments or longs to follow a beloved figure | 1 | hindu |
 | `naturalized_royal_family_imagery` | Naturalized royal family imagery | 1 | egyptian |
@@ -42135,7 +42135,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `orphan_s_retaliation_against_father_s_killer` | orphan's retaliation against father's killer | 1 | native_american_plateau |
 | `orphaned_child_guarded_by_grandmother_at_community_edge` | orphaned child guarded by grandmother at community edge | 1 | native_american_plateau |
 | `orphaned_kin_child_incorporated_through_feeding` | orphaned kin-child incorporated through feeding | 1 | san |
-| `orphaned_vulnerable_child` | orphaned vulnerable child | 1 | arctic-inuit |
+| `orphaned_vulnerable_child` | orphaned vulnerable child | 1 | arctic_inuit |
 | `otherworld_as_place_of_fulfilled_desire_and_delight` | Otherworld as place of fulfilled desire and delight | 1 | celtic_irish |
 | `otherworld_maidens_elope_with_visitors` | Otherworld maidens elope with visitors | 1 | celtic_irish |
 | `otherworld_wife_brings_crop_ripening` | otherworld wife brings crop ripening | 1 | oceanic |
@@ -42250,7 +42250,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `peace_settlement_through_reciprocal_marriage_alliance` | Peace settlement through reciprocal marriage alliance | 1 | norse |
 | `peace_taught_through_childlike_docility` | peace taught through childlike docility | 1 | native_american_plains |
 | `peace_valued_above_natural_beauty` | Peace valued above natural beauty | 1 | native_american_plains |
-| `peaceful_giant_contrasted_with_violent_husband` | peaceful giant contrasted with violent husband | 1 | arctic-inuit |
+| `peaceful_giant_contrasted_with_violent_husband` | peaceful giant contrasted with violent husband | 1 | arctic_inuit |
 | `people_generated_through_marriage_of_royal_daughters_and_a_rishi` | people generated through marriage of royal daughters and a rishi | 1 | hindu |
 | `perfect_beauty_beyond_criticism` | perfect beauty beyond criticism | 1 | greek_roman |
 | `perilous_metal_bridge_comparison` | perilous metal bridge comparison | 1 | germanic |
@@ -42886,7 +42886,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `public_generosity_to_people_without_resources` | public generosity to people without resources | 1 | native_american_plains |
 | `public_humiliation_of_a_royal_wife_in_assembly` | public humiliation of a royal wife in assembly | 1 | hindu |
 | `public_humiliation_of_a_wife_as_war_inciting_grievance` | Public humiliation of a wife as war-inciting grievance | 1 | hindu |
-| `public_humiliation_through_gender_reversal` | public humiliation through gender reversal | 1 | arctic-inuit |
+| `public_humiliation_through_gender_reversal` | public humiliation through gender reversal | 1 | arctic_inuit |
 | `public_legal_separation_followed_by_remarriage` | public legal separation followed by remarriage | 1 | norse |
 | `public_opinion_as_restraint_on_personal_freedom` | public opinion as restraint on personal freedom | 1 | burmese |
 | `public_penance_of_the_falsely_accused_mother` | Public penance of the falsely accused mother | 1 | celtic |
@@ -42969,7 +42969,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `reciprocal_service_and_repayment_of_love` | reciprocal service and repayment of love | 1 | georgian |
 | `reciprocal_visiting_and_food_hospitality_between_animal_persons` | reciprocal visiting and food hospitality between animal persons | 1 | hopi |
 | `reciprocal_visiting_and_hospitality_among_animal_persons` | reciprocal visiting and hospitality among animal-persons | 1 | native_american_plains |
-| `reciprocal_wife_lending_or_exchange` | Reciprocal wife lending or exchange | 1 | arctic-inuit |
+| `reciprocal_wife_lending_or_exchange` | Reciprocal wife lending or exchange | 1 | arctic_inuit |
 | `reciprocal_wife_sharing_between_adoptive_brothers` | Reciprocal wife-sharing between adoptive brothers | 1 | arctic_inuit |
 | `reciprocal_wife_status_categories_within_a_male_group` | reciprocal wife-status categories within a male group | 1 | australian_aboriginal |
 | `reclamation_of_captive_children` | reclamation of captive children | 1 | zulu |
@@ -43044,9 +43044,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `regulated_marriage_exchange_with_child_class_succession` | regulated marriage exchange with child-class succession | 1 | australian_aboriginal |
 | `regulated_water_around_childbirth` | regulated water around childbirth | 1 | melanesian |
 | `regulated_wife_lending_as_personal_favour_or_hospitality` | regulated wife lending as personal favour or hospitality | 1 | australian_aboriginal |
-| `rejected_animal_or_insect_substitutes_before_reunion_with_wife` | rejected animal or insect substitutes before reunion with wife | 1 | arctic-inuit |
+| `rejected_animal_or_insect_substitutes_before_reunion_with_wife` | rejected animal or insect substitutes before reunion with wife | 1 | arctic_inuit |
 | `rejected_animal_wife_becomes_mark_on_the_moon` | Rejected animal wife becomes mark on the moon | 1 | native_american_plains |
-| `rejected_animal_wife_flees_to_another_nonhuman_partner` | rejected animal-wife flees to another nonhuman partner | 1 | arctic-inuit |
+| `rejected_animal_wife_flees_to_another_nonhuman_partner` | rejected animal-wife flees to another nonhuman partner | 1 | arctic_inuit |
 | `rejected_bride_or_supplicant_refused_by_desired_husband` | rejected bride or supplicant refused by desired husband | 1 | hindu |
 | `rejected_child_follows_the_abandoning_mother` | Rejected child follows the abandoning mother | 1 | hausa |
 | `rejected_child_hidden_in_a_tree_and_restored_to_the_household` | Rejected child hidden in a tree and restored to the household | 1 | native_american_northeast_woodlands |
@@ -43069,7 +43069,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `relative_age_classification_of_same_generation_persons` | Relative-age classification of same-generation persons | 1 | andamanese |
 | `release_associated_with_extinction_of_desires` | release associated with extinction of desires | 1 | buddhist |
 | `release_from_bonds_of_birth_and_life` | Release from bonds of birth and life | 1 | hindu |
-| `release_of_a_confined_wife_during_communal_distraction` | release of a confined wife during communal distraction | 1 | arctic-inuit |
+| `release_of_a_confined_wife_during_communal_distraction` | release of a confined wife during communal distraction | 1 | arctic_inuit |
 | `release_of_imprisoned_waters_after_monster_s_defeat` | Release of imprisoned waters after monster’s defeat | 1 | hindu |
 | `release_through_extinction_of_desire` | Release through extinction of desire | 1 | buddhist |
 | `released_prisoners_transformed_into_useful_auxiliaries` | Released prisoners transformed into useful auxiliaries | 1 | buddhist |
@@ -43190,7 +43190,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `revenge_imprisonment_for_slain_kin_and_allies` | Revenge imprisonment for slain kin and allies | 1 | celtic |
 | `revenge_killing_for_a_father_s_enemy` | revenge killing for a father's enemy | 1 | shinto |
 | `revenge_killing_for_murdered_child` | revenge killing for murdered child | 1 | ganda |
-| `revenge_killing_of_a_dangerous_hag_and_her_sons` | revenge killing of a dangerous hag and her sons | 1 | arctic-inuit |
+| `revenge_killing_of_a_dangerous_hag_and_her_sons` | revenge killing of a dangerous hag and her sons | 1 | arctic_inuit |
 | `revenge_meal_of_the_slain_person_s_flesh` | Revenge meal of the slain person's flesh | 1 | native_american_plateau |
 | `revenge_through_a_child` | revenge through a child | 1 | celtic |
 | `revenge_through_killing_children_or_kinsmen` | revenge through killing children or kinsmen | 1 | norse |
@@ -43994,7 +43994,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `unaware_children_in_a_burning_house` | unaware children in a burning house | 1 | buddhist |
 | `unbeloved_wife_s_daughter_chosen_and_household_enriched` | Unbeloved wife’s daughter chosen and household enriched | 1 | hausa |
 | `unborn_birth_giver` | Unborn birth-giver | 1 | egyptian |
-| `unborn_child_invoked_during_assault` | unborn child invoked during assault | 1 | arctic-inuit |
+| `unborn_child_invoked_during_assault` | unborn child invoked during assault | 1 | arctic_inuit |
 | `unborn_or_absent_child_as_sign_of_total_abandonment` | unborn or absent child as sign of total abandonment | 1 | roman |
 | `unborn_or_newborn_child_struck_by_a_supernatural_weapon` | Unborn or newborn child struck by a supernatural weapon | 1 | hindu |
 | `unbreakable_marriage_as_bondage` | unbreakable marriage as bondage | 1 | burmese |
@@ -44277,16 +44277,16 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `wife_compels_reluctant_husband_toward_a_dangerous_public_task` | wife compels reluctant husband toward a dangerous public task | 1 | caucasian |
 | `wife_created_from_a_man_s_ribs` | Wife created from a man's ribs | 1 | finnic |
 | `wife_does_not_receive_visitors_during_husband_s_absence` | Wife does not receive visitors during husband's absence | 1 | burmese |
-| `wife_eating_or_cannibal_spouse` | wife-eating or cannibal spouse | 1 | arctic-inuit |
+| `wife_eating_or_cannibal_spouse` | wife-eating or cannibal spouse | 1 | arctic_inuit |
 | `wife_escapes_and_disguises_herself_as_a_man` | Wife escapes and disguises herself as a man | 1 | celtic |
-| `wife_exchange_for_weapon_loan` | wife exchange for weapon loan | 1 | arctic-inuit |
-| `wife_exchange_involving_a_supernatural_spouse` | wife exchange involving a supernatural spouse | 1 | arctic-inuit |
-| `wife_exchange_rivalry_leading_to_kin_murder` | wife-exchange rivalry leading to kin murder | 1 | arctic-inuit |
+| `wife_exchange_for_weapon_loan` | wife exchange for weapon loan | 1 | arctic_inuit |
+| `wife_exchange_involving_a_supernatural_spouse` | wife exchange involving a supernatural spouse | 1 | arctic_inuit |
+| `wife_exchange_rivalry_leading_to_kin_murder` | wife-exchange rivalry leading to kin murder | 1 | arctic_inuit |
 | `wife_excluded_or_secluded_during_feast` | wife excluded or secluded during feast | 1 | hausa |
 | `wife_formed_from_flowers_by_charms_and_illusion` | wife formed from flowers by charms and illusion | 1 | celtic |
 | `wife_hidden_in_nested_containers_and_disappearing_through_a_hole` | wife hidden in nested containers and disappearing through a hole | 1 | native_american_northwest_coast |
 | `wife_house_as_status_marked_domestic_unit` | wife-house as status-marked domestic unit | 1 | melanesian |
-| `wife_killed_after_accusation_of_childlessness` | Wife killed after accusation of childlessness | 1 | arctic-inuit |
+| `wife_killed_after_accusation_of_childlessness` | Wife killed after accusation of childlessness | 1 | arctic_inuit |
 | `wife_lending_as_hospitality_to_an_outsider` | wife lending as hospitality to an outsider | 1 | australian_aboriginal |
 | `wife_murdered_and_served_as_food_to_her_children` | wife murdered and served as food to her children | 1 | native_american_plains |
 | `wife_murderer_with_hidden_chamber_of_previous_victims` | Wife-murderer with hidden chamber of previous victims | 1 | estonian |
@@ -44358,8 +44358,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `woman_plighted_to_one_man_seeks_the_hand_and_aid_of_another_beloved_hero` | Woman plighted to one man seeks the hand and aid of another beloved hero | 1 | norse |
 | `woman_promised_in_marriage_by_male_kin` | Woman promised in marriage by male kin | 1 | finnish_karelian |
 | `woman_refuses_repeated_marriage_proposals` | woman refuses repeated marriage proposals | 1 | native_american_plains |
-| `woman_refusing_marriage_punished_by_hanging_in_a_pit` | woman refusing marriage punished by hanging in a pit | 1 | arctic-inuit |
-| `woman_spared_because_a_young_child_needs_her` | Woman spared because a young child needs her | 1 | arctic-inuit |
+| `woman_refusing_marriage_punished_by_hanging_in_a_pit` | woman refusing marriage punished by hanging in a pit | 1 | arctic_inuit |
+| `woman_spared_because_a_young_child_needs_her` | Woman spared because a young child needs her | 1 | arctic_inuit |
 | `woman_transported_in_floating_coffin_to_new_husband` | woman transported in floating coffin to new husband | 1 | filipino |
 | `woman_warrior_defending_children_and_community` | Woman warrior defending children and community | 1 | native_american_great_lakes |
 | `woman_warrior_defends_community_and_children` | woman warrior defends community and children | 1 | native_american_great_lakes |
@@ -44374,7 +44374,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `wondrous_beauty_revealed_after_pursuit` | Wondrous beauty revealed after pursuit | 1 | celtic |
 | `wondrous_child_with_gold_producing_body` | wondrous child with gold-producing body | 1 | hindu |
 | `wood_personified_as_slain_by_its_own_children_in_fire` | Wood personified as slain by its own children in fire | 1 | greek |
-| `wooden_husband_who_hunts_whales` | Wooden husband who hunts whales | 1 | arctic-inuit |
+| `wooden_husband_who_hunts_whales` | Wooden husband who hunts whales | 1 | arctic_inuit |
 | `wooing_of_a_maiden` | wooing of a maiden | 1 | hausa |
 | `work_refusal_or_avoidance_within_marriage` | work refusal or avoidance within marriage | 1 | hausa |
 | `world_family_obligation_to_goodwill` | world-family obligation to goodwill | 1 | buddhist |
@@ -44878,7 +44878,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_encounter_tale` | animal encounter tale | 1 | fjort |
 | `animal_encounter_title_pattern` | Animal encounter title pattern | 1 | greek |
 | `animal_encounter_with_chuang_tz` | animal encounter with Chuang Tzŭ | 1 | daoist |
-| `animal_encountered_by_final_pursuer` | Animal encountered by final pursuer | 1 | arctic-inuit |
+| `animal_encountered_by_final_pursuer` | Animal encountered by final pursuer | 1 | arctic_inuit |
 | `animal_encounters_and_cries_as_fortune_or_misfortune_signs` | Animal encounters and cries as fortune or misfortune signs | 1 | malagasy |
 | `animal_encounters_as_pre_battle_signs` | animal encounters as pre-battle signs | 1 | native_american_plains |
 | `animal_endowment_of_human_life_stages` | animal endowment of human life stages | 1 | greek |
@@ -45184,7 +45184,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `animal_human_composite_deity` | animal-human composite deity | 1 | egyptian |
 | `animal_human_correspondence_in_omen_interpretation` | Animal-human correspondence in omen interpretation | 1 | african_bantu |
 | `animal_human_special_connection` | animal-human special connection | 1 | native_american_plains |
-| `animal_human_spouse_or_household_member` | animal-human spouse or household member | 1 | arctic-inuit |
+| `animal_human_spouse_or_household_member` | animal-human spouse or household member | 1 | arctic_inuit |
 | `animal_hunt_before_fire_kindling` | animal hunt before fire kindling | 1 | comparative |
 | `animal_hunt_title` | Animal hunt title | 1 | khoisan_south_african |
 | `animal_hunting_other_animals` | animal hunting other animals | 1 | khoisan_south_african |
@@ -45912,7 +45912,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `auspicious_omen_bird_announcing_fortune` | auspicious omen bird announcing fortune | 1 | hindu |
 | `authored_epic_shaped_from_pre_existing_fable` | Authored epic shaped from pre-existing fable | 1 | georgian |
 | `avalanche_as_ravening_beast` | Avalanche as ravening beast | 1 | germanic |
-| `avenging_bird_kin_defeated_by_a_human_with_a_weapon` | Avenging bird kin defeated by a human with a weapon | 1 | arctic-inuit |
+| `avenging_bird_kin_defeated_by_a_human_with_a_weapon` | Avenging bird kin defeated by a human with a weapon | 1 | arctic_inuit |
 | `avoidance_of_eating_or_touching_one_s_totem_animal` | Avoidance of eating or touching one's totem animal | 1 | melanesian |
 | `awe_inspiring_animal_companion_without_surviving_legend` | awe-inspiring animal companion without surviving legend | 1 | amazonian |
 | `backstory_of_prior_service_to_sustain_disguise` | Backstory of prior service to sustain disguise | 1 | hindu |
@@ -46006,7 +46006,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `bird_captured_by_swallowed_baited_barb` | bird captured by swallowed baited barb | 1 | arctic_inuit |
 | `bird_carries_farewell_message_to_absent_kin` | bird carries farewell message to absent kin | 1 | armenian |
 | `bird_carries_unwanted_figure_away_and_drops_him` | Bird carries unwanted figure away and drops him | 1 | afro_caribbean |
-| `bird_chiefs_as_geographic_witnesses` | bird chiefs as geographic witnesses | 1 | native-american-southwest |
+| `bird_chiefs_as_geographic_witnesses` | bird chiefs as geographic witnesses | 1 | native_american_southwest |
 | `bird_consecrated_to_a_deity` | Bird consecrated to a deity | 1 | germanic |
 | `bird_dance_assembly_with_successive_performer` | bird dance assembly with successive performer | 1 | guiana_amerindian |
 | `bird_derived_dance_regalia` | bird-derived dance regalia | 1 | arctic_inuit |
@@ -46045,7 +46045,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `bird_like_beings_marrying_among_humans` | Bird-like beings marrying among humans | 1 | san |
 | `bird_like_mythic_beings_born_from_feathers_and_housed_in_a_bird_shaped_rock` | bird-like mythic beings born from feathers and housed in a bird-shaped rock | 1 | navajo |
 | `bird_mediated_seed_dispersal_through_water_and_rain` | bird-mediated seed dispersal through water and rain | 1 | zoroastrian |
-| `bird_messenger_between_regions` | bird messenger between regions | 1 | native-american-southwest |
+| `bird_messenger_between_regions` | bird messenger between regions | 1 | native_american_southwest |
 | `bird_messenger_to_distant_kin_and_homeland` | bird messenger to distant kin and homeland | 1 | armenian |
 | `bird_messengers` | bird messengers | 1 | fjort |
 | `bird_movement_or_cry_as_omen` | bird movement or cry as omen | 1 | germanic |
@@ -46347,7 +46347,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `color_coded_endogamy_boundary` | color-coded endogamy boundary | 1 | micronesian |
 | `color_giving_bird_changes_communal_and_household_space` | Color-giving bird changes communal and household space | 1 | native_american_plains |
 | `color_restricted_domestication_and_killing_of_wild_animal_kinds` | Color-restricted domestication and killing of wild animal kinds | 1 | ganda |
-| `color_sequenced_horses_associated_with_directions` | color-sequenced horses associated with directions | 1 | native-american-southwest |
+| `color_sequenced_horses_associated_with_directions` | color-sequenced horses associated with directions | 1 | native_american_southwest |
 | `colored_cocks_as_heralding_birds` | colored cocks as heralding birds | 1 | germanic |
 | `colored_sky_omen_of_dragon_flight_and_booty` | Colored-sky omen of dragon flight and booty | 1 | germanic |
 | `colored_waters_cause_bodily_transformation` | colored waters cause bodily transformation | 1 | georgian |
@@ -46569,9 +46569,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dangerous_cure_requiring_another_animal_s_skin` | Dangerous cure requiring another animal's skin | 1 | greek |
 | `dangerous_dependent_or_animal_takes_the_household` | dangerous dependent or animal takes the household | 1 | hausa |
 | `dangerous_distraction_by_animals_on_a_forbidden_trail` | dangerous distraction by animals on a forbidden trail | 1 | native_american_plateau |
-| `dangerous_encounter_with_hunted_animal` | dangerous encounter with hunted animal | 1 | arctic-inuit |
+| `dangerous_encounter_with_hunted_animal` | dangerous encounter with hunted animal | 1 | arctic_inuit |
 | `dangerous_fosterling_compared_to_lion_s_whelp` | dangerous fosterling compared to lion's whelp | 1 | persian |
-| `dangerous_helper_animal_forces_movement_and_concealment` | Dangerous helper animal forces movement and concealment | 1 | arctic-inuit |
+| `dangerous_helper_animal_forces_movement_and_concealment` | Dangerous helper animal forces movement and concealment | 1 | arctic_inuit |
 | `dangerous_horse_disguised_by_poor_appearance` | Dangerous horse disguised by poor appearance | 1 | celtic |
 | `dangerous_hospitality_with_human_flesh_disguised_as_berries` | Dangerous hospitality with human flesh disguised as berries | 1 | siberian |
 | `dangerous_household_talisman_with_resident_dragon` | dangerous household talisman with resident dragon | 1 | germanic |
@@ -47064,7 +47064,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `exceptional_youth_hidden_in_lowly_disguise` | exceptional youth hidden in lowly disguise | 1 | caucasian |
 | `exchange_and_rejection_of_animal_wives` | exchange and rejection of animal wives | 1 | inuit |
 | `exchange_of_animal_and_human_headgear_to_enable_rescue` | exchange of animal and human headgear to enable rescue | 1 | native_american_northeast_woodlands |
-| `exchange_of_animal_wives` | exchange of animal wives | 1 | arctic-inuit |
+| `exchange_of_animal_wives` | exchange of animal wives | 1 | arctic_inuit |
 | `exchange_of_horses_for_war_society_dress` | exchange of horses for war-society dress | 1 | native_american_plains |
 | `exclusion_from_dwelling_before_transformation` | Exclusion from dwelling before transformation | 1 | native_american_northwest_coast |
 | `excrement_mistaken_for_escaping_young_animals` | excrement mistaken for escaping young animals | 1 | native_american_plains |
@@ -47074,7 +47074,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `exorcistic_naming_by_origin_hue_and_shape` | Exorcistic naming by origin, hue, and shape | 1 | finnic |
 | `exorcistic_removal_of_harm_by_animal_carrier` | exorcistic removal of harm by animal carrier | 1 | finnic |
 | `exotic_animals_as_diplomatic_gifts_to_a_sovereign` | exotic animals as diplomatic gifts to a sovereign | 1 | shinto |
-| `expert_control_of_a_small_but_powerful_animal_team` | Expert control of a small but powerful animal team | 1 | arctic-inuit |
+| `expert_control_of_a_small_but_powerful_animal_team` | Expert control of a small but powerful animal team | 1 | arctic_inuit |
 | `expressive_animal_naming_by_visible_or_audible_traits` | expressive animal naming by visible or audible traits | 1 | arctic_inuit |
 | `external_life_contained_in_an_animal` | External life contained in an animal | 1 | native_american_northeast_woodlands |
 | `external_life_force_kept_in_hidden_birds` | External life-force kept in hidden birds | 1 | caucasian |
@@ -47099,7 +47099,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `failed_disguise_followed_by_mistaken_animal_identity` | failed disguise followed by mistaken animal identity | 1 | native_american_southwest |
 | `failed_disguise_revealed_by_bodily_marker` | failed disguise revealed by bodily marker | 1 | native_american_plateau |
 | `failed_flight_with_birds` | failed flight with birds | 1 | native_american_plains |
-| `failed_hunt_through_mishandled_animal_team` | failed hunt through mishandled animal team | 1 | arctic-inuit |
+| `failed_hunt_through_mishandled_animal_team` | failed hunt through mishandled animal team | 1 | arctic_inuit |
 | `failed_hunter_beside_successful_animal_hunters` | Failed hunter beside successful animal hunters | 1 | native_american_northwest_coast |
 | `failed_or_endangered_animal_messenger` | failed or endangered animal messenger | 1 | shinto |
 | `failed_or_unintended_metamorphosis` | Failed or unintended metamorphosis | 1 | roman |
@@ -47148,7 +47148,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `favorable_right_side_bird_of_prey_pursuit` | Favorable right-side bird-of-prey pursuit | 1 | greek |
 | `favorable_wind_brought_by_a_bird` | Favorable wind brought by a bird | 1 | finnic |
 | `fear_of_disguised_spies` | fear of disguised spies | 1 | hindu |
-| `feared_dangerous_man_with_animal_like_eyes` | feared dangerous man with animal-like eyes | 1 | arctic-inuit |
+| `feared_dangerous_man_with_animal_like_eyes` | feared dangerous man with animal-like eyes | 1 | arctic_inuit |
 | `fearful_royal_gaze_compared_to_animal_and_serpent_imagery` | Fearful royal gaze compared to animal and serpent imagery | 1 | norse |
 | `feather_vaned_shaft_with_animal_material_bindings` | feather-vaned shaft with animal-material bindings | 1 | arctic_inuit |
 | `feeding_warning_animals_to_silence_them` | feeding warning animals to silence them | 1 | native_american_northeast_woodlands |
@@ -47301,7 +47301,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `game_animals_confined_in_a_cave_and_released` | game animals confined in a cave and released | 1 | native_american_southeast |
 | `game_animals_contained_in_an_extraordinary_bag` | game animals contained in an extraordinary bag | 1 | native_american_plains |
 | `game_animals_growing_or_emerging_from_earth` | game animals growing or emerging from earth | 1 | arctic_inuit |
-| `game_animals_kept_as_pets_by_owners_who_object_to_hunting` | game animals kept as pets by owners who object to hunting | 1 | native-american-southwest |
+| `game_animals_kept_as_pets_by_owners_who_object_to_hunting` | game animals kept as pets by owners who object to hunting | 1 | native_american_southwest |
 | `game_animals_punish_premature_handling_of_their_bodies` | Game animals punish premature handling of their bodies | 1 | arctic_inuit |
 | `game_animals_released_from_springs` | Game animals released from springs | 1 | native_american_plains |
 | `game_animals_withheld_or_driven_away_causing_famine` | game animals withheld or driven away causing famine | 1 | native_american_plains |
@@ -47539,7 +47539,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_treasure_container_appears_as_snake_to_some_and_wealth_to_another` | hidden treasure container appears as snake to some and wealth to another | 1 | hausa |
 | `hidden_treasure_guarded_by_an_animal_in_a_devil_s_hole` | hidden treasure guarded by an animal in a devil’s hole | 1 | germanic |
 | `hidden_underground_animal_helper_manipulates_game_outcome` | hidden underground animal helper manipulates game outcome | 1 | hopi |
-| `hidden_underground_dwelling_discovered_by_animals` | Hidden underground dwelling discovered by animals | 1 | arctic-inuit |
+| `hidden_underground_dwelling_discovered_by_animals` | Hidden underground dwelling discovered by animals | 1 | arctic_inuit |
 | `hidden_victim_s_cry_disguised_as_ordinary_fire_noise` | hidden victim’s cry disguised as ordinary fire noise | 1 | native_american_plains |
 | `hidden_vulnerability_in_an_egg_within_nested_animals` | hidden vulnerability in an egg within nested animals | 1 | basque |
 | `hidden_warriors_inside_a_constructed_horse` | Hidden warriors inside a constructed horse | 1 | greek |
@@ -47800,7 +47800,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `irreversible_loss_marked_by_impossible_transformation` | irreversible loss marked by impossible transformation | 1 | greek |
 | `island_encounters_with_giant_or_monstrous_animals` | island encounters with giant or monstrous animals | 1 | celtic |
 | `island_of_giant_animals_and_dangerous_guardian_like_beast` | Island of giant animals and dangerous guardian-like beast | 1 | celtic |
-| `island_separation_of_woman_and_animal_mate` | Island separation of woman and animal mate | 1 | arctic-inuit |
+| `island_separation_of_woman_and_animal_mate` | Island separation of woman and animal mate | 1 | arctic_inuit |
 | `jealous_killing_of_a_valued_animal` | Jealous killing of a valued animal | 1 | native_american_plains |
 | `keeper_of_game_animals_in_a_hidden_preserve` | keeper of game animals in a hidden preserve | 1 | navajo |
 | `killer_prepared_by_dangerous_animal_flesh` | Killer prepared by dangerous animal flesh | 1 | norse |
@@ -47894,7 +47894,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `loss_of_an_animal_companion_followed_by_lamentation` | Loss of an animal companion followed by lamentation | 1 | buddhist |
 | `loss_of_animal_distinction_through_revenge` | loss of animal distinction through revenge | 1 | zuni |
 | `loss_of_clothes_through_foolish_attempt_to_restrain_animal` | loss of clothes through foolish attempt to restrain animal | 1 | caucasian |
-| `loss_of_dogs_forces_human_sledge_pulling_and_worsens_hunger` | Loss of dogs forces human sledge pulling and worsens hunger | 1 | arctic-inuit |
+| `loss_of_dogs_forces_human_sledge_pulling_and_worsens_hunger` | Loss of dogs forces human sledge pulling and worsens hunger | 1 | arctic_inuit |
 | `loss_of_humble_dowry_through_animal_predation` | Loss of humble dowry through animal predation | 1 | basque |
 | `loss_of_indispensable_helper_animals_causes_communal_alarm` | Loss of indispensable helper animals causes communal alarm | 1 | native_american_plains |
 | `loss_of_primordial_uniform_whiteness_among_birds` | Loss of primordial uniform whiteness among birds | 1 | arctic_inuit |
@@ -47985,7 +47985,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magically_accelerated_horses` | magically accelerated horses | 1 | celtic_irish |
 | `magically_enlarged_animal_helper_as_mount` | magically enlarged animal helper as mount | 1 | native_american_northeast_woodlands |
 | `magically_fortified_dwelling_against_animal_attackers` | magically fortified dwelling against animal attackers | 1 | native_american_plains |
-| `magician_made_animal_avenger` | magician-made animal avenger | 1 | arctic-inuit |
+| `magician_made_animal_avenger` | magician-made animal avenger | 1 | arctic_inuit |
 | `maimed_valued_animal_killed_rather_than_left_blemished` | maimed valued animal killed rather than left blemished | 1 | norse |
 | `male_female_animal_pair_multiplies_into_community_resource` | male-female animal pair multiplies into community resource | 1 | native_american_plains |
 | `male_female_animal_pair_preceding_many_species` | male-female animal pair preceding many species | 1 | zoroastrian |
@@ -48322,7 +48322,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `origin_of_an_animal_s_distinctive_mark` | origin of an animal's distinctive mark | 1 | native_american_southwest |
 | `origin_of_an_animal_s_physical_trait_through_shameful_self_injury` | Origin of an animal's physical trait through shameful self-injury | 1 | native_american_plains |
 | `origin_of_an_animal_s_physical_traits_through_missed_distribution` | origin of an animal's physical traits through missed distribution | 1 | african_bantu |
-| `origin_of_an_animal_s_present_coloration` | origin of an animal's present coloration | 1 | arctic-inuit |
+| `origin_of_an_animal_s_present_coloration` | origin of an animal's present coloration | 1 | arctic_inuit |
 | `origin_of_an_animal_s_visible_mark` | origin of an animal’s visible mark | 1 | native_american_southwest |
 | `origin_of_an_animal_trait_and_behavior` | origin of an animal trait and behavior | 1 | australian_aboriginal |
 | `origin_of_animal_behavior` | origin of animal behavior | 1 | arctic_inuit |
@@ -48460,7 +48460,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `posthumous_aid_from_buried_animal_bones` | posthumous aid from buried animal bones | 1 | georgian |
 | `posthumous_blood_transformation_into_precious_stone` | Posthumous blood transformation into precious stone | 1 | taoist |
 | `postmortem_transformation_into_animal_forms` | Postmortem transformation into animal forms | 1 | andamanese |
-| `poverty_to_prosperity_shift_through_animal_materials` | poverty-to-prosperity shift through animal materials | 1 | native-american-southwest |
+| `poverty_to_prosperity_shift_through_animal_materials` | poverty-to-prosperity shift through animal materials | 1 | native_american_southwest |
 | `poverty_triggers_a_trickster_scheme` | poverty triggers a trickster scheme | 1 | caucasian |
 | `power_bestowed_by_animal_or_natural_beings` | power bestowed by animal or natural beings | 1 | native_american_plains |
 | `power_obtained_from_the_sun_through_animals` | power obtained from the Sun through animals | 1 | native_american_plains |
@@ -48492,8 +48492,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `predatory_bird_power_imitated_for_weapon_and_raid_success` | Predatory bird power imitated for weapon and raid success | 1 | melanesian |
 | `predatory_bird_simile_for_lethal_pursuit` | Predatory bird simile for lethal pursuit | 1 | roman |
 | `predatory_bird_torment_of_a_bound_figure` | Predatory bird torment of a bound figure | 1 | greek |
-| `predatory_birds_bringing_human_prey` | Predatory birds bringing human prey | 1 | native-american-southwest |
-| `predatory_dog_explains_inland_dwellers_terror_of_dogs` | Predatory dog explains inland-dwellers' terror of dogs | 1 | arctic-inuit |
+| `predatory_birds_bringing_human_prey` | Predatory birds bringing human prey | 1 | native_american_southwest |
+| `predatory_dog_explains_inland_dwellers_terror_of_dogs` | Predatory dog explains inland-dwellers' terror of dogs | 1 | arctic_inuit |
 | `predatory_oppressor_as_hunter_or_beast` | Predatory oppressor as hunter or beast | 1 | biblical |
 | `predatory_rule_as_beasts_devouring_people` | predatory rule as beasts devouring people | 1 | confucian |
 | `predatory_wolf_band_simile_for_a_collective_rush` | Predatory wolf-band simile for a collective rush | 1 | greek |
@@ -48678,7 +48678,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `rebellion_suppression_and_annexation_cycle` | Rebellion, suppression, and annexation cycle | 1 | mesopotamian |
 | `reciprocal_aid_between_unlike_animals` | Reciprocal aid between unlike animals | 1 | buddhist |
 | `reciprocal_animal_aid_enlisted_for_revenge` | Reciprocal animal aid enlisted for revenge | 1 | buddhist |
-| `reciprocal_animal_decoration_with_unequal_outcome` | reciprocal animal decoration with unequal outcome | 1 | arctic-inuit |
+| `reciprocal_animal_decoration_with_unequal_outcome` | reciprocal animal decoration with unequal outcome | 1 | arctic_inuit |
 | `reciprocal_animal_hospitality_with_incompatible_foods` | Reciprocal animal hospitality with incompatible foods | 1 | native_american_southwest |
 | `reciprocal_animal_injury_producing_permanent_bodily_features` | reciprocal animal injury producing permanent bodily features | 1 | aboriginal_australian |
 | `reciprocal_exchange_after_a_communal_animal_consumption` | Reciprocal exchange after a communal animal consumption | 1 | san |
@@ -48806,7 +48806,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `revenge_by_fastening_an_enemy_to_a_sea_animal_line` | Revenge by fastening an enemy to a sea-animal line | 1 | arctic_inuit |
 | `revenge_by_turning_trickster_into_animal_form` | revenge by turning trickster into animal form | 1 | celtic |
 | `revenge_enacted_through_magical_killing_of_an_animal` | revenge enacted through magical killing of an animal | 1 | native_american_plains |
-| `revenge_for_a_slain_animal_companion` | revenge for a slain animal companion | 1 | arctic-inuit |
+| `revenge_for_a_slain_animal_companion` | revenge for a slain animal companion | 1 | arctic_inuit |
 | `revenge_for_eaten_offspring_through_disguise_and_ambush` | revenge for eaten offspring through disguise and ambush | 1 | native_american_plains |
 | `revenge_killing_by_animal_adversaries` | revenge killing by animal adversaries | 1 | guiana_amerindian |
 | `revenge_through_animal_or_insect_agents` | Revenge through animal or insect agents | 1 | australian_aboriginal |
@@ -48881,7 +48881,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `secured_lodge_boundary_breached_by_animal_night_visitor` | Secured lodge boundary breached by animal night visitor | 1 | native_american_plains |
 | `seductive_pleasure_leading_to_moral_transformation` | Seductive pleasure leading to moral transformation | 1 | greek |
 | `selection_and_training_of_dogs_for_specific_hunting_tasks` | selection and training of dogs for specific hunting tasks | 1 | guiana_amerindian |
-| `selection_of_the_correct_colored_horse` | selection of the correct colored horse | 1 | native-american-southwest |
+| `selection_of_the_correct_colored_horse` | selection of the correct colored horse | 1 | native_american_southwest |
 | `selective_pairing_by_analogy_to_animal_breeding` | selective pairing by analogy to animal breeding | 1 | greek |
 | `self_acting_trap_triggered_by_animal_contact_or_ingestion` | self-acting trap triggered by animal contact or ingestion | 1 | arctic_inuit |
 | `self_denuding_animal_helper_restored_after_rescue` | self-denuding animal helper restored after rescue | 1 | hopi |
@@ -48900,7 +48900,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sequential_transformation_of_animal_hide_into_usable_skin` | Sequential transformation of animal hide into usable skin | 1 | native_american_plains |
 | `sequential_transformation_of_green_skin_into_preserved_material` | sequential transformation of green skin into preserved material | 1 | native_american_plains |
 | `series_of_rare_animals_and_birds_treated_as_favorable_omens` | series of rare animals and birds treated as favorable omens | 1 | shinto |
-| `series_of_rejected_animal_sound_makers` | series of rejected animal sound-makers | 1 | native-american-southwest |
+| `series_of_rejected_animal_sound_makers` | series of rejected animal sound-makers | 1 | native_american_southwest |
 | `serpent_as_edible_quarry` | serpent as edible quarry | 1 | aboriginal_australian |
 | `serpent_as_lightning_sign` | Serpent as lightning sign | 1 | native_american_plains |
 | `serpent_bearing_female_attendants` | Serpent-bearing female attendants | 1 | egyptian |
@@ -48960,7 +48960,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `single_hunter_fights_escalating_waves_of_animal_adversaries` | single hunter fights escalating waves of animal adversaries | 1 | native_american_northwest_coast |
 | `six_directional_bird_assembly_for_rain_and_lightning` | Six-directional bird assembly for rain and lightning | 1 | native_american_southwest |
 | `six_legged_horned_beast_identified_with_an_extinct_muskox` | six-legged horned beast identified with an extinct muskox | 1 | arctic_inuit |
-| `skillful_close_approach_animal_kill` | skillful close-approach animal kill | 1 | arctic-inuit |
+| `skillful_close_approach_animal_kill` | skillful close-approach animal kill | 1 | arctic_inuit |
 | `skin_garment_made_from_a_killed_animal` | skin garment made from a killed animal | 1 | xhosa |
 | `skin_of_killed_animal_made_into_garment` | Skin of killed animal made into garment | 1 | khoisan_south_african |
 | `sky_animal_and_riders_produce_weather` | Sky animal and riders produce weather | 1 | finnic |
@@ -48992,7 +48992,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `small_animal_hole_as_refuge_from_larger_pursuer` | small animal hole as refuge from larger pursuer | 1 | guiana_amerindian |
 | `small_animal_kills_dangerous_animal_from_within` | small animal kills dangerous animal from within | 1 | egyptian |
 | `small_animal_or_bird_helper_warns_fugitives_and_redirects_a_threat` | small animal or bird helper warns fugitives and redirects a threat | 1 | native_american_plains |
-| `small_animal_perspective_turns_human_body_into_landscape` | Small animal perspective turns human body into landscape | 1 | arctic-inuit |
+| `small_animal_perspective_turns_human_body_into_landscape` | Small animal perspective turns human body into landscape | 1 | arctic_inuit |
 | `small_animals_as_nighttime_saboteurs_and_scouts` | small animals as nighttime saboteurs and scouts | 1 | native_american_plateau |
 | `small_animals_defeat_an_army_by_destroying_weapons` | Small animals defeat an army by destroying weapons | 1 | mesopotamian |
 | `small_animals_defeating_larger_animals` | small animals defeating larger animals | 1 | ekoi |
@@ -49469,7 +49469,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `unexpected_rescue_from_snake_by_falling_fruit` | unexpected rescue from snake by falling fruit | 1 | afro_caribbean |
 | `unexplained_miniature_human_and_animal_effigies` | Unexplained miniature human and animal effigies | 1 | guiana_amerindian |
 | `unfamiliar_animal_mistaken_for_a_heavenly_deity` | Unfamiliar animal mistaken for a heavenly deity | 1 | fijian |
-| `unfamiliar_domestic_animals_perceived_as_monsters` | unfamiliar domestic animals perceived as monsters | 1 | arctic-inuit |
+| `unfamiliar_domestic_animals_perceived_as_monsters` | unfamiliar domestic animals perceived as monsters | 1 | arctic_inuit |
 | `unfamiliar_human_perceived_as_beast_like` | Unfamiliar human perceived as beast-like | 1 | native_american_plains |
 | `unfamiliar_rider_or_machine_explained_through_animal_web_image` | unfamiliar rider or machine explained through animal-web image | 1 | amazonian |
 | `unfamiliar_war_beasts_cause_panic` | Unfamiliar war beasts cause panic | 1 | greek |
@@ -49486,7 +49486,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `unrecognized_hero_in_disguise` | unrecognized hero in disguise | 1 | hindu |
 | `unseen_animal_as_mistaken_explanation_for_human_violence` | unseen animal as mistaken explanation for human violence | 1 | chaco_amerindian |
 | `unseen_nocturnal_beings_revealed_by_tracks_and_animal_fear` | Unseen nocturnal beings revealed by tracks and animal fear | 1 | arctic_inuit |
-| `unseen_nocturnal_threat_signaled_by_dogs` | Unseen nocturnal threat signaled by dogs | 1 | arctic-inuit |
+| `unseen_nocturnal_threat_signaled_by_dogs` | Unseen nocturnal threat signaled by dogs | 1 | arctic_inuit |
 | `unseen_rider_or_figure_commands_animals` | Unseen rider or figure commands animals | 1 | zulu |
 | `unusual_animals_originating_from_eggs_in_the_earth` | unusual animals originating from eggs in the earth | 1 | arctic_inuit |
 | `unwitting_cannibalistic_meal_revealed_by_trickster` | unwitting cannibalistic meal revealed by trickster | 1 | xhosa |
@@ -49507,7 +49507,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `venerated_animal_killed_and_eaten` | Venerated animal killed and eaten | 1 | comparative |
 | `vengeance_against_giant_eagles_or_thunderbirds` | Vengeance against giant eagles or thunderbirds | 1 | arctic_inuit |
 | `vengeance_by_paired_animal_and_fire_powers` | vengeance by paired animal and fire powers | 1 | native_american_plateau |
-| `vengeance_for_disrupting_hunting_animals` | vengeance for disrupting hunting animals | 1 | arctic-inuit |
+| `vengeance_for_disrupting_hunting_animals` | vengeance for disrupting hunting animals | 1 | arctic_inuit |
 | `vengeance_or_danger_from_the_slain_animal_s_vital_double` | vengeance or danger from the slain animal's vital double | 1 | african_bantu |
 | `verbal_charm_accompanying_domestic_transformation` | verbal charm accompanying domestic transformation | 1 | germanic |
 | `verbal_charm_based_on_an_animal_s_imagined_power` | Verbal charm based on an animal's imagined power | 1 | yoruba |
@@ -50450,7 +50450,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `communal_care_for_dependents_and_guarded_household_fires` | Communal care for dependents and guarded household fires | 1 | andamanese |
 | `communal_cave_store_in_darkness` | communal cave store in darkness | 1 | arctic_inuit |
 | `communal_dance_with_men_standing_and_women_drumming_seated` | communal dance with men standing and women drumming seated | 1 | san |
-| `communal_dedication_of_a_dwelling_through_food_music_and_light` | Communal dedication of a dwelling through food, music, and light | 1 | arctic-inuit |
+| `communal_dedication_of_a_dwelling_through_food_music_and_light` | Communal dedication of a dwelling through food, music, and light | 1 | arctic_inuit |
 | `communal_driving_of_sea_game_toward_shore` | communal driving of sea game toward shore | 1 | arctic_inuit |
 | `communal_dwelling_centered_on_shared_space_and_fire` | communal dwelling centered on shared space and fire | 1 | andamanese |
 | `communal_extinguishing_and_renewal_of_fire` | communal extinguishing and renewal of fire | 1 | germanic |
@@ -50990,7 +50990,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `deceptive_reflection_in_water_defeats_a_pursuer` | Deceptive reflection in water defeats a pursuer | 1 | hopi |
 | `deceptive_retention_of_creation_matter` | Deceptive retention of creation matter | 1 | finnic |
 | `deceptive_water_reflection_ends_the_pursuit` | deceptive water reflection ends the pursuit | 1 | hopi |
-| `declaration_of_lost_manhood_followed_by_self_casting_into_the_sea` | declaration of lost manhood followed by self-casting into the sea | 1 | arctic-inuit |
+| `declaration_of_lost_manhood_followed_by_self_casting_into_the_sea` | declaration of lost manhood followed by self-casting into the sea | 1 | arctic_inuit |
 | `decline_age_and_sorrow_under_the_setting_sun` | Decline, age, and sorrow under the setting sun | 1 | confucian |
 | `declining_sun_as_exhausted_light` | declining sun as exhausted light | 1 | confucian |
 | `decorated_blue_beads_as_rain_and_heavens` | Decorated blue beads as rain and heavens | 1 | native_american_plains |
@@ -51071,7 +51071,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `demons_associated_with_a_mountain` | demons associated with a mountain | 1 | comparative |
 | `denied_cosmic_creation_claim` | Denied cosmic creation claim | 1 | buddhist |
 | `departing_supernatural_weapon_toward_the_sunset` | departing supernatural weapon toward the sunset | 1 | native_american_northwest_coast |
-| `dependence_on_the_sea_that_both_sustains_and_takes_life` | dependence on the sea that both sustains and takes life | 1 | arctic-inuit |
+| `dependence_on_the_sea_that_both_sustains_and_takes_life` | dependence on the sea that both sustains and takes life | 1 | arctic_inuit |
 | `deposition_of_blood_and_foreskin_at_water_holes` | Deposition of blood and foreskin at water-holes | 1 | australian_aboriginal |
 | `descriptive_dance_emblematic_of_sunrise` | descriptive dance emblematic of sunrise | 1 | maya_quiche |
 | `descriptive_pattern_firelit_forest_camp` | Descriptive pattern: firelit forest camp | 1 | guiana_amerindian |
@@ -51109,7 +51109,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `destructive_fiery_storm_force` | destructive fiery storm force | 1 | hindu |
 | `destructive_fire_and_lightning_deity` | destructive fire-and-lightning deity | 1 | egyptian |
 | `destructive_fire_as_martial_emblem_and_threat` | Destructive fire as martial emblem and threat | 1 | greek |
-| `destructive_fire_being_summoned_by_loud_noise` | destructive fire-being summoned by loud noise | 1 | arctic-inuit |
+| `destructive_fire_being_summoned_by_loud_noise` | destructive fire-being summoned by loud noise | 1 | arctic_inuit |
 | `destructive_fire_emitted_from_a_deity_s_mouth` | Destructive fire emitted from a deity's mouth | 1 | hindu |
 | `destructive_fire_enclosure` | destructive fire enclosure | 1 | native_american_plateau |
 | `destructive_fire_ending_an_institution` | destructive fire ending an institution | 1 | gnostic |
@@ -51638,7 +51638,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `etiology_of_mountain_echo` | Etiology of mountain echo | 1 | hindu |
 | `etiology_of_palm_trees_and_water_on_earth` | Etiology of palm trees and water on earth | 1 | ekoi |
 | `etiology_of_prairie_chicken_feather_spots_and_storm_flying_power` | etiology of Prairie-chicken feather spots and storm-flying power | 1 | native_american_plains |
-| `etiology_of_ptarmigan_avoiding_the_sea` | etiology of ptarmigan avoiding the sea | 1 | arctic-inuit |
+| `etiology_of_ptarmigan_avoiding_the_sea` | etiology of ptarmigan avoiding the sea | 1 | arctic_inuit |
 | `etiology_of_rugged_mountain_peaks` | Etiology of rugged mountain peaks | 1 | native_american_southwest |
 | `etiology_of_sea_lights` | etiology of sea lights | 1 | tongan |
 | `etiology_of_the_first_tea_tree` | etiology of the first tea-tree | 1 | vietnamese |
@@ -52189,7 +52189,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `flight_from_pursuit_into_wild_refuge` | flight from pursuit into wild refuge | 1 | greek |
 | `flight_from_self_through_restless_movement` | flight from self through restless movement | 1 | roman |
 | `flight_from_suitor_with_retained_shoe_token` | flight from suitor with retained shoe token | 1 | celtic |
-| `flight_from_violent_spouse_ending_in_cliff_leap` | Flight from violent spouse ending in cliff leap | 1 | arctic-inuit |
+| `flight_from_violent_spouse_ending_in_cliff_leap` | Flight from violent spouse ending in cliff leap | 1 | arctic_inuit |
 | `flight_into_protective_forest_paths` | flight into protective forest paths | 1 | chaco_amerindian |
 | `flight_into_swamp_refuge` | Flight into swamp refuge | 1 | guiana_amerindian |
 | `flight_of_a_defeated_camp_to_the_capital` | Flight of a defeated camp to the capital | 1 | hindu |
@@ -52307,7 +52307,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `four_region_whole_world_symbolism` | Four-region whole-world symbolism | 1 | native_american_southwest |
 | `four_winds_as_directional_cosmography` | four winds as directional cosmography | 1 | african_bantu |
 | `fourfold_action_linked_to_the_sun_s_place` | Fourfold action linked to the Sun’s place | 1 | native_american_plains |
-| `fourfold_circular_flight` | Fourfold circular flight | 1 | native-american-southwest |
+| `fourfold_circular_flight` | Fourfold circular flight | 1 | native_american_southwest |
 | `fourfold_circular_procession_around_a_central_fire` | Fourfold circular procession around a central fire | 1 | native_american_plains |
 | `fourfold_cross_as_sign_of_winds_or_quarters` | Fourfold cross as sign of winds or quarters | 1 | native_american_southwest |
 | `fourfold_directional_fire_action` | fourfold directional fire action | 1 | native_american_southwest |
@@ -52336,7 +52336,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fugitive_dives_into_water_and_hides_in_a_deep_lake` | Fugitive dives into water and hides in a deep lake | 1 | native_american_plains |
 | `fugitive_escapes_pursuit_by_sea_vessel` | Fugitive escapes pursuit by sea vessel | 1 | celtic |
 | `fugitive_survives_enemy_fire_by_hidden_displacement` | Fugitive survives enemy fire by hidden displacement | 1 | native_american_northeast_woodlands |
-| `fugitives_call_snowstorms_to_hide_their_tracks` | Fugitives call snowstorms to hide their tracks | 1 | arctic-inuit |
+| `fugitives_call_snowstorms_to_hide_their_tracks` | Fugitives call snowstorms to hide their tracks | 1 | arctic_inuit |
 | `fugitives_evade_a_pursuer_from_a_tree_by_blinding_debris` | Fugitives evade a pursuer from a tree by blinding debris | 1 | native_american_plateau |
 | `full_moon_royal_consultation` | full-moon royal consultation | 1 | buddhist |
 | `function_constrained_implement_design` | Function-constrained implement design | 1 | arctic_inuit |
@@ -52739,7 +52739,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_water_route_of_a_dangerous_being` | hidden water route of a dangerous being | 1 | native_american_southeast |
 | `hidden_weapons_and_prolonged_restraint` | hidden weapons and prolonged restraint | 1 | confucian |
 | `hidden_weapons_recovered_from_a_tree` | hidden weapons recovered from a tree | 1 | hindu |
-| `hidden_woman_in_cave_and_failed_lamp_lit_search` | hidden woman in cave and failed lamp-lit search | 1 | arctic-inuit |
+| `hidden_woman_in_cave_and_failed_lamp_lit_search` | hidden woman in cave and failed lamp-lit search | 1 | arctic_inuit |
 | `hidden_woman_in_water_for_four_days` | hidden woman in water for four days | 1 | native_american_great_lakes |
 | `hiding_in_a_tree_above_thieves` | hiding in a tree above thieves | 1 | germanic |
 | `hierarchical_cosmos_of_beings_and_qualities` | hierarchical cosmos of beings and qualities | 1 | hindu |
@@ -52830,7 +52830,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `human_remains_recovered_from_the_dwelling_of_a_water_being` | Human remains recovered from the dwelling of a water-being | 1 | native_american_plains |
 | `human_resists_a_supernatural_force_by_anchoring_to_a_tree` | Human resists a supernatural force by anchoring to a tree | 1 | germanic |
 | `human_set_fire_becomes_a_dangerous_burning_central_tree` | human-set fire becomes a dangerous burning central tree | 1 | guiana_amerindian |
-| `human_smallness_before_polar_nature` | human smallness before polar nature | 1 | arctic-inuit |
+| `human_smallness_before_polar_nature` | human smallness before polar nature | 1 | arctic_inuit |
 | `human_sorcerers_as_storm_raisers_or_hail_senders` | human sorcerers as storm-raisers or hail-senders | 1 | germanic |
 | `human_supernatural_alliance_against_water_monsters` | human-supernatural alliance against water-monsters | 1 | native_american_plains |
 | `human_taken_into_the_sea_and_living_among_whales` | Human taken into the sea and living among whales | 1 | arctic_inuit |
@@ -53163,7 +53163,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `life_water_assembly_overshadowed_by_ominous_lament` | life-water assembly overshadowed by ominous lament | 1 | fijian |
 | `lifeless_elements_furnish_omens` | Lifeless elements furnish omens | 1 | germanic |
 | `light_and_fire_behavior_as_portent` | Light and fire behavior as portent | 1 | germanic |
-| `light_and_fire_in_darkness_or_stormbound_shelter` | light and fire in darkness or stormbound shelter | 1 | arctic-inuit |
+| `light_and_fire_in_darkness_or_stormbound_shelter` | light and fire in darkness or stormbound shelter | 1 | arctic_inuit |
 | `light_associated_buddha_incorporating_a_sun_myth` | Light-associated Buddha incorporating a sun-myth | 1 | tibetan_buddhist |
 | `light_bringing_archer` | light-bringing archer | 1 | norse |
 | `light_causes_captured_being_to_collapse_into_star_jelly` | light causes captured being to collapse into star-jelly | 1 | celtic |
@@ -53215,7 +53215,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `lightning_weapons_of_helper_figures` | Lightning weapons of helper figures | 1 | hopi |
 | `like_seed_yields_like_harvest` | Like seed yields like harvest | 1 | hermetic |
 | `liminal_female_apparition_at_water_tree_or_forest` | Liminal female apparition at water, tree, or forest | 1 | germanic |
-| `liminal_fire_people_who_can_appear_and_disappear` | Liminal fire people who can appear and disappear | 1 | arctic-inuit |
+| `liminal_fire_people_who_can_appear_and_disappear` | Liminal fire people who can appear and disappear | 1 | arctic_inuit |
 | `liminal_tree_place_for_encounter_or_stratagem` | liminal tree-place for encounter or stratagem | 1 | native_american_northeast_woodlands |
 | `liminal_twilight_danger` | liminal twilight danger | 1 | hindu |
 | `liminal_twilight_danger_and_deception` | Liminal twilight danger and deception | 1 | hindu |
@@ -53304,7 +53304,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magic_flight_after_visit_to_dangerous_being_s_house` | Magic flight after visit to dangerous being's house | 1 | arctic_inuit |
 | `magic_flight_cross_referenced_by_editor` | Magic flight cross-referenced by editor | 1 | native_american_plains |
 | `magic_flight_from_a_pursuing_skull_with_successive_obstacles` | Magic flight from a pursuing skull with successive obstacles | 1 | native_american_plains |
-| `magic_flight_tale_frame` | Magic Flight tale frame | 1 | native-american-southwest |
+| `magic_flight_tale_frame` | Magic Flight tale frame | 1 | native_american_southwest |
 | `magic_flight_through_space_by_ball_or_arrow` | Magic flight through space by ball or arrow | 1 | native_american_plains |
 | `magic_flight_with_conjured_obstacle` | magic flight with conjured obstacle | 1 | native_american_northeast_woodlands |
 | `magic_flight_with_obstacle_thrown_behind` | magic flight with obstacle thrown behind | 1 | celtic |
@@ -53393,7 +53393,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magically_supplied_paradisal_mountain_enjoyment` | magically supplied paradisal mountain enjoyment | 1 | hindu |
 | `magus_persia_magi_and_fire_symbolism` | Magus, Persia, Magi, and fire-symbolism | 1 | gnostic |
 | `maid_with_rainbow_like_attribute_as_mythological_handmaid_analogue` | maid with rainbow-like attribute as mythological handmaid analogue | 1 | slavic |
-| `maimed_defeated_opponent_enters_fire_and_utters_an_explanatory_formula` | Maimed defeated opponent enters fire and utters an explanatory formula | 1 | native-american-southwest |
+| `maimed_defeated_opponent_enters_fire_and_utters_an_explanatory_formula` | Maimed defeated opponent enters fire and utters an explanatory formula | 1 | native_american_southwest |
 | `maintained_communal_light_in_a_gathering_house` | Maintained communal light in a gathering house | 1 | arctic_inuit |
 | `maker_and_breaker_of_worldly_bonds` | maker and breaker of worldly bonds | 1 | hindu |
 | `malefic_projectile_magic_through_windows` | Malefic projectile magic through windows | 1 | native_american_southwest |
@@ -53877,7 +53877,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `nocturnal_witch_flight` | Nocturnal witch flight | 1 | african_bantu |
 | `nocturnal_witch_flight_and_assembly` | nocturnal witch flight and assembly | 1 | germanic |
 | `noisy_or_troubling_being_sent_to_a_remote_mountain` | Noisy or troubling being sent to a remote mountain | 1 | native_american_plateau |
-| `noisy_play_disrupting_seal_hunting` | noisy play disrupting seal hunting | 1 | arctic-inuit |
+| `noisy_play_disrupting_seal_hunting` | noisy play disrupting seal hunting | 1 | arctic_inuit |
 | `noisy_rescue_of_eclipsed_light` | Noisy rescue of eclipsed light | 1 | norse |
 | `noisy_sunset_into_the_sea` | Noisy sunset into the sea | 1 | germanic |
 | `non_clinging_renunciant_compared_to_water_on_lotus` | Non-clinging renunciant compared to water on lotus | 1 | buddhist |
@@ -54004,7 +54004,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `origin_under_the_earth` | origin under the earth | 1 | native_american_plains |
 | `original_creation_by_a_supreme_creator` | Original creation by a supreme creator | 1 | zoroastrian |
 | `ornithomancy_by_species_direction_cry_flight_posture_and_action` | Ornithomancy by species, direction, cry, flight, posture, and action | 1 | greek |
-| `orphan_sustains_a_starving_community` | orphan sustains a starving community | 1 | arctic-inuit |
+| `orphan_sustains_a_starving_community` | orphan sustains a starving community | 1 | arctic_inuit |
 | `osiris_as_water_deity_or_identified_with_water` | Osiris as water deity or identified with water | 1 | egyptian |
 | `osiris_s_shrine_or_house_marked_by_water_fire_and_uraei` | Osiris's shrine or house marked by water, fire, and uraei | 1 | egyptian |
 | `other_world_outposts_in_ordinary_geography` | Other World outposts in ordinary geography | 1 | celtic |
@@ -54679,7 +54679,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `rescue_attempt_under_arrow_fire` | rescue attempt under arrow-fire | 1 | hindu |
 | `rescue_by_delaying_the_captor_with_a_leaky_water_vessel` | rescue by delaying the captor with a leaky water vessel | 1 | zulu |
 | `rescue_by_greater_sea_creature` | Rescue by greater sea-creature | 1 | oceanic |
-| `rescue_by_sealing_the_wounded_body_in_watertight_skins` | Rescue by sealing the wounded body in watertight skins | 1 | arctic-inuit |
+| `rescue_by_sealing_the_wounded_body_in_watertight_skins` | Rescue by sealing the wounded body in watertight skins | 1 | arctic_inuit |
 | `rescue_described_as_light_replacing_darkness` | rescue described as light replacing darkness | 1 | georgian |
 | `rescue_from_elemental_peril` | rescue from elemental peril | 1 | buddhist |
 | `rescue_from_forest_fire` | rescue from forest fire | 1 | hindu |
@@ -54905,7 +54905,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sea_being_recognized_by_bodily_signs` | Sea-being recognized by bodily signs | 1 | celtic |
 | `sea_being_reported_as_killer` | sea-being reported as killer | 1 | germanic |
 | `sea_born_horned_monster_causes_fatal_chariot_catastrophe` | sea-born horned monster causes fatal chariot catastrophe | 1 | roman |
-| `sea_born_restless_hunter_identity` | sea-born restless hunter identity | 1 | arctic-inuit |
+| `sea_born_restless_hunter_identity` | sea-born restless hunter identity | 1 | arctic_inuit |
 | `sea_borne_embassy_with_visible_peace_sign` | Sea-borne embassy with visible peace sign | 1 | celtic |
 | `sea_borne_island_migrants_entering_the_mainland` | sea-borne island migrants entering the mainland | 1 | guiana_amerindian |
 | `sea_borne_martial_expedition_against_raiders` | sea-borne martial expedition against raiders | 1 | norse |
@@ -54989,7 +54989,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `search_for_the_absent_rescuer` | search for the absent rescuer | 1 | caucasian |
 | `search_for_the_missing_explorer_s_last_route` | Search for the missing explorer’s last route | 1 | amazonian |
 | `search_for_three_people_as_foolish_as_one_s_own_household` | search for three people as foolish as one's own household | 1 | celtic |
-| `search_for_unknown_northern_people` | search for unknown northern people | 1 | arctic-inuit |
+| `search_for_unknown_northern_people` | search for unknown northern people | 1 | arctic_inuit |
 | `search_for_water_brings_encounter_with_guide_and_infant` | Search for water brings encounter with guide and infant | 1 | greek |
 | `search_or_inquiry_for_the_means_to_obtain_humankind` | search or inquiry for the means to obtain humankind | 1 | oceanic |
 | `search_through_repeated_failed_water_sources` | search through repeated failed water sources | 1 | zulu |
@@ -55073,7 +55073,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `seven_sun_desiccation_sequence` | seven-sun desiccation sequence | 1 | buddhist |
 | `seven_trees_as_target_of_heroic_test` | seven trees as target of heroic test | 1 | hindu |
 | `sevenfold_creation_and_dissolution` | sevenfold creation and dissolution | 1 | hindu |
-| `severed_head_cast_into_the_sea` | Severed head cast into the sea | 1 | arctic-inuit |
+| `severed_head_cast_into_the_sea` | Severed head cast into the sea | 1 | arctic_inuit |
 | `severed_head_transported_without_touching_earth` | severed head transported without touching earth | 1 | hindu |
 | `severed_heads_displayed_on_a_prepared_tree` | severed heads displayed on a prepared tree | 1 | celtic |
 | `severed_heads_displayed_on_a_tree_or_pole_after_combat` | severed heads displayed on a tree or pole after combat | 1 | celtic |
@@ -55240,7 +55240,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `solar_reading_of_the_western_infinite_light_buddha` | solar reading of the western Infinite Light Buddha | 1 | tibetan_buddhist |
 | `solid_sky_represented_as_a_roof_like_heaven` | solid sky represented as a roof-like heaven | 1 | bavili |
 | `solid_sky_vault_rising_and_falling` | Solid sky vault rising and falling | 1 | native_american_northwest_coast |
-| `solitary_famine_hunt_to_a_mountain_threshold` | solitary famine hunt to a mountain threshold | 1 | arctic-inuit |
+| `solitary_famine_hunt_to_a_mountain_threshold` | solitary famine hunt to a mountain threshold | 1 | arctic_inuit |
 | `solitary_woman_speaks_under_propriety_constraint` | Solitary woman speaks under propriety constraint | 1 | hindu |
 | `solomon_s_ring_and_seal` | Solomon's ring and seal | 1 | roman |
 | `soma_draughts_delight_indra` | Soma draughts delight Indra | 1 | hindu |
@@ -55381,7 +55381,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `storm_beings_release_rain` | storm beings release rain | 1 | hindu |
 | `storm_beings_release_waters_over_dry_places` | Storm beings release waters over dry places | 1 | hindu |
 | `storm_bound_endurance_and_immobility` | Storm-bound endurance and immobility | 1 | siberian |
-| `storm_bound_refuge_in_a_mountain_cave` | Storm-bound refuge in a mountain cave | 1 | arctic-inuit |
+| `storm_bound_refuge_in_a_mountain_cave` | Storm-bound refuge in a mountain cave | 1 | arctic_inuit |
 | `storm_challenge_involving_white_owl` | storm challenge involving White-Owl | 1 | native_american_plains |
 | `storm_chariot_pursuit_of_locked_clouds` | Storm chariot pursuit of locked clouds | 1 | hindu |
 | `storm_chariot_wheels_as_cloud_cutting_weapons` | storm chariot wheels as cloud-cutting weapons | 1 | hindu |
@@ -55422,7 +55422,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `storm_host_shakes_the_cosmos_and_mountains` | Storm host shakes the cosmos and mountains | 1 | hindu |
 | `storm_host_with_thunder_and_lightning` | storm host with thunder and lightning | 1 | hindu |
 | `storm_instrument_that_brings_or_precedes_rain` | storm instrument that brings or precedes rain | 1 | hindu |
-| `storm_interrupts_planned_communal_expedition` | Storm interrupts planned communal expedition | 1 | arctic-inuit |
+| `storm_interrupts_planned_communal_expedition` | Storm interrupts planned communal expedition | 1 | arctic_inuit |
 | `storm_light_connected_with_morning_and_sunrise` | storm light connected with morning and sunrise | 1 | hindu |
 | `storm_like_archer_whose_arrows_fall_like_rain` | storm-like archer whose arrows fall like rain | 1 | hindu |
 | `storm_like_arrow_assault` | storm-like arrow assault | 1 | hindu |
@@ -55875,7 +55875,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `tree_associated_fertility_observance` | Tree-associated fertility observance | 1 | hindu |
 | `tree_associated_fertility_practice` | Tree-associated fertility practice | 1 | bavili |
 | `tree_associated_with_witches` | tree associated with witches | 1 | ekoi |
-| `tree_associated_woman_as_spouse` | Tree-associated woman as spouse | 1 | native-american-southwest |
+| `tree_associated_woman_as_spouse` | Tree-associated woman as spouse | 1 | native_american_southwest |
 | `tree_bark_textile_production_and_exchange` | Tree-bark textile production and exchange | 1 | african_bantu |
 | `tree_bark_used_as_cloth_like_garment_material` | Tree bark used as cloth-like garment material | 1 | guiana_amerindian |
 | `tree_bean_food_and_beer_preparation_for_feast` | Tree-bean food and beer preparation for feast | 1 | chaco_amerindian |
@@ -56103,7 +56103,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `victory_constrained_by_mercy_or_restraint` | victory constrained by mercy or restraint | 1 | hindu |
 | `victory_giving_battle_woman_with_storm_imagery` | victory-giving battle woman with storm imagery | 1 | germanic |
 | `violation_of_a_dangerous_water_warning` | Violation of a dangerous-water warning | 1 | guiana_amerindian |
-| `violation_of_a_warning_at_a_forbidden_tree` | Violation of a warning at a forbidden tree | 1 | native-american-southwest |
+| `violation_of_a_warning_at_a_forbidden_tree` | Violation of a warning at a forbidden tree | 1 | native_american_southwest |
 | `violation_of_warrior_restraints` | violation of warrior restraints | 1 | hindu |
 | `violent_execution_on_tree_or_stake` | violent execution on tree or stake | 1 | persian |
 | `virtue_as_abode_robe_and_seat_for_preaching` | Virtue as abode, robe, and seat for preaching | 1 | buddhist |
@@ -56119,7 +56119,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `volcanic_fire_as_erotic_rage` | volcanic fire as erotic rage | 1 | roman |
 | `volcanic_mountain_as_awe_inspiring_landscape` | volcanic mountain as awe-inspiring landscape | 1 | malagasy |
 | `votive_no_flight_bravery` | votive no-flight bravery | 1 | native_american_plains |
-| `wagered_race_around_the_earth` | wagered race around the earth | 1 | native-american-southwest |
+| `wagered_race_around_the_earth` | wagered race around the earth | 1 | native_american_southwest |
 | `walpurgis_night_witch_dance_on_a_mountain` | Walpurgis-night witch dance on a mountain | 1 | germanic |
 | `waning_moon_as_time_of_severance_drying_and_dissolution` | Waning moon as time of severance, drying, and dissolution | 1 | germanic |
 | `war_against_an_otherworld_dwelling_for_restitution` | war against an otherworld dwelling for restitution | 1 | celtic |
@@ -56246,7 +56246,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `water_concealment_and_nymph_identity` | Water concealment and nymph identity | 1 | roman |
 | `water_conditioned_habitation_and_cultivation` | Water-conditioned habitation and cultivation | 1 | african_bantu |
 | `water_confluence_as_marital_assimilation` | water-confluence as marital assimilation | 1 | hindu |
-| `water_conjured_into_a_dry_lake_before_monster_emergence` | water conjured into a dry lake before monster emergence | 1 | arctic-inuit |
+| `water_conjured_into_a_dry_lake_before_monster_emergence` | water conjured into a dry lake before monster emergence | 1 | arctic_inuit |
 | `water_contact_image_for_loss_of_martial_efficacy` | Water-contact image for loss of martial efficacy | 1 | hindu |
 | `water_control_public_works_bring_abundance` | Water-control public works bring abundance | 1 | shinto |
 | `water_cooling_anger_through_loving_meditation` | water cooling anger through loving meditation | 1 | buddhist |
@@ -56553,7 +56553,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `winning_light_from_darkness` | winning light from darkness | 1 | hindu |
 | `winter_ice_fishing_with_wind_shelter` | winter ice fishing with wind shelter | 1 | arctic_inuit |
 | `winter_refuge_under_trees` | winter refuge under trees | 1 | native_american_northeast_woodlands |
-| `winter_storm_separation_during_a_hunt` | winter storm separation during a hunt | 1 | arctic-inuit |
+| `winter_storm_separation_during_a_hunt` | winter storm separation during a hunt | 1 | arctic_inuit |
 | `wish_fulfilling_northern_otherworld_of_freedom` | wish-fulfilling northern otherworld of freedom | 1 | hindu |
 | `wish_fulfilling_trees_as_houses_and_providers` | Wish-fulfilling trees as houses and providers | 1 | hindu |
 | `wish_giving_tree` | wish-giving tree | 1 | germanic |
@@ -56641,7 +56641,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `world_destruction_by_ahriman` | world destruction by Ahriman | 1 | roman |
 | `world_devastating_champion` | World-devastating champion | 1 | hindu |
 | `world_directional_use_of_a_conquering_weapon` | World-directional use of a conquering weapon | 1 | slavic |
-| `world_edge_contest_course` | world-edge contest course | 1 | native-american-southwest |
+| `world_edge_contest_course` | world-edge contest course | 1 | native_american_southwest |
 | `world_edge_darkness_beyond_the_sun` | World-edge darkness beyond the sun | 1 | hindu |
 | `world_encircling_boundary_water` | world-encircling boundary water | 1 | hindu |
 | `world_encompassing_hyperbolic_body_part` | world-encompassing hyperbolic body part | 1 | buddhist |
@@ -56841,7 +56841,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ambivalent_fairy_or_dwarf_appearance` | ambivalent fairy or dwarf appearance | 1 | germanic |
 | `ambivalent_honesty_and_theft_toward_traders` | Ambivalent honesty and theft toward traders | 1 | arctic_inuit |
 | `ambivalent_knife_as_instrument_of_healing_and_punishable_wounding` | ambivalent knife as instrument of healing and punishable wounding | 1 | zoroastrian |
-| `ambush_after_hospitality_and_contest` | Ambush after hospitality and contest | 1 | arctic-inuit |
+| `ambush_after_hospitality_and_contest` | Ambush after hospitality and contest | 1 | arctic_inuit |
 | `ambush_against_an_avenging_enemy_force` | ambush against an avenging enemy force | 1 | guiana_amerindian |
 | `ambush_defeated_by_enemy_detour` | ambush defeated by enemy detour | 1 | native_american_southeast |
 | `ambush_followed_by_one_sided_victory` | ambush followed by one-sided victory | 1 | native_american_northwest_coast |
@@ -57315,7 +57315,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cannibal_feast_demanded_as_revenge` | cannibal feast demanded as revenge | 1 | native_american_plains |
 | `cannibal_giant_captures_young_heroes` | cannibal giant captures young heroes | 1 | buryat_mongol |
 | `cannibal_giant_or_captive_eating_enemy` | Cannibal giant or captive-eating enemy | 1 | celtic |
-| `cannibal_host_murders_sleeping_guests_with_a_body_weapon` | cannibal host murders sleeping guests with a body weapon | 1 | arctic-inuit |
+| `cannibal_host_murders_sleeping_guests_with_a_body_weapon` | cannibal host murders sleeping guests with a body weapon | 1 | arctic_inuit |
 | `cannibal_monster_as_feared_outsider` | Cannibal monster as feared outsider | 1 | native_american_northeast_woodlands |
 | `cannibal_or_monster_killed_with_hot_stones` | Cannibal or monster killed with hot stones | 1 | oceanic |
 | `cannibal_or_monster_threat_to_a_community` | Cannibal or monster threat to a community | 1 | oceanic |
@@ -57544,7 +57544,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `coerced_testimony_through_custodial_torture` | Coerced testimony through custodial torture | 1 | ganda |
 | `coercive_ordeals_followed_by_promised_marital_reform` | Coercive ordeals followed by promised marital reform | 1 | native_american_plains |
 | `cold_beings_huddling_for_warmth` | Cold beings huddling for warmth | 1 | australian_aboriginal |
-| `cold_weather_camp_sustained_by_fat_and_lamp_warmth` | Cold-weather camp sustained by fat and lamp warmth | 1 | arctic-inuit |
+| `cold_weather_camp_sustained_by_fat_and_lamp_warmth` | Cold-weather camp sustained by fat and lamp warmth | 1 | arctic_inuit |
 | `collapse_of_formal_weapon_combat_into_bare_armed_melee` | collapse of formal weapon combat into bare-armed melee | 1 | hindu |
 | `collective_beginnings_of_civilization_without_a_single_culture_hero` | Collective beginnings of civilization without a single culture hero | 1 | roman |
 | `collective_compensation_in_place_of_blood_revenge` | Collective compensation in place of blood-revenge | 1 | siberian |
@@ -57745,8 +57745,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `contest_with_a_strong_local_challenger` | Contest with a strong local challenger | 1 | inuit |
 | `contest_with_dangerous_host_reversed_against_him` | contest with dangerous host reversed against him | 1 | siberian |
 | `contest_won_by_evading_capture_or_touch` | Contest won by evading capture or touch | 1 | hopi |
-| `contest_won_by_superior_magical_or_extraordinary_hair_reach` | contest won by superior magical or extraordinary hair reach | 1 | native-american-southwest |
-| `contest_won_through_helper_agents_and_obstruction_of_rivals` | Contest won through helper agents and obstruction of rivals | 1 | native-american-southwest |
+| `contest_won_by_superior_magical_or_extraordinary_hair_reach` | contest won by superior magical or extraordinary hair reach | 1 | native_american_southwest |
+| `contest_won_through_helper_agents_and_obstruction_of_rivals` | Contest won through helper agents and obstruction of rivals | 1 | native_american_southwest |
 | `contested_acquisition_of_a_prestigious_post` | contested acquisition of a prestigious post | 1 | native_american_northwest_coast |
 | `contested_agreement_made_by_unauthorized_minority` | contested agreement made by unauthorized minority | 1 | native_american_southeast |
 | `contested_apostolic_lineage_for_a_textual_collection` | contested apostolic lineage for a textual collection | 1 | gnostic |
@@ -58382,7 +58382,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `erotic_affliction_by_kama_s_weapons` | erotic affliction by Kama's weapons | 1 | hindu |
 | `escalating_celestial_weapons_neutralized_by_counterparts` | escalating celestial weapons neutralized by counterparts | 1 | hindu |
 | `escalating_combat_through_discarded_weapons_and_improvised_arms` | escalating combat through discarded weapons and improvised arms | 1 | hindu |
-| `escalating_contest_sequence_with_wagers` | Escalating contest sequence with wagers | 1 | native-american-southwest |
+| `escalating_contest_sequence_with_wagers` | Escalating contest sequence with wagers | 1 | native_american_southwest |
 | `escalating_contest_with_threatened_bodily_forfeit` | Escalating contest with threatened bodily forfeit | 1 | celtic |
 | `escalating_magical_and_martial_battle` | escalating magical and martial battle | 1 | hindu |
 | `escalating_reward_demand_consumes_livestock` | escalating reward demand consumes livestock | 1 | celtic |
@@ -58754,7 +58754,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `foundation_of_a_major_centre_by_a_female_warrior_figure` | foundation of a major centre by a female warrior figure | 1 | celtic_irish |
 | `four_direction_battle_formation` | four-direction battle formation | 1 | native_american_southwest |
 | `four_direction_encirclement_toward_a_center` | four-direction encirclement toward a center | 1 | native_american_southwest |
-| `four_direction_ordeal_sequence` | four-direction ordeal sequence | 1 | native-american-southwest |
+| `four_direction_ordeal_sequence` | four-direction ordeal sequence | 1 | native_american_southwest |
 | `four_direction_testing_fixes_celestial_courses` | Four-direction testing fixes celestial courses | 1 | native_american_southwest |
 | `four_heroic_virtues` | Four heroic virtues | 1 | celtic |
 | `fourfold_circumambulation_or_approach_before_violence` | fourfold circumambulation or approach before violence | 1 | native_american_southwest |
@@ -58763,10 +58763,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fourfold_ordeal_pattern` | Fourfold ordeal pattern | 1 | native_american_plains |
 | `fourfold_progression_in_ordeal_and_rescue` | fourfold progression in ordeal and rescue | 1 | native_american_plains |
 | `fourfold_repeated_thwarted_attack` | Fourfold repeated thwarted attack | 1 | native_american_plains |
-| `fourfold_repetition_in_contest_sequence` | fourfold repetition in contest sequence | 1 | native-american-southwest |
+| `fourfold_repetition_in_contest_sequence` | fourfold repetition in contest sequence | 1 | native_american_southwest |
 | `fourfold_strengthening_before_spreading_war_news` | Fourfold strengthening before spreading war news | 1 | native_american_southwest |
 | `fourfold_strengthening_toward_old_age` | fourfold strengthening toward old age | 1 | native_american_plains |
-| `fourfold_testing_before_decisive_removal` | fourfold testing before decisive removal | 1 | native-american-southwest |
+| `fourfold_testing_before_decisive_removal` | fourfold testing before decisive removal | 1 | native_american_southwest |
 | `fourfold_trial_and_four_day_completion_pattern` | fourfold trial and four-day completion pattern | 1 | native_american_southwest |
 | `fourfold_trial_and_repetition_pattern` | fourfold trial and repetition pattern | 1 | native_american_plains |
 | `fourfold_warning_formula` | fourfold warning formula | 1 | native_american_plains |
@@ -58783,7 +58783,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `friend_tested_before_crisis` | Friend tested before crisis | 1 | greek |
 | `friendly_outsider_or_enemy_side_helper` | friendly outsider or enemy-side helper | 1 | persian |
 | `frightened_prince_offers_rich_gifts_to_avoid_battle` | frightened prince offers rich gifts to avoid battle | 1 | hindu |
-| `frightening_prank_with_a_weapon_provokes_retaliation` | Frightening prank with a weapon provokes retaliation | 1 | arctic-inuit |
+| `frightening_prank_with_a_weapon_provokes_retaliation` | Frightening prank with a weapon provokes retaliation | 1 | arctic_inuit |
 | `front_line_proxy_enables_hero_s_defeat_of_invulnerable_elder` | front-line proxy enables hero’s defeat of invulnerable elder | 1 | hindu |
 | `frontier_violence_memorialized_as_grounds_for_war` | frontier violence memorialized as grounds for war | 1 | native_american_southeast |
 | `frustrated_labor_toward_a_promised_home` | Frustrated labor toward a promised home | 1 | native_american_plains |
@@ -58805,7 +58805,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `gambling_contest_with_captivity_as_the_stake` | gambling contest with captivity as the stake | 1 | hopi |
 | `gambling_contest_with_escalating_stakes` | Gambling contest with escalating stakes | 1 | native_american_plains |
 | `gambling_contest_with_hidden_bones_and_bodily_consequences` | Gambling contest with hidden bones and bodily consequences | 1 | native_american_plateau |
-| `gambling_contest_with_human_stakes` | gambling contest with human stakes | 1 | native-american-southwest |
+| `gambling_contest_with_human_stakes` | gambling contest with human stakes | 1 | native_american_southwest |
 | `gambling_continues_despite_communal_war_alarm` | Gambling continues despite communal war alarm | 1 | native_american_plains |
 | `gambling_or_board_game_contest_in_a_supernatural_context` | gambling or board-game contest in a supernatural context | 1 | egyptian |
 | `gambling_replaces_combat` | Gambling replaces combat | 1 | native_american_plains |
@@ -59502,7 +59502,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `high_lookout_identifies_an_approaching_warrior` | High lookout identifies an approaching warrior | 1 | celtic |
 | `hill_stronghold_resists_enemy_armies` | hill stronghold resists enemy armies | 1 | african_bantu |
 | `hooked_throwing_weapon_catches_a_defensive_implement` | Hooked throwing weapon catches a defensive implement | 1 | australian_aboriginal |
-| `hooked_weapon_worsens_as_victim_flees` | Hooked weapon worsens as victim flees | 1 | arctic-inuit |
+| `hooked_weapon_worsens_as_victim_flees` | Hooked weapon worsens as victim flees | 1 | arctic_inuit |
 | `hoped_for_champion_turns_from_battle` | hoped-for champion turns from battle | 1 | hindu |
 | `horned_subterranean_or_subaquatic_monster_beings` | horned subterranean or subaquatic monster beings | 1 | native_american_southwest |
 | `hospitality_and_erotic_favor_used_to_encourage_combat` | hospitality and erotic favor used to encourage combat | 1 | celtic_irish |
@@ -59678,7 +59678,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `institutional_validation_by_inquiry_attestation_public_proof_and_lots` | institutional validation by inquiry, attestation, public proof, and lots | 1 | tibetan_buddhist |
 | `insufficient_martial_maturity_reduces_heroic_rank` | insufficient martial maturity reduces heroic rank | 1 | hindu |
 | `insult_as_deliberate_provocation_to_combat` | insult as deliberate provocation to combat | 1 | melanesian |
-| `intended_revenge_abandoned_after_public_confrontation` | intended revenge abandoned after public confrontation | 1 | arctic-inuit |
+| `intended_revenge_abandoned_after_public_confrontation` | intended revenge abandoned after public confrontation | 1 | arctic_inuit |
 | `inter_clan_insult_contest` | inter-clan insult contest | 1 | african_bantu |
 | `inter_village_public_racing_contests` | Inter-village public racing contests | 1 | native_american_southwest |
 | `intercepted_warning_messenger` | intercepted warning messenger | 1 | norse |
@@ -59847,7 +59847,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `legendary_accretion_around_a_central_heroic_figure` | Legendary accretion around a central heroic figure | 1 | celtic |
 | `legendary_hero_as_emblem_of_a_people` | legendary hero as emblem of a people | 1 | persian |
 | `legendary_hero_exploits_localized_in_many_landscapes` | Legendary hero exploits localized in many landscapes | 1 | celtic |
-| `legendary_hero_s_dwelling_localized_in_a_ruin` | Legendary hero's dwelling localized in a ruin | 1 | arctic-inuit |
+| `legendary_hero_s_dwelling_localized_in_a_ruin` | Legendary hero's dwelling localized in a ruin | 1 | arctic_inuit |
 | `lethal_cliff_wrestling_ordeal` | lethal cliff wrestling ordeal | 1 | native_american_plateau |
 | `lethal_contest_proposed_by_a_companion` | lethal contest proposed by a companion | 1 | native_american_plains |
 | `lethal_contest_using_a_prepared_execution_device` | lethal contest using a prepared execution device | 1 | arctic_inuit |
@@ -59877,7 +59877,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `living_weapon_that_speaks_and_devours_enemies` | living weapon that speaks and devours enemies | 1 | native_american_northwest_coast |
 | `local_calendar_preserves_events_of_greatest_community_relevance` | local calendar preserves events of greatest community relevance | 1 | native_american_southwest |
 | `local_heroic_site_reframed_through_buddhist_figures` | local heroic site reframed through Buddhist figures | 1 | tibetan_buddhist |
-| `local_hunter_framed_as_epic_hero` | local hunter framed as epic hero | 1 | arctic-inuit |
+| `local_hunter_framed_as_epic_hero` | local hunter framed as epic hero | 1 | arctic_inuit |
 | `local_informant_redirects_raiders_toward_a_greater_enemy` | local informant redirects raiders toward a greater enemy | 1 | norse |
 | `localized_fighting_pole_weapon_tradition` | localized fighting-pole weapon tradition | 1 | aboriginal_australian |
 | `lone_fast_runner_survives_enemy_ambush` | lone fast runner survives enemy ambush | 1 | native_american_northeast_woodlands |
@@ -60222,7 +60222,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `monster_pursuit_ends_when_the_pursuer_fails_a_leap` | monster pursuit ends when the pursuer fails a leap | 1 | native_american_northeast_woodlands |
 | `monster_resistant_to_ordinary_projectile_attack` | Monster resistant to ordinary projectile attack | 1 | basque |
 | `monster_s_body_as_container_of_victims` | Monster’s body as container of victims | 1 | xhosa |
-| `monster_s_dangerous_appendage_broken_by_evasion` | monster’s dangerous appendage broken by evasion | 1 | arctic-inuit |
+| `monster_s_dangerous_appendage_broken_by_evasion` | monster’s dangerous appendage broken by evasion | 1 | arctic_inuit |
 | `monster_s_female_relative_helps_the_hero` | Monster's female relative helps the hero | 1 | germanic |
 | `monster_s_heart_placed_in_celestial_custody` | Monster's heart placed in celestial custody | 1 | native_american_southwest |
 | `monster_s_hidden_or_internal_heart_as_vulnerable_point` | Monster’s hidden or internal heart as vulnerable point | 1 | hopi |
@@ -61419,10 +61419,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sequential_reinforcement_of_the_battle_line` | Sequential reinforcement of the battle line | 1 | african_bantu |
 | `sequential_single_combats_in_battlefield_narration` | sequential single combats in battlefield narration | 1 | hindu |
 | `series_of_trials_proving_a_patriarch` | series of trials proving a patriarch | 1 | jewish_pseudepigrapha |
-| `series_of_wagered_contests_for_people` | series of wagered contests for people | 1 | native-american-southwest |
+| `series_of_wagered_contests_for_people` | series of wagered contests for people | 1 | native_american_southwest |
 | `servant_helper_defeats_exposure_tests` | Servant helper defeats exposure tests | 1 | germanic |
 | `service_house_dispersal_and_contested_control` | service-house dispersal and contested control | 1 | shinto |
-| `service_rewarded_with_possessions` | service rewarded with possessions | 1 | arctic-inuit |
+| `service_rewarded_with_possessions` | service rewarded with possessions | 1 | arctic_inuit |
 | `seven_survivors_after_catastrophic_battle` | seven survivors after catastrophic battle | 1 | celtic |
 | `sevenfold_army_command_before_battle` | Sevenfold army command before battle | 1 | hindu |
 | `severed_body_part_as_proof_of_victory` | severed body part as proof of victory | 1 | hausa |
@@ -61622,7 +61622,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `skull_cup_use_from_enemy_head` | Skull-cup use from enemy head | 1 | african_bantu |
 | `skull_cups_and_blood_drink_in_revenge_setting` | skull cups and blood drink in revenge setting | 1 | norse |
 | `skull_of_a_kinsman_gives_warning_and_aid` | Skull of a kinsman gives warning and aid | 1 | native_american_northeast_woodlands |
-| `skunk_fluid_as_lethal_weapon` | skunk fluid as lethal weapon | 1 | native-american-southwest |
+| `skunk_fluid_as_lethal_weapon` | skunk fluid as lethal weapon | 1 | native_american_southwest |
 | `slain_battle_associated_sister` | slain battle-associated sister | 1 | norse |
 | `slain_brother_parallel_across_heroic_traditions` | slain brother parallel across heroic traditions | 1 | norse |
 | `slain_charioteer_causes_withdrawal_of_the_war_car` | slain charioteer causes withdrawal of the war-car | 1 | hindu |
@@ -62766,9 +62766,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `weapon_placed_in_field_before_fatal_strike` | weapon placed in field before fatal strike | 1 | norse |
 | `weapon_placed_in_infant_s_hand_to_confer_bravery` | weapon placed in infant's hand to confer bravery | 1 | germanic |
 | `weapon_point_marked_with_totem_signs` | weapon point marked with totem signs | 1 | arctic_inuit |
-| `weapon_preparation_as_public_sign_of_intended_killing` | weapon preparation as public sign of intended killing | 1 | arctic-inuit |
+| `weapon_preparation_as_public_sign_of_intended_killing` | weapon preparation as public sign of intended killing | 1 | arctic_inuit |
 | `weapon_preparation_before_concealed_danger` | weapon preparation before concealed danger | 1 | chaco_amerindian |
-| `weapon_preparation_with_bodily_cost` | weapon preparation with bodily cost | 1 | arctic-inuit |
+| `weapon_preparation_with_bodily_cost` | weapon preparation with bodily cost | 1 | arctic_inuit |
 | `weapon_price_measured_by_a_pile_of_furs` | weapon price measured by a pile of furs | 1 | native_american_northwest_coast |
 | `weapon_proof_attackers_countered_by_stones` | weapon-proof attackers countered by stones | 1 | norse |
 | `weapon_proof_or_hard_to_pierce_champion` | weapon-proof or hard-to-pierce champion | 1 | hindu |
@@ -62811,7 +62811,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `weeping_appeal_toward_heaven_in_the_fields` | Weeping appeal toward Heaven in the fields | 1 | confucian |
 | `welcoming_dance_and_weapon_display_by_host_group` | welcoming dance and weapon display by host group | 1 | australian_aboriginal |
 | `westward_diffusion_of_deity_traditions` | westward diffusion of deity traditions | 1 | germanic |
-| `westward_migration_for_baptism_and_absorption` | Westward migration for baptism and absorption | 1 | arctic-inuit |
+| `westward_migration_for_baptism_and_absorption` | Westward migration for baptism and absorption | 1 | arctic_inuit |
 | `westward_pursuit_by_tracks_and_deceptive_doubling` | westward pursuit by tracks and deceptive doubling | 1 | native_american_northeast_woodlands |
 | `wet_feet_test_before_status_reversal` | Wet-feet test before status reversal | 1 | zulu |
 | `winged_victory_figure_with_carried_emblems` | winged victory figure with carried emblems | 1 | greek_roman |
@@ -62907,7 +62907,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `wounded_petitioners_interrupting_a_royal_feast` | Wounded petitioners interrupting a royal feast | 1 | slavic |
 | `wounded_pursuer_and_enclosed_fleeing_foe` | wounded pursuer and enclosed fleeing foe | 1 | roman |
 | `wounded_royal_fugitive_concealed_and_healed_after_battle` | wounded royal fugitive concealed and healed after battle | 1 | norse |
-| `wounded_victim_left_alive_and_killed_by_another_out_of_compassion` | wounded victim left alive and killed by another out of compassion | 1 | arctic-inuit |
+| `wounded_victim_left_alive_and_killed_by_another_out_of_compassion` | wounded victim left alive and killed by another out of compassion | 1 | arctic_inuit |
 | `wounded_warrior_dies_through_premature_martial_practice` | wounded warrior dies through premature martial practice | 1 | native_american_northwest_coast |
 | `wounded_warrior_draws_rescuers_into_battle` | Wounded warrior draws rescuers into battle | 1 | hindu |
 | `wounded_warrior_made_resplendent_in_battle` | Wounded warrior made resplendent in battle | 1 | hindu |
@@ -63173,7 +63173,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `blood_marked_bridal_transition` | blood-marked bridal transition | 1 | shan |
 | `blood_mixed_witch_cake_used_to_restore_sleeping_household` | blood-mixed witch cake used to restore sleeping household | 1 | celtic |
 | `blood_stained_garments_used_to_incite_vengeance` | blood-stained garments used to incite vengeance | 1 | norse |
-| `blood_trail_endangering_fugitives` | blood trail endangering fugitives | 1 | arctic-inuit |
+| `blood_trail_endangering_fugitives` | blood trail endangering fugitives | 1 | arctic_inuit |
 | `boast_brings_a_dangerous_challenge` | Boast brings a dangerous challenge | 1 | native_american_northeast_woodlands |
 | `boastful_devouring_threat_using_eclipse_imagery` | boastful devouring threat using eclipse imagery | 1 | hindu |
 | `boat_or_vessel_imagery` | boat or vessel imagery | 1 | hindu |
@@ -63363,8 +63363,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cave_gathering_of_old_and_young_false_faces` | Cave gathering of old and young False Faces | 1 | native_american_northeast_woodlands |
 | `cave_hermitage_as_the_origin_stage_of_a_monastery` | cave hermitage as the origin stage of a monastery | 1 | tibetan_buddhist |
 | `cave_hermitage_beside_ruined_fortress` | cave hermitage beside ruined fortress | 1 | tibetan_buddhist |
-| `cave_like_dwelling_imagined_as_supernatural` | cave-like dwelling imagined as supernatural | 1 | arctic-inuit |
-| `cave_like_refuge_at_the_threshold_of_winter` | Cave-like refuge at the threshold of winter | 1 | arctic-inuit |
+| `cave_like_dwelling_imagined_as_supernatural` | cave-like dwelling imagined as supernatural | 1 | arctic_inuit |
+| `cave_like_refuge_at_the_threshold_of_winter` | Cave-like refuge at the threshold of winter | 1 | arctic_inuit |
 | `cave_located_episodes` | Cave-located episodes | 1 | celtic_irish |
 | `cave_or_ground_linked_ethnonym_pattern` | cave or ground-linked ethnonym pattern | 1 | native_american_southeast |
 | `cave_or_hidden_place_as_early_religious_gathering_site` | cave or hidden place as early religious gathering site | 1 | greek |
@@ -63375,7 +63375,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cave_refuge_with_concealed_inhabitant` | cave refuge with concealed inhabitant | 1 | zulu |
 | `cave_refuge_with_guarded_sleep` | cave refuge with guarded sleep | 1 | celtic |
 | `cave_retreat_as_resting_place_in_the_wild` | cave retreat as resting place in the wild | 1 | hindu |
-| `cave_shelter_against_hostile_weather` | Cave shelter against hostile weather | 1 | arctic-inuit |
+| `cave_shelter_against_hostile_weather` | Cave shelter against hostile weather | 1 | arctic_inuit |
 | `cave_side_forest_refuge` | cave-side forest refuge | 1 | hindu |
 | `cave_threshold_encounter_with_a_monstrous_female` | Cave-threshold encounter with a monstrous female | 1 | hindu |
 | `cave_titled_episodes` | cave-titled episodes | 1 | celtic |
@@ -63486,7 +63486,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `collaborative_decorated_covering_through_sketched_design_and_color_application` | collaborative decorated covering through sketched design and color application | 1 | native_american_plains |
 | `collapse_of_a_protective_boundary` | Collapse of a protective boundary | 1 | confucian |
 | `collective_ceremonial_ring_dance` | collective ceremonial ring dance | 1 | native_american_southwest |
-| `collective_ecstatic_imitation_in_religious_gatherings` | Collective ecstatic imitation in religious gatherings | 1 | arctic-inuit |
+| `collective_ecstatic_imitation_in_religious_gatherings` | Collective ecstatic imitation in religious gatherings | 1 | arctic_inuit |
 | `collective_establishment_of_dwellings_and_households` | collective establishment of dwellings and households | 1 | hindu |
 | `collective_male_housebuilding_labor` | Collective male housebuilding labor | 1 | native_american_southwest |
 | `collector_gathering_cultural_remnants` | collector gathering cultural remnants | 1 | celtic |
@@ -63693,7 +63693,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dangerous_substance_confined_in_a_house_may_spread_to_future_people` | Dangerous substance confined in a house may spread to future people | 1 | native_american_plateau |
 | `dangerous_substance_contained_by_protective_vessel` | Dangerous substance contained by protective vessel | 1 | guiana_amerindian |
 | `dangerous_supernatural_consort_admitted_into_royal_household` | Dangerous supernatural consort admitted into royal household | 1 | buddhist |
-| `dangerous_teeth_neutralized_during_sexual_encounter` | dangerous teeth neutralized during sexual encounter | 1 | native-american-southwest |
+| `dangerous_teeth_neutralized_during_sexual_encounter` | dangerous teeth neutralized during sexual encounter | 1 | native_american_southwest |
 | `dangerous_threshold_to_an_enclosed_island` | dangerous threshold to an enclosed island | 1 | micronesian |
 | `dangerous_timed_gathering_of_hidden_fern_seed` | dangerous timed gathering of hidden fern-seed | 1 | germanic |
 | `dangerous_visit_to_a_guarded_house` | dangerous visit to a guarded house | 1 | arctic_inuit |
@@ -63726,7 +63726,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `decoy_garment_runs_away_from_pursuers` | Decoy garment runs away from pursuers | 1 | xhosa |
 | `decoy_left_in_the_captive_s_place_during_escape` | Decoy left in the captive's place during escape | 1 | native_american_plains |
 | `deeds_bearing_fruit_as_moral_consequence` | deeds bearing fruit as moral consequence | 1 | hindu |
-| `deer_house_with_skins_horns_fawns_and_springs` | Deer house with skins, horns, fawns, and springs | 1 | native-american-southwest |
+| `deer_house_with_skins_horns_fawns_and_springs` | Deer house with skins, horns, fawns, and springs | 1 | native_american_southwest |
 | `defeat_explains_tribal_scattering_and_loss_of_village` | defeat explains tribal scattering and loss of village | 1 | native_american_northwest_coast |
 | `defeated_antagonist_transformed_into_a_stone_marker` | Defeated antagonist transformed into a stone marker | 1 | native_american_northeast_woodlands |
 | `defeated_being_s_body_becomes_household_implements` | defeated being’s body becomes household implements | 1 | siberian |
@@ -63772,7 +63772,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dependent_elder_abandonment_or_killing_during_camp_movement` | dependent elder abandonment or killing during camp movement | 1 | native_american_southwest |
 | `depopulated_settlement_marked_by_material_traces_of_famine` | depopulated settlement marked by material traces of famine | 1 | arctic_inuit |
 | `descendant_dispersal_as_origin_of_neighboring_peoples` | descendant dispersal as origin of neighboring peoples | 1 | melanesian |
-| `deserted_settlement_marked_by_fresh_tracks` | deserted settlement marked by fresh tracks | 1 | arctic-inuit |
+| `deserted_settlement_marked_by_fresh_tracks` | deserted settlement marked by fresh tracks | 1 | arctic_inuit |
 | `desperate_commander_appeals_to_exceptional_ally_during_rout` | desperate commander appeals to exceptional ally during rout | 1 | hindu |
 | `destined_coffin_fits_only_its_fated_occupant` | Destined coffin fits only its fated occupant | 1 | slavic |
 | `destruction_and_scattering_of_enemies_bodies_and_wrappings` | Destruction and scattering of enemies' bodies and wrappings | 1 | egyptian |
@@ -63888,7 +63888,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `elapsed_four_month_interval_marks_delayed_action` | Elapsed four-month interval marks delayed action | 1 | hindu |
 | `elder_or_marked_figure_with_tool_removes_illness` | Elder or marked figure with tool removes illness | 1 | finnic |
 | `elder_self_destruction_by_burning_the_house` | Elder self-destruction by burning the house | 1 | native_american_southwest |
-| `elder_woman_manages_household_hunting_proceeds` | elder woman manages household hunting proceeds | 1 | arctic-inuit |
+| `elder_woman_manages_household_hunting_proceeds` | elder woman manages household hunting proceeds | 1 | arctic_inuit |
 | `elevated_house_as_local_innovation_and_regional_style` | elevated house as local innovation and regional style | 1 | guiana_amerindian |
 | `elevated_lookout_for_an_approaching_vessel` | elevated lookout for an approaching vessel | 1 | egyptian |
 | `elevated_lookout_for_whales_and_vessels` | elevated lookout for whales and vessels | 1 | arctic_inuit |
@@ -64007,7 +64007,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `failed_prohibition_at_a_frontier_boundary` | failed prohibition at a frontier boundary | 1 | native_american_plains |
 | `failed_recognition_by_secret_bodily_mark` | failed recognition by secret bodily mark | 1 | buddhist |
 | `failed_refuge_at_a_kin_elder_s_threshold` | Failed refuge at a kin elder's threshold | 1 | xhosa |
-| `failed_rescue_by_wing_bridge` | failed rescue by wing bridge | 1 | arctic-inuit |
+| `failed_rescue_by_wing_bridge` | failed rescue by wing bridge | 1 | arctic_inuit |
 | `failed_shamanic_recovery_from_an_impregnable_supernatural_house` | failed shamanic recovery from an impregnable supernatural house | 1 | siberian |
 | `fairies_steal_household_or_dairy_goods` | Fairies steal household or dairy goods | 1 | celtic |
 | `fairy_beings_marked_by_nonhuman_body_traits` | Fairy beings marked by nonhuman body traits | 1 | celtic |
@@ -64435,7 +64435,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `imitation_of_neighboring_skin_dressing_method` | imitation of neighboring skin-dressing method | 1 | arctic_inuit |
 | `immortal_principle_entering_the_body` | Immortal principle entering the body | 1 | hindu |
 | `immortalizing_drink_from_a_consecrated_vessel` | Immortalizing drink from a consecrated vessel | 1 | tibetan_buddhist |
-| `impatience_or_fussiness_causes_a_permanent_mark` | impatience or fussiness causes a permanent mark | 1 | arctic-inuit |
+| `impatience_or_fussiness_causes_a_permanent_mark` | impatience or fussiness causes a permanent mark | 1 | arctic_inuit |
 | `impatient_unveiling_of_a_powerful_or_dangerous_object` | impatient unveiling of a powerful or dangerous object | 1 | fijian |
 | `imperial_frontier_as_boundary_between_native_and_foreign_companions` | Imperial frontier as boundary between native and foreign companions | 1 | egyptian |
 | `imperiled_land_requiring_royal_intervention` | imperiled land requiring royal intervention | 1 | mesopotamian |
@@ -64527,7 +64527,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `itinerant_exorcist_curing_the_possessed` | Itinerant exorcist curing the possessed | 1 | african_bantu |
 | `itinerant_slave_trader_marked_by_chains_and_foreign_religious_practices` | itinerant slave-trader marked by chains and foreign religious practices | 1 | african_bantu |
 | `jealous_burning_of_household_goods_and_account_books` | Jealous burning of household goods and account books | 1 | roman |
-| `jealous_co_wives_causing_household_catastrophe` | jealous co-wives causing household catastrophe | 1 | arctic-inuit |
+| `jealous_co_wives_causing_household_catastrophe` | jealous co-wives causing household catastrophe | 1 | arctic_inuit |
 | `jealous_or_hostile_household_sabotage_of_a_benefactor_visitor` | jealous or hostile household sabotage of a benefactor visitor | 1 | hausa |
 | `jealousy_of_a_prosperous_royal_woman_in_a_rival_household` | jealousy of a prosperous royal woman in a rival household | 1 | hindu |
 | `jewel_filled_supernatural_palace_realm` | Jewel-filled supernatural palace realm | 1 | buddhist |
@@ -64630,7 +64630,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `loss_of_heart_as_incapacitating_suffering` | Loss of heart as incapacitating suffering | 1 | georgian |
 | `loss_of_household_protector_as_collapsed_shelter_and_settlement` | loss of household protector as collapsed shelter and settlement | 1 | malagasy |
 | `loss_of_household_rank_for_withholding_food` | loss of household rank for withholding food | 1 | zulu |
-| `loss_of_livelihood_through_overpowering_drowsiness` | loss of livelihood through overpowering drowsiness | 1 | arctic-inuit |
+| `loss_of_livelihood_through_overpowering_drowsiness` | loss of livelihood through overpowering drowsiness | 1 | arctic_inuit |
 | `loss_of_original_protective_covering_after_forbidden_eating` | loss of original protective covering after forbidden eating | 1 | finnic |
 | `loss_of_primordial_protective_body_covering` | Loss of primordial protective body covering | 1 | finnic |
 | `loss_of_shadow_as_mark_of_magical_attainment` | Loss of shadow as mark of magical attainment | 1 | germanic |
@@ -64898,7 +64898,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `natural_rock_and_cave_as_shrine_of_a_deity` | Natural rock and cave as shrine of a deity | 1 | african_akan |
 | `necessity_overriding_food_abstinence_during_famine` | Necessity overriding food abstinence during famine | 1 | zulu |
 | `neglected_boundary_watch_after_a_tryst` | neglected boundary watch after a tryst | 1 | celtic_irish |
-| `neglected_orphan_surviving_at_the_edge_of_the_household` | neglected orphan surviving at the edge of the household | 1 | arctic-inuit |
+| `neglected_orphan_surviving_at_the_edge_of_the_household` | neglected orphan surviving at the edge of the household | 1 | arctic_inuit |
 | `neighbor_boundary_restriction` | neighbor-boundary restriction | 1 | mesopotamian |
 | `neighbor_influenced_vessel_design` | neighbor-influenced vessel design | 1 | arctic_inuit |
 | `neighboring_adoption_and_modification_of_hut_forms` | neighboring adoption and modification of hut forms | 1 | african_bantu |
@@ -65387,7 +65387,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `remote_dairy_theft_through_surrogate_objects` | Remote dairy theft through surrogate objects | 1 | germanic |
 | `remote_furnished_cave_as_captive_dwelling` | remote furnished cave as captive dwelling | 1 | zulu |
 | `remote_hearing_of_a_broken_promise` | Remote hearing of a broken promise | 1 | oceanic |
-| `remote_people_marked_by_distinctive_clothing_and_food` | remote people marked by distinctive clothing and food | 1 | arctic-inuit |
+| `remote_people_marked_by_distinctive_clothing_and_food` | remote people marked by distinctive clothing and food | 1 | arctic_inuit |
 | `removal_of_male_offspring_to_preserve_a_women_only_society` | Removal of male offspring to preserve a women-only society | 1 | ainu |
 | `removal_of_mourning_marks_releases_mourner_from_restrictions` | Removal of mourning marks releases mourner from restrictions | 1 | melanesian |
 | `removal_of_suffering_through_quenching_and_drying_images` | Removal of suffering through quenching and drying images | 1 | buddhist |
@@ -65438,7 +65438,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `restricted_specialists_aboard_a_trading_vessel` | restricted specialists aboard a trading vessel | 1 | melanesian |
 | `restriction_on_giving_household_staples_from_a_lying_in_house` | restriction on giving household staples from a lying-in house | 1 | germanic |
 | `retained_household_remainder_prevents_misfortune` | Retained household remainder prevents misfortune | 1 | germanic |
-| `retaliating_kin_attack_the_offender_s_house` | retaliating kin attack the offender’s house | 1 | arctic-inuit |
+| `retaliating_kin_attack_the_offender_s_house` | retaliating kin attack the offender’s house | 1 | arctic_inuit |
 | `retaliation_for_stolen_food_against_the_thief_s_household` | retaliation for stolen food against the thief's household | 1 | australian_aboriginal |
 | `retaliatory_household_humiliation` | retaliatory household humiliation | 1 | norse |
 | `retaliatory_sorcery_mirroring_the_first_harm` | Retaliatory sorcery mirroring the first harm | 1 | melanesian |
@@ -65571,7 +65571,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `sexual_boundary_violation_and_outcasting` | sexual boundary violation and outcasting | 1 | hindu |
 | `sexual_continence_ensuring_hunting_and_fishing_success` | Sexual continence ensuring hunting and fishing success | 1 | african_bantu |
 | `sexual_continence_protecting_garden_or_subsistence_success` | sexual continence protecting garden or subsistence success | 1 | melanesian |
-| `shadow_play_in_a_dark_abandoned_house` | shadow-play in a dark abandoned house | 1 | arctic-inuit |
+| `shadow_play_in_a_dark_abandoned_house` | shadow-play in a dark abandoned house | 1 | arctic_inuit |
 | `shamanic_healing_attempt_for_a_suffering_woman` | shamanic healing attempt for a suffering woman | 1 | siberian |
 | `shamanic_weather_conjuring_with_costume_cries_voices_and_lifting_gestures` | Shamanic weather conjuring with costume, cries, voices, and lifting gestures | 1 | arctic_inuit |
 | `shame_over_marked_appearance_leading_to_aquatic_withdrawal` | Shame over marked appearance leading to aquatic withdrawal | 1 | native_american_southwest |
@@ -65582,7 +65582,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `shared_tattoo_pattern_tradition_across_neighboring_groups` | Shared tattoo-pattern tradition across neighboring groups | 1 | melanesian |
 | `sharing_another_s_good_fortune_through_bodily_gesture` | sharing another's good fortune through bodily gesture | 1 | malagasy |
 | `shelter_as_survival_boundary` | shelter as survival boundary | 1 | arctic_inuit |
-| `shelter_in_a_cave_during_dangerous_weather` | shelter in a cave during dangerous weather | 1 | arctic-inuit |
+| `shelter_in_a_cave_during_dangerous_weather` | shelter in a cave during dangerous weather | 1 | arctic_inuit |
 | `sheltered_prince_protected_from_sights_of_suffering` | Sheltered prince protected from sights of suffering | 1 | buddhist |
 | `sheltering_host_repels_supernatural_pursuers` | sheltering host repels supernatural pursuers | 1 | native_american_northeast_woodlands |
 | `shoreline_fleet_protected_during_siege` | shoreline fleet protected during siege | 1 | micronesian |
@@ -65710,7 +65710,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `submerged_palace_revealed_by_a_wonder_worker` | submerged palace revealed by a wonder-worker | 1 | buddhist |
 | `submission_and_tribute_to_the_royal_center` | Submission and tribute to the royal center | 1 | shinto |
 | `subsistence_by_gathering_hunting_and_fishing` | subsistence by gathering, hunting, and fishing | 1 | chaco_amerindian |
-| `subsistence_centered_practical_life` | subsistence-centered practical life | 1 | arctic-inuit |
+| `subsistence_centered_practical_life` | subsistence-centered practical life | 1 | arctic_inuit |
 | `substitute_body_or_effigy_made_from_bark` | substitute body or effigy made from bark | 1 | native_american_northeast_woodlands |
 | `substitute_commander_bearing_the_absent_chief_s_identity` | Substitute commander bearing the absent chief's identity | 1 | ganda |
 | `substitute_helper_in_bridal_chamber` | substitute helper in bridal chamber | 1 | slavic |
@@ -65770,7 +65770,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `surveillance_of_liminal_and_public_gathering_places` | surveillance of liminal and public gathering places | 1 | hindu |
 | `survival_at_the_moving_ice_boundary` | survival at the moving ice boundary | 1 | arctic_inuit |
 | `survival_by_eating_the_devouring_creature_from_within` | survival by eating the devouring creature from within | 1 | zulu |
-| `survival_cannibalism_within_kin_and_household` | Survival cannibalism within kin and household | 1 | arctic-inuit |
+| `survival_cannibalism_within_kin_and_household` | Survival cannibalism within kin and household | 1 | arctic_inuit |
 | `surviving_and_disappearing_oral_traditional_material` | surviving and disappearing oral-traditional material | 1 | celtic |
 | `suspended_clay_vessel_over_lamp` | suspended clay vessel over lamp | 1 | arctic_inuit |
 | `suspended_vessel_with_opposing_holes` | suspended vessel with opposing holes | 1 | finnic |
@@ -65861,7 +65861,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `threshold_mouth_of_night_and_day` | Threshold mouth of Night and Day | 1 | germanic |
 | `threshold_object_at_wedding` | threshold object at wedding | 1 | germanic |
 | `threshold_objects_treated_as_signs_of_hostile_magic` | Threshold objects treated as signs of hostile magic | 1 | native_american_southwest |
-| `threshold_obstacle_during_escape` | threshold obstacle during escape | 1 | arctic-inuit |
+| `threshold_obstacle_during_escape` | threshold obstacle during escape | 1 | arctic_inuit |
 | `threshold_of_critical_inquiry` | threshold of critical inquiry | 1 | gnostic |
 | `threshold_recitation_of_holiness_and_moral_renunciation` | threshold recitation of holiness and moral renunciation | 1 | zoroastrian |
 | `threshold_reluctance_and_compensated_entry` | Threshold reluctance and compensated entry | 1 | african_bantu |
@@ -66000,7 +66000,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `vessels_transformed_into_landscape_stones` | Vessels transformed into landscape stones | 1 | arctic_inuit |
 | `vibrato_as_marker_of_musical_skill` | Vibrato as marker of musical skill | 1 | native_american_great_lakes |
 | `victim_as_prey_entering_a_trap` | victim as prey entering a trap | 1 | greek |
-| `victims_faces_displayed_as_house_pictures` | Victims' faces displayed as house pictures | 1 | arctic-inuit |
+| `victims_faces_displayed_as_house_pictures` | Victims' faces displayed as house pictures | 1 | arctic_inuit |
 | `victor_removes_palace_prestige_objects_and_captives` | victor removes palace prestige objects and captives | 1 | shinto |
 | `victor_takes_possession_of_defeated_cannibal_s_house` | victor takes possession of defeated cannibal's house | 1 | zulu |
 | `vigilance_and_communal_sharing` | Vigilance and communal sharing | 1 | buddhist |
@@ -66134,7 +66134,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `abstinence_from_dangerous_resembling_things` | abstinence from dangerous resembling things | 1 | zulu |
 | `accusing_the_opposite_vice` | Accusing the opposite vice | 1 | greek |
 | `acquisition_of_dangerous_or_powerful_objects_from_defeated_beings` | acquisition of dangerous or powerful objects from defeated beings | 1 | native_american_plains |
-| `adopted_nonhuman_creature_becomes_dangerous` | adopted nonhuman creature becomes dangerous | 1 | arctic-inuit |
+| `adopted_nonhuman_creature_becomes_dangerous` | adopted nonhuman creature becomes dangerous | 1 | arctic_inuit |
 | `affection_revealed_by_anger_at_criticism` | affection revealed by anger at criticism | 1 | hindu |
 | `affinal_funerary_service_by_lubai` | affinal funerary service by lubai | 1 | melanesian |
 | `affinal_service_as_marital_obligation` | Affinal service as marital obligation | 1 | native_american_plains |
@@ -66354,7 +66354,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `collective_service_maintaining_royal_approaches` | Collective service maintaining royal approaches | 1 | bavili |
 | `colony_founded_in_fear_of_sorcerers` | colony founded in fear of sorcerers | 1 | melanesian |
 | `comic_braggart_soldier_mocked_for_self_display` | Comic braggart soldier mocked for self-display | 1 | greek |
-| `comic_dance_that_conceals_lethal_danger` | comic dance that conceals lethal danger | 1 | arctic-inuit |
+| `comic_dance_that_conceals_lethal_danger` | comic dance that conceals lethal danger | 1 | arctic_inuit |
 | `comic_exposure_followed_by_self_deprecating_acceptance` | comic exposure followed by self-deprecating acceptance | 1 | greek |
 | `commander_reserves_a_chosen_adversary_for_himself` | commander reserves a chosen adversary for himself | 1 | hindu |
 | `communal_encirclement_hunt_of_a_dangerous_predator` | communal encirclement hunt of a dangerous predator | 1 | ganda |
@@ -66363,7 +66363,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `communal_renunciation_of_private_property` | communal renunciation of private property | 1 | gnostic |
 | `community_burns_an_enclosed_dangerous_creature` | community burns an enclosed dangerous creature | 1 | germanic |
 | `community_containment_of_a_feared_devourer` | community containment of a feared devourer | 1 | arctic_inuit |
-| `community_flees_to_an_elevated_refuge_from_a_dangerous_being` | community flees to an elevated refuge from a dangerous being | 1 | arctic-inuit |
+| `community_flees_to_an_elevated_refuge_from_a_dangerous_being` | community flees to an elevated refuge from a dangerous being | 1 | arctic_inuit |
 | `community_killing_of_a_dangerous_food_thief` | community killing of a dangerous food thief | 1 | australian_aboriginal |
 | `community_promises_aid_but_retreats_in_fear` | Community promises aid but retreats in fear | 1 | native_american_plateau |
 | `community_sanctioned_killing_of_dangerous_kin` | community-sanctioned killing of dangerous kin | 1 | arctic_inuit |
@@ -66372,7 +66372,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `companion_performs_lower_status_service_for_the_suitor` | Companion performs lower-status service for the suitor | 1 | germanic |
 | `companions_use_a_watch_signal_to_escape_night_danger` | Companions use a watch signal to escape night danger | 1 | xhosa |
 | `compassionate_rescue_of_small_endangered_creatures` | Compassionate rescue of small endangered creatures | 1 | slavic |
-| `compelled_disarming_and_immobilizing_of_a_visitor_before_danger` | Compelled disarming and immobilizing of a visitor before danger | 1 | arctic-inuit |
+| `compelled_disarming_and_immobilizing_of_a_visitor_before_danger` | Compelled disarming and immobilizing of a visitor before danger | 1 | arctic_inuit |
 | `compensatory_service_in_place_of_killing` | Compensatory service in place of killing | 1 | norse |
 | `competitive_throwing_game_with_carried_winners` | competitive throwing game with carried winners | 1 | native_american_southwest |
 | `complacent_parasites_destroyed_by_hidden_danger` | Complacent parasites destroyed by hidden danger | 1 | taoist |
@@ -66462,7 +66462,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `danger_removed_when_blood_and_remains_are_consumed` | danger removed when blood and remains are consumed | 1 | hausa |
 | `dangerous_adlet_settlement_with_protective_chief` | Dangerous Adlet settlement with protective chief | 1 | arctic_inuit |
 | `dangerous_adversary_subdued_after_destructive_sound` | Dangerous adversary subdued after destructive sound | 1 | slavic |
-| `dangerous_anomalous_hosts_consume_a_visitor` | Dangerous anomalous hosts consume a visitor | 1 | arctic-inuit |
+| `dangerous_anomalous_hosts_consume_a_visitor` | Dangerous anomalous hosts consume a visitor | 1 | arctic_inuit |
 | `dangerous_approach_to_the_tiger` | Dangerous approach to the tiger | 1 | taoist |
 | `dangerous_aquatic_prey_handled_from_shore` | dangerous aquatic prey handled from shore | 1 | guiana_amerindian |
 | `dangerous_avian_presence_threatening_wrongdoers` | dangerous avian presence threatening wrongdoers | 1 | australian_aboriginal |
@@ -66492,7 +66492,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dangerous_dwelling_of_supernatural_weather_beings` | dangerous dwelling of supernatural weather beings | 1 | inuit |
 | `dangerous_eater_tantalized_with_withheld_food` | Dangerous eater tantalized with withheld food | 1 | zulu |
 | `dangerous_elder_protected_by_accumulated_powers` | Dangerous elder protected by accumulated powers | 1 | african_bantu |
-| `dangerous_entertaining_woman_as_repeated_killer` | dangerous entertaining woman as repeated killer | 1 | arctic-inuit |
+| `dangerous_entertaining_woman_as_repeated_killer` | dangerous entertaining woman as repeated killer | 1 | arctic_inuit |
 | `dangerous_errand_meant_to_eliminate_unwanted_youths` | Dangerous errand meant to eliminate unwanted youths | 1 | tongan |
 | `dangerous_excellence_of_an_allied_troop` | dangerous excellence of an allied troop | 1 | celtic_irish |
 | `dangerous_excess_in_eating_grease` | Dangerous excess in eating grease | 1 | native_american_northwest_coast |
@@ -66573,12 +66573,12 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dangerous_service_bargain_with_bodily_forfeit` | Dangerous service bargain with bodily forfeit | 1 | celtic |
 | `dangerous_severed_head_as_destructive_gift` | Dangerous severed head as destructive gift | 1 | greek |
 | `dangerous_sexual_encounter_with_a_toothed_woman` | dangerous sexual encounter with a toothed woman | 1 | siberian |
-| `dangerous_sharp_tongued_elder` | dangerous sharp-tongued elder | 1 | arctic-inuit |
+| `dangerous_sharp_tongued_elder` | dangerous sharp-tongued elder | 1 | arctic_inuit |
 | `dangerous_sight_of_supernatural_woman` | dangerous sight of supernatural woman | 1 | germanic |
 | `dangerous_sight_of_supernatural_women` | Dangerous sight of supernatural women | 1 | greek |
 | `dangerous_sleeper_whose_involuntary_strength_harms_others` | Dangerous sleeper whose involuntary strength harms others | 1 | celtic_irish |
 | `dangerous_sorceress_lures_a_man_away` | dangerous sorceress lures a man away | 1 | native_american_northeast_woodlands |
-| `dangerous_spouse_claiming_woman_with_toothed_genitals` | Dangerous spouse-claiming woman with toothed genitals | 1 | native-american-southwest |
+| `dangerous_spouse_claiming_woman_with_toothed_genitals` | Dangerous spouse-claiming woman with toothed genitals | 1 | native_american_southwest |
 | `dangerous_steel_from_improper_hardening_fluid` | Dangerous steel from improper hardening fluid | 1 | finnic |
 | `dangerous_stranger_received_as_guest_becomes_cannibal_killer` | Dangerous stranger received as guest becomes cannibal killer | 1 | zulu |
 | `dangerous_strangers_with_abnormal_bodily_feature` | dangerous strangers with abnormal bodily feature | 1 | arctic_inuit |
@@ -66764,7 +66764,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `feared_forest_apparition_threatening_the_lost` | feared forest apparition threatening the lost | 1 | chaco_amerindian |
 | `feared_frontier_or_avoided_land` | Feared frontier or avoided land | 1 | chaco_amerindian |
 | `feared_magic_practitioner_avoided_but_not_punished` | feared magic practitioner avoided but not punished | 1 | native_american_plains |
-| `feared_magician_obeyed_by_the_people` | feared magician obeyed by the people | 1 | arctic-inuit |
+| `feared_magician_obeyed_by_the_people` | feared magician obeyed by the people | 1 | arctic_inuit |
 | `feared_obstacle_revealed_as_shallow` | Feared obstacle revealed as shallow | 1 | buddhist |
 | `feared_pack_of_uncertain_forest_predators` | feared pack of uncertain forest predators | 1 | guiana_amerindian |
 | `feared_quarrelsome_man_ambushed_by_villagers` | Feared quarrelsome man ambushed by villagers | 1 | arctic_inuit |
@@ -66850,8 +66850,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `friend_saves_wealth_or_dwelling_from_danger` | friend saves wealth or dwelling from danger | 1 | buddhist |
 | `from_one_danger_into_another` | from one danger into another | 1 | greek |
 | `fullness_shown_by_humility_emptiness_by_pride` | Fullness shown by humility, emptiness by pride | 1 | greek |
-| `giant_sized_strangers_inferred_from_footprints` | giant-sized strangers inferred from footprints | 1 | arctic-inuit |
-| `giant_strangers_inferred_from_oversized_objects` | Giant strangers inferred from oversized objects | 1 | arctic-inuit |
+| `giant_sized_strangers_inferred_from_footprints` | giant-sized strangers inferred from footprints | 1 | arctic_inuit |
+| `giant_strangers_inferred_from_oversized_objects` | Giant strangers inferred from oversized objects | 1 | arctic_inuit |
 | `giants_fear_thor_or_thunder` | Giants fear Thor or thunder | 1 | germanic |
 | `gift_humility_and_reciprocal_magnification` | gift humility and reciprocal magnification | 1 | african_bantu |
 | `gleaning_ascetic_subsistence` | gleaning ascetic subsistence | 1 | hindu |
@@ -66899,7 +66899,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `heaven_derived_virtue_amid_threat` | Heaven-derived virtue amid threat | 1 | confucian |
 | `heavenly_or_above_given_ascetic_food` | Heavenly or above-given ascetic food | 1 | gnostic |
 | `heavenly_women_disrupting_ascetic_austerity` | Heavenly women disrupting ascetic austerity | 1 | hindu |
-| `helpful_guides_leading_strangers_to_a_settlement` | helpful guides leading strangers to a settlement | 1 | arctic-inuit |
+| `helpful_guides_leading_strangers_to_a_settlement` | helpful guides leading strangers to a settlement | 1 | arctic_inuit |
 | `helpful_woman_conceals_visitors_from_a_dangerous_giant` | Helpful woman conceals visitors from a dangerous giant | 1 | norse |
 | `helpless_young_bodhisatta_alone_before_mortal_danger` | Helpless young Bodhisatta alone before mortal danger | 1 | buddhist |
 | `hidden_danger_in_the_egg_burrow` | hidden danger in the egg burrow | 1 | guiana_amerindian |
@@ -67124,7 +67124,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `office_service_compensated_through_livestock_and_goods` | office service compensated through livestock and goods | 1 | ganda |
 | `omen_of_danger_perceived_at_a_distance` | omen of danger perceived at a distance | 1 | native_american_northeast_woodlands |
 | `ominous_bodily_signs_before_feared_disaster` | Ominous bodily signs before feared disaster | 1 | hindu |
-| `ominous_discovery_of_strangers_through_tracks` | ominous discovery of strangers through tracks | 1 | arctic-inuit |
+| `ominous_discovery_of_strangers_through_tracks` | ominous discovery of strangers through tracks | 1 | arctic_inuit |
 | `ominous_prodigies_before_danger` | Ominous prodigies before danger | 1 | taoist |
 | `ominous_supernatural_cries_misread_as_royal_danger` | ominous supernatural cries misread as royal danger | 1 | buddhist |
 | `one_handed_deity_and_endangered_hand` | One-handed deity and endangered hand | 1 | germanic |
@@ -67134,7 +67134,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `opportunistic_cannibalism_against_weak_visitors_or_strangers` | opportunistic cannibalism against weak visitors or strangers | 1 | melanesian |
 | `opportunistic_killing_of_vulnerable_strangers_creates_possible_feud` | opportunistic killing of vulnerable strangers creates possible feud | 1 | melanesian |
 | `optional_discipline_versus_compulsory_austerity` | optional discipline versus compulsory austerity | 1 | buddhist |
-| `orphan_exploited_among_strangers` | Orphan exploited among strangers | 1 | arctic-inuit |
+| `orphan_exploited_among_strangers` | Orphan exploited among strangers | 1 | arctic_inuit |
 | `outer_ascetic_object_reinterpreted_as_inner_certainty` | Outer ascetic object reinterpreted as inner certainty | 1 | hindu |
 | `outer_community_in_contact_with_inner_tradition` | Outer community in contact with inner tradition | 1 | gnostic |
 | `outsider_feared_as_cannibal_or_demonic_being` | outsider feared as cannibal or demonic being | 1 | micronesian |
@@ -67438,7 +67438,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `self_destructive_pursuit_of_fame` | self-destructive pursuit of fame | 1 | taoist |
 | `self_destructive_retaliation_against_a_tormentor` | self-destructive retaliation against a tormentor | 1 | greek |
 | `self_disclosed_method_for_disposing_of_a_hard_to_kill_figure` | Self-disclosed method for disposing of a hard-to-kill figure | 1 | native_american_plateau |
-| `self_drowning_to_avoid_anticipated_torture_for_sorcery` | Self-drowning to avoid anticipated torture for sorcery | 1 | arctic-inuit |
+| `self_drowning_to_avoid_anticipated_torture_for_sorcery` | Self-drowning to avoid anticipated torture for sorcery | 1 | arctic_inuit |
 | `self_effacing_creative_source` | self-effacing creative source | 1 | taoist |
 | `self_endangerment_or_possible_self_destruction_as_atonement` | self-endangerment or possible self-destruction as atonement | 1 | hindu |
 | `self_endangerment_through_refusal_to_act` | Self-endangerment through refusal to act | 1 | germanic |
@@ -67814,7 +67814,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `13_tone_ascent_pattern` | 13-tone ascent pattern | 1 | native_american_plains |
 | `abandoned_clothing_causes_belief_in_drowning` | Abandoned clothing causes belief in drowning | 1 | native_american_southwest |
 | `abandoned_elder_s_belongings_become_landforms` | Abandoned elder's belongings become landforms | 1 | guiana_amerindian |
-| `abandoned_evidence_of_withdrawn_hidden_people` | Abandoned evidence of withdrawn hidden people | 1 | arctic-inuit |
+| `abandoned_evidence_of_withdrawn_hidden_people` | Abandoned evidence of withdrawn hidden people | 1 | arctic_inuit |
 | `abandoned_figure_retaliates_against_former_abandoners` | Abandoned figure retaliates against former abandoners | 1 | native_american_plateau |
 | `abandoned_foundling_adopted_by_a_poor_widow` | Abandoned foundling adopted by a poor widow | 1 | oceanic |
 | `abandoned_incapacitated_leader_awaiting_delayed_relief` | abandoned incapacitated leader awaiting delayed relief | 1 | amazonian |
@@ -67937,7 +67937,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `accusation_triggered_kin_vengeance_against_an_outsider` | accusation-triggered kin vengeance against an outsider | 1 | norse |
 | `accusatory_or_knowing_contact_with_a_supernatural_helper` | Accusatory or knowing contact with a supernatural helper | 1 | xhosa |
 | `accused_loyal_servant_seeks_vindication` | accused loyal servant seeks vindication | 1 | shinto |
-| `accused_witch_or_sorceress_killed_by_drowning` | Accused witch or sorceress killed by drowning | 1 | arctic-inuit |
+| `accused_witch_or_sorceress_killed_by_drowning` | Accused witch or sorceress killed by drowning | 1 | arctic_inuit |
 | `accused_wives_disappear_and_are_compensated_through_blood_payment` | Accused wives disappear and are compensated through blood payment | 1 | native_american_northwest_coast |
 | `acephalous_or_displaced_face_beings` | Acephalous or displaced-face beings | 1 | guiana_amerindian |
 | `acknowledgment_confers_inheritance_status` | Acknowledgment confers inheritance status | 1 | mesopotamian |
@@ -68258,7 +68258,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `amulet_and_fetish_objects` | amulet and fetish objects | 1 | arctic_inuit |
 | `amulet_as_medicinal_remedy` | amulet as medicinal remedy | 1 | ganda |
 | `amulet_grants_supernatural_hunting_speed` | amulet grants supernatural hunting speed | 1 | native_american_southwest |
-| `amulet_source_must_avoid_human_killing` | Amulet source must avoid human killing | 1 | arctic-inuit |
+| `amulet_source_must_avoid_human_killing` | Amulet source must avoid human killing | 1 | arctic_inuit |
 | `amuletic_binding_on_the_body` | amuletic binding on the body | 1 | germanic |
 | `amuletic_protection_against_a_malign_gaze` | amuletic protection against a malign gaze | 1 | greek |
 | `amulets_and_talismans_classified_by_function` | Amulets and talismans classified by function | 1 | african_bantu |
@@ -69078,7 +69078,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `blazing_or_terrible_manifestation` | blazing or terrible manifestation | 1 | hindu |
 | `blazing_theophany_difficult_to_behold` | blazing theophany difficult to behold | 1 | hindu |
 | `bleak_lodging_before_significant_sleep` | bleak lodging before significant sleep | 1 | celtic |
-| `bleeding_landscape_image` | Bleeding landscape image | 1 | arctic-inuit |
+| `bleeding_landscape_image` | Bleeding landscape image | 1 | arctic_inuit |
 | `bleeding_stopped_by_damming_binding_drying_and_hardening` | Bleeding stopped by damming, binding, drying, and hardening | 1 | finnic |
 | `blemish_free_ideal_enclosure` | blemish-free ideal enclosure | 1 | zoroastrian |
 | `blended_cosmogonic_variants` | Blended cosmogonic variants | 1 | oceanic |
@@ -69102,7 +69102,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `blinded_persecutors_become_supplicants_to_their_victim` | Blinded persecutors become supplicants to their victim | 1 | hindu |
 | `blinded_scout_demoralizes_an_army` | Blinded scout demoralizes an army | 1 | hausa |
 | `blindfolded_seeker_must_catch_a_specific_target` | Blindfolded seeker must catch a specific target | 1 | andamanese |
-| `blindfolded_transport_with_prohibition` | Blindfolded transport with prohibition | 1 | native-american-southwest |
+| `blindfolded_transport_with_prohibition` | Blindfolded transport with prohibition | 1 | native_american_southwest |
 | `blinding_a_sleeping_giant_with_a_heated_implement` | blinding a sleeping giant with a heated implement | 1 | basque |
 | `blinding_as_jealous_or_violent_control` | Blinding as jealous or violent control | 1 | buddhist |
 | `blinding_of_one_eyed_giant_with_heated_spit` | blinding of one-eyed giant with heated spit | 1 | caucasian |
@@ -69202,7 +69202,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `boast_checked_by_a_superior_rival_s_presence` | Boast checked by a superior rival's presence | 1 | hindu |
 | `boast_concealing_humiliation` | boast concealing humiliation | 1 | native_american_plains |
 | `boast_of_extraordinary_male_body_disproved_by_capture_and_inspection` | Boast of extraordinary male body disproved by capture and inspection | 1 | native_american_northeast_woodlands |
-| `boast_of_inexhaustible_strength` | Boast of inexhaustible strength | 1 | arctic-inuit |
+| `boast_of_inexhaustible_strength` | Boast of inexhaustible strength | 1 | arctic_inuit |
 | `boast_of_killing_many_at_one_blow_explained_by_flies` | Boast of killing many at one blow explained by flies | 1 | slavic |
 | `boast_of_magical_power_or_deeds` | boast of magical power or deeds | 1 | finnic |
 | `boast_of_overwhelming_army_and_devastation` | boast of overwhelming army and devastation | 1 | persian |
@@ -69564,7 +69564,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `butterfly_mistaken_attraction_to_flower_like_woman` | butterfly mistaken attraction to flower-like woman | 1 | japanese |
 | `cache_and_winter_store_preservation` | cache and winter-store preservation | 1 | arctic_inuit |
 | `caedmonian_four_measure_alliterative_long_line_pattern` | Caedmonian four-measure alliterative long-line pattern | 1 | norse |
-| `calamity_as_origin_of_subsequent_narrative` | calamity as origin of subsequent narrative | 1 | arctic-inuit |
+| `calamity_as_origin_of_subsequent_narrative` | calamity as origin of subsequent narrative | 1 | arctic_inuit |
 | `calamity_attributed_to_destiny` | Calamity attributed to Destiny | 1 | hindu |
 | `calamity_attributed_to_prior_failure_to_act` | calamity attributed to prior failure to act | 1 | hindu |
 | `calamity_foretold_by_a_little_man_fallen_from_heaven` | Calamity foretold by a little man fallen from heaven | 1 | african_bantu |
@@ -69600,7 +69600,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `campaign_against_the_white_divs` | Campaign against the white Divs | 1 | caucasian |
 | `campaign_through_difficult_natural_boundaries` | Campaign through difficult natural boundaries | 1 | mesopotamian |
 | `cannibal_antagonist_concealing_a_stolen_object_in_the_body` | Cannibal antagonist concealing a stolen object in the body | 1 | native_american_plains |
-| `cannibal_attack_interrupted_by_close_kin` | Cannibal attack interrupted by close kin | 1 | arctic-inuit |
+| `cannibal_attack_interrupted_by_close_kin` | Cannibal attack interrupted by close kin | 1 | arctic_inuit |
 | `cannibal_beings_hunt_and_eat_humans` | cannibal beings hunt and eat humans | 1 | zulu |
 | `cannibal_boasts_of_swallowing_humans_whole` | Cannibal boasts of swallowing humans whole | 1 | zulu |
 | `cannibal_captors_enslave_the_living_and_eat_the_killed` | Cannibal captors enslave the living and eat the killed | 1 | native_american_plains |
@@ -69624,7 +69624,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `cannibal_feast_staged_before_envoys` | Cannibal feast staged before envoys | 1 | zulu |
 | `cannibal_foreign_captors_who_fatten_and_cook_victims` | cannibal foreign captors who fatten and cook victims | 1 | african_bantu |
 | `cannibal_giant_hunts_remnant_survivors` | Cannibal giant hunts remnant survivors | 1 | fijian |
-| `cannibal_giant_or_man_eater_encounter` | cannibal giant or man-eater encounter | 1 | arctic-inuit |
+| `cannibal_giant_or_man_eater_encounter` | cannibal giant or man-eater encounter | 1 | arctic_inuit |
 | `cannibal_giant_or_monstrous_eater` | Cannibal giant or monstrous eater | 1 | greek |
 | `cannibal_host_becomes_the_feast` | Cannibal host becomes the feast | 1 | xhosa |
 | `cannibal_host_kills_a_sleeping_guest` | cannibal host kills a sleeping guest | 1 | native_american_northeast_woodlands |
@@ -69785,7 +69785,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `carrying_away_an_unspecified_object` | carrying away an unspecified object | 1 | native_american_great_lakes |
 | `carrying_away_followed_by_recapture` | carrying away followed by recapture | 1 | roman |
 | `carrying_off_and_dismemberment_of_knights` | Carrying-off and dismemberment of knights | 1 | arthurian |
-| `carrying_off_solitary_people_in_fog` | Carrying off solitary people in fog | 1 | arctic-inuit |
+| `carrying_off_solitary_people_in_fog` | Carrying off solitary people in fog | 1 | arctic_inuit |
 | `carved_anthropomorphic_and_zoomorphic_fishing_floats` | carved anthropomorphic and zoomorphic fishing floats | 1 | arctic_inuit |
 | `carved_funerary_memorials` | carved funerary memorials | 1 | malagasy |
 | `carved_upright_memorial_pillar` | carved upright memorial pillar | 1 | malagasy |
@@ -70534,7 +70534,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `coining_new_vocabulary_for_introduced_conditions` | Coining new vocabulary for introduced conditions | 1 | native_american_plains |
 | `cold_adapted_flexible_sled_construction` | Cold-adapted flexible sled construction | 1 | arctic_inuit |
 | `cold_immobilization_or_icicle_resemblance` | cold immobilization or icicle resemblance | 1 | celtic_irish |
-| `cold_landscape_transformed_by_heat_and_glare` | cold landscape transformed by heat and glare | 1 | arctic-inuit |
+| `cold_landscape_transformed_by_heat_and_glare` | cold landscape transformed by heat and glare | 1 | arctic_inuit |
 | `cold_weather_whitening_of_skin_material` | Cold-weather whitening of skin material | 1 | arctic_inuit |
 | `collapse_of_raiding_economy_after_abolition` | Collapse of raiding economy after abolition | 1 | guiana_amerindian |
 | `collapse_through_sequential_falls_plague_displacement_and_remnant_survival` | Collapse through sequential falls, plague, displacement, and remnant survival | 1 | native_american_southwest |
@@ -70668,7 +70668,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `common_measure_across_human_faculties` | common measure across human faculties | 1 | confucian |
 | `communal_abundance_consumed_without_satisfaction` | communal abundance consumed without satisfaction | 1 | hausa |
 | `communal_abundance_through_learned_technique` | communal abundance through learned technique | 1 | native_american_northwest_coast |
-| `communal_adventure_narration_after_labor` | communal adventure narration after labor | 1 | arctic-inuit |
+| `communal_adventure_narration_after_labor` | communal adventure narration after labor | 1 | arctic_inuit |
 | `communal_ambush_and_slaying_of_a_horned_quarry` | Communal ambush and slaying of a horned quarry | 1 | native_american_plateau |
 | `communal_amplification_of_gratitude` | communal amplification of gratitude | 1 | ganda |
 | `communal_assent_through_cry_and_ground_touching` | Communal assent through cry and ground-touching | 1 | native_american_plains |
@@ -70752,8 +70752,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `communal_oral_storytelling_performance` | communal oral-storytelling performance | 1 | temne |
 | `communal_passing_of_a_smoke_filled_pipe` | communal passing of a smoke-filled pipe | 1 | australian_aboriginal |
 | `communal_penitence_after_pollution_and_calamity` | Communal penitence after pollution and calamity | 1 | egyptian |
-| `communal_play_after_feasting` | Communal play after feasting | 1 | arctic-inuit |
-| `communal_possessions_decreed_by_charismatic_authorities` | communal possessions decreed by charismatic authorities | 1 | arctic-inuit |
+| `communal_play_after_feasting` | Communal play after feasting | 1 | arctic_inuit |
+| `communal_possessions_decreed_by_charismatic_authorities` | communal possessions decreed by charismatic authorities | 1 | arctic_inuit |
 | `communal_practical_fishing_for_food` | communal practical fishing for food | 1 | native_american_plains |
 | `communal_property_with_prescribed_hospitality` | communal property with prescribed hospitality | 1 | chaco_amerindian |
 | `communal_protector_invoked_against_collective_threats` | Communal protector invoked against collective threats | 1 | african_bantu |
@@ -70987,7 +70987,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `concealed_kin_slaying_ambush` | concealed kin-slaying ambush | 1 | egyptian |
 | `concealed_landing_before_approach_to_hostile_settlement` | concealed landing before approach to hostile settlement | 1 | siberian |
 | `concealed_meal_as_protective_enclosure` | Concealed meal as protective enclosure | 1 | comparative |
-| `concealed_murder_revealed_by_accusation` | concealed murder revealed by accusation | 1 | arctic-inuit |
+| `concealed_murder_revealed_by_accusation` | concealed murder revealed by accusation | 1 | arctic_inuit |
 | `concealed_nighttime_affinal_conversation` | Concealed nighttime affinal conversation | 1 | australian_aboriginal |
 | `concealed_object_guessing_game_with_counters` | concealed-object guessing game with counters | 1 | native_american_southwest |
 | `concealed_obstacle_ambush` | concealed obstacle ambush | 1 | guiana_amerindian |
@@ -71152,7 +71152,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `conflict_between_political_duty_and_obligation_to_a_teacher_lineage` | Conflict between political duty and obligation to a teacher-lineage | 1 | confucian |
 | `conflict_between_refuge_duty_and_predatory_hunger` | conflict between refuge-duty and predatory hunger | 1 | hindu |
 | `conflict_ended_by_authoritative_mediation` | Conflict ended by authoritative mediation | 1 | hindu |
-| `conflict_followed_by_domestic_reconciliation` | conflict followed by domestic reconciliation | 1 | arctic-inuit |
+| `conflict_followed_by_domestic_reconciliation` | conflict followed by domestic reconciliation | 1 | arctic_inuit |
 | `conflict_invasion_and_expedition_episodes` | conflict, invasion, and expedition episodes | 1 | persian |
 | `conflict_of_obligations` | Conflict of obligations | 1 | celtic |
 | `conflict_or_encounter_with_supernatural_or_special_beings` | conflict or encounter with supernatural or special beings | 1 | estonian |
@@ -71912,7 +71912,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `customary_depilation_and_body_hair_removal` | customary depilation and body-hair removal | 1 | amazonian |
 | `customary_distribution_of_hunted_game` | customary distribution of hunted game | 1 | native_american_plains |
 | `customary_greeting_formula_and_nose_rubbing_etiquette` | customary greeting formula and nose-rubbing etiquette | 1 | arctic_inuit |
-| `customary_hesitation_before_communal_dance` | Customary hesitation before communal dance | 1 | arctic-inuit |
+| `customary_hesitation_before_communal_dance` | Customary hesitation before communal dance | 1 | arctic_inuit |
 | `customary_killing_of_unproductive_elders` | customary killing of unproductive elders | 1 | fijian |
 | `customary_mourning_prompted_by_recollection_of_a_kin_performer` | customary mourning prompted by recollection of a kin performer | 1 | australian_aboriginal |
 | `customary_mouse_woman_encounter` | customary Mouse-woman encounter | 1 | native_american_northwest_coast |
@@ -72137,7 +72137,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `decline_from_primal_way_to_codified_propriety` | decline from primal way to codified propriety | 1 | taoist |
 | `decline_from_source_to_derivative_methods` | Decline from source to derivative methods | 1 | taoist |
 | `decline_of_an_older_bodily_fashion` | decline of an older bodily fashion | 1 | micronesian |
-| `decline_of_magic_arts_under_conditions_of_abundance` | decline of magic arts under conditions of abundance | 1 | arctic-inuit |
+| `decline_of_magic_arts_under_conditions_of_abundance` | decline of magic arts under conditions of abundance | 1 | arctic_inuit |
 | `decline_of_righteousness_across_ages` | Decline of righteousness across ages | 1 | hindu |
 | `decline_of_righteousness_through_successive_ages` | Decline of righteousness through successive ages | 1 | hindu |
 | `declining_lifespan_with_moral_corruption` | declining lifespan with moral corruption | 1 | jewish_pseudepigrapha |
@@ -72476,7 +72476,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `departed_falcon_as_focus_of_loss_and_pursuit` | Departed falcon as focus of loss and pursuit | 1 | armenian |
 | `departing_riders_divert_attention_from_the_target_building` | departing riders divert attention from the target building | 1 | norse |
 | `departing_woman_and_jealousy_crisis` | departing woman and jealousy crisis | 1 | celtic |
-| `dependence_on_others_successful_catch` | dependence on others’ successful catch | 1 | arctic-inuit |
+| `dependence_on_others_successful_catch` | dependence on others’ successful catch | 1 | arctic_inuit |
 | `dependence_under_paternal_rule_contrasted_with_independent_agency` | Dependence under paternal rule contrasted with independent agency | 1 | chaco_amerindian |
 | `dependent_arising_and_passing_away` | dependent arising and passing away | 1 | buddhist |
 | `dependent_causal_chain_of_embodied_existence` | Dependent causal chain of embodied existence | 1 | buddhist |
@@ -72531,7 +72531,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `destined_fragile_egg_of_fortune` | Destined fragile egg of fortune | 1 | estonian |
 | `destined_lineage_conflict_and_extermination` | Destined lineage conflict and extermination | 1 | hindu |
 | `destined_lot_and_limits_of_human_bliss` | Destined lot and limits of human bliss | 1 | greek |
-| `destined_survival_of_reckless_young_hunters` | destined survival of reckless young hunters | 1 | arctic-inuit |
+| `destined_survival_of_reckless_young_hunters` | destined survival of reckless young hunters | 1 | arctic_inuit |
 | `destiny_against_individual_exertion` | destiny against individual exertion | 1 | hindu |
 | `destiny_attached_to_impending_fall` | Destiny attached to impending fall | 1 | daoist |
 | `destiny_decided_by_a_balance` | Destiny decided by a balance | 1 | germanic |
@@ -72649,7 +72649,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `devil_as_successor_to_giants` | Devil as successor to giants | 1 | germanic |
 | `devil_associated_landscape_formations` | Devil-associated landscape formations | 1 | germanic |
 | `devil_confined_by_a_sack` | devil confined by a sack | 1 | germanic |
-| `devil_granted_magical_powers` | devil-granted magical powers | 1 | arctic-inuit |
+| `devil_granted_magical_powers` | devil-granted magical powers | 1 | arctic_inuit |
 | `devil_hidden_in_a_changeling` | devil hidden in a changeling | 1 | germanic |
 | `devil_preaching_from_a_stone` | Devil preaching from a stone | 1 | germanic |
 | `devil_provided_foodless_servants_revealed_as_plant_remains` | devil-provided foodless servants revealed as plant remains | 1 | estonian |
@@ -72774,7 +72774,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `directionally_bounded_hunt` | directionally bounded hunt | 1 | native_american_southwest |
 | `disabled_chariot_and_transfer_to_an_ally_s_car` | disabled chariot and transfer to an ally's car | 1 | hindu |
 | `disabled_companions_combine_complementary_abilities` | Disabled companions combine complementary abilities | 1 | hausa |
-| `disabled_watchman_as_village_news_bearer` | disabled watchman as village news-bearer | 1 | arctic-inuit |
+| `disabled_watchman_as_village_news_bearer` | disabled watchman as village news-bearer | 1 | arctic_inuit |
 | `disabling_affliction_as_lifesaving_intervention` | disabling affliction as lifesaving intervention | 1 | native_american_plains |
 | `disabling_the_opponent_s_chariot` | disabling the opponent’s chariot | 1 | hindu |
 | `disappearance_behind_a_hill_observed_but_not_recognized` | disappearance behind a hill observed but not recognized | 1 | zulu |
@@ -72834,10 +72834,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `dismembered_body_parts_become_landscape_features` | dismembered body parts become landscape features | 1 | native_american_plateau |
 | `dismembered_body_scattered_and_sought` | Dismembered body scattered and sought | 1 | hermetic |
 | `dismembered_carcass_parts_explain_tribal_qualities` | Dismembered carcass parts explain tribal qualities | 1 | native_american_plateau |
-| `dismemberment_and_disposal_of_a_murder_victim` | dismemberment and disposal of a murder victim | 1 | arctic-inuit |
+| `dismemberment_and_disposal_of_a_murder_victim` | dismemberment and disposal of a murder victim | 1 | arctic_inuit |
 | `dismemberment_as_loss_of_whole_entity_identification` | Dismemberment as loss of whole-entity identification | 1 | buddhist |
 | `dismemberment_by_maenads` | Dismemberment by Maenads | 1 | greek |
-| `dismemberment_of_a_killed_body` | Dismemberment of a killed body | 1 | arctic-inuit |
+| `dismemberment_of_a_killed_body` | Dismemberment of a killed body | 1 | arctic_inuit |
 | `dismemberment_of_yima` | Dismemberment of Yima | 1 | zoroastrian |
 | `dismemberment_preventing_future_existence` | dismemberment preventing future existence | 1 | egyptian |
 | `dismemberment_recovery_of_body_parts_and_first_embalming` | Dismemberment, recovery of body parts, and first embalming | 1 | egyptian |
@@ -72881,7 +72881,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `disputed_property_transfer_leading_to_feud` | disputed property transfer leading to feud | 1 | native_american_northwest_coast |
 | `disputed_tribute_and_royal_accusation` | Disputed tribute and royal accusation | 1 | norse |
 | `disruptive_hare_as_beginning_of_calamity_or_mystery` | disruptive hare as beginning of calamity or mystery | 1 | celtic |
-| `dissenting_witness_rejects_the_prophetic_assembly` | Dissenting witness rejects the prophetic assembly | 1 | arctic-inuit |
+| `dissenting_witness_rejects_the_prophetic_assembly` | Dissenting witness rejects the prophetic assembly | 1 | arctic_inuit |
 | `dissolution_of_created_categories` | dissolution of created categories | 1 | gnostic |
 | `dissolution_of_the_body_into_constituent_causes` | dissolution of the body into constituent causes | 1 | hindu |
 | `distance_known_through_an_intervening_medium` | Distance known through an intervening medium | 1 | roman |
@@ -73058,7 +73058,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `domestic_processing_and_storage_of_a_large_kill` | domestic processing and storage of a large kill | 1 | arctic_inuit |
 | `domestic_prosperity_embodied_in_protected_wives` | domestic prosperity embodied in protected wives | 1 | hindu |
 | `domestic_protective_charm` | Domestic protective charm | 1 | finnic |
-| `domestic_quarrel_triggered_by_an_unsharpened_tool` | domestic quarrel triggered by an unsharpened tool | 1 | arctic-inuit |
+| `domestic_quarrel_triggered_by_an_unsharpened_tool` | domestic quarrel triggered by an unsharpened tool | 1 | arctic_inuit |
 | `domestic_removal_of_harmful_parasite` | domestic removal of harmful parasite | 1 | amazonian |
 | `domestic_roof_as_hidden_storage_space` | domestic roof as hidden storage space | 1 | african_bantu |
 | `domestic_room_converted_to_fraternity_use` | domestic room converted to fraternity use | 1 | native_american_southwest |
@@ -73128,7 +73128,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `drought_famine_leading_to_dispersal` | Drought famine leading to dispersal | 1 | guiana_amerindian |
 | `drought_refuge_and_fish_subsistence` | Drought refuge and fish subsistence | 1 | melanesian |
 | `drowning_disappointment_in_drink` | drowning disappointment in drink | 1 | native_american_great_lakes |
-| `drowsy_bachelor_becomes_successful_hunter` | drowsy bachelor becomes successful hunter | 1 | arctic-inuit |
+| `drowsy_bachelor_becomes_successful_hunter` | drowsy bachelor becomes successful hunter | 1 | arctic_inuit |
 | `drugged_feast_creates_opportunity_for_secret_action` | drugged feast creates opportunity for secret action | 1 | celtic |
 | `drugged_hospitality_as_robbery_trap` | Drugged hospitality as robbery trap | 1 | buddhist |
 | `drugged_sleep_and_heated_object_murder_attempt` | Drugged sleep and heated-object murder attempt | 1 | fjort |
@@ -73193,7 +73193,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `eagle_target_on_a_tall_ceremonial_pole` | Eagle target on a tall ceremonial pole | 1 | native_american_northeast_woodlands |
 | `ear_and_nose_piercing_as_bodily_modification` | ear and nose piercing as bodily modification | 1 | san |
 | `ear_pull_causing_head_removal` | Ear-pull causing head removal | 1 | celtic |
-| `ear_side_monitor_reveals_hidden_events` | ear-side monitor reveals hidden events | 1 | native-american-southwest |
+| `ear_side_monitor_reveals_hidden_events` | ear-side monitor reveals hidden events | 1 | native_american_southwest |
 | `earlier_custom_later_prohibited_in_the_kali_age` | Earlier custom later prohibited in the Kali age | 1 | hindu |
 | `earlier_giant_race_displaced_by_later_people` | Earlier giant race displaced by later people | 1 | arctic_inuit |
 | `earlier_local_traditions_incorporated_into_a_later_religious_system` | Earlier local traditions incorporated into a later religious system | 1 | tibetan_buddhist |
@@ -73226,7 +73226,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ecstatic_champion_behavior_and_pain_insensitivity` | Ecstatic champion behavior and pain insensitivity | 1 | norse |
 | `ecstatic_communication_with_and_control_of_hostile_powers` | Ecstatic communication with and control of hostile powers | 1 | guiana_amerindian |
 | `ecstatic_dismemberment_involving_kin` | ecstatic dismemberment involving kin | 1 | roman |
-| `ecstatic_drum_performance_at_a_healing_crisis` | Ecstatic drum performance at a healing crisis | 1 | arctic-inuit |
+| `ecstatic_drum_performance_at_a_healing_crisis` | Ecstatic drum performance at a healing crisis | 1 | arctic_inuit |
 | `eddic_adversary_features_blended_into_antichrist_doctrine` | Eddic adversary features blended into Antichrist doctrine | 1 | germanic |
 | `edge_of_heaven_cloud_cosmology` | edge-of-heaven cloud cosmology | 1 | fjort |
 | `edible_abundance_landscape` | Edible abundance landscape | 1 | celtic |
@@ -73457,7 +73457,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `encounter_with_old_woman_in_wilderness_forest` | Encounter with old woman in wilderness forest | 1 | romanian |
 | `encounter_with_possibly_supernatural_people` | Encounter with possibly supernatural people | 1 | navajo |
 | `encounter_with_singing_masked_beings_at_a_shrine` | encounter with singing masked beings at a shrine | 1 | hopi |
-| `encounter_with_strange_and_hostile_peoples` | encounter with strange and hostile peoples | 1 | arctic-inuit |
+| `encounter_with_strange_and_hostile_peoples` | encounter with strange and hostile peoples | 1 | arctic_inuit |
 | `encounter_with_uncanny_blind_cannibal_like_tent_dweller` | Encounter with uncanny blind cannibal-like tent-dweller | 1 | native_american_plains |
 | `encountered_human_figure_as_bad_omen` | encountered human figure as bad omen | 1 | germanic |
 | `encroached_path_creates_forced_trespass` | Encroached path creates forced trespass | 1 | egyptian |
@@ -73526,7 +73526,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `environmental_agents_used_as_processors_of_material` | environmental agents used as processors of material | 1 | arctic_inuit |
 | `environmental_and_economic_disruption_affecting_craft_practice` | environmental and economic disruption affecting craft practice | 1 | native_american_southwest |
 | `environmental_anomaly_and_desiccation` | Environmental anomaly and desiccation | 1 | shinto |
-| `environmental_catastrophe_causing_famine` | Environmental catastrophe causing famine | 1 | arctic-inuit |
+| `environmental_catastrophe_causing_famine` | Environmental catastrophe causing famine | 1 | arctic_inuit |
 | `environmental_contamination_chain` | Environmental contamination chain | 1 | roman |
 | `environmental_localization_of_tale_details` | environmental localization of tale details | 1 | native_american_plateau |
 | `environmental_naming_of_peoples_and_places` | environmental naming of peoples and places | 1 | native_american_southwest |
@@ -73631,7 +73631,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `escape_enabled_by_bitter_flesh` | escape enabled by bitter flesh | 1 | zulu |
 | `escape_from_a_burning_structure_by_protective_objects` | escape from a burning structure by protective objects | 1 | confucian |
 | `escape_from_a_hostile_dwelling_through_supernatural_aid` | escape from a hostile dwelling through supernatural aid | 1 | arctic_inuit |
-| `escape_from_a_sleeping_giant` | escape from a sleeping giant | 1 | arctic-inuit |
+| `escape_from_a_sleeping_giant` | escape from a sleeping giant | 1 | arctic_inuit |
 | `escape_from_adversary_by_passing_beyond_the_sense_domains` | Escape from adversary by passing beyond the sense domains | 1 | buddhist |
 | `escape_from_buffalo` | escape from buffalo | 1 | native_american_plains |
 | `escape_from_cannibal_beings_by_guile` | Escape from cannibal beings by guile | 1 | greek |
@@ -73943,7 +73943,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `exchange_of_inland_and_coastal_products` | exchange of inland and coastal products | 1 | arctic_inuit |
 | `exchange_of_peril_for_livestock_through_deception` | exchange of peril for livestock through deception | 1 | celtic |
 | `exchange_of_roles_and_tools_leading_to_conflict` | exchange of roles and tools leading to conflict | 1 | japanese |
-| `exchange_of_wives_leads_to_lethal_conflict` | Exchange of wives leads to lethal conflict | 1 | arctic-inuit |
+| `exchange_of_wives_leads_to_lethal_conflict` | Exchange of wives leads to lethal conflict | 1 | arctic_inuit |
 | `excitement_reflected_in_musical_compass` | excitement reflected in musical compass | 1 | native_american_great_lakes |
 | `excluded_non_contributor_plays_communal_instrument_first` | Excluded non-contributor plays communal instrument first | 1 | afro_caribbean |
 | `excluded_provider_denied_food` | excluded provider denied food | 1 | fjort |
@@ -74132,7 +74132,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `extraordinary_female_helper_enables_completion_of_the_task` | extraordinary female helper enables completion of the task | 1 | celtic |
 | `extraordinary_food_procurement_for_a_guest` | extraordinary food procurement for a guest | 1 | native_american_plains |
 | `extraordinary_giant_visitors_from_a_distant_west` | extraordinary giant visitors from a distant west | 1 | native_american_southeast |
-| `extraordinary_head_impact_feat` | extraordinary head-impact feat | 1 | arctic-inuit |
+| `extraordinary_head_impact_feat` | extraordinary head-impact feat | 1 | arctic_inuit |
 | `extraordinary_helpers_solve_royal_tasks` | extraordinary helpers solve royal tasks | 1 | caucasian |
 | `extraordinary_helpers_with_specialized_powers_perform_rescue_tasks` | extraordinary helpers with specialized powers perform rescue tasks | 1 | slavic |
 | `extraordinary_hunt_and_burden_carrying_strength_of_the_youngest_brother` | Extraordinary hunt and burden-carrying strength of the youngest brother | 1 | estonian |
@@ -74143,7 +74143,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `extraordinary_hunting_by_sharpened_body_part` | extraordinary hunting by sharpened body part | 1 | native_american_plains |
 | `extraordinary_iron_bow_and_immovable_arrow` | Extraordinary iron bow and immovable arrow | 1 | georgian |
 | `extraordinary_labor_completed_rapidly` | extraordinary labor completed rapidly | 1 | basque |
-| `extraordinary_mobility_despite_bodily_alteration` | extraordinary mobility despite bodily alteration | 1 | arctic-inuit |
+| `extraordinary_mobility_despite_bodily_alteration` | extraordinary mobility despite bodily alteration | 1 | arctic_inuit |
 | `extraordinary_peoples_at_remote_or_avoided_places` | Extraordinary peoples at remote or avoided places | 1 | guiana_amerindian |
 | `extraordinary_power_located_in_a_specific_body_digit` | extraordinary power located in a specific body digit | 1 | celtic |
 | `extraordinary_powers_of_the_angakut` | extraordinary powers of the angakut | 1 | arctic_inuit |
@@ -74382,7 +74382,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `false_attribution_and_appropriation_of_poetic_work` | False attribution and appropriation of poetic work | 1 | greek |
 | `false_beautification_as_lethal_deception` | false beautification as lethal deception | 1 | arctic_inuit |
 | `false_bed_trap_reversed_upon_its_user` | false bed trap reversed upon its user | 1 | slavic |
-| `false_boast_reported_by_hostile_sibling_leads_to_impossible_task` | false boast reported by hostile sibling leads to impossible task | 1 | native-american-southwest |
+| `false_boast_reported_by_hostile_sibling_leads_to_impossible_task` | false boast reported by hostile sibling leads to impossible task | 1 | native_american_southwest |
 | `false_captive_made_from_excrement` | False captive made from excrement | 1 | native_american_plateau |
 | `false_caretaker_kills_predator_s_young_and_flees` | false caretaker kills predator's young and flees | 1 | guiana_amerindian |
 | `false_catastrophe_used_to_recall_a_renouncer` | false catastrophe used to recall a renouncer | 1 | buddhist |
@@ -74692,7 +74692,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `feeding_a_hunting_aid_with_empowered_substance` | Feeding a hunting aid with empowered substance | 1 | guiana_amerindian |
 | `feeding_from_the_sangreal` | Feeding from the Sangreal | 1 | celtic |
 | `feeding_guardians_to_pass_and_release_them` | feeding guardians to pass and release them | 1 | native_american_northeast_woodlands |
-| `feeding_the_trapped_through_a_narrow_opening` | feeding the trapped through a narrow opening | 1 | arctic-inuit |
+| `feeding_the_trapped_through_a_narrow_opening` | feeding the trapped through a narrow opening | 1 | arctic_inuit |
 | `feet_first_diving_to_retrieve_objects_from_depth` | feet-first diving to retrieve objects from depth | 1 | andamanese |
 | `feigned_defeat_for_strategic_advantage` | feigned defeat for strategic advantage | 1 | celtic |
 | `feigned_eating_of_human_flesh` | feigned eating of human flesh | 1 | arctic_inuit |
@@ -74913,7 +74913,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `first_day_live_game_for_trapping_luck` | first-day live game for trapping luck | 1 | australian_aboriginal |
 | `first_deity_in_primeval_matter_and_solar_emergence` | First deity in primeval matter and solar emergence | 1 | egyptian |
 | `first_encounter_as_omen` | first encounter as omen | 1 | germanic |
-| `first_encounter_with_unfamiliar_people` | first encounter with unfamiliar people | 1 | arctic-inuit |
+| `first_encounter_with_unfamiliar_people` | first encounter with unfamiliar people | 1 | arctic_inuit |
 | `first_entry_as_claim_to_precedence` | first entry as claim to precedence | 1 | celtic |
 | `first_fasting_and_first_nourishment` | First fasting and first nourishment | 1 | zoroastrian |
 | `first_haircut_with_maternal_milk_and_disposal_in_grass` | First haircut with maternal milk and disposal in grass | 1 | african_bantu |
@@ -74989,7 +74989,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fleeing_couple_enters_hunger_and_failed_hunting` | fleeing couple enters hunger and failed hunting | 1 | native_american_plains |
 | `fleeing_supposed_killer_seeks_protection_and_compensation` | Fleeing supposed killer seeks protection and compensation | 1 | norse |
 | `fleeing_thief_leaves_a_visible_celestial_trail` | Fleeing thief leaves a visible celestial trail | 1 | germanic |
-| `fleeing_threatened_spouse_reaches_natal_kin` | fleeing threatened spouse reaches natal kin | 1 | arctic-inuit |
+| `fleeing_threatened_spouse_reaches_natal_kin` | fleeing threatened spouse reaches natal kin | 1 | arctic_inuit |
 | `fleet_footed_hunter_overtakes_large_game` | fleet-footed hunter overtakes large game | 1 | arctic_inuit |
 | `flesh_hunger_as_motive_for_cannibalism` | flesh-hunger as motive for cannibalism | 1 | fijian |
 | `flesh_hunger_despite_plant_food_abundance` | flesh-hunger despite plant-food abundance | 1 | fijian |
@@ -75439,8 +75439,8 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `four_direction_invocation` | four-direction invocation | 1 | native_american_southwest |
 | `four_direction_signs_and_enclosure` | four-direction signs and enclosure | 1 | navajo |
 | `four_direction_spatial_pattern` | four-direction spatial pattern | 1 | navajo |
-| `four_direction_specialization_of_the_hunt` | four-direction specialization of the hunt | 1 | native-american-southwest |
-| `four_direction_summons` | Four-direction summons | 1 | native-american-southwest |
+| `four_direction_specialization_of_the_hunt` | four-direction specialization of the hunt | 1 | native_american_southwest |
+| `four_direction_summons` | Four-direction summons | 1 | native_american_southwest |
 | `four_directional_arrow_waving_over_a_patient` | Four-directional arrow-waving over a patient | 1 | navajo |
 | `four_directional_celestial_guardians` | four directional celestial guardians | 1 | zoroastrian |
 | `four_directional_ceremonial_orientation` | four-directional ceremonial orientation | 1 | native_american_great_lakes |
@@ -75462,7 +75462,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fourfold_action_or_command_produces_the_result` | fourfold action or command produces the result | 1 | native_american_plains |
 | `fourfold_approach_signal` | fourfold approach signal | 1 | native_american_plains |
 | `fourfold_back_to_back_deity_image` | Fourfold back-to-back deity image | 1 | tibetan_buddhist |
-| `fourfold_challenge_before_acceptance` | fourfold challenge before acceptance | 1 | native-american-southwest |
+| `fourfold_challenge_before_acceptance` | fourfold challenge before acceptance | 1 | native_american_southwest |
 | `fourfold_circumambulation_of_an_invalid` | fourfold circumambulation of an invalid | 1 | native_american_southwest |
 | `fourfold_classification_of_attachment` | fourfold classification of attachment | 1 | buddhist |
 | `fourfold_color_direction_cosmology` | fourfold color-direction cosmology | 1 | navajo |
@@ -75470,10 +75470,10 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fourfold_consumption_and_dance_around_bones` | Fourfold consumption and dance around bones | 1 | native_american_plains |
 | `fourfold_cosmological_naming_of_monasteries` | fourfold cosmological naming of monasteries | 1 | tibetan_buddhist |
 | `fourfold_counted_performance_as_status_requirement` | Fourfold counted performance as status requirement | 1 | native_american_plains |
-| `fourfold_delay_and_repetition_before_decisive_action` | fourfold delay and repetition before decisive action | 1 | native-american-southwest |
-| `fourfold_directional_action` | fourfold directional action | 1 | native-american-southwest |
+| `fourfold_delay_and_repetition_before_decisive_action` | fourfold delay and repetition before decisive action | 1 | native_american_southwest |
+| `fourfold_directional_action` | fourfold directional action | 1 | native_american_southwest |
 | `fourfold_directional_and_repeated_action_pattern` | fourfold directional and repeated action pattern | 1 | navajo |
-| `fourfold_directional_and_weather_linked_ambush` | Fourfold directional and weather-linked ambush | 1 | native-american-southwest |
+| `fourfold_directional_and_weather_linked_ambush` | Fourfold directional and weather-linked ambush | 1 | native_american_southwest |
 | `fourfold_directional_color_cosmology` | fourfold directional color cosmology | 1 | native_american_southwest |
 | `fourfold_directional_origin_of_corn` | fourfold directional origin of corn | 1 | native_american_southwest |
 | `fourfold_directional_patterning` | Fourfold directional patterning | 1 | native_american_southwest |
@@ -75493,9 +75493,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `fourfold_patterned_sequence` | Fourfold patterned sequence | 1 | native_american_plains |
 | `fourfold_patterning_of_royal_magnificence` | fourfold patterning of royal magnificence | 1 | buddhist |
 | `fourfold_power_and_preparation` | fourfold power and preparation | 1 | native_american_southwest |
-| `fourfold_progression_and_four_direction_gesture` | Fourfold progression and four-direction gesture | 1 | native-american-southwest |
+| `fourfold_progression_and_four_direction_gesture` | Fourfold progression and four-direction gesture | 1 | native_american_southwest |
 | `fourfold_protective_sequence` | fourfold protective sequence | 1 | hindu |
-| `fourfold_pursuit_stages` | fourfold pursuit stages | 1 | native-american-southwest |
+| `fourfold_pursuit_stages` | fourfold pursuit stages | 1 | native_american_southwest |
 | `fourfold_repeated_bodily_gesture` | fourfold repeated bodily gesture | 1 | maya_quiche |
 | `fourfold_repetition_and_four_adversaries` | Fourfold repetition and four adversaries | 1 | navajo |
 | `fourfold_repetition_and_timing` | Fourfold repetition and timing | 1 | native_american_southwest |
@@ -75777,7 +75777,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `giant_builder_with_stone_transport_and_hurled_hammer` | Giant builder with stone transport and hurled hammer | 1 | germanic |
 | `giant_cannibal_with_plant_spouse` | Giant cannibal with plant spouse | 1 | native_american_northwest_coast |
 | `giant_captor_of_humans` | giant captor of humans | 1 | arctic_inuit |
-| `giant_captures_humans_as_small_objects` | giant captures humans as small objects | 1 | arctic-inuit |
+| `giant_captures_humans_as_small_objects` | giant captures humans as small objects | 1 | arctic_inuit |
 | `giant_construction_for_sociable_visits_contrasted_with_demonic_entrapment` | giant construction for sociable visits contrasted with demonic entrapment | 1 | germanic |
 | `giant_disabled_by_cutting_sinews` | Giant disabled by cutting sinews | 1 | arctic_inuit |
 | `giant_dwelling_in_the_north` | Giant dwelling in the north | 1 | germanic |
@@ -75868,7 +75868,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `gigantic_stature_in_the_ossianic_cycle` | gigantic stature in the Ossianic cycle | 1 | celtic_irish |
 | `gigantic_whale_as_habitation` | Gigantic whale as habitation | 1 | arctic_inuit |
 | `giver_and_taker_of_life` | Giver and taker of life | 1 | germanic |
-| `gluttonous_eater_with_enlarging_stomach` | gluttonous eater with enlarging stomach | 1 | arctic-inuit |
+| `gluttonous_eater_with_enlarging_stomach` | gluttonous eater with enlarging stomach | 1 | arctic_inuit |
 | `gluttonous_giant_like_invader_at_the_royal_court` | Gluttonous giant-like invader at the royal court | 1 | slavic |
 | `gluttonous_hostile_adversary` | gluttonous hostile adversary | 1 | slavic |
 | `goat_man_wild_man_of_the_woods` | goat-man wild man of the woods | 1 | georgian |
@@ -76202,7 +76202,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `healing_by_binding_plants_to_the_body` | healing by binding plants to the body | 1 | germanic |
 | `healing_by_charms_or_remedies` | Healing by charms or remedies | 1 | germanic |
 | `healing_by_contact_with_empowered_boughs` | healing by contact with empowered boughs | 1 | germanic |
-| `healing_by_correcting_a_hidden_object_in_the_head` | healing by correcting a hidden object in the head | 1 | native-american-southwest |
+| `healing_by_correcting_a_hidden_object_in_the_head` | healing by correcting a hidden object in the head | 1 | native_american_southwest |
 | `healing_by_drawing_out_ants_and_feeding_them_to_an_eagle` | Healing by drawing out ants and feeding them to an eagle | 1 | native_american_southwest |
 | `healing_by_expulsion_of_harmful_objects` | Healing by expulsion of harmful objects | 1 | hausa |
 | `healing_by_extracting_a_lodged_object` | healing by extracting a lodged object | 1 | native_american_northwest_coast |
@@ -76288,7 +76288,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `heart_as_double_life_source_and_possible_witness_against_the_deceased` | heart as double, life-source, and possible witness against the deceased | 1 | egyptian |
 | `heart_as_vulnerable_life_token` | heart as vulnerable life-token | 1 | native_american_plateau |
 | `heart_blood_lost_through_longing` | heart-blood lost through longing | 1 | celtic |
-| `heart_cut_out_and_eaten` | Heart cut out and eaten | 1 | arctic-inuit |
+| `heart_cut_out_and_eaten` | Heart cut out and eaten | 1 | arctic_inuit |
 | `heart_eating_witch` | heart-eating witch | 1 | germanic |
 | `heart_focused_binding_or_containment_formula` | heart-focused binding or containment formula | 1 | germanic |
 | `heart_knot_as_seed_of_subtle_embodiment` | Heart-knot as seed of subtle embodiment | 1 | hindu |
@@ -76501,7 +76501,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_generation_of_primordial_man` | hidden generation of primordial Man | 1 | hermetic |
 | `hidden_girl_sought_by_cannibal` | hidden girl sought by cannibal | 1 | xhosa |
 | `hidden_handlers_maintain_celestial_motion` | Hidden handlers maintain celestial motion | 1 | hopi |
-| `hidden_helper_creates_approach_and_escape_route` | hidden helper creates approach and escape route | 1 | native-american-southwest |
+| `hidden_helper_creates_approach_and_escape_route` | hidden helper creates approach and escape route | 1 | native_american_southwest |
 | `hidden_helper_emerging_from_a_container` | hidden helper emerging from a container | 1 | zulu |
 | `hidden_helper_provokes_jealousy_through_unexpected_power` | Hidden helper provokes jealousy through unexpected power | 1 | native_american_southeast |
 | `hidden_helper_reveals_winning_game_move` | hidden helper reveals winning game move | 1 | celtic |
@@ -76510,7 +76510,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_hoard_equips_the_escape` | hidden hoard equips the escape | 1 | persian |
 | `hidden_hoard_that_is_possessed_but_not_used` | hidden hoard that is possessed but not used | 1 | greek |
 | `hidden_homestead_protected_by_broken_paths` | hidden homestead protected by broken paths | 1 | amazonian |
-| `hidden_hunter_encounters_strange_outsiders` | Hidden hunter encounters strange outsiders | 1 | arctic-inuit |
+| `hidden_hunter_encounters_strange_outsiders` | Hidden hunter encounters strange outsiders | 1 | arctic_inuit |
 | `hidden_hut_raised_through_alternating_actions_of_transgressive_figures` | Hidden hut raised through alternating actions of transgressive figures | 1 | bavili |
 | `hidden_identity_revealed_in_boyhood` | Hidden identity revealed in boyhood | 1 | hindu |
 | `hidden_identity_revealed_through_a_charm` | hidden identity revealed through a charm | 1 | zulu |
@@ -76585,7 +76585,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hidden_small_beings_as_agents_of_bodily_harm` | Hidden small beings as agents of bodily harm | 1 | germanic |
 | `hidden_small_object_sought_in_sand` | hidden small object sought in sand | 1 | aboriginal_australian |
 | `hidden_sorrowful_lord_served_by_a_loyal_retainer` | Hidden sorrowful lord served by a loyal retainer | 1 | arthurian |
-| `hidden_spectators_gather_for_notable_events` | hidden spectators gather for notable events | 1 | arctic-inuit |
+| `hidden_spectators_gather_for_notable_events` | hidden spectators gather for notable events | 1 | arctic_inuit |
 | `hidden_spider_helpers_weave_a_bridal_costume` | hidden spider helpers weave a bridal costume | 1 | hopi |
 | `hidden_spouse_discovered_and_killed_by_relatives` | hidden spouse discovered and killed by relatives | 1 | native_american_plains |
 | `hidden_stone_like_dwelling_encountered_by_hunter` | Hidden stone-like dwelling encountered by hunter | 1 | inuit |
@@ -76684,7 +76684,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `home_centred_autonomy` | Home-centred autonomy | 1 | burmese |
 | `homelessness_under_vegetal_cover` | homelessness under vegetal cover | 1 | maya |
 | `homeopathic_cure_using_material_from_the_source_of_the_habit` | homeopathic cure using material from the source of the habit | 1 | african_bantu |
-| `homesickness_expressed_as_longing_for_homeland_food` | homesickness expressed as longing for homeland food | 1 | arctic-inuit |
+| `homesickness_expressed_as_longing_for_homeland_food` | homesickness expressed as longing for homeland food | 1 | arctic_inuit |
 | `homicide_related_withdrawal_or_banishment` | homicide-related withdrawal or banishment | 1 | greek |
 | `homicide_resolved_by_compensation_rather_than_vendetta` | Homicide resolved by compensation rather than vendetta | 1 | african_bantu |
 | `homicide_status_insignia` | Homicide status insignia | 1 | melanesian |
@@ -76881,7 +76881,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `human_intermediary_required_by_supernatural_beings` | Human intermediary required by supernatural beings | 1 | celtic |
 | `human_intrusion_into_thunder_s_elevated_dwelling` | Human intrusion into Thunder’s elevated dwelling | 1 | native_american_plains |
 | `human_invention_by_observation_and_experimentation` | human invention by observation and experimentation | 1 | roman |
-| `human_laughter_or_recognition_interrupts_a_supernatural_encounter` | Human laughter or recognition interrupts a supernatural encounter | 1 | arctic-inuit |
+| `human_laughter_or_recognition_interrupts_a_supernatural_encounter` | Human laughter or recognition interrupts a supernatural encounter | 1 | arctic_inuit |
 | `human_leader_of_a_nonhuman_herd` | Human leader of a nonhuman herd | 1 | zuni |
 | `human_life_stages_used_to_define_the_fully_strong_man` | Human life stages used to define the fully strong man | 1 | khoisan_south_african |
 | `human_lifespan_determined_by_material_of_formation` | Human lifespan determined by material of formation | 1 | samoan |
@@ -76975,7 +76975,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hundred_year_sleep_from_repeated_reading_formula` | Hundred-year sleep from repeated reading formula | 1 | celtic |
 | `hundredfold_abundance` | hundredfold abundance | 1 | hindu |
 | `hunger_causing_irresistible_consumption` | hunger causing irresistible consumption | 1 | hausa |
-| `hunger_driven_bodily_attack` | Hunger-driven bodily attack | 1 | arctic-inuit |
+| `hunger_driven_bodily_attack` | Hunger-driven bodily attack | 1 | arctic_inuit |
 | `hunger_driven_innocent_theft_and_demanded_promise` | hunger-driven innocent theft and demanded promise | 1 | vietnamese |
 | `hunger_expressed_by_pointing_to_the_stomach` | Hunger expressed by pointing to the stomach | 1 | ekoi |
 | `hunger_leads_companions_to_cooperative_trapping_and_divided_property` | Hunger leads companions to cooperative trapping and divided property | 1 | fjort |
@@ -76996,11 +76996,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `hunter_pursues_protected_golden_horned_stag_to_a_tower` | hunter pursues protected golden-horned stag to a tower | 1 | slavic |
 | `hunter_releases_quarry_that_mirrors_his_own_angry_face` | Hunter releases quarry that mirrors his own angry face | 1 | arctic_inuit |
 | `hunter_s_imitation_as_model_for_subduing_enemies` | hunter's imitation as model for subduing enemies | 1 | hindu |
-| `hunter_summons_or_beckons_prey` | hunter summons or beckons prey | 1 | arctic-inuit |
-| `hunter_values_action_over_storytelling` | hunter values action over storytelling | 1 | arctic-inuit |
+| `hunter_summons_or_beckons_prey` | hunter summons or beckons prey | 1 | arctic_inuit |
+| `hunter_values_action_over_storytelling` | hunter values action over storytelling | 1 | arctic_inuit |
 | `hunters_consulting_a_deity_or_cult_official_before_going_out` | hunters consulting a deity or cult official before going out | 1 | ganda |
 | `hunters_separate_while_pursuing_game` | hunters separate while pursuing game | 1 | native_american_southwest |
-| `hunters_vanish_in_a_remote_hunting_land` | Hunters vanish in a remote hunting land | 1 | arctic-inuit |
+| `hunters_vanish_in_a_remote_hunting_land` | Hunters vanish in a remote hunting land | 1 | arctic_inuit |
 | `hunting_accident_followed_by_yielding_prey` | Hunting accident followed by yielding prey | 1 | arctic_inuit |
 | `hunting_and_enchantment_episode_grouping` | Hunting and enchantment episode grouping | 1 | celtic_irish |
 | `hunting_and_subsistence_technology_pattern` | hunting and subsistence technology pattern | 1 | arctic_inuit |
@@ -77079,7 +77079,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `identity_through_epithet_and_maternal_or_tribal_designation` | identity through epithet and maternal or tribal designation | 1 | buddhist |
 | `identity_withheld_under_binding_command` | identity withheld under binding command | 1 | celtic |
 | `ideological_rejection_and_destruction_of_texts` | ideological rejection and destruction of texts | 1 | gnostic |
-| `idle_hunter_mocked_by_community` | idle hunter mocked by community | 1 | arctic-inuit |
+| `idle_hunter_mocked_by_community` | idle hunter mocked by community | 1 | arctic_inuit |
 | `idle_youngest_or_fool_gains_supernatural_power` | Idle youngest or fool gains supernatural power | 1 | slavic |
 | `idol_destruction_and_desecration` | Idol destruction and desecration | 1 | norse |
 | `idol_exposed_by_destruction` | idol exposed by destruction | 1 | norse |
@@ -77168,7 +77168,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `imitation_of_shamanic_practice_by_youths` | imitation of shamanic practice by youths | 1 | native_american_northwest_coast |
 | `imitative_buffalo_dance_with_horn_gestures` | Imitative buffalo dance with horn gestures | 1 | native_american_southwest |
 | `imitative_clay_modelling_of_observed_forms` | imitative clay modelling of observed forms | 1 | african_bantu |
-| `imitative_eye_throwing_with_loss_and_replacement_of_eyes` | Imitative eye-throwing with loss and replacement of eyes | 1 | native-american-southwest |
+| `imitative_eye_throwing_with_loss_and_replacement_of_eyes` | Imitative eye-throwing with loss and replacement of eyes | 1 | native_american_southwest |
 | `imitative_fish_image_used_as_lure` | Imitative fish image used as lure | 1 | arctic_inuit |
 | `imitative_lure_and_net_capture` | Imitative lure and net capture | 1 | buddhist |
 | `imitative_manual_ideograms_for_actions_and_natural_forms` | Imitative manual ideograms for actions and natural forms | 1 | aboriginal_australian |
@@ -77568,7 +77568,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `insects_blamed_for_failed_crop` | insects blamed for failed crop | 1 | caucasian |
 | `inseparability_of_maker_and_made` | inseparability of maker and made | 1 | hermetic |
 | `inseparable_foster_brother_companion_pair` | Inseparable foster-brother companion pair | 1 | norse |
-| `inseparable_hunting_companions_with_shared_adventures` | inseparable hunting companions with shared adventures | 1 | arctic-inuit |
+| `inseparable_hunting_companions_with_shared_adventures` | inseparable hunting companions with shared adventures | 1 | arctic_inuit |
 | `inseparable_mixture_with_distinguishable_characteristics` | inseparable mixture with distinguishable characteristics | 1 | buddhist |
 | `inseparable_union_of_fundamental_qualities` | inseparable union of fundamental qualities | 1 | hindu |
 | `inside_helper_enables_sequential_ambush` | inside helper enables sequential ambush | 1 | native_american_plateau |
@@ -78067,7 +78067,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `kindling_stick_allusion` | kindling-stick allusion | 1 | hindu |
 | `kindness_guided_rescue_of_kin` | kindness-guided rescue of kin | 1 | buddhist |
 | `kine_as_emblem_of_afflicted_settlement_and_livelihood` | Kine as emblem of afflicted settlement and livelihood | 1 | zoroastrian |
-| `kinless_target_lacks_avengers` | Kinless target lacks avengers | 1 | arctic-inuit |
+| `kinless_target_lacks_avengers` | Kinless target lacks avengers | 1 | arctic_inuit |
 | `kinsfolk_fighting_kinsfolk` | kinsfolk fighting kinsfolk | 1 | hindu |
 | `kinslaying_as_feud_escalation` | kinslaying as feud escalation | 1 | norse |
 | `kinslaying_followed_by_vengeance` | kinslaying followed by vengeance | 1 | persian |
@@ -78279,7 +78279,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `legendary_clan_migration_traditions` | Legendary clan migration traditions | 1 | african_bantu |
 | `legendary_crater_lake_associated_with_volcanic_landscape` | legendary crater lake associated with volcanic landscape | 1 | malagasy |
 | `legendary_event_leaves_a_landscape_trace` | Legendary event leaves a landscape trace | 1 | vietnamese |
-| `legendary_extraordinary_people_at_the_northern_margin` | Legendary extraordinary people at the northern margin | 1 | arctic-inuit |
+| `legendary_extraordinary_people_at_the_northern_margin` | Legendary extraordinary people at the northern margin | 1 | arctic_inuit |
 | `legendary_feast_as_standard_of_exceptional_grandeur` | legendary feast as standard of exceptional grandeur | 1 | xhosa |
 | `legendary_foundation_by_alexander_of_macedon` | legendary foundation by Alexander of Macedon | 1 | finnic |
 | `legendary_giant_or_devil_stones` | Legendary giant or devil stones | 1 | germanic |
@@ -78484,7 +78484,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `livestock_plunder_as_trigger_for_armed_conflict` | livestock plunder as trigger for armed conflict | 1 | jewish_pseudepigrapha |
 | `livestock_protection_against_hare_contact` | Livestock protection against hare contact | 1 | germanic |
 | `livestock_raiding_and_protective_night_enclosure` | livestock raiding and protective night enclosure | 1 | native_american_southwest |
-| `livestock_theft_as_a_subsistence_change` | livestock theft as a subsistence change | 1 | native-american-southwest |
+| `livestock_theft_as_a_subsistence_change` | livestock theft as a subsistence change | 1 | native_american_southwest |
 | `livestock_theft_under_cover_of_fog` | livestock theft under cover of fog | 1 | zulu |
 | `living_being_transformed_into_utilitarian_object` | living being transformed into utilitarian object | 1 | siberian |
 | `living_beings_as_bearers_of_divinity` | living beings as bearers of divinity | 1 | hindu |
@@ -78890,7 +78890,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magical_elder_removes_impossible_obstacles` | Magical elder removes impossible obstacles | 1 | native_american_plateau |
 | `magical_enchantress_resisted_by_target` | magical enchantress resisted by target | 1 | roman |
 | `magical_escape_from_armed_encirclement` | magical escape from armed encirclement | 1 | celtic |
-| `magical_escape_through_hostile_obstacles` | magical escape through hostile obstacles | 1 | arctic-inuit |
+| `magical_escape_through_hostile_obstacles` | magical escape through hostile obstacles | 1 | arctic_inuit |
 | `magical_expulsion_of_hostile_influences` | Magical expulsion of hostile influences | 1 | greek |
 | `magical_expulsion_or_healing_from_affliction` | magical expulsion or healing from affliction | 1 | finnic |
 | `magical_extraction_of_wine_from_an_impossible_source` | magical extraction of wine from an impossible source | 1 | germanic |
@@ -78980,7 +78980,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magical_refuge_created_by_transforming_a_stone_into_a_hut` | Magical refuge created by transforming a stone into a hut | 1 | xhosa |
 | `magical_rejuvenation_offered_and_refused` | magical rejuvenation offered and refused | 1 | celtic |
 | `magical_release_from_bonds` | magical release from bonds | 1 | germanic |
-| `magical_release_promised_then_withheld` | magical release promised then withheld | 1 | arctic-inuit |
+| `magical_release_promised_then_withheld` | magical release promised then withheld | 1 | arctic_inuit |
 | `magical_religious_founder_from_a_sorcery_renowned_land` | magical religious founder from a sorcery-renowned land | 1 | tibetan_buddhist |
 | `magical_remedy_sought_for_an_unwanted_rider` | Magical remedy sought for an unwanted rider | 1 | hausa |
 | `magical_repair_and_cooling_cure_from_the_north` | Magical repair and cooling cure from the north | 1 | finnic |
@@ -79031,7 +79031,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magical_vegetation_army` | magical vegetation army | 1 | celtic |
 | `magical_wasting_of_livestock_as_retaliation` | Magical wasting of livestock as retaliation | 1 | celtic |
 | `magical_wealth_produced_from_bodily_spittle` | Magical wealth produced from bodily spittle | 1 | native_american_northeast_woodlands |
-| `magical_weather_raised_in_pursuit_and_defense` | magical weather raised in pursuit and defense | 1 | arctic-inuit |
+| `magical_weather_raised_in_pursuit_and_defense` | magical weather raised in pursuit and defense | 1 | arctic_inuit |
 | `magical_weather_used_for_attack` | magical weather used for attack | 1 | norse |
 | `magical_wishing_object_produces_food_and_wealth` | magical wishing object produces food and wealth | 1 | georgian |
 | `magically_commanded_object_kills_an_adversary` | magically commanded object kills an adversary | 1 | native_american_plateau |
@@ -79043,7 +79043,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `magically_powerful_claimant_of_a_lake` | magically powerful claimant of a lake | 1 | native_american_northeast_woodlands |
 | `magically_resized_portable_canoe_and_oars` | Magically resized portable canoe and oars | 1 | native_american_northeast_woodlands |
 | `magically_responsive_stone_dwelling` | magically responsive stone dwelling | 1 | native_american_plains |
-| `magician_expected_to_exercise_magic_after_domestic_exchange` | magician expected to exercise magic after domestic exchange | 1 | arctic-inuit |
+| `magician_expected_to_exercise_magic_after_domestic_exchange` | magician expected to exercise magic after domestic exchange | 1 | arctic_inuit |
 | `magician_freed_from_bonds_and_opening_locks` | magician freed from bonds and opening locks | 1 | germanic |
 | `magician_s_container_for_medicines_and_bones` | magician's container for medicines and bones | 1 | african_bantu |
 | `magicians_wonderful_deeds` | Magicians’ wonderful deeds | 1 | egyptian |
@@ -79158,7 +79158,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `marital_allotment_followed_by_hair_cutting` | marital allotment followed by hair cutting | 1 | australian_aboriginal |
 | `marital_asymmetry_approved_polygamy_and_censured_polyandry` | marital asymmetry: approved polygamy and censured polyandry | 1 | african_bantu |
 | `marital_challenge_answered_by_hunting_display` | marital challenge answered by hunting display | 1 | arctic_inuit |
-| `marital_correction_through_temporary_exchange` | Marital correction through temporary exchange | 1 | arctic-inuit |
+| `marital_correction_through_temporary_exchange` | Marital correction through temporary exchange | 1 | arctic_inuit |
 | `marital_dissolution_through_neglect_of_subsistence_and_domestic_duties` | marital dissolution through neglect of subsistence and domestic duties | 1 | melanesian |
 | `marital_duty_as_a_condition_of_righteousness` | Marital duty as a condition of righteousness | 1 | hindu |
 | `marital_endurance_through_labor_and_loyalty` | marital endurance through labor and loyalty | 1 | native_american_southwest |
@@ -79261,7 +79261,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `massacre_leaving_a_single_younger_survivor` | Massacre leaving a single younger survivor | 1 | native_american_plateau |
 | `massacre_of_sleeping_enemies_after_protectors_are_absent` | Massacre of sleeping enemies after protectors are absent | 1 | hindu |
 | `massacre_of_sleeping_unsuspecting_enemies_at_night` | Massacre of sleeping unsuspecting enemies at night | 1 | hindu |
-| `massacre_of_women` | massacre of women | 1 | arctic-inuit |
+| `massacre_of_women` | massacre of women | 1 | arctic_inuit |
 | `master_defeats_wizard` | master defeats wizard | 1 | taoist |
 | `master_disciple_reputation_transfer` | master-disciple reputation transfer | 1 | tibetan_buddhist |
 | `master_or_owner_of_a_natural_place` | master or owner of a natural place | 1 | finnic |
@@ -79731,7 +79731,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `misapplied_beneficent_magic_causing_bodily_anomaly` | misapplied beneficent magic causing bodily anomaly | 1 | melanesian |
 | `misapplied_universal_analogy` | Misapplied universal analogy | 1 | buddhist |
 | `misattributed_protection` | misattributed protection | 1 | greek |
-| `miscarriage_related_interdiction_and_separation` | miscarriage-related interdiction and separation | 1 | arctic-inuit |
+| `miscarriage_related_interdiction_and_separation` | miscarriage-related interdiction and separation | 1 | arctic_inuit |
 | `mischief_being_and_clothing_damage` | Mischief-being and clothing damage | 1 | greek |
 | `mischievous_extraordinary_youths` | Mischievous extraordinary youths | 1 | tongan |
 | `mischievous_supernatural_being_met_and_baulked` | mischievous supernatural being met and baulked | 1 | germanic |
@@ -79769,7 +79769,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `misrecognition_of_sanctity_as_possession` | misrecognition of sanctity as possession | 1 | sikh |
 | `misrecognized_illness_and_harmful_treatment` | Misrecognized illness and harmful treatment | 1 | native_american_southeast |
 | `missed_encounter_through_sleep_and_lookalike_substitute` | missed encounter through sleep and lookalike substitute | 1 | celtic_irish |
-| `missed_mutilation_of_captives` | missed mutilation of captives | 1 | arctic-inuit |
+| `missed_mutilation_of_captives` | missed mutilation of captives | 1 | arctic_inuit |
 | `missed_tryst_through_sudden_sleep` | Missed tryst through sudden sleep | 1 | celtic |
 | `missing_inheritance_in_an_empty_hiding_place` | missing inheritance in an empty hiding place | 1 | celtic |
 | `missing_older_deity_whose_attributes_may_pass_to_a_newcomer` | missing older deity whose attributes may pass to a newcomer | 1 | celtic |
@@ -80607,7 +80607,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `non_injury_as_supreme_duty` | Non-injury as supreme duty | 1 | hindu |
 | `non_injury_as_supreme_religion_leading_to_brahma` | Non-injury as supreme religion leading to Brahma | 1 | hindu |
 | `non_interference_with_another_s_way` | non-interference with another's way | 1 | burmese |
-| `non_intervention_in_quarrel_between_spouses` | non-intervention in quarrel between spouses | 1 | arctic-inuit |
+| `non_intervention_in_quarrel_between_spouses` | non-intervention in quarrel between spouses | 1 | arctic_inuit |
 | `non_killing_as_daily_religious_command` | Non-killing as daily religious command | 1 | burmese |
 | `non_kin_intimate_with_funerary_role` | non-kin intimate with funerary role | 1 | melanesian |
 | `non_kin_protector_creates_a_sibling_identity_for_a_fugitive_woman` | Non-kin protector creates a sibling identity for a fugitive woman | 1 | buddhist |
@@ -81036,7 +81036,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `origin_of_ale_from_barley` | origin of ale from barley | 1 | finnic |
 | `origin_of_bows` | Origin of bows | 1 | native_american_plains |
 | `origin_of_cassava_propagation_by_discovered_cuttings` | Origin of cassava propagation by discovered cuttings | 1 | guiana_amerindian |
-| `origin_of_ceremonies` | origin of ceremonies | 1 | native-american-southwest |
+| `origin_of_ceremonies` | origin of ceremonies | 1 | native_american_southwest |
 | `origin_of_chipmunk_stripes` | origin of chipmunk stripes | 1 | native_american_plateau |
 | `origin_of_cormorant_s_lack_of_voice` | Origin of cormorant's lack of voice | 1 | native_american_northwest_coast |
 | `origin_of_deer` | Origin of Deer | 1 | native_american_plateau |
@@ -81109,7 +81109,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `orphan_girl_in_famine_opening` | Orphan girl in famine opening | 1 | native_american_northwest_coast |
 | `orphan_hare_as_successful_small_provider` | Orphan hare as successful small provider | 1 | arctic_inuit |
 | `orphan_unexpectedly_makes_fortune` | orphan unexpectedly makes fortune | 1 | estonian |
-| `orphan_vulnerability_to_murder` | orphan vulnerability to murder | 1 | arctic-inuit |
+| `orphan_vulnerability_to_murder` | orphan vulnerability to murder | 1 | arctic_inuit |
 | `orphan_youth_aided_by_adoptive_elder` | Orphan youth aided by adoptive elder | 1 | native_american_plains |
 | `orphaned_sibling_group_left_vulnerable` | Orphaned sibling group left vulnerable | 1 | native_american_plains |
 | `orthodox_anti_heresy_polemic_against_esoteric_or_dissenting_groups` | Orthodox anti-heresy polemic against esoteric or dissenting groups | 1 | hermetic |
@@ -81299,7 +81299,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `panic_of_gathered_mourners_causes_trampling` | Panic of gathered mourners causes trampling | 1 | hausa |
 | `pantheon_arranged_by_triads_and_twelves` | pantheon arranged by triads and twelves | 1 | germanic |
 | `pantheon_assimilation_under_a_supreme_deity` | Pantheon assimilation under a supreme deity | 1 | egyptian |
-| `panther_coyote_domestic_conflict_ending_in_retaliatory_killing` | Panther-Coyote domestic conflict ending in retaliatory killing | 1 | native-american-southwest |
+| `panther_coyote_domestic_conflict_ending_in_retaliatory_killing` | Panther-Coyote domestic conflict ending in retaliatory killing | 1 | native_american_southwest |
 | `panther_like_passion_embodied_in_worn_skin` | Panther-like passion embodied in worn skin | 1 | georgian |
 | `pantomimic_representation_of_a_supernatural_being` | Pantomimic representation of a supernatural being | 1 | andamanese |
 | `parable_reinterpreted_to_legitimate_a_later_community` | Parable reinterpreted to legitimate a later community | 1 | sufi |
@@ -81606,7 +81606,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `physical_bond_causes_shared_fate` | physical bond causes shared fate | 1 | greek |
 | `physical_deformity_paired_with_influence_ability_or_favor` | Physical deformity paired with influence, ability, or favor | 1 | taoist |
 | `physical_insult_answered_by_planned_separation` | physical insult answered by planned separation | 1 | norse |
-| `physical_remains_authenticate_mythic_narrative` | physical remains authenticate mythic narrative | 1 | arctic-inuit |
+| `physical_remains_authenticate_mythic_narrative` | physical remains authenticate mythic narrative | 1 | arctic_inuit |
 | `physical_tether_used_for_pursuit` | physical tether used for pursuit | 1 | native_american_northeast_woodlands |
 | `physical_touch_preceding_verbal_comfort` | physical touch preceding verbal comfort | 1 | hindu |
 | `physical_traces_expose_a_concealed_killing` | physical traces expose a concealed killing | 1 | buddhist |
@@ -81726,7 +81726,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `pledged_tryst_after_a_year_at_a_prepared_feast` | pledged tryst after a year at a prepared feast | 1 | celtic |
 | `pleiades_pictured_as_hen_with_chicks` | Pleiades pictured as hen with chicks | 1 | germanic |
 | `pleiades_religious_observance_possibly_transmitted_from_peruvians` | Pleiades religious observance possibly transmitted from Peruvians | 1 | chaco_amerindian |
-| `plenty_expressed_as_happiness_laughter_and_impulsive_sociability` | plenty expressed as happiness, laughter, and impulsive sociability | 1 | arctic-inuit |
+| `plenty_expressed_as_happiness_laughter_and_impulsive_sociability` | plenty expressed as happiness, laughter, and impulsive sociability | 1 | arctic_inuit |
 | `plenum_contrasted_with_void_or_non_being` | Plenum contrasted with void or non-being | 1 | hermetic |
 | `plenum_rather_than_void` | Plenum rather than void | 1 | hermetic |
 | `plunder_explaining_the_absence_of_ancient_relics` | plunder explaining the absence of ancient relics | 1 | tibetan_buddhist |
@@ -82620,7 +82620,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `public_accusation_over_missing_valued_objects` | public accusation over missing valued objects | 1 | norse |
 | `public_admonition_prevents_royal_religious_transgression` | Public admonition prevents royal religious transgression | 1 | norse |
 | `public_and_courtly_veneration_of_a_revered_visitor` | public and courtly veneration of a revered visitor | 1 | hindu |
-| `public_announcement_of_salvation_with_sound_directed_to_heaven` | Public announcement of salvation with sound directed to heaven | 1 | arctic-inuit |
+| `public_announcement_of_salvation_with_sound_directed_to_heaven` | Public announcement of salvation with sound directed to heaven | 1 | arctic_inuit |
 | `public_announcement_through_elevated_object` | Public announcement through elevated object | 1 | hausa |
 | `public_appeal_met_by_silence` | public appeal met by silence | 1 | hindu |
 | `public_architecture_made_from_worn_out_canoe_parts` | public architecture made from worn-out canoe parts | 1 | melanesian |
@@ -82660,7 +82660,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `public_exhortation_to_take_courage` | public exhortation to take courage | 1 | native_american_plains |
 | `public_exposure_through_autobiographical_tale_at_feast` | Public exposure through autobiographical tale at feast | 1 | basque |
 | `public_feast_and_gift_giving_for_a_life_event` | Public feast and gift-giving for a life event | 1 | burmese |
-| `public_festival_dance_assembled_around_improvised_platform_and_music` | Public festival dance assembled around improvised platform and music | 1 | arctic-inuit |
+| `public_festival_dance_assembled_around_improvised_platform_and_music` | Public festival dance assembled around improvised platform and music | 1 | arctic_inuit |
 | `public_foot_washing_after_defeat` | public foot-washing after defeat | 1 | hindu |
 | `public_games_with_displayed_prizes_and_ceremonial_opening` | public games with displayed prizes and ceremonial opening | 1 | roman |
 | `public_grievance_chant_before_the_assembled_group` | public grievance chant before the assembled group | 1 | amazonian |
@@ -82703,7 +82703,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `public_rebuke_of_violent_livelihood` | Public rebuke of violent livelihood | 1 | ekoi |
 | `public_recognition_of_blessed_or_prosperous_devotees` | Public recognition of blessed or prosperous devotees | 1 | hindu |
 | `public_recognition_through_pointing_out_kin_or_followers` | Public recognition through pointing out kin or followers | 1 | zulu |
-| `public_refusal_as_signal_of_communal_disruption` | public refusal as signal of communal disruption | 1 | arctic-inuit |
+| `public_refusal_as_signal_of_communal_disruption` | public refusal as signal of communal disruption | 1 | arctic_inuit |
 | `public_retaliation_proposed_against_a_slanderer` | Public retaliation proposed against a slanderer | 1 | confucian |
 | `public_reversal_of_accusation` | public reversal of accusation | 1 | african_bantu |
 | `public_reversal_of_despised_younger_brother_against_elder_rivals` | public reversal of despised younger brother against elder rivals | 1 | native_american_northwest_coast |
@@ -82868,7 +82868,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `radiant_fiery_missiles` | radiant fiery missiles | 1 | slavic |
 | `radiant_jeweled_central_figure_in_assembly` | Radiant jeweled central figure in assembly | 1 | hindu |
 | `radiant_lotus_emanating_buddhas` | radiant lotus emanating Buddhas | 1 | buddhist |
-| `radiant_sign_of_extraordinary_power` | Radiant sign of extraordinary power | 1 | arctic-inuit |
+| `radiant_sign_of_extraordinary_power` | Radiant sign of extraordinary power | 1 | arctic_inuit |
 | `radiant_solar_or_luminous_deity_providing_food_and_wealth` | Radiant solar or luminous deity providing food and wealth | 1 | hindu |
 | `radiant_superiority_contrast` | Radiant superiority contrast | 1 | hindu |
 | `radiant_supernatural_dwelling_approached_through_music` | Radiant supernatural dwelling approached through music | 1 | native_american_plateau |
@@ -82942,7 +82942,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `ravaged_forest_as_emblem_of_oppressive_rule` | ravaged forest as emblem of oppressive rule | 1 | confucian |
 | `raven_arrives_at_hungry_camp_with_entrails_in_quiver` | Raven arrives at hungry camp with entrails in quiver | 1 | native_american_southwest |
 | `raven_attributed_throat_singing` | Raven-attributed throat-singing | 1 | arctic_inuit |
-| `raven_clothing_made_with_wings_left_on` | raven clothing made with wings left on | 1 | arctic-inuit |
+| `raven_clothing_made_with_wings_left_on` | raven clothing made with wings left on | 1 | arctic_inuit |
 | `raven_cry_announces_found_food` | Raven cry announces found food | 1 | native_american_northwest_coast |
 | `raven_myths_in_a_cultural_contact_zone` | Raven myths in a cultural contact zone | 1 | arctic_inuit |
 | `raven_regalia_as_feast_object_and_omen_image` | Raven regalia as feast object and omen image | 1 | native_american_northwest_coast |
@@ -83345,7 +83345,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `rejected_embrace_of_an_apsaras` | Rejected embrace of an Apsaras | 1 | hindu |
 | `rejected_exchange_of_meat_for_access_to_a_girl` | rejected exchange of meat for access to a girl | 1 | native_american_plains |
 | `rejected_exchange_of_patronage_for_civic_renown` | Rejected exchange of patronage for civic renown | 1 | greek |
-| `rejected_former_spouse_pursuit` | rejected former spouse pursuit | 1 | arctic-inuit |
+| `rejected_former_spouse_pursuit` | rejected former spouse pursuit | 1 | arctic_inuit |
 | `rejected_gifts_and_unwanted_intimate_gestures` | Rejected gifts and unwanted intimate gestures | 1 | hindu |
 | `rejected_insect_spouses_or_wooers` | Rejected insect spouses or wooers | 1 | inuit |
 | `rejected_or_slain_prophet` | Rejected or slain prophet | 1 | greek |
@@ -83541,7 +83541,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `relinquishing_a_coveted_object_avoids_conflict` | relinquishing a coveted object avoids conflict | 1 | hindu |
 | `relocation_from_bush_residence_to_present_settlement_with_adoption_of_affiliations` | relocation from bush residence to present settlement with adoption of affiliations | 1 | melanesian |
 | `reluctant_acceptance_after_three_petitions` | Reluctant acceptance after three petitions | 1 | shinto |
-| `reluctant_bachelor_urged_to_marry` | reluctant bachelor urged to marry | 1 | arctic-inuit |
+| `reluctant_bachelor_urged_to_marry` | reluctant bachelor urged to marry | 1 | arctic_inuit |
 | `reluctant_duel_between_friends_and_fellow_pupils` | reluctant duel between friends and fellow pupils | 1 | celtic |
 | `reluctant_fatal_duel_under_external_betrayal` | reluctant fatal duel under external betrayal | 1 | celtic |
 | `reluctant_host_presses_visitor_to_depart` | reluctant host presses visitor to depart | 1 | chaco_amerindian |
@@ -83805,7 +83805,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `rescue_of_a_captive_foe_or_rival_kinsman` | Rescue of a captive foe or rival kinsman | 1 | hindu |
 | `rescue_of_a_condemned_royal_woman_by_a_wise_intercessor` | Rescue of a condemned royal woman by a wise intercessor | 1 | persian |
 | `rescue_of_a_protected_devotee_from_enemies` | Rescue of a protected devotee from enemies | 1 | hindu |
-| `rescue_of_a_strange_or_other_than_ordinary_kayaker` | Rescue of a strange or other-than-ordinary kayaker | 1 | arctic-inuit |
+| `rescue_of_a_strange_or_other_than_ordinary_kayaker` | Rescue of a strange or other-than-ordinary kayaker | 1 | arctic_inuit |
 | `rescue_of_a_surrounded_ally` | Rescue of a surrounded ally | 1 | hindu |
 | `rescue_of_a_threatened_woman_from_an_asura` | Rescue of a threatened woman from an Asura | 1 | hindu |
 | `rescue_of_abducted_captive_sisters` | Rescue of abducted captive sisters | 1 | estonian |
@@ -84726,7 +84726,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `separation_lament_after_an_inseparable_relation` | separation lament after an inseparable relation | 1 | japanese |
 | `separation_of_principal_ingredient_from_mixed_herbs` | separation of principal ingredient from mixed herbs | 1 | native_american_great_lakes |
 | `separation_of_religious_and_civil_jurisdiction` | separation of religious and civil jurisdiction | 1 | burmese |
-| `separation_with_promised_reunion` | separation with promised reunion | 1 | arctic-inuit |
+| `separation_with_promised_reunion` | separation with promised reunion | 1 | arctic_inuit |
 | `sepulchral_diagram_encoded_in_stone_carving` | sepulchral diagram encoded in stone carving | 1 | celtic |
 | `sequence_of_champion_challenges_against_a_single_giant_foe` | Sequence of champion challenges against a single giant foe | 1 | hindu |
 | `sequential_clan_emergence_with_totems` | Sequential clan emergence with totems | 1 | melanesian |
@@ -85621,7 +85621,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `status_recognized_by_a_visible_token` | status recognized by a visible token | 1 | caucasian |
 | `status_reversal_after_loss_of_property` | status reversal after loss of property | 1 | malagasy |
 | `status_rules_for_funerary_possession_bundle` | Status rules for funerary possession bundle | 1 | melanesian |
-| `status_through_successful_hunting_kin` | status through successful hunting kin | 1 | arctic-inuit |
+| `status_through_successful_hunting_kin` | status through successful hunting kin | 1 | arctic_inuit |
 | `steadfast_armed_resistance` | steadfast armed resistance | 1 | hindu |
 | `steadfast_champion_rallies_a_routed_army` | steadfast champion rallies a routed army | 1 | hindu |
 | `steadfast_continuance_through_unchanging_conduct` | Steadfast continuance through unchanging conduct | 1 | confucian |
@@ -85798,7 +85798,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `subsistence_transport_from_kill_site_to_village` | Subsistence transport from kill site to village | 1 | arctic_inuit |
 | `substance_dropped_or_consumed_generates_an_origin` | Substance dropped or consumed generates an origin | 1 | finnic |
 | `substance_from_a_place_mediates_acclimatization_or_transition` | substance from a place mediates acclimatization or transition | 1 | african_bantu |
-| `substance_prevents_magical_healing` | Substance prevents magical healing | 1 | arctic-inuit |
+| `substance_prevents_magical_healing` | Substance prevents magical healing | 1 | arctic_inuit |
 | `substances_and_later_alchemical_correspondences` | Substances and later alchemical correspondences | 1 | taoist |
 | `substitute_bedding_deceives_nocturnal_killer` | substitute bedding deceives nocturnal killer | 1 | ekoi |
 | `substitute_body_part_from_fruit` | Substitute body part from fruit | 1 | zuni |
@@ -85869,7 +85869,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `successive_currency_media` | successive currency media | 1 | ganda |
 | `successive_destroyed_lives_or_generations` | successive destroyed lives or generations | 1 | native_american_plains |
 | `successive_emanations_or_thoughts_of_the_creator` | Successive emanations or thoughts of the creator | 1 | egyptian |
-| `successive_failed_and_final_killing_methods` | Successive failed and final killing methods | 1 | arctic-inuit |
+| `successive_failed_and_final_killing_methods` | Successive failed and final killing methods | 1 | arctic_inuit |
 | `successive_giant_like_race_after_older_giants` | successive giant-like race after older giants | 1 | germanic |
 | `successive_hunters_trapped_by_a_witch_at_a_buffalo_kill` | Successive hunters trapped by a witch at a buffalo kill | 1 | native_american_plains |
 | `successive_incorporation_of_groups_into_tribal_organization` | successive incorporation of groups into tribal organization | 1 | native_american_plains |
@@ -86039,7 +86039,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `supernatural_female_carries_huge_stones_while_spinning` | Supernatural female carries huge stones while spinning | 1 | germanic |
 | `supernatural_female_figures_compared_as_vila_and_wise_women` | Supernatural female figures compared as vila and wise-women | 1 | germanic |
 | `supernatural_female_tempters_as_predators` | supernatural female tempters as predators | 1 | buddhist |
-| `supernatural_figure_racing_beside_a_sledge` | supernatural figure racing beside a sledge | 1 | arctic-inuit |
+| `supernatural_figure_racing_beside_a_sledge` | supernatural figure racing beside a sledge | 1 | arctic_inuit |
 | `supernatural_figure_spares_a_young_witness` | supernatural figure spares a young witness | 1 | japanese |
 | `supernatural_flame_breathing_mount_enables_abduction` | supernatural flame-breathing mount enables abduction | 1 | greek |
 | `supernatural_follower_that_cannot_be_shaken_off` | supernatural follower that cannot be shaken off | 1 | germanic |
@@ -86090,7 +86090,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `supernatural_labor_under_solomon` | supernatural labor under Solomon | 1 | sufi |
 | `supernatural_lake_sign_described_as_gunpowder_explosion` | supernatural lake sign described as gunpowder explosion | 1 | african_akan |
 | `supernatural_lament_as_origin_of_a_musical_cry` | supernatural lament as origin of a musical cry | 1 | celtic |
-| `supernatural_laughter_announces_penalty` | supernatural laughter announces penalty | 1 | arctic-inuit |
+| `supernatural_laughter_announces_penalty` | supernatural laughter announces penalty | 1 | arctic_inuit |
 | `supernatural_machinery_of_demons_peris_and_necromancers` | supernatural machinery of demons, peris, and necromancers | 1 | persian |
 | `supernatural_maker_at_the_beginning` | Supernatural maker at the beginning | 1 | oceanic |
 | `supernatural_manipulation_of_human_decision` | Supernatural manipulation of human decision | 1 | guiana_amerindian |
@@ -86248,7 +86248,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `survival_after_confinement_and_burning` | survival after confinement and burning | 1 | siberian |
 | `survival_after_depopulation_by_hunting_and_wild_honey` | survival after depopulation by hunting and wild honey | 1 | celtic |
 | `survival_and_transmission_of_primaeval_superstition` | Survival and transmission of primaeval superstition | 1 | greek |
-| `survival_by_concealment_in_domestic_objects_and_storage_spaces` | survival by concealment in domestic objects and storage spaces | 1 | arctic-inuit |
+| `survival_by_concealment_in_domestic_objects_and_storage_spaces` | survival by concealment in domestic objects and storage spaces | 1 | arctic_inuit |
 | `survival_by_sleeping_away_from_the_attacked_bed` | Survival by sleeping away from the attacked bed | 1 | germanic |
 | `survival_in_a_deserted_land_by_hunting_and_wild_honey` | Survival in a deserted land by hunting and wild honey | 1 | celtic_welsh |
 | `survival_necessity_suspends_taint` | Survival necessity suspends taint | 1 | hindu |
@@ -86271,11 +86271,11 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `surviving_thunder_being_explains_present_thunder` | surviving thunder-being explains present thunder | 1 | native_american_plateau |
 | `surviving_tradition_of_a_stone_implement_age` | surviving tradition of a stone-implement age | 1 | african_akan |
 | `survivor_community_renewal_after_repeated_near_destruction` | Survivor community renewal after repeated near-destruction | 1 | native_american_southwest |
-| `survivor_escapes_by_hiding` | survivor escapes by hiding | 1 | arctic-inuit |
+| `survivor_escapes_by_hiding` | survivor escapes by hiding | 1 | arctic_inuit |
 | `survivor_messenger_reports_a_slaughter` | Survivor messenger reports a slaughter | 1 | zuni |
 | `survivor_remnant_after_a_snow_covered_disaster` | survivor remnant after a snow-covered disaster | 1 | native_american_plains |
 | `survivor_reports_to_maternal_figure` | Survivor reports to maternal figure | 1 | khoisan_south_african |
-| `survivor_witness_explains_origin_of_tale` | survivor witness explains origin of tale | 1 | arctic-inuit |
+| `survivor_witness_explains_origin_of_tale` | survivor witness explains origin of tale | 1 | arctic_inuit |
 | `survivors_adopted_by_another_people` | survivors adopted by another people | 1 | native_american_plains |
 | `survivors_emerging_after_being_lost_in_the_bush` | survivors emerging after being lost in the bush | 1 | amazonian |
 | `survivors_of_village_massacre_signal_absent_hunters` | survivors of village massacre signal absent hunters | 1 | arctic_inuit |
@@ -86633,9 +86633,9 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `threat_of_delayed_killing_after_capture` | Threat of delayed killing after capture | 1 | native_american_plateau |
 | `threat_of_destruction_to_humankind_by_an_unkillable_being` | threat of destruction to humankind by an unkillable being | 1 | oceanic |
 | `threat_of_total_destruction_described_as_sweeping_out_an_inlet` | Threat of total destruction described as sweeping out an inlet | 1 | native_american_northwest_coast |
-| `threat_to_eat_the_murderer_alive` | threat to eat the murderer alive | 1 | arctic-inuit |
+| `threat_to_eat_the_murderer_alive` | threat to eat the murderer alive | 1 | arctic_inuit |
 | `threat_to_raze_fortress_walls_after_a_failed_capture` | Threat to raze fortress walls after a failed capture | 1 | persian |
-| `threat_to_unguarded_home_community` | threat to unguarded home community | 1 | arctic-inuit |
+| `threat_to_unguarded_home_community` | threat to unguarded home community | 1 | arctic_inuit |
 | `threatened_ally_enclosed_by_defenders` | Threatened ally enclosed by defenders | 1 | hindu |
 | `threatened_bearer_escapes_with_glory` | Threatened bearer escapes with glory | 1 | zoroastrian |
 | `threatened_cannibal_feast_of_captive` | Threatened cannibal feast of captive | 1 | hindu |
@@ -86659,7 +86659,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `threatened_visitor_before_a_violent_leader` | Threatened visitor before a violent leader | 1 | taoist |
 | `threatening_a_harmful_small_being_to_compel_recognition` | Threatening a harmful small being to compel recognition | 1 | finnic |
 | `threatening_adversary_subdued_into_helper_and_mount` | Threatening adversary subdued into helper and mount | 1 | georgian |
-| `threatening_approach_from_the_left` | threatening approach from the left | 1 | arctic-inuit |
+| `threatening_approach_from_the_left` | threatening approach from the left | 1 | arctic_inuit |
 | `threatening_cry_with_fertility_consequences` | Threatening cry with fertility consequences | 1 | celtic |
 | `threatening_fiery_landscape` | threatening fiery landscape | 1 | roman |
 | `threatening_image_countered_by_reciprocal_image_capture` | Threatening image countered by reciprocal image capture | 1 | arctic_inuit |
@@ -86953,7 +86953,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `track_concealing_footwear` | track-concealing footwear | 1 | greek |
 | `tracker_follows_missing_kinsman_s_trail_to_the_killer_s_camp` | tracker follows missing kinsman's trail to the killer's camp | 1 | australian_aboriginal |
 | `trackless_path_of_the_liberated` | Trackless path of the liberated | 1 | buddhist |
-| `tracks_and_cache_as_signs_of_nearby_people` | tracks and cache as signs of nearby people | 1 | arctic-inuit |
+| `tracks_and_cache_as_signs_of_nearby_people` | tracks and cache as signs of nearby people | 1 | arctic_inuit |
 | `tracks_reveal_hidden_offender` | tracks reveal hidden offender | 1 | african_bantu |
 | `trade_adaptation_after_external_contact` | Trade adaptation after external contact | 1 | arctic_inuit |
 | `trade_contact_contrasted_with_land_displacing_colonization` | Trade contact contrasted with land-displacing colonization | 1 | native_american_plains |
@@ -87089,7 +87089,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `trap_prepared_for_another_catches_its_makers` | trap prepared for another catches its makers | 1 | fijian |
 | `trap_reversal_causing_attackers_to_eat_their_own_kin` | Trap reversal causing attackers to eat their own kin | 1 | native_american_plateau |
 | `trap_reversed_by_stone_bodied_avenger` | trap reversed by stone-bodied avenger | 1 | native_american_plains |
-| `trap_set_for_an_unknown_thief` | trap set for an unknown thief | 1 | arctic-inuit |
+| `trap_set_for_an_unknown_thief` | trap set for an unknown thief | 1 | arctic_inuit |
 | `trap_set_for_crop_thieves_catches_one_member_of_the_group` | trap set for crop thieves catches one member of the group | 1 | fjort |
 | `trap_signaled_by_abundant_food_and_waiting_captors` | trap signaled by abundant food and waiting captors | 1 | buddhist |
 | `trapped_accomplice_decapitated_to_prevent_identification` | Trapped accomplice decapitated to prevent identification | 1 | georgian |
@@ -87491,7 +87491,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `unseen_beings_grant_and_govern_human_life` | Unseen beings grant and govern human life | 1 | germanic |
 | `unseen_domestic_helper_discovered_by_concealment` | Unseen domestic helper discovered by concealment | 1 | arctic_inuit |
 | `unseen_helper_grants_subsistence_abundance` | Unseen helper grants subsistence abundance | 1 | native_american_plains |
-| `unseen_hill_being_blamed_for_bad_weather` | Unseen hill-being blamed for bad weather | 1 | arctic-inuit |
+| `unseen_hill_being_blamed_for_bad_weather` | Unseen hill-being blamed for bad weather | 1 | arctic_inuit |
 | `unseen_kin_helper_completes_impossible_labor` | unseen kin-helper completes impossible labor | 1 | native_american_plains |
 | `unseen_maternal_guardian` | unseen maternal guardian | 1 | fijian |
 | `unseen_meal_among_enemies` | unseen meal among enemies | 1 | native_american_great_lakes |
@@ -87746,7 +87746,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `violent_mutilation_after_blamed_loss_of_luck` | Violent mutilation after blamed loss of luck | 1 | native_american_plains |
 | `violent_offenders_refigured_as_remorseful_youths` | Violent offenders refigured as remorseful youths | 1 | burmese |
 | `violent_or_impossible_shaving_of_an_adversary` | violent or impossible shaving of an adversary | 1 | celtic |
-| `violent_oral_traditions_as_remembered_history` | violent oral traditions as remembered history | 1 | arctic-inuit |
+| `violent_oral_traditions_as_remembered_history` | violent oral traditions as remembered history | 1 | arctic_inuit |
 | `violent_prevention_of_a_rival_wedding` | violent prevention of a rival wedding | 1 | georgian |
 | `violent_recovery_of_withheld_food_from_a_victim_s_stomach` | Violent recovery of withheld food from a victim's stomach | 1 | native_american_northwest_coast |
 | `violent_religious_coercion_by_an_invading_force` | violent religious coercion by an invading force | 1 | arthurian |
@@ -88019,7 +88019,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `wilderness_refuge_prepared_for_attack` | wilderness refuge prepared for attack | 1 | hindu |
 | `wilderness_transformed_into_substitute_homeland` | wilderness transformed into substitute homeland | 1 | hindu |
 | `will_as_reins_over_bodily_matter` | Will as reins over bodily matter | 1 | roman |
-| `will_to_live_tied_to_hunting_strength` | Will to live tied to hunting strength | 1 | arctic-inuit |
+| `will_to_live_tied_to_hunting_strength` | Will to live tied to hunting strength | 1 | arctic_inuit |
 | `willow_untouched_by_cockcrow` | Willow untouched by cockcrow | 1 | germanic |
 | `wilvaru_ceremony` | Wilvaru ceremony | 1 | australian_aboriginal |
 | `wine_joy_and_intoxication_leading_to_exposure` | Wine, joy, and intoxication leading to exposure | 1 | jewish_pseudepigrapha |
@@ -88162,7 +88162,7 @@ This report lists motif IDs that are present in the motif occurrence index but n
 | `woman_avoiding_contact_with_the_ground` | Woman avoiding contact with the ground | 1 | germanic |
 | `woman_confined_in_a_chest_and_enslaved` | Woman confined in a chest and enslaved | 1 | greek |
 | `woman_doctor_figure` | woman-doctor figure | 1 | australian_aboriginal |
-| `woman_exceeds_men_in_hunting_roles` | woman exceeds men in hunting roles | 1 | arctic-inuit |
+| `woman_exceeds_men_in_hunting_roles` | woman exceeds men in hunting roles | 1 | arctic_inuit |
 | `woman_initiated_marital_separation` | woman-initiated marital separation | 1 | native_american_southwest |
 | `woman_leaves_after_domestic_conflict_and_marries_among_adlet` | Woman leaves after domestic conflict and marries among Adlet | 1 | arctic_inuit |
 | `woman_lured_aboard_a_trading_boat_and_carried_away` | woman lured aboard a trading boat and carried away | 1 | slavic |

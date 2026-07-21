@@ -1,6 +1,6 @@
 # Texts Checklist
 
-Generated on 2026-07-17 from `data/collections/ingested-corpus.yml`, `data/collections/first-500-corpus.yml`, and `data/collections/first-500-source-map.yml`.
+Generated on 2026-07-20 from `data/collections/ingested-corpus.yml`, `data/collections/first-500-corpus.yml`, and `data/collections/first-500-source-map.yml`.
 
 This page tracks complete source Markdown files currently present in the repo and the planned first-500 corpus units still to be filled or split. A checked first-500 unit means a complete source Markdown file exists that covers it; long works may still need unit-level splitting before the unit is final.
 
@@ -8,30 +8,145 @@ This page tracks complete source Markdown files currently present in the repo an
 
 | Track | Count |
 | --- | ---: |
-| Included Markdown source texts | 58 |
-| Markdown files under `texts/` | 70 |
+| Included Markdown source texts | 339 |
+| Markdown files under `texts/` | 350 |
 | First-500 planned units | 500 |
 | First-500 units with source Markdown | 299 |
 | First-500 units needing translation/source review or unit matching | 58 |
 | First-500 units still unchecked | 201 |
-| Included source texts outside first-500 source map | 33 |
+| Included source texts outside first-500 source map | 314 |
 
 ## Included Markdown Source Texts
+
+### African
+
+- [x] Ashanti — `african.ashanti.rattray_archive` — [texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md](texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md)
+- [x] At the Back of the Black Man's Mind; or, Notes on the Kingly Office in West Africa — `african.back_of_the_black_mans_mind.dennett_archive` — [texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md](texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md)
+- [x] Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales — `african.cunnie_rabbit_temne.cronise_ward_gutenberg` — [texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md](texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md)
+- [x] Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes — `african.folk_tales_angola.chatelain_archive` — [texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md](texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md)
+- [x] Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the Folk — `african.hausa_superstitions_customs.tremearne_archive` — [texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md](texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md)
+- [x] In the Shadow of the Bush — `african.in_the_shadow_of_the_bush.talbot_archive` — [texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md](texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md)
+- [x] Jamaica Anansi Stories — `african_diaspora.jamaica_anansi_stories.beckwith_gutenberg` — [texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md](texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md)
+- [x] Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony — `african.kaffir_folk_lore.theal_archive` — [texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md](texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md)
+- [x] Notes on the Folklore of the Fjort (French Congo) — `african.folklore_of_the_fjort.dennett_archive` — [texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md](texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md)
+- [x] Reynard the Fox in South Africa; or, Hottentot Fables and Tales — `african.reynard_the_fox_hottentot.bleek_archive` — [texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md](texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md)
+- [x] The Baganda: An Account of Their Native Customs and Beliefs — `african.the_baganda.roscoe_archive` — [texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md](texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md)
+- [x] The Ila-Speaking Peoples of Northern Rhodesia, Vol. I — `african.ila_speaking_peoples_1.smith_dale_archive` — [texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md](texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md)
+- [x] The Ila-Speaking Peoples of Northern Rhodesia, Vol. II — `african.ila_speaking_peoples_2.smith_dale_archive` — [texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md](texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md)
+- [x] The Life of a South African Tribe, Vol. I (The Social Life) — `african.life_south_african_tribe_1.junod_archive` — [texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md](texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md)
+- [x] The Life of a South African Tribe, Vol. II (The Psychic Life) — `african.life_south_african_tribe_2.junod_archive` — [texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md](texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md)
+- [x] The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc. — `african.yoruba_speaking_peoples.ellis_archive` — [texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md](texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md)
+- [x] West African Folk-Tales — `african.west_african_folk_tales.barker_gutenberg` — [texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md](texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md)
+- [x] With a Prehistoric People: The Akikuyu of British East Africa — `african.akikuyu_prehistoric_people.routledge_archive` — [texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md](texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md)
 
 ### Ainu Folklore
 
 - [x] Aino Folk-Tales — `ainu.folk_tales.chamberlain_gutenberg` — [texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md](texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md)
 
+### Ancient Near Eastern
+
+- [x] Development of Religion and Thought in Ancient Egypt — `egyptian.development_of_religion_thought.breasted_archive` — [texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md](texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md)
+- [x] The Religions of Ancient Egypt and Babylonia — `egyptian.religions_egypt_babylonia.sayce_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md](texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md)
+
+### Andamanese
+
+- [x] On the Aboriginal Inhabitants of the Andaman Islands — `andamanese.aboriginal_inhabitants_andaman.man_archive` — [texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md](texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md)
+- [x] The Andaman Islanders: A Study in Social Anthropology — `andamanese.andaman_islanders.radcliffe_brown_gutenberg` — [texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md](texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md)
+
+### Andean
+
+- [x] First Part of the Royal Commentaries of the Yncas, Vol. II — `inca.royal_commentaries.garcilaso_markham_archive` — [texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md](texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md)
+- [x] Narratives of the Rites and Laws of the Yncas — `andean.rites_and_laws_of_the_yncas.markham_archive` — [texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md](texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md)
+- [x] Narratives of the Rites and Laws of the Yncas — `inca.rites_laws_yncas.molina_markham_archive` — [texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md](texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md)
+
+### Arctic
+
+- [x] Across Arctic America: Narrative of the Fifth Thule Expedition — `arctic_inuit.across_arctic_america.rasmussen_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md](texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md)
+- [x] Ethnology of the Ungava District, Hudson Bay Territory — `native_american.ungava_district.turner_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md](texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md)
+- [x] The Eskimo about Bering Strait — `native_american.eskimo_bering_strait.nelson_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md](texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md)
+- [x] The Eskimo of Baffin Land and Hudson Bay, Part I — `arctic_inuit.eskimo_baffin_hudson_1.boas_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md](texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md)
+- [x] The Eskimo of Baffin Land and Hudson Bay, Part II — `arctic_inuit.eskimo_baffin_hudson_2.boas_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md](texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md)
+- [x] The Labrador Eskimo — `native_american.labrador_eskimo.hawkes_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md](texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md)
+- [x] The People of the Polar North: A Record — `arctic_inuit.people_of_polar_north.rasmussen_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md](texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md)
+
+### Arctic Inuit
+
+- [x] Eskimo Folk-Tales — `arctic_inuit.eskimo_folk_tales.rasmussen_worster_gutenberg` — [texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md](texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md)
+- [x] Tales and Traditions of the Eskimo — `arctic_inuit.tales_and_traditions_of_the_eskimo.rink_archive` — [texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md](texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md)
+- [x] The Central Eskimo — `arctic_inuit.central_eskimo.boas_gutenberg` — [texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md](texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md)
+
+### Armenian
+
+- [x] Armenian Legends and Poems — `armenian.armenian_legends_and_poems.boyajian_gutenberg` — [texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md](texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md)
+
+### Australian
+
+- [x] Ethnological Studies among the North-West-Central Queensland Aborigines — `australian.ethnological_studies_queensland.roth_archive` — [texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md](texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md)
+- [x] The Native Tribes of Central Australia — `australian.native_tribes_central_australia.spencer_gillen_archive` — [texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md](texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md)
+- [x] The Northern Tribes of Central Australia — `australian.northern_tribes_central_australia.spencer_gillen_archive` — [texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md](texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md)
+
+### Australian Aboriginal
+
+- [x] Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies — `australian.australian_legendary_tales.parker_gutenberg` — [texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md](texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md)
+- [x] More Australian Legendary Tales — `australian.more_australian_legendary_tales.parker_archive` — [texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md](texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md)
+- [x] The Euahlayi Tribe: A Study of Aboriginal Life in Australia — `australian.euahlayi_tribe.parker_gutenberg` — [texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md](texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md)
+
+### Bantu Southern African
+
+- [x] Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words — `african.nursery_tales_zulus.callaway_archive` — [texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md](texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md)
+
+### Basque
+
+- [x] Basque Legends — `basque.basque_legends.webster_gutenberg` — [texts/public-domain/basque/project-gutenberg/basque-legends-webster.md](texts/public-domain/basque/project-gutenberg/basque-legends-webster.md)
+
 ### Buddhist
 
+- [x] Antiquities of Indian Tibet, Part 1 — `tibetan.antiquities_of_indian_tibet.francke_vol1_archive` — [texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md](texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md)
+- [x] Antiquities of Indian Tibet, Part 2 - The Chronicles of Ladakh — `tibetan.antiquities_of_indian_tibet.francke_vol2_archive` — `missing path`
+- [x] Buddhism in Translations (Harvard Oriental Series, Vol. 3) — `buddhist.buddhism_in_translations.warren_archive` — [texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md](texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md)
 - [x] Buddhist birth stories; or, Jataka tales, Volume 1 — `buddhist.jataka.birth_stories_rhys_davids_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md](texts/public-domain/buddhist/project-gutenberg/buddhist-birth-stories-volume-1-rhys-davids.md)
+- [x] Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49) — `buddhist.mahayana_texts.sbe49.cowell_archive` — [texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md](texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md)
+- [x] Buddhist Suttas (Sacred Books of the East, Vol. 11) — `buddhist.buddhist_suttas.rhys_davids_sbe11_archive` — [texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md](texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md)
 - [x] Dhammapada, a Collection of Verses — `buddhist.dhammapada.max_muller_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md](texts/public-domain/buddhist/project-gutenberg/dhammapada-max-muller.md)
+- [x] Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists — `buddhist.dhammapada.muller_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/dhammapada-muller.md](texts/public-domain/buddhist/project-gutenberg/dhammapada-muller.md)
 - [x] Jataka tales — `buddhist.jataka_tales.babbitt_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md](texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md)
 - [x] More Jataka Tales — `buddhist.more_jataka_tales.babbitt_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md](texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md)
+- [x] The Buddhism of Tibet, or Lamaism — `tibetan.buddhism_of_tibet.waddell_archive` — [texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md](texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md)
+- [x] The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita — `buddhist.diamond_sutra.gemmell_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md](texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md)
+- [x] The Mahavamsa, or The Great Chronicle of Ceylon — `buddhist.mahavamsa.geiger_archive` — [texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md](texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md)
+- [x] The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35) — `buddhist.milinda_1.sbe35.rhys_davids_archive` — [texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md](texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md)
+- [x] The Questions of King Milinda, Part II (Sacred Books of the East, Vol. 36) — `buddhist.milinda_2.sbe36.rhys_davids_archive` — [texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md](texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md)
+- [x] The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books of the East, Vol. 21) — `buddhist.lotus_sutra.sbe21.kern_archive` — [texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md](texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md)
+- [x] The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II) — `buddhist.sutta_nipata.sbe10.fausboll_archive` — [texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md](texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md)
+- [x] The Tibetan Book of the Dead — `tibetan.book_of_the_dead.evans_wentz_archive` — [texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md](texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md)
+- [x] Vinaya Texts, Part I: The Patimokkha, The Mahavagga I-IV (Sacred Books of the East, Vol. 13) — `buddhist.vinaya_1.sbe13.rhys_davids_oldenberg_archive` — [texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md](texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md)
+- [x] Vinaya Texts, Part II: The Mahavagga V-X, The Kullavagga I-III (Sacred Books of the East, Vol. 17) — `buddhist.vinaya_2.sbe17.rhys_davids_oldenberg_archive` — [texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md](texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md)
+- [x] Vinaya Texts, Part III: The Kullavagga IV-XII (Sacred Books of the East, Vol. 20) — `buddhist.vinaya_3.sbe20.rhys_davids_oldenberg_archive` — [texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md](texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md)
 
 ### Buddhist Indian Folklore
 
 - [x] The Giant Crab, and Other Tales from Old India — `buddhist.old_india_tales.rouse_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md](texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md)
+- [x] The Jataka; or, Stories of the Buddha's Former Births, Vol. I — `buddhist.jataka.cowell_vol1_archive` — [texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md](texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md)
+- [x] The Jataka; or, Stories of the Buddha's Former Births, Vol. III — `buddhist.jataka.cowell_vol3_archive` — [texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md](texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md)
+- [x] The Jataka; or, Stories of the Buddha's Former Births, Vol. VI — `buddhist.jataka.cowell_vol6_archive` — [texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md](texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md)
+
+### Caucasian
+
+- [x] Caucasian Folk-Tales — `caucasian.folk_tales.dirr_menzies_archive` — [texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md](texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md)
+- [x] Georgian Folk Tales — `georgian.georgian_folk_tales.wardrop_gutenberg` — [texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md](texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md)
+- [x] The Man in the Panther's Skin — `georgian.man_in_the_panthers_skin.wardrop_archive` — [texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md](texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md)
+
+### Celtic
+
+- [x] Celtic Fairy Tales — `celtic.celtic_fairy_tales.jacobs_gutenberg` — [texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md](texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md)
+- [x] Cuchulain of Muirthemne — `celtic.cuchulain_of_muirthemne.gregory_archive` — [texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md](texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md)
+- [x] Gods and Fighting Men — `celtic.gods_and_fighting_men.gregory_gutenberg` — [texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md](texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md)
+- [x] More Celtic Fairy Tales — `celtic.more_celtic_fairy_tales.jacobs_gutenberg` — [texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md](texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md)
+- [x] Myths & Legends of the Celtic Race — `celtic.myths_legends_celtic_race.rolleston_gutenberg` — [texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md](texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md)
+- [x] Popular Tales of the West Highlands, Volume 1 — `celtic.popular_tales_west_highlands_v1.campbell_archive` — [texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md](texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md)
+- [x] Popular Tales of the West Highlands, Volume 2 — `celtic.popular_tales_west_highlands_v2.campbell_archive` — [texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md](texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md)
+- [x] The Mabinogion — `celtic.mabinogion.guest_gutenberg` — [texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md](texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md)
+- [x] The Mythology of the British Islands — `celtic.mythology_british_islands.squire_gutenberg` — [texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md](texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md)
 
 ### Celtic Irish
 
@@ -43,15 +158,37 @@ This page tracks complete source Markdown files currently present in the repo an
 
 - [x] The Mabinogion — `celtic_welsh.mabinogion.guest_gutenberg` — [texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md](texts/public-domain/celtic-welsh/project-gutenberg/mabinogion-guest.md)
 
+### Central Asian
+
+- [x] Sagas from the Far East — `mongol.sagas_from_the_far_east.busk_gutenberg` — [texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md](texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md)
+- [x] The Mongols - A History — `mongol.the_mongols_history.curtin_archive` — [texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md](texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md)
+
+### Central Asian Steppe
+
+- [x] Gessar Khan — `central_asian.gessar_khan.zeitlin_archive` — [texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md](texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md)
+
+### Chinese
+
+- [x] 論語 — `chinese.confucius.analects_chinese_gutenberg` — [texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md](texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md)
+- [x] 道德經 — `chinese.laozi.daodejing_chinese_gutenberg` — [texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md](texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md)
+
+### Christian
+
+- [x] Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles — `greek.didache.bryennios_hitchcock_brown_gutenberg` — [texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md](texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md)
+
 ### Classical
 
 - [x] Myths and Legends of Ancient Greece and Rome — `greek_roman.berens.myths_legends_gutenberg` — [texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md](texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md)
 
 ### Classical Roman
 
+- [x] On the Nature of Things — `roman.lucretius.nature_of_things.leonard_gutenberg` — [texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md](texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md)
 - [x] The Aeneid of Virgil — `roman.aeneid.mackail_gutenberg` — [texts/public-domain/roman/project-gutenberg/aeneid-mackail.md](texts/public-domain/roman/project-gutenberg/aeneid-mackail.md)
+- [x] The Georgics — `roman.virgil.georgics.rhoades_gutenberg` — [texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md](texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md)
+- [x] The Golden Asse — `roman.apuleius.golden_ass.adlington_gutenberg` — [texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md](texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md)
 - [x] The Metamorphoses of Ovid, Books I-VII — `roman.ovid.metamorphoses_books_1_7_riley_gutenberg` — [texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md](texts/public-domain/roman/project-gutenberg/metamorphoses-books-1-7-riley.md)
 - [x] The Metamorphoses of Ovid, Books VIII-XV — `roman.ovid.metamorphoses_books_8_15_riley_gutenberg` — [texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md](texts/public-domain/roman/project-gutenberg/metamorphoses-books-8-15-riley.md)
+- [x] The Mysteries of Mithra — `roman.cumont.mysteries_of_mithra.archive` — [texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md](texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md)
 
 ### Comparative Religion
 
@@ -68,18 +205,74 @@ This page tracks complete source Markdown files currently present in the repo an
 - [x] Chuang Tzu: Mystic, Moralist, and Social Reformer — `daoist.zhuangzi.giles_gutenberg` — [texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md](texts/public-domain/daoist/project-gutenberg/chuang-tzu-giles.md)
 - [x] The Tao Teh King, or the Tao and its Characteristics — `daoist.tao_teh_king.legge_gutenberg` — [texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md](texts/public-domain/daoist/project-gutenberg/tao-teh-king-legge.md)
 
+### Daoist Confucian Chinese
+
+- [x] Chuang Tzŭ: Mystic, Moralist, and Social Reformer — `chinese.chuang_tzu.giles_archive` — [texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md](texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md)
+- [x] The Four Books: Confucian Analects, The Great Learning, The Doctrine of the Mean, and The Works of Mencius — `confucian.four_books.legge_archive` — [texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md](texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md)
+- [x] The Li Ki, Books I-X (The Sacred Books of China: The Texts of Confucianism, Part III; Sacred Books of the East, Vol. 27) — `chinese.li_ki_1.sbe27.legge_archive` — [texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md](texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md)
+- [x] The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism, Part IV; Sacred Books of the East, Vol. 28) — `chinese.li_ki_2.sbe28.legge_archive` — [texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md](texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md)
+- [x] The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King, the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East, Vol. 3) — `chinese.shu_king_shih_king.sbe3.legge_archive` — [texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md](texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md)
+- [x] The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39) — `chinese.texts_of_taoism.legge_sbe39_archive` — [texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md](texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md)
+- [x] The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40) — `chinese.texts_of_taoism.legge_sbe40_archive` — [texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md](texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md)
+- [x] The Yi King (I Ching) (Sacred Books of the East, Vol. 16) — `chinese.i_ching.sbe16.legge_archive` — [texts/public-domain/confucian/project-gutenberg/i-ching-legge.md](texts/public-domain/confucian/project-gutenberg/i-ching-legge.md)
+
+### East Asian
+
+- [x] Corea, the Hermit Nation — `korean.corea_the_hermit_nation.griffis_archive` — [texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md](texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md)
+- [x] Korean Folk Tales - Imps, Ghosts and Fairies — `korean.korean_folk_tales.gale_archive` — [texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md](texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md)
+- [x] Korean Tales — `korean.korean_tales.allen_archive` — [texts/public-domain/korean/internet-archive/korean-tales-allen.md](texts/public-domain/korean/internet-archive/korean-tales-allen.md)
+
 ### Egyptian
 
+- [x] Egyptian Ideas of the Future Life — `egyptian.budge.egyptian_ideas_future_life.gutenberg` — [texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md](texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md)
+- [x] Egyptian Tales, Translated from the Papyri: First Series, IVth to XIIth Dynasty — `egyptian.tales_first_series.petrie_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md](texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md)
+- [x] Egyptian Tales, Translated from the Papyri: Second Series, XVIIIth to XIXth Dynasty — `egyptian.tales_second_series.petrie_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md](texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md)
+- [x] Legends of the Gods: The Egyptian Texts, edited with Translations — `egyptian.legends_of_gods.budge_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md](texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md)
 - [x] The Book of the Dead — `egyptian.book_of_the_dead.budge_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md](texts/public-domain/egyptian/project-gutenberg/book-of-the-dead-budge.md)
+- [x] The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat — `egyptian.amduat.egyptian_heaven_hell_v1_budge_archive` — [texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md](texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md)
+- [x] The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I — `egyptian.budge.gods_of_the_egyptians.archive_v1` — [texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md](texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md)
+- [x] The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume II — `egyptian.budge.gods_of_the_egyptians.archive_v2` — [texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md](texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md)
+- [x] The Literature of the Ancient Egyptians — `egyptian.literature_ancient_egyptians.budge_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md](texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md)
+
+### European Folk
+
+- [x] Household Tales by Brothers Grimm — `germanic.grimm_household_tales.hunt_gutenberg` — [texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md](texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md)
+- [x] Myths and Folk-tales of the Russians, Western Slavs, and Magyars — `slavic.myths_folk_tales.curtin_gutenberg` — [texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md](texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md)
+- [x] Roumanian Fairy Tales — `romanian.fairy_tales.kremnitz_gutenberg` — [texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md](texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md)
+- [x] Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore — `slavic.russian_fairy_tales.ralston_gutenberg` — [texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md](texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md)
+- [x] The Epic Songs of Russia — `slavic.epic_songs_of_russia.hapgood_archive` — [texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md](texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md)
+- [x] The Hero of Esthonia and Other Studies in the Romantic Literature of That Country — `baltic.hero_of_esthonia.kirby_gutenberg` — [texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md](texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md)
 
 ### Finnish Karelian
 
 - [x] Kalevala: The Epic Poem of Finland — `finnish_karelian.kalevala.crawford_gutenberg` — [texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md](texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md)
 
+### Finno Ugric
+
+- [x] Finno-Ugric, Siberian Mythology — `finnic.finno_ugric_siberian_mythology.holmberg_archive` — [texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md](texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md)
+- [x] The Pre- and Proto-historic Finns, Volume 1 — `finnic.pre_and_proto_historic_finns.abercromby_vol1_archive` — [texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md](texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md)
+- [x] The Pre- and Proto-historic Finns, Volume 2 - The Magic Songs — `finnic.pre_and_proto_historic_finns.abercromby_vol2_archive` — [texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md](texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md)
+
+### Germanic
+
+- [x] Teutonic Mythology, Volume 1 — `germanic.teutonic_mythology_v1.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md)
+- [x] Teutonic Mythology, Volume 2 — `germanic.teutonic_mythology_v2.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md)
+- [x] Teutonic Mythology, Volume 3 — `germanic.teutonic_mythology_v3.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md)
+- [x] Teutonic Mythology, Volume 4 — `germanic.teutonic_mythology_v4.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md)
+
 ### Greek
 
+- [x] Aeschylus' Prometheus Bound and the Seven Against Thebes — `greek.aeschylus.prometheus_bound.buckley_gutenberg` — [texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md](texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md)
 - [x] Hesiod, the Homeric Hymns, and Homerica — `greek.hesiod_homeric_hymns.evelyn_white_gutenberg` — [texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md](texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md)
+- [x] Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals — `greek.modern_greek_folklore.lawson_gutenberg` — [texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md](texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md)
+- [x] Pausanias's Description of Greece, Volume I, Translated with a Commentary by J. G. Frazer — `greek.pausanias.description_of_greece.frazer_archive_v1` — [texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md](texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md)
+- [x] Plutarch's Morals — `greek.plutarch.morals.shilleto_gutenberg` — [texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md](texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md)
+- [x] The Bacchae of Euripides — `greek.euripides.bacchae.murray_gutenberg` — [texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md](texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md)
+- [x] The Extant Odes of Pindar — `greek.pindar.odes.myers_gutenberg` — [texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md](texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md)
+- [x] The Homeric Hymns — `greek.homeric_hymns.lang_gutenberg` — [texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md](texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md)
+- [x] The House of Atreus; Being the Agamemnon, the Libation Bearers, and the Furies — `greek.aeschylus.house_of_atreus.morshead_gutenberg` — [texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md](texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md)
 - [x] The Iliad — `greek.iliad.pope_gutenberg` — [texts/public-domain/greek/project-gutenberg/iliad-pope.md](texts/public-domain/greek/project-gutenberg/iliad-pope.md)
+- [x] The Library, Volume I (Apollodorus), with an English Translation by James George Frazer — `greek.apollodorus.library.frazer_archive_v1` — [texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md](texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md)
 - [x] The Odyssey — `greek.odyssey.butler_gutenberg` — [texts/public-domain/greek/project-gutenberg/odyssey-butler.md](texts/public-domain/greek/project-gutenberg/odyssey-butler.md)
 
 ### Greek Fable Later Collection
@@ -92,12 +285,43 @@ This page tracks complete source Markdown files currently present in the repo an
 - [x] Symposium — `greek.plato.symposium_jowett_gutenberg` — [texts/public-domain/greek/project-gutenberg/symposium-jowett.md](texts/public-domain/greek/project-gutenberg/symposium-jowett.md)
 - [x] The Republic — `greek.plato.republic_jowett_gutenberg` — [texts/public-domain/greek/project-gutenberg/republic-jowett.md](texts/public-domain/greek/project-gutenberg/republic-jowett.md)
 
+### Greek Roman
+
+- [x] The Argonautica — `greek.argonautica.seaton_gutenberg` — [texts/public-domain/greek/project-gutenberg/argonautica-seaton.md](texts/public-domain/greek/project-gutenberg/argonautica-seaton.md)
+
 ### Hindu
 
 - [x] Maha-bharata — `hindu.mahabharata.dutt_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md](texts/public-domain/hindu/project-gutenberg/mahabharata-dutt.md)
 - [x] The Ramayan of Valmiki — `hindu.ramayana.griffith_gutenberg` — [texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md](texts/public-domain/hindu/project-gutenberg/ramayana-griffith.md)
 - [x] The Song Celestial; Or, Bhagavad-Gita — `hindu.bhagavad_gita.song_celestial_gutenberg` — [texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md](texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita.md)
 - [x] The Upanishads — `hindu.upanishads.paramananda_gutenberg` — [texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md](texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md)
+
+### Hindu Jain Indian Philosophical
+
+- [x] A Prose English Translation of Vishnupuranam — `hindu.vishnu_purana.dutt_gutenberg` — [texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md](texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md)
+- [x] Hindu Philosophy: The Sankhya Karika of Iswara Krishna — `hindu.samkhya_karika.davies_archive` — [texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md](texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md)
+- [x] Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books of the East, Vol. 22) — `jain.jaina_sutras.sbe22.jacobi_archive` — [texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md](texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md)
+- [x] Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred Books of the East, Vol. 45) — `jain.jaina_sutras.jacobi_part2_sbe45_archive` — [texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md](texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md)
+- [x] The Hymns of the Rigveda, Complete 2 Volumes — `hindu.rigveda.griffith_archive` — [texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md](texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md)
+- [x] The Laws of Manu (Sacred Books of the East, Vol. 25) — `hindu.laws_of_manu.buhler_sbe25_archive` — [texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md](texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md)
+- [x] The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata) — `hindu.bhagavad_gita.arnold_song_celestial_gutenberg` — [texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md](texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md)
+- [x] The Upanishads, Part I (Sacred Books of the East, Vol. 1) — `hindu.upanishads.sbe01.muller_archive` — [texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md](texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md)
+- [x] The Upanishads, Part II (Sacred Books of the East, Vol. 15) — `hindu.upanishads.sbe15.muller_archive` — [texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md](texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md)
+- [x] The Yoga Sutras of Patanjali: The Book of the Spiritual Man — `hindu.yoga_sutras.johnston_gutenberg` — [texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md](texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md)
+- [x] Thirty Minor Upanishads — `hindu.minor_upanishads.narayanasvami_aiyar_archive` — [texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md](texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md)
+- [x] Vedic Hymns, Part I (Sacred Books of the East, Vol. 32) — `hindu.vedic_hymns.muller_sbe32_archive` — [texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md](texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md)
+- [x] Vedic Hymns, Part II (Sacred Books of the East, Vol. 46) — `hindu.vedic_hymns.oldenberg_sbe46_archive` — [texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md](texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md)
+
+### Indian
+
+- [x] Maha-bharata — `hindu.mahabharata.dutt_condensed_gutenberg` — [texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md](texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md)
+- [x] Sri Vishnu Sahasranaamam — `sanskrit.vishnu_sahasranama.itrans_gutenberg` — [texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md](texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1 — `hindu.mahabharata.ganguli_vol1_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5, 6 and 7 — `hindu.mahabharata.ganguli_vol2_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11 and 12 — `hindu.mahabharata.ganguli_vol3_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14, 15, 16, 17 and 18 — `hindu.mahabharata.ganguli_vol4_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md)
+- [x] The Markandeya Purana — `hindu.markandeya_purana.pargiter_archive` — [texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md](texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md)
+- [x] The Rámáyan of Válmíki, translated into English verse — `hindu.ramayana.valmiki_griffith_gutenberg` — [texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md](texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md)
 
 ### Indigenous Australian
 
@@ -110,6 +334,8 @@ This page tracks complete source Markdown files currently present in the repo an
 
 ### Islamic Persian Sufi
 
+- [x] Bird Parliament — `sufi.attar.bird_parliament_fitzgerald_archive` — [texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md](texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md)
+- [x] Masnavi i Ma'navi: Teachings of Rumi — `sufi.rumi.masnavi_whinfield_archive` — [texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md](texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md)
 - [x] Poems from the Divan of Hafiz — `sufi.hafiz.divan.bell_gutenberg` — [texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md](texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md)
 - [x] The Confessions of Al Ghazzali — `sufi.al_ghazzali.confessions_field_gutenberg` — [texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md](texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md)
 - [x] The Mesnevi — `sufi.rumi.mesnevi_book_1_redhouse_gutenberg` — [texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md](texts/public-domain/sufi/project-gutenberg/mesnevi-book-1-redhouse.md)
@@ -130,32 +356,219 @@ This page tracks complete source Markdown files currently present in the repo an
 ### Japanese Folklore
 
 - [x] Japanese Fairy Tales — `japanese.fairy_tales.ozaki_gutenberg` — [texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md](texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md)
+- [x] Kwaidan: Stories and Studies of Strange Things — `japanese.kwaidan.hearn_gutenberg` — [texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md](texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md)
 
 ### Jewish Christian
 
 - [x] Deuteronomy — `biblical.deuteronomy.web_classic` — [texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md](texts/public-domain/biblical/world-english-bible-classic/deuteronomy.md)
 - [x] Exodus — `biblical.exodus.web_classic` — [texts/public-domain/biblical/world-english-bible-classic/exodus.md](texts/public-domain/biblical/world-english-bible-classic/exodus.md)
+- [x] Fragments of a Faith Forgotten — `gnostic.mead.fragments_of_a_faith_forgotten.archive` — [texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md](texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md)
 - [x] Genesis — `biblical.genesis.web_classic` — [texts/public-domain/biblical/world-english-bible-classic/genesis.md](texts/public-domain/biblical/world-english-bible-classic/genesis.md)
 - [x] Leviticus — `biblical.leviticus.web_classic` — [texts/public-domain/biblical/world-english-bible-classic/leviticus.md](texts/public-domain/biblical/world-english-bible-classic/leviticus.md)
 - [x] Numbers — `biblical.numbers.web_classic` — [texts/public-domain/biblical/world-english-bible-classic/numbers.md](texts/public-domain/biblical/world-english-bible-classic/numbers.md)
+- [x] Pistis Sophia — `gnostic.pistis_sophia.horner_gutenberg` — [texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md](texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md)
+- [x] The Bible, Douay-Rheims, Book 25: Wisdom — `biblical.wisdom_of_solomon.douay_gutenberg` — [texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md](texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md)
+- [x] The Bible, Douay-Rheims, Book 26: Ecclesiasticus — `biblical.sirach.douay_gutenberg` — [texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md](texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md)
+- [x] The Bible, King James Version, Book 18: Job — `biblical.job.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/job-kjv.md](texts/public-domain/biblical/project-gutenberg/job-kjv.md)
+- [x] The Bible, King James Version, Book 19: Psalms — `biblical.psalms.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/psalms-kjv.md](texts/public-domain/biblical/project-gutenberg/psalms-kjv.md)
+- [x] The Bible, King James Version, Book 23: Isaiah — `biblical.isaiah.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md](texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md)
+- [x] The Bible, King James Version, Book 26: Ezekiel — `biblical.ezekiel.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md](texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md)
+- [x] The Bible, King James Version, Book 27: Daniel — `biblical.daniel.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/daniel-kjv.md](texts/public-domain/biblical/project-gutenberg/daniel-kjv.md)
+- [x] The Bible, King James Version, Book 66: Revelation — `biblical.revelation.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/revelation-kjv.md](texts/public-domain/biblical/project-gutenberg/revelation-kjv.md)
+- [x] The Book of Enoch — `jewish.1_enoch.charles_gutenberg` — [texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md](texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md)
+- [x] The Book of Jubilees, or, The Little Genesis — `jewish.jubilees.charles_archive` — [texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md](texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md)
+- [x] The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast) — `ethiopian.kebra_nagast.budge_archive` — [texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md](texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md)
+- [x] The suppressed Gospels and Epistles of the original New Testament of Jesus the Christ, Complete — `christian.apocryphal_gospels.wake_gutenberg` — [texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md](texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md)
+- [x] Thrice-Greatest Hermes, Vol. I: Prolegomena — `hermetic.mead.thrice_greatest_hermes.archive_v1` — [texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md](texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md)
+- [x] Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum) — `hermetic.corpus_hermeticum.mead_archive` — [texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md](texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md)
+
+### Khoisan Southern African
+
+- [x] South-African Folk-Tales — `african.south_african_folk_tales.honey_gutenberg` — [texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md](texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md)
+- [x] Specimens of Bushman Folklore — `african.specimens_of_bushman_folklore.bleek_lloyd_archive` — [texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md](texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md)
+
+### Malagasy
+
+- [x] Madagascar Before the Conquest: The Island, the Country, and the People — `malagasy.madagascar_before_conquest.sibree_archive` — [texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md](texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md)
+- [x] The Great African Island: Chapters on Madagascar — `malagasy.great_african_island.sibree_archive` — [texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md](texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md)
+
+### Melanesian
+
+- [x] Tales from Old Fiji — `melanesian.tales_from_old_fiji.fison_archive` — [texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md](texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md)
+- [x] The Melanesians of British New Guinea — `melanesian.melanesians_british_new_guinea.seligman_archive` — [texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md](texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md)
+- [x] The Melanesians: Studies in Their Anthropology and Folk-Lore — `melanesian.the_melanesians.codrington_archive` — [texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md](texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md)
 
 ### Mesoamerican
 
+- [x] Rig Veda Americanus: Sacred Songs of the Ancient Mexicans — `mesoamerican.rig_veda_americanus.brinton_gutenberg` — [texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md](texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md)
+- [x] The Maya Chronicles — `mesoamerican.maya_chronicles.brinton_gutenberg` — [texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md](texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md)
+- [x] The Myths of Mexico & Peru — `mesoamerican.myths_of_mexico_peru.spence_gutenberg` — [texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md](texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md)
 - [x] The Popol Vuh — `maya_quiche.popol_vuh.spence_gutenberg` — [texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md](texts/public-domain/mesoamerican/project-gutenberg/popol-vuh-spence.md)
 
 ### Mesopotamian
 
 - [x] An Old Babylonian Version of the Gilgamesh Epic — `mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg` — [texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md](texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md)
+- [x] Assyrian and Babylonian Literature: Selected Translations — `mesopotamian.harper.assyrian_babylonian_literature.archive` — [texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md](texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md)
+- [x] Cuneiform Parallels to the Old Testament — `mesopotamian.rogers.cuneiform_parallels_archive` — [texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md](texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md)
+- [x] The Babylonian Legends of the Creation — `mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg` — [texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md](texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md)
+- [x] The Epic of Gilgamish — `mesopotamian.gilgamesh.epic_thompson_archive` — [texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md](texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md)
+- [x] The Religion of Babylonia and Assyria — `mesopotamian.jastrow.religion_babylonia_assyria.gutenberg` — [texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md](texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md)
+
+### Micronesian
+
+- [x] The Caroline Islands: Travel in the Sea of the Little Lands — `micronesian.caroline_islands.christian_archive` — [texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md](texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md)
+- [x] The Island of Stone Money: Uap of the Carolines — `micronesian.island_of_stone_money.furness_archive` — [texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md](texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md)
+
+### Native North American
+
+- [x] Navaho Legends — `native_american.navaho_legends.matthews_gutenberg` — [texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md](texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md)
+- [x] The Traditions of the Hopi — `native_american.traditions_of_the_hopi.voth_archive` — [texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md](texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md)
+- [x] Zuni Folk Tales — `native_american.zuni_folk_tales.cushing_gutenberg` — [texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md](texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md)
 
 ### Norse
 
+- [x] Corpus Poeticum Boreale, Volume 1 — `norse.corpus_poeticum_boreale_v1.vigfusson_powell_archive` — [texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md](texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md)
+- [x] Heimskringla; Or, The Chronicle of the Kings of Norway — `norse.heimskringla.laing_gutenberg` — [texts/public-domain/norse/project-gutenberg/heimskringla-laing.md](texts/public-domain/norse/project-gutenberg/heimskringla-laing.md)
+- [x] Laxdaela Saga — `norse.laxdaela_saga.press_gutenberg` — [texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md](texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md)
 - [x] Myths of the Norsemen: From the Eddas and Sagas — `norse.myths_of_norsemen.guerber_gutenberg` — [texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md](texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md)
 - [x] The Poetic Edda — `norse.poetic_edda.bellows_gutenberg` — [texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md](texts/public-domain/norse/project-gutenberg/poetic-edda-bellows.md)
 
+### Norse Celtic
+
+- [x] Beowulf: An Anglo-Saxon Epic Poem — `germanic.beowulf.gummere_gutenberg` — [texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md](texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md)
+- [x] The High History of the Holy Graal — `arthurian.holy_graal.evans_gutenberg` — [texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md](texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md)
+- [x] The Nibelungenlied — `germanic.nibelungenlied.needler_gutenberg` — [texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md](texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md)
+- [x] The Saga of Grettir the Strong: Grettir's Saga — `norse.grettis_saga.hight_gutenberg` — [texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md](texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md)
+- [x] The Story of Burnt Njal: From the Icelandic of the Njals Saga — `norse.njals_saga.dasent_gutenberg` — [texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md](texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md)
+- [x] The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda — `norse.volsunga_saga.morris_gutenberg` — [texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md](texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md)
+- [x] The Voyage of Bran, Son of Febal, to the Land of the Living — `celtic_irish.voyage_of_bran.meyer_archive` — [texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md](texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md)
+- [x] The Younger Edda; Also called Snorre's Edda, or The Prose Edda — `norse.prose_edda.anderson_gutenberg` — [texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md](texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md)
+
+### North American
+
+- [x] Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona — `native_american.aw_aw_tam_indian_nights.lloyd_gutenberg` — [texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md](texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md)
+- [x] Blackfoot Lodge Tales — `native_american.blackfoot_lodge_tales.grinnell_archive` — [texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md](texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md)
+- [x] Chinook Texts — `native_american.chinook_texts.boas_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md)
+- [x] Chippewa Music — `native_american.chippewa_music_1.densmore_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md](texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md)
+- [x] Chippewa Music II — `native_american.chippewa_music_2.densmore_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md](texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md)
+- [x] Creation Myths of Primitive America — `native_american.creation_myths.curtin_archive` — [texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md](texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md)
+- [x] Ethnology of the Kwakiutl, Part 1 — `native_american.ethnology_kwakiutl_1.boas_hunt_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md)
+- [x] Ethnology of the Kwakiutl, Part 2 — `native_american.ethnology_kwakiutl_2.boas_hunt_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md)
+- [x] Fox Texts — `native_american.fox_texts.jones_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md](texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md)
+- [x] Gros Ventre Myths and Tales — `native_american.gros_ventre.kroeber_archive` — [texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md](texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md)
+- [x] Haida Texts and Myths: Skidegate Dialect — `native_american.haida_texts_myths.swanton_gutenberg` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md)
+- [x] Jicarilla Apache Texts — `native_american.jicarilla_apache_texts.goddard_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md](texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md)
+- [x] Mythology of the Blackfoot Indians — `native_american.mythology_blackfoot.wissler_duvall_archive` — [texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md](texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md)
+- [x] Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa — `native_american.timiskaming_algonquin.speck_archive` — [texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md](texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md)
+- [x] Myths and Tales from the San Carlos Apache — `native_american.myths_tales_san_carlos_apache.goddard_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md](texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md)
+- [x] Myths and Traditions of the Crow Indians — `native_american.myths_traditions_crow.lowie_archive` — [texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md](texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md)
+- [x] Myths of the Cherokee — `native_american.myths_of_cherokee.mooney_gutenberg` — [texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md](texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md)
+- [x] Myths of the Modocs — `native_american.myths_of_the_modocs.curtin_archive` — [texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md](texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md)
+- [x] Notes on the Eastern Cree and Northern Saulteaux — `native_american.eastern_cree.skinner_archive` — [texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md](texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md)
+- [x] Seneca Fiction, Legends, and Myths — `native_american.seneca_fiction_legends_myths.curtin_hewitt_archive` — [texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md](texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md)
+- [x] Social Life and Ceremonial Bundles of the Menomini Indians — `native_american.menomini_bundles.skinner_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md](texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md)
+- [x] Teton Sioux Music — `native_american.teton_sioux_music.densmore_archive` — [texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md](texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md)
+- [x] The Assiniboine — `native_american.the_assiniboine.lowie_archive` — [texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md](texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md)
+- [x] The Mountain Chant: A Navajo Ceremony — `native_american.mountain_chant.matthews_gutenberg` — [texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md](texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md)
+- [x] The Mythology of the Bella Coola Indians — `native_american.mythology_bella_coola.boas_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md)
+- [x] The Omaha Tribe — `native_american.omaha_tribe.fletcher_laflesche_archive` — [texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md](texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md)
+- [x] The Pawnee - Mythology (Part I) — `native_american.pawnee_mythology.dorsey_archive` — [texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md)
+- [x] The Pima Indians — `native_american.pima_indians.russell_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md](texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md)
+- [x] The Ritual and Significance of the Winnebago Medicine Dance — `native_american.winnebago_medicine_dance.radin_gutenberg` — [texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md](texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md)
+- [x] The Sia — `native_american.the_sia.stevenson_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md](texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md)
+- [x] The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies — `native_american.zuni_indians.stevenson_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md](texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md)
+- [x] Tlingit Myths and Texts — `native_american.tlingit_myths_texts.swanton_gutenberg` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md)
+- [x] Traditions of the Arapaho — `native_american.traditions_arapaho.dorsey_kroeber_archive` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md)
+- [x] Traditions of the Arikara — `native_american.traditions_arikara.dorsey_gutenberg` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md)
+- [x] Traditions of the Caddo — `native_american.traditions_caddo.dorsey_archive` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md)
+- [x] Traditions of the Skidi Pawnee — `native_american.traditions_skidi_pawnee.dorsey_archive` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md)
+- [x] Traditions of the Thompson River Indians of British Columbia — `native_american.thompson_river.teit_archive` — [texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md](texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md)
+- [x] Tsimshian Mythology — `native_american.tsimshian_mythology.boas_tate_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md)
+- [x] Tsimshian Texts — `native_american.tsimshian_texts.boas_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md)
+- [x] Tusayan Migration Traditions — `native_american.tusayan_migration_traditions.fewkes_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md](texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md)
+- [x] Wishram Texts — `native_american.wishram_texts.sapir_archive` — [texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md](texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md)
+- [x] Yana Texts — `native_american.yana_texts.sapir_archive` — [texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md](texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md)
+
+### Oceanian Polynesian
+
+- [x] Hawaiian Folk Tales: A Collection of Native Legends — `polynesian.hawaiian_folk_tales.thrum_gutenberg` — [texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md](texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md)
+- [x] Polynesian Mythology and Ancient Traditional History of the New Zealand Race — `polynesian.maori.polynesian_mythology.grey_archive` — [texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md](texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md)
+
+### Oceanic
+
+- [x] Oceanic Mythology — `oceanic.oceanic_mythology.dixon_archive` — [texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md](texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md)
+- [x] The History of Melanesian Society, Volume 1 — `melanesian.history_of_melanesian_society.rivers_vol1_archive` — [texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md](texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md)
+- [x] The History of Melanesian Society, Volume 2 — `melanesian.history_of_melanesian_society.rivers_vol2_archive` — [texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md](texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md)
+
 ### Persian
 
+- [x] Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast — `zoroastrian.pahlavi.bundahis_west_archive` — [texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md](texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md)
 - [x] Persian Literature, Volume 1 — `persian.persian_literature_volume_1.gutenberg` — [texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md](texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md)
 - [x] The Persian Literature, Volume 2, The Gulistan — `persian.sadi.gulistan.ross_gutenberg` — [texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md](texts/public-domain/persian/project-gutenberg/gulistan-sadi-ross.md)
+- [x] The Shahnama of Firdausi, Vol. I — `persian.shahnama.warner_v1_archive` — [texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md](texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md)
+- [x] The Shahnama of Firdausi, Vol. II — `persian.shahnama.warner_v2_archive` — [texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md](texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md)
+- [x] The Zend-Avesta, Part I: The Vendidad — `zoroastrian.avesta.vendidad_darmesteter_archive` — [texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md](texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md)
+- [x] The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis — `zoroastrian.avesta.yasts_darmesteter_archive` — [texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md](texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md)
+- [x] The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments — `zoroastrian.avesta.yasna_gathas_mills_archive` — [texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md](texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md)
+
+### Polynesian
+
+- [x] Myths and Songs from the South Pacific — `polynesian.myths_songs_south_pacific.gill_archive` — [texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md](texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md)
+- [x] Samoa, A Hundred Years Ago And Long Before — `polynesian.samoa_hundred_years_ago.turner_gutenberg` — [texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md](texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md)
+- [x] The Ancient History of the Maori, His Mythology and Traditions, Volume 3 — `polynesian.ancient_history_maori_v3.white_archive` — [texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md](texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md)
+- [x] Tongan Myths and Tales — `polynesian.tongan_myths_and_tales.gifford_archive` — [texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md](texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md)
+
+### Roman
+
+- [x] Aeneidos — `latin.vergil.aeneid_latin_gutenberg` — [texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md](texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md)
+- [x] Fasti — `latin.ovid.fasti_latin_gutenberg` — [texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md](texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md)
+
+### Shinto Japanese
+
+- [x] Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1 — `shinto.nihongi.volume_1.aston_archive` — [texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md](texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md)
+- [x] Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2 — `shinto.nihongi.volume_2.aston_archive` — [texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md](texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md)
+
+### Siberian
+
+- [x] Aboriginal Siberia - A Study in Social Anthropology — `siberian.aboriginal_siberia.czaplicka_archive` — [texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md](texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md)
+- [x] Chukchee Mythology — `siberian.chukchee_mythology.bogoras_archive` — [texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md](texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md)
+
+### Siberian Mongol
+
+- [x] A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths — `siberian_mongol.journey_in_southern_siberia.curtin_archive` — [texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md](texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md)
+
+### Siberian Paleoasiatic
+
+- [x] Koryak Texts — `siberian.koryak_texts.bogoras_archive` — [texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md](texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md)
+- [x] Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia — `siberian.tales_of_yukaghir_lamut.bogoras_archive` — [texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md](texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md)
+
+### Sikh
+
+- [x] The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1 — `sikh.sikh_religion.macauliffe_v1_archive` — [texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md](texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md)
+
+### Slavic
+
+- [x] Fairy Tales of the Slav Peasants and Herdsmen — `slavic.fairy_tales_slav_peasants.chodzko_gutenberg` — [texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md](texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md)
+- [x] Sixty Folk-Tales from Exclusively Slavonic Sources — `slavic.sixty_folk_tales_slavonic.wratislaw_gutenberg` — [texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md](texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md)
+
+### South American Lowland
+
+- [x] Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana — `south_american.among_indians_guiana.im_thurn_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md](texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md)
+- [x] An Inquiry into the Animism and Folk-Lore of the Guiana Indians — `south_american.animism_folklore_guiana_indians.roth_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md](texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md)
+- [x] An Unknown People in an Unknown Land: An Account of the Life and Customs of the Lengua Indians of the Paraguayan Chaco — `south_american.unknown_people_unknown_land.grubb_archive` — [texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md](texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md)
+- [x] Legends and Myths of the Aboriginal Indians of British Guiana — `south_american.legends_myths_british_guiana.brett_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md](texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md)
+- [x] The Central Caribs — `amazonian.the_central_caribs.farabee_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md](texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md)
+- [x] The North-West Amazons: Notes of Some Months Spent Among Cannibal Tribes — `south_american.north_west_amazons.whiffen_gutenberg` — [texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md](texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md)
+
+### Southeast Asian
+
+- [x] Malay Magic — `malay.malay_magic.skeat_archive` — [texts/public-domain/malay/internet-archive/malay-magic-skeat.md](texts/public-domain/malay/internet-archive/malay-magic-skeat.md)
+- [x] Pagan Races of the Malay Peninsula, Volume 1 — `malay.pagan_races_malay_peninsula.skeat_blagden_vol1_archive` — [texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md](texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md)
+- [x] Pagan Races of the Malay Peninsula, Volume 2 — `malay.pagan_races_malay_peninsula.skeat_blagden_vol2_archive` — [texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md](texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md)
+- [x] Philippine Folk Tales — `filipino.folk_tales.cole_gutenberg` — [texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md](texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md)
+- [x] Shans at Home, With Two Chapters on Shan History and Literature — `shan.shans_at_home.milne_archive` — [texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md](texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md)
+- [x] Stories and Legends of Annam — `vietnamese.annam_legends.chivas_baron_archive` — [texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md](texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md)
+- [x] The Soul of a People — `burmese.soul_of_a_people.fielding_hall_archive` — [texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md](texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md)
 
 ## Unregistered Markdown Files
 
@@ -712,18 +1125,133 @@ Checked units have a complete source Markdown file in the repo. Unchecked units 
 
 These are already in Markdown and remain valuable, but they are not currently mapped as first-500 source coverage.
 
+### African
+
+- [x] Ashanti — `african.ashanti.rattray_archive` — [texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md](texts/public-domain/african-akan/project-gutenberg/ashanti-rattray.md)
+- [x] At the Back of the Black Man's Mind; or, Notes on the Kingly Office in West Africa — `african.back_of_the_black_mans_mind.dennett_archive` — [texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md](texts/public-domain/bavili/project-gutenberg/back-of-the-black-mans-mind-dennett.md)
+- [x] Cunnie Rabbit, Mr. Spider and the Other Beef: West African Folk Tales — `african.cunnie_rabbit_temne.cronise_ward_gutenberg` — [texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md](texts/public-domain/temne/project-gutenberg/cunnie-rabbit-cronise-ward.md)
+- [x] Folk-Tales of Angola: Fifty Tales, with Ki-mbundu Text, Literal English Translation, Introduction, and Notes — `african.folk_tales_angola.chatelain_archive` — [texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md](texts/public-domain/kimbundu/project-gutenberg/folk-tales-of-angola-chatelain.md)
+- [x] Hausa Superstitions and Customs: An Introduction to the Folk-Lore and the Folk — `african.hausa_superstitions_customs.tremearne_archive` — [texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md](texts/public-domain/hausa/project-gutenberg/hausa-superstitions-and-customs-tremearne.md)
+- [x] In the Shadow of the Bush — `african.in_the_shadow_of_the_bush.talbot_archive` — [texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md](texts/public-domain/ekoi/project-gutenberg/in-the-shadow-of-the-bush-talbot.md)
+- [x] Jamaica Anansi Stories — `african_diaspora.jamaica_anansi_stories.beckwith_gutenberg` — [texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md](texts/public-domain/afro-caribbean/project-gutenberg/jamaica-anansi-stories-beckwith.md)
+- [x] Kaffir Folk-Lore: A Selection from the Traditional Tales Current among the People Living on the Eastern Border of the Cape Colony — `african.kaffir_folk_lore.theal_archive` — [texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md](texts/public-domain/xhosa/project-gutenberg/kaffir-folk-lore-theal.md)
+- [x] Notes on the Folklore of the Fjort (French Congo) — `african.folklore_of_the_fjort.dennett_archive` — [texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md](texts/public-domain/fjort/project-gutenberg/folklore-of-the-fjort-dennett.md)
+- [x] Reynard the Fox in South Africa; or, Hottentot Fables and Tales — `african.reynard_the_fox_hottentot.bleek_archive` — [texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md](texts/public-domain/khoekhoe/project-gutenberg/reynard-the-fox-in-south-africa-bleek.md)
+- [x] The Baganda: An Account of Their Native Customs and Beliefs — `african.the_baganda.roscoe_archive` — [texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md](texts/public-domain/ganda/project-gutenberg/the-baganda-roscoe.md)
+- [x] The Ila-Speaking Peoples of Northern Rhodesia, Vol. I — `african.ila_speaking_peoples_1.smith_dale_archive` — [texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md](texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol1-smith-dale.md)
+- [x] The Ila-Speaking Peoples of Northern Rhodesia, Vol. II — `african.ila_speaking_peoples_2.smith_dale_archive` — [texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md](texts/public-domain/african-bantu/project-gutenberg/ila-speaking-peoples-vol2-smith-dale.md)
+- [x] The Life of a South African Tribe, Vol. I (The Social Life) — `african.life_south_african_tribe_1.junod_archive` — [texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md](texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol1.md)
+- [x] The Life of a South African Tribe, Vol. II (The Psychic Life) — `african.life_south_african_tribe_2.junod_archive` — [texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md](texts/public-domain/african-bantu/project-gutenberg/life-south-african-tribe-junod-vol2.md)
+- [x] The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc. — `african.yoruba_speaking_peoples.ellis_archive` — [texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md](texts/public-domain/yoruba/project-gutenberg/yoruba-speaking-peoples-ellis.md)
+- [x] West African Folk-Tales — `african.west_african_folk_tales.barker_gutenberg` — [texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md](texts/public-domain/akan/project-gutenberg/west-african-folk-tales-barker.md)
+- [x] With a Prehistoric People: The Akikuyu of British East Africa — `african.akikuyu_prehistoric_people.routledge_archive` — [texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md](texts/public-domain/kikuyu/project-gutenberg/with-a-prehistoric-people-akikuyu-routledge.md)
+
 ### Ainu Folklore
 
 - [x] Aino Folk-Tales — `ainu.folk_tales.chamberlain_gutenberg` — [texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md](texts/public-domain/ainu/project-gutenberg/aino-folk-tales-chamberlain.md)
 
+### Ancient Near Eastern
+
+- [x] Development of Religion and Thought in Ancient Egypt — `egyptian.development_of_religion_thought.breasted_archive` — [texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md](texts/public-domain/egyptian/internet-archive/development-of-religion-thought-ancient-egypt-breasted.md)
+- [x] The Religions of Ancient Egypt and Babylonia — `egyptian.religions_egypt_babylonia.sayce_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md](texts/public-domain/egyptian/project-gutenberg/religions-of-ancient-egypt-babylonia-sayce.md)
+
+### Andamanese
+
+- [x] On the Aboriginal Inhabitants of the Andaman Islands — `andamanese.aboriginal_inhabitants_andaman.man_archive` — [texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md](texts/public-domain/andamanese/project-gutenberg/aboriginal-inhabitants-andaman-man.md)
+- [x] The Andaman Islanders: A Study in Social Anthropology — `andamanese.andaman_islanders.radcliffe_brown_gutenberg` — [texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md](texts/public-domain/andamanese/project-gutenberg/andaman-islanders-radcliffe-brown.md)
+
+### Andean
+
+- [x] First Part of the Royal Commentaries of the Yncas, Vol. II — `inca.royal_commentaries.garcilaso_markham_archive` — [texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md](texts/public-domain/inca/project-gutenberg/royal-commentaries-yncas-garcilaso-markham-vol2.md)
+- [x] Narratives of the Rites and Laws of the Yncas — `andean.rites_and_laws_of_the_yncas.markham_archive` — [texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md](texts/public-domain/inca/project-gutenberg/rites-and-laws-of-the-yncas-markham.md)
+- [x] Narratives of the Rites and Laws of the Yncas — `inca.rites_laws_yncas.molina_markham_archive` — [texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md](texts/public-domain/inca/project-gutenberg/rites-laws-yncas-molina-markham.md)
+
+### Arctic
+
+- [x] Across Arctic America: Narrative of the Fifth Thule Expedition — `arctic_inuit.across_arctic_america.rasmussen_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md](texts/public-domain/arctic-inuit/project-gutenberg/across-arctic-america-rasmussen.md)
+- [x] Ethnology of the Ungava District, Hudson Bay Territory — `native_american.ungava_district.turner_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md](texts/public-domain/arctic-inuit/project-gutenberg/ethnology-ungava-district-turner.md)
+- [x] The Eskimo about Bering Strait — `native_american.eskimo_bering_strait.nelson_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md](texts/public-domain/arctic-inuit/project-gutenberg/eskimo-about-bering-strait-nelson.md)
+- [x] The Eskimo of Baffin Land and Hudson Bay, Part I — `arctic_inuit.eskimo_baffin_hudson_1.boas_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md](texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part1.md)
+- [x] The Eskimo of Baffin Land and Hudson Bay, Part II — `arctic_inuit.eskimo_baffin_hudson_2.boas_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md](texts/public-domain/arctic-inuit/project-gutenberg/eskimo-baffin-hudson-boas-part2.md)
+- [x] The Labrador Eskimo — `native_american.labrador_eskimo.hawkes_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md](texts/public-domain/arctic-inuit/project-gutenberg/the-labrador-eskimo-hawkes.md)
+- [x] The People of the Polar North: A Record — `arctic_inuit.people_of_polar_north.rasmussen_archive` — [texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md](texts/public-domain/arctic-inuit/project-gutenberg/people-of-polar-north-rasmussen.md)
+
+### Arctic Inuit
+
+- [x] Eskimo Folk-Tales — `arctic_inuit.eskimo_folk_tales.rasmussen_worster_gutenberg` — [texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md](texts/public-domain/inuit/project-gutenberg/eskimo-folk-tales-rasmussen-worster.md)
+- [x] Tales and Traditions of the Eskimo — `arctic_inuit.tales_and_traditions_of_the_eskimo.rink_archive` — [texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md](texts/public-domain/inuit/project-gutenberg/tales-and-traditions-of-the-eskimo-rink.md)
+- [x] The Central Eskimo — `arctic_inuit.central_eskimo.boas_gutenberg` — [texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md](texts/public-domain/inuit/project-gutenberg/central-eskimo-boas.md)
+
+### Armenian
+
+- [x] Armenian Legends and Poems — `armenian.armenian_legends_and_poems.boyajian_gutenberg` — [texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md](texts/public-domain/armenian/project-gutenberg/armenian-legends-and-poems-boyajian.md)
+
+### Australian
+
+- [x] Ethnological Studies among the North-West-Central Queensland Aborigines — `australian.ethnological_studies_queensland.roth_archive` — [texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md](texts/public-domain/aboriginal-australian/project-gutenberg/ethnological-studies-queensland-roth.md)
+- [x] The Native Tribes of Central Australia — `australian.native_tribes_central_australia.spencer_gillen_archive` — [texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md](texts/public-domain/australian-aboriginal/project-gutenberg/native-tribes-central-australia-spencer-gillen.md)
+- [x] The Northern Tribes of Central Australia — `australian.northern_tribes_central_australia.spencer_gillen_archive` — [texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md](texts/public-domain/australian-aboriginal/project-gutenberg/northern-tribes-central-australia-spencer-gillen.md)
+
+### Australian Aboriginal
+
+- [x] Australian Legendary Tales: folk-lore of the Noongahburrahs as told to the Piccaninnies — `australian.australian_legendary_tales.parker_gutenberg` — [texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md](texts/public-domain/australian-aboriginal/project-gutenberg/australian-legendary-tales-parker.md)
+- [x] More Australian Legendary Tales — `australian.more_australian_legendary_tales.parker_archive` — [texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md](texts/public-domain/australian-aboriginal/project-gutenberg/more-australian-legendary-tales-parker.md)
+- [x] The Euahlayi Tribe: A Study of Aboriginal Life in Australia — `australian.euahlayi_tribe.parker_gutenberg` — [texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md](texts/public-domain/australian-aboriginal/project-gutenberg/euahlayi-tribe-parker.md)
+
+### Bantu Southern African
+
+- [x] Nursery Tales, Traditions, and Histories of the Zulus, in Their Own Words — `african.nursery_tales_zulus.callaway_archive` — [texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md](texts/public-domain/zulu/project-gutenberg/nursery-tales-traditions-histories-zulus-callaway.md)
+
+### Basque
+
+- [x] Basque Legends — `basque.basque_legends.webster_gutenberg` — [texts/public-domain/basque/project-gutenberg/basque-legends-webster.md](texts/public-domain/basque/project-gutenberg/basque-legends-webster.md)
+
 ### Buddhist
 
+- [x] Antiquities of Indian Tibet, Part 1 — `tibetan.antiquities_of_indian_tibet.francke_vol1_archive` — [texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md](texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v1.md)
+- [x] Antiquities of Indian Tibet, Part 2 - The Chronicles of Ladakh — `tibetan.antiquities_of_indian_tibet.francke_vol2_archive` — [texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v2-chronicles-ladakh.md](texts/public-domain/tibetan/internet-archive/antiquities-of-indian-tibet-francke-v2-chronicles-ladakh.md)
+- [x] Buddhism in Translations (Harvard Oriental Series, Vol. 3) — `buddhist.buddhism_in_translations.warren_archive` — [texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md](texts/public-domain/buddhist/internet-archive/buddhism-in-translations-warren.md)
+- [x] Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49) — `buddhist.mahayana_texts.sbe49.cowell_archive` — [texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md](texts/public-domain/buddhist/project-gutenberg/buddhist-mahayana-texts-sbe49.md)
+- [x] Buddhist Suttas (Sacred Books of the East, Vol. 11) — `buddhist.buddhist_suttas.rhys_davids_sbe11_archive` — [texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md](texts/public-domain/buddhist/internet-archive/buddhist-suttas-rhys-davids-sbe11.md)
+- [x] Dhammapada, a Collection of Verses; Being One of the Canonical Books of the Buddhists — `buddhist.dhammapada.muller_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/dhammapada-muller.md](texts/public-domain/buddhist/project-gutenberg/dhammapada-muller.md)
 - [x] Jataka tales — `buddhist.jataka_tales.babbitt_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md](texts/public-domain/buddhist/project-gutenberg/jataka-tales-babbitt.md)
 - [x] More Jataka Tales — `buddhist.more_jataka_tales.babbitt_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md](texts/public-domain/buddhist/project-gutenberg/more-jataka-tales-babbitt.md)
+- [x] The Buddhism of Tibet, or Lamaism — `tibetan.buddhism_of_tibet.waddell_archive` — [texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md](texts/public-domain/tibetan/internet-archive/buddhism-of-tibet-lamaism-waddell.md)
+- [x] The Diamond Sutra (Chin-Kang-Ching) or Prajna-Paramita — `buddhist.diamond_sutra.gemmell_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md](texts/public-domain/buddhist/project-gutenberg/diamond-sutra-gemmell.md)
+- [x] The Mahavamsa, or The Great Chronicle of Ceylon — `buddhist.mahavamsa.geiger_archive` — [texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md](texts/public-domain/buddhist/project-gutenberg/mahavamsa-geiger.md)
+- [x] The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35) — `buddhist.milinda_1.sbe35.rhys_davids_archive` — [texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md](texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part1.md)
+- [x] The Questions of King Milinda, Part II (Sacred Books of the East, Vol. 36) — `buddhist.milinda_2.sbe36.rhys_davids_archive` — [texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md](texts/public-domain/buddhist/project-gutenberg/questions-of-king-milinda-part2.md)
+- [x] The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books of the East, Vol. 21) — `buddhist.lotus_sutra.sbe21.kern_archive` — [texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md](texts/public-domain/buddhist/project-gutenberg/saddharma-pundarika-kern.md)
+- [x] The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II) — `buddhist.sutta_nipata.sbe10.fausboll_archive` — [texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md](texts/public-domain/buddhist/project-gutenberg/sutta-nipata-fausboll.md)
+- [x] The Tibetan Book of the Dead — `tibetan.book_of_the_dead.evans_wentz_archive` — [texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md](texts/public-domain/tibetan/internet-archive/tibetan-book-of-the-dead-evans-wentz.md)
+- [x] Vinaya Texts, Part I: The Patimokkha, The Mahavagga I-IV (Sacred Books of the East, Vol. 13) — `buddhist.vinaya_1.sbe13.rhys_davids_oldenberg_archive` — [texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md](texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part1.md)
+- [x] Vinaya Texts, Part II: The Mahavagga V-X, The Kullavagga I-III (Sacred Books of the East, Vol. 17) — `buddhist.vinaya_2.sbe17.rhys_davids_oldenberg_archive` — [texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md](texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part2.md)
+- [x] Vinaya Texts, Part III: The Kullavagga IV-XII (Sacred Books of the East, Vol. 20) — `buddhist.vinaya_3.sbe20.rhys_davids_oldenberg_archive` — [texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md](texts/public-domain/buddhist/project-gutenberg/vinaya-texts-part3.md)
 
 ### Buddhist Indian Folklore
 
 - [x] The Giant Crab, and Other Tales from Old India — `buddhist.old_india_tales.rouse_gutenberg` — [texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md](texts/public-domain/buddhist/project-gutenberg/giant-crab-old-india-tales-rouse.md)
+- [x] The Jataka; or, Stories of the Buddha's Former Births, Vol. I — `buddhist.jataka.cowell_vol1_archive` — [texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md](texts/public-domain/buddhist/internet-archive/jataka-cowell-vol1.md)
+- [x] The Jataka; or, Stories of the Buddha's Former Births, Vol. III — `buddhist.jataka.cowell_vol3_archive` — [texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md](texts/public-domain/buddhist/internet-archive/jataka-cowell-vol3.md)
+- [x] The Jataka; or, Stories of the Buddha's Former Births, Vol. VI — `buddhist.jataka.cowell_vol6_archive` — [texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md](texts/public-domain/buddhist/internet-archive/jataka-cowell-vol6.md)
+
+### Caucasian
+
+- [x] Caucasian Folk-Tales — `caucasian.folk_tales.dirr_menzies_archive` — [texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md](texts/public-domain/caucasian/project-gutenberg/caucasian-folk-tales-dirr.md)
+- [x] Georgian Folk Tales — `georgian.georgian_folk_tales.wardrop_gutenberg` — [texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md](texts/public-domain/georgian/project-gutenberg/georgian-folk-tales-wardrop.md)
+- [x] The Man in the Panther's Skin — `georgian.man_in_the_panthers_skin.wardrop_archive` — [texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md](texts/public-domain/georgian/internet-archive/man-in-the-panthers-skin-wardrop.md)
+
+### Celtic
+
+- [x] Celtic Fairy Tales — `celtic.celtic_fairy_tales.jacobs_gutenberg` — [texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md](texts/public-domain/celtic/project-gutenberg/celtic-fairy-tales-jacobs.md)
+- [x] Cuchulain of Muirthemne — `celtic.cuchulain_of_muirthemne.gregory_archive` — [texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md](texts/public-domain/celtic/internet-archive/cuchulain-of-muirthemne-gregory.md)
+- [x] Gods and Fighting Men — `celtic.gods_and_fighting_men.gregory_gutenberg` — [texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md](texts/public-domain/celtic/project-gutenberg/gods-and-fighting-men-gregory.md)
+- [x] More Celtic Fairy Tales — `celtic.more_celtic_fairy_tales.jacobs_gutenberg` — [texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md](texts/public-domain/celtic/project-gutenberg/more-celtic-fairy-tales-jacobs.md)
+- [x] Myths & Legends of the Celtic Race — `celtic.myths_legends_celtic_race.rolleston_gutenberg` — [texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md](texts/public-domain/celtic/project-gutenberg/myths-legends-celtic-race-rolleston.md)
+- [x] Popular Tales of the West Highlands, Volume 1 — `celtic.popular_tales_west_highlands_v1.campbell_archive` — [texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md](texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v1-campbell.md)
+- [x] Popular Tales of the West Highlands, Volume 2 — `celtic.popular_tales_west_highlands_v2.campbell_archive` — [texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md](texts/public-domain/celtic/internet-archive/popular-tales-west-highlands-v2-campbell.md)
+- [x] The Mabinogion — `celtic.mabinogion.guest_gutenberg` — [texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md](texts/public-domain/celtic/project-gutenberg/mabinogion-guest.md)
+- [x] The Mythology of the British Islands — `celtic.mythology_british_islands.squire_gutenberg` — [texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md](texts/public-domain/celtic/project-gutenberg/mythology-british-islands-squire.md)
 
 ### Celtic Irish
 
@@ -731,9 +1259,34 @@ These are already in Markdown and remain valuable, but they are not currently ma
 - [x] Heroic Romances of Ireland — `celtic_irish.heroic_romances_of_ireland.leahy_gutenberg` — [texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md](texts/public-domain/celtic-irish/project-gutenberg/heroic-romances-of-ireland-leahy.md)
 - [x] The Ancient Irish Epic Tale Tain Bo Cualnge — `celtic_irish.tain_bo_cualnge.dunn_gutenberg` — [texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md](texts/public-domain/celtic-irish/project-gutenberg/tain-bo-cualnge-dunn.md)
 
+### Central Asian
+
+- [x] Sagas from the Far East — `mongol.sagas_from_the_far_east.busk_gutenberg` — [texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md](texts/public-domain/mongol/project-gutenberg/sagas-from-the-far-east-busk.md)
+- [x] The Mongols - A History — `mongol.the_mongols_history.curtin_archive` — [texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md](texts/public-domain/mongol/internet-archive/the-mongols-a-history-curtin.md)
+
+### Central Asian Steppe
+
+- [x] Gessar Khan — `central_asian.gessar_khan.zeitlin_archive` — [texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md](texts/public-domain/mongol/project-gutenberg/gessar-khan-zeitlin.md)
+
+### Chinese
+
+- [x] 論語 — `chinese.confucius.analects_chinese_gutenberg` — [texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md](texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md)
+- [x] 道德經 — `chinese.laozi.daodejing_chinese_gutenberg` — [texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md](texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md)
+
+### Christian
+
+- [x] Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles — `greek.didache.bryennios_hitchcock_brown_gutenberg` — [texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md](texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md)
+
 ### Classical
 
 - [x] Myths and Legends of Ancient Greece and Rome — `greek_roman.berens.myths_legends_gutenberg` — [texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md](texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md)
+
+### Classical Roman
+
+- [x] On the Nature of Things — `roman.lucretius.nature_of_things.leonard_gutenberg` — [texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md](texts/public-domain/roman/project-gutenberg/on-the-nature-of-things-lucretius-leonard.md)
+- [x] The Georgics — `roman.virgil.georgics.rhoades_gutenberg` — [texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md](texts/public-domain/roman/project-gutenberg/georgics-virgil-rhoades.md)
+- [x] The Golden Asse — `roman.apuleius.golden_ass.adlington_gutenberg` — [texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md](texts/public-domain/roman/project-gutenberg/golden-ass-apuleius-adlington.md)
+- [x] The Mysteries of Mithra — `roman.cumont.mysteries_of_mithra.archive` — [texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md](texts/public-domain/roman/project-gutenberg/mysteries-of-mithra-cumont.md)
 
 ### Comparative Religion
 
@@ -744,13 +1297,72 @@ These are already in Markdown and remain valuable, but they are not currently ma
 
 - [x] The Sayings of Confucius — `confucian.sayings_of_confucius.giles_gutenberg` — [texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md](texts/public-domain/confucian/project-gutenberg/sayings-of-confucius-giles.md)
 
+### Daoist Confucian Chinese
+
+- [x] Chuang Tzŭ: Mystic, Moralist, and Social Reformer — `chinese.chuang_tzu.giles_archive` — [texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md](texts/public-domain/taoist/internet-archive/chuang-tzu-giles.md)
+- [x] The Four Books: Confucian Analects, The Great Learning, The Doctrine of the Mean, and The Works of Mencius — `confucian.four_books.legge_archive` — [texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md](texts/public-domain/confucian/internet-archive/four-books-confucian-legge.md)
+- [x] The Li Ki, Books I-X (The Sacred Books of China: The Texts of Confucianism, Part III; Sacred Books of the East, Vol. 27) — `chinese.li_ki_1.sbe27.legge_archive` — [texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md](texts/public-domain/confucian/project-gutenberg/li-ki-part1-legge.md)
+- [x] The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism, Part IV; Sacred Books of the East, Vol. 28) — `chinese.li_ki_2.sbe28.legge_archive` — [texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md](texts/public-domain/confucian/project-gutenberg/li-ki-part2-legge.md)
+- [x] The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King, the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East, Vol. 3) — `chinese.shu_king_shih_king.sbe3.legge_archive` — [texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md](texts/public-domain/confucian/project-gutenberg/shu-king-shih-king-legge.md)
+- [x] The Sacred Books of China: The Texts of Taoism, Part I (Sacred Books of the East, Vol. 39) — `chinese.texts_of_taoism.legge_sbe39_archive` — [texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md](texts/public-domain/taoist/internet-archive/texts-of-taoism-part1-legge-sbe39.md)
+- [x] The Sacred Books of China: The Texts of Taoism, Part II (Sacred Books of the East, Vol. 40) — `chinese.texts_of_taoism.legge_sbe40_archive` — [texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md](texts/public-domain/taoist/internet-archive/texts-of-taoism-part2-legge-sbe40.md)
+- [x] The Yi King (I Ching) (Sacred Books of the East, Vol. 16) — `chinese.i_ching.sbe16.legge_archive` — [texts/public-domain/confucian/project-gutenberg/i-ching-legge.md](texts/public-domain/confucian/project-gutenberg/i-ching-legge.md)
+
+### East Asian
+
+- [x] Corea, the Hermit Nation — `korean.corea_the_hermit_nation.griffis_archive` — [texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md](texts/public-domain/korean/internet-archive/corea-the-hermit-nation-griffis.md)
+- [x] Korean Folk Tales - Imps, Ghosts and Fairies — `korean.korean_folk_tales.gale_archive` — [texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md](texts/public-domain/korean/internet-archive/korean-folk-tales-im-bang-yi-ryuk-gale.md)
+- [x] Korean Tales — `korean.korean_tales.allen_archive` — [texts/public-domain/korean/internet-archive/korean-tales-allen.md](texts/public-domain/korean/internet-archive/korean-tales-allen.md)
+
+### Egyptian
+
+- [x] Egyptian Ideas of the Future Life — `egyptian.budge.egyptian_ideas_future_life.gutenberg` — [texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md](texts/public-domain/egyptian/project-gutenberg/egyptian-ideas-of-the-future-life-budge.md)
+- [x] Egyptian Tales, Translated from the Papyri: First Series, IVth to XIIth Dynasty — `egyptian.tales_first_series.petrie_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md](texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-first.md)
+- [x] Egyptian Tales, Translated from the Papyri: Second Series, XVIIIth to XIXth Dynasty — `egyptian.tales_second_series.petrie_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md](texts/public-domain/egyptian/project-gutenberg/egyptian-tales-petrie-second.md)
+- [x] Legends of the Gods: The Egyptian Texts, edited with Translations — `egyptian.legends_of_gods.budge_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md](texts/public-domain/egyptian/project-gutenberg/legends-of-the-gods-budge.md)
+- [x] The Egyptian Heaven and Hell, Volume I: The Book of the Am-Tuat — `egyptian.amduat.egyptian_heaven_hell_v1_budge_archive` — [texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md](texts/public-domain/egyptian/project-gutenberg/egyptian-heaven-and-hell-v1-am-tuat.md)
+- [x] The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume I — `egyptian.budge.gods_of_the_egyptians.archive_v1` — [texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md](texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol1.md)
+- [x] The Gods of the Egyptians; or, Studies in Egyptian Mythology, Volume II — `egyptian.budge.gods_of_the_egyptians.archive_v2` — [texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md](texts/public-domain/egyptian/project-gutenberg/gods-of-the-egyptians-budge-vol2.md)
+- [x] The Literature of the Ancient Egyptians — `egyptian.literature_ancient_egyptians.budge_gutenberg` — [texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md](texts/public-domain/egyptian/project-gutenberg/literature-of-ancient-egyptians-budge.md)
+
+### European Folk
+
+- [x] Household Tales by Brothers Grimm — `germanic.grimm_household_tales.hunt_gutenberg` — [texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md](texts/public-domain/germanic/project-gutenberg/grimm-household-tales-hunt.md)
+- [x] Myths and Folk-tales of the Russians, Western Slavs, and Magyars — `slavic.myths_folk_tales.curtin_gutenberg` — [texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md](texts/public-domain/slavic/project-gutenberg/myths-folk-tales-russians-slavs-magyars-curtin.md)
+- [x] Roumanian Fairy Tales — `romanian.fairy_tales.kremnitz_gutenberg` — [texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md](texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md)
+- [x] Russian Fairy Tales: A Choice Collection of Muscovite Folk-lore — `slavic.russian_fairy_tales.ralston_gutenberg` — [texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md](texts/public-domain/slavic/project-gutenberg/russian-fairy-tales-ralston.md)
+- [x] The Epic Songs of Russia — `slavic.epic_songs_of_russia.hapgood_archive` — [texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md](texts/public-domain/slavic/project-gutenberg/epic-songs-of-russia-hapgood.md)
+- [x] The Hero of Esthonia and Other Studies in the Romantic Literature of That Country — `baltic.hero_of_esthonia.kirby_gutenberg` — [texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md](texts/public-domain/estonian/project-gutenberg/hero-of-esthonia-kirby.md)
+
 ### Finnish Karelian
 
 - [x] Kalevala: The Epic Poem of Finland — `finnish_karelian.kalevala.crawford_gutenberg` — [texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md](texts/public-domain/finnish-karelian/project-gutenberg/kalevala-crawford.md)
 
+### Finno Ugric
+
+- [x] Finno-Ugric, Siberian Mythology — `finnic.finno_ugric_siberian_mythology.holmberg_archive` — [texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md](texts/public-domain/finnic/internet-archive/finno-ugric-siberian-mythology-holmberg.md)
+- [x] The Pre- and Proto-historic Finns, Volume 1 — `finnic.pre_and_proto_historic_finns.abercromby_vol1_archive` — [texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md](texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v1-abercromby.md)
+- [x] The Pre- and Proto-historic Finns, Volume 2 - The Magic Songs — `finnic.pre_and_proto_historic_finns.abercromby_vol2_archive` — [texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md](texts/public-domain/finnic/internet-archive/pre-and-proto-historic-finns-v2-abercromby.md)
+
+### Germanic
+
+- [x] Teutonic Mythology, Volume 1 — `germanic.teutonic_mythology_v1.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v1-grimm-stallybrass.md)
+- [x] Teutonic Mythology, Volume 2 — `germanic.teutonic_mythology_v2.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v2-grimm-stallybrass.md)
+- [x] Teutonic Mythology, Volume 3 — `germanic.teutonic_mythology_v3.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v3-grimm-stallybrass.md)
+- [x] Teutonic Mythology, Volume 4 — `germanic.teutonic_mythology_v4.grimm_stallybrass_archive` — [texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md](texts/public-domain/germanic/internet-archive/teutonic-mythology-v4-grimm-stallybrass.md)
+
 ### Greek
 
+- [x] Aeschylus' Prometheus Bound and the Seven Against Thebes — `greek.aeschylus.prometheus_bound.buckley_gutenberg` — [texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md](texts/public-domain/greek/project-gutenberg/prometheus-bound-seven-against-thebes-aeschylus-buckley.md)
 - [x] Hesiod, the Homeric Hymns, and Homerica — `greek.hesiod_homeric_hymns.evelyn_white_gutenberg` — [texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md](texts/public-domain/greek/project-gutenberg/hesiod-homeric-hymns-homerica.md)
+- [x] Modern Greek Folklore and Ancient Greek Religion: A Study in Survivals — `greek.modern_greek_folklore.lawson_gutenberg` — [texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md](texts/public-domain/greek/project-gutenberg/modern-greek-folklore-lawson.md)
+- [x] Pausanias's Description of Greece, Volume I, Translated with a Commentary by J. G. Frazer — `greek.pausanias.description_of_greece.frazer_archive_v1` — [texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md](texts/public-domain/greek/project-gutenberg/pausanias-description-of-greece-frazer-vol1.md)
+- [x] Plutarch's Morals — `greek.plutarch.morals.shilleto_gutenberg` — [texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md](texts/public-domain/greek/project-gutenberg/plutarch-morals-shilleto.md)
+- [x] The Bacchae of Euripides — `greek.euripides.bacchae.murray_gutenberg` — [texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md](texts/public-domain/greek/project-gutenberg/bacchae-euripides-murray.md)
+- [x] The Extant Odes of Pindar — `greek.pindar.odes.myers_gutenberg` — [texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md](texts/public-domain/greek/project-gutenberg/extant-odes-of-pindar-myers.md)
+- [x] The Homeric Hymns — `greek.homeric_hymns.lang_gutenberg` — [texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md](texts/public-domain/greek/project-gutenberg/homeric-hymns-lang.md)
+- [x] The House of Atreus; Being the Agamemnon, the Libation Bearers, and the Furies — `greek.aeschylus.house_of_atreus.morshead_gutenberg` — [texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md](texts/public-domain/greek/project-gutenberg/house-of-atreus-aeschylus-morshead.md)
+- [x] The Library, Volume I (Apollodorus), with an English Translation by James George Frazer — `greek.apollodorus.library.frazer_archive_v1` — [texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md](texts/public-domain/greek/project-gutenberg/apollodorus-library-frazer-vol1.md)
 
 ### Greek Fable Later Collection
 
@@ -762,9 +1374,40 @@ These are already in Markdown and remain valuable, but they are not currently ma
 - [x] Symposium — `greek.plato.symposium_jowett_gutenberg` — [texts/public-domain/greek/project-gutenberg/symposium-jowett.md](texts/public-domain/greek/project-gutenberg/symposium-jowett.md)
 - [x] The Republic — `greek.plato.republic_jowett_gutenberg` — [texts/public-domain/greek/project-gutenberg/republic-jowett.md](texts/public-domain/greek/project-gutenberg/republic-jowett.md)
 
+### Greek Roman
+
+- [x] The Argonautica — `greek.argonautica.seaton_gutenberg` — [texts/public-domain/greek/project-gutenberg/argonautica-seaton.md](texts/public-domain/greek/project-gutenberg/argonautica-seaton.md)
+
 ### Hindu
 
 - [x] The Upanishads — `hindu.upanishads.paramananda_gutenberg` — [texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md](texts/public-domain/hindu/project-gutenberg/upanishads-paramananda.md)
+
+### Hindu Jain Indian Philosophical
+
+- [x] A Prose English Translation of Vishnupuranam — `hindu.vishnu_purana.dutt_gutenberg` — [texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md](texts/public-domain/hindu/project-gutenberg/vishnupuranam-dutt.md)
+- [x] Hindu Philosophy: The Sankhya Karika of Iswara Krishna — `hindu.samkhya_karika.davies_archive` — [texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md](texts/public-domain/hindu/project-gutenberg/sankhya-karika-davies.md)
+- [x] Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books of the East, Vol. 22) — `jain.jaina_sutras.sbe22.jacobi_archive` — [texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md](texts/public-domain/jain/project-gutenberg/jaina-sutras-part-1-jacobi.md)
+- [x] Jaina Sutras, Part II: The Uttaradhyayana Sutra and the Sutrakritanga (Sacred Books of the East, Vol. 45) — `jain.jaina_sutras.jacobi_part2_sbe45_archive` — [texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md](texts/public-domain/jain/internet-archive/jaina-sutras-part2-jacobi-sbe45.md)
+- [x] The Hymns of the Rigveda, Complete 2 Volumes — `hindu.rigveda.griffith_archive` — [texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md](texts/public-domain/hindu/project-gutenberg/hymns-of-the-rigveda-griffith.md)
+- [x] The Laws of Manu (Sacred Books of the East, Vol. 25) — `hindu.laws_of_manu.buhler_sbe25_archive` — [texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md](texts/public-domain/hindu/internet-archive/laws-of-manu-buhler-sbe25.md)
+- [x] The Song Celestial; Or, Bhagavad-Gîtâ (from the Mahâbhârata) — `hindu.bhagavad_gita.arnold_song_celestial_gutenberg` — [texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md](texts/public-domain/hindu/project-gutenberg/song-celestial-bhagavad-gita-arnold.md)
+- [x] The Upanishads, Part I (Sacred Books of the East, Vol. 1) — `hindu.upanishads.sbe01.muller_archive` — [texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md](texts/public-domain/hindu/project-gutenberg/upanishads-part-1-muller.md)
+- [x] The Upanishads, Part II (Sacred Books of the East, Vol. 15) — `hindu.upanishads.sbe15.muller_archive` — [texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md](texts/public-domain/hindu/project-gutenberg/upanishads-part-2-muller.md)
+- [x] The Yoga Sutras of Patanjali: The Book of the Spiritual Man — `hindu.yoga_sutras.johnston_gutenberg` — [texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md](texts/public-domain/hindu/project-gutenberg/yoga-sutras-patanjali-johnston.md)
+- [x] Thirty Minor Upanishads — `hindu.minor_upanishads.narayanasvami_aiyar_archive` — [texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md](texts/public-domain/hindu/internet-archive/thirty-minor-upanishads-aiyar.md)
+- [x] Vedic Hymns, Part I (Sacred Books of the East, Vol. 32) — `hindu.vedic_hymns.muller_sbe32_archive` — [texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md](texts/public-domain/hindu/internet-archive/vedic-hymns-part1-muller-sbe32.md)
+- [x] Vedic Hymns, Part II (Sacred Books of the East, Vol. 46) — `hindu.vedic_hymns.oldenberg_sbe46_archive` — [texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md](texts/public-domain/hindu/internet-archive/vedic-hymns-part2-oldenberg-sbe46.md)
+
+### Indian
+
+- [x] Maha-bharata — `hindu.mahabharata.dutt_condensed_gutenberg` — [texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md](texts/public-domain/hindu/project-gutenberg/maha-bharata-dutt.md)
+- [x] Sri Vishnu Sahasranaamam — `sanskrit.vishnu_sahasranama.itrans_gutenberg` — [texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md](texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 1 — `hindu.mahabharata.ganguli_vol1_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol1.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 2: Books 4, 5, 6 and 7 — `hindu.mahabharata.ganguli_vol2_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol2.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 3: Books 8, 9, 10, 11 and 12 — `hindu.mahabharata.ganguli_vol3_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol3.md)
+- [x] The Mahabharata of Krishna-Dwaipayana Vyasa, Volume 4: Books 13, 14, 15, 16, 17 and 18 — `hindu.mahabharata.ganguli_vol4_gutenberg` — [texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md](texts/public-domain/hindu/project-gutenberg/mahabharata-ganguli-vol4.md)
+- [x] The Markandeya Purana — `hindu.markandeya_purana.pargiter_archive` — [texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md](texts/public-domain/hindu/internet-archive/markandeya-purana-pargiter.md)
+- [x] The Rámáyan of Válmíki, translated into English verse — `hindu.ramayana.valmiki_griffith_gutenberg` — [texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md](texts/public-domain/hindu/project-gutenberg/ramayana-valmiki-griffith.md)
 
 ### Indigenous Australian
 
@@ -776,6 +1419,8 @@ These are already in Markdown and remain valuable, but they are not currently ma
 
 ### Islamic Persian Sufi
 
+- [x] Bird Parliament — `sufi.attar.bird_parliament_fitzgerald_archive` — [texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md](texts/public-domain/sufi/project-gutenberg/bird-parliament-attar-fitzgerald.md)
+- [x] Masnavi i Ma'navi: Teachings of Rumi — `sufi.rumi.masnavi_whinfield_archive` — [texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md](texts/public-domain/sufi/project-gutenberg/masnavi-whinfield.md)
 - [x] Poems from the Divan of Hafiz — `sufi.hafiz.divan.bell_gutenberg` — [texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md](texts/public-domain/sufi/project-gutenberg/poems-from-divan-of-hafiz-bell.md)
 - [x] The Confessions of Al Ghazzali — `sufi.al_ghazzali.confessions_field_gutenberg` — [texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md](texts/public-domain/sufi/project-gutenberg/confessions-al-ghazzali-field.md)
 - [x] The Persian Mystics: Jalálu'd-dín Rúmí — `sufi.persian_mystics_rumi.davis_gutenberg` — [texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md](texts/public-domain/sufi/project-gutenberg/persian-mystics-rumi-davis.md)
@@ -795,15 +1440,208 @@ These are already in Markdown and remain valuable, but they are not currently ma
 ### Japanese Folklore
 
 - [x] Japanese Fairy Tales — `japanese.fairy_tales.ozaki_gutenberg` — [texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md](texts/public-domain/japanese/project-gutenberg/japanese-fairy-tales-ozaki.md)
+- [x] Kwaidan: Stories and Studies of Strange Things — `japanese.kwaidan.hearn_gutenberg` — [texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md](texts/public-domain/japanese/project-gutenberg/kwaidan-hearn.md)
+
+### Jewish Christian
+
+- [x] Fragments of a Faith Forgotten — `gnostic.mead.fragments_of_a_faith_forgotten.archive` — [texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md](texts/public-domain/gnostic/project-gutenberg/fragments-of-a-faith-forgotten-mead.md)
+- [x] Pistis Sophia — `gnostic.pistis_sophia.horner_gutenberg` — [texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md](texts/public-domain/gnostic/project-gutenberg/pistis-sophia-horner.md)
+- [x] The Bible, Douay-Rheims, Book 25: Wisdom — `biblical.wisdom_of_solomon.douay_gutenberg` — [texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md](texts/public-domain/biblical/project-gutenberg/wisdom-of-solomon-douay.md)
+- [x] The Bible, Douay-Rheims, Book 26: Ecclesiasticus — `biblical.sirach.douay_gutenberg` — [texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md](texts/public-domain/biblical/project-gutenberg/sirach-ecclesiasticus-douay.md)
+- [x] The Bible, King James Version, Book 18: Job — `biblical.job.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/job-kjv.md](texts/public-domain/biblical/project-gutenberg/job-kjv.md)
+- [x] The Bible, King James Version, Book 19: Psalms — `biblical.psalms.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/psalms-kjv.md](texts/public-domain/biblical/project-gutenberg/psalms-kjv.md)
+- [x] The Bible, King James Version, Book 23: Isaiah — `biblical.isaiah.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md](texts/public-domain/biblical/project-gutenberg/isaiah-kjv.md)
+- [x] The Bible, King James Version, Book 26: Ezekiel — `biblical.ezekiel.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md](texts/public-domain/biblical/project-gutenberg/ezekiel-kjv.md)
+- [x] The Bible, King James Version, Book 27: Daniel — `biblical.daniel.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/daniel-kjv.md](texts/public-domain/biblical/project-gutenberg/daniel-kjv.md)
+- [x] The Bible, King James Version, Book 66: Revelation — `biblical.revelation.kjv_gutenberg` — [texts/public-domain/biblical/project-gutenberg/revelation-kjv.md](texts/public-domain/biblical/project-gutenberg/revelation-kjv.md)
+- [x] The Book of Enoch — `jewish.1_enoch.charles_gutenberg` — [texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md](texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles.md)
+- [x] The Book of Jubilees, or, The Little Genesis — `jewish.jubilees.charles_archive` — [texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md](texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md)
+- [x] The Queen of Sheba and Her Only Son Menyelek (Kebra Nagast) — `ethiopian.kebra_nagast.budge_archive` — [texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md](texts/public-domain/ethiopian-christian/project-gutenberg/kebra-nagast-budge.md)
+- [x] The suppressed Gospels and Epistles of the original New Testament of Jesus the Christ, Complete — `christian.apocryphal_gospels.wake_gutenberg` — [texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md](texts/public-domain/christian-apocrypha/project-gutenberg/suppressed-gospels-epistles-wake.md)
+- [x] Thrice-Greatest Hermes, Vol. I: Prolegomena — `hermetic.mead.thrice_greatest_hermes.archive_v1` — [texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md](texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol1-mead.md)
+- [x] Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum) — `hermetic.corpus_hermeticum.mead_archive` — [texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md](texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md)
+
+### Khoisan Southern African
+
+- [x] South-African Folk-Tales — `african.south_african_folk_tales.honey_gutenberg` — [texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md](texts/public-domain/khoisan-south-african/project-gutenberg/south-african-folk-tales-honey.md)
+- [x] Specimens of Bushman Folklore — `african.specimens_of_bushman_folklore.bleek_lloyd_archive` — [texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md](texts/public-domain/san/project-gutenberg/specimens-of-bushman-folklore-bleek-lloyd.md)
+
+### Malagasy
+
+- [x] Madagascar Before the Conquest: The Island, the Country, and the People — `malagasy.madagascar_before_conquest.sibree_archive` — [texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md](texts/public-domain/malagasy/project-gutenberg/madagascar-before-conquest-sibree.md)
+- [x] The Great African Island: Chapters on Madagascar — `malagasy.great_african_island.sibree_archive` — [texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md](texts/public-domain/malagasy/project-gutenberg/great-african-island-madagascar-sibree.md)
+
+### Melanesian
+
+- [x] Tales from Old Fiji — `melanesian.tales_from_old_fiji.fison_archive` — [texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md](texts/public-domain/fijian/project-gutenberg/tales-from-old-fiji-fison.md)
+- [x] The Melanesians of British New Guinea — `melanesian.melanesians_british_new_guinea.seligman_archive` — [texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md](texts/public-domain/melanesian/project-gutenberg/melanesians-british-new-guinea-seligman.md)
+- [x] The Melanesians: Studies in Their Anthropology and Folk-Lore — `melanesian.the_melanesians.codrington_archive` — [texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md](texts/public-domain/melanesian/project-gutenberg/the-melanesians-codrington.md)
+
+### Mesoamerican
+
+- [x] Rig Veda Americanus: Sacred Songs of the Ancient Mexicans — `mesoamerican.rig_veda_americanus.brinton_gutenberg` — [texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md](texts/public-domain/nahua/project-gutenberg/rig-veda-americanus-brinton.md)
+- [x] The Maya Chronicles — `mesoamerican.maya_chronicles.brinton_gutenberg` — [texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md](texts/public-domain/maya/project-gutenberg/maya-chronicles-brinton.md)
+- [x] The Myths of Mexico & Peru — `mesoamerican.myths_of_mexico_peru.spence_gutenberg` — [texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md](texts/public-domain/nahua-maya-inca/project-gutenberg/myths-of-mexico-peru-spence.md)
 
 ### Mesopotamian
 
 - [x] An Old Babylonian Version of the Gilgamesh Epic — `mesopotamian.gilgamesh.old_babylonian_jastrow_clay_gutenberg` — [texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md](texts/public-domain/mesopotamian/project-gutenberg/old-babylonian-gilgamesh-jastrow-clay.md)
+- [x] Assyrian and Babylonian Literature: Selected Translations — `mesopotamian.harper.assyrian_babylonian_literature.archive` — [texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md](texts/public-domain/mesopotamian/project-gutenberg/assyrian-and-babylonian-literature-harper.md)
+- [x] Cuneiform Parallels to the Old Testament — `mesopotamian.rogers.cuneiform_parallels_archive` — [texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md](texts/public-domain/mesopotamian/project-gutenberg/cuneiform-parallels-rogers.md)
+- [x] The Babylonian Legends of the Creation — `mesopotamian.enuma_elish.babylonian_legends_creation_gutenberg` — [texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md](texts/public-domain/mesopotamian/project-gutenberg/babylonian-legends-of-creation.md)
+- [x] The Epic of Gilgamish — `mesopotamian.gilgamesh.epic_thompson_archive` — [texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md](texts/public-domain/mesopotamian/project-gutenberg/epic-of-gilgamish-thompson.md)
+- [x] The Religion of Babylonia and Assyria — `mesopotamian.jastrow.religion_babylonia_assyria.gutenberg` — [texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md](texts/public-domain/mesopotamian/project-gutenberg/religion-of-babylonia-and-assyria-jastrow.md)
+
+### Micronesian
+
+- [x] The Caroline Islands: Travel in the Sea of the Little Lands — `micronesian.caroline_islands.christian_archive` — [texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md](texts/public-domain/micronesian/project-gutenberg/caroline-islands-christian.md)
+- [x] The Island of Stone Money: Uap of the Carolines — `micronesian.island_of_stone_money.furness_archive` — [texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md](texts/public-domain/micronesian/project-gutenberg/island-of-stone-money-furness.md)
+
+### Native North American
+
+- [x] Navaho Legends — `native_american.navaho_legends.matthews_gutenberg` — [texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md](texts/public-domain/navajo/project-gutenberg/navaho-legends-matthews.md)
+- [x] The Traditions of the Hopi — `native_american.traditions_of_the_hopi.voth_archive` — [texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md](texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md)
+- [x] Zuni Folk Tales — `native_american.zuni_folk_tales.cushing_gutenberg` — [texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md](texts/public-domain/zuni/project-gutenberg/zuni-folk-tales-cushing.md)
 
 ### Norse
 
+- [x] Corpus Poeticum Boreale, Volume 1 — `norse.corpus_poeticum_boreale_v1.vigfusson_powell_archive` — [texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md](texts/public-domain/norse/internet-archive/corpus-poeticum-boreale-v1-vigfusson-powell.md)
+- [x] Heimskringla; Or, The Chronicle of the Kings of Norway — `norse.heimskringla.laing_gutenberg` — [texts/public-domain/norse/project-gutenberg/heimskringla-laing.md](texts/public-domain/norse/project-gutenberg/heimskringla-laing.md)
+- [x] Laxdaela Saga — `norse.laxdaela_saga.press_gutenberg` — [texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md](texts/public-domain/norse/project-gutenberg/laxdaela-saga-press.md)
 - [x] Myths of the Norsemen: From the Eddas and Sagas — `norse.myths_of_norsemen.guerber_gutenberg` — [texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md](texts/public-domain/norse/project-gutenberg/myths-of-the-norsemen-guerber.md)
+
+### Norse Celtic
+
+- [x] Beowulf: An Anglo-Saxon Epic Poem — `germanic.beowulf.gummere_gutenberg` — [texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md](texts/public-domain/germanic/project-gutenberg/beowulf-gummere.md)
+- [x] The High History of the Holy Graal — `arthurian.holy_graal.evans_gutenberg` — [texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md](texts/public-domain/arthurian/project-gutenberg/high-history-holy-graal-evans.md)
+- [x] The Nibelungenlied — `germanic.nibelungenlied.needler_gutenberg` — [texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md](texts/public-domain/germanic/project-gutenberg/nibelungenlied-needler.md)
+- [x] The Saga of Grettir the Strong: Grettir's Saga — `norse.grettis_saga.hight_gutenberg` — [texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md](texts/public-domain/norse/project-gutenberg/grettir-the-strong-hight.md)
+- [x] The Story of Burnt Njal: From the Icelandic of the Njals Saga — `norse.njals_saga.dasent_gutenberg` — [texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md](texts/public-domain/norse/project-gutenberg/burnt-njal-dasent.md)
+- [x] The Story of the Volsungs (Volsunga Saga); with Excerpts from the Poetic Edda — `norse.volsunga_saga.morris_gutenberg` — [texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md](texts/public-domain/norse/project-gutenberg/volsunga-saga-morris-magnusson.md)
+- [x] The Voyage of Bran, Son of Febal, to the Land of the Living — `celtic_irish.voyage_of_bran.meyer_archive` — [texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md](texts/public-domain/celtic-irish/project-gutenberg/voyage-of-bran-meyer.md)
+- [x] The Younger Edda; Also called Snorre's Edda, or The Prose Edda — `norse.prose_edda.anderson_gutenberg` — [texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md](texts/public-domain/norse/project-gutenberg/younger-edda-anderson.md)
+
+### North American
+
+- [x] Aw-Aw-Tam Indian Nights: Being the Myths and Legends of the Pimas of Arizona — `native_american.aw_aw_tam_indian_nights.lloyd_gutenberg` — [texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md](texts/public-domain/native-american-southwest/project-gutenberg/aw-aw-tam-indian-nights-lloyd.md)
+- [x] Blackfoot Lodge Tales — `native_american.blackfoot_lodge_tales.grinnell_archive` — [texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md](texts/public-domain/native-american-plains/project-gutenberg/blackfoot-lodge-tales-grinnell.md)
+- [x] Chinook Texts — `native_american.chinook_texts.boas_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/chinook-texts-boas.md)
+- [x] Chippewa Music — `native_american.chippewa_music_1.densmore_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md](texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-1-densmore.md)
+- [x] Chippewa Music II — `native_american.chippewa_music_2.densmore_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md](texts/public-domain/native-american-great-lakes/project-gutenberg/chippewa-music-2-densmore.md)
+- [x] Creation Myths of Primitive America — `native_american.creation_myths.curtin_archive` — [texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md](texts/public-domain/native-american-california/project-gutenberg/creation-myths-primitive-america-curtin.md)
+- [x] Ethnology of the Kwakiutl, Part 1 — `native_american.ethnology_kwakiutl_1.boas_hunt_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-1-boas-hunt.md)
+- [x] Ethnology of the Kwakiutl, Part 2 — `native_american.ethnology_kwakiutl_2.boas_hunt_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/ethnology-kwakiutl-2-boas-hunt.md)
+- [x] Fox Texts — `native_american.fox_texts.jones_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md](texts/public-domain/native-american-great-lakes/project-gutenberg/fox-texts-jones.md)
+- [x] Gros Ventre Myths and Tales — `native_american.gros_ventre.kroeber_archive` — [texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md](texts/public-domain/native-american-plains/project-gutenberg/gros-ventre-myths-tales-kroeber.md)
+- [x] Haida Texts and Myths: Skidegate Dialect — `native_american.haida_texts_myths.swanton_gutenberg` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/haida-texts-myths-swanton.md)
+- [x] Jicarilla Apache Texts — `native_american.jicarilla_apache_texts.goddard_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md](texts/public-domain/native-american-southwest/project-gutenberg/jicarilla-apache-texts-goddard.md)
+- [x] Mythology of the Blackfoot Indians — `native_american.mythology_blackfoot.wissler_duvall_archive` — [texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md](texts/public-domain/native-american-plains/project-gutenberg/mythology-blackfoot-wissler-duvall.md)
+- [x] Myths and Folk-lore of the Timiskaming Algonquin and Timagami Ojibwa — `native_american.timiskaming_algonquin.speck_archive` — [texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md](texts/public-domain/native-american-northeast-woodlands/project-gutenberg/timiskaming-algonquin-speck.md)
+- [x] Myths and Tales from the San Carlos Apache — `native_american.myths_tales_san_carlos_apache.goddard_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md](texts/public-domain/native-american-southwest/project-gutenberg/myths-tales-san-carlos-apache-goddard.md)
+- [x] Myths and Traditions of the Crow Indians — `native_american.myths_traditions_crow.lowie_archive` — [texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md](texts/public-domain/native-american-plains/project-gutenberg/myths-traditions-crow-lowie.md)
+- [x] Myths of the Cherokee — `native_american.myths_of_cherokee.mooney_gutenberg` — [texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md](texts/public-domain/native-american-southeast/project-gutenberg/myths-of-cherokee-mooney.md)
+- [x] Myths of the Modocs — `native_american.myths_of_the_modocs.curtin_archive` — [texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md](texts/public-domain/native-american-plateau/project-gutenberg/myths-of-the-modocs-curtin.md)
+- [x] Notes on the Eastern Cree and Northern Saulteaux — `native_american.eastern_cree.skinner_archive` — [texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md](texts/public-domain/native-american-northeast-woodlands/project-gutenberg/eastern-cree-northern-saulteaux-skinner.md)
+- [x] Seneca Fiction, Legends, and Myths — `native_american.seneca_fiction_legends_myths.curtin_hewitt_archive` — [texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md](texts/public-domain/native-american-northeast-woodlands/project-gutenberg/seneca-fiction-legends-myths-curtin-hewitt.md)
+- [x] Social Life and Ceremonial Bundles of the Menomini Indians — `native_american.menomini_bundles.skinner_archive` — [texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md](texts/public-domain/native-american-great-lakes/project-gutenberg/ceremonial-bundles-menomini-skinner.md)
+- [x] Teton Sioux Music — `native_american.teton_sioux_music.densmore_archive` — [texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md](texts/public-domain/native-american-plains/project-gutenberg/teton-sioux-music-densmore.md)
+- [x] The Assiniboine — `native_american.the_assiniboine.lowie_archive` — [texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md](texts/public-domain/native-american-plains/project-gutenberg/the-assiniboine-lowie.md)
+- [x] The Mountain Chant: A Navajo Ceremony — `native_american.mountain_chant.matthews_gutenberg` — [texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md](texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md)
+- [x] The Mythology of the Bella Coola Indians — `native_american.mythology_bella_coola.boas_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/mythology-bella-coola-boas.md)
+- [x] The Omaha Tribe — `native_american.omaha_tribe.fletcher_laflesche_archive` — [texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md](texts/public-domain/native-american-plains/project-gutenberg/the-omaha-tribe-fletcher-laflesche.md)
+- [x] The Pawnee - Mythology (Part I) — `native_american.pawnee_mythology.dorsey_archive` — [texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/pawnee-mythology-dorsey.md)
+- [x] The Pima Indians — `native_american.pima_indians.russell_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md](texts/public-domain/native-american-southwest/project-gutenberg/pima-indians-russell.md)
+- [x] The Ritual and Significance of the Winnebago Medicine Dance — `native_american.winnebago_medicine_dance.radin_gutenberg` — [texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md](texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md)
+- [x] The Sia — `native_american.the_sia.stevenson_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md](texts/public-domain/native-american-southwest/project-gutenberg/the-sia-stevenson.md)
+- [x] The Zuñi Indians: Their Mythology, Esoteric Fraternities, and Ceremonies — `native_american.zuni_indians.stevenson_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md](texts/public-domain/native-american-southwest/project-gutenberg/zuni-indians-stevenson.md)
+- [x] Tlingit Myths and Texts — `native_american.tlingit_myths_texts.swanton_gutenberg` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/tlingit-myths-texts-swanton.md)
+- [x] Traditions of the Arapaho — `native_american.traditions_arapaho.dorsey_kroeber_archive` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-arapaho-dorsey-kroeber.md)
+- [x] Traditions of the Arikara — `native_american.traditions_arikara.dorsey_gutenberg` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-arikara-dorsey.md)
+- [x] Traditions of the Caddo — `native_american.traditions_caddo.dorsey_archive` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-of-the-caddo-dorsey.md)
+- [x] Traditions of the Skidi Pawnee — `native_american.traditions_skidi_pawnee.dorsey_archive` — [texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md](texts/public-domain/native-american-plains/project-gutenberg/traditions-skidi-pawnee-dorsey.md)
+- [x] Traditions of the Thompson River Indians of British Columbia — `native_american.thompson_river.teit_archive` — [texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md](texts/public-domain/native-american-plateau/project-gutenberg/traditions-thompson-river-teit.md)
+- [x] Tsimshian Mythology — `native_american.tsimshian_mythology.boas_tate_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-mythology-boas-tate.md)
+- [x] Tsimshian Texts — `native_american.tsimshian_texts.boas_archive` — [texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md](texts/public-domain/native-american-northwest-coast/project-gutenberg/tsimshian-texts-boas.md)
+- [x] Tusayan Migration Traditions — `native_american.tusayan_migration_traditions.fewkes_archive` — [texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md](texts/public-domain/native-american-southwest/project-gutenberg/tusayan-migration-traditions-fewkes.md)
+- [x] Wishram Texts — `native_american.wishram_texts.sapir_archive` — [texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md](texts/public-domain/native-american-plateau/project-gutenberg/wishram-texts-sapir.md)
+- [x] Yana Texts — `native_american.yana_texts.sapir_archive` — [texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md](texts/public-domain/native-american-california/project-gutenberg/yana-texts-sapir.md)
+
+### Oceanian Polynesian
+
+- [x] Hawaiian Folk Tales: A Collection of Native Legends — `polynesian.hawaiian_folk_tales.thrum_gutenberg` — [texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md](texts/public-domain/hawaiian/project-gutenberg/hawaiian-folk-tales-thrum.md)
+- [x] Polynesian Mythology and Ancient Traditional History of the New Zealand Race — `polynesian.maori.polynesian_mythology.grey_archive` — [texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md](texts/public-domain/maori/project-gutenberg/polynesian-mythology-grey.md)
+
+### Oceanic
+
+- [x] Oceanic Mythology — `oceanic.oceanic_mythology.dixon_archive` — [texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md](texts/public-domain/oceanic/project-gutenberg/oceanic-mythology-dixon.md)
+- [x] The History of Melanesian Society, Volume 1 — `melanesian.history_of_melanesian_society.rivers_vol1_archive` — [texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md](texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v1-rivers.md)
+- [x] The History of Melanesian Society, Volume 2 — `melanesian.history_of_melanesian_society.rivers_vol2_archive` — [texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md](texts/public-domain/melanesian/internet-archive/history-of-melanesian-society-v2-rivers.md)
 
 ### Persian
 
+- [x] Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast — `zoroastrian.pahlavi.bundahis_west_archive` — [texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md](texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md)
 - [x] Persian Literature, Volume 1 — `persian.persian_literature_volume_1.gutenberg` — [texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md](texts/public-domain/persian/project-gutenberg/persian-literature-volume-1.md)
+- [x] The Shahnama of Firdausi, Vol. I — `persian.shahnama.warner_v1_archive` — [texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md](texts/public-domain/persian/project-gutenberg/shahnama-warner-vol1.md)
+- [x] The Shahnama of Firdausi, Vol. II — `persian.shahnama.warner_v2_archive` — [texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md](texts/public-domain/persian/project-gutenberg/shahnama-warner-vol2.md)
+- [x] The Zend-Avesta, Part I: The Vendidad — `zoroastrian.avesta.vendidad_darmesteter_archive` — [texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md](texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md)
+- [x] The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis — `zoroastrian.avesta.yasts_darmesteter_archive` — [texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md](texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md)
+- [x] The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments — `zoroastrian.avesta.yasna_gathas_mills_archive` — [texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md](texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md)
+
+### Polynesian
+
+- [x] Myths and Songs from the South Pacific — `polynesian.myths_songs_south_pacific.gill_archive` — [texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md](texts/public-domain/mangaian/project-gutenberg/myths-and-songs-south-pacific-gill.md)
+- [x] Samoa, A Hundred Years Ago And Long Before — `polynesian.samoa_hundred_years_ago.turner_gutenberg` — [texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md](texts/public-domain/samoan/project-gutenberg/samoa-a-hundred-years-ago-turner.md)
+- [x] The Ancient History of the Maori, His Mythology and Traditions, Volume 3 — `polynesian.ancient_history_maori_v3.white_archive` — [texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md](texts/public-domain/maori/project-gutenberg/ancient-history-of-the-maori-v3-white.md)
+- [x] Tongan Myths and Tales — `polynesian.tongan_myths_and_tales.gifford_archive` — [texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md](texts/public-domain/tongan/project-gutenberg/tongan-myths-and-tales-gifford.md)
+
+### Roman
+
+- [x] Aeneidos — `latin.vergil.aeneid_latin_gutenberg` — [texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md](texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md)
+- [x] Fasti — `latin.ovid.fasti_latin_gutenberg` — [texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md](texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md)
+
+### Shinto Japanese
+
+- [x] Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1 — `shinto.nihongi.volume_1.aston_archive` — [texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md](texts/public-domain/shinto/project-gutenberg/nihongi-volume-1-aston.md)
+- [x] Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2 — `shinto.nihongi.volume_2.aston_archive` — [texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md](texts/public-domain/shinto/project-gutenberg/nihongi-volume-2-aston.md)
+
+### Siberian
+
+- [x] Aboriginal Siberia - A Study in Social Anthropology — `siberian.aboriginal_siberia.czaplicka_archive` — [texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md](texts/public-domain/siberian/internet-archive/aboriginal-siberia-czaplicka.md)
+- [x] Chukchee Mythology — `siberian.chukchee_mythology.bogoras_archive` — [texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md](texts/public-domain/siberian/project-gutenberg/chukchee-mythology-bogoras.md)
+
+### Siberian Mongol
+
+- [x] A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths — `siberian_mongol.journey_in_southern_siberia.curtin_archive` — [texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md](texts/public-domain/buryat-mongol/project-gutenberg/journey-in-southern-siberia-curtin.md)
+
+### Siberian Paleoasiatic
+
+- [x] Koryak Texts — `siberian.koryak_texts.bogoras_archive` — [texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md](texts/public-domain/siberian/project-gutenberg/koryak-texts-bogoras.md)
+- [x] Tales of Yukaghir, Lamut, and Russianized Natives of Eastern Siberia — `siberian.tales_of_yukaghir_lamut.bogoras_archive` — [texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md](texts/public-domain/siberian/project-gutenberg/tales-of-yukaghir-lamut-bogoras.md)
+
+### Sikh
+
+- [x] The Sikh Religion: Its Gurus, Sacred Writings and Authors, Vol. 1 — `sikh.sikh_religion.macauliffe_v1_archive` — [texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md](texts/public-domain/sikh/project-gutenberg/sikh-religion-macauliffe-vol1.md)
+
+### Slavic
+
+- [x] Fairy Tales of the Slav Peasants and Herdsmen — `slavic.fairy_tales_slav_peasants.chodzko_gutenberg` — [texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md](texts/public-domain/slavic/project-gutenberg/fairy-tales-slav-peasants-chodzko.md)
+- [x] Sixty Folk-Tales from Exclusively Slavonic Sources — `slavic.sixty_folk_tales_slavonic.wratislaw_gutenberg` — [texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md](texts/public-domain/slavic/project-gutenberg/sixty-folk-tales-slavonic-wratislaw.md)
+
+### South American Lowland
+
+- [x] Among the Indians of Guiana: Being Sketches Chiefly Anthropologic from the Interior of British Guiana — `south_american.among_indians_guiana.im_thurn_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md](texts/public-domain/guiana-amerindian/project-gutenberg/among-indians-guiana-im-thurn.md)
+- [x] An Inquiry into the Animism and Folk-Lore of the Guiana Indians — `south_american.animism_folklore_guiana_indians.roth_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md](texts/public-domain/guiana-amerindian/project-gutenberg/animism-folklore-guiana-indians-roth.md)
+- [x] An Unknown People in an Unknown Land: An Account of the Life and Customs of the Lengua Indians of the Paraguayan Chaco — `south_american.unknown_people_unknown_land.grubb_archive` — [texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md](texts/public-domain/chaco-amerindian/project-gutenberg/unknown-people-unknown-land-grubb.md)
+- [x] Legends and Myths of the Aboriginal Indians of British Guiana — `south_american.legends_myths_british_guiana.brett_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md](texts/public-domain/guiana-amerindian/project-gutenberg/legends-myths-british-guiana-brett.md)
+- [x] The Central Caribs — `amazonian.the_central_caribs.farabee_archive` — [texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md](texts/public-domain/guiana-amerindian/project-gutenberg/the-central-caribs-farabee.md)
+- [x] The North-West Amazons: Notes of Some Months Spent Among Cannibal Tribes — `south_american.north_west_amazons.whiffen_gutenberg` — [texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md](texts/public-domain/amazonian/project-gutenberg/north-west-amazons-whiffen.md)
+
+### Southeast Asian
+
+- [x] Malay Magic — `malay.malay_magic.skeat_archive` — [texts/public-domain/malay/internet-archive/malay-magic-skeat.md](texts/public-domain/malay/internet-archive/malay-magic-skeat.md)
+- [x] Pagan Races of the Malay Peninsula, Volume 1 — `malay.pagan_races_malay_peninsula.skeat_blagden_vol1_archive` — [texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md](texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v1-skeat-blagden.md)
+- [x] Pagan Races of the Malay Peninsula, Volume 2 — `malay.pagan_races_malay_peninsula.skeat_blagden_vol2_archive` — [texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md](texts/public-domain/malay/internet-archive/pagan-races-malay-peninsula-v2-skeat-blagden.md)
+- [x] Philippine Folk Tales — `filipino.folk_tales.cole_gutenberg` — [texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md](texts/public-domain/filipino/project-gutenberg/philippine-folk-tales-cole.md)
+- [x] Shans at Home, With Two Chapters on Shan History and Literature — `shan.shans_at_home.milne_archive` — [texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md](texts/public-domain/shan/project-gutenberg/shans-at-home-milne.md)
+- [x] Stories and Legends of Annam — `vietnamese.annam_legends.chivas_baron_archive` — [texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md](texts/public-domain/vietnamese/internet-archive/stories-legends-annam-chivas-baron.md)
+- [x] The Soul of a People — `burmese.soul_of_a_people.fielding_hall_archive` — [texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md](texts/public-domain/burmese/internet-archive/soul-of-a-people-fielding-hall.md)
