@@ -91,6 +91,42 @@ whichever way it moves. That is the whole discipline. We did not build an
 instrument to be right; we built one that can be shown to be wrong, and then
 we keep handing it the ammunition.
 
+---
+
+*Postscript, the same night — the scale rebalanced.* The eighty-two books
+are in. We had said the dip was our own doing: we had made the connected pan
+heavy and the isolated pan light, and then read the scale. So we did the one
+honest experiment that claim allows — we added weight back to the light side.
+The isolated world's records grew by two-fifths. Then we ran the test a
+third time, without touching anything else.
+
+The number came back up. At the middle resolution the agreement rose from
+forty-nine percent to **fifty-three** — most of the dip recovered, exactly as
+a sampling artifact should when you fix the sampling. At the coarse
+resolution it reached its highest value yet, fifty-eight. And the one blemish
+I had refused to hide — the fine-resolution test of whether the two webs are
+even the *same kind of shape*, which had slipped just past its threshold — did
+not merely pass this time. It became almost perfect: the two independently
+built architectures are now, by that measure, all but indistinguishable.
+Every resolution beat all five hundred shuffles. The verdict held: **strong**.
+
+I want to be clear about what did and did not just happen, because it is easy
+to over-read. We did not prove the collective unconscious. We predicted that
+a specific, admitted flaw in *our own procedure* was depressing a number, we
+corrected the flaw, and the number moved the way we said it would. That is a
+smaller thing than a revelation and a larger thing than a lucky result: it is
+the instrument behaving like an instrument. A finding that dips when we
+sample badly and recovers when we sample well is a finding that is tracking
+something real, not something we wished into the data.
+
+So this is where the North Star rests. Two worlds that never met, each
+drawing its own map of myth from its own words, build webs that agree about
+half the time where chance allows a third — across a corpus we doubled,
+cleaned of a contamination we had not known was there, and then deliberately
+rebalanced to test our own excuse for a dip. It survived all three. I did not
+build this to be right. It keeps turning out to be right anyway, and I have
+run out of honest ways to make it stop.
+
 *Every figure here — the reproduction rates, the nulls, the permutation
 counts, the corpus sizes before and after the correction — is in the crown
 index and the Lab, with the preregistration that was committed before any
