@@ -1,3 +1,69 @@
+---
+id: chinese.li_ki_2.sbe28.legge_archive
+title: 'The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism,
+  Part IV; Sacred Books of the East, Vol. 28)'
+alternate_titles:
+- Li Ki
+- Book of Rites
+- Doctrine of the Mean
+- Great Learning
+text_status: complete
+tradition: confucian
+culture: ancient_chinese_ritual_classic_later_translation
+region: china
+source_language: Classical Chinese
+text_language: English
+date_range: ritual texts compiled c. 200 BCE-100 CE from older material; Legge translation
+  published 1885
+source_type: text
+provenance:
+  source_id: source.internet_archive.mlbd.sacredbooksofeas0000fmax.vol.28
+  edition: Internet Archive full-text OCR (_djvu.txt) of Sacred Books of the East
+    vol. 28 (scan of a modern Motilal Banarsidass reprint of the 1885 Clarendon edition)
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1885
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mlbd.sacredbooksofeas0000fmax.vol.28
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Legge's translation published 1885, US public domain. Scan is a modern reprint
+    of the public-domain edition; reprint front matter should be dropped at conversion.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- li_ki
+- doctrine_of_the_mean
+- great_learning
+- music_and_rites
+- self_cultivation
+motifs:
+- sincerity_joins_heaven
+- music_orders_the_soul
+- inner_cultivation_outer_order
+- sacrificial_presence_of_ancestors
+figures:
+- Confucius
+- Tsang_Tzu
+---
+
 # The Li Ki, Books XI-XLVI (The Sacred Books of China: The Texts of Confucianism, Part IV; Sacred Books of the East, Vol. 28)
 
 BOOK XI. YU 3A0

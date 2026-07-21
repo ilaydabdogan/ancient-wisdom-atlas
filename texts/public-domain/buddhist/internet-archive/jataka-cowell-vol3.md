@@ -12888,7 +12888,7 @@ roli^'ioUH  lift',  and  r«>nching  tho  high(>r  Facultitw  and  Attaininontu,
 long  in  tho  Iliniiiluyu:  then  coming  down  among  men  to  got  lUilt  and
 vinegar,  he  reached  Henan-j*.  and  after  wt^iying  in  a  garden  he  camo
 lagging  next  day  to  tho  king's  court.  Tho  king,  Inking  pleased  with  his
-)H<aring  and  manner,  nent  for  him,  and  M>t  liim  on  a  seat  on  the  terrace,
+)H aring  and  manner,  nent  for  him,  and  M>t  liim  on  a  seat  on  the  terrace,
 giving  him  goo<l  fo^xl  :  then  receiving  his  thanks  he  was  pleased,  and
 exacting  a  promise  made  the  Ikxlhi.nattu  dwell  in  the  royal  garden,  and
 went  to  wait  on  him  two  or  three  times  each  day.  One  day,  l)eing  pleased
@@ -13068,7 +13068,7 @@ mentioned  below.
 
 220  Tlu:  Jdtaka.     Book    Vll.
 
-l>rttctiH«<i  uiLHliUktiun,  ho  ho  WiiM  liorii  iit  the  VehappluiLi  hv^vvii.      Huviiig  B)>ciit
+l>rttctiH« i  uiLHliUktiun,  ho  ho  WiiM  liorii  iit  the  VehappluiLi  hv^vvii.      Huviiig  B)>ciit
 thcro  an  ctiMtcnco  of  five  hundroti  IcuIimim,  he  Wii.t  In.ni  in  the  SuUmkinna  heaven  ;
 
 ftfter    Mixtv-foiir    kiiliww    thcro    he    i>iui.sc‹l    and    wiw»    l«›ni    in    the    AhhAMiuira
@@ -13150,7 +13150,7 @@ Even  this  Brahma  world  illuminate.
 
 So  the  Master,  making  known  his  qiuility  as  Buddha  and  exj>ounding  the
 Iaw,  shcwrtl  forth  tho  Truths.  At  the  end  the  thoughts  of  ten  thou.sand
-brahmas  were  free<l  from  atLaclinicnts  and  sin.s.  So  the  l^»nl  l>fainie  the  refuge
+brahmas  were  free l  from  atLaclinicnts  and  sin.s.  So  the  l^»nl  l>fainie  the  refuge
 of  nmny  l>nihnui«,  and  going  l«uk  fnim  Bmhmaloka  to  Jetiviuia  preached  the
 law  in  the  way  descril»ed  and  identifu-*!  thi'  Birth:  "At  that  time  li^ika  the
 bnihma  was  the  a-scetic  Ke-sava,  KapjMi  the  disciple  was  myself."
@@ -13989,7 +13989,7 @@ SUSiMA-JATAKA.
 JetiiVHiKi,  fibout  the  Great  RenuiKiutioii.  The  Brethren  wei-e  hitting  in  the  Hall
 uf  Truth,  iiraising  the  Buddha's  renunciation.  The  Master,  tinding  that  this
 \V!is  their  topic,  .siiid,  "Brethren,  it  is  not  strange  that  I  should  now  make  the
-Gre<it  Renunciation  and  retin'iaent  from  the  wi>rld,  I  who  have  for  many  hundnKl
+Gre it  Renunciation  and  retin'iaent  from  the  wi>rld,  I  who  have  for  many  hundnKl
 thou.siind  ages  e.\erciseti  j>erfection  :  of  old  also  1  gave  ui»  the  reign  over  the
 kingdom  of  Kfisi,  three  hundrcil  leagues  in  extent,  and  mouc  the  renunciation,"
 and  so  he  told  the  old  tale.
@@ -14589,7 +14589,7 @@ Siiintfl  art)  plciuuuit  to  my  sight
 [413]  Aftor  Hayinif  this,  lio  lookod  at  th»'  queen's  l>eaiity  and  Haid,
 "  Fair  la«ly,  I  have  told  fully  my  gootl  difdH  done  in  fonnrr  tinif,  hut
 nmongst  all  these  ladioH  there  is  none  like  you  in  lM>auty  or  charming
-grace:  by  what  df<d  diil  you  attain  this  Vn^auty  ? "  And  he  Hi>oke  a
+grace:  by  what  df d  diil  you  attain  this  Vn^auty  ? "  And  he  Hi>oke  a
 Btanza  : —
 
 Liuly,  like  a  nymph  «»f  hoavon,

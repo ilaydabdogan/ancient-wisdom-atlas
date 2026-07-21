@@ -1,3 +1,66 @@
+---
+id: buddhist.milinda_1.sbe35.rhys_davids_archive
+title: The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35)
+alternate_titles:
+- Milinda Panha
+- Milindapanha
+text_status: complete
+tradition: buddhist
+culture: indo_greek_buddhist_dialogue_later_translation
+region: south_asia
+source_language: Pali
+text_language: English
+date_range: dialogue composed c. 100 BCE-200 CE; Rhys Davids translation published
+  1890
+source_type: text
+provenance:
+  source_id: source.internet_archive.questionsofkingm01davi
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1890 edition, Sacred Books of the East vol. 35
+  translator: T. W. Rhys Davids
+  editor: F. Max Muller
+  publication_year: 1890
+  publisher: Internet Archive
+  source_url: https://archive.org/details/questionsofkingm01davi
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1890, US public domain. Translator introduction precedes the dialogue;
+    extraction should separate apparatus from text.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- milinda
+- nagasena
+- no_self
+- chariot_simile
+- buddhist_philosophy
+motifs:
+- king_questions_sage
+- no_self_analysis
+- chariot_of_composite_selfhood
+- rebirth_without_transmigration
+figures:
+- Milinda
+- Nagasena
+---
+
 # The Questions of King Milinda, Part I (Sacred Books of the East, Vol. 35)
 
 INTRODUCTION.

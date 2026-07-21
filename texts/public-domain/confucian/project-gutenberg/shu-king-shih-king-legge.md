@@ -1,3 +1,75 @@
+---
+id: chinese.shu_king_shih_king.sbe3.legge_archive
+title: 'The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King,
+  the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East,
+  Vol. 3)'
+alternate_titles:
+- Shu King
+- Book of Documents
+- Shih King
+- Book of Odes
+- Hsiao King
+text_status: complete
+tradition: confucian
+culture: ancient_chinese_classics_later_translation
+region: china
+source_language: Classical Chinese
+text_language: English
+date_range: core documents and odes c. 1000-600 BCE with later layers; Legge translation
+  published 1879
+source_type: text
+provenance:
+  source_id: source.internet_archive.sacredbooksofch03conf
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1879 edition, Sacred Books of the East vol. 3
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1879
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sacredbooksofch03conf
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1879, US public domain. Legge's introductions and notes interleave
+    with the classics; extraction should separate apparatus from text.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- shu_king
+- shih_king
+- mandate_of_heaven
+- ancestor_sacrifice
+- confucian_classics
+motifs:
+- mandate_of_heaven
+- ancestral_spirits_presence
+- great_flood_ordering
+- virtuous_ruler_cosmic_order
+- filial_piety_as_cosmic_law
+figures:
+- Yao
+- Shun
+- Yu
+- King_Wen
+- Confucius
+---
+
 # The Sacred Books of China: The Texts of Confucianism, Part I - The Shu King, the Religious Portions of the Shih King, the Hsiao King (Sacred Books of the East, Vol. 3)
 PREFACE.
 

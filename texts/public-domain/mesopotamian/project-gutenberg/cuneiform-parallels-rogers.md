@@ -5876,7 +5876,7 @@ muttw, irapaTre<pvK6rag 6e etc ttjs ovpa$ tov i^Wof* elvai 6e aural
 
 'iKova uirov In Kai vvv (haQvAaoeodai.
 
-<v tt}v fiev ijprpav (harptfit/v fUTa tuv avtip('.>~(,n>,
+ v tt}v fiev ijprpav (harptfit/v fUTa tuv avtip('.>~(,n>,
 
 ovdtu v<n\ -tipatiib'dvai re Toiq avdpuirotQ ypapftaruv
 
@@ -19777,7 +19777,7 @@ Hibliothek, ii, pp. 52ff. ; Winckler, KeUinschriftliches Textbuch zum Alten
 Testament, 3t<- Auf., pp. 37, 38; Ungnad in Gressmann, Altorientalische
 Texteund BUdtr, i, p. 117.
 
-(23) ul-ture3sarru-ti-ia a-<li XV palr-ia sa (ra)(ilu) #um-ba-ni-galu) Klainw i-nari-l>it (alu) Dur-ilu(ki) aS-ku-na tah,-ta-(a)-su
+(23) ul-ture3sarru-ti-ia a- li XV palr-ia sa (ra)(ilu) #um-ba-ni-galu) Klainw i-nari-l>it (alu) Dur-ilu(ki) aS-ku-na tah,-ta-(a)-su
 
 - i-m.-ri-na al-me ak XX VI 1. M. 1 1. C, XC niSe a-§ib
 

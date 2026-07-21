@@ -1,3 +1,66 @@
+---
+id: arctic_inuit.people_of_polar_north.rasmussen_archive
+title: 'The People of the Polar North: A Record'
+alternate_titles:
+- The People of the Polar North
+text_status: complete
+tradition: arctic_inuit
+culture: inughuit_polar_greenland_oral_traditions
+region: arctic_northwest_greenland
+source_language: Inuktun and West Greenlandic oral traditions via Danish, translated
+  into English
+text_language: English
+date_range: living oral traditions; recorded on the Danish Literary Greenland Expedition
+  1902-1904 by the part-Inuit, Greenlandic-speaking Rasmussen; English edition 1908
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.peopleofpolarnor00rasmuoft
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1908 Kegan Paul London
+    edition, compiled and translated by G. Herring (University of Toronto scan)
+  translator: G. Herring
+  editor: ''
+  publication_year: 1908
+  publisher: Internet Archive
+  source_url: https://archive.org/details/peopleofpolarnor00rasmuoft
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1908, US public domain. Recording context - Rasmussen recorded
+    folk-tales and shamanic accounts directly in Greenlandic from named Inughuit informants;
+    double translation (Greenlandic to Danish to English) but narrative units preserved
+    intact. Complements the already-ingested Rasmussen Eskimo Folk-Tales.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- inuit
+- inughuit
+- greenland
+- shamanism
+- isolated_lineage
+motifs:
+- sea_woman
+- shamanic_journey
+- transformation
+- orphan_hero
+figures: []
+---
+
 # The People of the Polar North: A Record
 AUTHOR'S PREFACE
 

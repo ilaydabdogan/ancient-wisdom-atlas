@@ -1,3 +1,68 @@
+---
+id: chinese.li_ki_1.sbe27.legge_archive
+title: 'The Li Ki, Books I-X (The Sacred Books of China: The Texts of Confucianism,
+  Part III; Sacred Books of the East, Vol. 27)'
+alternate_titles:
+- Li Ki
+- Book of Rites
+- Liji
+text_status: complete
+tradition: confucian
+culture: ancient_chinese_ritual_classic_later_translation
+region: china
+source_language: Classical Chinese
+text_language: English
+date_range: ritual texts compiled c. 200 BCE-100 CE from older material; Legge translation
+  published 1885
+source_type: text
+provenance:
+  source_id: source.internet_archive.sacredbooksofchi0027unse
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1885 edition, Sacred Books of the East vol. 27
+  translator: James Legge
+  editor: F. Max Muller
+  publication_year: 1885
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sacredbooksofchi0027unse
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1885, US public domain. Ritual prescriptions dominate; extraction
+    should target the cosmological, mourning, and sacrificial-communication passages.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- li_ki
+- book_of_rites
+- mourning_rites
+- sacrifice
+- ritual_order
+motifs:
+- rites_align_heaven_and_earth
+- mourning_as_transformation
+- sacrificial_communion_with_dead
+- seasonal_cosmic_correspondence
+figures:
+- Confucius
+- Duke_of_Kau
+---
+
 # The Li Ki, Books I-X (The Sacred Books of China: The Texts of Confucianism, Part III; Sacred Books of the East, Vol. 27)
 I MAY be permitted to express my satisfaction that, with
 the two volumes of the Li A? now published, I have done,

@@ -1,3 +1,66 @@
+---
+id: native_american.myths_tales_san_carlos_apache.goddard_archive
+title: Myths and Tales from the San Carlos Apache
+alternate_titles:
+- Myths and Tales from the San Carlos Apache (AMNH Anthropological Papers vol. XXIV
+  part 1)
+text_status: complete
+tradition: native_american_southwest
+culture: western_apache_field_recorded_myths
+region: north_america_southwest_apache
+source_language: San Carlos Apache (Athabaskan)
+text_language: English
+date_range: living oral traditions; recorded 1905-1914 from named San Carlos narrators;
+  published 1918 (Anthropological Papers of the AMNH, vol. XXIV part 1)
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.mythstalesfromsa00godd
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1918 American Museum
+    of Natural History edition
+  translator: Pliny Earle Goddard
+  editor: ''
+  publication_year: 1918
+  publisher: Internet Archive
+  source_url: https://archive.org/details/mythstalesfromsa00godd
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1918, US public domain. Recording context - English translations
+    of dictated texts from named narrators; creation, culture-hero, and coyote cycles
+    of the Western Apache; companion Apache-language volume (part 3, 1919) queued
+    separately.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- apache
+- san_carlos
+- athabaskan
+- southwest
+- verbatim_texts
+motifs:
+- creation
+- monster_slayer
+- coyote_trickster
+- gaan_mountain_spirits
+figures: []
+---
+
 # Myths and Tales from the San Carlos Apache
 
 MYTHS  AND  TALES  FROM  THE  SAN  CARLOS  APACHE.

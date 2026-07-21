@@ -1,3 +1,71 @@
+---
+id: buddhist.vinaya_1.sbe13.rhys_davids_oldenberg_archive
+title: 'Vinaya Texts, Part I: The Patimokkha, The Mahavagga I-IV (Sacred Books of
+  the East, Vol. 13)'
+alternate_titles:
+- Vinaya
+- Patimokkha
+- Mahavagga
+text_status: complete
+tradition: buddhist
+culture: early_buddhist_monastic_canon_later_translation
+region: south_asia
+source_language: Pali
+text_language: English
+date_range: canonical Vinaya c. 400-100 BCE; Rhys Davids and Oldenberg translation
+  published 1881
+source_type: text
+provenance:
+  source_id: source.internet_archive.sacredbookseast13mulluoft
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1881 edition, Sacred Books of the East vol. 13 (University of Toronto scan)
+  translator: T. W. Rhys Davids and Hermann Oldenberg
+  editor: F. Max Muller
+  publication_year: 1881
+  publisher: Internet Archive
+  source_url: https://archive.org/details/sacredbookseast13mulluoft
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1881, US public domain. The Mahavagga opens with the enlightenment
+    narrative and first sermons; extraction should prioritize narrative over disciplinary
+    rule lists.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- vinaya
+- mahavagga
+- enlightenment_narrative
+- first_sermon
+- sangha
+motifs:
+- awakening_under_the_tree
+- hesitation_to_teach
+- serpent_king_shelter
+- first_disciples_conversion
+figures:
+- Buddha
+- Mucalinda
+- Yasa
+- Bimbisara
+---
+
 # Vinaya Texts, Part I: The Patimokkha, The Mahavagga I-IV (Sacred Books of the East, Vol. 13)
 INTRODUCTION
 

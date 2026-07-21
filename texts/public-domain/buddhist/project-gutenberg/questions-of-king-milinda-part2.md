@@ -1,3 +1,65 @@
+---
+id: buddhist.milinda_2.sbe36.rhys_davids_archive
+title: The Questions of King Milinda, Part II (Sacred Books of the East, Vol. 36)
+alternate_titles:
+- Milinda Panha
+- Milindapanha
+text_status: complete
+tradition: buddhist
+culture: indo_greek_buddhist_dialogue_later_translation
+region: south_asia
+source_language: Pali
+text_language: English
+date_range: dialogue composed c. 100 BCE-200 CE; Rhys Davids translation published
+  1894
+source_type: text
+provenance:
+  source_id: source.internet_archive.questionsofkingm02davi
+  edition: Internet Archive full-text OCR (_djvu.txt) of the Oxford Clarendon Press
+    1894 edition, Sacred Books of the East vol. 36
+  translator: T. W. Rhys Davids
+  editor: F. Max Muller
+  publication_year: 1894
+  publisher: Internet Archive
+  source_url: https://archive.org/details/questionsofkingm02davi
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1894, US public domain. Completes the dialogue including the dilemmas
+    and the similes of arahatship.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- milinda
+- nagasena
+- dilemmas
+- arahatship
+- buddhist_philosophy
+motifs:
+- paradox_resolution_dialogue
+- qualities_of_the_liberated
+- merit_and_karma_debate
+figures:
+- Milinda
+- Nagasena
+---
+
 # The Questions of King Milinda, Part II (Sacred Books of the East, Vol. 36)
 
 INTRODUCTION.

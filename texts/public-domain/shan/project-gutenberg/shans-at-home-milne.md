@@ -1,3 +1,64 @@
+---
+id: shan.shans_at_home.milne_archive
+title: Shans at Home, With Two Chapters on Shan History and Literature
+alternate_titles:
+- Shans at Home
+text_status: complete
+tradition: shan
+culture: shan_tai_buddhist_folk_tradition_colonial_era_collection
+region: southeast_asia_burma
+source_language: Shan (Tai)
+text_language: English
+date_range: oral tradition and folklore recorded c. 1906-1909; published 1910
+source_type: text
+provenance:
+  source_id: source.internet_archive.shansathomewitht00milnrich
+  edition: Internet Archive full-text OCR (_djvu.txt) of the John Murray 1910 edition
+    by Leslie Milne (University of California scan)
+  translator: Leslie Milne
+  editor: ''
+  publication_year: 1910
+  publisher: Internet Archive
+  source_url: https://archive.org/details/shansathomewitht00milnrich
+  access_date: '2026-07-18'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1910, US public domain. Ethnographic study with embedded folk tales,
+    spirit beliefs, and ceremonies; extraction should target the folklore, cosmology,
+    and rite-of-passage chapters and treat ethnographic framing as apparatus.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- shan
+- burma
+- nat_spirits
+- tai_folklore
+- buddhist_folk_practice
+motifs:
+- spirit_propitiation
+- soul_calling_ritual
+- omen_reading
+- merit_making
+figures:
+- nats
+---
+
 # Shans at Home, With Two Chapters on Shan History and Literature
 INTRODUCTION
 
