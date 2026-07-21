@@ -1,0 +1,28 @@
+{
+  "// note": "Excludes keep VS Code fast on this large repo. These dirs are build output, deps, or bulk generated data — none are your editable source. Safe to change.",
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true,
+    "**/site-next/node_modules/**": true,
+    "**/site-next/dist/**": true,
+    "**/site-next/.vercel/**": true,
+    "**/site-next/.cache/**": true,
+    "**/data/batches/**": true,
+    "**/extractions/**": true,
+    "**/imports/converted/**": true
+  },
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/site-next/dist": true,
+    "**/site-next/.vercel": true,
+    "**/site-next/.cache": true,
+    "**/data/batches": true,
+    "**/extractions": true,
+    "**/imports/converted": true,
+    "**/comparisons/motif-index.md": true
+  },
+  "files.exclude": {
+    "**/site-next/dist": true,
+    "**/site-next/.cache": true
+  }
+}
