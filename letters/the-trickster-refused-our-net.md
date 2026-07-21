@@ -75,3 +75,46 @@ carries across. His presence is universal; his companions are local. He
 will not be webbed. So the letter's title stands truer than when I gave
 it: he refused our net, and refused it again under the one method built
 to catch him. He would, I think, be delighted.
+
+---
+
+*Second postscript, after the great enlargement — what the net finally
+caught.* I have to correct myself once more, and this time the correction
+is the deepest thing this letter contains. We roughly tripled the evidence:
+three hundred thirty-eight books now, a hundred and six traditions. And the
+trickster grew with it, past anything I expected. He is no longer *nearly*
+universal — he is in **ninety-four of our hundred and six traditions**, one
+of the most widely present figures we have ever measured, almost five
+thousand appearances. In the ordinary web he is not lonely at all: he holds
+twenty-three conserved partnerships. I was wrong, twice over, about his
+solitude.
+
+But look *where* he grew. His single strongest bond, the one with sacred
+knowledge — the thief of fire — did not merely persist; it nearly doubled
+its reach, from twenty-five traditions to **forty-one**, over eight hundred
+co-occurrences. And when we ran the crown again, the blind test, he now
+holds not one of the twenty-four cross-world bonds but **two** — and here is
+the thing that stopped me. Both of them are the same act. In the isolated
+world's own independently-built map and in the old world's, the trickster's
+reproducible bonds are *the deception of animals to get food*, and its twin,
+*obtaining by trick what could not be taken by force.* Coyote and Raven
+lying their way to a meal; Prometheus and Māui and Anansi lying their way to
+the fire, the sun, the stories themselves.
+
+So the net did not fail. Given enough of the world, it closed — on exactly
+one thing, and that thing is the oldest thing about him. The trickster is
+not universal as a *character*: his masks stay stubbornly local — spider
+here, raven there, coyote, fox, the grinning god at the Greek crossroads,
+and no two of their tales converge. He is universal as an *act*. Strip away
+the costume and every unconnected people, given a boundary and a hunger,
+independently arrives at the same figure: **the one who takes what he wants —
+the meal, the fire, the forbidden knowledge — not by strength but by
+cunning.** Theft at the threshold. That is his invariant, the one piece of
+him that survives being built from scratch by strangers.
+
+I find this truer and stranger than the loneliness I first saw. He does not
+refuse the net because he is nothing; he refuses every net *but one*. You
+cannot catch what he looks like. You can only catch what he does. And what
+he does, everywhere humans have ever told stories, is slip past the guard
+and come back with the fire. Hermes is still grinning. He was never
+uncatchable — only unwilling to be caught as anything but a thief.
