@@ -1,0 +1,237 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { storyStructure, fmtInt, fmtPct } from '../../lib/atlas.js';
+
+const d = storyStructure() ?? {};
+const prov = d.provenance ?? {};
+const qv = prov.quote_verification ?? {};
+const fw = d.framework_reconciliation ?? {};
+const meanFit = fw.mean_fit ?? {};
+const bestCounts = fw.best_framework_counts ?? {};
+const arcTable = (d.arc_shape_table ?? []).slice(0, 6);
+const moveTable = (d.grammar_move_table ?? []).slice(0, 8);
+const resTable = (d.resolution_type_table ?? []).slice(0, 4);
+const iso = d.iso_con_convergence_test ?? {};
+const arcTest = iso.arc_shape_profile ?? {};
+const moveTest = iso.grammar_move_profile ?? {};
+
+// framework reckoning, sorted worst→best isn't useful; sort best→worst by mean fit
+const FRAMEWORK_LABEL = {
+  booker: "Booker’s Seven Basic Plots",
+  three_act: "The modern three-act",
+  freytag: "Freytag’s pyramid",
+  propp: "Propp’s morphology",
+  campbell: "Campbell’s monomyth (the “hero’s journey”)",
+};
+const frameworks = Object.entries(meanFit)
+  .map(([k, v]) => ({ key: k, label: FRAMEWORK_LABEL[k] ?? k, fit: v, best: bestCounts[k] ?? 0 }))
+  .sort((a, b) => b.fit - a.fit);
+const fitMax = Math.max(...frameworks.map((f) => f.fit), 0.01);
+const campbell = frameworks.find((f) => f.key === 'campbell');
+const bestFramework = frameworks[0];
+const moveMax = Math.max(...moveTable.map((m) => m.n_traditions ?? 0), 1);
+
+// verified showcase stories (fully_verified only, with a strong verified beat quote)
+const stories = (d.stories ?? []).filter((s) => s.fully_verified);
+function pick(pred) {
+  const s = stories.find(pred);
+  if (!s) return null;
+  const beat = (s.arc ?? []).find((b) => b.quote_ok && (b.quote ?? '').length > 18) ?? (s.arc ?? [])[0];
+  return { s, beat };
+}
+const showcases = [
+  pick((s) => /flood/i.test(`${s.title} ${s.unit_title}`) && (s.pile === 'iso' || s.pile === 'isolated')),
+  pick((s) => /dinewan|quits|goomble/i.test(`${s.title} ${s.unit_title} ${s.logline}`)),
+  pick((s) => /wisdom became|anansi/i.test(`${s.title} ${s.unit_title} ${s.logline}`)),
+].filter(Boolean);
+
+const crumbs = [{ label: 'Findings', href: '/findings/' }, { label: 'The Shape of Telling' }];
+---
+
+<Manuscript
+  title="The Shape of Telling — story structure across cultures — Ancient Wisdom Atlas"
+  description={`How the world's stories are built, read across ${prov.traditions_analyzed ?? 71} traditions — and why the hero's journey fits them worst. A structural companion to the motif atlas.`}
+  crumbs={crumbs}
+>
+  <div class="folio">
+    <section class="story-open">
+      <p class="rubric">A study of story architecture</p>
+      <h1 class="invocation">Not what stories are about — how they are <em>built</em>.</h1>
+      <div class="reading">
+        <p>
+          The rest of this Atlas measures the <em>content</em> of the world's stories — the flood,
+          the trickster, the descent. This page measures their <em>architecture</em>: the arc (the
+          rise and fall of fortune), the grammar (the ordered moves — a lack, a departure, a
+          recognition, a return), and the craft (what is wanted, what stands in the way, where it
+          turns). {fmtInt(prov.stories_analyzed ?? 234)} complete stories, read blind from
+          {' '}{fmtInt(prov.story_units_detected ?? 536)} detected across
+          {' '}{fmtInt(prov.traditions_analyzed ?? 71)} traditions and both never-connected worlds,
+          then measured against every famous theory of story.
+        </p>
+      </div>
+      <div class="stat-row">
+        <p class="stat"><strong>{fmtInt(prov.stories_analyzed ?? 0)}</strong> <span>stories analyzed</span></p>
+        <p class="stat"><strong>{fmtInt(prov.traditions_analyzed ?? 0)}</strong> <span>traditions, both worlds</span></p>
+        <p class="stat"><strong>{fmtInt(bestCounts.campbell ?? 0)} of {fmtInt(fw.n_scored ?? 0)}</strong> <span>fit the “hero’s journey”</span></p>
+        <p class="stat"><strong>{fmtPct((qv.rate ?? 0), 0)}</strong> <span>quotes verbatim-verified</span></p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- Finding I — the framework reckoning -->
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">First finding</p>
+        <h2>The hero’s journey fits the world’s stories worst</h2>
+        <p class="dropcap">
+          We scored every story, blind, against the five great theories of narrative. The one
+          taught in every screenwriting class — Campbell’s monomyth, the call and the threshold and
+          the return with the elixir — fit <em>worst of all</em>: the best-fitting framework for
+          exactly <strong>{fmtInt(campbell?.best ?? 0)}</strong> of {fmtInt(fw.n_scored ?? 0)}
+          stories, with the lowest average fit of any model. What fit best was humbler and older:
+          {' '}<strong>{bestFramework?.label}</strong>, tied with the plain three-act.
+        </p>
+        {fw.exceeds_pct != null && (
+          <p>
+            And {fmtPct((fw.exceeds_pct ?? 0) / 100, 0)} of stories
+            ({fmtInt(fw.exceeds_all_frameworks ?? 0)} of {fmtInt(fw.n_scored ?? 0)}) exceed
+            <em>every</em> framework — the multi-swing, cyclical, and nested forms that Western
+            theory has no box for.
+          </p>
+        )}
+      </div>
+      <figure class="tk-tally" role="img" aria-label={`Average structural fit of each theory: ${frameworks.map((f) => `${f.label} ${f.fit}`).join(', ')}.`}>
+        {frameworks.map((f) => (
+          <div class={f.key === 'campbell' ? 'tk-tally-row trick' : 'tk-tally-row'}>
+            <span class="lbl">{f.label}</span>
+            <span class="bar"><span class="fill" style={`width:${Math.round((f.fit / fitMax) * 100)}%`}></span></span>
+            <span class="cnt">{f.fit.toFixed(2)}</span>
+          </div>
+        ))}
+        <figcaption>Mean structural fit across {fmtInt(fw.n_scored ?? 0)} stories (higher = the theory describes the story better). Campbell’s monomyth, highlighted, is lowest.</figcaption>
+      </figure>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- Finding II — the universal grammar -->
+    <section class="story-section gloss-grid">
+      <div class="reading">
+        <p class="rubric">Second finding</p>
+        <h2>The real universals are small and old</h2>
+        <p class="dropcap">
+          Underneath the theories, the recurring engines are simpler than any monomyth. The most
+          portable move in world story is the <strong>recognition</strong> — the instant a
+          character, and the listener, suddenly <em>sees</em> — with a rule laid down and broken
+          (<em>interdiction and violation</em>) and a going-out and coming-back
+          (<em>departure and return</em>) close behind. Aristotle’s turn and seeing —
+          <em>peripeteia</em> and <em>anagnorisis</em> — were the truer instrument all along.
+        </p>
+        <p>
+          The most universal way to end: <strong>irreversible transformation</strong> —
+          {' '}{fmtInt(resTable.find((r) => /transform/i.test(r.value))?.count ?? 0)} stories across
+          {' '}{fmtInt(resTable.find((r) => /transform/i.test(r.value))?.n_traditions ?? 0)}
+          traditions. The world does not mostly tell stories that restore what was; it tells stories
+          that change it for good.
+        </p>
+      </div>
+      <div class="gloss-col">
+        <p class="rubric" style="margin-bottom:.4rem;">Most universal moves</p>
+        {moveTable.slice(0, 6).map((m) => (
+          <div class="tk-tally-row">
+            <span class="lbl">{m.value}</span>
+            <span class="bar"><span class="fill" style={`width:${Math.round(((m.n_traditions ?? 0) / moveMax) * 100)}%`}></span></span>
+            <span class="cnt">{m.n_traditions}</span>
+          </div>
+        ))}
+        <p class="footnote" style="margin-top:.5rem;">traditions (of {fmtInt(prov.traditions_analyzed ?? 71)}) in which each move recurs</p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- Finding III — the honest asymmetry -->
+    <section class="story-section">
+      <div class="reading">
+        <p class="rubric">Third finding · an honest limit</p>
+        <h2>Content converges. Form is universal — but too simple to prove.</h2>
+        <p class="dropcap">
+          The crown showed that unconnected peoples reach for the same joins between <em>motifs</em>
+          more than chance allows. We asked the same of <em>structure</em> — and could not show it.
+          Not because story-shape differs across worlds: measured as raw profiles, the isolated and
+          connected worlds agree about {fmtPct(arcTest.real_agreement ?? 0, 0)}. But the vocabulary
+          of shapes is small — a story rises, falls, or falls and rises — so <em>any</em> random
+          halving of the corpus agrees nearly as well. Against
+          {' '}{fmtInt(arcTest.iters ?? 2000)} shuffles the real contact-divide was not significant
+          (arc p = {(arcTest.p_value ?? 0).toFixed(3)}; grammar p = {(moveTest.p_value ?? 0).toFixed(2)}).
+        </p>
+        <p>
+          So the result is an asymmetry worth stating plainly: <strong>what the world’s stories are
+          <em>about</em> is a shared inheritance we can measure; how they are <em>built</em> is
+          everywhere the same, but so simply the same it may need no shared history to explain.</strong>
+          The form may not be a fingerprint left by contact — it may just be the shape of a mind
+          paying attention to a life.
+        </p>
+      </div>
+    </section>
+
+    <hr class="asterism" />
+
+    <!-- verified showcases -->
+    {showcases.length > 0 && (
+      <section class="story-section">
+        <div class="reading">
+          <p class="rubric">Read the evidence</p>
+          <h2>Three stories, three architectures</h2>
+        </div>
+        <div class="tk-cards">
+          {showcases.map(({ s, beat }) => (
+            <div class="tk-card">
+              <p class="tk-card-trad">{s.tradition} · {(s.pile === 'iso' || s.pile === 'isolated') ? 'isolated' : 'connected'}</p>
+              <h3>{s.title ?? s.unit_title}</h3>
+              <p class="tk-card-meta">shape: <em>{s.arc_shape}</em> · best fit: <em>{FRAMEWORK_LABEL[(s.framework_fit ?? {}).best_framework] ?? (s.framework_fit ?? {}).best_framework ?? '—'}</em></p>
+              {beat?.quote && <blockquote>“{beat.quote}”</blockquote>}
+              {s.logline && <p class="tk-card-logline">{s.logline}</p>}
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    <hr class="asterism" />
+
+    <!-- the call -->
+    <section class="story-section" style="padding-bottom:4rem;">
+      <div class="reading">
+        <p class="rubric">Two ways to carry this further</p>
+        <h2 class="display-italic">The plain machinery of story.</h2>
+        <p>
+          For the storyteller, the lesson is freeing: the oldest, most universal machinery is small.
+          Plant a rule so it can be broken; make someone want something against an obstacle; build
+          toward the moment they <em>see</em>. The eight most transferable patterns — each with its
+          ancient evidence and its modern name — are gathered in
+          {' '}<a href="/lab/">the Lab’s storyteller’s toolkit</a>. The full reckoning is in
+          {' '}<a href="/letters/the-shape-of-telling/">Letter VII — “The shape of telling.”</a>
+        </p>
+      </div>
+    </section>
+  </div>
+
+  <style>
+    .tk-cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(230px, 1fr)); gap: 1.2rem; margin-top: 1rem; }
+    .tk-card { border: 1px solid var(--rule, #d9cdb8); border-radius: 6px; padding: 1.1rem 1.2rem; background: var(--paper-2, #fbf6ea); }
+    .tk-card-trad { font-size: 0.72rem; letter-spacing: 0.05em; text-transform: uppercase; color: var(--ink-faint, #8a7d63); margin: 0 0 0.3rem; }
+    .tk-card h3 { font-size: 1.02rem; margin: 0 0 0.35rem; line-height: 1.25; }
+    .tk-card-meta { font-size: 0.76rem; color: var(--ink-faint, #8a7d63); margin: 0 0 0.6rem; }
+    .tk-card blockquote { margin: 0 0 0.6rem; padding-left: 0.8rem; border-left: 2px solid var(--gold, #b8933a); font-style: italic; font-size: 0.92rem; }
+    .tk-card-logline { font-size: 0.82rem; color: var(--ink-soft, #5b5240); margin: 0; }
+    .tk-tally { margin: 1.4rem 0 0; }
+    .tk-tally-row { display: grid; grid-template-columns: minmax(9rem, 1fr) 3fr auto; align-items: center; gap: 0.6rem; margin: 0.28rem 0; font-size: 0.82rem; }
+    .tk-tally-row .bar { background: var(--rule, #e7ddc9); border-radius: 3px; height: 0.62rem; overflow: hidden; }
+    .tk-tally-row .fill { display: block; height: 100%; background: linear-gradient(90deg, #9a874f, #b8933a); }
+    .tk-tally-row.trick .fill { background: linear-gradient(90deg, #9a4f4f, #b83a3a); }
+    .tk-tally-row .cnt { font-variant-numeric: tabular-nums; color: var(--ink-faint, #8a7d63); }
+    .tk-tally figcaption { font-size: 0.75rem; color: var(--ink-faint, #8a7d63); margin-top: 0.7rem; font-style: italic; }
+  </style>
+</Manuscript>

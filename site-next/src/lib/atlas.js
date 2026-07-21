@@ -122,6 +122,10 @@ export function crownExperiment() {
   return loadYaml('indexes/crown-independent-taxonomy.yml');
 }
 
+export function storyStructure() {
+  return loadYaml('indexes/story-structure.yml');
+}
+
 /**
  * The live cross-model trickster experiment, if it has been written yet.
  * Returns the parsed doc from data/reviews/trickster-model-comparison.yml,
