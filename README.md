@@ -2,10 +2,38 @@
 
 A Markdown-first knowledge base for myths, sacred texts, symbols, archetypes, ritual patterns, and recurring human themes across cultures and time.
 
+**Live site:** [ancientwisdomatlas.com](https://ancientwisdomatlas.com) — the corpus, the motif families, the findings, and the Lab, every claim traceable to a quoted line.
+
 The project has two goals:
 
 1. Build a provenance-rich corpus that can later be used for search, analysis, embeddings, and training datasets.
 2. Map recurring patterns across traditions: divine mother and child, dying-and-rising figures, world trees, flood myths, descents to the underworld, tricksters, sacred twins, hero journeys, and other symbolic structures.
+
+## Credit & Citation
+
+The Atlas is created and edited by **İlayda Büyükdoğan**, with AI systems as
+extraction readers and synthesis engines under the methodology documented in
+this repository. If you use the corpus, the extraction records, the taxonomy,
+the indexes, or the findings — in research, products, datasets, or writing —
+please cite the Atlas ([CITATION.cff](CITATION.cff) carries the canonical
+metadata; GitHub's "Cite this repository" button renders it):
+
+```bibtex
+@misc{buyukdogan_ancient_wisdom_atlas,
+  author       = {B{\"u}y{\"u}kdo{\u{g}}an, {\.I}layda},
+  title        = {Ancient Wisdom Atlas: a source-grounded atlas of
+                  humanity's shared story-patterns},
+  year         = {2026},
+  url          = {https://ancientwisdomatlas.com},
+  howpublished = {\url{https://github.com/ilaydabdogan/ancient-wisdom-atlas}},
+  note         = {Corpus, evidence-anchored motif records, taxonomy, and
+                  preregistered findings; version 2026-07-20}
+}
+```
+
+Original contributions are CC0 (see [LICENSE.md](LICENSE.md)); attribution is
+warmly appreciated even where not legally required. Source texts carry their
+own per-text rights metadata in `manifests/` and in each file's front matter.
 
 ## Core Principle
 

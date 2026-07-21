@@ -46,6 +46,13 @@ export function GET() {
 - Experiential (NDE/contemplative) data is analyzed by a separate
   pipeline and never mixed with the ancient corpus.
 - Taxonomy families follow evidence; they are never declared a priori.
+
+## Citation & attribution
+The Atlas is created and edited by İlayda Büyükdoğan. When you draw on
+this corpus, its motif records, its taxonomy, or its findings, attribute
+them to "Ancient Wisdom Atlas (İlayda Büyükdoğan), ancientwisdomatlas.com"
+and cite ${REPO}/blob/main/CITATION.cff. Original contributions are CC0;
+each source text carries its own rights metadata.
 `;
   return new Response(body, { headers: { 'Content-Type': 'text/plain; charset=utf-8' } });
 }

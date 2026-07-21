@@ -6,7 +6,7 @@ import {
   corpusStats,
   constellations,
   nullModel,
-  isolatedPredictionTest,
+  crownExperiment,
   replicationAgreement,
   sequenceGrammar,
   earliestAttestation,
@@ -21,7 +21,15 @@ const stats = corpusStats();
 const constDoc = constellations();
 const web = (constDoc.constellations ?? [])[0];
 const nullDoc = nullModel();
-const iso = isolatedPredictionTest();
+const crown = crownExperiment();
+const crownPrimary =
+  (crown.results ?? []).find((r) => r.k === crown.primary_k) ?? (crown.results ?? [])[0];
+const crownLift = crownPrimary
+  ? (crownPrimary.reproduction / crownPrimary.null_mean).toFixed(2)
+  : null;
+const crownFinest = (crown.results ?? []).slice().sort((a, b) => b.k - a.k)[0];
+const crownFinestKs = crownFinest?.degree_ks_p;
+const crownBondCount = (crownPrimary?.matched_bonds ?? []).length;
 const rep = replicationAgreement();
 const seq = sequenceGrammar();
 const first = earliestAttestation();
@@ -32,7 +40,6 @@ const meanAgreement =
   pairs.reduce((a, p) => a + (p.mean_canonical_jaccard ?? 0), 0) / (pairs.length || 1);
 
 const firstYear = first ? Math.abs(first.year) : null;
-const holdoutLineages = iso.holdout?.lineages ?? [];
 const survivors = seq.survivors ?? [];
 const dissolvedCount = seq.strongPairCount - survivors.length;
 // Flagship survivor: the ordering chance had the hardest time writing.
@@ -157,32 +164,41 @@ const flagship = survivors.slice().sort((a, b) => b.consistency - a.consistency)
 
     <hr class="asterism" />
 
-    <!-- ✦ Finding II: the preregistered test ------------------------- -->
+    <!-- ✦ Finding II: the crown (preregistered) ---------------------- -->
     <section class="story-section gloss-grid">
       <div class="reading">
-        <p class="rubric">Second finding · preregistered</p>
-        <h2>The isolated lineages already knew</h2>
+        <p class="rubric">Second finding · preregistered · the crown</p>
+        <h2>Two worlds that never met, one architecture</h2>
         <p class="dropcap">
-          The sharpest test the atlas has run: learn the web from
-          {fmtInt(iso.training?.traditions?.length)} connected Old World traditions, write
-          the predictions down first, then open {fmtInt(holdoutLineages.length)} held-out
-          lineages with little or no historical contact with that world —
-          {holdoutLineages.slice(0, 5).map(humanize).join(', ')}, and others.
+          The sharpest test the atlas has run. Split the corpus into the connected Old
+          World and the lineages that never traded a word with it — the Dreamtime, the
+          Arctic, the Amazon, the Americas. Let each world sort its own
+          motifs into families <em>blind</em>, from nothing but their likeness to one
+          another — no reference to the atlas's families, or to the other world. Then ask
+          whether the two independently-drawn webs of story share a shape.
         </p>
         <p>
-          The isolated lineages reproduced {fmtPct(iso.result?.reproduction_rate)} of the
-          trained web, where chance manages {fmtPct(iso.result?.null_mean)}. The observed
-          rate beat all {iso.result?.permutations_beaten?.split('/')[1] ?? ''} permutations
-          ({iso.result?.permutations_beaten}); the best shuffle ever achieved was
-          {' '}{fmtPct(iso.result?.null_max)}. The preregistered verdict:
-          <span class="verdict">{iso.result?.verdict}</span>
+          At the preregistered resolution the isolated world's bonds re-form in the
+          connected world's web {fmtPct(crownPrimary?.reproduction)} of the time, where
+          chance manages {fmtPct(crownPrimary?.null_mean)} — and the observed rate beat
+          all {crownPrimary?.permutations_beaten} shuffles, at every resolution tried.
+          The two webs are, by their degree structure, the same kind of shape
+          (KS p = {crownFinestKs}). The preregistered verdict:
+          <span class="verdict">{crown.verdict}</span>
+        </p>
+        <p class="footnote">
+          Full method, the {fmtInt(crownBondCount)} named cross-world bonds, and the
+          preregistration are on <a href="/crown/">the Crown page</a>. An earlier
+          mapping-based version of this test is preserved in <a href="/lab/">the Lab</a>
+          with its leakage flag — superseded by this design, and kept on the shelf,
+          because the atlas keeps its corrections next to its findings.
         </p>
       </div>
       <div class="gloss-col">
-        <p class="gloss"><strong>{fmtPct(iso.result?.reproduction_rate)}</strong> reproduced by isolated lineages</p>
-        <p class="gloss"><strong>{fmtPct(iso.result?.null_mean)}</strong> expected by chance</p>
-        <p class="gloss"><strong>{iso.result?.permutations_beaten}</strong> permutations beaten</p>
-        <p class="gloss"><strong>×{iso.result?.lift}</strong> lift over the null</p>
+        <p class="gloss"><strong>{fmtPct(crownPrimary?.reproduction)}</strong> of bonds re-form across worlds</p>
+        <p class="gloss"><strong>{fmtPct(crownPrimary?.null_mean)}</strong> expected by chance</p>
+        <p class="gloss"><strong>{crownPrimary?.permutations_beaten}</strong> permutations beaten</p>
+        <p class="gloss"><strong>×{crownLift}</strong> lift over the null</p>
       </div>
     </section>
 

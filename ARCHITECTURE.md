@@ -17,9 +17,20 @@ preregistered tests, permutation nulls, and every claim traceable to a quoted li
 
 - **Live site:** https://ancientwisdomatlas.com (Astro static site in `site-next/`,
   deployed to Vercel project `atlas-manuscript`).
-- **Corpus now:** 338 public-domain texts, 105 traditions, ~45,600 evidence-anchored
-  extraction records, 222k raw motifs → 44 curated canonical families.
+- **Corpus now:** 338 public-domain texts, 106 traditions, ~52,600 evidence-anchored
+  extraction records, ~256k raw motifs → the curated family layer below.
 - **Flagship result (the "North Star"):** the *crown experiment* — see §6.
+
+**The family counts, disambiguated** (three layers answer "how many families?"):
+- `taxonomy/motifs.yml` — **44 curated motif families**, the original hand-named layer.
+- `taxonomy/motif-normalization.yml` — **65 canonical motif groups**, the working
+  normalization layer (children + aliases). One (`_meta_textual`) is meta-apparatus,
+  so the site displays **64**. Universality claims are made at this level.
+- `taxonomy/experiential-motif-families.yml` — **28 experiential families**, authored
+  from the NDE/contemplative/psychedelic seed corpus; never merged with the ancient
+  taxonomy (compared only in `data/indexes/cross-corpus-taxonomy-comparison.yml`).
+- The crown's k=40/64/90 are **blind KMeans clusters**, not any of these families —
+  that independence is what makes the crown assimilation-immune.
 
 ---
 
@@ -42,8 +53,10 @@ SUB-FAMILY      "theft of celestial light"   (intermediate grouping)
   │  assign     nearest canonical centroid, gated by a reader model
   ▼
 CANONICAL       sacred_knowledge / theft-of-fire
-FAMILY          44 human-named families in taxonomy/motifs.yml. Universality is
-  │             claimed at THIS level, never at the raw-motif level.
+FAMILY          the curated family layer (44 families in taxonomy/motifs.yml;
+  │             65 canonical groups, 64 non-meta, in motif-normalization.yml —
+  │             see §1). Universality is claimed at THIS level, never at the
+  │             raw-motif level.
   │  count
   ▼
 OCCURRENCE      family × tradition × passage   → what the findings actually measure
@@ -137,13 +150,14 @@ The strongest, assimilation-immune test. Full method in
 - Align the two webs by optimal centroid assignment and ask: **what fraction of one
   world's bonds re-form in the other's**, vs a 500-permutation null?
 
-**Current result (enlarged corpus):** verdict **STRONG**. k=64 reproduction 0.494 vs
-0.357 chance (1.38×), 500/500 permutations beaten; k=40 0.574, k=90 0.508. Only 111
-of 215,254 labels are shared between the two worlds' vocabularies, so the webs are
-genuinely independent. Honest caveats (k=64 dipped from 0.544 as the corpus grew
-lopsidedly; k=90 topology KS slipped to p=0.036) are recorded in the index and in
-`letters/what-happened-to-the-north-star.md`. **The rule: publish whichever way the
-number moves.**
+**Current result (final rebalanced corpus, 2026-07-20):** verdict **STRONG**.
+Reproduction 0.577 / 0.525 / 0.541 at k=40/64/90 vs chance ~0.355–0.372; 500/500
+permutations beaten at every k; degree-topology KS p = 0.77 / 0.42 / 0.99. Only 151
+of ~249,000 labels are shared between the two worlds' vocabularies, so the webs are
+genuinely independent. The middle run's dip (k=64 0.544 → 0.494 when the corpus grew
+lopsidedly) and its recovery after wave-9 rebalancing (→ 0.525) are recorded in the
+index and in `letters/what-happened-to-the-north-star.md`. **The rule: publish
+whichever way the number moves.**
 
 To re-run after a corpus change: `crown_prep_records.rb` → `build_crown_label_embed_prep.rb`
 → embed the labels → `crown_analysis.py`.
