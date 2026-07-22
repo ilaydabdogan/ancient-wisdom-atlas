@@ -20,10 +20,12 @@ patterns as often as they kept them; so should you.
 | [The Grief-Worker's Toolkit](grief-workers-toolkit.md) | counselors, chaplains, hospice workers, celebrants | death-and-return, mourning, and continuing-bond families; the experiential bridge (with its own caveat) |
 | [The World-Builder's Toolkit](world-builders-toolkit.md) | authors and designers building cosmologies | axis mundi, world ages, the two-layer sky, number dialects |
 | [The Teacher's Toolkit](teachers-toolkit.md) | teachers, parents, mentors | the exchange↔knowledge circuit (Letter I), interdiction pedagogy, teaching chains |
+| [The Jungian's Toolkit](jungians-toolkit.md) | analysts, therapists, students of depth psychology | the crown, the family layer, sacred numbers, the trickster, the experiential bridge — verdicts on Jung's claims, including one refutation and one untestable |
 | [The Pattern-Finder's Toolkit](pattern-finders-toolkit.md) | researchers, analysts, digital humanists | the Atlas's own epistemics: blind taxonomies, prominence-vs-commonness, publish-the-dip |
+| [The Campbellian's Toolkit](campbellians-toolkit.md) | writers and teachers raised on the hero's journey | the monomyth measured: stage-by-stage KEEP / KEEP-WITH-CORRECTION / RELEASE verdicts |
 
 **Provenance.** The Storyteller's Toolkit was produced by the story-structure
-expedition (gpt-5.6-sol, 2026-07-21). The other six were assembled from the
+expedition (gpt-5.6-sol, 2026-07-21). The others were assembled from the
 Atlas's indexes and evidence records by Claude (Anthropic) on 2026-07-21,
 each with per-quote verbatim verification against canonical source lines;
 their assembly notes are in each file's footer. All quotes come from
