@@ -114,6 +114,10 @@ See [docs/first-500-corpus.md](docs/first-500-corpus.md) for the first large col
 
 See [TEXTS.md](TEXTS.md) for a generated checklist of every complete Markdown source text already included and every first-500 planned unit still unchecked.
 
+## The Toolkits
+
+See [docs/toolkits.md](docs/toolkits.md) for seven evidence-grounded craft toolkits — for storytellers, ritual-makers, speechwriters, game designers, grief workers, world-builders, and teachers. Every pattern carries a measured frequency from the indexes and a verbatim quote verified against a public-domain source line.
+
 ## Pattern Logic
 
 See [docs/pattern-discovery-logic.md](docs/pattern-discovery-logic.md) for how themes, symbols, motifs, and comparisons should be extracted and scored.

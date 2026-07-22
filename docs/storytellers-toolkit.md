@@ -46,7 +46,7 @@ stated rule is a loaded spring: the moment it's named, the audience waits for th
 break.
 
 - **Ancient evidence** (Greco-Roman, connected): Psyche is forbidden to look on
-  her husband; she lifts the lamp, and Eros "spread his wings, flew away" (L4896)
+  her husband; she lifts the lamp, and Eros, "spreading out his wings, flew away" (L4895-4896)
   — the taboo broken, paradise lost in one line. *Myths and Legends of Ancient
   Greece and Rome.*
 - **Modern name:** the "theme stated" / plant-and-payoff; Chekhov's gun; the
