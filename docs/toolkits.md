@@ -20,6 +20,7 @@ patterns as often as they kept them; so should you.
 | [The Grief-Worker's Toolkit](grief-workers-toolkit.md) | counselors, chaplains, hospice workers, celebrants | death-and-return, mourning, and continuing-bond families; the experiential bridge (with its own caveat) |
 | [The World-Builder's Toolkit](world-builders-toolkit.md) | authors and designers building cosmologies | axis mundi, world ages, the two-layer sky, number dialects |
 | [The Teacher's Toolkit](teachers-toolkit.md) | teachers, parents, mentors | the exchange↔knowledge circuit (Letter I), interdiction pedagogy, teaching chains |
+| [The Pattern-Finder's Toolkit](pattern-finders-toolkit.md) | researchers, analysts, digital humanists | the Atlas's own epistemics: blind taxonomies, prominence-vs-commonness, publish-the-dip |
 
 **Provenance.** The Storyteller's Toolkit was produced by the story-structure
 expedition (gpt-5.6-sol, 2026-07-21). The other six were assembled from the

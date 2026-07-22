@@ -464,6 +464,41 @@ export function letters() {
   return list;
 }
 
+const TOOLKIT_ORDER = [
+  'storytellers', 'ritual-makers', 'speechwriters', 'game-designers',
+  'grief-workers', 'world-builders', 'teachers', 'pattern-finders',
+  'jungians', 'campbellians',
+];
+
+export function toolkits() {
+  const key = '__toolkits__';
+  if (cache.has(key)) return cache.get(key);
+  const dir = path.join(REPO_ROOT, 'docs');
+  const list = [];
+  if (fs.existsSync(dir)) {
+    for (const file of fs.readdirSync(dir).sort()) {
+      if (!file.endsWith('-toolkit.md')) continue;
+      const raw = fs.readFileSync(path.join(dir, file), 'utf8');
+      const lines = raw.split('\n');
+      const h1 = lines.findIndex((l) => l.startsWith('# '));
+      const heading = h1 >= 0 ? lines[h1].slice(2).trim() : file;
+      const [title, subtitle] = heading.split(/\s+—\s+/, 2);
+      list.push({
+        slug: file.replace(/-toolkit\.md$/, ''),
+        title: title.trim(),
+        subtitle: subtitle?.trim() ?? '',
+        body: lines.slice(h1 + 1).join('\n').trim(),
+      });
+    }
+  }
+  list.sort(
+    (a, b) =>
+      (TOOLKIT_ORDER.indexOf(a.slug) + 1 || 999) - (TOOLKIT_ORDER.indexOf(b.slug) + 1 || 999),
+  );
+  cache.set(key, list);
+  return list;
+}
+
 export function humanize(id) {
   return String(id).replace(/[_-]+/g, ' ');
 }

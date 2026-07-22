@@ -1,0 +1,36 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { toolkits } from '../../lib/atlas.js';
+import { renderMarkdown } from '../../lib/reading.js';
+
+export function getStaticPaths() {
+  return toolkits().map((kit) => ({ params: { slug: kit.slug } }));
+}
+
+const { slug } = Astro.params;
+const kit = toolkits().find((k) => k.slug === slug);
+const html = renderMarkdown(kit.body);
+
+const crumbs = [
+  { label: 'Toolkits', href: '/toolkits/' },
+  { label: kit.title },
+];
+---
+
+<Manuscript
+  title={`${kit.title} — Toolkits — Ancient Wisdom Atlas`}
+  description={kit.subtitle || kit.title}
+  crumbs={crumbs}
+>
+  <div class="reader">
+    <header class="letter-head">
+      <p class="rubric">Toolkit</p>
+      <h1>{kit.title}</h1>
+      {kit.subtitle && <p class="gloss">{kit.subtitle}</p>}
+    </header>
+
+    <hr class="asterism" />
+
+    <article class="reading-column letter-body" set:html={html} />
+  </div>
+</Manuscript>

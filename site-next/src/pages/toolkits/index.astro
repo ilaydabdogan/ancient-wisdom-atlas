@@ -1,0 +1,68 @@
+---
+import Manuscript from '../../layouts/Manuscript.astro';
+import { toolkits } from '../../lib/atlas.js';
+
+const kits = toolkits();
+const crumbs = [{ label: 'Toolkits' }];
+---
+
+<Manuscript
+  title="Toolkits — the Atlas's Evidence, for Working Hands — Ancient Wisdom Atlas"
+  description="Evidence-grounded craft toolkits: every pattern carries a measured frequency and a verbatim quote verified against a public-domain source line."
+  crumbs={crumbs}
+>
+  <div class="reader">
+    <header class="letter-head">
+      <p class="rubric">Toolkits · measured patterns, for working hands</p>
+      <h1>The Atlas's evidence, handed to working hands</h1>
+    </header>
+
+    <hr class="asterism" />
+
+    <div class="reading-column">
+      <p class="dropcap">
+        Practical bridges from the Atlas's evidence to modern craft. Each toolkit
+        follows the same discipline: every pattern carries a measured frequency
+        from the indexes — never an assertion — at least one verbatim quote
+        verified line-by-line against a public-domain source, a modern name that
+        connects the ancient pattern to its contemporary vocabulary, and an
+        honest-caveat block stating exactly what the evidence does and does not
+        support. Patterns that could not be verified were dropped, not padded.
+      </p>
+      <p>
+        They are checklists, not formulas. The oldest practitioners broke these
+        patterns as often as they kept them; so should you.
+      </p>
+    </div>
+
+    <hr class="asterism" />
+
+    <nav class="toolkit-list" aria-label="Toolkits">
+      {kits.map((kit) => (
+        <a class="toolkit-card" href={`/toolkits/${kit.slug}/`}>
+          <h2>{kit.title}</h2>
+          {kit.subtitle && <p>{kit.subtitle}</p>}
+        </a>
+      ))}
+    </nav>
+  </div>
+</Manuscript>
+
+<style>
+  .toolkit-list {
+    display: grid;
+    gap: 1rem;
+    margin: 2rem auto;
+    max-width: 44rem;
+  }
+  .toolkit-card {
+    display: block;
+    padding: 1.1rem 1.4rem;
+    border: 1px solid var(--rule, #c9b98a);
+    text-decoration: none;
+    color: inherit;
+  }
+  .toolkit-card:hover h2 { text-decoration: underline; }
+  .toolkit-card h2 { margin: 0 0 0.3rem; font-size: 1.15rem; }
+  .toolkit-card p { margin: 0; opacity: 0.75; font-size: 0.95rem; }
+</style>
